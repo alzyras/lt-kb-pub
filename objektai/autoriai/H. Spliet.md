@@ -42,6 +42,18 @@ media_all_json: |-
 - t-001
   global_id: t-30631
   teiginys: "H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "H. Spliet: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"H. Spliet\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1953 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32939
 
@@ -61,8 +73,13 @@ media_all_json: |-
     dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
     _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
     XIV-XVI a. geležies dirbinių metalografinė analizė,_ AkMD, t. 47, 1974,
-  citata_rodoma: "— Prochaska, A. : _O praw­\ndziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :\n_Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno\nXIV-XVI a."
+  citata_rodoma: |
+    — Prochaska, A. : _O praw­
+    dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
+    _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
+    XIV-XVI a.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,9 @@ Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščioni
 - t-001
   global_id: t-194828
   teiginys: 'Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščionims: „Jūs giriatės, kad tikite amžinomis bausmėmis po mirties, bet ar ne tą patį sa viesiems šalininkams skelbia visi paslapčių žyniai?“ Toks ir ki toks moralės mokslas būdavo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177224
 
@@ -60,8 +63,9 @@ Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščioni
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194828

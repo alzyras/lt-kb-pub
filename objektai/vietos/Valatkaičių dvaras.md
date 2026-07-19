@@ -43,6 +43,10 @@ Valatkaičių dvaras šiame šaltinyje yra dvaras.
 - t-001
   global_id: t-195498
   teiginys: "Valatkaičių dvare buvo žinomi pikti šunys."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177921
 
@@ -57,8 +61,10 @@ Valatkaičių dvaras šiame šaltinyje yra dvaras.
     Žinai, ponaiti, kad elgeta su šuni­
     mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą. Valatkai-
     čių dvare buvo žinomi pikti šunys.
-  citata_rodoma: "Valatkai­čių dvare buvo žinomi pikti šunys."
+  citata_rodoma: |
+    Valatkai­čių dvare buvo žinomi pikti šunys.
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

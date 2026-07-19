@@ -46,6 +46,18 @@ istoriografija, tautos kilmės klausimai
 - t-001
   global_id: t-192132
   teiginys: "Antrojo „Lietuvių tautos istorijos“ tomo įvade „šaknų ieškojimas“ įvardijamas kaip populiari romantinės istoriografijos problema."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "šaknų ieškojimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"šaknų ieškojimas\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175020
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
@@ -69,8 +81,11 @@ istoriografija, tautos kilmės klausimai
     me ir apimtimi jis turėjo nenusileisti pirmam tomui, nes
     nagrinėjo bene populiariausią romantinės istoriografijos
     problemą — „šaknų ieškojimo“ klausimą.
-  citata_rodoma: "nagrinėjo bene populiariausią romantinės istoriografijos\nproblemą — „šaknų ieškojimo“ klausimą."
+  citata_rodoma: |
+    nagrinėjo bene populiariausią romantinės istoriografijos
+    problemą — „šaknų ieškojimo“ klausimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,15 +47,38 @@ Nenurodyta
 - t-001
   global_id: t-189706
   teiginys: "Narbutas aukurus aprašo kaip pakilesnes vietas atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Aukurai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad romėnai statė aukurus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Romėnai pastatė Aukurai (0.87)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172589
-
+    - c-001
 <a id="claim-t-194612"></a>
 - t-002
   global_id: t-194612
   teiginys: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177011
+    - c-002
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189375|Senovės romėnai]]: Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams.
 - susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189673|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas nuolatinės aukos esme laikė niekad negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188277|Lietuviai]]: Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.
@@ -101,8 +124,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189706
 - c-002
   santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -118,8 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194612
 ## Citatos
 
 - id: c-172589
@@ -140,14 +161,24 @@ Nenurodyta
     dabartiniame Kadyje, buvo Heraklio, vadinamo Gadiečiu,
     šventykla, į kurią moterims buvo nevalia įžengti; joje nebuvo
     jokios statulos, net paties Heraklio.
-  citata_rodoma: "Aukurai, ragai (Roha)21 2\nSenovės žmonių aukurai -  tai tam tikro aukščio pakiles­\nnės vietos atviroje aikštėje, miškuose arba šventykloje, netu­\nrinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­\nvo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
+  citata_rodoma: |
+    Aukurai, ragai (Roha)21 2
+    Senovės žmonių aukurai -  tai tam tikro aukščio pakiles­
+    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
+    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
+    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189706
-
 - id: c-177011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -163,13 +194,18 @@ Nenurodyta
     Lietuvių stabų dievai, be abejo, turėjo būti daugiausia tos
     seniausios mados; daugumas dievų, deivių ir dievaičių net ne­
     turėjo jokių stabų.
-  citata_rodoma: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų\ndievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų\ndeivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo\nPerkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­\nlos“."
+  citata_rodoma: |
+    Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų
+    dievams, -  tai matėme iš straipsnio „Ganiklis“. Apie panašų
+    deivės Velionos aukurą kalbėsime straipsnyje „Kapai“. Dievo
+    Perkūno šventyklos aukurą aprašysime straipsnyje „Šventyk­
+    los“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194612
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Graikai]], [[objektai/grupes/Senovės romėnai]]

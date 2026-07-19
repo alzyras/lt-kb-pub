@@ -63,6 +63,16 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - t-001
   global_id: t-47944
   teiginys: "Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautinė sąmonė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautinė sąmonė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32689
 
@@ -70,6 +80,16 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - t-002
   global_id: t-47945
   teiginys: "Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tautinė sąmonė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautinė sąmonė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05597
 - susijęs iš [[objektai/posakiai/vardan tos Lietuvos.md#claim-t-36022|vardan tos Lietuvos]]: Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.
@@ -90,12 +110,12 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
     dėtai karčios kritikos^59.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47945
-
 - id: c-32689
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -110,8 +130,15 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
     Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
     dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
-  citata_rodoma: "Stryjkovskis ne­\ngalėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri\nteišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose\npas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris\nStryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­\ndotas »^20 nuoširdžiai persiėmė Lietuvos reikalais."
+  citata_rodoma: |
+    Stryjkovskis ne­
+    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
+    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
+    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
+    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
+    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

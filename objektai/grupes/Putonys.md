@@ -33,6 +33,13 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
 - t-001
   global_id: t-189530
   teiginys: "Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172418
 - susijęs iš [[objektai/zodynas/Putonys Puttones.md#claim-t-189322|Putonys Puttones]]: Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones.
@@ -52,6 +59,7 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
     niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
     sutaikyti priešus ir susipykusius bet kurio luomo žmones.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

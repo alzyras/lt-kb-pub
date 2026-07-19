@@ -40,6 +40,20 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - t-001
   global_id: t-60446
   teiginys: "Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Hertvigas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Hertvigas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Tomas buvo Hertvigo sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Tomas (Hertvigo iš Pokarvių sūnus) mirė Prūsija (0.65)"
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija."
   pagrindžia:
     - c-61078
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191114|Adomas Stanislovas Naruševičius]]: Naruševičius savo „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.
@@ -764,7 +778,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje
 
       1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
@@ -776,8 +790,21 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
 
         123.
-  citata_rodoma: "Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­\n                                 mėje\n\n  1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo\niš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus\natskalą, kurią kadaise čia buvo atgabenęs brolis Flekenšteinas iš Reino krašto, o brolis\nGebhardas iš Manstfeldo vieną kartą įmetęs į ugnį, iš kurios ši iššokusi daugelio žmonių\nakyse, parodydama, jog esanti tikra atskala kryžiaus, ant kurio kabojęs Kristus.\n\n\n\n    123."
+  citata_rodoma: |
+    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+                                     mėje
+
+      1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
+    iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus
+    atskalą, kurią kadaise čia buvo atgabenęs brolis Flekenšteinas iš Reino krašto, o brolis
+    Gebhardas iš Manstfeldo vieną kartą įmetęs į ugnį, iš kurios ši iššokusi daugelio žmonių
+    akyse, parodydama, jog esanti tikra atskala kryžiaus, ant kurio kabojęs Kristus.
+
+
+
+        123.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - t-001
   global_id: t-60693
   teiginys: "Dąbrowski J. parašė darbą „Dawne dziejopisarstwo“."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61325
 
@@ -46,6 +49,7 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
     80  Dlugossii J. Annales..., lib. VI, VII et VIII, IX; Długosz J. Roczniki..., ks. 1—2, s.
     43—47 (W. Semkowicz-Zarembina); Dąbrowski J. Dawne dziejopisarstwo..., s. 217, 227.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

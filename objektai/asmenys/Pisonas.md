@@ -33,6 +33,19 @@ Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su V
 - t-001
   global_id: t-186248
   teiginys: "Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pisonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pisono sustojimas Vilniuje tiesiogiai rodo jo kelionės vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169609
 
@@ -63,8 +76,20 @@ Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su V
     jus, žodžiu pažadėjęs jam ati­
     duoti Smolenską ir šitaip atsilyginti už paramą, nė
     nesirengė to daryti.
-  citata_rodoma: "Pašaukęs į karo žygį beveik \nvisus bajorus, galinčius pakelti ginklą, sutraukęs visų \npilių įgulas, prisisamdęs svetimšalių algininkų, jis iš­\nžygiavo prieš Žygimantą su šimtu tūkstančiu karių. \nPrie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­\ndešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­\ndešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc- \nką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­\nčią į priekį kariuomenę sustabdė žinia, jog karalius \nŽygimantas prie Borisovo su trisdešimt tūkstančių rink­\ntinių karių įkūrė stovyklą."
+  citata_rodoma: |
+    Pašaukęs į karo žygį beveik
+    visus bajorus, galinčius pakelti ginklą, sutraukęs visų
+    pilių įgulas, prisisamdęs svetimšalių algininkų, jis iš­
+    žygiavo prieš Žygimantą su šimtu tūkstančiu karių.
+    Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
+    dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
+    dešimt tūkstančių, įsakydamas, užėmus Oršą bei Druc-
+    ką, traukti tiesiai į Lietuvos sostinę Vilnių. Žygiuojan­
+    čią į priekį kariuomenę sustabdė žinia, jog karalius
+    Žygimantas prie Borisovo su trisdešimt tūkstančių rink­
+    tinių karių įkūrė stovyklą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

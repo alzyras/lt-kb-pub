@@ -40,6 +40,20 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
 - t-001
   global_id: t-34291
   teiginys: "Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Dobrogostas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Urbonas VI: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Popiežius Urbonas VI tiesiogiai įgaliojo Dobrogostą tvarkyti bažnytinius reikalus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Urbonas VI paskyrė Dobrogostas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė yra OCR fragmentas; citata leidžia suformuluoti aiškų faktą apie brevę."
   pagrindžia:
     - c-35516
 
@@ -58,6 +72,7 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
     nius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją pavedant
     ją Gniezno arkivyskupo valdžiai^1 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

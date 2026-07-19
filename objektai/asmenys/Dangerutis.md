@@ -33,6 +33,13 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
 - t-001
   global_id: t-194826
   teiginys: "Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas, žynys."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177222
 
@@ -52,6 +59,7 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
     kalaviju, kurio iš jo neatėmė pagerbdami jo luomą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

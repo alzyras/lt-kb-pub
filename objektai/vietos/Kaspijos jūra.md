@@ -33,6 +33,13 @@ media_all_json: |-
 - t-001
   global_id: t-194933
   teiginys: "Šioms tolimos senovės epo choms priskirtina ir kolchų tauta, nors ji gerokai vėliau už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan čius į šiaurę nuo Kaspijos ir Juodosios jūrų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177329
 
@@ -53,6 +60,7 @@ media_all_json: |-
     Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
     mybės ribų pažymėti nėra galimybių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

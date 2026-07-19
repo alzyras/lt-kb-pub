@@ -59,6 +59,19 @@ Nenurodyta
 - t-001
   global_id: t-31422
   teiginys: "1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai vykdė Junigėdos puolimą, kurį reprezentuoja savininko įvykis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.) (0.86); Kryžiuočių ordinas užėmė Mederaba (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33397
 
@@ -75,8 +88,14 @@ Nenurodyta
     ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-  citata_rodoma: "1291 buvo pulta,\nDusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315\nten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta\npilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24."
+  citata_rodoma: |
+    1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

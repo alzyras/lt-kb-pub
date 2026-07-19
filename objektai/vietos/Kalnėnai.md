@@ -39,6 +39,14 @@ Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuo�
 - t-001
   global_id: t-189006
   teiginys: 'Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuoštos blindės matė besimeldžiančias ir besikalbančias moteris.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas vietos kontekstas ir pirmasis asmuo pakeistas Narbuto liudijimu. Nepridėta platesnių išvadų apie apeigų kilmę ar reikšmę.'
+  susije_objektai: 'mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1805 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleistas vietos kontekstas ir pirmasis asmuo pakeistas Narbuto liudijimu. Nepridėta platesnių išvadų apie apeigų kilmę ar reikšmę.'
   pagrindžia:
     - c-171895
 
@@ -63,8 +71,9 @@ Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuo�
     buvo keliolika ištekėjusių moterų: vienos meldėsi, kitos, sėdė­
     damos ant dirvono, šnekėjosi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189006

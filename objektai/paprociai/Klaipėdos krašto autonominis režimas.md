@@ -59,6 +59,19 @@ Nenurodyta
 - t-001
   global_id: t-67119
   teiginys: "Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> statutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Klaipėdos krašto autonominis režimas (kraštas): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "statutas: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdos krašto autonominis režimas (kraštas)\" parinktas kaip owner_note_path. Targetas \"statutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67148
 
@@ -66,6 +79,17 @@ Nenurodyta
 - t-002
   global_id: t-67120
   teiginys: "Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klaipėdos kraštas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Klaipėdos kraštą kaip Lietuvos valstybės dalį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Klaipėdos kraštas priklausė Lietuva (0.93)"
   pagrindžia:
     - c-67145
 
@@ -82,14 +106,18 @@ Nenurodyta
     čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
     o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
     bernatorius.
-  citata_rodoma: "Nuo to laiko Klaipėdos kraštas yra negin-\nčijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,\no respublikos vyriausybei ten atstovauja prezidento skiriamas gu-\nbernatorius."
+  citata_rodoma: |
+    Nuo to laiko Klaipėdos kraštas yra negin-
+    čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
+    o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
+    bernatorius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67120
-
 - id: c-67148
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,8 +139,14 @@ Nenurodyta
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: "Antroji dalis yra priedėlis, kuris išdėsto au-\ntonominį statutą, būtent apibrėžia vietinių organų kompetenciją,\nnustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,\nsantykius tarp teismo organų, dviejų kalbų oficialumą, finansinius\natsiskaitymus ir paties statuto keitimo procedūrą."
+  citata_rodoma: |
+    Antroji dalis yra priedėlis, kuris išdėsto au-
+    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
+    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
+    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
+    atsiskaitymus ir paties statuto keitimo procedūrą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

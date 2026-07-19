@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kauno pilies 5000 karių įgulai, pasak Daukanto, vadovavo narsiu laikytas Kęstučio sūnus Vaidotas; Kęstutis su Algirdu atėjo pilies gelbėti, bet po trijų dienų kovos kryžėjai įveikė lietuvius.
+Jau ketino pačią pilį apgulti, kuri didžiai stipriai aptverta turėjo 5000 įgulės, kurios pilės vyru, arba kamendotu, bu vo narsus Vaidotas, /sūnus Kęstučio, kurią jis su tokia kantrybe ir narsybe gyniojo, jog kryžėjai ne galėjo viltis veikiai įsilaušią.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -38,19 +38,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201463"></a>
+<a id="claim-t-201266"></a>
 - t-001
-  global_id: t-201463
-  teiginys: "Kauno pilies 5000 karių įgulai, pasak Daukanto, vadovavo narsiu laikytas Kęstučio sūnus Vaidotas; Kęstutis su Algirdu atėjo pilies gelbėti, bet po trijų dienų kovos kryžėjai įveikė lietuvius."
+  global_id: t-201266
+  teiginys: "Jau ketino pačią pilį apgulti, kuri didžiai stipriai aptverta turėjo 5000 įgulės, kurios pilės vyru, arba kamendotu, bu vo narsus Vaidotas, /sūnus Kęstučio, kurią jis su tokia kantrybe ir narsybe gyniojo, jog kryžėjai ne galėjo viltis veikiai įsilaušią."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184813
+    - c-184616
 
 ## Citatos
 
-- id: c-184813
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 618"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 618."
+- id: c-184616
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau ketino pačią
     pilį apgulti, kuri didžiai stipriai aptverta turėjo
@@ -66,8 +71,9 @@ Nenurodyta
     trečiąją dieną, atėjus pačiam mistrui su paskujais
     pulkais, tenuveikę lietuvius.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201463
+    - t-201266

@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-194802
   teiginys: "Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau giausia buvo plonų monetų, visos vienodo antspaudo; dviejų rūšių storosios sudarė pusę viso radinio svorio; sidabras aukš- 31 Dėl Santvaro atvaizdo buvo įvairiausių nuomonių."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177198
 
@@ -70,6 +77,7 @@ Nenurodyta
     jog kažkur Lietuvoje arba Lietuvos Rusioje buvo fabrikas, gaminęs to­
     kios rūšies popierių. Taigi galėjo panašus egzistuoti nuo seno.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

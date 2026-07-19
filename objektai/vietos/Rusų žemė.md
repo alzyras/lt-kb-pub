@@ -42,6 +42,18 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 - t-001
   global_id: t-187312
   teiginys: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "valde_teritorija -> Rusų žemė: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusų žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad Rusų žemė buvo Vytautui duota ir jis siekė ją pasilaikyti."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170349
 
@@ -49,13 +61,25 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 - t-002
   global_id: t-194035
   teiginys: "Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176655
 
-<a id="claim-t-194036"></a>
+<a id="claim-t-187312"></a>
 - t-003
-  global_id: t-194036
+  global_id: t-905856634
   teiginys: "Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170349
 
@@ -84,15 +108,19 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 
     vanodami ir didelę duoklę duodami jam ne tik kiek­
     vienais melais, bet ir kiekvieną dieną.
-  citata_rodoma: "Ir aš prašiau kunigaikštį Jogailą raštų bei\nprivilegijų dėl tų žemių, kurias jis man buvo davęs,\ndėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" ,\nkad aš ją galėčiau pasilaikyti."
+  citata_rodoma: |
+    Ir aš prašiau kunigaikštį Jogailą raštų bei
+    privilegijų dėl tų žemių, kurias jis man buvo davęs,
+    dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" ,
+    kad aš ją galėčiau pasilaikyti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187312
-    - t-194036
-
+    - t-003
 - id: c-176655
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -111,8 +139,19 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     Dar daugiau: jie suėmė mano bajorus be mano sutiki­
     mo, kankino juos vandeniu, apkalė geležimis ir metė
     juos į požemius, ir visa tai prieš mano valią.
-  citata_rodoma: "Paskui atvyko kunigaikštis Algirdas prie Vilniaus \npas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių, \nkadangi jis (Algirdas) buvo jo vyriausias brolis, atida­\nvė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo \njie viską pusiau, pasižadėdami vienas kitam, ką įsigys \nkitose žemėse, visa dalytis pusiau. Kai Rusų žemėje pa­\nėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy­\nveno vienas su kitu labai sutardami.\nIr po to mūsų dėdė kunigaikštis Algirdas mirė, o \nkunigaikštis Jogaila tebebuvo jaunas."
+  citata_rodoma: |
+    Paskui atvyko kunigaikštis Algirdas prie Vilniaus
+    pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,
+    kadangi jis (Algirdas) buvo jo vyriausias brolis, atida­
+    vė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo
+    jie viską pusiau, pasižadėdami vienas kitam, ką įsigys
+    kitose žemėse, visa dalytis pusiau. Kai Rusų žemėje pa­
+    ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy­
+    veno vienas su kitu labai sutardami.
+    Ir po to mūsų dėdė kunigaikštis Algirdas mirė, o
+    kunigaikštis Jogaila tebebuvo jaunas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

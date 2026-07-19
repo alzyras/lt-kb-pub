@@ -51,6 +51,10 @@ Nenurodyta
 - t-001
   global_id: t-195326
   teiginys: "Maža medinė javų vėtymo priemonė."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177715
 
@@ -74,8 +78,10 @@ Nenurodyta
     atsisėdęs prie krūvos ant žemos
     kaladėlės,
     grūdus bėrė maža medine vėtykliuke.
-  citata_rodoma: "Vėtė javus žmogus atsisėdęs prie krūvos ant žemos kaladėlės, grūdus bėrė maža medine vėtykliuke."
+  citata_rodoma: |
+    Vėtė javus žmogus atsisėdęs prie krūvos ant žemos kaladėlės, grūdus bėrė maža medine vėtykliuke.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

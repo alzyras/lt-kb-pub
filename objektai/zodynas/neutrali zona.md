@@ -40,6 +40,12 @@ media_all_json: |-
 - t-001
   global_id: t-42482
   teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1939 m.; įvykio data: 1923 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data."
   pagrindžia:
     - c-45535
 
@@ -72,8 +78,28 @@ media_all_json: |-
     trali zona buvo panaikinta, jos viduriu
     nustatyta demarkacinė linija, galiojusi iki
     1939 m. Prasidėjo pasikeitimas belaisviais.
-  citata_rodoma: "0)\n\ne\n4 G: „Želva\nJs\n\nnk Seta”\nva\n\nD r\n\nSOKOLKA gė\n\nVV\n\nsiena\nstatyta 6 km pločio neu-\ntrali zona, abi pusės turėjo\npasitraukti atgal po 3 km. 1923 m."
+  citata_rodoma: |
+    0)
+
+    e
+    4 G: „Želva
+    Js
+
+    nk Seta”
+    va
+
+    D r
+
+    SOKOLKA gė
+
+    VV
+
+    siena
+    statyta 6 km pločio neu-
+    trali zona, abi pusės turėjo
+    pasitraukti atgal po 3 km. 1923 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

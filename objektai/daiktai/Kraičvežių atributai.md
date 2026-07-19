@@ -61,6 +61,10 @@ Nenurodyta
 - t-001
   global_id: t-195345
   teiginys: "Sudėtinis vestuvinių kraičvežių kostiumo ir vaidybos atributų rinkinys."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177749
 
@@ -82,8 +86,12 @@ Nenurodyta
     žai, visoki pasaitai, pentinai, vis išdabinti stučkomis, vis sudaro juo­
     kingai išdidų vaizdą. Tam panaši ir jų kalba: esą plunksnų pirkliai,
     perką kur geras plunksnas ir pūkus.
-  citata_rodoma: "Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­\nnės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­\nnėmis skiedromis."
+  citata_rodoma: |
+    Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­
+    nės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­
+    nėmis skiedromis.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

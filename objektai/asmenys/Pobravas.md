@@ -33,6 +33,17 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - t-001
   global_id: t-60414
   teiginys: "Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Notangai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pobravas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys nurodo Pobravą veikus kartu su notangais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pobravas buvo sąjungininkas su Notangai (0.88); Pobravas buvo sąjungininkas su Varmiai (0.88); Pobravas siuntė į Baiga (0.81)"
   pagrindžia:
     - c-167504
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
@@ -62,11 +73,11 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
     nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
     140 (135).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60414
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Notangai]]

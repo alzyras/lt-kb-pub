@@ -52,6 +52,17 @@ Nenurodyta
 - t-001
   global_id: t-01848
   teiginys: "Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus konferencija (1917 m. rugsėjo 18–22 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-02085
 - susijęs iš [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.).md#claim-t-01591|Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]: 1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.
@@ -75,8 +86,12 @@ Nenurodyta
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
     tautinių mažumų atstovai.
-  citata_rodoma: "Konferencijos sudarytai programai vykdyti buvo išrinkta\nTaryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti\ntautinių mažumų atstovai."
+  citata_rodoma: |
+    Konferencijos sudarytai programai vykdyti buvo išrinkta
+    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
+    tautinių mažumų atstovai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

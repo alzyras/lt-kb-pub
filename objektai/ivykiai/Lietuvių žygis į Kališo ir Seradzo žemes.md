@@ -45,9 +45,22 @@ Nenurodyta
 - t-001
   global_id: t-185812
   teiginys: "Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių žygis į Kališo ir Seradzo žemes: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygis į Kališo ir Seradzo žemes\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169173
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Spalio mėnesį lietuviai nusiaubė Kališo ir Seradzo žemes ir be pasipriešinimo grįžo namo su grobiu.'
@@ -71,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185812
 ## Citatos
 
 - id: c-169173
@@ -101,8 +113,21 @@ Nenurodyta
     šdami priešą nukamuoti nuo­
     latiniais grobikiškais antpuo­
     liais, smarkiai nusiaubė Sembos žemę.
-  citata_rodoma: "Kryžiuočiams puldinėjant gretimus Žemaitijos\nkaimus, lietuviai su savo nuolatiniu, galima sakyti,\nnaminiu priešu šitaip kariavo: kai šie nusiaubdavo jų\ntėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.\nSpalio mėnesį Lenkijoje nusiaubę Kališo ir Seradzo\nžemes, sugrįžo prisiplėšę grobio namo be kovos su ne­\npatyrusią nuostolių kariuomene, kadangi niekur nesu­\ntiko pasipriešinimo. Iš rusų šaltinių žinome, kad tais\npačiais metais buvo Rusioje užkariautas Polockas, ta­\nčiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,\nnors rašytojai aiškiai sako, jog šis miestas gerokai anks­\nčiau su visa sritimi buvo prijungtas prie Lietuvos."
+  citata_rodoma: |
+    Kryžiuočiams puldinėjant gretimus Žemaitijos
+    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
+    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
+    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+    Spalio mėnesį Lenkijoje nusiaubę Kališo ir Seradzo
+    žemes, sugrįžo prisiplėšę grobio namo be kovos su ne­
+    patyrusią nuostolių kariuomene, kadangi niekur nesu­
+    tiko pasipriešinimo. Iš rusų šaltinių žinome, kad tais
+    pačiais metais buvo Rusioje užkariautas Polockas, ta­
+    čiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,
+    nors rašytojai aiškiai sako, jog šis miestas gerokai anks­
+    čiau su visa sritimi buvo prijungtas prie Lietuvos.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

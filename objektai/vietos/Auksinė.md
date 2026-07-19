@@ -39,6 +39,19 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - t-001
   global_id: t-58517
   teiginys: "Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1576 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir atitinka citatos informaciją."
   pagrindžia:
     - c-59149
 
@@ -46,6 +59,16 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - t-002
   global_id: t-58518
   teiginys: "Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59150
 - susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-191108|Povilas Juozapas Safaržykas]]: Povilas Juozapas Safaržykas minėjo Vienos Imperatoriškajame Senienų kabinete saugotą auksinę taurę kaip seniausią jazigų pėdsaką.
@@ -94,12 +117,12 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     Auksinės upės, yra vienintelė Nadruvoje mums žinoma vieta, kurioje matome Kriv- ir
     Rom- kompleksą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58517
-
 - id: c-59150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -111,8 +134,14 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
     gyvūnas), galbūt ir Auksinės upės vardas.
     Taigi su pagonišku kultu sietųsi buv.
-  citata_rodoma: "Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės\ndeš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,\nPriegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas\nreliginių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros\ngyvūnas), galbūt ir Auksinės upės vardas."
+  citata_rodoma: |
+    Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
+    deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,
+    Priegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas
+    religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
+    gyvūnas), galbūt ir Auksinės upės vardas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

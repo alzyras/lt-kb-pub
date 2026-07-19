@@ -33,6 +33,10 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
 - t-001
   global_id: t-70339
   teiginys: "Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-69380
 
@@ -48,8 +52,11 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
     kur lietuvių vaikų yra nedaug, jie visi eina į latviškas mokyklas.
     Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
     vėja.
-  citata_rodoma: "Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-\nvėja."
+  citata_rodoma: |
+    Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
+    vėja.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

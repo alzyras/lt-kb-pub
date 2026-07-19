@@ -33,9 +33,16 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
 - t-001
   global_id: t-189336
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172223
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį.'
@@ -52,8 +59,7 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189336
 ## Citatos
 
 - id: c-172223
@@ -74,8 +80,14 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
     jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
     leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
     būtų priskirta nelaimingam jo perėjimui per kelią.
-  citata_rodoma: "Trotytojas kibirkščių (Trotitas-Kirbixtu)\nPasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats\npavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo\ndievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­\npei*."
+  citata_rodoma: |
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

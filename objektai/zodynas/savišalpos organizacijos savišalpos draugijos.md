@@ -33,6 +33,9 @@ media_all_json: |-
 - t-001
   global_id: t-70324
   teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69367
 
@@ -40,6 +43,9 @@ media_all_json: |-
 - t-002
   global_id: t-70325
   teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69368
 
@@ -57,14 +63,17 @@ media_all_json: |-
 
     niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
     ryti kokį nors verslą (biznį).
-  citata_rodoma: "Tai vietinės smulkios draugijos, kurios daž-\nniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-\nryti kokį nors verslą (biznį)."
+  citata_rodoma: |
+    Tai vietinės smulkios draugijos, kurios daž-
+    niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
+    ryti kokį nors verslą (biznį).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70324
-
 - id: c-69368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -76,8 +85,12 @@ media_all_json: |-
     būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: "Čia, be to, dar prieškariniais laikais buvo\nsmulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių\nskaičius į Argentiną atvyko dar XIX amž. gale."
+  citata_rodoma: |
+    Čia, be to, dar prieškariniais laikais buvo
+    smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
+    skaičius į Argentiną atvyko dar XIX amž. gale.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

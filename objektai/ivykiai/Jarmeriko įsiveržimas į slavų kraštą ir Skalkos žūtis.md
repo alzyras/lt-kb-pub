@@ -46,6 +46,21 @@ Nenurodyta
 - t-001
   global_id: t-191064
   teiginys: "Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Venedai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Venedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skalką kaip venedų karalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Skalka buvo valdovas Venedai (0.90); Jarmerikas puolė Slavai (0.90); Jarmerikas surengė žygį į Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis (0.90); Jarmerikas kariavo prieš Skalka (0.80)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173946
 
@@ -53,6 +68,12 @@ Nenurodyta
 - t-002
   global_id: t-197542
   teiginys: "Tačiau Jarmeriko įniršiui to nepakako."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173946
 
@@ -71,12 +92,12 @@ Nenurodyta
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191064
     - t-197542
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Jarmerikas]]

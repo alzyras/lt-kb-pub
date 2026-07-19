@@ -61,6 +61,10 @@ Mokslo draugija.
 - t-001
   global_id: t-195502
   teiginys: "1900–1909 m. A. R. Niemis buvo Suomių literatūros draugijos sekretorius."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177927
 
@@ -68,6 +72,10 @@ Mokslo draugija.
 - t-002
   global_id: t-195503
   teiginys: "Nuo 1897 m. A. R. Niemis šaltinyje priskiriamas prie Suomių literatūros draugijai priklausiusių mokslo draugijų narių."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177926
 - susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
@@ -93,14 +101,15 @@ Mokslo draugija.
     žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai:
     Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo
     dr-jos narys korespondentas.
-  citata_rodoma: "Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas."
+  citata_rodoma: |
+    Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195503
-
 - id: c-177927
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -113,8 +122,10 @@ Mokslo draugija.
     1900— 1909 me­
     tais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių litera­
     tūros draugijos sekretorium.
-  citata_rodoma: "1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium."
+  citata_rodoma: |
+    1900—1909 metais buvo šiemet atšventusios 100 metų savo gyvavimą Suomių literatūros draugijos sekretorium.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

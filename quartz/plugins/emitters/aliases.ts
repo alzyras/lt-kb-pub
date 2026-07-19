@@ -1,4 +1,10 @@
-import { FullSlug, isRelativeURL, joinSegments, simplifySlug } from "../../util/path"
+import {
+  FullSlug,
+  isRelativeURL,
+  joinSegments,
+  simplifySlug,
+  slugCollisionKey,
+} from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -7,6 +13,13 @@ import path from "path"
 
 const MAX_SEGMENT_BYTES = 240
 const TRAILING_PARENTHETICAL = /-\([^)]{1,120}\)$/
+const LEGACY_CANONICAL_REDIRECTS: Array<[FullSlug, FullSlug]> = [
+  ["objektai/asmenys/Vytautas-Didysis" as FullSlug, "objektai/asmenys/Vytautas" as FullSlug],
+  [
+    "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti" as FullSlug,
+    "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti-(DULR)" as FullSlug,
+  ],
+]
 
 function hasOverlongSegment(slug: FullSlug): boolean {
   return String(slug)
@@ -65,6 +78,7 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
       <head>
       <title>${toSlug}</title>
       <link rel="canonical" href="${canonicalUrl}">
+      <meta name="robots" content="noindex,follow">
       <meta charset="utf-8">
       <meta http-equiv="refresh" content="0; url=${redirUrl}">
       </head>
@@ -73,6 +87,10 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
     slug: fromSlug,
     ext: ".html",
   })
+}
+
+function collidesWithCanonicalSlug(slug: FullSlug, ctx: BuildCtx): boolean {
+  return ctx.allSlugs.some((canonicalSlug) => slugCollisionKey(canonicalSlug) === slugCollisionKey(slug))
 }
 
 function generatedAliasCandidates(ogSlug: FullSlug): FullSlug[] {
@@ -97,14 +115,14 @@ function generatedAliasCandidates(ogSlug: FullSlug): FullSlug[] {
 }
 
 function buildGeneratedAliasIndex(content: [unknown, VFile][]) {
-  const canonicalSlugs = new Set<FullSlug>()
-  const explicitAliasSlugs = new Set<FullSlug>()
+  const canonicalSlugs = new Set<string>()
+  const explicitAliasSlugs = new Set<string>()
   const candidates = new Map<FullSlug, Set<FullSlug>>()
 
   for (const [_tree, file] of content) {
     const ogSlug = file.data.slug as FullSlug | undefined
     if (!ogSlug) continue
-    canonicalSlugs.add(ogSlug)
+    canonicalSlugs.add(slugCollisionKey(ogSlug))
 
     for (const aliasTarget of file.data.aliases ?? []) {
       const aliasTargetSlug = (
@@ -112,7 +130,7 @@ function buildGeneratedAliasIndex(content: [unknown, VFile][]) {
           ? path.normalize(path.join(ogSlug, "..", aliasTarget))
           : aliasTarget
       ) as FullSlug
-      explicitAliasSlugs.add(aliasTargetSlug)
+      explicitAliasSlugs.add(slugCollisionKey(aliasTargetSlug))
     }
 
     for (const candidate of generatedAliasCandidates(ogSlug)) {
@@ -125,7 +143,11 @@ function buildGeneratedAliasIndex(content: [unknown, VFile][]) {
 
   const safeAliases = new Map<FullSlug, FullSlug>()
   for (const [candidate, targets] of candidates) {
-    if (targets.size !== 1 || canonicalSlugs.has(candidate) || explicitAliasSlugs.has(candidate)) {
+    if (
+      targets.size !== 1 ||
+      canonicalSlugs.has(slugCollisionKey(candidate)) ||
+      explicitAliasSlugs.has(slugCollisionKey(candidate))
+    ) {
       continue
     }
     safeAliases.set(candidate, [...targets][0])
@@ -138,7 +160,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
   const ogSlug = file.data.slug! as FullSlug
   const legacySlug = legacySlugifyFilePath(String(file.data.relativePath ?? ""))
 
-  if (legacySlug && legacySlug !== file.data.slug) {
+  if (legacySlug && legacySlug !== file.data.slug && !collidesWithCanonicalSlug(legacySlug, ctx)) {
     const page = redirectPage(legacySlug, ogSlug, ctx)
     if (page) {
       yield page
@@ -152,6 +174,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         : aliasTarget
     ) as FullSlug
 
+    if (collidesWithCanonicalSlug(aliasTargetSlug, ctx)) continue
     const page = redirectPage(aliasTargetSlug, ogSlug, ctx)
     if (page) {
       yield page
@@ -172,6 +195,11 @@ async function* processGeneratedAliases(ctx: BuildCtx, content: [unknown, VFile]
 export const AliasRedirects: QuartzEmitterPlugin = () => ({
   name: "AliasRedirects",
   async *emit(ctx, content) {
+    for (const [fromSlug, toSlug] of LEGACY_CANONICAL_REDIRECTS) {
+      if (collidesWithCanonicalSlug(fromSlug, ctx)) continue
+      const page = redirectPage(fromSlug, toSlug, ctx)
+      if (page) yield page
+    }
     for (const [_tree, file] of content) {
       yield* processFile(ctx, file)
     }

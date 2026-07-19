@@ -33,6 +33,13 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
 - t-001
   global_id: t-194791
   teiginys: "Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177187
 
@@ -54,6 +61,7 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
     nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui
     atsinešę į Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

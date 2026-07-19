@@ -33,6 +33,11 @@ Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios is
 - t-001
   global_id: t-190520
   teiginys: 'Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios istoriją, sukompiliuotą iš kronikų ir įvairių raštų išrašų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Iš turinio fragmento padarytas vientisas sakinys apie rankraštį. Nepridėta dingusios dalies reikšmės lietuvių mitologijai, nes tam reikėtų atskiros interpretacijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Estija'
   pagrindžia:
     - c-173403
 
@@ -68,8 +73,9 @@ Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios is
     iš to, kas išliko 21-ajame puslapyje, kuris yra paskutinis pir­
     mojoje knygoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190520

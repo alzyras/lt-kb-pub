@@ -33,6 +33,20 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
 - t-001
   global_id: t-191558
   teiginys: "Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų gyvenamąsias vietas ir aprašė jų krašto ribas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Suroveckis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Suroveckis\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174440
 
@@ -40,9 +54,13 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
 - t-002
   global_id: t-191559
   teiginys: 'Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas citatoje nurodytas Suroveckio teiginio turinys apie slavų plėtrą ir budinų kraštus. Atribucija palikta, nes tai Narbuto perteikiama istorinė interpretacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Vysla; mentioned_place: Natangija'
   pagrindžia:
-    - c-174441
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.'
@@ -63,13 +81,12 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
     261
     Natangija (Natangia).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191559
 ## Citatos
 
 - id: c-174440
@@ -93,6 +110,7 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
     kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
     1 De Mor.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

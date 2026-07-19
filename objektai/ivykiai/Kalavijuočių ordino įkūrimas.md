@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-66584
   teiginys: "Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66789
 
@@ -57,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-66585
   teiginys: "Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66788
 
@@ -64,6 +70,9 @@ Nenurodyta
 - t-003
   global_id: t-66586
   teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66787
 
@@ -71,6 +80,9 @@ Nenurodyta
 - t-004
   global_id: t-66587
   teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66786
 
@@ -85,14 +97,17 @@ Nenurodyta
     nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
     Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
     turėjo būti tiktai jo įrankis.
-  citata_rodoma: "Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.\nJis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas\nturėjo būti tiktai jo įrankis."
+  citata_rodoma: |
+    Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
+    Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
+    turėjo būti tiktai jo įrankis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66587
-
 - id: c-66787
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -105,12 +120,12 @@ Nenurodyta
     imtas kraštas, taip buvo sutarta dalytis ir visa, kas dar bus nu-
     kariauta.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66586
-
 - id: c-66788
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -122,12 +137,12 @@ Nenurodyta
     lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
     nas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66585
-
 - id: c-66789
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -140,6 +155,7 @@ Nenurodyta
     balto jų apsiausto raudono kalavijo paprastai vadinamas ka-
     lavijuočių ordinu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

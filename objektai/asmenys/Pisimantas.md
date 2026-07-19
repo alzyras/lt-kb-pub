@@ -34,6 +34,19 @@ media_all_json: |-
 - t-001
   global_id: t-186158
   teiginys: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Liubartas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pisimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Liubartas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo Liubartą ir Pisimantą kaip brolius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169519
 
@@ -41,6 +54,19 @@ media_all_json: |-
 - t-002
   global_id: t-186159
   teiginys: "Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Treniota: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pisimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Treniota: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Pisimantą ir Liubartą vadina Treniotos broliais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169520
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
@@ -72,12 +98,12 @@ media_all_json: |-
     įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
     Livonijos ordinu, nesuteikė beveik jokios pagalbos.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186158
-
 - id: c-169520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -91,12 +117,12 @@ media_all_json: |-
     gęs savo dienas, jis kartu su valdžia perdavė Rimgau­
     dui rūpesčius dėl gresiančio karo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186159
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]]
 - Pisimantas valdė [[objektai/vietos/Turovas]]

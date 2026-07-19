@@ -48,6 +48,9 @@ Nenurodyta
 - t-001
   global_id: t-02002
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02240
 
@@ -55,6 +58,16 @@ Nenurodyta
 - t-002
   global_id: t-02003
   teiginys: "Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pavietų ir vaivadijų bajorų seimeliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pavietų ir vaivadijų bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02241
 
@@ -75,14 +88,21 @@ Nenurodyta
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: "Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t."
+  citata_rodoma: |
+    Vėliau seimeliai
+    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
+    atskirus vardus: priešseiminiuose seimeliuose bū-
+    davo renkami atstovai į seimą; reliaciniuose atstovai,
+    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
+    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
+    dai, ir t. t.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02002
-
 - id: c-02241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -94,6 +114,7 @@ Nenurodyta
     teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
     stovai į seimą ir surašomos jiems instrukcijos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

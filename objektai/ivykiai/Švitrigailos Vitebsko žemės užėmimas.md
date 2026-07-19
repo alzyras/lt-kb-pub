@@ -46,6 +46,20 @@ Nenurodyta
 - t-001
   global_id: t-185681
   teiginys: "Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Vitebskas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švitrigaila užėmė Vitebsko miestą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Švitrigaila užėmė Vitebskas (0.93)"
   pagrindžia:
     - c-169042
 
@@ -53,6 +67,13 @@ Nenurodyta
 - t-002
   global_id: t-196301
   teiginys: "Švitrigaila užėmė Vitebsko miestą ir dvi pilis, o paskui į savo rankas paėmė Oršą ir kraštą tarp Dnepro ir Dauguvos."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169042
 
@@ -87,8 +108,25 @@ Nenurodyta
     mų, bet ir dėl neprieinamos vietos, rusams be kovos
     pasiduodant, o po to į savo rankas paėmė Oršą ir visą
     kraštą tarp Dnepro ir Dauguvos.
-  citata_rodoma: "Nematė ar dėjosi nematąs jai gresiančio\npavojaus ir Vytautas, nelyginant šitai būtų visai sveti­\nmas reikalas. Tad Švitrigaila, būdamas tikras, jog ru­\nsai jam pasiduos, tyliai pa-\nU žim a  V ite b s k o  že-\ntraukė žinomais keliais per\npuolė Vitebską, be didelio vargo užėmė Vitebsko miestą\nir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­\nmų, bet ir dėl neprieinamos vietos, rusams be kovos\npasiduodant, o po to į savo rankas paėmė Oršą ir visą\nkraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­\nkus gavęs žinią apie tuos įvykius, ne tiek pykdamas\ndėl žemės netekimo, kiek dėl nešlovės (mat jam pra­\nnešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­\nvęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė\ndėti karą prieš Vytautą."
+  citata_rodoma: |
+    Nematė ar dėjosi nematąs jai gresiančio
+    pavojaus ir Vytautas, nelyginant šitai būtų visai sveti­
+    mas reikalas. Tad Švitrigaila, būdamas tikras, jog ru­
+    sai jam pasiduos, tyliai pa-
+    U žim a  V ite b s k o  že-
+    traukė žinomais keliais per
+    puolė Vitebską, be didelio vargo užėmė Vitebsko miestą
+    ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­
+    mų, bet ir dėl neprieinamos vietos, rusams be kovos
+    pasiduodant, o po to į savo rankas paėmė Oršą ir visą
+    kraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­
+    kus gavęs žinią apie tuos įvykius, ne tiek pykdamas
+    dėl žemės netekimo, kiek dėl nešlovės (mat jam pra­
+    nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­
+    vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė
+    dėti karą prieš Vytautą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

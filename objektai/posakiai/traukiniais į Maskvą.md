@@ -33,6 +33,16 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
 - t-001
   global_id: t-41476
   teiginys: "Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukštadvaris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "traukiniais į Maskvą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aukštadvaris: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"traukiniais į Maskvą\" parinktas kaip owner_note_path. Targetas \"Aukštadvaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44969
 
@@ -52,8 +62,14 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
     į Vilnių, o iš ten — „traukiniais į Maskvą“.
     Sutemus pulko likučiai susirinko Stakliš-
     kėse ir netrukus pasitraukė į Aukštadvarį.
-  citata_rodoma: "Raudonarmiečiai bėgo plūsdami savo va-\ndovybę ir reikalaudami tuoj pat juos vesti\nį Vilnių, o iš ten — „traukiniais į Maskvą“.\nSutemus pulko likučiai susirinko Stakliš-\nkėse ir netrukus pasitraukė į Aukštadvarį."
+  citata_rodoma: |
+    Raudonarmiečiai bėgo plūsdami savo va-
+    dovybę ir reikalaudami tuoj pat juos vesti
+    į Vilnių, o iš ten — „traukiniais į Maskvą“.
+    Sutemus pulko likučiai susirinko Stakliš-
+    kėse ir netrukus pasitraukė į Aukštadvarį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -72,6 +72,9 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-001
   global_id: t-20821
   teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::customs"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23543
 
@@ -79,6 +82,9 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-002
   global_id: t-20822
   teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::customs"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23544
 
@@ -101,14 +107,15 @@ Nenurodyta
     šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
     pasaulio ekonomikos standartus.
-  citata_rodoma: "tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų"
+  citata_rodoma: |
+    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20821
-
 - id: c-23544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,8 +127,10 @@ Nenurodyta
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto.
-  citata_rodoma: "sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis"
+  citata_rodoma: |
+    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

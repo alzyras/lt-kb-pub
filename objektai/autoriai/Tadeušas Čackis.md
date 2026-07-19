@@ -38,13 +38,34 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 - t-001
   global_id: t-190320
   teiginys: "Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Palanga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadeušas Čackis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Palanga: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadeušas Čackis\" parinktas kaip owner_note_path. Targetas \"Palanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173203
-
+    - c-001
 <a id="claim-t-194674"></a>
 - t-002
   global_id: t-194674
   teiginys: "Tadeušas Čackis buvo ne tik žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo 31 O pravvach."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177071
 
@@ -52,6 +73,12 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 - t-003
   global_id: t-197341
   teiginys: "Tadeušas Čackis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje buvo fabrikas, gaminęs tokios rūšies popierių."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179139
 
@@ -71,8 +98,7 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190320
 ## Citatos
 
 - id: c-173203
@@ -90,14 +116,19 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
     jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
     rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
     kais, kurie padėdavo žmonėms meilės reikaluose.
-  citata_rodoma: "Senoji Palanga buvo išsidėsčiusi kalvos, va­\ndinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­\nlangos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių\nprašomi, 1701 metais visai užvertė Palangos uostą akmenimis\nir griuvenomis, liudija Zaluskis’2."
+  citata_rodoma: |
+    Senoji Palanga buvo išsidėsčiusi kalvos, va­
+    dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
+    langos sunešė jūra, įrodo Čackis31 32. Vėlgi, kad švedai, rygiečių
+    prašomi, 1701 metais visai užvertė Palangos uostą akmenimis
+    ir griuvenomis, liudija Zaluskis’2.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190320
-
 - id: c-177071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -107,12 +138,12 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
     žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo
     31 O pravvach. - T. II. - S. 185 (prierašas Nr. 1543)**.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194674
-
 - id: c-179139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -125,6 +156,7 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
     „ Sotwar“, rusiškai „ Sotworytel“, ir net nemanė jį esant pagonišką simbo­
     lį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

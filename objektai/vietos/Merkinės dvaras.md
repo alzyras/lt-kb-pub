@@ -41,6 +41,18 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - t-001
   global_id: t-43781
   teiginys: "Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės dvaras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės dvaras\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1827 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47107
 
@@ -48,6 +60,18 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - t-002
   global_id: t-43782
   teiginys: "Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Merkinės dvaras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Merkinė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinės dvaras\" parinktas kaip owner_note_path. Targetas \"Merkinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1827 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47106
 
@@ -70,14 +94,25 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     dvaro valstiečių savivaldybės
     kūrėjas († 1827 m.).
     dinga patiems dvarininkams.
-  citata_rodoma: "** Tačiau šiuo\nmetu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato,\nkad valstiečių vergovė ne tik nežmoniška, bet ir nenau-\n\nMerkinės dvaro (prie Turgelių,\nnetoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net\ndavė jiems savivaldybę. Iš dalies atleido nuo baudžiavos kai\nKanauninkas Povilas Bžostauskas,\ndidelis valstiečių globėjas, Paulovo\ndvaro valstiečių savivaldybės\nkūrėjas († 1827 m."
+  citata_rodoma: |
+    ** Tačiau šiuo
+    metu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato,
+    kad valstiečių vergovė ne tik nežmoniška, bet ir nenau-
+
+    Merkinės dvaro (prie Turgelių,
+    netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net
+    davė jiems savivaldybę. Iš dalies atleido nuo baudžiavos kai
+    Kanauninkas Povilas Bžostauskas,
+    didelis valstiečių globėjas, Paulovo
+    dvaro valstiečių savivaldybės
+    kūrėjas († 1827 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43782
-
 - id: c-47107
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -94,8 +129,12 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     Todėl kai kurie iš jų patys savo
     iniciatyva išlaisvino valstiečius,
     sau pasilikdami tik žemę.
-  citata_rodoma: "Merkinės dvaro (prie Turgelių,\nnetoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net\ndavė jiems savivaldybę."
+  citata_rodoma: |
+    Merkinės dvaro (prie Turgelių,
+    netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net
+    davė jiems savivaldybę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

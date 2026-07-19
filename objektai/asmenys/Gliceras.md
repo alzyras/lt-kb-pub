@@ -33,6 +33,20 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - t-001
   global_id: t-191271
   teiginys: "Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Orestas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Orestas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174153
 
@@ -40,9 +54,23 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - t-002
   global_id: t-191950
   teiginys: "Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Italai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gliceras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gliceras\" parinktas kaip owner_note_path. Targetas \"Italai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174832
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės.'
@@ -62,8 +90,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191950
 ## Citatos
 
 - id: c-174153
@@ -81,12 +108,12 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą. Tai įvyko 475 metais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191271
-
 - id: c-174832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -103,8 +130,17 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
     jis užmezgė draugiškus santykius su galingu Afrikos
     vandalų karaliumi Genseriku, iš kurio tam tikromis są­
     lygomis gavo Siciliją.
-  citata_rodoma: "Tačiau, nepaisant viso to,\nOdoakras gavo tai, ko geidė, nors italai nelabai buvo\nlinkę jį remti. Po trejų metų Dalmatijoje šį nominalinį\nmonarchą nužudė atsiųsti Giicero, kurį jis seniau nu­\nvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo\nmetu Rytų rūmai nedviprasmiškai patvirtino Odoakrą\nItalijos vietininku, pavesdami jam visą valdžią ir Dal­\nmatijoje, kurios imperatorius buvo miręs."
+  citata_rodoma: |
+    Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti. Po trejų metų Dalmatijoje šį nominalinį
+    monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
+    vertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

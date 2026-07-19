@@ -41,6 +41,20 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 - t-001
   global_id: t-191283
   teiginys: "Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kimbrai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jokimas Rozencveigas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kimbrai: mention_match, group, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokimas Rozencveigas\" parinktas kaip owner_note_path. Targetas \"Kimbrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174165
 
@@ -48,6 +62,12 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 - t-002
   global_id: t-197761
   teiginys: "Iš to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin gai į egzempliorius, buvusius po ranka Hartknochui ir Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai prieš skaičių 190 pridėtas vienas vienetas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174165
 
@@ -73,6 +93,7 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
     tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
     1 Plutarchus; Sirabo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

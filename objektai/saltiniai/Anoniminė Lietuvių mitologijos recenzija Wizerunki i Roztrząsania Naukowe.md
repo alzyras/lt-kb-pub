@@ -38,6 +38,23 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
 - t-001
   global_id: t-190509
   teiginys: "Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypač didelės, 25 puslapių, apimties recenzija."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kraševskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anoniminė Lietuvių mitologijos recenzija Wizerunki i Roztrząsania Naukowe: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anoniminė Lietuvių mitologijos recenzija Wizerunki i Roztrząsania Naukowe\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1835 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas iš fragmento į pilną teiginį apie anoniminę recenziją. Vertinimas „bene reikšmingiausia“ paliktas atribucine pasyvia forma, o cituotos recenzento motyvacijos neplėstos."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173392
 
@@ -60,6 +77,7 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
     kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
     ba tik visapusiškomis liaupsėmis“19.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

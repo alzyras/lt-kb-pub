@@ -33,6 +33,12 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 - t-002
   global_id: t-197370
   teiginys: "Pirmasis primena jau žinomą pragaro dievą, antrasis užra šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože minis urvas16."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179152
 
@@ -40,9 +46,12 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 - t-001
   global_id: t-189155
   teiginys: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paverstas pilnu sakiniu apie Krūminę ir jos alternatyvius vardus. Mitologinė funkcija išlaikyta su Narbuto atribucija, be papildomų etimologinių išvadų.'
   pagrindžia:
-    - c-172043
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
@@ -60,13 +69,12 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
     kovskis, o deivei.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189155
 ## Citatos
 
 - id: c-179152
@@ -87,6 +95,7 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     mitologijos prasme, - Prozerpina. Taigi medalionas primena
     jos jungtuves su Plutonu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

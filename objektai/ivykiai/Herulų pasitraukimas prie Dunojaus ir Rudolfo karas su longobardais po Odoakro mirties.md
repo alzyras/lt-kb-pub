@@ -45,6 +45,21 @@ Nenurodyta
 - t-001
   global_id: t-191045
   teiginys: "Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Isteris: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad didžiausia herulų dalis pasitraukė prie Dunojaus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Isteris (0.90); Herulai gyveno Rugilandija (0.63); Herulai gyveno Norikas (0.62)"
+  vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-173927
 
@@ -52,6 +67,24 @@ Nenurodyta
 - t-002
   global_id: t-191046
   teiginys: "Narbutas Rudolfą vadina herulų karaliumi arba po Odoakro valdžiusiu vadu ir rašo, kad 493 m. longobardai visiškai sumušė herulus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "dalyvavo_musyje -> Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Herulai tiesiogiai aprašomi kaip longobardų sumušti šiame karo įvykyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai dalyvavo mūšyje Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties (0.82)"
+  temporaliniai_duomenys: "mūšio data: 493 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai dalyvavo mūšyje Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Rudolfo titulavimą ir longobardų pergalę. Valdovo titulo vartosena ir Narbuto formulavimas palikti su atribucija."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173928
 
@@ -59,6 +92,12 @@ Nenurodyta
 - t-003
   global_id: t-197538
   teiginys: "Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo burgundų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173927
 
@@ -66,6 +105,12 @@ Nenurodyta
 - t-004
   global_id: t-197539
   teiginys: "Herulų karalius ar veikiau po Odoakro valdęs vadas Rudolfas neapdairiai pradėjo kariauti su jo tau tiečio vadovaujamais longobardais, kurie dar 493 metais juos visiškai sumušė."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173928
 
@@ -88,13 +133,13 @@ Nenurodyta
     jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
     nėjusi, be to, visiškai negausi, bet pernelyg karinga.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191045
     - t-197538
-
 - id: c-173928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -111,6 +156,7 @@ Nenurodyta
     tę. Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
     jaus vadovaujami, pradėjo kariauti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

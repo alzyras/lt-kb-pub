@@ -51,6 +51,10 @@ Klausiamoji vestuvinė formulė apie merginos statusą.
 - t-001
   global_id: t-195436
   teiginys: "Dainoje klausimu pabrėžiamas jaunosios statusas ir puošyba."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177857
 
@@ -70,8 +74,11 @@ Klausiamoji vestuvinė formulė apie merginos statusą.
     Po vakarienės jaunimui smįagus laikas:
     nauji žmonės, naujos
     pažintys.
-  citata_rodoma: "Ar aš ne pana, ar nevainikuota,\nO mano galva ar nesidabruota?"
+  citata_rodoma: |
+    Ar aš ne pana, ar nevainikuota,
+    O mano galva ar nesidabruota?
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

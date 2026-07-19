@@ -35,6 +35,16 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - t-001
   global_id: t-60395
   teiginys: "Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nodamas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nodamas\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61027
 
@@ -42,6 +52,12 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - t-002
   global_id: t-184807
   teiginys: "Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168168
 
@@ -49,6 +65,20 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - t-003
   global_id: t-184808
   teiginys: "Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nodamas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Nodamas apgaule priviliojo kryžiuočius į pasalą, todėl ryšys yra karinis puolimas prieš kryžiuočius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Nodamas puolė Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-168169
 
@@ -56,6 +86,13 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - t-004
   global_id: t-196575
   teiginys: "Nodamas prie kranto sugriebė laivą ir sulaikė jį, kol iš pasalų subėgę kariai užėmė laivą ir išžudė jo žmones."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168169
 - susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
@@ -77,14 +114,18 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
-  citata_rodoma: "Todėl vienas lietuvis, vardu Nodamas, prityręs\nkarys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė\nšiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,\napsirengęs moteriškais rūbais, atsisėdo ant upės kranto."
+  citata_rodoma: |
+    Todėl vienas lietuvis, vardu Nodamas, prityręs
+    karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė
+    šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
+    apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60395
-
 - id: c-168168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -111,14 +152,31 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     go išgelbėti, nepaliktų šioje vietoje, nes ji arba badu
     mirsianti, arba, jeigu vėl į barbarų rankas pakliūsian-
     ti, nustosianti ir šlovės, ir gyvybės.
-  citata_rodoma: "Vis dėlto jis sušaukė įgulą ir visus para­\ngino sugalvoti kokią gudrybę, kuri leistų padaryti prie­\nšui žalos, nes šiuo metu nesą galimybės panaudoti jė­\ngos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir\nlabai stiprus karys; jis pažadėjo vadui padėti, tegu tik\nkiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad\njie galės ne tik susikauti, bet ir nugalėti. Tiesiai per\nlaukus ir miškus užbėgęs už akių priešams, pamažu\nplaukiantiems prieš vandenį vingiuota upe, toje vie­\ntoje, kur pakrantės slėnyje galybė tankių brūzgynų,\njis paslėpė ginkluotus karius, o pats, persirengęs len­\nke, ėmė, vos išvydęs atplaukiant laivą, verksmingu\nm\n\n## Puslapis 163\n\nbalsu lenkiškai dejuoti."
+  citata_rodoma: |
+    Vis dėlto jis sušaukė įgulą ir visus para­
+    gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
+    šui žalos, nes šiuo metu nesą galimybės panaudoti jė­
+    gos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
+    labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
+    kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
+    jie galės ne tik susikauti, bet ir nugalėti. Tiesiai per
+    laukus ir miškus užbėgęs už akių priešams, pamažu
+    plaukiantiems prieš vandenį vingiuota upe, toje vie­
+    toje, kur pakrantės slėnyje galybė tankių brūzgynų,
+    jis paslėpė ginkluotus karius, o pats, persirengęs len­
+    ke, ėmė, vos išvydęs atplaukiant laivą, verksmingu
+    m
+
+    ## Puslapis 163
+
+    balsu lenkiškai dejuoti.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184807
-
 - id: c-168169
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -140,6 +198,7 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
     Jazbutas neteko viso grobio ir didelės dalies raitelių,
     kurių turėjo penkis šimtus.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

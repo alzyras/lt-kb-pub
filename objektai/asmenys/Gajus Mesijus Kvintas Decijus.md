@@ -33,9 +33,23 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
 - t-001
   global_id: t-191400
   teiginys: "Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Romėnai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad lietuviai kariavo su romėnais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174282
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.'
@@ -67,8 +81,7 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191400
 ## Citatos
 
 - id: c-174282
@@ -100,8 +113,29 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
     nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
-  citata_rodoma: "Juk buvo kariaujama su skandina­\nvais, gentys įvairiais būdais patirdavo tų užjūrio kai­\nmynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­\nkiai su Rytais dėl to, kad į tuos kraštus patraukė dau­\ngelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­\nvo įvairiuose sarmatų maištuose, būdavo įtraukiami į\njuos net kaimyninių tautų, ne kartą kariavo ir su romė­\nnais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-\nliano ir kitų laikais buvo germanų barbarišikumo sąjun­\ngininkai.\nEsama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją."
+  citata_rodoma: |
+    Juk buvo kariaujama su skandina­
+    vais, gentys įvairiais būdais patirdavo tų užjūrio kai­
+    mynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­
+    kiai su Rytais dėl to, kad į tuos kraštus patraukė dau­
+    gelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­
+    vo įvairiuose sarmatų maištuose, būdavo įtraukiami į
+    juos net kaimyninių tautų, ne kartą kariavo ir su romė­
+    nais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-
+    liano ir kitų laikais buvo germanų barbarišikumo sąjun­
+    gininkai.
+    Esama
+    neabejotinų įrodymų, nes,
+    valdant
+    imperatoriui
+    Galui, apie 253 metus
+    jungtiniai finų,
+    galindų ir venedų būriai kariavo su imperatorium Valuzia-
+    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
+    vino kaip vandalų, finų, galindų ir venedų nugalėto­
+    ją.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

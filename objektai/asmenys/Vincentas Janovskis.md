@@ -40,6 +40,14 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
 - t-001
   global_id: t-198240
   teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
+  atnaujinta: "2026-07-12 22:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
+  temporaliniai_duomenys: "įvykio data: 1834 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-180057
 
@@ -56,8 +64,14 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
     sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
     siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
     paviete, Nočios parapijoje.
-  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek­\nsandras Bychovcas perdavė jį istoriko pažįstamam tei­\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos \npaviete, Nočios parapijoje."
+  citata_rodoma: |
+    T. Narbuto prašomas, rankraščio savininkas Alek­
+    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
+    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
+    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
+    paviete, Nočios parapijoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:59"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

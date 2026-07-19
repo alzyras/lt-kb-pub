@@ -61,6 +61,16 @@ Nenurodyta
 - t-001
   global_id: t-47812
   teiginys: "Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juostos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juostos\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30998
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190597|Lietuviai]]: Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.
@@ -80,8 +90,12 @@ Nenurodyta
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
-  citata_rodoma: "Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų."
+  citata_rodoma: |
+    Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

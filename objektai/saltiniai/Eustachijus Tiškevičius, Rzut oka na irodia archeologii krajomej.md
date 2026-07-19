@@ -32,13 +32,33 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
 - t-001
   global_id: t-191773
   teiginys: "Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Borisovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Borisovas: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eustachijus Tiškevičius, Rzut oka na irodia archeologii krajomej\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174655
-
+    - c-001
 <a id="claim-t-197669"></a>
 - t-002
   global_id: t-197669
   teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179289
 
@@ -60,8 +80,7 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191773
 ## Citatos
 
 - id: c-174655
@@ -81,14 +100,21 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
     Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
-  citata_rodoma: "Ant­\nra vertus, beveik visoje Siaurės Europoje tai šen, tai ten\nrandami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir\nEstijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­\nsioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­\nčius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra\nretenybė."
+  citata_rodoma: |
+    Ant­
+    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
+    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
+    retenybė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191773
-
 - id: c-179289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -102,6 +128,7 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
     sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
     čius3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

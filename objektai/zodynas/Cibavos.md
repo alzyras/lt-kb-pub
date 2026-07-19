@@ -57,6 +57,10 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
 - t-001
   global_id: t-195620
   teiginys: "Cibavos šiame šaltinyje yra pinigai, surinkti už ganyklą ir ožkų bei karvių ganymą."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178023
 
@@ -64,6 +68,10 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
 - t-002
   global_id: t-195621
   teiginys: "Šioje apybraižoje cibavos būdavo prageriamos visų susiėjusių."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178022
 
@@ -86,14 +94,15 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
     ožkų ir karvių.
     Pinigus tuos pragerdavo visi
     susiėję.
-  citata_rodoma: "Pinigus tuos pragerdavo visi susiėję."
+  citata_rodoma: |
+    Pinigus tuos pragerdavo visi susiėję.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195621
-
 - id: c-178023
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -110,8 +119,10 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
     ir
     ganymą
     ožkų ir karvių.
-  citata_rodoma: "Mat, cibavos — tai buvo pinigai, surinkti iš bežemių grįtelninkų ir kampininkų už ganyklą ir ganymą ožkų ir karvių."
+  citata_rodoma: |
+    Mat, cibavos — tai buvo pinigai, surinkti iš bežemių grįtelninkų ir kampininkų už ganyklą ir ganymą ožkų ir karvių.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

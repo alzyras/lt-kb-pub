@@ -50,6 +50,13 @@ Nenurodyta
 - t-001
   global_id: t-194810
   teiginys: "Prūsijos kronikininkai išvardija tokias vaidilų pareigas : atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų įsakymus privalo elgtis laikinajame gyvenime; melstis, idant permaldautų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177206
 
@@ -77,6 +84,7 @@ Nenurodyta
     dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
     simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

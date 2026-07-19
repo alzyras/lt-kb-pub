@@ -38,6 +38,19 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
 - t-001
   global_id: t-32767
   teiginys: "Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "bibliografinė apžvalga bibliografinis veikalas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"bibliografinė apžvalga bibliografinis veikalas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1795 m.; įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citate pateikiamas autoriaus vertinimas, todėl sakinys perrašytas su atribucija."
   pagrindžia:
     - c-34145
 
@@ -55,8 +68,13 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
     pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.**
     **_Bibliografia Historii Polski,_** **red. H. Madurowicz-Urbańska, t. 1 (iki
     1795 m.): dal.
-  citata_rodoma: "Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos\nbendrų Lietuvos ir Lenkijos istorijos klausimų, šitas bibliografinis veikalas\npasidaro gana svarbus Lietuvos istorijos tyrinėtojui.**\n**_Bibliografia Historii Polski,_** **red."
+  citata_rodoma: |
+    Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos
+    bendrų Lietuvos ir Lenkijos istorijos klausimų, šitas bibliografinis veikalas
+    pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.**
+    **_Bibliografia Historii Polski,_** **red.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

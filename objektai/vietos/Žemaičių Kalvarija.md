@@ -40,6 +40,10 @@ tags:
 - t-001
   global_id: t-195663
   teiginys: "Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje."
+  atnaujinta: "2026-07-12 10:11"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-178065
 
@@ -61,8 +65,20 @@ tags:
     blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
-  citata_rodoma: "1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.\nJ. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-\nkai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-\nčią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo\n130 kunigų. 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-\nmo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti\nvarpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas\nŽemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia\nblokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji\npajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais\nsustabdyta naujos bažnyčios statyba Klaipėdoje."
+  citata_rodoma: |
+    1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
+    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų. 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
+    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
+    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
+    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
+    sustabdyta naujos bažnyčios statyba Klaipėdoje.
   statusas: verified
+  atnaujinta: "2026-07-12 10:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

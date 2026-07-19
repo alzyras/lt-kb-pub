@@ -59,6 +59,21 @@ Nenurodyta
 - t-001
   global_id: t-71580
   teiginys: "„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "„Pienocentro“ pastatas Kaune: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Objekto aprašymas tiesiogiai nurodo, kad pastatas yra Kaune."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "„Pienocentro“ pastatas Kaune priklausė Kaunas (0.90)"
+  temporaliniai_duomenys: "pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį."
+  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
   pagrindžia:
     - c-22325
 - susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
@@ -81,13 +96,16 @@ Nenurodyta
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: "1933 m. \nliepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938)."
+  citata_rodoma: |
+    1933 m.
+    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
+    „Pienocentro“ pastatas Kaune (apie 1938).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71580
-
 ## Ryšiai
 - „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]

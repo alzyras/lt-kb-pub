@@ -39,6 +39,18 @@ media_all_json: |-
 - t-001
   global_id: t-41489
   teiginys: "1431 m. birželio 19 d. Skirsnemunėje buvo pasirašyta sutartis su Ordinu „Romos karaliaus garbei“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Romos karaliaus garbei“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Romos karaliaus garbei“\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "sutarties data: 1431 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44979
 - susijęs iš Skirsnemunė: 1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.
@@ -59,8 +71,14 @@ media_all_json: |-
     žiuočių ir Livonijos šakomis), „Romos
     karaliaus garbei“ 1431 m. birželio 19 d.,
     Skirsnemunėje.
-  citata_rodoma: "Šis vedė\nderybas ir pasirašė sutartį su Ordinu (kry-\nžiuočių ir Livonijos šakomis), „Romos\nkaraliaus garbei“ 1431 m. birželio 19 d.,\nSkirsnemunėje."
+  citata_rodoma: |
+    Šis vedė
+    derybas ir pasirašė sutartį su Ordinu (kry-
+    žiuočių ir Livonijos šakomis), „Romos
+    karaliaus garbei“ 1431 m. birželio 19 d.,
+    Skirsnemunėje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

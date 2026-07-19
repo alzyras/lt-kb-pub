@@ -33,6 +33,16 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 - t-001
   global_id: t-01485
   teiginys: "Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suomiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suomiai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-01723
 - susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87177|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos.
@@ -111,8 +121,12 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
     Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
     pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
     ir suomiai.
-  citata_rodoma: "Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai\npažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai\nir suomiai."
+  citata_rodoma: |
+    Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
+    pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
+    ir suomiai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

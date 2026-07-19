@@ -52,6 +52,22 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
 - t-001
   global_id: t-188107
   teiginys: "1820 m. grafas bronzinę apie šešių colių aukščio statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varšuvos Mokslo bičiulių draugija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuvos Mokslo bičiulių draugija\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1820 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisytas OCR iškraipytas draugijos pavadinimas ir sukonkretintas objektas. Nepridėta Narbuto interpretacijos apie indišką kilmę, nes pradinis teiginys remiasi tik siuntimo faktu."
   pagrindžia:
     - c-170861
 
@@ -59,13 +75,32 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
 - t-002
   global_id: t-188108
   teiginys: "Narbutas rašė, kad Varšuvos Mokslo bičiulių draugijos nuomonei apie statulėlę nepritarė visi mokslininkai net Varšuvoje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varšuvos Mokslo bičiulių draugija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varšuvos Mokslo bičiulių draugija\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172371
-
+    - c-002
 <a id="claim-t-197225"></a>
 - t-003
   global_id: t-197225
   teiginys: "Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towarzystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais personažais."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179073
 - susijęs iš [[objektai/paprociai/Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika.md#claim-t-189953|Šubravcų mitologinių pseudonimų ir tyrimo prievolės praktika]]: Šubravcų draugijos nariai prie „Wiadomošci Brukowe“ rinkosi senovės lietuvių mitologijos pseudonimus ir rinko medžiagą apie tuos personažus.
@@ -95,8 +130,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188108
 ## Citatos
 
 - id: c-170861
@@ -114,12 +148,12 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
     našumu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188107
-
 - id: c-172371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -132,14 +166,20 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     nuo auksinių ir sidabrinių perunų, arba perkūnų, kurie kadai­
     se buvo žinomi Lietuvoje. Tų piorunkų klausimas per daug
     reikšmingas, kad galėtume jį šioje vietoje praleisti.
-  citata_rodoma: "Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­\nvę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,\nnet pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš\ntenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *."
+  citata_rodoma: |
+    Trys
+    žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­
+    kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­
+    vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai,
+    net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš
+    tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188108
-
 - id: c-179073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -157,6 +197,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
     prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
     lėtų būti draugijos išleista4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

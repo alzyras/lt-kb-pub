@@ -54,9 +54,12 @@ Nenurodyta
 - t-001
   global_id: t-195352
   teiginys: "Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177760
-    - c-177761
 - susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195403|Dėdelio vežiojimas per kaimą]]: Autorius rašo, kad vėliau Pelenijoje dėdelio jau nebevežiodavo.
 - susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195405|Dėdelio vežiojimas per kaimą]]: Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams.
 - susijęs iš [[objektai/paprociai/Pelenijos „dantų plovimas“.md#claim-t-195402|Pelenijos „dantų plovimas“]]: Autorius rašo, kad vėliau Pelenijoje jau nebebuvo nei dantų plovimo, nei dėdelio vežiojimo, nei gavėnios negavėjimo.
@@ -75,14 +78,18 @@ Nenurodyta
     Tą
     dieną važiuoja per kaimą dėdelis.
     Eime jo pažiūrėti.
-  citata_rodoma: "Pelenijai išaušus sveikiname pirmąją pavasario dieną. \nTą \ndieną važiuoja per kaimą dėdelis. \nEime jo pažiūrėti."
+  citata_rodoma: |
+    Pelenijai išaušus sveikiname pirmąją pavasario dieną.
+    Tą
+    dieną važiuoja per kaimą dėdelis.
+    Eime jo pažiūrėti.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195352
-
 - id: c-177761
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -96,10 +103,14 @@ Nenurodyta
     ro ilgumo, ant tų pagaliukų parėdytas dėdelis. Tas dėdelis su žiemine
     kepure, su prasčiausia ruda sermėga, virve susijuosęs, rankas iškė­
     tęs; prie rankų jam pakso ant virvelių pakabinti pagaliukai.
-  citata_rodoma: "Aplink stebulę sustatyti ir priraišioti keli pagaliukai pusantro met­\nro ilgumo, ant tų pagaliukų parėdytas dėdelis. Tas dėdelis su žiemine \nkepure, su prasčiausia ruda sermėga, virve susijuosęs, rankas iškė­\ntęs; prie rankų jam pakso ant virvelių pakabinti pagaliukai."
+  citata_rodoma: |
+    Aplink stebulę sustatyti ir priraišioti keli pagaliukai pusantro met­
+    ro ilgumo, ant tų pagaliukų parėdytas dėdelis. Tas dėdelis su žiemine
+    kepure, su prasčiausia ruda sermėga, virve susijuosęs, rankas iškė­
+    tęs; prie rankų jam pakso ant virvelių pakabinti pagaliukai.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195352

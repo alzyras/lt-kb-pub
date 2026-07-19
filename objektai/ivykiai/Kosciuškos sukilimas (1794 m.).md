@@ -50,6 +50,10 @@ Nenurodyta
 - t-001
   global_id: t-66634
   teiginys: "Kosciuškos vadovaujamas sukilimas sudarė savo valdžią, o netrukus po jo buvo atliktas paskutinis Respublikos padalijimas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66832
 
@@ -57,6 +61,10 @@ Nenurodyta
 - t-002
   global_id: t-66635
   teiginys: "1794 m. sukilėliai visą valdžią atidavė generolui Kosciuškai, kilusiam iš Naugarduko vaivadijos ir laikiusiam save lietuviu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
   pagrindžia:
     - c-66831
 
@@ -64,6 +72,10 @@ Nenurodyta
 - t-003
   global_id: t-66637
   teiginys: "Kosciuška leido atsišaukimus, žadėdamas laisvę prie sukilimo prisidėjusiems valstiečiams; tokių atsišaukimų buvo ir lietuviškų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
   pagrindžia:
     - c-66834
 
@@ -85,12 +97,12 @@ Nenurodyta
     nizuota vadinamoji Tautos
     Taryba.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66635
-
 - id: c-66832
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -103,14 +115,18 @@ Nenurodyta
     nesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė
     savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
     publikos padalinimas.
-  citata_rodoma: "Bet šita naujoji santvarka neilgai tegyvavo. Po keleto mė-\nnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė\nsavo valdžią; o netrukus po to buvo atliktas paskutinis Res-\npublikos padalinimas."
+  citata_rodoma: |
+    Bet šita naujoji santvarka neilgai tegyvavo. Po keleto mė-
+    nesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė
+    savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
+    publikos padalinimas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66634
-
 - id: c-66834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -123,8 +139,12 @@ Nenurodyta
     Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
-  citata_rodoma: "Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-\nkimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę\n(tokių atsišaukimų buvo išleistų ir lietuviškų)."
+  citata_rodoma: |
+    Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
+    kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
+    (tokių atsišaukimų buvo išleistų ir lietuviškų).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

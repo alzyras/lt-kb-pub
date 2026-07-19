@@ -52,10 +52,22 @@ Nenurodyta
 - t-001
   global_id: t-62669
   teiginys: "Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=4"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63400
     - c-63403
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
@@ -75,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62669
 - c-002
   santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62669
 ## Citatos
 
 - id: c-63400
@@ -101,22 +111,30 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dar apie Martyną iš Golino ir jo nuostabią kovą
-    Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
-    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
-    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
-    kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
-    narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista. Šitai
-    matydamas, vienas Martyno draugas, kuris nuogas netolimoje upėje vėžiavo, sugrįžo,
-    pasičiupo vieno nukauto kario kalaviją bei skydą ir nuogas pradėjo kautis.
-  citata_rodoma: "Apie daugybės Kulmenzės miestiečių žūtį\n\n  Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri\nvadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,\nmiestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo\nlauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,\nmanydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai\nir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę."
+    Apie daugybės Kulmenzės miestiečių žūtį
+
+      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
+    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
+    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
+    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
+    manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
+    ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
+  citata_rodoma: |
+    Apie daugybės Kulmenzės miestiečių žūtį
+
+      Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri
+    vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,
+    miestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo
+    lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
+    manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
+    ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62669
-
 - id: c-63403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,8 +148,14 @@ Nenurodyta
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
     prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu
     jie bematant neatiduosią jam pilies.
-  citata_rodoma: "Po to priėjo Torunę ir sudegino\nligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę\nprie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai\natkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog\nneįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais."
+  citata_rodoma: |
+    Po to priėjo Torunę ir sudegino
+    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
+    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
+    atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
+    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

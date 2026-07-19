@@ -60,6 +60,20 @@ Nenurodyta
 - t-001
   global_id: t-77918
   teiginys: "Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžių kalnas: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžių kalno kryžiai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kryžių kalnas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo kryžių gausą Kryžių kalne, todėl kryžiai siejami su šia vieta kaip jos dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kryžių kalno kryžiai priklausė Kryžių kalnas (0.75)"
+  temporaliniai_duomenys: "įvykio data: 1961 m.; įvykio data: 1993 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras; citata leidžia susieti kryžiaus prasmę su Kryžių kalnu."
   pagrindžia:
     - c-75235
 
@@ -80,6 +94,7 @@ Nenurodyta
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

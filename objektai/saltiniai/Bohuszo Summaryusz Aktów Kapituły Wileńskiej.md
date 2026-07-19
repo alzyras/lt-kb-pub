@@ -39,6 +39,19 @@ media_all_json: |-
 - t-001
   global_id: t-88241
   teiginys: "Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Cvinglis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bohuszo Summaryusz Aktów Kapituły Wileńskiej: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Cvinglis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bohuszo Summaryusz Aktów Kapituły Wileńskiej\" parinktas kaip owner_note_path. Targetas \"Cvinglis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas užterštas puslapio triukšmu ir nutrūkęs, bet citata pagrindžia glaustą faktą."
   pagrindžia:
     - c-84220
 
@@ -63,8 +76,22 @@ media_all_json: |-
     VILNIAUS MIESTO ISTORIJA// TOMAS
     1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
     kykla.
-  citata_rodoma: "45\nBohusz  Summaryusz Aktów Kapi­\ntuły Wileń, MSS., p. 5 pasakoja, kad \n„kapitula, gavusi žinių apie kažko­\nkias naujas sektas: Liuterio, Cvinglio \nir naujosios krikščionybės, kad jie\n283\n\n## Puslapis 300\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\n1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­\nkykla."
+  citata_rodoma: |
+    45
+    Bohusz  Summaryusz Aktów Kapi­
+    tuły Wileń, MSS., p. 5 pasakoja, kad
+    „kapitula, gavusi žinių apie kažko­
+    kias naujas sektas: Liuterio, Cvinglio
+    ir naujosios krikščionybės, kad jie
+    283
+
+    ## Puslapis 300
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
+    kykla.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

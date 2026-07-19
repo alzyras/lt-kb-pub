@@ -32,6 +32,17 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
 - t-001
   global_id: t-200509
   teiginys: "Tadas Slizenis buvo kanauninkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Slizenis (kanauninkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Slizenis (kanauninkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183867
 
@@ -39,6 +50,18 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
 - t-002
   global_id: t-200510
   teiginys: "Tado Slizenio namuose tuo metu gyveno jo brolis, Lietuvos Vyriausiojo Tribunolo pasiuntinys."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Slizenis (kanauninkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Slizenis (kanauninkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183867
 
@@ -56,8 +79,13 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno jo brolis
     rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
     Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
     Tribunolo pasiuntinys.
-  citata_rodoma: "Tais pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus\nrašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz\nŚlizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo\nTribunolo pasiuntinys."
+  citata_rodoma: |
+    Tais pačiais metais J. D. Lopacinskis apie apsigyvenimo Vilniuje sudėtingumą ir pasiūlymus
+    rašė ir M. K. Sapiegai. Jis teigė, kad galėtų pasiūlyti kanauninko Tado Slizenio (Tadeusz
+    Ślizień) namus, bet perspėjo, kad ten tuo metu gyvena jo brolis – Lietuvos Vyriausiojo
+    Tribunolo pasiuntinys.
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

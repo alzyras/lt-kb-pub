@@ -78,4 +78,3 @@ Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugs�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

@@ -42,6 +42,18 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - t-001
   global_id: t-40034
   teiginys: "Prancūzijos grafas Antoineas Gramont’as 1663-1664 m. pasakojo apie totorius Lietuvos kariuomenėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antoine Gramont: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antoine Gramont\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1663-1664; įvykio data: 1664 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-41839
 
@@ -49,6 +61,19 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - t-002
   global_id: t-40035
   teiginys: "Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kazokai: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Janičarai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata sako, kad janičarai kartu su turkų kavalerija atakavo kazokų stovyklą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Janičarai puolė Kazokai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1663-1664; įvykio data: 1664 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44285
 
@@ -56,6 +81,12 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - t-003
   global_id: t-193757
   teiginys: "Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176416
 
@@ -74,12 +105,12 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     kairysis
     flangas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40034
-
 - id: c-44285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,14 +131,25 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     nais įvirtinimais - lengvais žemės šancais,
     kuriuos sumaniai naudodavo tiek puldami,
     tiek ir besigindami.
-  citata_rodoma: "LDK didysis etmonas pasiuntė ke-\nletą lengvosios kavalerijos - „lisovčikų“\n\nLIETUVOS LENGVOJI KAVALERIJA\n\nIštrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-\nzokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.\n\nnais įvirtinimais - lengvais žemės šancais,\nkuriuos sumaniai naudodavo tiek puldami,\ntiek ir besigindami."
+  citata_rodoma: |
+    LDK didysis etmonas pasiuntė ke-
+    letą lengvosios kavalerijos - „lisovčikų“
+
+    LIETUVOS LENGVOJI KAVALERIJA
+
+    Ištrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie ka-
+    zokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse.
+
+    nais įvirtinimais - lengvais žemės šancais,
+    kuriuos sumaniai naudodavo tiek puldami,
+    tiek ir besigindami.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40035
-
 - id: c-176416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,6 +165,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
     Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
     totorius Lietuvos kariuomenėje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

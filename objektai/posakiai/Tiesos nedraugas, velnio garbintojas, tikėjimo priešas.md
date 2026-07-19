@@ -49,6 +49,16 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - t-001
   global_id: t-54762
   teiginys: "Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis."
+  atnaujinta: "2026-05-27 07:01"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tiesos nedraugas, velnio garbintojas, tikėjimo priešas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55762
 
@@ -56,6 +66,16 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - t-002
   global_id: t-54763
   teiginys: "Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tiesos nedraugas, velnio garbintojas, tikėjimo priešas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55763
 
@@ -80,14 +100,24 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
-  citata_rodoma: "Kryžiuočiai tą antspaudą mums panieką reikš­\ndami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­\ngalba sumanymo įgyvendinimą ir žmonėms akis užtem­\ndytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą \npiktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame \ntiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­\nviu, melagiu ir žmogum be garbės\"*. Tie laiškai rašyti Vil­\nniuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos \nperskaičius būtų siunčiami toliau ir visur skelbiama juose \nnurodyti pranešimai bei įsipareigojimai."
+  citata_rodoma: |
+    Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54762
-
 - id: c-55763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -100,8 +130,16 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
     laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
     kus, melagius ir jokios garbės neturinčius žmonės.].
-  citata_rodoma: "Po šių paaiškinimų apie antspaudą visuose trijuose \nlaiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį \nesant tikrai. Contradictores huius sigilli tanquam maliciosos, fi­\ndei destructores, hereticos, mendaces repudiamus et omni honore \nprivatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo \nlaišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­\nkus, melagius ir jokios garbės neturinčius žmonės.]."
+  citata_rodoma: |
+    Po šių paaiškinimų apie antspaudą visuose trijuose
+    laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį
+    esant tikrai. Contradictores huius sigilli tanquam maliciosos, fi­
+    dei destructores, hereticos, mendaces repudiamus et omni honore
+    privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
+    laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
+    kus, melagius ir jokios garbės neturinčius žmonės.].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

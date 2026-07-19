@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-67007
   teiginys: "Šapokos istorijoje paneigiama, kad Čičinskas 1652 m. pirmasis liberum veto teise išardė seimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67082
 
@@ -67,6 +70,7 @@ Nenurodyta
     1569 m. Liublino seimo, kada prasidėjo bendrieji lietuvių lenkų
     seimai, — Lenkijoje iš viso iširo 7 seimai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

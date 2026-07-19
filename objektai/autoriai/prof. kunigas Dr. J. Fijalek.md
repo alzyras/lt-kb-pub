@@ -41,6 +41,17 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
 - t-001
   global_id: t-35494
   teiginys: "Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas kovojo prieš Ordiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.93)"
   pagrindžia:
     - c-38199
 
@@ -62,8 +73,15 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
     sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
-  citata_rodoma: "Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios\nsinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­\njoru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­\nsitio Samaytarum” kurio dėl graudingumo, kaip sako prof.\nkunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis\nskaityti^3 )."
+  citata_rodoma: |
+    Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
+    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
+    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
+    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
+    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
+    skaityti^3 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,13 +40,27 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - t-001
   global_id: t-189113
   teiginys: "Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172001
-
+    - c-001
 <a id="claim-t-189114"></a>
 - t-002
   global_id: t-189114
   teiginys: "Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172002
 
@@ -54,6 +68,12 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - t-003
   global_id: t-197358
   teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179149
 
@@ -76,8 +96,7 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189113
 ## Citatos
 
 - id: c-172001
@@ -96,14 +115,22 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     miečių niekuomet nevaikščiojo išpažinties, nepažino krikščio­
     niško tikėjimo tiesų ir buvo senosios pagoniškos religijos šalinin­
     kai.
-  citata_rodoma: "Ne­\nturtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net\njei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­\nmingumo turi paklykauti .\nSeniau ašaras, išverktas per laidotuves, labai rūpestingai\nsurinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių\nindelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­\nrusiojo kojų. Apie tai bus straipsnyje „Kapai“."
+  citata_rodoma: |
+    Ne­
+    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
+    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
+    mingumo turi paklykauti .
+    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
+    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
+    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
+    rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189113
-
 - id: c-172002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -121,12 +148,12 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
     dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189114
-
 - id: c-179149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,6 +169,7 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­
     čio telpa tryliktoji lietuviškos kvortos dalis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

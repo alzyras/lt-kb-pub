@@ -32,8 +32,23 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
 - t-001
   global_id: t-191468
   teiginys: "Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Araksas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skitas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Araksas: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skitas\" parinktas kaip owner_note_path. Targetas \"Araksas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174350
+    - c-001
 - susijęs iš [[objektai/asmenys/Berosijus.md#claim-t-191339|Berosijus]]: Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.
 - susijęs iš Vysla: Narbutas aiškino, kad gentys nesustojo tarp Vyslos aukštupio ir Bugo, o traukėsi kitapus Karpatų, veikiamos skitų baimės.
 - susijęs iš Ilyrija: Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje.
@@ -59,8 +74,7 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191468
 ## Citatos
 
 - id: c-174350
@@ -68,18 +82,29 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    ir tinkama laivybai, prasideda netoli Kaukazo kalno, su­
-    silieja su upe Ros, arba Araksu, ir įteka į Chazarų, arba
-    KaspijOiS, jūrą1. Iš pono Hamerio tyrimų ir ištraukų apie
-    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
-    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
-    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
-    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
-    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
-    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
-    dė žiloje senovėje.
-  citata_rodoma: "Bu­\ndinai, kaip jau sakėme, yra senovės Azijos skitų kasta,\ngyvenusi prie Arakso upės, kuri prasideda kartu su Euf­\nratu viename kalne4. Iš senovinių Berosijaus5 padavi­\nmų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­\nto, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-\nmoji vieta nurodoma prie armėnų Arakso. Ir iš tiesų\nbudinai kilę būtent iš ten: geografas Nubenskis*** (5\nKlimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės\nupės: viena Ros, kita Kor, arba Cyrus."
+    Bu­
+    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
+    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
+    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
+    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
+    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
+    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
+    budinai kilę būtent iš ten: geografas Nubenskis*** (5
+    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
+    upės: viena Ros, kita Kor, arba Cyrus.
+  citata_rodoma: |
+    Bu­
+    dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,
+    gyvenusi prie Arakso upės, kuri prasideda kartu su Euf­
+    ratu viename kalne4. Iš senovinių Berosijaus5 padavi­
+    mų žinome, kad Araksa, Jonušo duktė, buvo motina Ski­
+    to, skitų genties protėvio6, todėl ir pirmykštė jų gyvena'-
+    moji vieta nurodoma prie armėnų Arakso. Ir iš tiesų
+    budinai kilę būtent iš ten: geografas Nubenskis*** (5
+    Klimate, 6 dalyje) rašo: „Armėnijoje yra dvi didelės
+    upės: viena Ros, kita Kor, arba Cyrus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,6 +44,11 @@ media_all_json: |-
 - t-001
   global_id: t-31979
   teiginys: "W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1906 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33751
 
@@ -60,8 +65,14 @@ media_all_json: |-
     1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos
     bruožai del Žemaičių ir jų sienų,_ Athenaeum, t. 6, 1935, 54-117 p. — (”)
     _Raciąžo taika,_ LE, t. 24, 315-316 p. — (”) _Salyno taika,_ LE, t. 26, 351-
-  citata_rodoma: ": _Žemaičių sukilimai prieš teutoniškuosius pavergėjus\n1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­\nniai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach\n1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos\nbruožai del Žemaičių ir jų sienų,_ Athenaeum, t."
+  citata_rodoma: |
+    : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
+    1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
+    niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
+    1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906. — Ivinskis, Z. : _Kovos
+    bruožai del Žemaičių ir jų sienų,_ Athenaeum, t.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

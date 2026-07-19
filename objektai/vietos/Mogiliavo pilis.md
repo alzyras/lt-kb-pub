@@ -33,6 +33,17 @@ media_all_json: |-
 - t-001
   global_id: t-86089
   teiginys: "Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Mogiliavo pilis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mogiliavo pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) valdė Mogiliavo pilis (0.82)"
   pagrindžia:
     - c-82068
 
@@ -60,6 +71,7 @@ media_all_json: |-
     galvos. To viso aiškiam paliudijimui mūsų antspaudas prie
     šio rašto yra prikabintas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

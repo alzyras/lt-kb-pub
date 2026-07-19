@@ -35,13 +35,43 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 - t-001
   global_id: t-191148
   teiginys: "Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų karalystės pamatus, jei nebūtų sutrukdęs hunų įsiveržimas į Europą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Germanarikas tiesiogiai įvardytas kaip vienas iš gotų karalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Germanarikas buvo valdovas Gotai (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174030
-
+    - c-001
 <a id="claim-t-191149"></a>
 - t-002
   global_id: t-191149
   teiginys: "Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai vadina Germanariką Rytų gotų valdovu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Germanarikas buvo valdovas Gotai (0.92)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174031
 
@@ -49,8 +79,23 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 - t-003
   global_id: t-191150
   teiginys: "Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Germanarikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germanarikas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174032
+    - c-003
 - susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
 - susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
 - susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191083|Jordanas]]: Jordanas, Narbuto vadinamas gotų istoriku, minėjo prie jūros pakrantės gyvenusius estus.
@@ -77,8 +122,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191148
 - c-003
   santrauka: 'Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -98,8 +142,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191150
 ## Citatos
 
 - id: c-174030
@@ -118,14 +161,20 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
     ties gotų galybė ėmė smukti; įvairios smulkios jų dalys,
     krikščionybės švelniai laiminamos, virto šių laikų Euro­
     pos tautomis, pamažu atsikratančiomis barbariškumo.
-  citata_rodoma: "Ta­\nčiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.\nVienas iš gotų karalių, Germanarikas, labiausiai išplėtęs\nsavo valdžią, gal ir būtų padėjęs gotų karalystės pama­\ntus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.\n1 Lelemel."
+  citata_rodoma: |
+    Ta­
+    čiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.
+    Vienas iš gotų karalių, Germanarikas, labiausiai išplėtęs
+    savo valdžią, gal ir būtų padėjęs gotų karalystės pama­
+    tus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.
+    1 Lelemel.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191148
-
 - id: c-174031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -143,12 +192,12 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
     ni estus, kalbėdamas apie karingus Odoakro vadovauja­
     mus herulus, kilusius iš estų tautos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191149
-
 - id: c-174032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,14 +217,23 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
     atšaka, be to, tokia galinga, jog ir pati sulietuvėjo; iš to
     susijungimo ir turėjo atsirasti jotvingiai, t. y. tos tautos
     atšaka, išsibarsčiusi tarp Polesės pelkių*.
-  citata_rodoma: "Tikriausiai III amžiaus\npabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­\ndanas, vardydamas įvairių genčių tautas, kurias valdė\ngotai Germanariko valdymo laikais, gyvenusias nuo Juo­\ndosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,\nBugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,\nkurie turėjo gyventi šalia tos teritorijos ribų.\nUžrašu, kuris paaiškina labai svarbų dalyką jotvingių\nistorijoje, negalime visiškai tikėti."
+  citata_rodoma: |
+    Tikriausiai III amžiaus
+    pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­
+    danas, vardydamas įvairių genčių tautas, kurias valdė
+    gotai Germanariko valdymo laikais, gyvenusias nuo Juo­
+    dosios iki Baltijos jūros, o iš pietų atskirtas Dnestro,
+    Bugo ir Palenkės, iki pat prūsų žemių nemini jotvingių,
+    kurie turėjo gyventi šalia tos teritorijos ribų.
+    Užrašu, kuris paaiškina labai svarbų dalyką jotvingių
+    istorijoje, negalime visiškai tikėti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191150
-
 ## Ryšiai
 - Germanarikas buvo valdovas [[objektai/grupes/Gotai]]
 - Germanarikas užkariavo [[objektai/grupes/Estai]]

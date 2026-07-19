@@ -44,16 +44,35 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 - t-001
   global_id: t-60301
   teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heidenreichas (vyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heidenreichas (vyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-60933
 
 <a id="claim-t-200995"></a>
 - t-002
   global_id: t-200995
-  teiginys: "Daukanto pasakojimu Kulmo vyskupas Heidenreichas vyko į Lietuvą pas Mindaugą ir karūnavimo iškilmėje patepė jį aliejumi."
+  teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184345
-- susijęs iš [[objektai/asmenys/Stuklandas (kunigaikštis, XIII a.).md#claim-t-201401|Stuklandas (kunigaikštis, XIII a.)]]: Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną karūną Mintautui, o kitą jo žmonai Martai.
+
 ## Citatos
 
 - id: c-60933
@@ -87,16 +106,15 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 
     Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60301
-
 - id: c-184345
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 348"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 348."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­
@@ -118,6 +136,7 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
     vieną karūną antdėjo Mintautui, antrą jo žmonai
     Martai.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

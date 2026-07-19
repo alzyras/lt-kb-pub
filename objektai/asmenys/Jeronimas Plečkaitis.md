@@ -41,6 +41,20 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
 - t-001
   global_id: t-26446
   teiginys: "Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> A. Smetona: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jeronimas Plečkaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "A. Smetona: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Planai nuversti A. Smetonos valdžią tiesiogiai rodo politinį priešiškumą A. Smetonai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Jeronimas Plečkaitis buvo priešas A. Smetona (0.83); Jeronimas Plečkaitis keliavo į Lenkija (0.71)"
+  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir per ilgas; citata remia glaustesnį sakinį."
   pagrindžia:
     - c-26671
 
@@ -59,6 +73,7 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
     paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus... autori-
     tarinės Lenkijos padedami nuversti nedemokratinę A. Smetonos valdžią.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

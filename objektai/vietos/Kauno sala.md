@@ -38,6 +38,19 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
 - t-001
   global_id: t-36294
   teiginys: "1413 m. Kauno saloje buvo sušauktas suvažiavimas Žemaitijos sienų klausimu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno sala: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno sala\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
   pagrindžia:
     - c-38514
 
@@ -60,8 +73,14 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
     (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
     Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
     lenkų bajorai, Ordino riteriai.
-  citata_rodoma: "Po to Kauno\nsaloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,\n(1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar\nJogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir\nlenkų bajorai, Ordino riteriai."
+  citata_rodoma: |
+    Po to Kauno
+    saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,
+    (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
+    Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
+    lenkų bajorai, Ordino riteriai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

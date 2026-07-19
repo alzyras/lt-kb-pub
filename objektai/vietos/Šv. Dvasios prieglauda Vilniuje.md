@@ -34,6 +34,17 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-001
   global_id: t-85851
   teiginys: "Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Šv. Dvasios prieglauda Vilniuje: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ulrikas Hozijus pradėjo ir dalinai mūrijo prieglaudą, nors jos nebaigė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Ulrikas Hozijus pastatė Šv. Dvasios prieglauda Vilniuje (0.78)"
   pagrindžia:
     - c-81834
 
@@ -41,6 +52,16 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-002
   global_id: t-85852
   teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Hozijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Hozijus: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios prieglauda Vilniuje\" parinktas kaip owner_note_path. Targetas \"Jonas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81838
 
@@ -48,6 +69,16 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-003
   global_id: t-85853
   teiginys: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios prieglauda Vilniuje\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81833
 
@@ -55,6 +86,16 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-004
   global_id: t-85854
   teiginys: "Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios prieglauda Vilniuje\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81837
 
@@ -62,6 +103,16 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-005
   global_id: t-85855
   teiginys: "Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Dvasios prieglauda Vilniuje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81835
 
@@ -69,6 +120,17 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-006
   global_id: t-85856
   teiginys: "Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Šv. Dvasios prieglauda Vilniuje: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Quote tiesiogiai nurodo, kad Hozijus pradėjo mūryti prieglaudą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Ulrikas Hozijus pastatė Šv. Dvasios prieglauda Vilniuje (0.73)"
   pagrindžia:
     - c-81836
 
@@ -87,12 +149,12 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­
     kams atiduoti, dovanoti, paskirti ir užrašyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85853
-
 - id: c-81834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -118,12 +180,12 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
     nėms, atsisveikino su šiuo pasauliu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85851
-
 - id: c-81835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -147,14 +209,31 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     VILNIAUS MIESTO ISTORIJA// TOMAS
     jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
     bei administravimu bei jai skirtomis pajamomis.
-  citata_rodoma: "Taip pat \njie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai \nprieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos \npačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad \ntvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos \naprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­\ndymas ištikimai ir deramai būtų išlaikomas, globą ir vado­\nvavimą minėtos administracijos šviesiausiajam Kristuje tė­\nvui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat \nir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad\n391\n\n## Puslapis 408\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\njie visiškai rūpintųsi geru tos pačios prieglaudos valdymu \nbei administravimu bei jai skirtomis pajamomis."
+  citata_rodoma: |
+    Taip pat
+    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
+    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
+    pačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad
+    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
+    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
+    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
+    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
+    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
+    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
+    391
+
+    ## Puslapis 408
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85855
-
 - id: c-81836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -177,12 +256,12 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­
     tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85856
-
 - id: c-81837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -199,12 +278,12 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     ro Pūzdrąvičiaus namo ir daržo iki Povilo Piestavičiaus namo
     galo - 60 sprindžių arba 20 uolekčių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85854
-
 - id: c-81838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,6 +311,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     sų dabartiniu raštu taip pat pavedame jo įžvalgumui ir są­
     žiningumui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

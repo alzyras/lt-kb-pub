@@ -34,6 +34,11 @@ Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po ku
 - t-001
   global_id: t-191363
   teiginys: 'Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Aleksandro Makedoniečio užkariavimų pasekmes Azijoje. Jame nepridėta platesnio Masilijos ar Kartaginos konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kartaginiečiai|Kartaginiečiai]]; mentioned_group: [[objektai/grupes/Masiliečiai|Masiliečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Masilija; mentioned_place: Tartesas'
   pagrindžia:
     - c-174245
 
@@ -59,8 +64,9 @@ Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po ku
     Kartagina; masiliečių laivai plaukdavo iki Tarteso tų pa­
     čių prekių kaip ir kartaginiečiai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191363

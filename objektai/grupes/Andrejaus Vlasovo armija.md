@@ -33,6 +33,17 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - t-001
   global_id: t-19632
   teiginys: "Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Žydai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andrejaus Vlasovo armija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad armijos daliniai buvo panaudoti akcijose prieš žydus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Andrejaus Vlasovo armija kariavo prieš Žydai (0.86)"
   pagrindžia:
     - c-22336
 
@@ -49,8 +60,10 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     turto – namų, inventoriaus, brangenybių, patalynės, drabužių. Akcijose
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
     jos dalinius, ukrainiečių, latvių policijos batalionus.
-  citata_rodoma: "prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-"
+  citata_rodoma: |
+    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

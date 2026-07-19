@@ -42,8 +42,26 @@ media_all_json: |-
 - t-001
   global_id: t-191490
   teiginys: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vadovaujamą kariuomenės būrį užimti Samachos ir Derbento vakarinėje Kaspijos pakrantėje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bojaduras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Čingischanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bojaduras: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čingischanas\" parinktas kaip owner_note_path. Targetas \"Bojaduras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1223 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą, datą, vadus ir tikslą. Jis neperima moralinių ar motyvų vertinimų, todėl papildoma atribucija nereikalinga."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174372
+    - c-001
 - susijęs iš [[objektai/asmenys/Bojaduras.md#claim-t-191378|Bojaduras]]: 1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento.
 - susijęs iš [[objektai/asmenys/Cipnovianas.md#claim-t-191383|Cipnovianas]]: 1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kariuomenės būriui, pasiųstam užimti Samachos ir Derbento.
 - susijęs iš [[objektai/ivykiai/Čingischano vadų karas su alanais.md#claim-t-191078|Čingischano vadų karas su alanais]]: Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.
@@ -73,8 +91,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191490
 ## Citatos
 
 - id: c-174372
@@ -93,8 +110,19 @@ media_all_json: |-
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: "104\nGalop dabar privalome pridurti dar vieną istorinę pa­\nstabą. Kai 1223 metais Čingischanas išsiuntė stiprų savo\nkariuomenės būrį, vadovaujamą vadų Bojaduro ir Cip-\nnoviano, į vakarinę Kaspijos pakrantę užimti Samachos\nir Derbento miestų, atsitiko taip, kad pirmasis miestas\npasidavė nesipriešindamas. Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich."
+  citata_rodoma: |
+    104
+    Galop dabar privalome pridurti dar vieną istorinę pa­
+    stabą. Kai 1223 metais Čingischanas išsiuntė stiprų savo
+    kariuomenės būrį, vadovaujamą vadų Bojaduro ir Cip-
+    noviano, į vakarinę Kaspijos pakrantę užimti Samachos
+    ir Derbento miestų, atsitiko taip, kad pirmasis miestas
+    pasidavė nesipriešindamas. Mongolų karvedžiai skubėjo
+    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
+    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
+    1 Stender Gotthard Friedrich.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

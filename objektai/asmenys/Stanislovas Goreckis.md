@@ -41,6 +41,16 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 - t-001
   global_id: t-87579
   teiginys: "Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Goreckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Goreckis\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83558
 - susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
@@ -76,8 +86,21 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
     auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
     žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
     konvikto gyventojams 8 nuošimčius mokėjo.
-  citata_rodoma: "Kryžiaus altorių, mišių klausydamiesi, aukotų mal­\ndas už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė, \nprie kurios prisidėjo Vilniaus kanauninkai Marcelis Sucho- \ndolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, \nLaurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.\n186\n\n## Puslapis 203\n\nIl KNYGA\n1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą \ndavė kun."
+  citata_rodoma: |
+    Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
+    das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,
+    prie kurios prisidėjo Vilniaus kanauninkai Marcelis Sucho-
+    dolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų,
+    Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
+    186
+
+    ## Puslapis 203
+
+    Il KNYGA
+    1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
+    davė kun.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

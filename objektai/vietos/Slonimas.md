@@ -42,6 +42,19 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 - t-001
   global_id: t-86105
   teiginys: "Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Haličas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slonimas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Haličas: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slonimas\" parinktas kaip owner_note_path. Targetas \"Haličas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-82084
 
@@ -49,6 +62,21 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 - t-002
   global_id: t-200703
   teiginys: "1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Slonimas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Slonimas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Mykolo Antano Sapiegos mirties vietą Slonime."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  semantiniai_rysiai: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė Slonimas (0.97)"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184049
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
@@ -83,7 +111,7 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    T. 1, p. 554.
+    554.
     8
 
     ## Puslapis 25
@@ -95,14 +123,26 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
     su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
-  citata_rodoma: "554.\n8\n\n## Puslapis 25\n\nĮVADAS\ndenio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; \nSlonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino \n1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu \nsu Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­\ntas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs \nsavo tvirtovėmis ir prekyba."
+  citata_rodoma: |
+    554.
+    8
+
+    ## Puslapis 25
+
+    ĮVADAS
+    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
+    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
+    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
+    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
+    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
+    savo tvirtovėmis ir prekyba.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86105
-
 - id: c-184049
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -114,11 +154,11 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
     pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
     didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200703
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]

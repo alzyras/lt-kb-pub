@@ -40,6 +40,20 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 - t-001
   global_id: t-42371
   teiginys: "1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Šiaurės Žemaitija: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šiaurės Žemaitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Livonijos ordinas puolė Šiaurės Žemaitiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonijos ordinas puolė Šiaurės Žemaitija (0.96); Livonijos ordinas puolė Kulių (Jurgaičių) pilys (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Livonijos ordino puolimą."
   pagrindžia:
     - c-45467
 
@@ -50,7 +64,7 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
+    “
 
     Po mūšio
     1348 m. kovo mėn. Livonijos ordinas vėl
@@ -59,13 +73,22 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
     rias kitas pilis, o Prūsijos ordinas maršalo
     vadovaujamas vėlesniais mėnesiais siaubė
     Ariogalos kraštą.
-  citata_rodoma: "“\n\nPo mūšio\n1348 m. kovo mėn. Livonijos ordinas vėl\npuolė Šiaurės Žemaitiją, sunaikino Kulių\n(Jurgaičių), Dubysos (Bubių) ir kažku-\nrias kitas pilis, o Prūsijos ordinas maršalo\nvadovaujamas vėlesniais mėnesiais siaubė\nAriogalos kraštą."
+  citata_rodoma: |
+    “
+
+    Po mūšio
+    1348 m. kovo mėn. Livonijos ordinas vėl
+    puolė Šiaurės Žemaitiją, sunaikino Kulių
+    (Jurgaičių), Dubysos (Bubių) ir kažku-
+    rias kitas pilis, o Prūsijos ordinas maršalo
+    vadovaujamas vėlesniais mėnesiais siaubė
+    Ariogalos kraštą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42371
-
 ## Ryšiai
 - Puolė Šiaurės Žemaitiją: [[objektai/grupes/Livonijos ordinas]]

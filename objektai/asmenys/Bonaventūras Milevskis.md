@@ -63,6 +63,20 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - t-001
   global_id: t-187905
   teiginys: "Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonaventūras Milevskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonaventūras Milevskis\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau aiškiai nurodo asmenį, laiką, vietą ir veiksmą. Jis neperžengia citatos duomenų."
   pagrindžia:
     - c-170888
 
@@ -70,6 +84,17 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - t-002
   global_id: t-187906
   teiginys: "Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonaventūras Milevskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonaventūras Milevskis\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170888
 
@@ -77,6 +102,23 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - t-003
   global_id: t-188519
   teiginys: "Bonaventūras Milevskis, ardamas žemę Burokų dvare netoli Kražių, 1836 m. gegužę iškasė figūrą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonaventūras Milevskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonaventūras Milevskis\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR lūžiai ir perteklinė dvaro priklausomybės detalė, išlaikant pagrindinį veiksmą. Nepridėta nieko apie figūros tapatybę."
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170888
 
@@ -84,6 +126,23 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - t-004
   global_id: t-190849
   teiginys: "1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonaventūras Milevskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonaventūras Milevskis\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Bonaventūrą Milevskį, vietą, laiką ir radimo veiksmą. Pašalinis dovanojimo ir perdavimo kontekstas sąmoningai neįtrauktas."
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173731
 
@@ -91,6 +150,12 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - t-005
   global_id: t-194698
   teiginys: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū ras Milevskis, ardamas žemę, iškasė tą figūrą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170888
 - susijęs iš [[objektai/asmenys/Jucevičius.md#claim-t-191500|Jucevičius]]: Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevskis ardamas iškasė figūrą.
@@ -118,8 +183,12 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
     cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
     ras Milevskis, ardamas žemę, iškasė tą figūrą*.
-  citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*."
+  citata_rodoma: |
+    Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
+    cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­
+    ras Milevskis, ardamas žemę, iškasė tą figūrą*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +197,6 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - t-187906
     - t-188519
     - t-194698
-
 - id: c-173731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -148,6 +216,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

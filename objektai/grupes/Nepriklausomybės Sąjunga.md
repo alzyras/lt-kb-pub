@@ -59,6 +59,10 @@ Visuomeninė draugija.
 - t-001
   global_id: t-195664
   teiginys: "Nepriklausomybės Sąjungos pirmininku buvo straipsnyje minimas velionis."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178066
 
@@ -66,6 +70,10 @@ Visuomeninė draugija.
 - t-002
   global_id: t-195665
   teiginys: "Nepriklausomybės Sąjunga buvo didelė po visą Suomiją paplitusi draugija."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178066
 
@@ -73,6 +81,10 @@ Visuomeninė draugija.
 - t-003
   global_id: t-195666
   teiginys: "Nepriklausomybės Sąjungos tikslas buvo stiprinti Suomijos nepriklausomybę."
+  atnaujinta: "2026-07-12 11:11"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178066
 - susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
@@ -94,8 +106,10 @@ Visuomeninė draugija.
     pc visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia,
     rūpi­
     nasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
-  citata_rodoma: "Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje."
+  citata_rodoma: |
+    Yra vėl kita Suomijoj draugija, kurioj velionis gyvai dalyvavo ir net buvo jos pirmininkas, tai Nepriklausomybės Sąjunga. Tai didelė, po visą kraštą paplitusi draugija, kuri, kaip jos vardas skelbia, rūpinasi sutvirtinti Suomijos nepriklausomybę, ugdant tokią dvasią tautoje.
   statusas: verified
+  atnaujinta: "2026-07-12 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

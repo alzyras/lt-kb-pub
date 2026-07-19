@@ -39,6 +39,20 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - t-001
   global_id: t-186404
   teiginys: "Lietuvių ir rygiečių sąjunga buvo grindžiama principu „mano priešo priešas yra mano draugas“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai įvardija lietuvių ir rygiečių sąjungą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rygiečiai (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1297 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-169749
 
@@ -46,6 +60,18 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - t-002
   global_id: t-186405
   teiginys: "Ivinskis posakiu „mano priešo priešas yra mano draugas“ apibūdino lietuvių ir rygiečių sąjungos pagrindą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo lietuvių ir rygiečių sąjungą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rygiečiai (0.93)"
   pagrindžia:
     - c-169750
 
@@ -53,6 +79,18 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - t-003
   global_id: t-186406
   teiginys: "Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai kalba apie lietuvių ir rygiečių sąjungą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rygiečiai (0.95)"
   pagrindžia:
     - c-169750
 
@@ -60,6 +98,21 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - t-004
   global_id: t-186407
   teiginys: "Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas tiesiogiai mini lietuvių ir rygiečių sąjungą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rygiečiai (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1297 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-169749
 
@@ -76,15 +129,21 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     priešas yra mano draugas.
     Nuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,
     kurią visada palaikė arkivyskupas, 1297 m. virto atviru karu.
-  citata_rodoma: "Lietuvių ir\nrygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė\ntris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo\npriešas yra mano draugas.\nNuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,\nkurią visada palaikė arkivyskupas, 1297 m. virto atviru karu."
+  citata_rodoma: |
+    Lietuvių ir
+    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
+    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
+    priešas yra mano draugas.
+    Nuo Mindaugo laikų besitęsią nesutikimai tarp ordino ir Rygos,
+    kurią visada palaikė arkivyskupas, 1297 m. virto atviru karu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186404
     - t-186407
-
 - id: c-169750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -96,8 +155,15 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
     tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
     priešas yra mano draugas.
-  citata_rodoma: "Krikščionių\npasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­\njungininku Rygos miesto ir Livonijos arkivyskupo. Lietuvių ir\nrygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė\ntris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo\npriešas yra mano draugas."
+  citata_rodoma: |
+    Krikščionių
+    pasauliui atrodė nuostabu, kaip pagonis Vytenis tapo ištikimu są­
+    jungininku Rygos miesto ir Livonijos arkivyskupo. Lietuvių ir
+    rygiečių sąjunga, atnaujinta vėliau prie Gedimino, iš viso patvėrė
+    tris dešimtmečius. Ji buvo pagrįsta gyvenimo dėsniu : mano priešo
+    priešas yra mano draugas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

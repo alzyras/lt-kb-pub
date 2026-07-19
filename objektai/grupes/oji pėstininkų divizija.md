@@ -33,6 +33,18 @@ media_all_json: |-
 - t-001
   global_id: t-80636
   teiginys: "Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> oji pėstininkų divizija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "L. Želigovskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "oji pėstininkų divizija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje L. Želigovskio puolimas tiesiogiai nukreiptas į 1-osios pėstininkų divizijos užimamą barą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "L. Želigovskis puolė oji pėstininkų divizija (0.91)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-77335
 
@@ -53,13 +65,20 @@ media_all_json: |-
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
+  citata_rodoma: |
+    Prieš kautynes
+
+    Sutelkęs stambias pajėgas, gen. L. Želi-
+    govskis lapkričio 17 d. auštant pradėjo
+    savo didžiąją ofenzyvą, puldamas lie-
+    tuvių 1-osios pėstininkų divizijos uži-
+    mamą barą nuo Nėries iki Dubingių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80636
-
 ## Ryšiai
 - Puolė oji pėstininkų diviziją: [[objektai/asmenys/L. Želigovskis]]

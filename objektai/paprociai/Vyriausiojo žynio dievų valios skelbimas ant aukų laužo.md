@@ -48,9 +48,23 @@ Nenurodyta
 - t-001
   global_id: t-189879
   teiginys: "Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyriausiojo žynio dievų valios skelbimas ant aukų laužo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo žynio dievų valios skelbimas ant aukų laužo\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172762
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais.'
@@ -68,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189879
 ## Citatos
 
 - id: c-172762
@@ -85,8 +98,15 @@ Nenurodyta
     prašyti pasigailėjimo. Religija suteikdavo kriviams valdžią tam
     tikroje apygardoje, apskrityje arba vėliavoje; jam buvo paval­
     dūs visi žemesnieji kunigai.
-  citata_rodoma: "Kai tik kas numirdavęs, to\nšešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­\nkėdavęs patekti su žemesniojo krivio duotu leidimu į laimės\nprieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­\nvaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­\nšiojama vyriausiojo žynio lazda su trimis užlenkimais."
+  citata_rodoma: |
+    Kai tik kas numirdavęs, to
+    šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
+    kėdavęs patekti su žemesniojo krivio duotu leidimu į laimės
+    prieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­
+    vaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­
+    šiojama vyriausiojo žynio lazda su trimis užlenkimais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

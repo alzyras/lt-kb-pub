@@ -54,6 +54,16 @@ Nenurodyta
 - t-001
   global_id: t-67244
   teiginys: "Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šturmovųjų grupių fronto pralaužimo taktika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šturmovųjų grupių fronto pralaužimo taktika\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43183
 
@@ -61,6 +71,16 @@ Nenurodyta
 - t-002
   global_id: t-67245
   teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> durtuvų kautynės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šturmovųjų grupių fronto pralaužimo taktika: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "durtuvų kautynės: mention_match, thing, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šturmovųjų grupių fronto pralaužimo taktika\" parinktas kaip owner_note_path. Targetas \"durtuvų kautynės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12437
 
@@ -76,12 +96,12 @@ Nenurodyta
     sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
     tai ir puolė tokiu pat būdu kaip ir bolševikus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67245
-
 - id: c-43183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -95,6 +115,7 @@ Nenurodyta
     | gerai apmokyti prancūzų taktikos. Kai prasidėjo puolimas,
     | tai jie ir lindo kyliais vienas paskui kitą kaip skėriai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

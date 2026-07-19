@@ -40,6 +40,20 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 - t-001
   global_id: t-189505
   teiginys: "Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, atlikdavusi apeigas deivei Upinei."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> kunigas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Upinės moterų brolija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "kunigas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upinės moterų brolija\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172393
 
@@ -47,6 +61,20 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
 - t-002
   global_id: t-189506
   teiginys: "Narbutas pasakojo, kad iki uždraudimo Upinės moterų brolija per Rasas rinkdavosi prie upelio vadovaujama nepažįstamos senės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Raganos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Upinės moterų brolija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Raganos: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upinės moterų brolija\" parinktas kaip owner_note_path. Targetas \"Raganos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172394
 
@@ -66,12 +94,12 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     kas (Jankowski) smulkiai pasakojo, ką pats prieš 40 metų ma­
     tęs.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189505
-
 - id: c-172394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -88,6 +116,7 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
     paršelių, sidabrinių pinigų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

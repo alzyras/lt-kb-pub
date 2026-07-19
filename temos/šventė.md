@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 70
+tema_objektu_skaicius: 71
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 70.
+Objektų skaičius: 71.
 
 ## Kaip naudoti
 
@@ -30,6 +30,7 @@ Objektų skaičius: 70.
 - [[objektai/asmenys/Bernardas]]
 - [[objektai/asmenys/Domininkas]]
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
+- [[objektai/asmenys/Grigalius X]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/asmenys/Pranciškus]]
@@ -52,7 +53,7 @@ Objektų skaičius: 70.
 - [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]
+- [Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu](../objektai/paprociai/Kapini%C5%B3%20%C5%A1ventinimas%20ir%20kap%C5%B3%20%C5%A1lakstymas%20%C5%A1v%C4%99stu%20vandeniu)
 - [Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas](../objektai/paprociai/Karaliaus%20prie%C5%A1m%C5%AB%C5%A1inis%20ceremonialas%20riteri%C5%B3%20%C5%A1ventinimas%20ir%20pasiuntini%C5%B3%20pri%C4%97mimas)
 - [Kasmet minimos Dioniso (Bacho) šventės ir bakchanalijos budinų tvirtovėse](../objektai/paprociai/Kasmet%20minimos%20Dioniso%20%28Bacho%29%20%C5%A1vent%C4%97s%20ir%20bakchanalijos%20budin%C5%B3%20tvirtov%C4%97se)
 - [Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)](../objektai/paprociai/Kilming%C5%B3%20semb%C5%B3%20per%C4%97jimas%20%C4%AF%20Karaliau%C4%8Diaus%20pil%C4%AF%20su%20%C5%A1eimynomis)

@@ -28,23 +28,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Boleslovas iškilmingai perkėlė Vaitiekaus kūną į Gnezno katedrą, kur kūnas esą rodė stebuklus.
+Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo savo gyvybą padėjusį, pardangino su iškilme kūną jo iš klioštoriaus į Gnezno katedrą, kur stebuklus rodė ne vien lenkams, bet dar teuto nams ir italionims, kurią vietą ne vien žmonės.
 
 ## Teiginiai
 
 <a id="claim-t-201160"></a>
 - t-001
   global_id: t-201160
-  teiginys: "Daukanto pasakojime Boleslovas iškilmingai perkėlė Vaitiekaus kūną į Gnezno katedrą, kur kūnas esą rodė stebuklus."
+  teiginys: "Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo savo gyvybą padėjusį, pardangino su iškilme kūną jo iš klioštoriaus į Gnezno katedrą, kur stebuklus rodė ne vien lenkams, bet dar teuto nams ir italionims, kurią vietą ne vien žmonės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184510
 
 ## Citatos
 
 - id: c-184510
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 139"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet kūnas mūčelnyko keis­
     tai lengvu pasidarė, kaipogi būk vienas skatikas
@@ -63,6 +68,7 @@ Daukanto pasakojime Boleslovas iškilmingai perkėlė Vaitiekaus kūną į Gnezn
     se 1008 su 18 savo tarnų, tarp kurių du buvusiu
     zokanyku.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

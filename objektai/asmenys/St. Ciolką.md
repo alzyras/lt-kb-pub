@@ -34,6 +34,17 @@ Ciolką.
 - t-001
   global_id: t-34827
   teiginys: "St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> St. Ciolką: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "St. Ciolką: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Protegavimas tiesiogiai reiškia Vytauto paramą St. Ciolkai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė St. Ciolką (0.90)"
   pagrindžia:
     - c-36052
 
@@ -54,11 +65,11 @@ Ciolką.
     Bažnyčios visuotinį susirinkimą, kurio popiežius tuo tarpu ne­
     norėjo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34827
-
 ## Ryšiai
 - Rėmė St. Ciolką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

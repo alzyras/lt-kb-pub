@@ -41,9 +41,22 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
 - t-001
   global_id: t-60452
   teiginys: "Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas (Vanka): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas (Vanka)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1320 m.; valdymo laikotarpis: apie 1320 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vaclovas (Vanka) buvo valdovas Plockas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas asmens vaidmuo ir pašalinta nereikalinga šaltinio atribucija."
   pagrindžia:
     - c-61084
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.'
@@ -58,8 +71,7 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60452
 ## Citatos
 
 - id: c-61084
@@ -72,8 +84,12 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
     sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
+  citata_rodoma: |
+    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
+    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
+    kelius vakaruose ir šiaurėje blokavo Ordinas).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

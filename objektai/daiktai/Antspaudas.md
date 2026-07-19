@@ -64,6 +64,19 @@ Nenurodyta
 - t-001
   global_id: t-64897
   teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antspaudas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys negramatiškas; citata aiškiai palaiko pataisytą faktą."
   pagrindžia:
     - c-14295
 
@@ -71,6 +84,16 @@ Nenurodyta
 - t-002
   global_id: t-64898
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antspaudas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14294
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
@@ -260,8 +283,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-14294
@@ -277,14 +298,18 @@ Nenurodyta
     metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
-  citata_rodoma: "Prūsų istorikas Voigtas (apie 1825\nmetus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­\nmi tos sutarties originalą, sakė esą matę visų keturių valdovų\nsveikas antspaudas^2 )."
+  citata_rodoma: |
+    Prūsų istorikas Voigtas (apie 1825
+    metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
+    mi tos sutarties originalą, sakė esą matę visų keturių valdovų
+    sveikas antspaudas^2 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64898
-
 - id: c-14295
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -298,13 +323,15 @@ Nenurodyta
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
     (^2) ) C. ep. V., 223.
-  citata_rodoma: "c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­\ndome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj."
+  citata_rodoma: |
+    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
+    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64897
-
 ## Ryšiai
 - Antspaudas priklausė [[objektai/asmenys/Katilas]]

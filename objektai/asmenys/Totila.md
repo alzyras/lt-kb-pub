@@ -33,6 +33,20 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 - t-001
   global_id: t-191478
   teiginys: "Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Justinianas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Justinianas: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totila\" parinktas kaip owner_note_path. Targetas \"Justinianas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174360
 
@@ -40,6 +54,12 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 - t-002
   global_id: t-197834
   teiginys: "Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174360
 - susijęs iš [[objektai/grupes/Persai.md#claim-t-192440|Persai]]: 552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.
@@ -59,6 +79,7 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
     bės provincijose po to, kai prieš keturiasdešimt metų bu­
     vo išblaškyti, liko šiose vietose gyventi1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

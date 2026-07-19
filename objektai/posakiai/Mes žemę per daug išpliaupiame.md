@@ -51,6 +51,10 @@ Trumpa žemdirbių formulė apie perdirbtą žemę.
 - t-001
   global_id: t-195413
   teiginys: "Ūkininkai taip apibūdindavo pernelyg išpliautą dirvą."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177834
 
@@ -73,8 +77,10 @@ Trumpa žemdirbių formulė apie perdirbtą žemę.
     susmulkinta ir nepatikdavo augalams, ypač miežiams, tvirtos žemės*
     Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliau-
     piame.“
-  citata_rodoma: "Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“"
+  citata_rodoma: |
+    Patys ūkininkai suprasdami tai, sakydavo: „Mes žemę per daug išpliaupiame.“
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

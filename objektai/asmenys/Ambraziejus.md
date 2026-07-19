@@ -32,6 +32,11 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
 - t-001
   global_id: t-191365
   teiginys: 'Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas Ambraziejaus išlaisvinimo veiksmas ir palikta Narbuto pasakojimo atribucija. Nepridėta, kas buvo šventasis vyras ar kodėl Ambraziejus buvo sukaustytas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Odoakras|Odoakras]]; mentioned_place: Italija'
   pagrindžia:
     - c-174247
 
@@ -54,8 +59,9 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
     Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
     tą jam reikėjo rengti karo žygius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191365

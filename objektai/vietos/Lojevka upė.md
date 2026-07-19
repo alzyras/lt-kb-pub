@@ -33,6 +33,17 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
 - t-001
   global_id: t-41884
   teiginys: "Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Lojevka upė: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lojevka upė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai gynė Lojevka upė (0.80)"
   pagrindžia:
     - c-45193
 
@@ -53,8 +64,17 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
     centre buvo kavalerija. Lietuvių pėstininkai
     atlaikė kazokų kavalerijos ataką ir apgynė
     savo flangus.
-  citata_rodoma: "“\n\nMūšis J. Radvilos pajėgų sparnuose stovėjo\npėstininkai ir dragūnai (jie gynė Lojevkos\nupės, juosiančios stovyklą, užtvanką), o\ncentre buvo kavalerija. Lietuvių pėstininkai\natlaikė kazokų kavalerijos ataką ir apgynė\nsavo flangus."
+  citata_rodoma: |
+    “
+
+    Mūšis J. Radvilos pajėgų sparnuose stovėjo
+    pėstininkai ir dragūnai (jie gynė Lojevkos
+    upės, juosiančios stovyklą, užtvanką), o
+    centre buvo kavalerija. Lietuvių pėstininkai
+    atlaikė kazokų kavalerijos ataką ir apgynė
+    savo flangus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194811
   teiginys: "Kai kraštą ištikdavo pralaimėjimai ir nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą, arba reikėdavo, kad kas nors savo noru susidegintų ant laužo ar žūtų kovoje su priešu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177207
 
@@ -71,6 +78,7 @@ Nenurodyta
     deginti ant laužo, kad būtų išmelstas dievų palankumas tėvy­
     nei; apie tai jau kalbėjome straipsnyje apie Krivių Krivaitį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

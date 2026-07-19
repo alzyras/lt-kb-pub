@@ -34,6 +34,16 @@ Saremas brolis Otto (Blanehom).
 - t-001
   global_id: t-87815
   teiginys: "Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Saremas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Otto Blanehom: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Saremas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otto Blanehom\" parinktas kaip owner_note_path. Targetas \"Saremas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83794
 
@@ -58,8 +68,20 @@ Saremas brolis Otto (Blanehom).
     m n
     Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
     tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
-  citata_rodoma: "Myko­\nlo, išverstos iš vokiečių į lotynų kalbą. Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom)."
+  citata_rodoma: |
+    Myko­
+    lo, išverstos iš vokiečių į lotynų kalbą. Be išsamaus išvar­
+    dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
+    kapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties
+    miesto vyskupo, Danijos karaliaus ginkluoto būrio vado,
+    Vokiečių ordinom  ir Rygos miesto pusės ir be nurodymo
+    žemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­
+    giau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų
+    besitariančių pusių kraštuose, apie teisišką sprendimą gin­
+    * wenbrulie), Mintaujos komtūras ir
+    Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

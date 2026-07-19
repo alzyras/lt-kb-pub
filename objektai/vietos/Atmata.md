@@ -33,9 +33,13 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 - t-001
   global_id: t-58682
   teiginys: "Atlanto vandenynas Atmata, u."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59314
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atlanto vandenynas Atmata, u.'
@@ -51,8 +55,7 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58682
 ## Citatos
 
 - id: c-59314
@@ -72,8 +75,12 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
     Christburg, Aldinkirsburg, Kirseburg ir pan., vėliau Alt Christburg, dab. Stary Dzierzgoń)
     Kristburgas Naujasis (Kirsburg, Cristburg, Christiborc ir pan. prūsų Zirgūnos vietoje;
     Christburgas, dab.
-  citata_rodoma: "Atlanto vandenynas\nAtmata, u.\nAtrebatas (dab."
+  citata_rodoma: |
+    Atlanto vandenynas
+    Atmata, u.
+    Atrebatas (dab.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

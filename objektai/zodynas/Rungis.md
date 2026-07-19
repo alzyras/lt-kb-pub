@@ -33,9 +33,23 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
 - t-001
   global_id: t-189329
   teiginys: "Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rungis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rungis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172216
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant.'
@@ -51,8 +65,7 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189329
 ## Citatos
 
 - id: c-172216
@@ -68,8 +81,13 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
     teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
     kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
     je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?
-  citata_rodoma: "Rungis (Rungis)\nMalūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­\ndų ir malant pripila. Sako, kad gyvena pas savo garbintojus,\npasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių ."
+  citata_rodoma: |
+    Rungis (Rungis)
+    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
+    dų ir malant pripila. Sako, kad gyvena pas savo garbintojus,
+    pasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių .
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

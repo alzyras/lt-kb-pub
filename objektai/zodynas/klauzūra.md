@@ -33,6 +33,16 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 - t-001
   global_id: t-58853
   teiginys: "Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "klauzūra: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"klauzūra\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59484
 
@@ -52,8 +62,16 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
     daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
     bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
     kojomis.
-  citata_rodoma: "Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,\nneskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų\nir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus,  ir\nbažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,\ndaugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną\nbei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė\nkojomis."
+  citata_rodoma: |
+    Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų. Jie žudė kunigus bei kitus dvasininkus,  ir
+    bažnytinius, ir pasaulietinius, vienus — už bažnyčios sienų, kitus — pačioje bažnyčioje,
+    daugelį — prie altoriaus, netgi tuo metu, kai šie teikė švenčiausiojo Jėzaus Kristaus kūną
+    bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
+    kojomis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

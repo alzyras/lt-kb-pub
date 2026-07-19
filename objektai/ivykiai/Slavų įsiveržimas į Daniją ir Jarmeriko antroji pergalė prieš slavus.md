@@ -46,6 +46,21 @@ Nenurodyta
 - t-001
   global_id: t-191075
   teiginys: "Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Slavai: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jarmerikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys aiškiai nurodo Jarmeriko pergalę prieš slavus, kas palaiko karinį priešiškumą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jarmerikas kariavo prieš Slavai (0.79); Slavai puolė Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus (0.72)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173957
 
@@ -67,6 +82,7 @@ Nenurodyta
     galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
     viais, jog visiškai įbauginta liaudis vėl nusižemino.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

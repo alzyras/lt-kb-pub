@@ -32,6 +32,21 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
 - t-001
   global_id: t-191841
   teiginys: "Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurlamą, kurį Torfėjo chronologija siejo su III amžiumi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_dukte -> Heiraudas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heiridė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Heiraudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai įvardija Heiridę kaip Heiraudo dukrą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Heiridė buvo duktė Heiraudas (0.95); Heiraudas buvo valdovas Rusai (0.82)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174723
 
@@ -53,6 +68,7 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
     vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
     žmonos gimtąją žemę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

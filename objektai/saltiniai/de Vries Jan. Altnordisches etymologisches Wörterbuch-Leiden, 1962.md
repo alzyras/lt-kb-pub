@@ -38,9 +38,15 @@ Dusburgietis teigia, kad de Vries Jan.
 - t-001
   global_id: t-61065
   teiginys: "Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61697
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
@@ -55,8 +61,7 @@ Dusburgietis teigia, kad de Vries Jan.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61065
 ## Citatos
 
 - id: c-61697
@@ -68,8 +73,11 @@ Dusburgietis teigia, kad de Vries Jan.
     источник. — Проблемы источниковедения, М., 1959, 7. с. 357—390.
     Пашуто В. Т.  Образование Литовского государства — М., 1959.
     Пашуто В. Т.  Гродно в Хронике Петра Дусбурга.
-  citata_rodoma: "de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.\n  Wróblewski R."
+  citata_rodoma: |
+    de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
+      Wróblewski R.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

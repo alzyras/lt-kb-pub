@@ -33,6 +33,12 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
 - t-003
   global_id: t-194033
   teiginys: "Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170343
 
@@ -40,16 +46,18 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
 - t-001
   global_id: t-187305
   teiginys: 'Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl sankasos, kirtusios Lanės upę ir jos slėnį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai suformuluotas ir remiasi citatos paaiškinimu apie tvenkinio susidarymą. OCR triukšmas neperkeliamas į sprendimą.'
   pagrindžia:
-    - c-170344
-
+    - c-002
 <a id="claim-t-187308"></a>
 - t-002
   global_id: t-187308
   teiginys: 'Raudonasis tvenkinys buvo Lanės upės praplatėjimas ties Klecku, į vakarus nuo miestelio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Raudonojo tvenkinio vietą ir pobūdį. Jis sutampa su citatos geografiniu paaiškinimu.'
   pagrindžia:
-    - c-170344
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -64,14 +72,13 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
     darė i šiaurę nuo Pinsko— Klecko vieškelio dėl vieškelio sankasos,
     kertančios Lonės upę Ir jo s slėnį į pietvakarius nuo Klecko.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-187305
+    - t-187308
 ## Citatos
 
 - id: c-170343
@@ -101,8 +108,12 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
     tai raštais ta prasme, kad jis Vilniaus niekados nebe-
     reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
     Vitebske.
-  citata_rodoma: "Paskui Lietuvos kariuomenė\npasidarė abipus Raudonojo tvenkinio užtvankos du\nperėjimus per upę."
+  citata_rodoma: |
+    Paskui Lietuvos kariuomenė
+    pasidarė abipus Raudonojo tvenkinio užtvankos du
+    perėjimus per upę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

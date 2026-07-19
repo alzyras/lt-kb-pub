@@ -32,9 +32,16 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
 - t-001
   global_id: t-191724
   teiginys: "T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip Maljasz arba Matas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174606
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip Maljasz arba Matas.'
@@ -61,8 +68,7 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191724
 ## Citatos
 
 - id: c-174606
@@ -80,8 +86,24 @@ T. Volianskio laiške T. Narbutui vardas „Maitez (MATTEZ)“ aiškinamas kaip 
     liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
     erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
-  citata_rodoma: "501\n\n## Puslapis 511\n\n184 /Ten pat,\n5\npastraipos\ntęsinys/\nPonas Tadas Volianskis skaito\n, Maitez (MATTEZ),\nt. y. Maljasz, arba Matas.\nSakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­\nmą (PEį. L. 274). Tai informacija iš to paties T„ Volianskio laiš­\nko, T. Narbutui\n(Ten pat)."
+  citata_rodoma: |
+    501
+
+    ## Puslapis 511
+
+    184 /Ten pat,
+    5
+    pastraipos
+    tęsinys/
+    Ponas Tadas Volianskis skaito
+    , Maitez (MATTEZ),
+    t. y. Maljasz, arba Matas.
+    Sakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­
+    mą (PEį. L. 274). Tai informacija iš to paties T„ Volianskio laiš­
+    ko, T. Narbutui
+    (Ten pat).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

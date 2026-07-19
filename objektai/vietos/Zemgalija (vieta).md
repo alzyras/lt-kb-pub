@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Po pergalės žemaičiai tuo pačiu žygiu nusiaubė Zemgaliją, pasiėmė grobio ir grįžo namo.
+Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę.
 
 ## Teiginiai
 
 <a id="claim-t-201179"></a>
 - t-001
   global_id: t-201179
-  teiginys: "Po pergalės žemaičiai tuo pačiu žygiu nusiaubė Zemgaliją, pasiėmė grobio ir grįžo namo."
+  teiginys: "Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184529
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-201461|Žemaičiai]]: Daukanto pasakojime po pergalės žemaičiai nusiaubė Žemgaliją, žudė ir naikino sutiktuosius, prisiplėšė grobio ir grįžo namo, o giriose tykoję žemgaliai pasaloje nužudė dalį grįžtančių žemaičių.
+
 ## Citatos
 
 - id: c-184529
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 210"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rygoj pilionys, išgirdę tą nuokrytį, nusiminė,
     vieni raudojo, kiti meldės, o seni vaikams tvirtino,
@@ -63,11 +68,9 @@ Po pergalės žemaičiai tuo pačiu žygiu nusiaubė Zemgaliją, pasiėmė grobi
     siuntiniams, igumiai nenorėjo nei prekių grąžinti,
     nei sandarų su letgaliais daryti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201179
-
-## Ryšiai
-- Puolė Zemgaliją (vieta): [[objektai/grupes/Žemaičiai]]

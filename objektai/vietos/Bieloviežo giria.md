@@ -33,6 +33,18 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
 - t-001
   global_id: t-187169
   teiginys: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bieloviežo giria: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bieloviežo giria\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170263
 
@@ -58,8 +70,12 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
     pasiuntinius pas popiežių, prašydamas šventąjį tėvą-
     popiežių, kad jis duotų Vytautui vainiką pagal krikš­
     čionišką paprotį.
-  citata_rodoma: "Paskui didysis kunigaikštis Vytautas pasikvietė ka­\nralių Jogailą 1  žiemai pas save į Bieloviežo girią me­\ndžioti pramogai stumbrų."
+  citata_rodoma: |
+    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
+    ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­
+    džioti pramogai stumbrų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

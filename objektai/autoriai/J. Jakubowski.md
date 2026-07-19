@@ -42,6 +42,19 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - t-001
   global_id: t-64628
   teiginys: "J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Jakubowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakubowski\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1907 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs bibliografinis fragmentas, todėl jį reikia paversti pilnu sakiniu."
   pagrindžia:
     - c-36655
 
@@ -49,6 +62,18 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - t-002
   global_id: t-64629
   teiginys: "J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“"
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Jakubowski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakubowski\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1907 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-65306
 
@@ -64,14 +89,16 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
-  citata_rodoma: "3\n) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.)."
+  citata_rodoma: |
+    3
+    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64628
-
 - id: c-65306
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -83,6 +110,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     stosunkami narodowościowymi na Litwie przed unią lubelską,_ Varšuva
     1912 ; liet. vertimas, Kaunas 1921.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

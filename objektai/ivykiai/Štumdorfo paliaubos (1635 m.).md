@@ -52,6 +52,20 @@ Nenurodyta
 - t-001
   global_id: t-01892
   teiginys: "Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Švedai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkų bajorija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Paliaubos sudarytos su švedais, kurie tame pačiame kontekste įvardyti kaip kita šalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Lenkų bajorija sudarė sutartį su Švedai (0.72)"
+  temporaliniai_duomenys: "įvykio data: po 1629 m.; įvykio data: 1629 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pagrįstas citata, bet verta aiškiai įvardyti paliaubas pagal objekto pavadinimą."
   pagrindžia:
     - c-02130
 
@@ -69,8 +83,11 @@ Nenurodyta
     duoti savo ūkio produktus. Karalių palaikė tik Lietuva, kuriai
     rūpėjo atgauti Livoniją. Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
-  citata_rodoma: "Po ilgų derybų Lenkijos ponai prieš\nkaraliaus valią padarė 26 m. paliaubas."
+  citata_rodoma: |
+    Po ilgų derybų Lenkijos ponai prieš
+    karaliaus valią padarė 26 m. paliaubas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

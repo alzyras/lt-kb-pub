@@ -39,6 +39,13 @@ Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl
 - t-001
   global_id: t-193532
   teiginys: "Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl kryžiuočių atsirado netikėtų didelių kliūčių."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176212
 
@@ -67,6 +74,7 @@ Pasak Kojelavičiaus, Žemaičių vyskupystės steigimą teko atidėti, nes dėl
     taip nuniokojo, kad jis vėliau niekada jau nebegalėjo
     pasiekti ankstesnio didingumo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

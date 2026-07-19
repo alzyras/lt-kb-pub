@@ -42,6 +42,12 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 - t-001
   global_id: t-79110
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica Oršos mūšyje vadovavo dešiniajam flangui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1516 m.; įvykio data: 1551 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Claimas yra aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-76199
 
@@ -49,6 +55,12 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 - t-002
   global_id: t-79111
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1516 m.; įvykio data: 1551 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-76199
 
@@ -75,8 +87,23 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     37 m. praleidęs nelais-
     vėje Lietuvoje, jau senas,
     1551 m. grįžo į tėvynę.
-  citata_rodoma: "Po Oršos mūšio\npatekęs į nelaisvę, jis joje\nir mirė - Vilniuje, 1516 m.\nKunigaikštis Micha-\n\nilas Bulgakovas-Golica,\nvienas iš vaivadų, pa-\nsiųstų Oršos link, mū-\nšyje vadovavo dešiniajam\nflangui. Pergyveno dau-\ngelį amžininkų, kurie\nkovėsi mūšyje, ir net\n\n37 m."
+  citata_rodoma: |
+    Po Oršos mūšio
+    patekęs į nelaisvę, jis joje
+    ir mirė - Vilniuje, 1516 m.
+    Kunigaikštis Micha-
+
+    ilas Bulgakovas-Golica,
+    vienas iš vaivadų, pa-
+    siųstų Oršos link, mū-
+    šyje vadovavo dešiniajam
+    flangui. Pergyveno dau-
+    gelį amžininkų, kurie
+    kovėsi mūšyje, ir net
+
+    37 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

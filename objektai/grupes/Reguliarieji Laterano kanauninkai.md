@@ -30,6 +30,13 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
 - t-001
   global_id: t-200834
   teiginys: "Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco sumanymais Antakalnio bažnyčios dekoracijos ikonografinėje programoje."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184179
 
@@ -47,6 +54,7 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
     vienuolyno įnamių. Jų patriarchu buvo šv. Augustinas, ir pagrindinės jo
     mokslo tezės turėjo atsispindėti Antakalnio bažnyčios dekoracijoje.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

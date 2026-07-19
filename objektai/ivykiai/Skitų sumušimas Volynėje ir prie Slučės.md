@@ -46,6 +46,19 @@ Nenurodyta
 - t-001
   global_id: t-185768
   teiginys: "Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skitų sumušimas Volynėje ir prie Slučės: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skitų sumušimas Volynėje ir prie Slučės\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169129
 
@@ -72,8 +85,23 @@ Nenurodyta
     grobęs ir įkurdinęs ten savo įgulas, o jis pats privalo
     likti Maskvos kunigaikštystėje kaip tremtinys, neturė­
     damas jokios vilties kada sugrįžti.
-  citata_rodoma: "Karalius, užbaigęs ka­\nrą su Maskva, dalį algininkų paleido, o su kitais pa­\nsiuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo\nskitai, padaliję savo kariuo-\nS k ita i su m u ša m i Vo-\nmenę trimis žygio voromis,\nly n ė je\nsmarkiai nuniokojo Volynę\ntuo metu, kai dėl karo su\nMaskva čia nebuvo likę nei karių, nei karvedžių. Nio­\nkotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­\nsos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­\nkeldami didelę baimę Slucko krašte ir smarkiai jį\nnusiaubdami."
+  citata_rodoma: |
+    Karalius, užbaigęs ka­
+    rą su Maskva, dalį algininkų paleido, o su kitais pa­
+    siuntė į Volynę Konstantiną Ostrogiškį. Mat Krymo
+    skitai, padaliję savo kariuo-
+    S k ita i su m u ša m i Vo-
+    menę trimis žygio voromis,
+    ly n ė je
+    smarkiai nuniokojo Volynę
+    tuo metu, kai dėl karo su
+    Maskva čia nebuvo likę nei karių, nei karvedžių. Nio­
+    kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
+    sos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­
+    keldami didelę baimę Slucko krašte ir smarkiai jį
+    nusiaubdami.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

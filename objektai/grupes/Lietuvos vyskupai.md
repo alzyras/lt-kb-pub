@@ -33,6 +33,16 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
 - t-001
   global_id: t-35714
   teiginys: "Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos vyskupai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kulmija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos vyskupai\" parinktas kaip owner_note_path. Targetas \"Kulmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38280
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172101|Husitai]]: Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.
@@ -51,8 +61,12 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
     kruoti vyskupai. Tada popiežius pasiskubino ir tam pavojui už­
     kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
     klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
-  citata_rodoma: "Tada popiežius pasiskubino ir tam pavojui už­\nkirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­\nklausančiam Kulmijos vyskupui karūnuoti Vytautą^1 )."
+  citata_rodoma: |
+    Tada popiežius pasiskubino ir tam pavojui už­
+    kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
+    klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

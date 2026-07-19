@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Ptolomais pilį tapatino su šiandien Akra vadinamu miestu ir pasakojo, kad Ptolomais krikščionių kariauną ištiko toks pats maras kaip Antiochijoje.
+Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats kas Antiochijoj nutiko.
 
 ## Teiginiai
 
 <a id="claim-t-201150"></a>
 - t-001
   global_id: t-201150
-  teiginys: "Daukantas Ptolomais pilį tapatino su šiandien Akra vadinamu miestu ir pasakojo, kad Ptolomais krikščionių kariauną ištiko toks pats maras kaip Antiochijoje."
+  teiginys: "Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats kas Antiochijoj nutiko."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184500
 
 ## Citatos
 
 - id: c-184500
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 178"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 178."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau metuose 1190 viešpats saracėnų, vardu
     Saladinas, atėmė krikščionims apent Jeruzolimą, tuo
@@ -67,6 +72,7 @@ Daukantas Ptolomais pilį tapatino su šiandien Akra vadinamu miestu ir pasakojo
     tis ir tuointimpos grumiantis daug svieto, užvis pa­
     žeistųjų, gaišo1*.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

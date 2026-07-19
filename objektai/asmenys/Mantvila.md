@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai. Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai. Daukantas Mantvilą vadina Žemaičių kunigaikščiu ir aprašo, kad jis, sutelkęs žemaičių bei lietuvių karius, vėl žygiavo į Baltuosius Gudus.
+Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai. Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai. Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus.
 
 ## Teiginiai
 
@@ -42,13 +42,26 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 - t-002
   global_id: t-194114
   teiginys: "Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176727
 
 <a id="claim-t-201012"></a>
 - t-003
   global_id: t-201012
-  teiginys: "Daukantas Mantvilą vadina Žemaičių kunigaikščiu ir aprašo, kad jis, sutelkęs žemaičių bei lietuvių karius, vėl žygiavo į Baltuosius Gudus."
+  teiginys: "Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184362
 
@@ -56,9 +69,12 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 - t-001
   global_id: t-194113
   teiginys: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimo triukšmas ir OCR klaidos. Valdovo titulas bei genealoginis kronikos pasakojimas palikti su atribucija.'
   pagrindžia:
-    - c-176726
-- susijęs iš [[objektai/ivykiai/Mantvilos žygis į Baltuosius Gudus.md#claim-t-201331|Mantvilos žygis į Baltuosius Gudus]]: Daukanto vadinamas Žemaičių kunigaikščiu Mantvila su žemaičių ir lietuvių kariais, persikėlusiais per patvinusią Daugavą, netikėtai puolė gudus, sugriovė Lotavės pilį ir grįžo su grobiu.
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
@@ -78,13 +94,12 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     į Černigovo miestą6  ir paskui sužinojo, kad Kijevo
     miestas sudegintas ir visa Rusų žemė nusiaubta.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194113
 ## Citatos
 
 - id: c-176727
@@ -100,21 +115,31 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
     gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
     Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
-    Stulpų herbo poną, vardu Grumbįl0, o antrą Meškos
+    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
     herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
-    ž įl2.
-  citata_rodoma: "Ir jis sušaukė ka­\nrius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­\nno Drucko miestą ir pasivadino Drucko didžiuoju ku­\nnigaikščiu s.\nO tuo laiku Žemaičių didysis kunigaikštis Mantvila \nsužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­\ngaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui \nErdvilai, pasiuntė su juo savo tarybos ponus — pirmą \nStulpų herbo poną, vardu Grumbįl0 , o antrą Meškos \nherbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau- \nž įl2 ."
+    ž įl2 .
+  citata_rodoma: |
+    Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
+    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
+    gaikščiai išvaikyti. Ir pavedęs kariuomenę savo sūnui
+    Erdvilai, pasiuntė su juo savo tarybos ponus — pirmą
+    Stulpų herbo poną, vardu Grumbįl0 , o antrą Meškos
+    herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
+    ž įl2 .
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194114
-
 - id: c-184362
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 167"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
     Jaroslavui teriones žemgalių, patelkę dar Polocko
@@ -135,6 +160,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     dose kurios daugybes grobio pagrieję, namo par­
     grįžo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,6 +44,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195235
   teiginys: "A. R. Niemio „Lietuvių tautos atgimimas“ paskelbta „Taukomies“ 1926-1927 m."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177601
 
@@ -59,8 +63,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     rodo Karielos runos.
     L. Lietuvių tautos atgimimas.
     Taukomies 1926— 27.
-  citata_rodoma: "L. Lietuvių tautos atgimimas. \nTaukomies 1926— 27."
+  citata_rodoma: |
+    L. Lietuvių tautos atgimimas.
+    Taukomies 1926— 27.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

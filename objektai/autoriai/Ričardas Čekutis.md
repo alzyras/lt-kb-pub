@@ -41,6 +41,18 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - t-001
   global_id: t-40672
   teiginys: "Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ričardas Čekutis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=106"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ričardas Čekutis\" parinktas kaip owner_note_path. Targetas \"Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945 m.; įvykio data: apie 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-44628
 
@@ -100,8 +112,56 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
     tuvos mūšius ir karines operacijas. Lietuvos kariams per ilgą kurti įvairių laikotarpių Lietuvos kario įvaizdį. Stengtasi pateikti
     Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
     teko į šią knygą.
-  citata_rodoma: "pradžioje\nKarolis Zikaras, Vytautas Lesčius 190\nŠiaulių-Radviliškio operacija 1919 Vytautas Lesčius 192\nAugustavo-Suvalkų operacija 1920 Vytautas Lescius 196\nŠirvintų kautynės 1920 Vytautas Lesčius 204\n\nGiedraičių kautynės 1920 Vytautas Lesčius 208\nKlaipėdos sukilimas 1923 Vytautas Lesčius 211\n\nKARAS PO\nKARO 26\n\nKiauneliškių kautynės 1945 Ričardas Čekutis, Dalius Žygelis 218\nAžagų-Eimuliškio miško kautynės 1945 Ričardas Cekutis,\n\nDalius Žygelis 221\n\nKalniškės mūšis 1945 Ričardas Cekutis, Dalius Žygelis 224\n\nŽuvinto Palių kautynės 1945 Ričardas Čekutis, Dalius Žygelis 227\nMerkinės puolimas 1945 Ričardas Cekutis, Dalius Žygelis 230\nLietuvos partizanų apygardos ir jų žymesni atstovai Karolis Zikaras,\nDalius Žygelis 236\n\nŽymiausi Lietuvos partizanų susirėmimai prieš sovietų pajėgas\nArvydas Anušauskas 238\n\nUžpelkių kautynės 1949 Ričardas Čekutis, Dalius Žygelis 240\n\nŠimonių girios apgultis 1949 Ričardas Čekutis, Dalius Žygelis 243\n\nLIETUVOS\nATSIKŪRIMAS 248\n\nAukščiausiosios Tarybos gynyba 1991 Albertas Daugirdas 250\n\nTekstų apie mūšius ir karines operacijas autoriai 264\nPriedai 266\n\nTurinys 5\n\n## Puslapis 8\n\nApie šią knygą\n\nŠioje knygoje pasakojama apie įvairiausių laikų žymiausius Lie- Knygą stengtasi gausiai iliustruoti, kad skaitytojas galėtų susi-\ntuvos mūšius ir karines operacijas."
+  citata_rodoma: |
+    pradžioje
+    Karolis Zikaras, Vytautas Lesčius 190
+    Šiaulių-Radviliškio operacija 1919 Vytautas Lesčius 192
+    Augustavo-Suvalkų operacija 1920 Vytautas Lescius 196
+    Širvintų kautynės 1920 Vytautas Lesčius 204
+
+    Giedraičių kautynės 1920 Vytautas Lesčius 208
+    Klaipėdos sukilimas 1923 Vytautas Lesčius 211
+
+    KARAS PO
+    KARO 26
+
+    Kiauneliškių kautynės 1945 Ričardas Čekutis, Dalius Žygelis 218
+    Ažagų-Eimuliškio miško kautynės 1945 Ričardas Cekutis,
+
+    Dalius Žygelis 221
+
+    Kalniškės mūšis 1945 Ričardas Cekutis, Dalius Žygelis 224
+
+    Žuvinto Palių kautynės 1945 Ričardas Čekutis, Dalius Žygelis 227
+    Merkinės puolimas 1945 Ričardas Cekutis, Dalius Žygelis 230
+    Lietuvos partizanų apygardos ir jų žymesni atstovai Karolis Zikaras,
+    Dalius Žygelis 236
+
+    Žymiausi Lietuvos partizanų susirėmimai prieš sovietų pajėgas
+    Arvydas Anušauskas 238
+
+    Užpelkių kautynės 1949 Ričardas Čekutis, Dalius Žygelis 240
+
+    Šimonių girios apgultis 1949 Ričardas Čekutis, Dalius Žygelis 243
+
+    LIETUVOS
+    ATSIKŪRIMAS 248
+
+    Aukščiausiosios Tarybos gynyba 1991 Albertas Daugirdas 250
+
+    Tekstų apie mūšius ir karines operacijas autoriai 264
+    Priedai 266
+
+    Turinys 5
+
+    ## Puslapis 8
+
+    Apie šią knygą
+
+    Šioje knygoje pasakojama apie įvairiausių laikų žymiausius Lie- Knygą stengtasi gausiai iliustruoti, kad skaitytojas galėtų susi-
+    tuvos mūšius ir karines operacijas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

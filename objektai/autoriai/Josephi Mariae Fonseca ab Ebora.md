@@ -42,6 +42,12 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 - t-001
   global_id: t-88070
   teiginys: "Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1733 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra bibliografinė, bet remia faktą apie jo vaidmenį leidime."
   pagrindžia:
     - c-84049
 
@@ -62,6 +68,7 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
     ra etc. Romae MDCCXXXIII, in folio
     Vol. XIX.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

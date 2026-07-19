@@ -33,6 +33,20 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
 - t-001
   global_id: t-191940
   teiginys: "Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Indija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Archelajas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Indija: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Archelajas\" parinktas kaip owner_note_path. Targetas \"Indija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174822
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191092|Plinijus Vyresnysis]]: Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą.
@@ -64,6 +78,7 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
     lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
     balų išmesdavo Švedijos ežeras Maeleras.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

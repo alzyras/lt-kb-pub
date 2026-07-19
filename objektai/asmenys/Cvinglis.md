@@ -41,6 +41,19 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - t-001
   global_id: t-87646
   teiginys: "Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Cvinglis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cvinglis\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata kalba apie Liuterio ir Cvinglio mokslą kartu, todėl reikia patikslinti subjektą."
   pagrindžia:
     - c-83625
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
@@ -84,8 +97,21 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
     tis už Bažnyčios vienybę ir po visą
     dieceziją būtų rengiamos procesijos
     su litanijomis".
-  citata_rodoma: "Tik po dvejų metų kapitula, patyrusi, kad \njau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­\npą imtis visokeriopų priemonių, kokias tik jam tokiu atveju \nleistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­\nkuotas ir priverstas palikti miestą, bet Martyno Liuterio ir \nCvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo \nstipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, \nvadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo\nrenkasi į savo sueigas Lukiškėse, Jo \nDidenybės Vilniaus vaivados Mika­\nlojaus Radvilos rūmuose; nutaria \n(savo susirinkime 1557 m."
+  citata_rodoma: |
+    Tik po dvejų metų kapitula, patyrusi, kad
+    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
+    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
+    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
+    renkasi į savo sueigas Lukiškėse, Jo
+    Didenybės Vilniaus vaivados Mika­
+    lojaus Radvilos rūmuose; nutaria
+    (savo susirinkime 1557 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

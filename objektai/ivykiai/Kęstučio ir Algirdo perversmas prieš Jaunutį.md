@@ -61,6 +61,21 @@ Nenurodyta
 - t-001
   global_id: t-187492
   teiginys: "Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kęstučio ir Algirdo perversmas prieš Jaunutį: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio ir Algirdo perversmas prieš Jaunutį\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo, kad legendiškumo apibūdinimas priklauso mokslinės literatūros vartosenai. Taip palikta reikalinga atribucija ir nepridėta metraščio pasakojimo kaip fakto."
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-170453
 
@@ -68,6 +83,21 @@ Nenurodyta
 - t-003
   global_id: t-187494
   teiginys: "Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kęstučio ir Algirdo perversmas prieš Jaunutį: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio ir Algirdo perversmas prieš Jaunutį\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170453
 
@@ -75,9 +105,14 @@ Nenurodyta
 - t-002
   global_id: t-187493
   teiginys: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau yra gramatinis sakinys su aiškiu subjektu, veiksmo vieta tekste ir papildymo turiniu. Jis tiesiogiai remiasi citata ir nereikalauja papildomos interpretacinės atribucijos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1345 m.; įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija, kuriuose nuorašuose po perversmo buvo įdėtas papildymas. Nepridėta Algirdo žygio į Maskvą legenda, nes ji yra atskiras citatos kontekstas.'
   pagrindžia:
-    - c-170452
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
@@ -101,13 +136,12 @@ Nenurodyta
     Trumpajame, nei kituose Platesniojo sąvado nuorašuo­
     se, o tik Bychovco kronikoje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187493
 ## Citatos
 
 - id: c-170453
@@ -124,8 +158,14 @@ Nenurodyta
     dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks­
     lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le­
     gendine.
-  citata_rodoma: "Mokslinėje literatūroje toji istorija vadinama le-\ngendine. Todėl ir pradinė Platesniojo sąvado teksto \ndalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-\nlo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-\ngendine."
+  citata_rodoma: |
+    Mokslinėje literatūroje toji istorija vadinama le-
+    gendine. Todėl ir pradinė Platesniojo sąvado teksto
+    dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks-
+    lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le-
+    gendine.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,6 +38,20 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
 - t-001
   global_id: t-200738
   teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Stryjkowskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Stryjkowskis\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184083
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-200709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas padovanojo imperatoriui Zigmantui brangakmeniais puoštą tauro ragą.
@@ -65,6 +79,7 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
     Lietuvos), tokiu būdu prarasdamas savo tiesiogines funkcijas ir virsdamas savotiška
     muzealija, saugoma Imperijos keistenybių kambaryje (vok.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

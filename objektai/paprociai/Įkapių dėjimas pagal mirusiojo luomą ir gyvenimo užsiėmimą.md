@@ -48,9 +48,23 @@ Nenurodyta
 - t-001
   global_id: t-189901
   teiginys: "Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172784
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais.'
@@ -72,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189901
 ## Citatos
 
 - id: c-172784
@@ -96,8 +109,19 @@ Nenurodyta
     netos ir metalai buvo perdegę ir pusiau susilydę, kitur visiškai
     sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
     laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
-  citata_rodoma: "Kartais jie būna apdėti ak­\nmenimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių\nasmenų kūnus laidodavo ne tik su visais drabužiais, būdingais\nkiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­\nvas būdamas: karys su ginklu, medžiotojas su lanku, amati­\nninkas su savo amato įrankiais. Visuomet pagoniškose kapa­\nvietėse randamas koks nors geležinis daiktas, padėtas prie deši­\nniojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų\nsmagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­\nkio lygintuvo liekanas, iškastas Obeliuose)."
+  citata_rodoma: |
+    Kartais jie būna apdėti ak­
+    menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
+    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
+    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
+    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
+    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
+    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
+    niojo peties, prie motenį -  varinės adatos, akmeniniai verpstukų
+    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
+    kio lygintuvo liekanas, iškastas Obeliuose).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

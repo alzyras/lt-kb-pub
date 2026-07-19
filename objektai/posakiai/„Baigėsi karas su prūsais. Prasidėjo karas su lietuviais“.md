@@ -46,6 +46,12 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-001
   global_id: t-195025
   teiginys: "Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177400
 
@@ -53,6 +59,16 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-002
   global_id: t-195026
   teiginys: "1283 m. Dusburgas žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citatoje esančiu sakiniu apie Dusburgo kroniką."
+  susije_objektai: "llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsų žemė"
+  temporaliniai_duomenys: "įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatoje esančiu sakiniu apie Dusburgo kroniką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
   pagrindžia:
     - c-177400
 
@@ -60,6 +76,15 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-003
   global_id: t-195027
   teiginys: "1283 m. Dusburgas žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Nemunas"
+  temporaliniai_duomenys: "įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177402
 
@@ -67,6 +92,12 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-004
   global_id: t-195028
   teiginys: "Prasidėjo karas su lietuviais»."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177400
 
@@ -74,6 +105,12 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-005
   global_id: t-195029
   teiginys: "Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis teiginys yra nutrūkęs fragmentas, o citata leidžia sudaryti pilną sakinį."
+  susije_objektai: "llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Lietuva; mentioned_place: Nemunas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177401
 
@@ -81,6 +118,22 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-006
   global_id: t-195030
   teiginys: "Dusburgas 1283 m. kronikoje žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir atitinka citatos informaciją."
+  susije_objektai: "llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsų žemė"
+  temporaliniai_duomenys: "įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir atitinka citatos informaciją."
+  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys aiškiai sieja kryžiuočius su kovomis prieš lietuvius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177400
 
@@ -88,6 +141,15 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - t-007
   global_id: t-195031
   teiginys: "1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra tikslus, pilnas ir paremtas citata."
+  susije_objektai: "llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Nemunas"
+  temporaliniai_duomenys: "įvykio data: 1283 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, pilnas ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177402
 
@@ -106,8 +168,17 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
     nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
     nės).
-  citata_rodoma: "Prasidėjo karas su lietuviais».\nTais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo\nkronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­\nčiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų\nordino magistras Meinhard von Querfurt su daug riterių ir gausia\nkariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­\nnais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­\nnės)."
+  citata_rodoma: |
+    Prasidėjo karas su lietuviais».
+    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
+    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
+    čiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų
+    ordino magistras Meinhard von Querfurt su daug riterių ir gausia
+    kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
+    nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
+    nės).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +187,6 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     - t-195026
     - t-195028
     - t-195030
-
 - id: c-177401
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -129,14 +199,21 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
         **ordinu ir naujos dinastijos kilmė**
     «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
-  citata_rodoma: "LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS\n\n### (1283-1387)\n\n**1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**\n    **ordinu ir naujos dinastijos kilmė**\n«Baigėsi karas su prūsais. Prasidėjo karas su lietuviais»."
+  citata_rodoma: |
+    LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
+
+    ### (1283-1387)
+
+    **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
+        **ordinu ir naujos dinastijos kilmė**
+    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195029
-
 - id: c-177402
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -148,8 +225,15 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
     kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
     čiausio sprando ir kariauti pratusia tauta »^1.
-  citata_rodoma: "Pirmosios lietuvių kovos prie Nemuno su Prūsų**\n    **ordinu ir naujos dinastijos kilmė**\n«Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».\nTais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo\nkronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­\nčiausio sprando ir kariauti pratusia tauta »^1."
+  citata_rodoma: |
+    Pirmosios lietuvių kovos prie Nemuno su Prūsų**
+        **ordinu ir naujos dinastijos kilmė**
+    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
+    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
+    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
+    čiausio sprando ir kariauti pratusia tauta »^1.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

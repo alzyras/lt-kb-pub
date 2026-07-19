@@ -53,6 +53,10 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
 - t-001
   global_id: t-195285
   teiginys: "Pasakotojas tarnavo Lenčiuose pas Gatunkį pusberniuku."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177650
 
@@ -60,6 +64,10 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
 - t-002
   global_id: t-195286
   teiginys: "Iš pradžių Gatunkis bardavo pasakotoją dėl įrankių šipinimo, bet vėliau leido jam stalioriauti."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177651
 
@@ -67,6 +75,10 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
 - t-003
   global_id: t-195287
   teiginys: "Gatunkis turėjo stališką varstotą ir tekinamąjį prietaisą."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177650
 
@@ -81,15 +93,16 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     — Ir tą pasakysiu. Tarnavau Lenčiuose pas Gatunkį pusberniu­
     ku.
     Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
-  citata_rodoma: "Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą."
+  citata_rodoma: |
+    Tarnavau Lenčiuose pas Gatunkį pusberniuku. Jo buvo stališkas varstotas, turėjo ir tekinamąjį prietaisą.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195285
     - t-195287
-
 - id: c-177651
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -102,8 +115,10 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
     nori lūžti.
     Nieko į tai neatsakė: nei pagyrė už branktus nei barė už
     įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti.
-  citata_rodoma: "Nieko į tai neatsakė: nei pagyrė už branktus nei barė už įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti."
+  citata_rodoma: |
+    Nieko į tai neatsakė: nei pagyrė už branktus nei barė už įrankių šipinimą, tik nuo to laiko nedraudė man stalioriauti.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

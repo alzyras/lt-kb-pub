@@ -39,6 +39,9 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
 - t-001
   global_id: t-41709
   teiginys: "Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų."
+  atnaujinta: "2026-07-12 10:19"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45090
 - susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
@@ -64,8 +67,22 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
     laisvės kovotojus imtis aktyvesnių veiksmų.
 
     234  MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
-  citata_rodoma: "pajėgos ir jas remiantys kolaborantai su-\nvokė, kad negali jaustis saugūs, net ir stam-\nbesnėse gyvenvietėse. Be to, šios kautynės\nsunkiomis žiemos sąlygomis suteikė nej-\nkainojamos patirties būsimiems partizanų\nvadams ir eiliniams jų dalyviams, padidino\npasitikėjimą savo jėgomis, o svarbiausia,\nžinios apie Dzūkijos partizanų sėkmę pa-\nskatino ir visur kitur Lietuvoje veikiančius\n\nlaisvės kovotojus imtis aktyvesnių veiksmų.\n\n234  MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d."
+  citata_rodoma: |
+    pajėgos ir jas remiantys kolaborantai su-
+    vokė, kad negali jaustis saugūs, net ir stam-
+    besnėse gyvenvietėse. Be to, šios kautynės
+    sunkiomis žiemos sąlygomis suteikė nej-
+    kainojamos patirties būsimiems partizanų
+    vadams ir eiliniams jų dalyviams, padidino
+    pasitikėjimą savo jėgomis, o svarbiausia,
+    žinios apie Dzūkijos partizanų sėkmę pa-
+    skatino ir visur kitur Lietuvoje veikiančius
+
+    laisvės kovotojus imtis aktyvesnių veiksmų.
+
+    234  MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
   statusas: verified
+  atnaujinta: "2026-07-12 10:19"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

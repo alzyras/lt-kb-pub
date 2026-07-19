@@ -1,12 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Gardino pilis (pilis)'
+pavadinimas: 'Gardino pilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Gardino pilis'
-aliases:
-  - 'Gardino pilis'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,27 +18,32 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Gardino pilis (pilis)
+# Gardino pilis
 
 ## Santrauka
 
-Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė į Lietuvą ir apgulė dešiniajame Nemuno krante esančią Gardino pilį.
+Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo.
 
 ## Teiginiai
 
 <a id="claim-t-201134"></a>
 - t-001
   global_id: t-201134
-  teiginys: "Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė į Lietuvą ir apgulė dešiniajame Nemuno krante esančią Gardino pilį."
+  teiginys: "Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184484
 
 ## Citatos
 
 - id: c-184484
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 465"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą mistras sukėlė naują kariauną ir
     nujautęs, jqg daug lietuvių Parusny, nenorinčių vo-
@@ -59,6 +60,7 @@ Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė �
     čią, apgulė. Vos buvo atkolęs drobynas į mūrus,
     tuojau visų baisiausia kova prasidėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

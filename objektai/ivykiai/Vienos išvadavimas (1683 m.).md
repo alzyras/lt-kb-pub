@@ -50,6 +50,10 @@ Nenurodyta
 - t-001
   global_id: t-66947
   teiginys: "Sudarius sąjungą su Austrija, turkai pasiekė Vieną, o Sobieskiui atskubėjus į pagalbą miestas 1683 m. buvo išgelbėtas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67037
 
@@ -65,8 +69,14 @@ Nenurodyta
     momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
     buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
     Vengrijos.
-  citata_rodoma: "Padarius sąjungą su\nAustrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju\nmomentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena\nbuvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies\nVengrijos."
+  citata_rodoma: |
+    Padarius sąjungą su
+    Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju
+    momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
+    buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies
+    Vengrijos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

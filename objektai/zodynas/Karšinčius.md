@@ -42,6 +42,9 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-001
   global_id: t-07705
   teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09634
     - c-09635
@@ -50,6 +53,9 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-002
   global_id: t-07706
   teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09634
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
@@ -61,23 +67,26 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
-  citata_rodoma: "Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti."
+  citata_rodoma: |
+    Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07705
     - t-07706
-
 - id: c-09635
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
-  citata_rodoma: "Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs."
+  citata_rodoma: |
+    Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

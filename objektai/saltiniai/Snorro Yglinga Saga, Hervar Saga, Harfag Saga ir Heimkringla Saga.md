@@ -32,9 +32,16 @@ Snorro.
 - t-001
   global_id: t-194901
   teiginys: "Snorro."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177297
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Snorro.'
@@ -48,8 +55,7 @@ Snorro.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194901
 ## Citatos
 
 - id: c-177297
@@ -79,8 +85,11 @@ Snorro.
     riba ligi sienos su Prūsija ir pagal šią sieną, išskiriant
     Dobrynės ir Michalovo žemes, net iki Vyslos, kur yra se­
     nasis Kulmas.
-  citata_rodoma: "3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla\nSaga."
+  citata_rodoma: |
+    3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla
+    Saga.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

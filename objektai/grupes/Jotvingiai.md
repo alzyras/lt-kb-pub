@@ -52,53 +52,142 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-001
   global_id: t-178768
   teiginys: "II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Jotvingiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vokiečių ordinas nukariavo jotvingius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vokiečių ordinas užkariavo Jotvingiai (0.94)"
   pagrindžia:
     - c-162476
-    - c-180647
 
 <a id="claim-t-178771"></a>
 - t-002
   global_id: t-178771
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1245 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-162467
     - c-180641
-
 <a id="claim-t-178772"></a>
 - t-003
   global_id: t-178772
   teiginys: "Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162468
-    - c-180634
 
 <a id="claim-t-192410"></a>
 - t-004
   global_id: t-192410
   teiginys: "Narbutas rašo, kad Konrado valdymo metu Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Voluinė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje jotvingių antpuoliai tiesiogiai išplėsti iki Voluinės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jotvingiai surengė žygį į Voluinė (0.86); Jotvingiai surengė žygį į Lenkija (0.82); Jotvingiai surengė žygį į Mazovija (0.82)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175204
-    - c-180648
 
 <a id="claim-t-192411"></a>
 - t-005
   global_id: t-192411
   teiginys: "Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Galindai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Galindai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jotvingiai ir galindai veikia drauge pereidami į tą pačią protekciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jotvingiai buvo sąjungininkas su Galindai (0.78); Jotvingiai priklausė Lenkai (0.72)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175205
-    - c-180640
 
 <a id="claim-t-198564"></a>
 - t-016
   global_id: t-198564
   teiginys: "Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia patikslinti įvardžius ir atribuuoti kronikos pasakojimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-180642
-
+    - c-014
 <a id="claim-t-198565"></a>
 - t-007
   global_id: t-198565
   teiginys: "Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalinta kontekstinė pradžia, OCR triukšmas ir perteklinė citatos detalė."
+  susije_objektai: "mentioned_place: Jotvingija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija; llm_object: Jotvingija"
+  semantiniai_rysiai: "[[objektai/grupes/Jotvingiai|Jotvingiai]] gyveno Jotvingija"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180645
 
@@ -106,6 +195,18 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-008
   global_id: t-198566
   teiginys: "Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata pateikia interpretacinį palyginimą, todėl reikia aiškios autorinės atribucijos."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
+  ryšio_patikimumas: "uzkariavo -> Jotvingiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vokiečių ordinas nukariavo jotvingius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180636
 
@@ -113,6 +214,10 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-009
   global_id: t-198567
   teiginys: "Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_place: Prūsų žemė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180637
 
@@ -120,6 +225,14 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-010
   global_id: t-198570
   teiginys: "1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Jotvingija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija"
+  temporaliniai_duomenys: "įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180645
 
@@ -127,6 +240,18 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-011
   global_id: t-198571
   teiginys: "Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-180643
 
@@ -134,6 +259,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-012
   global_id: t-198572
   teiginys: "XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys pilnas ir atitinka citatoje pateiktą Jotvingijos ribų apibūdinimą."
+  susije_objektai: "mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Nemunas; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia; llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]"
+  semantiniai_rysiai: "Jotvingija priklausė [[objektai/grupes/Jotvingiai|Jotvingiai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180638
 
@@ -141,6 +272,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-013
   global_id: t-198574
   teiginys: "1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
+  susije_objektai: "llm_object: Semba; llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Liublinas; mentioned_place: Sandomierius; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba; llm_object: Liublinas; llm_object: Sandomierius"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Jotvingiai|Jotvingiai]]; [[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Liublinas; [[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Sandomierius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180633
 
@@ -148,6 +285,22 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-014
   global_id: t-198577
   teiginys: "Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia atribucijos motyvacijai ir kronikos pasakojimo formuluotei."
+  susije_objektai: "llm_object: Lietuva; mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Juodoji Rusia: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Juodoji Rusia pateko Lietuvos valdžion."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-180644
 
@@ -155,6 +308,11 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-015
   global_id: t-198578
   teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta į savarankišką sakinį su aiškiu objektu ir faktiniu predikatu."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Viena; mentioned_place: Volinija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180635
 
@@ -162,6 +320,11 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-006
   global_id: t-198579
   teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta į aiškesnį faktinį sakinį apie jotvingius."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180639
 
@@ -169,13 +332,36 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-019
   global_id: t-198580
   teiginys: "Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Galindai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Galindai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jotvingiai ir galindai veikia drauge pereidami į tą pačią protekciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-180646
-
+    - c-017
 <a id="claim-t-198581"></a>
 - t-018
   global_id: t-198581
   teiginys: "1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie jotvingių dalyvavimą žygyje."
+  susije_objektai: "llm_object: Liublinas; mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba"
+  semantiniai_rysiai: "[[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Liublinas"
+  temporaliniai_duomenys: "įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie jotvingių dalyvavimą žygyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180633
 
@@ -183,6 +369,22 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - t-017
   global_id: t-198582
   teiginys: "Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys aiškiai nurodo Tautvilo veiksmą, sąjungininkus ir žygio kryptį."
+  susije_objektai: "mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-180632
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
@@ -341,8 +543,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-198564
 - c-017
   santrauka: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -360,8 +561,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-198580
 ## Citatos
 
 - id: c-162467
@@ -377,14 +577,17 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
-  citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178771
-
 - id: c-162468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -413,14 +616,24 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     pripažinti, kad švedų mokslininko
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
-  citata_rodoma: "Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba\nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2."
+  citata_rodoma: |
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178772
-
 - id: c-162476
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -432,14 +645,15 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: "sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių"
+  citata_rodoma: |
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178768
-
 - id: c-175204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -465,12 +679,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
     vičius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192410
-
 - id: c-175205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -495,12 +709,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Tokiu popiežiaus nutarimu remdamasis, Kujavijos ku­
     nigaikštis sudarė krikščionišką Jotvingių provinciją.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192411
-
 - id: c-180632
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -516,12 +730,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Mindaugas buvo pasiruošęs, bet nutarė su jais at­
     virame lauke nesikauti.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198582
-
 - id: c-180633
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -532,13 +746,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
     puolė Sembą.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198574
     - t-198581
-
 - id: c-180634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -567,8 +781,32 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     pripažinti, kad švedų mokslininko
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
-  citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba \ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos \niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki \nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina, \nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu \npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija, \niki pat Baltijos jūros siekianti, kaip lietuvių genties centras, \nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba \nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.\ni\nKol istorikai neįstengė rasti patiki­\nmos išvados apie lietuvių tautos \nkilmę, kol kas to dar neketinu šia­\nme veikale aptarti; vis dėlto turiu \npripažinti, kad švedų mokslininko \nThunmano  tyrinėjimai ir prie­\nlaidos panašiausios į tiesą."
+  citata_rodoma: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+    i
+    Kol istorikai neįstengė rasti patiki­
+    mos išvados apie lietuvių tautos
+    kilmę, kol kas to dar neketinu šia­
+    me veikale aptarti; vis dėlto turiu
+    pripažinti, kad švedų mokslininko
+    Thunmano  tyrinėjimai ir prie­
+    laidos panašiausios į tiesą.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -587,14 +825,23 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
     riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
     javų likučius sudegino (PSRL, II, 834).
-  citata_rodoma: "Dar neturint masinio šakniavaisių pakaitalo,\nkokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės\nliūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų\ndaugėjimą.\nKaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834)."
+  citata_rodoma: |
+    Dar neturint masinio šakniavaisių pakaitalo,
+    kokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės
+    liūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų
+    daugėjimą.
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834).
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198578
-
 - id: c-180636
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -610,14 +857,24 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
     to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
     atsitikę su jotvingiais.
-  citata_rodoma: "Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip\ntada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­\ncijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant\nstipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus\nkolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais."
+  citata_rodoma: |
+    Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
+    tada butu sunku paaiškinti, kaip po intensyvių ir per eilę genera­
+    cijų daug aukų reikalavusių karų su ordinu, tuo pat laiku vykstant
+    stipriai ekspansijai į rytus, butų galėjusi tuojau prasidėti vidaus
+    kolonizacija. Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198566
-
 - id: c-180637
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -628,14 +885,19 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
     drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
     dalis jų yra žinoma ir vardais.
-  citata_rodoma: "tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų\npareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos\npriešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant\ndrauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.\ndalis jų yra žinoma ir vardais."
+  citata_rodoma: |
+    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
+    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
+    dalis jų yra žinoma ir vardais.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198567
-
 - id: c-180638
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -648,14 +910,21 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
     nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
     muno prie Gardino.
-  citata_rodoma: "Išskyrus Gardiną, tos sritys buvo\nimta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII\namžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius\nėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš\nXIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę\nnuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­\nmuno prie Gardino."
+  citata_rodoma: |
+    Išskyrus Gardiną, tos sritys buvo
+    imta vadinti Juodoji Rusia («Černaja Rus’ »), ir jos jau XII
+    amžiaus pradžioje pateko Lietuvos valdžion. Toliau į pietvakarius
+    ėjo jotvingių žemė. Nors šios sienos yra įvairavusios, tačiau iš
+    XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę
+    nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­
+    muno prie Gardino.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198572
-
 - id: c-180639
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -670,14 +939,23 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
     « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
     II, 879).
-  citata_rodoma: "Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879)."
+  citata_rodoma: |
+    Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
+    pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198579
-
 - id: c-180640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -702,6 +980,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Tokiu popiežiaus nutarimu remdamasis, Kujavijos ku­
     nigaikštis sudarė krikščionišką Jotvingių provinciją.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -715,8 +994,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
     liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
     lietuviai29.
-  citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
+  citata_rodoma: |
+    Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -737,14 +1021,25 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Tuo laiku mirė kunigaikštienė Mindaugienė9, ir tas
     pradėjo jos gedėti. O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0.
-  citata_rodoma: "Mindaugas buvo pasiruošęs, bet nutarė su jais at­\nvirame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir\n55\n\n## Puslapis 51\n\n(naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, \nir jotvingius. O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  citata_rodoma: |
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+    55
+
+    ## Puslapis 51
+
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198564
-
 - id: c-180643
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -758,14 +1053,22 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     atsitikę su jotvingiais.
     Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
     padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
-  citata_rodoma: "Priimant dėmesin ir šitas istorines aplinkybes, nega­\nlima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų\nbuvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius\nnebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus\nto laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra\natsitikę su jotvingiais.\nKai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje\npadarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius."
+  citata_rodoma: |
+    Priimant dėmesin ir šitas istorines aplinkybes, nega­
+    lima tačiau samprotauti, kad lietuvių gyvenamame plote tada būtų
+    buvę daugiau kaip 5 gyventojai 1 km^2. Jeigu lietuvių skaičius
+    nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus
+    to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra
+    atsitikę su jotvingiais.
+    Kai IX-XII amž. ariamoji žemdirbystė visame Pabaltijyje
+    padarė pažangą, tuo pačiu galėjo didėti ir gyventojų skaičius.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198571
-
 - id: c-180644
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -782,12 +1085,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
     sidabru ir įvairiomis dovanomis.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198577
-
 - id: c-180645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -804,15 +1107,26 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
     kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
     žvejybos), buvo puoselėjamas amatas.
-  citata_rodoma: "Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­\nmetį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,\njotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami\n« vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL\nII, 879).\nŠalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­\nkystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,\nžvejybos), buvo puoselėjamas amatas."
+  citata_rodoma: |
+    Iš vienos pusės buvo minima, kad priešai (lenkai) ten
+    rado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­
+    riuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar
+    javų likučius sudegino (PSRL, II, 834). Tuo tarpu per didelį bad­
+    metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę,
+    jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami
+    « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL
+    II, 879).
+    Šalia pagrindinių lietuvių verslų (žemdirbystės ir gyvulinin­
+    kystės) ir kitų pridedamųjų užsiėmimų (bitininkystės, medžioklės,
+    žvejybos), buvo puoselėjamas amatas.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198565
     - t-198570
-
 - id: c-180646
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -823,12 +1137,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai
     puolė Sembą.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198580
-
 - id: c-180647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -840,8 +1154,15 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
     tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
     vėliau įkūrė Prūsijos valstybę.
-  citata_rodoma: "Vėliau, \nI tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-\nnių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-\nsų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių \ntautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir \nvėliau įkūrė Prūsijos valstybę."
+  citata_rodoma: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -871,6 +1192,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
     vičius.
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

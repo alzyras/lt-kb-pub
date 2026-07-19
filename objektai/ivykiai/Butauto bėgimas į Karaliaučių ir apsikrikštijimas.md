@@ -56,6 +56,20 @@ Nenurodyta
 - t-001
   global_id: t-34537
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Survila: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Butautas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Survila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Survila aiškiai įvardytas Butauto draugu ir bendru bėgimo dalyviu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Butautas buvo sąjungininkas su Survila (0.76); Butautas keliavo į Butauto bėgimas į Karaliaučių ir apsikrikštijimas (0.72); Survila keliavo į Butauto bėgimas į Karaliaučių ir apsikrikštijimas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1365 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sklandesnės formuluotės ir aiškesnio Survilos vaidmens pagal citatą."
   pagrindžia:
     - c-35762
 
@@ -75,6 +89,7 @@ Nenurodyta
     riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
     —81), paprastai vadinamas „lietuvių karaliumi Henriku”.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

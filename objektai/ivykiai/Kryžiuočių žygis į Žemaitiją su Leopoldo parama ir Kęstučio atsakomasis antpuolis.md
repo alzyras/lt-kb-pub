@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185728
   teiginys: "Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Leopoldas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje nurodyta, kad Leopoldo atvestų pajėgų remiami kryžiuočiai puolė Žemaitiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169089
 
@@ -52,6 +65,13 @@ Nenurodyta
 - t-002
   global_id: t-196191
   teiginys: "Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didelę kariuomenę, kurios remiami kryžiuočiai užpuolė ir nusiaubė Žemaitiją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169089
 
@@ -85,8 +105,20 @@ Nenurodyta
     k ry žiu o č ia m s
     p a g a l­
     bin in kų
-  citata_rodoma: "Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus. Mat Aust­\nrijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją\ndidžiulę kariuomenę; šių jė­\ngų remiami kryžiuočiai už­\npuolė Žemaitiją ir, padaliję \npulkus keturiomis žygio vo­\nromis, nusiaubė visą kraštą."
+  citata_rodoma: |
+    Tuo tarpu lietuviai, išsaugoję likusius
+    karius, ramiai patraukė namo, išsigabendami laimikį —
+    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
+    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
+    didžiulę kariuomenę; šių jė­
+    gų remiami kryžiuočiai už­
+    puolė Žemaitiją ir, padaliję
+    pulkus keturiomis žygio vo­
+    romis, nusiaubė visą kraštą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

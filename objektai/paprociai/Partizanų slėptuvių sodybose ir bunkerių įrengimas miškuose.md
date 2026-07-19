@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-09593
   teiginys: "Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12346
 
@@ -57,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-09594
   teiginys: "Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus."
+  atnaujinta: "2026-05-20 21:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12347
 
@@ -64,6 +70,9 @@ Nenurodyta
 - t-003
   global_id: t-09595
   teiginys: "Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12348
 
@@ -71,6 +80,9 @@ Nenurodyta
 - t-004
   global_id: t-09596
   teiginys: "Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį."
+  atnaujinta: "2026-05-20 21:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12345
 
@@ -87,14 +99,17 @@ Nenurodyta
     reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą
     partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
     ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
-  citata_rodoma: "įėjimą reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą\npartizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl\nypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme."
+  citata_rodoma: |
+    įėjimą reikėdavo kruopščiai užmaskuoti ir kuo rečiau juo naudotis, jį atidarydavo tik naktį. Žiemą
+    partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
+    ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09596
-
 - id: c-12346
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,14 +117,16 @@ Nenurodyta
   citata_originali: |
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
     kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
-  citata_rodoma: "Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio\nkranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus)."
+  citata_rodoma: |
+    Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
+    kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09593
-
 - id: c-12347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,14 +140,18 @@ Nenurodyta
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
-  citata_rodoma: "Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas\nūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti\ngerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po\nkrosnimi, tarp dviejų pastato sienų, šuliniuose ir pan."
+  citata_rodoma: |
+    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
+    ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
+    gerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
+    krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09594
-
 - id: c-12348
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -144,8 +165,12 @@ Nenurodyta
     jei likdavo gyvi, ištremiami. Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi
     bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
     globsčiui.
-  citata_rodoma: "Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi\nbunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-\nglobsčiui."
+  citata_rodoma: |
+    Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi
+    bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
+    globsčiui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

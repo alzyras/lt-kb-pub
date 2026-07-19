@@ -1,5 +1,10 @@
 import { QuartzTransformerPlugin } from "../types"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
+import {
+  evidenceCitationQuoteForClaim,
+  evidenceDocumentContext,
+  evidenceSupportsClaim,
+} from "../../util/evidenceIntegrity"
 import { BuildCtx } from "../../util/ctx"
 import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 
@@ -24,9 +29,7 @@ const ADVANCED_KEYS = new Set([
   "šaltinio_profilis",
   "saltinio_profilis",
   "irodymo_stiprumas",
-  "saltinio_vieta",
   "sprendimo_priezastis",
-  "atnaujinimo_run_id",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
   "ryšio_patikimumo_priezastys",
@@ -39,9 +42,8 @@ const ADVANCED_KEYS = new Set([
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
-  "vertinimo_autorius",
+  "atnaujinta",
   "pagrindžia",
-  "global_id",
 ])
 const ADVANCED_LABELS = new Map<string, string>([
   ["global_id", "Globalus ID"],
@@ -57,10 +59,9 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["temporaliniai_duomenys", "Laikotarpiai"],
   ["temporalinis_paaiskinimas", "Laiko paaiškinimas"],
   ["temporalinis_llm_pakomentavimas", "Laiko interpretacija"],
-  ["šaltinio_profilis", "Šaltinio profilis"],
-  ["saltinio_profilis", "Šaltinio profilis"],
+  ["šaltinio_profilis", "Šaltinio kontekstas"],
+  ["saltinio_profilis", "Šaltinio kontekstas"],
   ["irodymo_stiprumas", "Įrodymo stiprumas"],
-  ["saltinio_vieta", "Citatos vieta šaltinyje"],
   ["sprendimo_priezastis", "Sprendimo priežastis"],
   ["ryšio_patikimumas", "Ryšio patikimumas"],
   ["ryšio_patikimumo_lygis", "Ryšio patikimumo lygis"],
@@ -73,10 +74,48 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["ryšio_paaiskinimas", "Ryšio paaiškinimas"],
   ["ai_siulomas_patikimumas", "AI siūlomas patikimumas"],
   ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
-  ["vertinimo_atnaujinta", "Atnaujinta"],
-  ["vertinimo_autorius", "Atnaujino"],
-  ["atnaujinimo_run_id", "Run ID"],
-  ["citata_originali", "Originali citata"],
+  ["vertinimo_atnaujinta", "Paskutinis atnaujinimas"],
+  ["atnaujinta", "Paskutinis atnaujinimas"],
+  ["citata_originali", "Originalus šaltinio fragmentas"],
+])
+const ADVANCED_HINTS = new Map<string, string>([
+  ["teiginio_tipas", "Kokio tipo faktas ar teiginys čia pateikiamas."],
+  ["patikimumo_lygis", "Bendras šio teiginio arba ryšio patikimumo įvertis."],
+  ["patikimumo_saltinis", "Pagal ką arba kas nustatė šį patikimumo įvertį."],
+  ["patikimumo_pagrindimas", "Trumpas paaiškinimas, kodėl teiginys taip įvertintas."],
+  ["sudarymo_pagrindimas", "Paaiškinimas, kaip iš šaltinio citatos suformuluotas teiginys."],
+  ["susije_objektai", "Objektai, kurie tiesiogiai susiję su šiuo teiginiu ar citata."],
+  ["semantiniai_rysiai", "Iš citatos ar teiginio išvesti prasminiai ryšiai."],
+  ["temporaliniai_duomenys", "Su teiginiu susijusios datos ir laikotarpiai."],
+  ["temporalinis_paaiskinimas", "Paaiškinimas, kaip suprastos citatoje nurodytos datos."],
+  ["temporalinis_llm_pakomentavimas", "Papildomas laiko interpretacijos paaiškinimas."],
+  [
+    "šaltinio_profilis",
+    "Šaltinio interpretavimo ir atribucijos kontekstas; tai nėra bibliografinis autorius.",
+  ],
+  [
+    "saltinio_profilis",
+    "Šaltinio interpretavimo ir atribucijos kontekstas; tai nėra bibliografinis autorius.",
+  ],
+  ["irodymo_stiprumas", "Kiek tiesiogiai citata pagrindžia teiginį."],
+  ["sprendimo_priezastis", "Priežastis, dėl kurios teiginys ar ryšys priimtas tokiu pavidalu."],
+  ["ryšio_patikimumas", "Šio konkretaus ryšio pasitikėjimo įvertis."],
+  ["ryšio_patikimumo_lygis", "Kokybės kategorija, priskirta ryšiui."],
+  ["ryšio_patikimumo_priezastys", "Signalai, kuriais remiantis įvertintas ryšys."],
+  ["ryšio_sprendimo_taisykle", "Taisyklė, pagal kurią ryšys buvo nustatytas."],
+  ["ryšio_subjekto_parinkimas", "Kodėl parinktas šis ryšio subjektas."],
+  ["ryšio_targeto_parinkimas", "Kodėl parinktas šis ryšio objektas."],
+  ["ryšio_slopinti_kandidatai", "Kiti kandidatai, kurie buvo svarstyti, bet atmesti."],
+  ["ryšio_slopinimo_priezastys", "Kodėl kiti galimi ryšiai nebuvo pasirinkti."],
+  ["ryšio_paaiskinimas", "Žmogiškai suprantamas šio ryšio paaiškinimas."],
+  ["ai_siulomas_patikimumas", "Automatinio vertinimo pasiūlytas patikimumo lygis."],
+  ["ai_siulymo_pagrindimas", "Automatinio vertinimo pasiūlymo paaiškinimas."],
+  ["vertinimo_atnaujinta", "Kada paskutinį kartą atnaujintas vertinimas."],
+  ["atnaujinta", "Kada paskutinį kartą atnaujintas šis teiginys arba šaltinio įrašas."],
+  [
+    "citata_originali",
+    "Tikslus visas šaltinio fragmentas pagal jo indeksą; jis gali būti platesnis už rodomą ištrauką.",
+  ],
 ])
 const CLAIM_ADVANCED_KEYS = [
   "teiginio_tipas",
@@ -92,7 +131,6 @@ const CLAIM_ADVANCED_KEYS = [
   "šaltinio_profilis",
   "saltinio_profilis",
   "irodymo_stiprumas",
-  "saltinio_vieta",
   "sprendimo_priezastis",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
@@ -106,12 +144,10 @@ const CLAIM_ADVANCED_KEYS = [
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
-  "vertinimo_autorius",
-  "atnaujinimo_run_id",
+  "atnaujinta",
 ]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
-const QUOTE_LEGACY_DISPLAY_KEY = "citata"
 const ADVANCED_RESOLVE_STOPWORDS = new Set(["tame"])
 
 interface EvidenceEntry {
@@ -217,10 +253,6 @@ const CITATION_CONTRIBUTOR_FIELDS = [
   { keys: ["vertėjai", "vertejai"], label: "Vertėjai", className: "translator" },
 ]
 
-function citationAuthor(entry: EvidenceEntry): string {
-  return firstCitationField(entry, ["autorius", "autoriai"])
-}
-
 function citationContributorRows(entry: EvidenceEntry): string {
   return CITATION_CONTRIBUTOR_FIELDS.map((field) => {
     const value = firstCitationField(entry, field.keys)
@@ -241,6 +273,15 @@ function advancedCell(text: string): string {
 
 function advancedLabel(key: string): string {
   return ADVANCED_LABELS.get(key) ?? key
+}
+
+function advancedHeader(key: string): string {
+  const label = escapeHtml(advancedLabel(key))
+  const hint = ADVANCED_HINTS.get(key)
+  if (!hint) {
+    return `<th>${label}</th>`
+  }
+  return `<th class="advanced-field-label" title="${escapeHtml(hint)}"><span>${label}</span><span class="advanced-field-help" aria-hidden="true">?</span></th>`
 }
 
 function normalizeLabelKey(label: string): string {
@@ -277,7 +318,10 @@ function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): Fu
 }
 
 function internalLinkHtml(href: string, label: string): string {
-  return `<a href="${escapeHtml(href)}">${escapeHtml(markdownText(label))}</a>`
+  const normalizedHref = /^(?:[a-z][a-z0-9+.-]*:|#|\/)/i.test(href)
+    ? href
+    : `/${href.replace(/^\/+/, "")}`
+  return `<a href="${escapeHtml(normalizedHref)}">${escapeHtml(markdownText(label))}</a>`
 }
 
 function renderWikilinkHtml(
@@ -543,6 +587,7 @@ function renderClaimsSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
   citationsById: CitationMap,
+  documentContext: string,
 ): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("t-"))
   if (entries.length === 0) {
@@ -558,26 +603,36 @@ function renderClaimsSection(
   entries.forEach((entry, index) => {
     const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const globalId = entry.fields.get("global_id") ?? ""
+    const sourceIds = [
+      ...new Set(
+        refs
+          .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
+          .filter((citation): citation is EvidenceEntry => Boolean(citation))
+          .map(
+            (citation) => citation.fields.get("šaltinis") ?? citation.fields.get("saltinis") ?? "",
+          )
+          .filter(Boolean)
+          .map(normalizeCitationSourceId),
+      ),
+    ]
     const publicId = claimPublicId(index)
     const domKey = claimDomKey(entry, index, usedDomKeys)
     const anchorId = `claim-${domKey}`
-    const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(publicId, anchorId)
     const detailId = `claim-evidence-${domKey}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(domKey)}" data-claim-key="${escapeHtml(domKey)}" data-public-claim-id="${escapeHtml(publicId)}" data-original-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(
         entry,
         detailId,
         domKey,
-        publicId,
         refs,
         citationsById,
         resolveIndex,
+        documentContext,
       ),
     )
   })
@@ -591,45 +646,53 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(
-  entry: EvidenceEntry,
-  publicId: string,
-  resolveIndex: SlugResolveIndex,
-): string[] {
+function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
   const rows: string[] = []
-  rows.push(
-    `<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`,
-  )
-  rows.push(
-    `<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`,
-  )
-  const globalId = entry.fields.get("global_id")
-  if (globalId) {
-    rows.push(
-      `<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`,
-    )
-  }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
         key === "susije_objektai" ||
         key === "semantiniai_rysiai" ||
-        key === "temporaliniai_duomenys" ||
-        key === "saltinio_vieta"
+        key === "temporaliniai_duomenys"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : advancedCell(value)
-      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr>${advancedHeader(key)}<td>${rendered}</td></tr>`)
     }
   }
   return rows
 }
 
-function citationQuote(entry: EvidenceEntry): string {
-  const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
-  const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
-  const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
-  return displayQuote || legacyDisplayQuote || originalQuote
+function citationQuote(
+  entry: EvidenceEntry,
+  claimEntry?: EvidenceEntry,
+  documentContext = "",
+): string {
+  if (claimEntry) {
+    return evidenceCitationQuoteForClaim(
+      entry,
+      claimEntry.fields.get("teiginys") ?? "",
+      documentContext,
+    )
+  }
+  return (
+    entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() ||
+    entry.fields.get("citata")?.trim() ||
+    entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ||
+    ""
+  )
+}
+
+function citationSupportsClaim(
+  claimEntry: EvidenceEntry,
+  citationEntry: EvidenceEntry,
+  documentContext: string,
+): boolean {
+  return evidenceSupportsClaim(
+    claimEntry.fields.get("teiginys") ?? "",
+    citationQuote(citationEntry, claimEntry, documentContext),
+    documentContext,
+  )
 }
 
 function firstField(entries: EvidenceEntry[], keys: string[]): string {
@@ -698,9 +761,12 @@ function renderCitationCard(
   claimEntry: EvidenceEntry,
   citationEntry: EvidenceEntry,
   resolveIndex: SlugResolveIndex,
+  documentContext: string,
 ): string {
   const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
-  const quote = citationQuote(citationEntry)
+  const quote = citationQuote(citationEntry, claimEntry, documentContext)
+  const originalQuote = citationEntry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
+  const quoteIsExcerpt = Boolean(originalQuote && quote.trim() !== originalQuote)
   const rows = advancedRows(citationEntry, quote, resolveIndex)
   const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
   const contributorHtml = citationContributorRows(citationEntry)
@@ -708,7 +774,7 @@ function renderCitationCard(
     ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
     : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
   const quoteHtml = quote
-    ? `<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
+    ? `${quoteIsExcerpt ? '<div class="claim-citation-quote-label">Rodoma citatos ištrauka</div>' : '<div class="claim-citation-quote-label">Citata</div>'}<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
     : `<p class="claim-citation-missing">Citatos tekstas nerastas.</p>`
   const advancedHtml =
     rows.length > 0
@@ -718,29 +784,41 @@ function renderCitationCard(
   return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${contributorHtml}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
 }
 
+function renderUnsupportedCitationCard(citationEntry: EvidenceEntry): string {
+  const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
+  const sourceHtml = source
+    ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
+    : ""
+  return `<article class="claim-citation-card claim-citation-card-unverified" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${sourceHtml}<p class="claim-citation-mismatch">Citatos tekstas nerodomas, nes jo atitikimo su teiginiu nepavyko patikrinti.</p></article>`
+}
+
 function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
   domKey: string,
-  publicId: string,
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
+  documentContext: string,
 ): string {
-  const claimTechnicalRows = claimAdvancedRows(claimEntry, publicId, resolveIndex)
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
   const claimTechnicalHtml =
     claimTechnicalRows.length > 0
-      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Teiginio techniniai duomenys</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
+      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Apie teiginį ir jo pagrindimą</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
       : ""
   const cards = refs
     .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
-    .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
+    .map((entry) =>
+      citationSupportsClaim(claimEntry, entry, documentContext)
+        ? renderCitationCard(claimEntry, entry, resolveIndex, documentContext)
+        : renderUnsupportedCitationCard(entry),
+    )
   const citationContent =
     cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
   const payload = JSON.stringify(content).replaceAll("<", "\\u003c")
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
 }
 
 function advancedRows(
@@ -750,10 +828,14 @@ function advancedRows(
 ): string[] {
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
-  if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(
-      `<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`,
-    )
+  const configuredDisplay =
+    entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() || entry.fields.get("citata")?.trim() || ""
+  if (
+    original &&
+    (original.trim() !== displayedQuote.trim() ||
+      (configuredDisplay && configuredDisplay.trim() !== displayedQuote.trim()))
+  ) {
+    rows.push(`<tr>${advancedHeader("citata_originali")}<td>${advancedCell(original)}</td></tr>`)
   }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
@@ -761,41 +843,13 @@ function advancedRows(
       const rendered =
         key === "susije_objektai" ||
         key === "semantiniai_rysiai" ||
-        key === "temporaliniai_duomenys" ||
-        key === "saltinio_vieta"
+        key === "temporaliniai_duomenys"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : escapeHtml(markdownText(value))
-      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr>${advancedHeader(key)}<td>${rendered}</td></tr>`)
     }
   }
   return rows
-}
-
-function renderMentionsSection(sectionLines: string[]): string[] | null {
-  const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
-  if (entries.length === 0) {
-    return null
-  }
-
-  const out: string[] = [
-    "",
-    `<div class="citations-section citation-evidence-store" data-citation-section="true" data-citation-store="true" hidden aria-hidden="true">`,
-  ]
-  for (const entry of entries) {
-    const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
-    const author = citationAuthor(entry)
-    const sourceId = source ? normalizeCitationSourceId(source) : ""
-
-    out.push(
-      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}" data-citation-author="${escapeHtml(author)}"></section>`,
-    )
-  }
-  out.push(
-    `<p class="options-filter-empty" data-citation-empty-state hidden>Nėra citatų pagal pasirinktus filtrus.</p>`,
-    `</div>`,
-    "",
-  )
-  return out
 }
 
 function renderStructuredSection(
@@ -803,18 +857,15 @@ function renderStructuredSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
   citationsById: CitationMap,
+  documentContext: string,
 ): string[] | null {
   if (title === "Teiginiai") {
-    return renderClaimsSection(sectionLines, resolveIndex, citationsById)
+    return renderClaimsSection(sectionLines, resolveIndex, citationsById, documentContext)
   }
-  if (
-    title === "Reikšmingi paminėjimai" ||
-    title === "Citatos" ||
-    title === "Šaltiniai ir įrodymai" ||
-    title === "Bibliografiniai įrodymai"
-  ) {
-    return renderMentionsSection(sectionLines)
-  }
+  // Citation bodies are loaded from the claim that uses them. Keeping an
+  // invisible duplicate store in every object page made large pages heavier
+  // without adding reader-visible content.
+  if (isEvidenceStoreSection(title)) return null
   return null
 }
 
@@ -951,7 +1002,14 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       }
 
       const sectionLines = lines.slice(start, end)
-      const structured = renderStructuredSection(title, sectionLines, resolveIndex, citationsById)
+      const documentContext = evidenceDocumentContext(src)
+      const structured = renderStructuredSection(
+        title,
+        sectionLines,
+        resolveIndex,
+        citationsById,
+        documentContext,
+      )
       if (title === "Teiginiai") {
         out.push(line)
       }

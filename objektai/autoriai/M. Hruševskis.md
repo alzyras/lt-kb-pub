@@ -43,6 +43,19 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 - t-001
   global_id: t-30833
   teiginys: "M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Hruševskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Hruševskis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1908-1910; įvykio data: 1910 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia platesnį, bet vis dar glaustą faktą apie tyrimų temą."
   pagrindžia:
     - c-33053
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47897|Rusų ir ukrainiečių istorikai]]: Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.
@@ -62,8 +75,13 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
     čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
     žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
     dė Lietuvos kunigaikščiai^146.
-  citata_rodoma: "Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­\nčių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo\nžemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­\ndė Lietuvos kunigaikščiai^146."
+  citata_rodoma: |
+    Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
+    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
+    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
+    dė Lietuvos kunigaikščiai^146.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

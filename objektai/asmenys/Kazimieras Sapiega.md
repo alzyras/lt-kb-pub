@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-49419
   teiginys: "Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Sapiega: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Sapiega\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42076
 
@@ -40,6 +50,16 @@ media_all_json: |-
 - t-002
   global_id: t-49420
   teiginys: "Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Sapiega: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Sapiega\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42076
 
@@ -63,8 +83,15 @@ media_all_json: |-
     artilerijos baterijos, sėkmingai atsitraukė
     per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
     jos kariuomenė užėmė Vilnių.
-  citata_rodoma: "Vakare Vilniaus įgula, dengiama ar-\ntilerijos kapitono kunigaikščio Kazi-\nmiero Sapiegos, sumaniai vadovaujamos\nartilerijos baterijos, sėkmingai atsitraukė\nper Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-\njos kariuomenė užėmė Vilnių."
+  citata_rodoma: |
+    Vakare Vilniaus įgula, dengiama ar-
+    tilerijos kapitono kunigaikščio Kazi-
+    miero Sapiegos, sumaniai vadovaujamos
+    artilerijos baterijos, sėkmingai atsitraukė
+    per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
+    jos kariuomenė užėmė Vilnių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

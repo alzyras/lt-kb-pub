@@ -81,10 +81,10 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-174975
@@ -109,8 +109,16 @@ Nenurodyta
     litewskich i polskich prawach, o ich ducbu, žrodlach, związku i
     o rzeczach zawartych w pierwszem statucie dla Litwy 1529 roku
     wydanem.
-  citata_rodoma: "Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-\nliesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų\nkrašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis\nir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą\npastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),\nbet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės\nlietuvius1."
+  citata_rodoma: |
+    Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-
+    liesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų
+    krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis
+    ir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -133,8 +141,11 @@ Nenurodyta
     litewskich i polskich prawach, o ich ducbu, žrodlach, związku i
     o rzeczach zawartych w pierwszem statucie dla Litwy 1529 roku
     wydanem.
-  citata_rodoma: "Senovės slavai specialiai darydavo žemas duris, kad\nateinantysis arba išeinantysis nusilenktų slenksčiui2."
+  citata_rodoma: |
+    Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

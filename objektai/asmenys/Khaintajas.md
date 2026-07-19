@@ -32,6 +32,21 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
 - t-001
   global_id: t-191433
   teiginys: "Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Šafranas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Khaintajas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šafranas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Khaintają kaip Šafrano sūnų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Khaintajas buvo sūnus Šafranas (0.95)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174315
 
@@ -57,11 +72,11 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
     jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
     atskleistume jas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191433
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Šafranas]]

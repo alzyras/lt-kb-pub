@@ -54,6 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-193033
   teiginys: "Pasak Narbuto, ulmigerų krašto gyventojai garbino Saulę ir Mėnulį, o laiką skaičiavo pagaliukais arba mazgais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175803
 
@@ -72,6 +79,7 @@ Nenurodyta
     sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
     megzdami mazgus ant virvelės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

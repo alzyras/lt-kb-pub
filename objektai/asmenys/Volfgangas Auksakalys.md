@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-87887
   teiginys: "Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Volfgangas Auksakalys: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Volfgangas garsėjo Vilniuje, todėl galima atsargiai fiksuoti jo buvimą/gyvenimą Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Volfgangas Auksakalys gyveno Vilnius (0.66)"
+  temporaliniai_duomenys: "įvykio data: 1522 m.; įvykio data: 1530 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas faktas apie Volfgangą Auksakalį ir paremtas citata."
   pagrindžia:
     - c-83866
 - susijęs iš [[objektai/asmenys/Štagelis.md#claim-t-87935|Štagelis]]: Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.
@@ -59,8 +73,14 @@ media_all_json: |-
     auksakalių būta daug ir turtingų.
     Garsėjo: Volfgangas Auksakalys -
     1522 m., Štagelis - 1530 m.
-  citata_rodoma: "24\nVilniuje Žygimanto Senojo laikais \nauksakalių būta daug ir turtingų. \nGarsėjo: Volfgangas Auksakalys - \n1522 m., Štagelis - 1530 m."
+  citata_rodoma: |
+    24
+    Vilniuje Žygimanto Senojo laikais
+    auksakalių būta daug ir turtingų.
+    Garsėjo: Volfgangas Auksakalys -
+    1522 m., Štagelis - 1530 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

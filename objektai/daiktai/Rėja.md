@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-08327
   teiginys: "Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56399
 
@@ -67,11 +71,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pas
-        neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis^ sukrauta. Pitėjas, garsus
-        žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
-        jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą.
-  citata_rodoma: "Pas\nneturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis^ sukrauta. Pitėjas, garsus\nžvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja\njau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą."
+    neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis sukrauta. Pitėjas, garsus
+    žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
+    jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą
+  citata_rodoma: |
+    Pas
+    neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis sukrauta. Pitėjas, garsus
+    žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
+    jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

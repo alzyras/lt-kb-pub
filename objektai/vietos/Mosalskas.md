@@ -39,6 +39,9 @@ Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų 
 - t-001
   global_id: t-187267
   teiginys: 'Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Kaluga; mentioned_place: Rohačevas; mentioned_place: Rževas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-170321
 
@@ -46,6 +49,9 @@ Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų 
 - t-002
   global_id: t-187268
   teiginys: 'Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiksliai atitinka citatos lokalizaciją.'
+  susije_objektai: 'mentioned_place: Kaluga; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Rohačevas; mentioned_place: Rževas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-170321
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
@@ -69,9 +75,10 @@ Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų 
     tus nuo Rževo).
   citata_rodoma: "Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio \nmiestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27 \nrašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie \n100 km | vakarus nuo Kalugos)"
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187267
+    - t-187268

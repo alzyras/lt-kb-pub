@@ -48,6 +48,12 @@ Nenurodyta
 - t-001
   global_id: t-194073
   teiginys: "Paskui tas stabas supuvo, ir toje vie loje išaugo liepos."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176686
 
@@ -66,8 +72,13 @@ Nenurodyta
     vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-
     čius, ir jie ilgai kariavo vieni su kitais.
-  citata_rodoma: "O tą jos stabą garbino ir Pa­\njautą laikė deive. Paskui tas stabas supuvo, ir toje vie­\nloje išaugo liepos. Tąsias liepas garbino ir iki mūsų \ndienų jas tebedievina, minėdami tą Pajautą."
+  citata_rodoma: |
+    O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

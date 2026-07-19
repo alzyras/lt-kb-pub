@@ -37,6 +37,16 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
 - t-001
   global_id: t-78084
   teiginys: "Z. Kiaupa kartu su J. Kiaupiene ir A. Kuncevičiumi parašė leidinį „The history of Lithuania before 1795“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Irena Zujienė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiaupa Z: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Irena Zujienė: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiaupa Z\" parinktas kaip owner_note_path. Targetas \"Irena Zujienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75388
 
@@ -50,6 +60,7 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
     Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
     1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

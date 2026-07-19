@@ -44,6 +44,20 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - t-001
   global_id: t-185156
   teiginys: "Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaidanovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Starodubas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaidanovas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubas\" parinktas kaip owner_note_path. Targetas \"Kaidanovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-168517
 
@@ -51,6 +65,23 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - t-003
   global_id: t-199855
   teiginys: "Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Titulas ir legendinis pasakojimas turi likti priskirti šaltiniui."
+  susije_objektai: "llm_object: Starodubas; llm_object: Mozyrius; llm_object: Karačevas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Viena"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Starodubas; Skirmantas užėmė Starodubas (0.90); Skirmantas užėmė Mozyrius (0.86); Skirmantas užėmė Karačevas (0.84)"
+  ryšio_patikimumas: "uzeme -> Starodubas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Starodubas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirmantas paėmė Starodubo miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182789
 
@@ -58,6 +89,15 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - t-004
   global_id: t-199858
   teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
+  susije_objektai: "mentioned_place: Trubčevskas; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perejeslavlis"
+  temporaliniai_duomenys: "įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-182790
 
@@ -65,8 +105,11 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - t-002
   global_id: t-193233
   teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182791
+    - c-002
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -155,13 +198,12 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
     rą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193233
 ## Citatos
 
 - id: c-168517
@@ -187,14 +229,29 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     ir pradėjo kruvinas kauty­
     nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
     atsigauti.
-  citata_rodoma: "Maskvėnai tvirtino,\nkad didysis kunigaikštis jiems neleidęs stoti į atvirą\nmūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei\n605\n\n## Puslapis 604\n\nįsakymų, o šaukdami ir triukšmaudami, paliko stovyk­\nlą bei gurguoles ir pasileido sprukti per miškus ir pel­\nkes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų."
+  citata_rodoma: |
+    Maskvėnai tvirtino,
+    kad didysis kunigaikštis jiems neleidęs stoti į atvirą
+    mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
+    605
+
+    ## Puslapis 604
+
+    įsakymų, o šaukdami ir triukšmaudami, paliko stovyk­
+    lą bei gurguoles ir pasileido sprukti per miškus ir pel­
+    kes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185156
-
 - id: c-182789
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -214,12 +271,12 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199855
-
 - id: c-182790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -232,13 +289,18 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
     Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
-  citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
+  citata_rodoma: |
+    Nuvykęs Maskvon, jis prikalbėjo
+    kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
+    1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
+    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
+    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199858
-
 ## Ryšiai
 - Užėmė Starodubą: [[objektai/asmenys/Skirmantas]]

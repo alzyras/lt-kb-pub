@@ -37,6 +37,19 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-001
   global_id: t-183104
   teiginys: "Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viduržemio jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viduržemio jūra\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166489
 
@@ -44,6 +57,20 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-002
   global_id: t-183105
   teiginys: "Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viduržemio jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viduržemio jūra\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-166490
 
@@ -51,8 +78,23 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-003
   global_id: t-192771
   teiginys: "Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viduržemio jūra: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viduržemio jūra\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175541
+    - c-003
 - susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 ## Reikšmingi paminėjimai
 - c-003
@@ -79,8 +121,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192771
 ## Citatos
 
 - id: c-166489
@@ -93,12 +134,12 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183104
-
 - id: c-166490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -115,33 +156,48 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
     za.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183105
-
 - id: c-175541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    nepajudinama tarp apsišvietusio pasaulio griuvėsių, kei­
-    čiantis tokiai daugybei kartų, įžiebė naujų amžių filoso­
-    fijos deglą, kuriam buvo lemta savo šviesa išsklaidyti su­
-    temas, užklojusias istorijos akiratį. Nevalia kaltinti tikė­
-    jimo sargų ir mokytojų dėl pažangos istorijos pažinimo
-    stokos: juk dvasininkai paliko mums daugiausia kronikų*.
-    Iš kito atstumo žvelgdami į dalykus, matome, kad būta
-    laikų, ypač lietuvių žemėje, kai tikėjimo ir švietimo deg­
-    las jos gyventojams atrodė tarsi ir žmonių, ir senovės, ir
-    viso, kas gera, naikinimo perkūnas. Ginkluoti krikštyto­
-    jai, turėdami laukines širdis ir atlikdami baisius darbus,
-    užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
-    ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
-    brangesnius tautinius paminklus, laisvę ir namų taiką.
-  citata_rodoma: "Ant­\nra vertus, ryšiai su labiau išvystytomis tautomis senovė­\nje buvo be galo painūs, padriki ir tolydžio atnaujinami.\nViduržemio jūros pirklių, kurie bemaž vieni pasiekdavo\ntolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir\nvisados iš anksto puoselėjo viltis rasti lobių nežinomuose\nkraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­\nrei pažinti dar labiau negu Vidurio Europos tautų bar­\nbariškumas ir nesyetingumas. Bet kai anarchija pakirto\nRomos valstybės imperatorių galybės kolosą, kai barbarų\nantplūdis pražudė civilizuotus kraštus, pavertė apsišvie­\ntusių romėnų palikimą dykra ir kapinynais, šiaurinėms\ntautoms susiklostė naujos aplinkybės, ir į Europą atėjo\npusiausvyros metas."
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
+  citata_rodoma: |
+    Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
+    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
+    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
+    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
+    rei pažinti dar labiau negu Vidurio Europos tautų bar­
+    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
+    Romos valstybės imperatorių galybės kolosą, kai barbarų
+    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
+    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
+    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
+    pusiausvyros metas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

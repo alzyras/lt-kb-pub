@@ -44,6 +44,16 @@ media_all_json: |-
 - t-001
   global_id: t-41478
   teiginys: "Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Balnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Širvintų stebuklas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Balnas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Širvintų stebuklas\" parinktas kaip owner_note_path. Targetas \"Balnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44971
 
@@ -51,6 +61,16 @@ media_all_json: |-
 - t-002
   global_id: t-41479
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Balnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Širvintų stebuklas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Balnas: mention_match, thing, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Širvintų stebuklas\" parinktas kaip owner_note_path. Targetas \"Balnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44971
 
@@ -69,8 +89,17 @@ media_all_json: |-
     gai įvykdyti suplanuotą puolimą ir priar-
     tėti prie Kauno, būtų iškilęs didelis pavojus
     Lietuvos valstybingumui.
-  citata_rodoma: "Balno reidas į Gardino pulko užnugarį\n\nvisuomenei ir buvo pramintas „Širvintų ste-\nbuklu“. Ši pergalė leido lietuviams perimti\niniciatyvą. Jei lenkams būtų pavykę sėkmin-\ngai įvykdyti suplanuotą puolimą ir priar-\ntėti prie Kauno, būtų iškilęs didelis pavojus\nLietuvos valstybingumui."
+  citata_rodoma: |
+    Balno reidas į Gardino pulko užnugarį
+
+    visuomenei ir buvo pramintas „Širvintų ste-
+    buklu“. Ši pergalė leido lietuviams perimti
+    iniciatyvą. Jei lenkams būtų pavykę sėkmin-
+    gai įvykdyti suplanuotą puolimą ir priar-
+    tėti prie Kauno, būtų iškilęs didelis pavojus
+    Lietuvos valstybingumui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

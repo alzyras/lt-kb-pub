@@ -39,6 +39,20 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 - t-001
   global_id: t-20941
   teiginys: "1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lenkija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pilsudskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Pilsudskio grįžimą į valdžią Lenkijoje, todėl valdymo ryšys pagrįstas, nors formuluotė nėra titulinė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Pilsudskis valdė Lenkija (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui."
   pagrindžia:
     - c-23667
 
@@ -57,8 +71,10 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: "gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti"
+  citata_rodoma: |
+    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

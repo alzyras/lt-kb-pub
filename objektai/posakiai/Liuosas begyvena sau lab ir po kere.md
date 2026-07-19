@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas posakį „liuosas begyvena sau lab ir po kere“ pateikia kaip lietuvių ir žemaičių laisvės vertinimo bei vergijos atmetimo ženklą.
+Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso.
 
 ## Teiginiai
 
 <a id="claim-t-201259"></a>
 - t-001
   global_id: t-201259
-  teiginys: "Daukantas posakį „liuosas begyvena sau lab ir po kere“ pateikia kaip lietuvių ir žemaičių laisvės vertinimo bei vergijos atmetimo ženklą."
+  teiginys: "Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184609
 
 ## Citatos
 
 - id: c-184609
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 75"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 75."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Karėj neprietelių neskaitą, vienas ant dešimties
     metuose velydamos pats galą gauti nekaip nuveiktu
@@ -58,6 +63,7 @@ Daukantas posakį „liuosas begyvena sau lab ir po kere“ pateikia kaip lietuv
     kaipogi žodžiai patys: lažas, donis, pavynastis yra
     ne lietuviški, bet gudiąki žodžiai.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

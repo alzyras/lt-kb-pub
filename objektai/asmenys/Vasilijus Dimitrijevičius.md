@@ -33,6 +33,12 @@ media_all_json: |-
 - t-001
   global_id: t-194088
   teiginys: "Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176701
 
@@ -40,6 +46,12 @@ media_all_json: |-
 - t-002
   global_id: t-196875
   teiginys: "Vasilijus Dimitrijevičius savo valdovu, kaip ir pskoviečiai."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-178955
 - susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-198529|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
@@ -70,14 +82,28 @@ media_all_json: |-
     pasodino pas juos vietininku Pinsko kunigaikštį Juri­
     jų, pramintą Nosimi8, o pats su visomis pajėgomis nu­
     žygiavo prieš Naugardą.
-  citata_rodoma: "Štai kas nutiko po šito dangaus ženklo didžiajam \nkunigaikščiui Vytautui, draugiškai sugyvenusiam su \nsavo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi \nDimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio, \nprie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se- \nverskiečius, atėmė iš jų du bebrus ir tris statines me-\n105\n\n## Puslapis 101\n\ndausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­\nnius, kad suieškojęs nubaustų kaltininkus bei atlygintų \nnuostolius severskiečiams. Maskvos didysis kunigaikš­\ntis neatkreipė į tai dėmesio."
+  citata_rodoma: |
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+    105
+
+    ## Puslapis 101
+
+    dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
+    nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
+    nuostolius severskiečiams. Maskvos didysis kunigaikš­
+    tis neatkreipė į tai dėmesio.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194088
-
 - id: c-178955
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -98,6 +124,7 @@ media_all_json: |-
     devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
     ir šermuonėlių, ir voverių kailių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

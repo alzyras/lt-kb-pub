@@ -33,6 +33,17 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
 - t-001
   global_id: t-35044
   teiginys: "Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Maskva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ciprijonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Ciprijonas persikėlė į Maskvą, todėl ryšys su gyvenimo vieta pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ciprijonas gyveno Maskva (0.82)"
   pagrindžia:
     - c-37995
 - susijęs iš [[objektai/asmenys/Eufimėjus.md#claim-t-35061|Eufimėjus]]: Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.
@@ -56,8 +67,16 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
     Lietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­
     nas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­
     čių suvienijimui.
-  citata_rodoma: "Tai buvo bulgaras Ciprijonas, kurį\nAlgirdas per didelius vargus buvo išgavęs Lietuvai, kaip atski­\nrą Kijevo metropolitą, bet vėliau, mirus Maskvos metropolitui\nPimenui, nusikėlė į Maskvą ir savo valdžioj suvienijo Rusijos ir\nLietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­\nnas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­\nčių suvienijimui."
+  citata_rodoma: |
+    Tai buvo bulgaras Ciprijonas, kurį
+    Algirdas per didelius vargus buvo išgavęs Lietuvai, kaip atski­
+    rą Kijevo metropolitą, bet vėliau, mirus Maskvos metropolitui
+    Pimenui, nusikėlė į Maskvą ir savo valdžioj suvienijo Rusijos ir
+    Lietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­
+    nas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­
+    čių suvienijimui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

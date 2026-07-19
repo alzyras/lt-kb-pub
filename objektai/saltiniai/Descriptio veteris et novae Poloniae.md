@@ -38,6 +38,9 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
 - t-001
   global_id: t-88416
   teiginys: "Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84395
 
@@ -55,6 +58,7 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
     vae Poloniae etc. Dlugošo Edyc.
     Lips. p. 1926. T. II.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

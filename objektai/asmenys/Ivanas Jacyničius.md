@@ -59,4 +59,3 @@ Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

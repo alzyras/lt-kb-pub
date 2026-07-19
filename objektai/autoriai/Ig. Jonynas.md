@@ -41,6 +41,11 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 - t-001
   global_id: t-30648
   teiginys: "Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė darbą „Lietuvių gentys iki XIX a.“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32948
 - susijęs iš [[objektai/autoriai/I. Jonynas.md#claim-t-30643|I. Jonynas]]: Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“.
@@ -59,8 +64,11 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
     gentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p. — Kan­
     trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
-  citata_rodoma: "— Jonynas, lg. : _Lietuvių,\ngentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p."
+  citata_rodoma: |
+    — Jonynas, lg. : _Lietuvių,
+    gentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

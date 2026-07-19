@@ -62,6 +62,20 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
 - t-001
   global_id: t-187973
   teiginys: "Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas faktinis sakinys su aiškiu subjektu ir predikatu. Citatos platesnis politinis bei kultūrinis kontekstas sąmoningai nepridėtas."
   pagrindžia:
     - c-170973
 
@@ -69,6 +83,20 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
 - t-002
   global_id: t-187974
   teiginys: "Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai remiasi citatos formuluote apie 1795 m. padalijimo pasekmę. Papildoma romantizmo ir kultūrinio konteksto medžiaga neįtraukta."
   pagrindžia:
     - c-170973
 
@@ -96,8 +124,17 @@ Data: 1795 m.
     jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
     su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
     Lenkijos ir Lietuvos nepriklausomybę.
-  citata_rodoma: "Šie Europoje vykstantys audringi socialinio, politinio ir kul­\ntūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­\ntuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai\nneteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­\nrijos imperijoms. Naujų socialinių ekonominių santykių, nau­\njo gyvenimo būdo, naujos kultūros formavimasis čia sutapo\nsu tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už\nLenkijos ir Lietuvos nepriklausomybę."
+  citata_rodoma: |
+    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
+    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
+    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
+    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
+    rijos imperijoms. Naujų socialinių ekonominių santykių, nau­
+    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
+    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
+    Lenkijos ir Lietuvos nepriklausomybę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

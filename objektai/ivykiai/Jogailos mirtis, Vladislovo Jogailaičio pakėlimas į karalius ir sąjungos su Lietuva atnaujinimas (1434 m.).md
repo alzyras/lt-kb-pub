@@ -50,9 +50,22 @@ Nenurodyta
 - t-001
   global_id: t-185522
   teiginys: "Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168883
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.'
@@ -74,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185522
 ## Citatos
 
 - id: c-168883
@@ -108,8 +120,19 @@ Nenurodyta
     Korčino seime, o iš ten leido­
     si į Krokuvą bei Lvovą, kur ketino pakelti į valdžią Ste­
     poną, Moldavijos valdovą.
-  citata_rodoma: "Ga­\nlop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­\nnešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­\ntęs karalystės didikus, jis paprašė, kad, rinkdami sosto\nįpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­\ntam didikui pažadėjus užtarti sūnų, karalius nuolan­\nkiai paprašė palaikyti Vladislovą Zbignevą Olesnickį\nir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­\nmas atleisti, jeigu kada su juo nesutaręs, reikšdamas\npriešingą nuomonę."
+  citata_rodoma: |
+    Ga­
+    lop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­
+    nešti į lovą supratęs, jog ateiną paskutinioji. Pasikvie­
+    tęs karalystės didikus, jis paprašė, kad, rinkdami sosto
+    įpėdinį, neaplenktų sūnaus Vladislovo. Vienam ir ki­
+    tam didikui pažadėjus užtarti sūnų, karalius nuolan­
+    kiai paprašė palaikyti Vladislovą Zbignevą Olesnickį
+    ir, nusimovęs nuo piršto žiedą, jam atidavė, maldauda­
+    mas atleisti, jeigu kada su juo nesutaręs, reikšdamas
+    priešingą nuomonę.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

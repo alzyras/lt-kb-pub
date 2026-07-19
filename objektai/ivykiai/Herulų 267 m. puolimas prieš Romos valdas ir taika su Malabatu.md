@@ -45,6 +45,21 @@ Nenurodyta
 - t-001
   global_id: t-191030
   teiginys: "Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Atėnai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Malabatas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Atėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Malabato puldinėjimo eiga nurodo pasiekimą iki Atėnų; tai pakankamai tiesioginis karinis judėjimas miesto link."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Malabatas puolė Atėnai (0.66)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173912
 
@@ -52,6 +67,12 @@ Nenurodyta
 - t-002
   global_id: t-197536
   teiginys: "Iš pra džių jų ginklai įvarė gerokai baimės, bet imperatoriaus sūnus Galėnas sulaikė puolimą ir sutriuškino herulus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179236
 
@@ -75,12 +96,12 @@ Nenurodyta
     nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
     riją, norėdami užkariauti visą valstybę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191030
-
 - id: c-179236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -97,6 +118,7 @@ Nenurodyta
     aukščiausias pareigas, nes netrukus imperatorius suteikė
     jam Romos konsulo titulą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

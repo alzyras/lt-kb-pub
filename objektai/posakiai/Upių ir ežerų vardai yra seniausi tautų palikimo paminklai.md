@@ -33,6 +33,13 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 - t-001
   global_id: t-189592
   teiginys: "Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172478
 
@@ -40,6 +47,20 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 - t-002
   global_id: t-189593
   teiginys: "Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Indai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Upių ir ežerų vardai yra seniausi tautų palikimo paminklai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Indai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upių ir ežerų vardai yra seniausi tautų palikimo paminklai\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172479
 
@@ -47,6 +68,12 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
 - t-003
   global_id: t-197386
   teiginys: "Nerlė (Neri), Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į Volgą."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172478
 
@@ -67,13 +94,13 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
     Volgą. Antroji Nerlė išteka iš Vladimiro gubernijos pelkių ir
     įteka į Kliazmą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189592
     - t-197386
-
 - id: c-172479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -93,6 +120,7 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
     Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
     (krantą).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,20 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
 - t-001
   global_id: t-31260
   teiginys: "Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. manifestu paskelbė Tarybų valdžią Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vyriausybė paskelbė įvedanti valdžią Lietuvoje, tačiau tai yra deklaruotas valdžios įvedimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė valdė Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33301
 - susijęs iš [[objektai/grupes/Lietuvos Tarybų socialistinė respublika.md#claim-t-31291|Lietuvos Tarybų socialistinė respublika (institucija)]]: Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.
@@ -61,8 +75,13 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
     Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
     darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
     festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
-  citata_rodoma: "Tada\nVinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė\ndarbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­\nfestu paskelbė įvedanti Tarybų valdžią Lietuvoje."
+  citata_rodoma: |
+    Tada
+    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
+    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
+    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

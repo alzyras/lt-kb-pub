@@ -43,6 +43,19 @@ Eidintas A. Eidintas A., Senn A.
 - t-001
   global_id: t-19391
   teiginys: "A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eidintas A: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eidintas A\" parinktas kaip owner_note_path. Targetas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 2012 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra bibliografinis įrašas, patvirtinantis autorystę ir leidimo duomenis."
   pagrindžia:
     - c-22128
 
@@ -50,6 +63,9 @@ Eidintas A. Eidintas A., Senn A.
 - t-002
   global_id: t-19392
   teiginys: "A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166733
 
@@ -57,6 +73,12 @@ Eidintas A. Eidintas A., Senn A.
 - t-003
   global_id: t-183342
   teiginys: "A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166733
 
@@ -70,14 +92,15 @@ Eidintas A. Eidintas A., Senn A.
     1 t., Vil-
     nius, 1999.
     Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
-  citata_rodoma: "Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012."
+  citata_rodoma: |
+    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19391
-
 - id: c-166733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -86,6 +109,7 @@ Eidintas A. Eidintas A., Senn A.
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics. The Years of the First Republic, 1918–1940. New York, 1997.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

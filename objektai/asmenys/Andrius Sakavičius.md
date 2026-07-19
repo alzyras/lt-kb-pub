@@ -34,6 +34,20 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
 - t-001
   global_id: t-186034
   teiginys: "Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde_miesta -> Smolenskas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andrius Sakavičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Po Smolensko pilies užėmimo Sakavičius paliktas ten vietininku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Andrius Sakavičius valdė miestą Smolenskas (0.78)"
   pagrindžia:
     - c-169395
 
@@ -60,6 +74,7 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
     atgavo Mstislavlio kunigaikš­
     tystę.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

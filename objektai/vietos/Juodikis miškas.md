@@ -33,6 +33,16 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - t-001
   global_id: t-41749
   teiginys: "Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Šarauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juodikis miškas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "J. Šarauskas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juodikis miškas\" parinktas kaip owner_note_path. Targetas \"J. Šarauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45116
 
@@ -57,8 +67,20 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     sumanymas. Prieš vakarą į pagalbą lietu-
     viams atvyko vokiečių batalionas, gink-
     luotėje turėjęs kulkosvaidžių ir artileriją.
-  citata_rodoma: "Lukšį (turėjusius\nPirmojo pasaulinio karo kovų patirties) su\n8 kareiviais, kurie nepastebėti užėjo be-\nsirengiantiems apėjimui bolševikams į\nužnugarį ir netikėtai juos apmėtę granato-\nmis bei apšaudę privertė iš Eigulių kaimo\nskubiai trauktis į Juodikio mišką. Tokiu\nbūdu buvo sužlugdytas pavojingas priešo\nsumanymas. Prieš vakarą į pagalbą lietu-\nviams atvyko vokiečių batalionas, gink-\nluotėje turėjęs kulkosvaidžių ir artileriją."
+  citata_rodoma: |
+    Lukšį (turėjusius
+    Pirmojo pasaulinio karo kovų patirties) su
+    8 kareiviais, kurie nepastebėti užėjo be-
+    sirengiantiems apėjimui bolševikams į
+    užnugarį ir netikėtai juos apmėtę granato-
+    mis bei apšaudę privertė iš Eigulių kaimo
+    skubiai trauktis į Juodikio mišką. Tokiu
+    būdu buvo sužlugdytas pavojingas priešo
+    sumanymas. Prieš vakarą į pagalbą lietu-
+    viams atvyko vokiečių batalionas, gink-
+    luotėje turėjęs kulkosvaidžių ir artileriją.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

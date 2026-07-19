@@ -33,6 +33,11 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
 - t-001
   global_id: t-189062
   teiginys: 'Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sąrašo fragmentas paverstas pilnu sakiniu apie Saratovą ir du įvardytus objektus. Atribucija būtina dėl mitologinio bei terminologinio apibūdinimo.'
+  susije_objektai: 'mentioned_place: Rietavas'
   pagrindžia:
     - c-171951
 - susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
@@ -54,8 +59,9 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
     Saratovo miesto fetišai. Šiuos aštuonis dievukus mini La-
     sickis.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189062

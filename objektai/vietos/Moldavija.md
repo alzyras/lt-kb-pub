@@ -42,6 +42,17 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - t-001
   global_id: t-171837
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lenkija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste sakoma, kad Švitrigaila buvo prašomas kartu su kitomis jėgomis pulti Lenkiją, tačiau tai yra planuotas veiksmas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švitrigaila puolė Lenkija (0.72); Totoriai puolė Lenkija (0.66)"
   pagrindžia:
     - c-156307
 
@@ -49,8 +60,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - t-002
   global_id: t-187616
   teiginys: 'Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Kronikos pasakojimui ir valdovų titulams reikia inline atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Sučiava; llm_object: Moldavija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] valdė Moldavija'
   pagrindžia:
-    - c-170563
+    - c-002
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
@@ -126,13 +143,12 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187616
 ## Citatos
 
 - id: c-156307
@@ -149,8 +165,16 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     19 dienų, husitų ir Lenkijos kariuomenė
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
-  citata_rodoma: "Magistras dar balandį prašė Švitrigailos\nkartu su Livonija, Podole, Valakija-Mol-\ndavija ir totoriais pulti Lenkiją. Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino."
+  citata_rodoma: |
+    Magistras dar balandį prašė Švitrigailos
+    kartu su Livonija, Podole, Valakija-Mol-
+    davija ir totoriais pulti Lenkiją. Tuo tar-
+    pu žemaičiai puolė Kuršą ir niokojo jį
+    19 dienų, husitų ir Lenkijos kariuomenė
+    įsiveržė į Ordino valdas birželio pradžioje,
+    viską naikino ir degino.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,6 +28,8 @@ import {
   mediaDetailSlug,
   objectGallerySlug,
 } from "../../util/objectMedia"
+import { loadExhibitions } from "../../util/exhibitions"
+import { isPoorSeoPage } from "../../util/seo"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type SitemapExtraEntry = {
@@ -61,6 +63,7 @@ export type ContentDetails = {
   periodGroups?: string[]
   claimEntries?: GraphExplorerClaimDetails[]
   quoteEntries?: GraphExplorerQuoteDetails[]
+  noindex?: boolean
 }
 
 export type ContentMetaDetails = Pick<
@@ -581,6 +584,25 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
       imageUrls: url ? [url] : [],
     })
   }
+  const exhibitions = loadExhibitions()
+  if (exhibitions.length) {
+    entries.push({
+      slug: "parodos" as FullSlug,
+      modifiedDate: newestDate(
+        exhibitions.map((exhibition) => entryModifiedDate(exhibition.updatedAt)),
+      ),
+      imageUrls: exhibitions
+        .map((exhibition) => cleanText(exhibition.hero.sourceUrl || exhibition.hero.thumbUrl))
+        .filter(Boolean),
+    })
+  }
+  for (const exhibition of exhibitions) {
+    entries.push({
+      slug: exhibition.slug as FullSlug,
+      modifiedDate: entryModifiedDate(exhibition.updatedAt),
+      imageUrls: exhibition.imageUrls,
+    })
+  }
   return entries
 }
 
@@ -608,11 +630,13 @@ export function generateSiteMap(
   </url>`
   }
   const urls = [
-    ...Array.from(idx).map(([slug, content]) => ({
+    ...Array.from(idx)
+      .filter(([, content]) => !content.noindex)
+      .map(([slug, content]) => ({
       slug: simplifySlug(slug),
       modifiedDate: content.modifiedDate,
       imageUrls: [] as string[],
-    })),
+      })),
     ...extraEntries.map((entry) => ({ ...entry, slug: simplifySlug(entry.slug) })),
   ]
     .filter(
@@ -701,6 +725,17 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
                 frontmatter?.date ??
                 frontmatter?.published,
             )
+          const contentText = file.data.text ?? ""
+          const descriptionSource =
+            frontmatter?.socialDescription ?? frontmatter?.description ?? file.data.description
+          const noindex = isPoorSeoPage({
+            slug,
+            title: frontmatter?.title,
+            description: descriptionSource,
+            text: contentText,
+            itemType: frontmatter?.tipas,
+            noindex: frontmatter?.noindex,
+          })
           linkIndex.set(slug, {
             slug,
             filePath: relativePath,
@@ -708,13 +743,13 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             links: filterPublicNavigationLinks(file.data.links ?? [], slug),
             allLinks: file.data.links ?? [],
             tags: frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
+            content: contentText,
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
             date: date,
             modifiedDate: sitemapModifiedDate,
-            description: file.data.description ?? "",
+            description: descriptionSource ?? "",
             citationFilterable: Boolean(citationMetadata),
             quoteCount: citationMetadata?.quoteCount ?? 0,
             citationSourceIds: citationMetadata?.sourceIds ?? [],
@@ -729,6 +764,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             periodGroups: frontmatterArray(frontmatter?.periodo_grupes),
             claimEntries,
             quoteEntries,
+            noindex,
           })
         }
       }

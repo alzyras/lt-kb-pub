@@ -32,6 +32,17 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
 - t-001
   global_id: t-200489
   teiginys: "Antanas Tovianskis siekė tribunolo vicemaršalo posto."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183856
 - susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200677|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais.
@@ -59,8 +70,12 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
     Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
     pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
     posto [57].
-  citata_rodoma: "1759 m. jis\npranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo\nposto [57]."
+  citata_rodoma: |
+    1759 m. jis
+    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
+    posto [57].
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

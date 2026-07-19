@@ -50,14 +50,31 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 - t-001
   global_id: t-195050
   teiginys: "Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tikslas pateisino priemones.: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikslas pateisino priemones.\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177412
-    - c-177413
 
 <a id="claim-t-195051"></a>
 - t-002
   global_id: t-195051
   teiginys: "Tikslas pateisino prie mones."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177412
 
@@ -65,6 +82,10 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 - t-003
   global_id: t-195052
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177412
 
@@ -80,8 +101,13 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
     vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
     mones.
-  citata_rodoma: "Tėviškės atsivadavimo reikalas jį vertė\nsusidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­\nvo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­\nmones."
+  citata_rodoma: |
+    Tėviškės atsivadavimo reikalas jį vertė
+    susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
+    vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
+    mones.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +115,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - t-195050
     - t-195051
     - t-195052
-
 - id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -99,10 +124,13 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     Tikslas pateisino prie­
     mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
     lauke, bet dažnai ir aplinkiniais keliais.
-  citata_rodoma: "Tikslas pateisino prie­\nmones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame\nlauke, bet dažnai ir aplinkiniais keliais."
+  citata_rodoma: |
+    Tikslas pateisino prie­
+    mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
+    lauke, bet dažnai ir aplinkiniais keliais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195050

@@ -33,6 +33,9 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
 - t-001
   global_id: t-39768
   teiginys: "111 būrio būrininkas Klimaitis pirmasis buvo apnuodytas nuodingų dujų sviedinių atakos metu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41572
 
@@ -47,6 +50,7 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
     dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |
     ir skausmai spaudė jam krūtinę. Žmogus niekur negalėjo rasti ramybės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

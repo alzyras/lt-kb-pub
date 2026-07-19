@@ -33,6 +33,13 @@ media_all_json: |-
 - t-001
   global_id: t-186046
   teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169407
 - susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
@@ -53,12 +60,12 @@ media_all_json: |-
     dyje degė kur kas galingesnis garbės troškimas nei bai­
     mė.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186046
-
 ## Ryšiai
 - Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
 - Jerim Berdis keliavo į [[objektai/vietos/Skitija]]

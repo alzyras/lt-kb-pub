@@ -48,9 +48,16 @@ Nenurodyta
 - t-001
   global_id: t-194940
   teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177336
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą.'
@@ -69,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194940
 ## Citatos
 
 - id: c-177336
@@ -89,8 +95,16 @@ Nenurodyta
     riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
     pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
     lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
-  citata_rodoma: "Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo\ntol laiko abu imperatorius savo belaisviais, o tuo tarpu\nlaukė patogios progos užpulti Romą ar Konstantinopolį.\nTam padėjo Valentiniano III sesuo Honorija, kuri, brolio\nįkalinta vienuolyne, slapta nusiuntė hunų karaliui savo\nsužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva\njam nebuvo leista vesti imperatoriaus sesers."
+  citata_rodoma: |
+    Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo
+    tol laiko abu imperatorius savo belaisviais, o tuo tarpu
+    laukė patogios progos užpulti Romą ar Konstantinopolį.
+    Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio
+    įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo
+    sužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva
+    jam nebuvo leista vesti imperatoriaus sesers.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

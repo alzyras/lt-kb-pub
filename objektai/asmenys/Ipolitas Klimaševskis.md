@@ -39,6 +39,21 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - t-001
   global_id: t-186504
   teiginys: "Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis turėjo emigruoti į užsienį ir tespėjo paskelbti pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mogiliovcai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mogiliovcai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)\" parinktas kaip owner_note_path. Targetas \"Mogiliovcai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Formuluotė priartinta prie citatos: palikta, kad jis turėjo emigruoti, o ne neutraliai pridėta, kad emigravo. Nepridėta daugiau apie patį sukilimą ar leidinio aplinkybes."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-169842
 
@@ -46,6 +61,20 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - t-002
   global_id: t-186505
   teiginys: "Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mogiliovcai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mogiliovcai: mention_match, place, gap=128"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)\" parinktas kaip owner_note_path. Targetas \"Mogiliovcai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata. Subjektas, pareigos, radimo vieta ir laikas jau aiškiai įvardyti."
   pagrindžia:
     - c-169844
 
@@ -53,8 +82,24 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - t-003
   global_id: t-186506
   teiginys: "Ipolitas Klimaševskis trumpoje pratarmėje apie rankraščio radimą Aleksandro Bychovco bibliotekoje pirmasis įvertino Bychovco kroniką."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mogiliovcai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mogiliovcai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)\" parinktas kaip owner_note_path. Targetas \"Mogiliovcai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1440 m.; įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Ipolitą Klimaševskį ir atitinka citatos informaciją. Rankraščio radimo kontekstas išskleistas pakankamai aiškiai."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169843
+    - c-002
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
 - susijęs iš Mogiliovcai: Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
@@ -82,8 +127,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
-    - t-003
-
+    - t-186506
 ## Citatos
 
 - id: c-169842
@@ -98,14 +142,21 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl\ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už-\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco\nkronikos fragmentą — pasakojimą apie Vytauto brolio\nŽygimanto Kęstutaičio nužudymą 1440 m."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
+    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už-
+    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
+    kronikos fragmentą — pasakojimą apie Vytauto brolio
+    Žygimanto Kęstutaičio nužudymą 1440 m.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186504
-
 - id: c-169843
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -122,14 +173,17 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     chovco bibliotekoje I. Klimaševskis pirmasis šią kroni­
     ką įvertino,4 *
     * O šmierci x Zygmunta Kiejsiutowlcza.
-  citata_rodoma: "Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-\nchovco bibliotekoje I. Klimaševskis pirmasis šią kroni-\nką įvertino."
+  citata_rodoma: |
+    Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-
+    chovco bibliotekoje I. Klimaševskis pirmasis šią kroni-
+    ką įvertino.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186506
-
 - id: c-169844
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -145,8 +199,12 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
-  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek-\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-\nniaus gimnazijos mokytojas Ipolitas Klimaševskis."
+  citata_rodoma: |
+    Bychovco kronikos rankraštį prieš 1830 m. Alek-
+    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
+    niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

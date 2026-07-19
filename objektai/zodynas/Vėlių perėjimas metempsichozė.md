@@ -33,9 +33,23 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
 - t-001
   global_id: t-189260
   teiginys: "Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą po mirties, kol ji grįžta į kito žmogaus kūną."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėlių perėjimas metempsichozė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėlių perėjimas metempsichozė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172148
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą po mirties, kol ji grįžta į kito žmogaus kūną.'
@@ -61,8 +75,7 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189260
 ## Citatos
 
 - id: c-172148
@@ -89,8 +102,23 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
     nės, Kijevo valstybės žlugimas, o dar primityvūs papročiai taip
     subjaurojo ir aptemdė tą Rytų krikščionių sektą, kad kai kurie
     laikė juos veikiau stabmeldžiais negu krikščionimis“.
-  citata_rodoma: "Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį.\nSielos persikėlimą, arba metempsichozę, lietuviai suprato\ntaip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­\nnametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­\ntutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­\nrį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­\nbulumą, būtiną amžinajam gyvenimui. Iš čia matyti, kad žmo­\ngaus sielai buvo priskiriama laipsniško tobulėjimo savybė, sie­\nla tuos laipsnius pasiekia gyvendama kūnuose, idant taptų tin­\nkama naudotis amžinąja laime; kitaip nei gyvulio siela, kuri\npo mirties negali sulaukti nei atpildo, nei bausmės."
+  citata_rodoma: |
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
+    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
+    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
+    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
+    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
+    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
+    bulumą, būtiną amžinajam gyvenimui. Iš čia matyti, kad žmo­
+    gaus sielai buvo priskiriama laipsniško tobulėjimo savybė, sie­
+    la tuos laipsnius pasiekia gyvendama kūnuose, idant taptų tin­
+    kama naudotis amžinąja laime; kitaip nei gyvulio siela, kuri
+    po mirties negali sulaukti nei atpildo, nei bausmės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,19 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
 - t-001
   global_id: t-86250
   teiginys: "Andrius iš Vasilevo, pranciškonas ir lenkas, 1387 m. tapo pirmuoju Vilniaus vyskupu ir mirė 1399 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vasilevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasilevas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas sąrašinis numeris ir OCR triukšmas, išlaikant citatos remiamus biografinius faktus."
   pagrindžia:
     - c-82229
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -71,8 +84,12 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
     no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,
     iškeltas į tas pareigas 1387 m., mirė 1399 m.
     2.
-  citata_rodoma: "1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­\nno, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas, \niškeltas į tas pareigas 1387 m., mirė 1399 m."
+  citata_rodoma: |
+    1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
+    no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,
+    iškeltas į tas pareigas 1387 m., mirė 1399 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

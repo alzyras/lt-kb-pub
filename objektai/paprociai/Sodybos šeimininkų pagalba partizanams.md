@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-09597
   teiginys: "Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12349
 
@@ -56,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-09598
   teiginys: "Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12349
 
@@ -63,6 +69,9 @@ Nenurodyta
 - t-003
   global_id: t-09599
   teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12349
 
@@ -81,8 +90,14 @@ Nenurodyta
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
-  citata_rodoma: "Sodybos šeimininkai aprūpindavo\npartizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo\npartizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet\nir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,\njei likdavo gyvi, ištremiami."
+  citata_rodoma: |
+    Sodybos šeimininkai aprūpindavo
+    partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
+    partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
+    ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
+    jei likdavo gyvi, ištremiami.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

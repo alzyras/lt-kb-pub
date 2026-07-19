@@ -53,9 +53,21 @@ Nenurodyta
 - t-001
   global_id: t-192088
   teiginys: "Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Romuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romuvos vardinimas ir šventinimas prie dviejų upių santakos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuvos vardinimas ir šventinimas prie dviejų upių santakos\" parinktas kaip owner_note_path. Targetas \"Romuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174957
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.'
@@ -79,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192088
 ## Citatos
 
 - id: c-174957
@@ -105,8 +116,16 @@ Nenurodyta
     kų ir dosnios gamtos turtų tam, kad lengvesnis ir gra­
     žesnis būtų žmonių gyvenimas, nepasiseks aptikti seno­
     vės genčių paminklų.
-  citata_rodoma: "buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­\ndinamas Romno miestelis. Sis pavadinimas mums prime­\nna vardą lietuvių šventojo miesto Romnome, Romuvos,\narba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,\nlietuvių genties kartos vadindavo tik taip ir turėjo įprotį\njas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­\ntakoje."
+  citata_rodoma: |
+    buvusi senovinė Romno tvirtovė, o šiandien slaviškai va­
+    dinamas Romno miestelis. Sis pavadinimas mums prime­
+    na vardą lietuvių šventojo miesto Romnome, Romuvos,
+    arba lietuvių dievų šventovės, kurią, kad ir kur ji būtų,
+    lietuvių genties kartos vadindavo tik taip ir turėjo įprotį
+    jas šventinti tokioje vietoje prie dviejų upių, t. y. jų san­
+    takoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

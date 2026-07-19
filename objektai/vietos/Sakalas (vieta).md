@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Sakalą, kraštą anapus Gaujos, gavo kalavijonys, o Albertas sau pasiliko Turaidos apygardą.
+Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys.
 
 ## Teiginiai
 
 <a id="claim-t-201151"></a>
 - t-001
   global_id: t-201151
-  teiginys: "Sakalą, kraštą anapus Gaujos, gavo kalavijonys, o Albertas sau pasiliko Turaidos apygardą."
+  teiginys: "Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184501
 
 ## Citatos
 
 - id: c-184501
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 202"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 202."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas, norėdamas, idant brostviai ka-
     lavijaus jo klausytų ir jį kaipo savo valdymierą go­
@@ -53,6 +58,7 @@ Sakalą, kraštą anapus Gaujos, gavo kalavijonys, o Albertas sau pasiliko Turai
     Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys.
     Medžiapolės taip pat 3 dalis kliuvo v.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -54,6 +54,19 @@ Nenurodyta
 - t-001
   global_id: t-01806
   teiginys: "1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karolis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovo Leščinskio išrinkimas karalium (1704 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Karolis: mention_match, person, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovo Leščinskio išrinkimas karalium (1704 m.)\" parinktas kaip owner_note_path. Targetas \"Karolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1656 m.; įvykio data: 1704 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet perrašytinas sklandesne enciklopedine lietuvių kalba."
   pagrindžia:
     - c-02044
 
@@ -74,8 +87,17 @@ Nenurodyta
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: "Pagaliau\n1704 m. Karolis privertė\nsušaukti elekcinį seimą, ku-\nris, apstatytas švedų ka-\nriuomene, paskelbė kara-\nlium Poznanės vaivadą\nStanislovą Leščin-\nskį."
+  citata_rodoma: |
+    Pagaliau
+    1704 m. Karolis privertė
+    sušaukti elekcinį seimą, ku-
+    ris, apstatytas švedų ka-
+    riuomene, paskelbė kara-
+    lium Poznanės vaivadą
+    Stanislovą Leščin-
+    skį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

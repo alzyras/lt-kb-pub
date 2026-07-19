@@ -42,6 +42,19 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 - t-001
   global_id: t-87629
   teiginys: "1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęsgaila: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aštikas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kęsgaila: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aštikas\" parinktas kaip owner_note_path. Targetas \"Kęsgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną sakinį apie Aštiko pareigas ir dalyvavimą, pašalinant OCR triukšmą."
   pagrindžia:
     - c-83608
 
@@ -76,8 +89,24 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
     ir t. t. Panašiai 1436 m. tas pats Žy­
     gimantas Vilniaus kapitulai padova­
     nojo Vainelgų dvarą.
-  citata_rodoma: "[Aktuota ir duota Tra­\nkuose, Viešpaties metais 1434, ket­\nvirtadienį, per Švč. Garbingosios \nMergelės Marijos gimimo dieną \n(rugsėjo 8), dalyvaujant Jo Dideny­\nbei ir pritariantiems: Vilniaus kašte­\nlionui Aštikui, Vilniaus vaivadai \nDaugirdui, Trakų vaivadai Le- \nliušiul, Kęsgailai iš Deltuvos, Petraš­\nkai Montgirdaičiui, Chodkai Jurge- \novičiui, Ivaškai Goštautaičiui, \nOlechnai Davainaičiui ir kilminga­\njam mūsų rūmų raštininkui, kuriam \ndabartinis reikalas buvo patikėtas\" \nir t. t."
+  citata_rodoma: |
+    [Aktuota ir duota Tra­
+    kuose, Viešpaties metais 1434, ket­
+    virtadienį, per Švč. Garbingosios
+    Mergelės Marijos gimimo dieną
+    (rugsėjo 8), dalyvaujant Jo Dideny­
+    bei ir pritariantiems: Vilniaus kašte­
+    lionui Aštikui, Vilniaus vaivadai
+    Daugirdui, Trakų vaivadai Le-
+    liušiul, Kęsgailai iš Deltuvos, Petraš­
+    kai Montgirdaičiui, Chodkai Jurge-
+    ovičiui, Ivaškai Goštautaičiui,
+    Olechnai Davainaičiui ir kilminga­
+    jam mūsų rūmų raštininkui, kuriam
+    dabartinis reikalas buvo patikėtas"
+    ir t. t.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

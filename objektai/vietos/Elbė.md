@@ -34,6 +34,13 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-001
   global_id: t-188995
   teiginys: "Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie Penės upės, tarp Elbės ir Oderio."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171884
 
@@ -41,6 +48,20 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-002
   global_id: t-192656
   teiginys: "Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbė\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175426
 
@@ -48,20 +69,46 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-003
   global_id: t-192658
   teiginys: "Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175428
-
+    - c-003
 <a id="claim-t-194931"></a>
 - t-004
   global_id: t-194931
   teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177327
-
+    - c-004
 <a id="claim-t-197872"></a>
 - t-005
   global_id: t-197872
   teiginys: "Kai kurie vabzdžiai ramiai susitaikė su savo likimu, kiti iš baimės mėgino gelbėtis ir, įbridę į klampią masę, taip ir sustin go, be to, pasitaiko klampaus skysčio užkluptų poravimosi momentu vabzdžių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175426
 
@@ -69,6 +116,12 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-006
   global_id: t-197873
   teiginys: "Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179375
 
@@ -88,8 +141,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192658
 - c-004
   santrauka: 'Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -110,8 +162,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194931
 ## Citatos
 
 - id: c-171884
@@ -126,12 +177,12 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
     ne. muskis. und man'.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188995
-
 - id: c-175426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -151,13 +202,13 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     go, be to, pasitaiko klampaus skysčio užkluptų poravimosi
     momentu vabzdžių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192656
     - t-197872
-
 - id: c-175428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -172,14 +223,19 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
     vintais jėzuitų aprašymais.
-  citata_rodoma: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar\ntoliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­\ntojas Strabonas daug ką jam priskyrė svetimo."
+  citata_rodoma: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192658
-
 - id: c-177327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -197,14 +253,24 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
-  citata_rodoma: "Tuo remiantis galima suvokti, kaip mažai iš senovės\nautorių įmanoma gauti žinių apie Siaurės kraštus, nes\nvisos jų žinios rėmėsi tik pasakojimais. Graikai, ypač\nmasiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­\nvyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­\nlėtojai, pažengė toliau, tačiau apie kraštus, esančius už\nElbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.\nApie Pitėją manoma, jog jis keliavęs du kartus: pir­\nmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado\nBaltijos salą."
+  citata_rodoma: |
+    Tuo remiantis galima suvokti, kaip mažai iš senovės
+    autorių įmanoma gauti žinių apie Siaurės kraštus, nes
+    visos jų žinios rėmėsi tik pasakojimais. Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194931
-
 - id: c-179375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -218,6 +284,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
     vintais jėzuitų aprašymais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

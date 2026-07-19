@@ -34,43 +34,41 @@ media_all_json: |-
 
 ## Santrauka
 
-1209–1210 m., Daukanto pasakojimu, Kristijonas, perėjęs Vyslą, atvyko į Kulmiją prie Pamezonijos paribio ir nuėjo pas kunigaikštį Sudreikį. Daukanto pasakojimu, lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas su savo kariauna padėjo jiems niokoti kraštą.
+Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį. Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti.
 
 ## Teiginiai
 
 <a id="claim-t-201125"></a>
 - t-001
   global_id: t-201125
-  teiginys: "1209–1210 m., Daukanto pasakojimu, Kristijonas, perėjęs Vyslą, atvyko į Kulmiją prie Pamezonijos paribio ir nuėjo pas kunigaikštį Sudreikį."
+  teiginys: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184475
 
 <a id="claim-t-201126"></a>
 - t-002
   global_id: t-201126
-  teiginys: "Daukanto pasakojimu, lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas su savo kariauna padėjo jiems niokoti kraštą."
+  teiginys: "Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184476
-- susijęs iš Kulmija: Daukanto pasakojime lietuviai per žygį į Kulmiją ir Pamezoniją smarkiai nusiaubė šiuos kraštus ir su grobiu laimingai grįžo namo.
-- susijęs iš Kulmija: Daukanto pasakojime lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas jiems talkino.
-- susijęs iš [[objektai/ivykiai/Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje.md#claim-t-201344|Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje]]: Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje.
-- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201029|Sviatopelkas]]: Daukantas rašo, kad Sviatopelkas kariavo su kryžėjais vandenyje ir sausumoje, o vėliau padėjo lietuviams niokoti Pamezoniją ir Kulmiją.
-- susijęs iš [[objektai/ivykiai/Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje.md#claim-t-201344|Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje]]: Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje.
-- susijęs iš Kulmija: 1209–1210 m. Kristijonas, perėjęs Vyslą, atvyko į Kulmiją, prie Lubavos apygardų ir Pamezonijos pasienio.
-- susijęs iš Kulmija: Daukanto pasakojime lietuviai per žygį į Kulmiją ir Pamezoniją smarkiai nusiaubė šiuos kraštus ir su grobiu laimingai grįžo namo.
-- susijęs iš Lubava: 1209–1210 m. Kristijonas, perėjęs Vyslą, atvyko į Kulmiją, prie Lubavos apygardų ir Pamezonijos pasienio.
-- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-200956|urėdas]]: Daukanto pasakojime kryžėjų didysis mistras liepė urėdui Pamezonijos ir Kulmijos pasienyje ant skardžio įkurti stiprią pilį ir joje pastatyti gausią įgulą.
-- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201030|Sviatopelkas]]: Daukanto teigimu, lietuviai, siekdami įveikti vokiečių kryžiuočius, pasirinko Sviatopelką savo karvedžiu.
-- susijęs iš [[objektai/ivykiai/Grevos pilies užėmimas.md#claim-t-201320|Grevos pilies užėmimas]]: Vida žiemą su kryžėjų ir sąjungininkų pajėgomis pasaloje puolė Grevos pilį ir, iškirtęs ar pavergęs įgulą, ją užėmė.
-- susijęs iš Christburgas (vieta): Daukantas rašo, kad kryžėjų rėdytojas Vida Pamezonijoje tarp Sirgūnės upės ir Draudžiu ežero pastatė pilį, pavadintą Christburgu.
-- susijęs iš Grevos pilis (pilis): Daukanto pasakojime Sviatopelkas Pamezonijoje apniko Grevos pilį iš dviejų pusių, siekdamas ją vėl atimti iš vokiečių.
-- susijęs iš Kulmija: Daukanto pasakojime lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas jiems talkino.
+
 ## Citatos
 
 - id: c-184475
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 240"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 240."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai rados taip pat zokanykas cisternas, var­
     du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
@@ -87,6 +85,7 @@ media_all_json: |-
     keliavo į Rymą apipasakoti savo darbus Inocentui
     III popiežiui.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,9 +93,8 @@ media_all_json: |-
     - t-201125
 
 - id: c-184476
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 313"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -110,11 +108,9 @@ media_all_json: |-
     to, ką vokyčiai buvo įkūrę, neapvežėdami ir neap­
     kęsdami su žeme lygino, į plėnis ir iras vertė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201126
-
-## Ryšiai
-- Puolė Pamezoniją (vieta): [[objektai/grupes/Lietuviai]]

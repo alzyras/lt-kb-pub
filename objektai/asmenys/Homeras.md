@@ -33,10 +33,47 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
 - t-002
   global_id: t-191279
   teiginys: "Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174161
-
+    - c-002
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    155
+
+    ## Puslapis 153
+
+    kalingos, nes turime senovės ¡padavimą, kuris kalba ką
+    kita: Ovidijus Eridaną vadina didžiausia upe; Hesiodas
+    mini, kad Eridanas buvęs Okeano ir Tetidės sūnus, kuris
+    teka gilia ir šniokščiančia vaga; Vergilijus, taip pat vadi­
+    na jį didžiausia upe, upių karaliene, kuri turi dvi šakas;
+    Dionyzas Perigetas* dar vaizdingiau vadina Eridaną gė­
+    lėtąja jūra. Visus šiuos padavimus ¡sujungę į vieną, įsiti­
+    kinsime, jog pirmiausia Baltijos jūra buvo žinoma Erida-
+    no vardu; klaidingos tų vietų geografijos žinios upėmis
+    laikydavo net ir didesnius vandens telkinius; Homero kū­
+    riniuose aptinkame, kad Okeanas vadinamas upe, skalau­
+    jančia pasaulį. Be kita ko, Baltijos jūra siejama su Okea­
+    nu, ji laikoma pačia didžiausia upe arba gali būti vadi­
+    nama upių karaliene, kuri turi dvi šakas, laikant Suomių
+    ir Botnijos įlankas šakomis, turinčiomis gintaringus
+    krantus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 - c-002
   santrauka: 'Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -55,13 +92,12 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191279
 ## Citatos
 
 - id: c-174161
@@ -88,8 +124,22 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
     įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
     išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
     gana daug.
-  citata_rodoma: "Būtent ši priežastis daro\nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais\nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad\nnebuvo tikslūs astronominiai-geografiniai, bet apskritai\nmitologiniai, kosmografiniai, genealoginiai ir istoriniai,\nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos. Dėl to derėtų šia prasme\nįvertinti skirtumą ir išnagrinėti jo priežastis tam, kad\nišvengtume nesusipratimų, kurių tokiu atveju pasitaiko\ngana daug."
+  citata_rodoma: |
+    Būtent ši priežastis daro
+    mus visiškai bejėgius spręsti apie tikrą reikšmę praėju­
+    sių laikų, jei jie patys savęs nepaaiškina; kalbant kitais
+    žodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­
+    losofiškai arba kritiškai, nes kritika — filosofijos šaka.
+    Nei Homero, nei Herodoto žemėlapiai, kurie niekad
+    nebuvo tikslūs astronominiai-geografiniai, bet apskritai
+    mitologiniai, kosmografiniai, genealoginiai ir istoriniai,
+    nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
+    lios matematinės projekcijos. Dėl to derėtų šia prasme
+    įvertinti skirtumą ir išnagrinėti jo priežastis tam, kad
+    išvengtume nesusipratimų, kurių tokiu atveju pasitaiko
+    gana daug.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

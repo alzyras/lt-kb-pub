@@ -39,6 +39,16 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 - t-001
   global_id: t-31259
   teiginys: "LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Tautavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "LTSR Mokslų Akademijos Istorijos Institutas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "A. Tautavičius: mention_match, author, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LTSR Mokslų Akademijos Istorijos Institutas\" parinktas kaip owner_note_path. Targetas \"A. Tautavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33300
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179535|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
@@ -61,8 +71,14 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
-  citata_rodoma: "^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių\nskydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų\nAkademijos Istorijos Institutas leidžia kas antri metai knygas :\n_Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos\nskyrių red. A. Tautavičius."
+  citata_rodoma: |
+    ^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
+    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

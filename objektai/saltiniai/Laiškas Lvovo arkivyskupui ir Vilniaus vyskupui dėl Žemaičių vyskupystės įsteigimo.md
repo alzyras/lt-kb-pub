@@ -32,6 +32,19 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
 - t-001
   global_id: t-186335
   teiginys: "Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui patikėta įsteigti Žemaičių vyskupystę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169696
 
@@ -64,6 +77,7 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
     žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
     sai netikėtų ir didelių kliūčių.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -1,12 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Naito pilis (pilis)'
+pavadinimas: 'Naito pilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Naito pilis'
-aliases:
-  - 'Naito pilis'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,27 +18,32 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Naito pilis (pilis)
+# Naito pilis
 
 ## Santrauka
 
-Daukanto pasakojime pasakojama, kad Vitavudas tarp Nemuno ir Ailibo upių, netoli Karaliaučiaus, įkūrė Naito pilį.
+Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1.
 
 ## Teiginiai
 
 <a id="claim-t-201173"></a>
 - t-001
   global_id: t-201173
-  teiginys: "Daukanto pasakojime pasakojama, kad Vitavudas tarp Nemuno ir Ailibo upių, netoli Karaliaučiaus, įkūrė Naito pilį."
+  teiginys: "Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184523
 
 ## Citatos
 
 - id: c-184523
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 62"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 62."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vitavudas, pasimylavęs su Bruteniu,
     sutarė nuo šiol niekam duoklės nei dovenų neduoti,
@@ -57,6 +58,7 @@ Daukanto pasakojime pasakojama, kad Vitavudas tarp Nemuno ir Ailibo upių, netol
     ulmigeriai, šiandien kulmionys, to nežinodami, gu­
     dams vergavę.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

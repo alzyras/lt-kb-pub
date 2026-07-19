@@ -27,27 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Iš Žemaičių į Samiją vedė du keliai: vienas per Nemuną, Šalaujus ir Nadraujus, kitas – Klaipėdos kopomis tarp jūros ir marių.
+Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos.
 
 ## Teiginiai
 
-<a id="claim-t-201481"></a>
+<a id="claim-t-201172"></a>
 - t-001
-  global_id: t-201481
-  teiginys: "Iš Žemaičių į Samiją vedė du keliai: vienas per Nemuną, Šalaujus ir Nadraujus, kitas – Klaipėdos kopomis tarp jūros ir marių."
+  global_id: t-201172
+  teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184831
-- susijęs iš Nemunas: Vienas iš dviejų Daukanto minimų kelių iš Žemaičių į Samiją ėjo per Nemuną, Šalaujus ir Nadraujus.
-- susijęs iš Samija (vieta): Iš Žemaičių į Samiją vedė du keliai: per Nemuną, Šalaujus ir Nadraujus arba nuo Klaipėdos kopomis tarp jūros ir marių.
-- susijęs iš Šalaujus (vieta): Vienas kelias iš Žemaičių į Samiją, pasak Daukanto, ėjo per Nemuną, Šalaujus ir Nadraujus.
-- susijęs iš Pragaro upė: Otokaras su kryžiuočiais kariavo su samionais ir kitais žemaičiais tarp Pragaro ir Nemuno upių.
-- susijęs iš Tvangstė (vieta): Daukanto pasakojime Otokaras prie Tvangstės girios aptiko paupio kalną, ant kurio ketino statyti miestą ir pilį, tačiau po pamatų padėjimo kitąmet grįžo namo.
+    - c-184522
+
 ## Citatos
 
-- id: c-184831
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 354"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 354."
+- id: c-184522
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visų pavoj ausiu daiktu buvo dėl nukariavimo
     Sami jos pažinės ir gentysta samionų su kitais že­
@@ -67,8 +68,9 @@ Iš Žemaičių į Samiją vedė du keliai: vienas per Nemuną, Šalaujus ir Nad
     joj įnamaujančių, jog ta trakčia žemaičiai staiga
     juos antpuolę galėjo nuo dviejų pusių suremti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201481
+    - t-201172

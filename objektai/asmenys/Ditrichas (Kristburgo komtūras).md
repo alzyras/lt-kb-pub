@@ -34,6 +34,17 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 - t-001
   global_id: t-60102
   teiginys: "Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Pagudė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ditrichas (Kristburgo komtūras): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pagudė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ditrichas žygyje nusiaubė Pagudės žemę, todėl ryšys su kariniu žygiu į Pagudę tiesiogiai pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ditrichas (Kristburgo komtūras) surengė žygį į Pagudė (0.87)"
   pagrindžia:
     - c-60735
 
@@ -53,8 +64,17 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: "Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais\npatraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko\nnamo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,\npasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė\nprūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu\nper vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę\nprūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią\nmergelę, ore vedančią paskui save brolių būrį."
+  citata_rodoma: |
+    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
+    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
+    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
+    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
+    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
+    mergelę, ore vedančią paskui save brolių būrį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

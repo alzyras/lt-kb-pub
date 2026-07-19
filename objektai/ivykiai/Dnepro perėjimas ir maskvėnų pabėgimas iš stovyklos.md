@@ -46,6 +46,19 @@ Nenurodyta
 - t-001
   global_id: t-185561
   teiginys: "Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168922
 
@@ -53,6 +66,19 @@ Nenurodyta
 - t-002
   global_id: t-185563
   teiginys: "Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168924
 
@@ -89,14 +115,31 @@ Nenurodyta
     kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
     damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
     jo per mažai karių.
-  citata_rodoma: "Kadangi prie­\nšas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie\nvidudienį laimingai persikė-\nK a ia liu s\nŽ y g im a n ta s\nlę per upę, užgriuvo stovyk-\nm a sk v ė n u s su m u ša\nlą, kai maskvėnai stiprinosi,\nir pradėjo kruvinas kauty­\nnes, kol priešai, netikėto antpuolio pritrenkti, nespėjo\natsigauti. Vėliau nušuoliavo prie upės ir iš užpakalio\nužpuolė pakrantėje išstatytas saugas, atverdami savo\nvyrams kelią. Karalius su kitais kariais laukė, kuo vis­\nkas baigsis; pastebėjęs savo vėliavas kitame krante,\njis drąsiai pavarė žirgą į upę ir, vienur briste brisda­\nmas, kitur plaukte plaukdamas, pirmas nusigavo į kitą\nkrantą, pervesdamas be jokių nuostolių visus raitelius."
+  citata_rodoma: |
+    Kadangi prie­
+    šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie
+    vidudienį laimingai persikė-
+    K a ia liu s
+    Ž y g im a n ta s
+    lę per upę, užgriuvo stovyk-
+    m a sk v ė n u s su m u ša
+    lą, kai maskvėnai stiprinosi,
+    ir pradėjo kruvinas kauty­
+    nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
+    atsigauti. Vėliau nušuoliavo prie upės ir iš užpakalio
+    užpuolė pakrantėje išstatytas saugas, atverdami savo
+    vyrams kelią. Karalius su kitais kariais laukė, kuo vis­
+    kas baigsis; pastebėjęs savo vėliavas kitame krante,
+    jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
+    mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
+    krantą, pervesdamas be jokių nuostolių visus raitelius.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185561
-
 - id: c-168924
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -122,8 +165,22 @@ Nenurodyta
     jis drąsiai pavarė žirgą į upę ir, vienur briste brisda­
     mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
     krantą, pervesdamas be jokių nuostolių visus raitelius.
-  citata_rodoma: "Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų. Mat,\nnors pakrikas priešo atsitraukimas žadėjo nesunkią per­\ngalę, bet, turėdami galvoje, kad keliai visai nepažįsta­\nmi ir neprieinami, o tarp miškų ir pelkių gali pasitai­\nkyti visokių pasalų, nutarė, jog susilauks daugiau pa­\nvojų, nei turės vilčių sėkmingai baigti žygį, jeigu\nkariai, nuvargę po tokio ilgo kelio, imsią persekioti\npriešą."
+  citata_rodoma: |
+    Po šio įvykio Glinskis, nelyginant sumažėjęs ne
+    tik savo šalininkų, bet ir savo paties akyse, pasitraukė
+    į Starodubą su išsaugotais pulkais, kuriais labiausiai
+    pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
+    pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
+    didikų patartas, nesiryžo persekioti maskvėnų. Mat,
+    nors pakrikas priešo atsitraukimas žadėjo nesunkią per­
+    galę, bet, turėdami galvoje, kad keliai visai nepažįsta­
+    mi ir neprieinami, o tarp miškų ir pelkių gali pasitai­
+    kyti visokių pasalų, nutarė, jog susilauks daugiau pa­
+    vojų, nei turės vilčių sėkmingai baigti žygį, jeigu
+    kariai, nuvargę po tokio ilgo kelio, imsią persekioti
+    priešą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

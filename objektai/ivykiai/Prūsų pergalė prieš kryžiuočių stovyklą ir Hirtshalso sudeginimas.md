@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185534
   teiginys: "Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Notanga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168895
 
@@ -52,6 +65,19 @@ Nenurodyta
 - t-002
   global_id: t-185535
   teiginys: "Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168896
 
@@ -59,6 +85,20 @@ Nenurodyta
 - t-003
   global_id: t-185536
   teiginys: "Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai rodo krikščionis kaip mūšio pusę šiame įvykyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas (0.82); Vokiečiai dalyvavo mūšyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas (0.70)"
   pagrindžia:
     - c-168897
 
@@ -66,6 +106,13 @@ Nenurodyta
 - t-004
   global_id: t-196247
   teiginys: "Kryžiuočiai įrengė pylimu ir grioviu sustiprintą stovyklą, paliko dalį karių gurguolėms saugoti ir patraukė link prūsų pajėgų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168895
 
@@ -73,6 +120,13 @@ Nenurodyta
 - t-005
   global_id: t-196248
   teiginys: "Prūsams užėmus kryžiuočių stovyklą, kovotojams buvo įsakyta nesiplėšti ir iškart pulti pagrindines vokiečių pajėgas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168896
 
@@ -80,6 +134,13 @@ Nenurodyta
 - t-006
   global_id: t-196249
   teiginys: "Kojelavičius rašo, kad Magdeburgo bajoras Hirtshalsas, belaisviams metus burtus, per prūsų pergalės apeigas buvo gyvas sudegintas dievams pagerbti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168897
 
@@ -87,6 +148,13 @@ Nenurodyta
 - t-007
   global_id: t-196250
   teiginys: "Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet per šv. Agnetės šventę buvo prūsų sutriuškinta."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178595
 
@@ -119,13 +187,13 @@ Nenurodyta
     lybe užgriuvo stovyklą, ku­
     rioje, kaip jie žinojo, buvusi palikta negausi įgula.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185534
     - t-196247
-
 - id: c-168896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -144,15 +212,27 @@ Nenurodyta
     sėje pergalės viltį, vis dėlto galop krikščionys buvo
     sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
     galvas padėjo.
-  citata_rodoma: "Kovotojams buvo įsakyta susilaikyti \nnuo grobio ir, kol nepraėjo pakili pergalės nuotaika, \nkarštai pulti dar kruvinais kalavijais priešą, kad kil­\ntų dar smarkesnė kova ir būtų pasiekta visiška per­\ngalė. Kai pasirodė iš užnugario grėsmingi barbarai, \nkurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas \nir baimė, jog paimta stovykla; tada, susidūrus kariuo­\nmenėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­\nmas palaikė ne vieną valandą ir vienoje, ir kitoje pu­\nsėje pergalės viltį, vis dėlto galop krikščionys buvo \nsumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba \ngalvas padėjo."
+  citata_rodoma: |
+    Kovotojams buvo įsakyta susilaikyti
+    nuo grobio ir, kol nepraėjo pakili pergalės nuotaika,
+    karštai pulti dar kruvinais kalavijais priešą, kad kil­
+    tų dar smarkesnė kova ir būtų pasiekta visiška per­
+    galė. Kai pasirodė iš užnugario grėsmingi barbarai,
+    kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
+    ir baimė, jog paimta stovykla; tada, susidūrus kariuo­
+    menėms, prasidėjo žiaurus mūšis. Kovotojų atkaklu­
+    mas palaikė ne vieną valandą ir vienoje, ir kitoje pu­
+    sėje pergalės viltį, vis dėlto galop krikščionys buvo
+    sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
+    galvas padėjo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185535
     - t-196248
-
 - id: c-168897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -173,13 +253,13 @@ Nenurodyta
     ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
     kinta per pačią šventosios Agnetės šventę.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185536
     - t-196249
-
 - id: c-178595
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -193,6 +273,7 @@ Nenurodyta
     šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
     Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

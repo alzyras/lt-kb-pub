@@ -59,6 +59,9 @@ Nenurodyta
 - t-001
   global_id: t-186921
   teiginys: 'Plačiau buvo žinomi bent 222 šių tekstų nuorašai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje buvo skaičiaus ir daiktavardžio derinimo klaida bei pridėta ne visai tiksliai suformuluota fragmentų dalis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-170097
 
@@ -66,6 +69,9 @@ Nenurodyta
 - t-002
   global_id: t-186922
   teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-170097
 
@@ -73,6 +79,11 @@ Nenurodyta
 - t-003
   global_id: t-187524
   teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai išskleidžia subjektą kaip LDK metraštinės literatūros sąvadus. Citata tiesiogiai patvirtina spausdinimo nebuvimą ir plitimą nuorašais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-170097
 
@@ -80,6 +91,10 @@ Nenurodyta
 - t-004
   global_id: t-193884
   teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti, o plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Įvardis „jų“ pakeistas aiškiu subjektu iš citatos konteksto. Paliktas tik citatos paremtas faktas apie neišspausdinimą ir nuorašų skaičių.'
   pagrindžia:
     - c-170097
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
@@ -141,11 +156,12 @@ Nenurodyta
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
   citata_rodoma: "Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra \nanoniminiai: mažai žinomi ar visai nežinomi jų auto­\nriai, tikslus parašymo laikas ir vieta. Nė vienas iš jų \nnebuvo savo laiku išspausdintas, o plito rankraštiniais \nnuorašais, kurių plačiau žinoma bent 222 . Daugumas \ntų nuorašų ir susijusių su jais atskirų fragmentų yra \npaskelbti Rusijos Archeografinės Komisijos leidinyje, \npavadintame „Pilnuoju rusų metraščių rinkiniu\" 3 ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-004
-    - t-005
+    - t-186921
+    - t-186922
+    - t-187524
+    - t-193884

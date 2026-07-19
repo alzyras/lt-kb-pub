@@ -51,6 +51,10 @@ Proginė antidegtininė formulė.
 - t-001
   global_id: t-195431
   teiginys: "Degtinė atmetama, o saldus alus iškeliamas kaip geresnis gėrimas."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177852
 
@@ -66,8 +70,10 @@ Proginė antidegtininė formulė.
     Mote­
     rėlės, leiskite į mus. — Patarė vienas vyras, ir jo patarimu stiklinė
     apėjo aplinkui.
-  citata_rodoma: "— Degtinę tegul geria velniai, o mes gerkime saldų alutį. Moterėlės, leiskite į mus. — Patarė vienas vyras, ir jo patarimu stiklinė apėjo aplinkui."
+  citata_rodoma: |
+    — Degtinę tegul geria velniai, o mes gerkime saldų alutį. Moterėlės, leiskite į mus. — Patarė vienas vyras, ir jo patarimu stiklinė apėjo aplinkui.
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

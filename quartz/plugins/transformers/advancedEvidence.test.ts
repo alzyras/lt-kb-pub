@@ -8,7 +8,9 @@ const markdown = `# Objektas
 ## Teiginiai
 - id: t-001
   global_id: t-00042
-  teiginys: Testinis teiginys
+  teiginys: Cituojamas sakinys.
+  atnaujinta: 2026-07-18 12:34
+  saltinio_vieta: 120-156; hash=technical-only; match=exact
   sudarymo_pagrindimas: Teiginys performuluotas taip, kad aiškiai įvardytų subjektą ir kontekstą.
   susije_objektai: subject: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; location: [[objektai/vietos/Trakai|Trakai]]
   semantiniai_rysiai: [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją [[objektai/vietos/Trakai|Trakai]]
@@ -35,6 +37,7 @@ const markdown = `# Objektas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Cituojamas sakinys.
+  citata_rodoma: Trumpesnė rodoma ištrauka.
 `
 
 function inspectLazyClaimPayloads(output: string): string {
@@ -45,7 +48,7 @@ function inspectLazyClaimPayloads(output: string): string {
 }
 
 describe("AdvancedEvidence transformer", () => {
-  test("renders citations inline under their supporting claim and keeps a hidden citation store", () => {
+  test("renders citations inline under their supporting claim without a duplicate hidden store", () => {
     const plugin = AdvancedEvidence()
     const transformed = inspectLazyClaimPayloads(
       plugin.textTransform?.(
@@ -66,16 +69,14 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /<th>Kontekstas<\/th>/)
     assert.doesNotMatch(transformed, /<th>Pagrindžia<\/th>/)
     assert.doesNotMatch(transformed, /colspan="3"/)
-    assert.match(transformed, /data-claim-id="t-00042"/)
-    assert.match(transformed, /data-claim-key="t-00042"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-original-claim-id="t-001"/)
     assert.match(transformed, /id="claim-t-00042"/)
-    assert.match(transformed, /data-global-claim-id="t-00042"/)
     assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
-    assert.match(transformed, /data-supporting-ids="c-001"/)
+    assert.match(
+      transformed,
+      /data-citation-source-ids="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/,
+    )
     assert.match(transformed, /data-claim-detail="t-00042"/)
     assert.match(transformed, /id="claim-evidence-t-00042"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
@@ -84,7 +85,10 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /<strong>Autorius:<\/strong> Zenonas Ivinskis/)
     assert.match(transformed, /<strong>Redaktorius:<\/strong> Test Redaktorius/)
     assert.match(transformed, /claim-citation-source/)
-    assert.match(transformed, /<strong>Šaltinis:<\/strong> Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties/)
+    assert.match(
+      transformed,
+      /<strong>Šaltinis:<\/strong> Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties/,
+    )
     assert.match(transformed, /data-claim-evidence-summary="true"/)
     assert.match(transformed, /Patikimumas/)
     assert.match(transformed, /claim-evidence-reliability-high/)
@@ -109,8 +113,12 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(claimDetailRegion, /claim-technical-audit/)
     assert.match(claimDetailRegion, /claim_technical_fields/)
     assert.match(transformed, /Teiginio sudarymas/)
-    assert.match(transformed, /Viešas ID/)
-    assert.match(transformed, /Originalus lokalus ID/)
+    assert.doesNotMatch(transformed, /Viešas ID|Originalus lokalus ID|Globalus ID/)
+    assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
+    assert.match(transformed, /Paskutinis atnaujinimas/)
+    assert.match(transformed, /Originalus šaltinio fragmentas/)
+    assert.doesNotMatch(transformed, /Rodoma citatos ištrauka/)
+    assert.match(transformed, /advanced-field-help/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)
     assert.match(transformed, /Laikotarpiai/)
@@ -127,8 +135,8 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /ambiguous_bare_person/)
     assert.match(transformed, /aiškiai įvardytų subjektą ir kontekstą/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
-    assert.match(transformed, /href="objektai\/asmenys\/Vytautas"/)
-    assert.match(transformed, /href="objektai\/vietos\/Lietuva"/)
+    assert.match(transformed, /href="\/objektai\/asmenys\/Vytautas"/)
+    assert.match(transformed, /href="\/objektai\/vietos\/Lietuva"/)
     assert.match(transformed, />Vytautas<\/a>/)
     const summaryStart = transformed.indexOf('data-claim-evidence-summary="true"')
     const quoteStart = transformed.indexOf("claim-citation-quote")
@@ -138,12 +146,8 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(summaryRegion, /global_id/)
     assert.doesNotMatch(summaryRegion, /ryšio_sprendimo_taisykle/)
     assert.doesNotMatch(summaryRegion, /rule_marriage_local_spouse/)
-    assert.match(transformed, /data-citation-entry="true"/)
-    assert.match(transformed, /data-citation-store="true"/)
-    assert.match(transformed, /data-citation-id="c-001"/)
-    assert.match(transformed, /data-citation-source-title="Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties \(1978 m\.\)"/)
-    assert.match(transformed, /data-citation-source-id="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
-    assert.match(transformed, /data-citation-author="Zenonas Ivinskis"/)
+    assert.doesNotMatch(transformed, /data-citation-entry="true"/)
+    assert.doesNotMatch(transformed, /data-citation-store="true"/)
     assert.doesNotMatch(transformed, /^## Šaltiniai ir įrodymai/m)
   })
 
@@ -153,7 +157,7 @@ describe("AdvancedEvidence transformer", () => {
 
 ## Teiginiai
 - id: t-001
-  teiginys: Testinis teiginys
+  teiginys: Pirma citata ir Antra citata.
   pagrindžia:
     - c-001
 
@@ -169,7 +173,7 @@ describe("AdvancedEvidence transformer", () => {
     )
 
     assert.doesNotMatch(transformed, /<strong>Autorius:<\/strong>/)
-    assert.match(transformed, /data-citation-author=""/)
+    assert.doesNotMatch(transformed, /data-citation-entry="true"/)
   })
 
   test("renders all citations linked from one claim", () => {
@@ -178,7 +182,7 @@ describe("AdvancedEvidence transformer", () => {
 
 ## Teiginiai
 - id: t-001
-  teiginys: Testinis teiginys
+  teiginys: Pirma citata ir Antra citata.
   pagrindžia:
     - c-001
     - c-002
@@ -195,7 +199,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ?? multiCitationMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ??
+        multiCitationMarkdown,
     )
 
     assert.match(transformed, /data-claim-citation-id="c-001"/)
@@ -212,7 +217,7 @@ describe("AdvancedEvidence transformer", () => {
 ## Teiginiai
 - t-010
   global_id: t-05208
-  teiginys: Testinis teiginys su naujos projekcijos ID.
+  teiginys: Tikroji teiginio citata.
   pagrindžia:
     - c-34195
 
@@ -251,13 +256,68 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ??
+        missingCitationMarkdown,
     )
 
     assert.match(transformed, /data-claim-detail="t-001-1"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-001-1"/)
     assert.match(transformed, /Citata nerasta\./)
     assert.doesNotMatch(transformed, /data-claim-citation-id="c-404"/)
+  })
+
+  test("does not render a citation quote when it has no text overlap with the claim", () => {
+    const plugin = AdvancedEvidence()
+    const mismatchedMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Vytautas vadovavo kariuomenei Žalgirio mūšyje.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  šaltinis: Kitas šaltinis
+  citata_originali: |
+    Visai kita citata apie derlių ir žemės darbus.
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, mismatchedMarkdown) ?? mismatchedMarkdown,
+    )
+
+    assert.match(transformed, /claim-citation-mismatch/)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
+    assert.match(transformed, /Citatos tekstas nerodomas/)
+  })
+
+  test("does not render the merged Vytautas citation swap as supporting evidence", () => {
+    const plugin = AdvancedEvidence()
+    const mergedCitationMarkdown = `# Vytautas (Lietuvos valdovas, XIV–XV a.)
+
+## Teiginiai
+- id: t-194
+  global_id: t-198399
+  teiginys: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
+  pagrindžia:
+    - c-36591
+
+## Citatos
+- id: c-36591
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė minutė nenueidavo niekais.
+    Pasižymėjo stropiu valdymu.
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, mergedCitationMarkdown) ??
+        mergedCitationMarkdown,
+    )
+
+    assert.match(transformed, /claim-citation-mismatch/)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
   })
 
   test("uses unique DOM keys when local claim ids repeat and keeps public page order ids", () => {
@@ -288,20 +348,18 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ??
+        duplicateLocalIdMarkdown,
     )
 
-    assert.match(transformed, /data-claim-id="t-111"/)
-    assert.match(transformed, /data-claim-id="t-222"/)
+    assert.match(transformed, /id="claim-t-111"/)
+    assert.match(transformed, /id="claim-t-222"/)
     assert.match(transformed, /id="claim-evidence-t-111"/)
     assert.match(transformed, /id="claim-evidence-t-222"/)
     assert.match(transformed, /data-claim-detail="t-111"/)
     assert.match(transformed, /data-claim-detail="t-222"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-111"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-222"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-public-claim-id="t-002"/)
-    assert.equal((transformed.match(/data-original-claim-id="t-001"/g) ?? []).length, 4)
     assert.match(transformed, /Nuoroda į teiginį t-001/)
     assert.match(transformed, /Nuoroda į teiginį t-002/)
   })
@@ -334,7 +392,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ?? duplicateGlobalIdMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ??
+        duplicateGlobalIdMarkdown,
     )
 
     assert.match(transformed, /id="claim-evidence-t-333"/)
@@ -343,9 +402,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /aria-controls="claim-evidence-t-333-2"/)
     assert.equal((transformed.match(/id="claim-evidence-t-333"/g) ?? []).length, 1)
     assert.equal((transformed.match(/id="claim-evidence-t-333-2"/g) ?? []).length, 1)
-    assert.match(transformed, /data-global-claim-id="t-333"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-public-claim-id="t-002"/)
+    assert.doesNotMatch(transformed, /Globalus ID/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {
@@ -400,7 +457,7 @@ describe("AdvancedEvidence transformer", () => {
     )
 
     assert.match(transformed, /mentioned_person: tame/)
-    assert.doesNotMatch(transformed, /href="objektai\/asmenys\/Tame-\(Baigos-brolis\)"/)
-    assert.match(transformed, /href="objektai\/asmenys\/Zygimantas"/)
+    assert.doesNotMatch(transformed, /href="\/objektai\/asmenys\/Tame-\(Baigos-brolis\)"/)
+    assert.match(transformed, /href="\/objektai\/asmenys\/Zygimantas"/)
   })
 })

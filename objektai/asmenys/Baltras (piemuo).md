@@ -52,6 +52,10 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 - t-001
   global_id: t-195288
   teiginys: "Baltras mokėjo pinti vyžas iš suraitytų karnų."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177652
 
@@ -59,6 +63,10 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 - t-002
   global_id: t-195289
   teiginys: "Baltras buvo vikresnis ir smarkesnis už Napaliuką, todėl tvarkė ganymą."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177655
 
@@ -66,6 +74,10 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 - t-003
   global_id: t-195290
   teiginys: "Baltras sutaisė Napaliuko darbą ir padarė dailią mažą vyžiukę."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177653
 
@@ -73,6 +85,10 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 - t-004
   global_id: t-195291
   teiginys: "Baltras iš alksnio pasidarė adiklį ir ąsiklius, o vyžas paadė karnomis."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177654
 - susijęs iš [[objektai/asmenys/Napaliukas (piemuo).md#claim-t-195292|Napaliukas (piemuo)]]: Napaliukas klausė Baltro apie rimbą ir pats ištraukė jį iš Baltro rankos.
@@ -98,14 +114,15 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     geidė.
     Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vy­
     žas pinti.
-  citata_rodoma: "Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti."
+  citata_rodoma: |
+    Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195288
-
 - id: c-177653
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -119,14 +136,15 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     prievakary ir atnešė terboje žirnių anksčių.
     Pertaisė Napaliuko dar­
     bą ir padarė dailią, mažą vyžiukę.
-  citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
+  citata_rodoma: |
+    Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195290
-
 - id: c-177654
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -139,14 +157,15 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     kraipytų.
     Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
     karnomis.
-  citata_rodoma: "Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
+  citata_rodoma: |
+    Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195291
-
 - id: c-177655
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -162,8 +181,10 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
     vikresnis ir smarkesnis,
     taigi jis rėdė
     ganymą.
-  citata_rodoma: "Tas, kuris kiaušinį suvalgė, buvo Baltras. Baltras su Napaliuku buvo vienokio ūgio, gal būt, ir vienų metų, bet Baltras buvo vikresnis ir smarkesnis, taigi jis rėdė ganymą."
+  citata_rodoma: |
+    Tas, kuris kiaušinį suvalgė, buvo Baltras. Baltras su Napaliuku buvo vienokio ūgio, gal būt, ir vienų metų, bet Baltras buvo vikresnis ir smarkesnis, taigi jis rėdė ganymą.
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

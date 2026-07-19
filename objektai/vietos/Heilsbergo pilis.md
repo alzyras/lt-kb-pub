@@ -1,12 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Heilsbergo pilis (pilis)'
+pavadinimas: 'Heilsbergo pilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Heilsbergo pilis'
-aliases:
-  - 'Heilsbergo pilis'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,27 +18,32 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Heilsbergo pilis (pilis)
+# Heilsbergo pilis
 
 ## Santrauka
 
-Kryžėjai įsilaužė į Heilsbergo pilį, iškirto arba pavergė jos įgulą ir, Daukanto vertinimu, taip nuniokojo visą Parusnį.
+Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo.
 
 ## Teiginiai
 
 <a id="claim-t-201165"></a>
 - t-001
   global_id: t-201165
-  teiginys: "Kryžėjai įsilaužė į Heilsbergo pilį, iškirto arba pavergė jos įgulą ir, Daukanto vertinimu, taip nuniokojo visą Parusnį."
+  teiginys: "Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184515
 
 ## Citatos
 
 - id: c-184515
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 437"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 437."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip keliomis dienomis žydintį kraštą į tyrą
     pavertė. Paskui sukos kryžėjai su visa savo kariau­
@@ -60,6 +61,7 @@ Kryžėjai įsilaužė į Heilsbergo pilį, iškirto arba pavergė jos įgulą i
     niekšai doras negalėjo be širdgilo rymoti, atminęs
     savo ateinančias nelaimas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

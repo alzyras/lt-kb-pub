@@ -57,6 +57,20 @@ Nenurodyta
 - t-001
   global_id: t-62232
   teiginys: "1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir nurodė jį gerbti birželio 14 d."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Klemensas V: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Celestino V kanonizavimas (1313 m. gegužės 5 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Celestino V kanonizavimas (1313 m. gegužės 5 d.)\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus faktinis sakinys, pagrįstas citata."
   pagrindžia:
     - c-62728
 
@@ -67,13 +81,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
+    Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 
       1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
     Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
     p. 446; Ptol. p. 1240).
-  citata_rodoma: "111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą\n\n  1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą\nPetrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.\np. 446; Ptol. p. 1240)."
+  citata_rodoma: |
+    Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
+
+      1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą
+    Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
+    p. 446; Ptol. p. 1240).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

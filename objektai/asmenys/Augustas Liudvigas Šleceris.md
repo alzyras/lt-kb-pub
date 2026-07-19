@@ -32,9 +32,15 @@ Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savaja
 - t-001
   global_id: t-193502
   teiginys: "Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savajai epochai."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-178677
-
+    - c-176188
 ## Citatos
 
 - id: c-178677
@@ -52,6 +58,25 @@ Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savaja
     bos negalima puošti autoriaus .vaizduote. Jo rašymo
     būdas senoviškas, siekiąs bet kokia kaina iš įvykių ir
     asmenų sudaryti siužetą.
+  statusas: verified
+  atnaujinta: "2026-07-13 01:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193502
+- id: c-176188
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 28."
+  citata_originali: |
+    Tai,
+    kad jis tikėjo Litalanu ir Palemonu, buvusi duoklė sa­
+    vajai epochai. Dėl dviejų dalykų jis esąs įtartinas:
+    jis — pragmatikas ir žmogaus veiksmus stengiąsis iš­
+    aiškinti jo sielos ir širdies slaptybėmis. Už tai jam esąs
+    dėkingas skaitytojas, bet ne kritikas.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

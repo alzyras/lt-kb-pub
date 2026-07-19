@@ -52,9 +52,20 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 - t-001
   global_id: t-188002
   teiginys: "Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kriticizmas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kriticizmas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171036
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“.'
@@ -84,8 +95,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188002
 ## Citatos
 
 - id: c-171036
@@ -111,8 +121,14 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
     doti rašytiniai šaltiniai yra ne visai patikimi. Patikrinti ir įver­
     tinti tautosakinius ir etnografinius šaltinius jam buvo dar sun­
     kiau nemokant lietuvių kalbos.
-  citata_rodoma: "Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius\nšaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą\npabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-\ntikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-\njęs „aiškias klaidas“."
+  citata_rodoma: |
+    Tačiau, nežiūrint didelės pagarbos autoritetams, senuosius
+    šaltinius ir tyrinėtojus T. Narbutas vertino kritiškai, ne kartą
+    pabrėždamas, kad laikosi „griežto kriticizmo“, apsiriboja „kri-
+    tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė-
+    jęs „aiškias klaidas“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

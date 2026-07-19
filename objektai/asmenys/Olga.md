@@ -42,22 +42,48 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 - t-001
   global_id: t-190191
   teiginys: "Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olga: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olga\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173074
+    - c-001
+<a id="claim-t-201018"></a>
+- t-002
+  global_id: t-201018
+  teiginys: "Taip nukropusi Olga juodgirėnus, tapo jų viešpate."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184368
 
 <a id="claim-t-201019"></a>
-- t-002
+- t-003
   global_id: t-201019
-  teiginys: "Daukanto pasakojime Olga, atkeršijusi juodgirėnams, apvažiavo savo kraštą, paliko sūnų Kijeve, suskirstė kraštą į valsčius ir išvyko krikštytis į Konstantinopolį."
+  teiginys: "Atgiežusi Olga taip apmaudą ant juodgirėnų per veizėjo visą savo ūkę važinėdamos, sūnui vienok liepusi Kijeve būti, paskaidžiusi kraštą į valsčius, rinkliavas padėjusi nuo žemės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184369
-
-<a id="claim-t-201478"></a>
-- t-003
-  global_id: t-201478
-  teiginys: "Daukanto pasakojime po juodgirėnų pilies sudeginimo Olga tapo jų viešpate, išžudė diduomenę ir padidino duoklę likusiems gyventojams."
-  pagrindžia:
-    - c-184828
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,8 +103,7 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190191
 ## Citatos
 
 - id: c-173074
@@ -94,18 +119,43 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
     tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
     nugalėjo ir paėmė nesuskaičiuojamus turtus.
-  citata_rodoma: "Iš jos sūnūs: Manvydas\n(Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­\nrimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida\nmirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo\nSmolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,\ntai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-\nstut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais."
+  citata_rodoma: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190191
-
+- id: c-184368
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Paukščiai,
+    mindami savo gultas, sugrįžo namo ir į pastoges
+    pilės sulindo su ugnia ir taip pilį uždegė. Taip nu-
+    kropusi Olga juodgirėnus, tapo jų viešpate. Olga,
+    nekakindamos dar ta nelaima pilės, diduomenę iš­
+    kirto, o jų karėjus įdavė į vergus savo karėjams, o
+    likusiesiems gyventojams padidino duoklę nuo dū­
+    mo.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201018
 - id: c-184369
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 56"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atgiežusi Olga taip apmaudą ant juodgirėnų per­
     veizėjo visą savo ūkę važinėdamos, sūnui vienok
@@ -117,28 +167,9 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     tant motinai paėmė valdžią ūkės nieko negeisdamas,
     kaip vienomis karėmis ir žygiais atsiženklinti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201019
-
-- id: c-184828
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 56"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
-  citata_originali: |
-    Paukščiai,
-    mindami savo gultas, sugrįžo namo ir į pastoges
-    pilės sulindo su ugnia ir taip pilį uždegė. Taip nu-
-    kropusi Olga juodgirėnus, tapo jų viešpate. Olga,
-    nekakindamos dar ta nelaima pilės, diduomenę iš­
-    kirto, o jų karėjus įdavė į vergus savo karėjams, o
-    likusiesiems gyventojams padidino duoklę nuo dū­
-    mo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-201478

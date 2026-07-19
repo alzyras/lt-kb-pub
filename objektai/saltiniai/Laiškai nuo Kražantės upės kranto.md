@@ -40,6 +40,19 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-001
   global_id: t-88195
   teiginys: "Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laiškai nuo Kražantės upės kranto: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laiškai nuo Kražantės upės kranto\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia, kas skelbė laiškus ir kokias problemas juose nagrinėjo."
   pagrindžia:
     - c-84175
 
@@ -47,6 +60,16 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-002
   global_id: t-88196
   teiginys: "„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laiškai nuo Kražantės upės kranto: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laiškai nuo Kražantės upės kranto\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84174
 
@@ -54,6 +77,16 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-003
   global_id: t-88197
   teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laiškai nuo Kražantės upės kranto: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=126"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laiškai nuo Kražantės upės kranto\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84176
 
@@ -77,14 +110,27 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
     zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
     1.1.
-  citata_rodoma: "Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­\nkintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, - \no tai mėginama jau daryti\"13. Kita vertus, Laiškuose galima užtikti \nano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip \npat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais\nXIV\n\n## Puslapis 15\n\ndarbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­\nros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju- \nzumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir \n1."
+  citata_rodoma: |
+    Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
+    kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
+    o tai mėginama jau daryti"13. Kita vertus, Laiškuose galima užtikti
+    ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip
+    pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais
+    XIV
+
+    ## Puslapis 15
+
+    darbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­
+    ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
+    zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
+    1.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88196
-
 - id: c-84175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -100,14 +146,18 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
     me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
     nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-  citata_rodoma: "sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­\nsimindamas savo jaunystės metus „nenaudėlių\" draugijoje šia­\nme Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose \nnagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
+  citata_rodoma: |
+    sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­
+    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
+    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
+    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88195
-
 - id: c-84176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -121,8 +171,15 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
     rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
     dešimtmetyje.
-  citata_rodoma: "Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta \nWarszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti \nstraipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­\ntingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū- \nrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a. \ndešimtmetyje."
+  citata_rodoma: |
+    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
+    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
+    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
+    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
+    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
+    dešimtmetyje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

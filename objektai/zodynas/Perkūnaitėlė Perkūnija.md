@@ -33,13 +33,34 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
 - t-001
   global_id: t-189166
   teiginys: "Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina, kuri išprausia nuvargusią ir dulkiną saulę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172054
-
+    - c-001
 <a id="claim-t-189167"></a>
 - t-002
   global_id: t-189167
   teiginys: "Narbutas rašė, kad kai kur Žemaitijoje Perkūnaitėlei skirtos maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perkūnaitėlė Perkūnija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perkūnaitėlė Perkūnija\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172055
 
@@ -47,13 +68,33 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
 - t-003
   global_id: t-189168
   teiginys: "Narbutas manė, kad aptariamas paminklas galėjo priklausyti XV amžiaus pradžiai ir būti sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perkūnaitėlė Perkūnija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perkūnaitėlė Perkūnija\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172056
-
+    - c-003
 <a id="claim-t-197374"></a>
 - t-004
   global_id: t-197374
   teiginys: "Jeigu šis paminklas nėra iš stabmeldystės lai kų, tai - kaip reiktų manyti - ar jis nepriklauso XV amžiaus pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota perkūnijos."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172055
 
@@ -75,8 +116,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189166
 - c-003
   santrauka: 'Narbutas manė, kad aptariamas paminklas galėjo priklausyti XV amžiaus pradžiai ir būti sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -98,8 +138,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189168
 ## Citatos
 
 - id: c-172054
@@ -115,14 +154,21 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
     ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą,
     fulgur. Nuo kojų iki pusės kūną gaubia tiršti debesys, tarytum
     pati kiltų su jais.
-  citata_rodoma: "Perkūnaitėlė (Perkunatele)\n„Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir\ndulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­\nrią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia\ndanguje ir žemėje, panašiu vardu lietuvių šaukiama. Ji buvo\nlietuviškoji Junona, Perkūno žmona ir sesuo, visiškai kaip grai­\nkų mitologijoje."
+  citata_rodoma: |
+    Perkūnaitėlė (Perkunatele)
+    „Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir
+    dulkiną, išprausia maudyklėje; po to, kitą dieną, išleidžia šva­
+    rią ir švytinčią“, -  sako Lasickis. Su Perkūnu ji dalijosi valdžia
+    danguje ir žemėje, panašiu vardu lietuvių šaukiama. Ji buvo
+    lietuviškoji Junona, Perkūno žmona ir sesuo, visiškai kaip grai­
+    kų mitologijoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189166
-
 - id: c-172055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -143,13 +189,13 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
     rią dar tebemoka vietos valstiečiai:
     Weju, weju tau, Pilwite!
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189167
     - t-197374
-
 - id: c-172056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -166,8 +212,20 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
     tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
     bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
     „Belewitt“**.
-  citata_rodoma: "Jeigu šis paminklas nėra iš stabmeldystės lai­\nkų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus\npradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-\nkūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota\nperkūnijos.\nPagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai\natitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino\nJunoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­\nnijos.\nPilvytį' (Pilwite)\nPinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna."
+  citata_rodoma: |
+    Jeigu šis paminklas nėra iš stabmeldystės lai­
+    kų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus
+    pradžiai; neabejotina, kad sukurtas pagal stabmeldišką Per-
+    kūnaitėlės vaizdinį toje epochoje, kai dar prietaringai bijota
+    perkūnijos.
+    Pagaliau reikia manyti, kad Perkūnaitėlės vardas visiškai
+    atitinka antikinių laikų Fulgurą; šiuo vardu romėnai garbino
+    Junoną, žaibų motiną, tardami ją esant saugotoja nuo perkū­
+    nijos.
+    Pilvytį' (Pilwite)
+    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

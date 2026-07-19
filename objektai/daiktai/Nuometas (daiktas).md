@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto aprašyme moterys galvą rutuliodavo baltais nuometais, o dėl to vyrai jas vadindavo baltomis galvomis. Daukanto pasakojime lietuvės ir žemaitės, keičiant tikėjimą, nenorėjo krikštytis, kad neprarastų baltų nuometų ir vilnonių apdarų.
+Moterys dėvėjo ilgesnes sermėgas už vyrų kobo tus, o makaulę baltais nuometais rutuldavo taip grak ščiai ir puikiai, jog nuo to iki šiai dienai vyrai godindami motriškąsias baltomis galvomis vadina. Nė viena taip didžiai barva joms netiko, kaip balta, dėl to gi, tikėjimą perkeičiant, lietuvės ir žemaitės nenorėjo krikštytis dėl to vien, idant nenustotų savo baltų nuometų bei vilnonių.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,23 +49,34 @@ Nenurodyta
 <a id="claim-t-201361"></a>
 - t-001
   global_id: t-201361
-  teiginys: "Daukanto aprašyme moterys galvą rutuliodavo baltais nuometais, o dėl to vyrai jas vadindavo baltomis galvomis."
+  teiginys: "Moterys dėvėjo ilgesnes sermėgas už vyrų kobo tus, o makaulę baltais nuometais rutuldavo taip grak ščiai ir puikiai, jog nuo to iki šiai dienai vyrai godindami motriškąsias baltomis galvomis vadina."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184711
 
 <a id="claim-t-201362"></a>
 - t-002
   global_id: t-201362
-  teiginys: "Daukanto pasakojime lietuvės ir žemaitės, keičiant tikėjimą, nenorėjo krikštytis, kad neprarastų baltų nuometų ir vilnonių apdarų."
+  teiginys: "Nė viena taip didžiai barva joms netiko, kaip balta, dėl to gi, tikėjimą perkeičiant, lietuvės ir žemaitės nenorėjo krikštytis dėl to vien, idant nenustotų savo baltų nuometų bei vilnonių."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184712
 
 ## Citatos
 
 - id: c-184711
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 77"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Aus­
     tės daugiaus vyžomis, ne naginėmis, vasarvidžiu trū-
@@ -78,6 +89,7 @@ Nenurodyta
     gaitės po plaukų trūsinėjo, ant mandagių kasų rūtų
     vainiką antsegusios.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,9 +97,8 @@ Nenurodyta
     - t-201361
 
 - id: c-184712
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 77"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Toksai apdaras taip joms priderėjo, jog jaunuo­
     menė gulbiais jas vadino. Nė viena taip didžiai
@@ -98,6 +109,7 @@ Nenurodyta
     toj moterys, gyvenančios Lietuvoj* *, Parusny, Žemai­
     čiuose ir Žemgaliuose, arba Kuržemėj2**.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

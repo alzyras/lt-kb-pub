@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasak Daukanto perteikto Kristijono pasakojimo, Inocentas III paskyrė Kristijoną Kulmijos ir Parusnio kraštų vyskupu.
+Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys kupu Kulmijos ir visų tų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201325"></a>
 - t-001
   global_id: t-201325
-  teiginys: "Pasak Daukanto perteikto Kristijono pasakojimo, Inocentas III paskyrė Kristijoną Kulmijos ir Parusnio kraštų vyskupu."
+  teiginys: "Pasakojant Kristijonui, popiežius, matydamas skaitlių perkrikštų gausų esant, užvis jog tuodu kunigaikščiu, dėkavodamu už moks lą savo mokytojui Kristijonui, kunigaikštystas savo jam padovenojo, todėl Inocentas III pakėlė jį vys kupu Kulmijos ir visų tų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184675
 
 ## Citatos
 
 - id: c-184675
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 242"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 242."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kristijonas, ap­
     krikštijęs dar didžias daugybes netikėlių, rūpinos
@@ -78,6 +83,7 @@ Nenurodyta
     dėjo pamatus bažnyčiai tikybos krikščionygos Pa-
     rusny.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

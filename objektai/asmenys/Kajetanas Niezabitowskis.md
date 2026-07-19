@@ -41,9 +41,26 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
 - t-001
   global_id: t-191349
   teiginys: "Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kajetanas Niezabitowskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kajetanas Niezabitowskis\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1823 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus bibliografinis sakinys apie Kajetano Niezabitowskio straipsnį. Nepridėtos citatoje esančios lenkiško pavadinimo detalės."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174231
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m.'
@@ -60,8 +77,7 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191349
 ## Citatos
 
 - id: c-174231
@@ -76,8 +92,14 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
     3 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis
     tuščiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dva­
     ro (Kauno apskrityje) greta skeleto, apjuosto sidabro grandine.
-  citata_rodoma: "T. Narbutas turėjo omenyje straipsnj:\nKrotki spis niektorych starožytnych zabytkow, znajdujących się w\nzbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza\npisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-\ngo // Dziennik Wilenski. 1823. T. II. S. 157—161."
+  citata_rodoma: |
+    T. Narbutas turėjo omenyje straipsnj:
+    Krotki spis niektorych starožytnych zabytkow, znajdujących się w
+    zbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza
+    pisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-
+    go // Dziennik Wilenski. 1823. T. II. S. 157—161.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

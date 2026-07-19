@@ -53,6 +53,17 @@ Nenurodyta
 - t-001
   global_id: t-40745
   teiginys: "Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo raiščio naudojimo vietą Pietų Lietuvoje; leistinas platesnis objektas yra Lietuva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis priklausė Lietuva (0.72)"
   pagrindžia:
     - c-44670
 
@@ -67,8 +78,13 @@ Nenurodyta
     Pietų Lietuvoje, GAM.
 
     p. 224, Dainavos apygardos partizanai, GAM.
-  citata_rodoma: "p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas\nPietų Lietuvoje, GAM.\n\np."
+  citata_rodoma: |
+    p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas
+    Pietų Lietuvoje, GAM.
+
+    p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

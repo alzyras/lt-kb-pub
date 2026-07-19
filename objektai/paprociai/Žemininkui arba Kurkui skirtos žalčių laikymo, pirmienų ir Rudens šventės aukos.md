@@ -49,6 +49,13 @@ Nenurodyta
 - t-002
   global_id: t-194643
   teiginys: "Lietuviai teikė jam garbę, laikydami žalčius ir maitindami juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177041
 
@@ -56,9 +63,12 @@ Nenurodyta
 - t-001
   global_id: t-189815
   teiginys: 'Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinis teiginys apie dievybės stabą paliktas su Narbuto atribucija. Nepridėta vietos ar platesnio ritualo, nes ši citata jų aiškiai neišskleidžia.'
   pagrindžia:
-    - c-172698
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas.'
@@ -75,13 +85,12 @@ Nenurodyta
     vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
     kė prietaringą tikėjimą šia dievybe*.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189815
 ## Citatos
 
 - id: c-177041
@@ -99,6 +108,7 @@ Nenurodyta
     kos jam buvo atnašaujamos rudenį, per šventę, vadintą Di­
     džiąja.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

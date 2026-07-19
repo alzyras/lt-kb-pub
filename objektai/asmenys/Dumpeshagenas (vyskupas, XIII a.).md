@@ -35,24 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas pasakoja, kad naujasis kalavijonų mistras Dumpeshagenas, padedamas Tarapato vyskupo, mėgino kitus vyskupus atskirti nuo Rygos arkivyskupo reikalo.
+Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų.
 
 ## Teiginiai
 
-<a id="claim-t-201408"></a>
+<a id="claim-t-201407"></a>
 - t-001
-  global_id: t-201408
-  teiginys: "Daukantas pasakoja, kad naujasis kalavijonų mistras Dumpeshagenas, padedamas Tarapato vyskupo, mėgino kitus vyskupus atskirti nuo Rygos arkivyskupo reikalo."
+  global_id: t-201407
+  teiginys: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184758
-- susijęs iš [[objektai/asmenys/Fechtenas (vyskupas, XIII a.).md#claim-t-201413|Fechtenas (vyskupas, XIII a.)]]: Daukanto pasakojime Rygos arkivyskupas Fechtenas mirė 1294 m., konfliktui su kalavijuočiais dar nesibaigus.
-- susijęs iš [[objektai/asmenys/Šverinas (vyskupas, XIII a.).md#claim-t-201414|Šverinas (vyskupas, XIII a.)]]: Daukantas Šveriną vaizduoja kaip 1294 m. po Fechteno mirties su kalavijuočiais nesusitaikiusį arkivyskupą, patvirtinusį sandoras su lietuviais ir žemaičiais.
+    - c-184757
+
 ## Citatos
 
-- id: c-184758
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 488"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 488."
+- id: c-184757
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Arkivyskupas Ry­
     gos, jausdamas artimą audrą ir pavojų, stiprią pilį,
@@ -75,8 +79,9 @@ Daukantas pasakoja, kad naujasis kalavijonų mistras Dumpeshagenas, padedamas Ta
     ir baisesniai ėmė su jais kariauti ir sandarus su lie­
     tuviais ir žemaičiais patvirtino ir juos į karę samdė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201408
+    - t-201407

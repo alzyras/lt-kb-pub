@@ -41,6 +41,19 @@ Butrimas ir kiti.
 - t-001
   global_id: t-63304
   teiginys: "A. Butrimas buvo vienas 2009 m. Vilniuje išleistos knygos „Lietuva 1009–2009“ sudarytojų."
+  atnaujinta: "2026-05-30 14:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Butrimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Butrimas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Butrimas: mention_match, person, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Butrimas\" parinktas kaip owner_note_path. Targetas \"Butrimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 2009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22106
 - susijęs iš Lietuva 1009–2009: Leidinį „Lietuva 1009–2009“ sudarė A. Butrimas ir kiti; jis išleistas Vilniuje 2009 m.
@@ -51,10 +64,13 @@ Butrimas ir kiti.
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Chicago, 2010; Lietuva
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.
-  citata_rodoma: "Chicago, 2010; Lietuva\n1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose."
+    Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
+  citata_rodoma: |
+    Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

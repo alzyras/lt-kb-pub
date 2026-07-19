@@ -33,6 +33,20 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
 - t-001
   global_id: t-191483
   teiginys: "Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų ištakas mėgino nuspalvinti tariamu istoriškumu, siedamas juos su makedonais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vitechindas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitechindas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174365
 - susijęs iš [[objektai/ivykiai/Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties.md#claim-t-191872|Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties]]: Narbutas rašo, kad Vitechindas padavimus apie prūsų ištakas nuspalvino pasakojimu apie makedonus po Aleksandro Didžiojo mirties.
@@ -54,6 +68,7 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
     visada jiems patvirtindavo giminingumą su heleniškomis
     kartomis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

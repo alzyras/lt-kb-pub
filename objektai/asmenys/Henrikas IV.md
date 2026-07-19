@@ -43,6 +43,17 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 - t-001
   global_id: t-30261
   teiginys: "Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Anglija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas IV: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Anglija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikas IV aiškiai įvardijamas kaip būsimasis Anglijos karalius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas IV buvo valdovas Anglija (0.90)"
   pagrindžia:
     - c-32736
 - susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87430|Henrikas Lankasteris]]: Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.
@@ -64,13 +75,18 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
     kuris paliko smulkias savo žygio sąskaitas^18.
     Didžioji kariuomenė su tituluotais užsienio svečiais apgulė
     pačią Lietuvos sostinę, kur reikėjo paimti tris pilis.
-  citata_rodoma: "Dalyvavo ir Lancasterio\ngrafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413),\nkuris paliko smulkias savo žygio sąskaitas^18.\nDidžioji kariuomenė su tituluotais užsienio svečiais apgulė\npačią Lietuvos sostinę, kur reikėjo paimti tris pilis."
+  citata_rodoma: |
+    Dalyvavo ir Lancasterio
+    grafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413),
+    kuris paliko smulkias savo žygio sąskaitas^18.
+    Didžioji kariuomenė su tituluotais užsienio svečiais apgulė
+    pačią Lietuvos sostinę, kur reikėjo paimti tris pilis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30261
-
 ## Ryšiai
 - Henrikas IV buvo valdovas [[objektai/vietos/Anglija]]

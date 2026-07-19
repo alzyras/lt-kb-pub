@@ -38,6 +38,18 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
 - t-001
   global_id: t-31587
   teiginys: "A. Juškos „Mindaugo krikštas“ išspausdintas „Lux Christi“ 1951 m. 1 numeryje, o „Mindaugas ir Lietuvos krikštas“ - „Laiškuose Lietuviams“ 1951 m. 2 numeryje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Juška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Juška Mindaugo krikštas Mindaugas ir Lietuvos krikštas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "A. Juška: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Juška Mindaugo krikštas Mindaugas ir Lietuvos krikštas\" parinktas kaip owner_note_path. Targetas \"A. Juška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1951 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33506
 
@@ -54,8 +66,12 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
     (^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p.**
     (^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**
     **_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p.**
-  citata_rodoma: "**\n(^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**\n**_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p."
+  citata_rodoma: |
+    **
+    (^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**
+    **_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

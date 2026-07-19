@@ -56,6 +56,20 @@ Nenurodyta
 - t-001
   global_id: t-59667
   teiginys: "Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Otokaras II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Otokaro II dalyvavimą puolime prieš Sembą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Otokaras II dalyvavo mūšyje Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.) (0.90); Kryžiuočių ordinas dalyvavo mūšyje Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.) (0.90); Otokaras II puolė Semba (0.86); Kryžiuočių ordinas puolė Semba (0.86)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1255 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina įvykį, o pradinė formuluotė klaidingai priskiria teiginį Dusburgiečiui ir nukrypsta nuo objekto."
   pagrindžia:
     - c-60299
 
@@ -73,11 +87,11 @@ Nenurodyta
     aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
     p. 63).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59667
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

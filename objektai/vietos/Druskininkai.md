@@ -43,6 +43,16 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 - t-001
   global_id: t-170325
   teiginys: "Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Estija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Druskininkai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Estija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkai\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154996
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
@@ -76,8 +86,14 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
     iki 20 000.
-  citata_rodoma: "Lietuviai at-\nkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti \nkelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus). \nSovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino \niki 20 000."
+  citata_rodoma: |
+    Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
+    iki 20 000.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

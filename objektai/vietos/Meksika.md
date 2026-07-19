@@ -33,6 +33,16 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - t-001
   global_id: t-46992
   teiginys: "Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kanada: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Meksika: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kanada: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meksika\" parinktas kaip owner_note_path. Targetas \"Kanada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-49533
 - susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191119|Augustas Liudvikas fon Slėceris]]: Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.
@@ -53,8 +63,14 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-
     sikoje ar Argentinoje.
     Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
-  citata_rodoma: "Tokio reiškinio analogijos – angliškosios kultūros laida Ai-\nrijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje, \nprancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-\nsikoje ar Argentinoje.\nLietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką."
+  citata_rodoma: |
+    Tokio reiškinio analogijos – angliškosios kultūros laida Ai-
+    rijoje (ką jau kalbėti apie JAV ir Australiją), daniškosios – Norvegijoje,
+    prancūziškosios – Kanados Kvebeke, ispaniškosios kultūros laidos Mek-
+    sikoje ar Argentinoje.
+    Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

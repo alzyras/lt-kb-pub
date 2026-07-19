@@ -51,6 +51,20 @@ Nenurodyta
 - t-001
   global_id: t-185790
   teiginys: "Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lukovas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lukovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lukovo apylinkių nuniokojimas tiesiogiai priskirtas Vyteniui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytenis puolė Lukovas (0.84); Vytenis surengė žygį į Sandomiras (0.83); Vytenis puolė Lenkai (0.78)"
   pagrindžia:
     - c-169151
 
@@ -58,6 +72,13 @@ Nenurodyta
 - t-002
   global_id: t-196286
   teiginys: "Mūšyje su lietuviais Lešekas įsakė rezervui veržtis į priekį, o pamatę priekinių eilių atsitraukimą pavargę lietuvių kariai leidosi bėgti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178611
 
@@ -94,14 +115,33 @@ Nenurodyta
     dosi persekioti priešo su didikais ar bajorais, kurie jau
     buvo atvykę į Krokuvą arba kuriuos galėjo greitosio­
     mis sušaukti iš aplinkinių gyvenviečių.
-  citata_rodoma: "Staigiai ir be var­\ngo iškilęs į valdžios viršūnes, Vytenis turėjo pamato\nįtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­\nma padėtis negali nekurstyti pavydo, neteikti progos\nmaištams, ypač dėl to, kad negalėjo stigti maištui nei\nkurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė\nvado būsimam vidaus karui, kol, jam valdant, Trai-\nverstas pradėti karą dėl visai kitų priežasčių, ypač pa­\nbrėždamas tą žinomiausią: būsią keršijama lenkams už\npatirtą praėjusiais metais Jotvingijoje pralaimėjimą.\nSutelkęs didesnę nei paprastai kariuomenę, jis patrau­\nkė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo\napygardas, nuvedė kariuomenę į Sandomiro žemę. Len­\nkams pasitraukus į miestus ir neleidus savo turtą nio­\nkoti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­\nšinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­\nnius kaimus ir dvarus, išžudęs galybę silpnų senių bei\nvaikų, be kito grobio, išsivarė šešis tūkstančius žmo­\nnių."
+  citata_rodoma: |
+    Staigiai ir be var­
+    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
+    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
+    ma padėtis negali nekurstyti pavydo, neteikti progos
+    maištams, ypač dėl to, kad negalėjo stigti maištui nei
+    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
+    vado būsimam vidaus karui, kol, jam valdant, Trai-
+    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
+    brėždamas tą žinomiausią: būsią keršijama lenkams už
+    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
+    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
+    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
+    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
+    kams pasitraukus į miestus ir neleidus savo turtą nio­
+    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
+    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
+    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
+    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
+    nių.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185790
-
 - id: c-178611
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -131,6 +171,7 @@ Nenurodyta
     svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
     tulą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

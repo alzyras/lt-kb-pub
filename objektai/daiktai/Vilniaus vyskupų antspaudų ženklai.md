@@ -61,6 +61,19 @@ Nenurodyta
 - t-001
   global_id: t-87102
   teiginys: "Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus vyskupų antspaudų ženklai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupų antspaudų ženklai\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1462 m.; įvykio data: po 1453 m.; įvykio data: 1453 m.; įvykio data: 1462 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-83081
 
@@ -78,8 +91,12 @@ Nenurodyta
     sakoja, kad 1399 metais Vilniaus
     vyskupu buvo pakeltas po Važilos
     pranciškonas Jonas Pliekta.
-  citata_rodoma: "7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų \nmenų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­\nspaude turėjo Stumbro ženklą."
+  citata_rodoma: |
+    7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
+    menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­
+    spaude turėjo Stumbro ženklą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

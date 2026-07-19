@@ -33,6 +33,17 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 - t-001
   global_id: t-40501
   teiginys: "Išgirdęs apie pralaimėjimą, Vasilijus III paliko įgulą ir pasitraukė iš Smolensko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Smolenskas: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilijus III: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vasilijaus III judėjimą iš Smolensko, nors kryptis yra pasitraukimas iš vietos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vasilijus III keliavo į Smolenskas (0.64)"
   pagrindžia:
     - c-44558
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54180|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.
@@ -50,8 +61,15 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
-  citata_rodoma: "Išgirdęs apie pralaimėjimą,\nVasilijus 111 palikęs įgulą pasi-\ntraukė iš Smolensko. Lietuvai\n\nvėl atiteko Mstislavlis, Dubrovnos,\nKryčevo pilys."
+  citata_rodoma: |
+    Išgirdęs apie pralaimėjimą,
+    Vasilijus 111 palikęs įgulą pasi-
+    traukė iš Smolensko. Lietuvai
+
+    vėl atiteko Mstislavlis, Dubrovnos,
+    Kryčevo pilys.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

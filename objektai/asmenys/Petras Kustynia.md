@@ -42,6 +42,20 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
 - t-001
   global_id: t-87827
   teiginys: "Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Krokuva: 0.76"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Kustynia: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Petras Kustynia tiesiogiai apibūdintas kaip kilęs iš Krokuvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Petras Kustynia gyveno Krokuva (0.76)"
+  temporaliniai_duomenys: "įvykio data: iki 1414 m.; įvykio data: po 1408 m.; įvykio data: 1408 m.; įvykio data: 1414 m.; įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-83806
 
@@ -59,8 +73,13 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
     dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
     mirė 1421 m.
     6.
-  citata_rodoma: "5\n5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­\ndę „S\" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m., \nmirė 1421 m."
+  citata_rodoma: |
+    5
+    5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­
+    dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
+    mirė 1421 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

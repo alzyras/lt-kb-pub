@@ -33,6 +33,9 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - t-001
   global_id: t-72757
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava valstybe, o administracine apygarda."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71130
 
@@ -40,6 +43,13 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - t-002
   global_id: t-193158
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-175910
 
@@ -57,12 +67,12 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
     tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
     čio nuosava valstybe, kiek administracine apygarda.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72757
-
 - id: c-175910
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -76,6 +86,7 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
     Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

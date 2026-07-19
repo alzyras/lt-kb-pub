@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kazimieras, pasak Daukanto, išsigandęs lietuvių smurto, sudarė sandorą su lietuviais ir įsipareigojo daugiau nebetalkinti kryžėjams.
+Kazimie ras, kunigaikštis Lenkų, nusigandęs baisumu ir smurtumu lietuvių, sandaras su jais padarė ir pasiėmė kryžėjams daugiaus nebtalkinėti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201322"></a>
 - t-001
   global_id: t-201322
-  teiginys: "Kazimieras, pasak Daukanto, išsigandęs lietuvių smurto, sudarė sandorą su lietuviais ir įsipareigojo daugiau nebetalkinti kryžėjams."
+  teiginys: "Kazimie ras, kunigaikštis Lenkų, nusigandęs baisumu ir smurtumu lietuvių, sandaras su jais padarė ir pasiėmė kryžėjams daugiaus nebtalkinėti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184672
 
 ## Citatos
 
 - id: c-184672
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 382"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 382."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pavasariui radusis, traukė vėl į Mozūriją, bet
     radę tenai degėsus dar tebrūkstant pernykščių jų te-
@@ -66,6 +71,7 @@ Nenurodyta
     ne vien apygardose Černigovo, Smolensko, bet ir
     paties Naugardo ūkinykus gandino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

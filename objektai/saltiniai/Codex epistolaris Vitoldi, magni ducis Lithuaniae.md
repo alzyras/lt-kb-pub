@@ -46,6 +46,19 @@ media_all_json: |-
 - t-001
   global_id: t-12448
   teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> A. Prochaska: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Codex epistolaris Vitoldi, magni ducis Lithuaniae: owner_note_path, source"
+  ryšio_targeto_parinkimas: "A. Prochaska: mention_match, author, gap=121"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Codex epistolaris Vitoldi, magni ducis Lithuaniae\" parinktas kaip owner_note_path. Targetas \"A. Prochaska\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1376-1430; įvykio data: 1430 m.; įvykio data: 1882 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-37190
 
@@ -56,11 +69,11 @@ media_all_json: |-
     CeV = Codex epistolaris Vitoldi, magni ducis Lithuaniae (1376-
     1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882.
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -70,11 +83,11 @@ media_all_json: |-
     Litauen_** **1382-1401, 1925, 61 p.**
     (^13) **KolLJ, I, 51 p.**
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37190
@@ -87,8 +100,13 @@ media_all_json: |-
     1376—1430 Collec. opera A. Prochaska. Cracoviae,
     1882 (VI tom. iš „Monumentą medii aevi historica res
     gestas Poloniae illustrantia“).
-  citata_rodoma: "C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.\n1376—1430 Collec. opera A. Prochaska. Cracoviae,\n1882 (VI tom. iš „Monumentą medii aevi historica res\ngestas Poloniae illustrantia"
+  citata_rodoma: |
+    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
+    1376—1430 Collec. opera A. Prochaska. Cracoviae,
+    1882 (VI tom. iš „Monumentą medii aevi historica res
+    gestas Poloniae illustrantia“).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

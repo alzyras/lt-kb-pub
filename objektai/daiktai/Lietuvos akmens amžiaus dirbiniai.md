@@ -55,6 +55,18 @@ Nenurodyta
 - t-001
   global_id: t-64956
   teiginys: "Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos akmens amžiaus dirbiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos akmens amžiaus dirbiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 000 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-05233
 
@@ -62,6 +74,16 @@ Nenurodyta
 - t-002
   global_id: t-64958
   teiginys: "Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos akmens amžiaus dirbiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos akmens amžiaus dirbiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05234
 
@@ -69,6 +91,16 @@ Nenurodyta
 - t-003
   global_id: t-64960
   teiginys: "Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos akmens amžiaus dirbiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos akmens amžiaus dirbiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-65512
 
@@ -76,6 +108,16 @@ Nenurodyta
 - t-004
   global_id: t-64961
   teiginys: "Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos akmens amžiaus dirbiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos akmens amžiaus dirbiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05277
 
@@ -91,14 +133,18 @@ Nenurodyta
     prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
     yra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl
     čia, galima sakyti, nežinomai paleolito kultūrai.
-  citata_rodoma: "Palei Lietuvos sieną Ryt-\nprūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)\nyra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl\nčia, galima sakyti, nežinomai paleolito kultūrai."
+  citata_rodoma: |
+    Palei Lietuvos sieną Ryt-
+    prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
+    yra priskiriami baltų plote iki šiol beveik visai neaptiktai ir todėl
+    čia, galima sakyti, nežinomai paleolito kultūrai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64956
-
 - id: c-05234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,14 +158,22 @@ Nenurodyta
     yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
     Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
     munės durpynuose.
-  citata_rodoma: "Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug\ntitnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-\ndyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie-\ntuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi-\ndrinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių\nyra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,\nNerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne-\nmunės durpynuose."
+  citata_rodoma: |
+    Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
+    titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-
+    dyti gremžtukų, rėžtukų, durklų, ietgalių, žeberklų, kirvių). Lie-
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi-
+    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
+    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne-
+    munės durpynuose.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64958
-
 - id: c-05277
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -130,14 +184,17 @@ Nenurodyta
     gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
     figūrėlių. Jos buvo nešiojamos magijos tikslais, apsisaugoti nuo
     piktų dvasių.
-  citata_rodoma: "gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių\nfigūrėlių. Jos buvo nešiojamos magijos tikslais, apsisaugoti nuo\npiktų dvasių."
+  citata_rodoma: |
+    gana daug Lietuvos pajūryje rastų gintarinių žmonių ir gyvulių
+    figūrėlių. Jos buvo nešiojamos magijos tikslais, apsisaugoti nuo
+    piktų dvasių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64961
-
 - id: c-65512
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -151,8 +208,15 @@ Nenurodyta
     galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
     24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
     girnos.
-  citata_rodoma: "**Lietuvos akmens amžiaus dirbiniai:**\n  1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai,\n  9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių\n  galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,\n  24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos\n  girnos."
+  citata_rodoma: |
+    **Lietuvos akmens amžiaus dirbiniai:**
+      1—4 kauliniai harpūnai, 5—6 kauliniai durklai, 7—8 kauliniai kirvukai,
+      9 apskaldyto titnago įrankis, 10—12 akmens kirvukai, 13—15 titnaginiai iečių
+      galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
+      24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
+      girnos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

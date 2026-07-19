@@ -38,9 +38,15 @@ Dusburgietis teigia, kad vanagas A.
 - t-001
   global_id: t-61338
   teiginys: "A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1974 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidinį ir metus."
   pagrindžia:
     - c-61970
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
@@ -53,8 +59,7 @@ Dusburgietis teigia, kad vanagas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61338
 ## Citatos
 
 - id: c-61970
@@ -66,8 +71,10 @@ Dusburgietis teigia, kad vanagas A.
     Л., 1963, с. 191—197.
     Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
     диалектами.
-  citata_rodoma: "Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21."
+  citata_rodoma: |
+    Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,19 @@ media_all_json: |-
 - t-001
   global_id: t-185331
   teiginys: "Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> žygūnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žygūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "žygūnai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnas\" parinktas kaip owner_note_path. Targetas \"žygūnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168692
 
@@ -40,6 +53,19 @@ media_all_json: |-
 - t-002
   global_id: t-185332
   teiginys: "Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žygūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168693
 
@@ -47,6 +73,19 @@ media_all_json: |-
 - t-003
   global_id: t-185333
   teiginys: "Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žygūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168694
 
@@ -54,6 +93,19 @@ media_all_json: |-
 - t-004
   global_id: t-185335
   teiginys: "Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "paskyre -> Zaberezinskis: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata rodo, kad Aleksandras pavedė Zaberezinskiui atlikti atsakymo užduotį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168696
 
@@ -61,6 +113,19 @@ media_all_json: |-
 - t-005
   global_id: t-185336
   teiginys: "Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žygūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168697
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184505|Kryžiuočių ordinas]]: 1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.
@@ -89,14 +154,31 @@ media_all_json: |-
     viso ankstyvesnio gyvenimo: paprastai ant purpurinio
     apsiausto jis vilkėdavo juodą drapaną, kaip vienuolio
     įžadų ženklą.
-  citata_rodoma: "Taigi visuotiniame\nsusirinkime kunigaikščiu buvo išrinktas Vaišvilkas.\nU  5\n\n## Puslapis 114\n\nIšleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­\nkui nuodugniai papasakoti apie diduomenės bei tau­\ntos prielankumą ir pakviesti jį perimti tėvo paliktos\nvaldžios. Iš pradžių Vaišvil­\nkas\nnė\nklausyti nenorėjo\napie tai, ko jį maldavo žy­\ngūnai, nes šitai prieštaravo\njo pasirinktam gyvenimo bū­\ndui."
+  citata_rodoma: |
+    Taigi visuotiniame
+    susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
+    U  5
+
+    ## Puslapis 114
+
+    Išleido į Pinską žygūnus, turėjusius vienuoliui Vaišvil­
+    kui nuodugniai papasakoti apie diduomenės bei tau­
+    tos prielankumą ir pakviesti jį perimti tėvo paliktos
+    valdžios. Iš pradžių Vaišvil­
+    kas
+    nė
+    klausyti nenorėjo
+    apie tai, ko jį maldavo žy­
+    gūnai, nes šitai prieštaravo
+    jo pasirinktam gyvenimo bū­
+    dui.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185331
-
 - id: c-168693
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -119,12 +201,12 @@ media_all_json: |-
     mos popiežius), dėl kurių paramos ar nuolaidžiavimo
     ir galėjo tose žemėse kariauti.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185332
-
 - id: c-168694
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -140,14 +222,25 @@ media_all_json: |-
     dymų. Senosios draugystės pastovumui laiduoti visiškai
     užtenka ankstesnio susitarimo, nepaisant to, kad jis
     nepatvirtintas jokia priesaika.
-  citata_rodoma: "Tačiau ligai išgy­\ndyti jau nebeužteko gydytojo, reikėjo veiksmingesnių\npriemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­\ntarė, jog reikia pastatyti ginkluotas saugas visuose ke­\nliuose Lenkijos pasienyje ir\nuoliai žiūrėti, kad ir impera­\ntoriaus, ir Vytauto žygūnai\nnegalėtų prasmukti nei į vie­\nną, nei į kitą pusę. Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį."
+  citata_rodoma: |
+    Tačiau ligai išgy­
+    dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
+    priemonių. Jedlnioje sukvietė lenkų seimą, kuris nu­
+    tarė, jog reikia pastatyti ginkluotas saugas visuose ke­
+    liuose Lenkijos pasienyje ir
+    uoliai žiūrėti, kad ir impera­
+    toriaus, ir Vytauto žygūnai
+    negalėtų prasmukti nei į vie­
+    ną, nei į kitą pusę. Viskam
+    vadovauti paskyrė Joną Čar-
+    nkovskį.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185333
-
 - id: c-168696
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -179,14 +272,31 @@ media_all_json: |-
     koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
     ir todėl kai kurie, norėdami išvengti šitokios nuodė­
     mės, ieškosi prieglobsčio Maskvoje.
-  citata_rodoma: "Iš tikrųjų\nIvanas troško išplėsti savo valdas, išdidžiai svajoda­\nmas pastūmėti sienas ligi Berezinos ir paimti į savo ran­\nkas visą Rusią. Aleksandras kol kas laikėsi nuomonės,\n559\n\n## Puslapis 558\n\njog tirono įsiūtį galima numalšinti per pasiunti-l\nnius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi\natsakyti Ivano žygūnui. Esą po Florencijoje sudarytos\nRytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­\nchai ir Bizantijos imperatorius pripažino Romos po­\npiežių aukščiausiąja krikščioniškojo tikėjimo galva,\nAleksandras, remdamasis senaisiais Lietuvos įstatymais,\nrūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­\ndėtų prie šios santarvės."
+  citata_rodoma: |
+    Iš tikrųjų
+    Ivanas troško išplėsti savo valdas, išdidžiai svajoda­
+    mas pastūmėti sienas ligi Berezinos ir paimti į savo ran­
+    kas visą Rusią. Aleksandras kol kas laikėsi nuomonės,
+    559
+
+    ## Puslapis 558
+
+    jog tirono įsiūtį galima numalšinti per pasiunti-l
+    nius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi
+    atsakyti Ivano žygūnui. Esą po Florencijoje sudarytos
+    Rytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­
+    chai ir Bizantijos imperatorius pripažino Romos po­
+    piežių aukščiausiąja krikščioniškojo tikėjimo galva,
+    Aleksandras, remdamasis senaisiais Lietuvos įstatymais,
+    rūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­
+    dėtų prie šios santarvės.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185335
-
 - id: c-168697
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -205,6 +315,7 @@ media_all_json: |-
     lies nieku būdu negalima apginti, nes vargu ar gali­
     ma tikėtis pagalbos, kuri ateis, matyt, pavėluotai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

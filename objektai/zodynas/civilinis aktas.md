@@ -57,6 +57,16 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-001
   global_id: t-97279
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "civilinis aktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"civilinis aktas\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32641
 
@@ -64,6 +74,16 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-002
   global_id: t-97280
   teiginys: "Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Čekija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "civilinis aktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Čekija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"civilinis aktas\" parinktas kaip owner_note_path. Targetas \"Čekija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32641
 
@@ -71,6 +91,16 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-003
   global_id: t-97281
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas būtų civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebūtinas."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "civilinis aktas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"civilinis aktas\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32641
 
@@ -95,8 +125,18 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
     vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
     jis pats.
-  citata_rodoma: "**\n\n\n(^374) III skyrius: valstybės suklestėjimas\nbuvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip\nbažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t."
+  citata_rodoma: |
+    **
+
+
+    (^374) III skyrius: valstybės suklestėjimas
+    buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
+    bažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,
+    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
+    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
+    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

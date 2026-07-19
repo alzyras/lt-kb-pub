@@ -43,6 +43,19 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 - t-001
   global_id: t-91931
   teiginys: "Edvardas Gudavičius plačiau aptarė formulę, taikytą 1324 m. Rygoje derybas vedusiam Lietuvos vyriausybės atstovui."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gudavičius E: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gudavičius E\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti faktą apie Gudavičiaus nagrinėtą istorinę formulę."
   pagrindžia:
     - c-87572
 
@@ -50,6 +63,12 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 - t-002
   global_id: t-196996
   teiginys: "Gudavičius E kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-178996
 
@@ -69,12 +88,12 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
     В. T., Образование..., c. 297; Pašuta V., Lietuvos..., p. 155. Plačiau — Гудавичюс Э. По
     поводу..., c., 35—44).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91931
-
 - id: c-178996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -91,6 +110,7 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
     palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
     su 40 brolių ir šimtu rinktinių ginklanešių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

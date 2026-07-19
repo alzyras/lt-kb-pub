@@ -34,6 +34,19 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - t-001
   global_id: t-186161
   teiginys: "Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skabeika: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skabeika\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169522
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.).md#claim-t-185685|Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]: Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.
@@ -57,8 +70,17 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
     ku būdu negalįs kelti pasišlykštėjimo, anaiptol, busimo­
     sios kartos jį šlovinsiančios, nes šiuo veiksmu bus
     išgelbėti nekalti piliečiai ir išvaduota tėvynė.
-  citata_rodoma: "Šven­\ntės išvakarėse daugybė ginkluotų vyrų, pasislėpusių\ntrijuose šimtuose šieno pakrautų vežimų, atvažiavo\nprietemoje į pilį. Paaiškinęs, jog netrukus visai sutems,\nSkabeika jiems tą vakarą neleido išlipti iš vežimų. Ne­\nnorėdami, kad kiltų koks įtarimas, staiga visu būriu\njiems čia pasirodžius, sąmokslininkai, vieno kito savo\npatikimo kario lydimi, sujojo į miestą skirtingais keliais."
+  citata_rodoma: |
+    Šven­
+    tės išvakarėse daugybė ginkluotų vyrų, pasislėpusių
+    trijuose šimtuose šieno pakrautų vežimų, atvažiavo
+    prietemoje į pilį. Paaiškinęs, jog netrukus visai sutems,
+    Skabeika jiems tą vakarą neleido išlipti iš vežimų. Ne­
+    norėdami, kad kiltų koks įtarimas, staiga visu būriu
+    jiems čia pasirodžius, sąmokslininkai, vieno kito savo
+    patikimo kario lydimi, sujojo į miestą skirtingais keliais.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

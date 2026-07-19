@@ -39,6 +39,19 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 - t-001
   global_id: t-41595
   teiginys: "1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Albinas Kubilius-Rūgštymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anykščių valsčius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Albinas Kubilius-Rūgštymas: mention_match, person, gap=126"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anykščių valsčius\" parinktas kaip owner_note_path. Targetas \"Albinas Kubilius-Rūgštymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, konkretus ir tiksliai perteikia citatoje nurodytą įvykį."
   pagrindžia:
     - c-45025
 
@@ -62,8 +75,17 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
     vienkiemio Jovaišų sodyboje. Rūgštymas
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
-  citata_rodoma: "Po intensyvių tardymų\nbei kankinimų abu sutiko bendradarbiauti\nir spalio 28 d. atvedė čekistus prie tuome-\ntinio Šiaurės Rytų partizanų srities štabo\nbunkerio Anykščių valsčiaus, Butkiškio\nvienkiemio Jovaišų sodyboje. Rūgštymas\nbuvo pristatytas prie pagrindinio įėjimo,\no Vijoklis — prie atsarginio."
+  citata_rodoma: |
+    Po intensyvių tardymų
+    bei kankinimų abu sutiko bendradarbiauti
+    ir spalio 28 d. atvedė čekistus prie tuome-
+    tinio Šiaurės Rytų partizanų srities štabo
+    bunkerio Anykščių valsčiaus, Butkiškio
+    vienkiemio Jovaišų sodyboje. Rūgštymas
+    buvo pristatytas prie pagrindinio įėjimo,
+    o Vijoklis — prie atsarginio.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

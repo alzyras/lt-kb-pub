@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185691
   teiginys: "Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169052
 
@@ -52,6 +65,13 @@ Nenurodyta
 - t-002
   global_id: t-196132
   teiginys: "Augustas liepė nutiesti takelį iš karaliaus pilies į Barboros Radvilaitės sodus ir tiltuką per Vilnios upę, kad galėtų greičiau ją lankyti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169052
 
@@ -59,6 +79,13 @@ Nenurodyta
 - t-003
   global_id: t-196133
   teiginys: "Augustas Lenkijoje paprašė karaliaus Žygimanto nepykti ir pritarti jo santuokai su Barbora Radvilaite, apie kurią nenorėjo, kad tėvai sužinotų iš kitų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178550
 
@@ -95,13 +122,13 @@ Nenurodyta
     kė santuokinę ištikimybę Barboros giminaičių Stanis­
     lovo Kęsgailos bei dviejų Radvilų akivaizdoje.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185691
     - t-196132
-
 - id: c-178550
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -127,6 +154,7 @@ Nenurodyta
     nepykti bei pritarti jų santuokai, be kurios negalėjęs
     gyventi. Ši kalba smarkiai užgavo karaliui širdį.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

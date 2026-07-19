@@ -39,6 +39,19 @@ Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amž
 - t-001
   global_id: t-74039
   teiginys: "Pirmieji žmonės Lietuvoje neabejotinai gyveno viduriniojo akmens amžiaus, arba mezolito, laikotarpiu nuo maždaug 10000 iki 3000 m. pr. Kr."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "viduriniojo akmens amžiaus laikotarpis mezolitas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"viduriniojo akmens amžiaus laikotarpis mezolitas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 3000 m; gyvenimo laikotarpis: iki 3000 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip gyvenimo laikotarpis su riba „before“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikia išplėsti santrumpą ir sutvarkyti sakinį."
   pagrindžia:
     - c-72120
 
@@ -56,6 +69,7 @@ Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amž
     vo panašus į dabartinį. Šio periodo Lietuvos gyventojai buvo
     klajokliai, mito žvėriena ir žuvimis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

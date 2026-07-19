@@ -41,6 +41,9 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 - t-001
   global_id: t-39863
   teiginys: "Bojeris L. buvo veikalo „Salaspilio mūšis Karolomachijoje“ autorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41667
 
@@ -53,6 +56,7 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   citata_originali: |
     p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L. Karolomachija, Vilnius, 1992.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

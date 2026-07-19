@@ -32,6 +32,18 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
 - t-001
   global_id: t-200464
   teiginys: "Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Sapiegos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Sapiegos: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Sapiegos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183844
 
@@ -39,6 +51,18 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
 - t-002
   global_id: t-200465
   teiginys: "Po Vilniaus vyskupo koadjutoriaus Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Sapiegos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Sapiegos: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Sapiegos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183844
 
@@ -46,6 +70,18 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
 - t-003
   global_id: t-200466
   teiginys: "Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė įvairius daiktus."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Sapiegos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Sapiegos: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Sapiega (Vilniaus koadjutorius, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Sapiegos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183844
 - susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200471|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: 1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas.
@@ -79,8 +115,13 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
     toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
     Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
     sininko registrą bei kitus daiktus iš bernardinų.
-  citata_rodoma: "Po Vilniaus vyskupo koadju-\ntoriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)\nOlendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-\nsininko registrą bei kitus daiktus iš bernardinų."
+  citata_rodoma: |
+    Po Vilniaus vyskupo koadju-
+    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
+    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
+    sininko registrą bei kitus daiktus iš bernardinų.
   statusas: verified
+  atnaujinta: "2026-07-14 03:25"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

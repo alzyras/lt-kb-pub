@@ -35,21 +35,37 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
 - t-001
   global_id: t-192869
   teiginys: "Narbutas Chersoną mini tarp graikų Juodosios jūros prekyviečių, kurios nuo VII a. pr. Kr. klestėjo ir vėliau tapo turtingos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chersonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chersonas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175639
 
 <a id="claim-t-201053"></a>
 - t-002
   global_id: t-201053
-  teiginys: "Daukantas rašo, kad Vladimiras užėmė Chersoną Kryme, vėliau ten apsikrikštijo su gudų tauta ir miestą grąžino graikų ciesoriui."
+  teiginys: "Paskui pergalėjęs bulgarus pavolgy ir su jais būk pakajų suderėjęs, žadėdami bendring ai su vieni antrais gy venti, paskiaus dar užėmęs miestą Chersoną, kurio iros šiandien dar tebėra regimos Kryme."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184403
-- susijęs iš [[objektai/ivykiai/Vladimiro krikštas ir Chersono grąžinimas.md#claim-t-201351|Vladimiro krikštas ir Chersono grąžinimas (krikštas)]]: Daukanto pasakojime 988 m. Vladimiras, vedęs Oną, apsikrikštijo kartu su visa gudų tauta ir grąžino Chersono miestą graikų ciesoriui.
 - susijęs iš [[objektai/zodynas/emporiumai prekyvietės.md#claim-t-192925|emporiumai prekyvietės]]: Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš Kristaus gimimą klestėjo ir vėliau praturtėjo kaip Olbija, Heraklėja ir Chersonas.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-197755|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Tas pats Jaroslavas 1041 metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur negalima matyti ukrainiečių tautybės žmonių susimai šymo su lietuviais.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-200998|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Vladimiras, padalijęs valdžią dvylikai sūnų, Jaroslavui paskyrė Rostovą, o šiam mirus Rostovas kliuvo Borisui.
 - susijęs iš [[objektai/asmenys/Neoptolemas.md#claim-t-191448|Neoptolemas]]: Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pastovias graikų gyvenvietes prie Dnestro ir Dnepro žiočių.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-201034|Sviatoslavas]]: Daukanto pasakojime Vladimiras, padalijęs valdžią dvylikai sūnų, Sviatoslavui paskyrė Pajuodgirę.
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192404|Graikai]]: Graikai jau senais laikais užmezgė santykius su Juodosios jūros pakrančių skitais.
 - susijęs iš [[objektai/paprociai/Skitų svetingumas ir taikūs prekybiniai santykiai.md#claim-t-193018|Skitų svetingumas ir taikūs prekybiniai santykiai]]: Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis.
 - susijęs iš Heraklėja: Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankstyvų gyvenviečių prie Dnestro ir Dnepro žiočių vėliau tapo turtingos.
@@ -74,16 +90,15 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
     pradėjo klestėti ir vėliau virto tokiais turtingais kaip
     Olbija, Heraklėja, Chersonas ir kiti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192869
-
 - id: c-184403
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 59"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs
@@ -97,6 +112,7 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
     tauta metuose 988 ir Chersono miestą apent greko­
     nų ciesoriui pagrąžinęs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

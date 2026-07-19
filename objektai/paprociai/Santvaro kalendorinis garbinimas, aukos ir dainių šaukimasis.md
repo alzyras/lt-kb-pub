@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189872
   teiginys: "Narbutas rašė, kad lietuvių genčių dainiai kai kuriose giesmėse šaukdavosi Santvaro, kartais ir Lėlio."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santvaro kalendorinis garbinimas, aukos ir dainių šaukimasis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santvaro kalendorinis garbinimas, aukos ir dainių šaukimasis\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172755
 
@@ -55,6 +69,12 @@ Nenurodyta
 - t-002
   global_id: t-197263
   teiginys: "Vie noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė lius."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179093
 
@@ -62,6 +82,12 @@ Nenurodyta
 - t-003
   global_id: t-197264
   teiginys: "Že maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą, vardu „ Dzivsvits “:r\\ Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota, dievas ir laivininkų globėjas."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172755
 
@@ -83,13 +109,13 @@ Nenurodyta
     dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
     jie negalėjo apsieiti be savo Neptūno.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189872
     - t-197264
-
 - id: c-179093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -110,6 +136,7 @@ Nenurodyta
     tai buvo Lada (Lado), atitinkanti graikų Latoną, o jos vaikai -
     Apoloną ir Dianą, o slavų mitologijoje - Lėlių ir Polėlių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,21 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 - t-001
   global_id: t-188968
   teiginys: "Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Naugardas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata mini prūsų kolonistus Naugarde; tai tiesiogiai palaiko prūsų buvimo ten ryšį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Prūsai gyveno Naugardas (0.76)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171857
 
@@ -41,9 +56,23 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 - t-002
   global_id: t-192745
   teiginys: "Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ukraina: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rosė: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Ukraina: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rosė\" parinktas kaip owner_note_path. Targetas \"Ukraina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175515
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes.'
@@ -67,8 +96,7 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192745
 ## Citatos
 
 - id: c-171857
@@ -91,12 +119,12 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
     ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
     liaudies padavimų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188968
-
 - id: c-175515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -117,8 +145,21 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
-  citata_rodoma: "Il­\ngai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,\nplytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus\nŽelvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­\nlinkės, pateko į žemes, kurias pagal tuometinį derlingumą\ngalima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia\natsivėrė vietovė, kur galima buvo saugiai įsikurti prie\nupės, plukdančios savo vandenis per gražias apylinkes;\nji dar ir šiandien bėga per tankiausiai gyvenamas, gra­\nžiausias ir derlingiausias Volkovysko apskrities apylinkes.\nSi upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs."
+  citata_rodoma: |
+    Il­
+    gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
+    plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
+    Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­
+    linkės, pateko į žemes, kurias pagal tuometinį derlingumą
+    galima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia
+    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
+    upės, plukdančios savo vandenis per gražias apylinkes;
+    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
+    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
+    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
+    išliko visiškai nepakitęs.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

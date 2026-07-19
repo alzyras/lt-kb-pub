@@ -47,11 +47,15 @@ Dusburgietis teigia, kad mikalauskaitė E.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
-    Rybelis A. Senoji lietuvių pasaulėžiūra.— Lietuvių filosofijos istorijos bruožai, V., 1978,
-    p. 18—53.
-  citata_rodoma: "Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum\n\nphilologicum, K., 1938, kn. 7, p. 102— 106."
+    Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
+
+    philologicum, K.
+  citata_rodoma: |
+    Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
+
+    philologicum, K.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,21 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 - t-001
   global_id: t-192964
   teiginys: "Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Germanai: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vandalai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Germanai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vandalai priskirti germanų genčių kraustymuisi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vandalai priklausė Germanai (0.80); Vandalai gyveno Vysla (0.70)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175734
 
@@ -41,6 +56,12 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 - t-002
   global_id: t-197525
   teiginys: "Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!"
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179231
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192397|Gotai]]: Narbutas rašo, kad II amžiaus pradžioje gotai, nusiaubę ulmerugių kraštą tarp Oderio ir Viparos, atsigręžė prieš vandalus prie Vyslos vidurupio.
@@ -77,12 +98,12 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
     nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
     į herulų kolonijas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192964
-
 - id: c-179231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -97,11 +118,11 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
     į herulų kolonijas. Tačiau lietuvių Europos pietuose laukė
     kitas likimas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197525
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Gotai]]

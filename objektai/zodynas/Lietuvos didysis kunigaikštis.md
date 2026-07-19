@@ -33,6 +33,19 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - t-001
   global_id: t-185374
   teiginys: "Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos didysis kunigaikštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didysis kunigaikštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168735
 
@@ -40,6 +53,19 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - t-002
   global_id: t-185376
   teiginys: "Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos didysis kunigaikštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didysis kunigaikštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168737
 
@@ -47,6 +73,19 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - t-003
   global_id: t-185377
   teiginys: "Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos didysis kunigaikštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didysis kunigaikštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168738
 
@@ -54,6 +93,13 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - t-004
   global_id: t-193379
   teiginys: "Kojelavičiaus pasakojime tremtyje tarp kryžiuočių gyvenęs lietuvis siekė įsigyti didžiojo kunigaikščio titulą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176104
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
@@ -147,14 +193,37 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
     mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
     kus, Kremenecą ir kai kurias kitas mažesnes valdas.
-  citata_rodoma: "Alek­\nsandras Vytautas su žmona\nOna savo bei savo palikuonių vardu turįs prisiekti, kad\njis su visomis Lietuvos valdomis amžinai liksiąs paklus­\nnus bei ištikimas karaliui; šventai saugosiąs Lietuvos\nkunigaikštystės sąjungą ir sandraugą su Lenkijos ka­\nralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­\nžeisti; visada laikysiąs savo draugais ir priešais Lenkijos\nkaralystės bei Lenkijos karaliaus draugus ir priešus; su\nSkirgaila visada stengsiąsis gyventi taikoje ir broliškoje\nsantarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­\ngailai bei jo palikuonims Kijevo kunigaikštystę su viso­\nmis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­\nkus, Kremenecą ir kai kurias kitas mažesnes valdas.\nTuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis\nkunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­\ngaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto\n330\n\n## Puslapis 329\n\nžinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­\ndino pilių viršininkų."
+  citata_rodoma: |
+    Alek­
+    sandras Vytautas su žmona
+    Ona savo bei savo palikuonių vardu turįs prisiekti, kad
+    jis su visomis Lietuvos valdomis amžinai liksiąs paklus­
+    nus bei ištikimas karaliui; šventai saugosiąs Lietuvos
+    kunigaikštystės sąjungą ir sandraugą su Lenkijos ka­
+    ralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­
+    žeisti; visada laikysiąs savo draugais ir priešais Lenkijos
+    karalystės bei Lenkijos karaliaus draugus ir priešus; su
+    Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje
+    santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­
+    gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
+    mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
+    kus, Kremenecą ir kai kurias kitas mažesnes valdas.
+    Tuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis
+    kunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­
+    gaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto
+    330
+
+    ## Puslapis 329
+
+    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
+    dino pilių viršininkų.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185374
-
 - id: c-168737
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -171,12 +240,12 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     kentėję ir karalius, ir susitarimai, mat kitos grupuotės
     vadovas būtų ginklu pasigrobęs valdžią.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185376
-
 - id: c-168738
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -197,14 +266,23 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     pažeista, viskas kaip buvę. Tegu neužmiršta lenkai, ko­
     kios grėsmingos jėgos gali tinkamu metu pakilti prieš
     žmonių įstatymus ir susitarimus.
-  citata_rodoma: "Negi jie mano,\nkad žmonės, dabar taip ryžtingai remią į sostą pakeltą\nkunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­\nprastą vietininką? Lietuva šiuo metu atsidūrusi tokioje\npadėtyje, kad jai reikalingas ne vietininkas, pavaduo­\njąs karalių, o valdovas, galįs pats spręsti ir veikti. Negi\njie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­\njų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių\npavojų gyvenantys lenkai?"
+  citata_rodoma: |
+    Negi jie mano,
+    kad žmonės, dabar taip ryžtingai remią į sostą pakeltą
+    kunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­
+    prastą vietininką? Lietuva šiuo metu atsidūrusi tokioje
+    padėtyje, kad jai reikalingas ne vietininkas, pavaduo­
+    jąs karalių, o valdovas, galįs pats spręsti ir veikti. Negi
+    jie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­
+    jų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių
+    pavojų gyvenantys lenkai?
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185377
-
 - id: c-176104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -228,6 +306,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu
     pasitraukę.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

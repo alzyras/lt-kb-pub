@@ -34,6 +34,17 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 - t-001
   global_id: t-60317
   teiginys: "Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Herkus Mantas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Šenenbergo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Šenenbergo puolė Herkus Mantas (0.86); Henrikas iš Šenenbergo buvo sąjungininkas su Helvigas iš Goldbacho (0.76)"
   pagrindžia:
     - c-60949
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
@@ -54,8 +65,19 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
     komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
     nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
     136 (131).
-  citata_rodoma: "Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne\nkuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas\nsėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo\nkomtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai\nnudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.\n\n\n\n\n     136 (131)."
+  citata_rodoma: |
+    Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
+    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
+    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
+    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
+    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
+
+
+
+
+         136 (131).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

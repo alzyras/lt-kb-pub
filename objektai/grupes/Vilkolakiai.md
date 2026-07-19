@@ -33,9 +33,23 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
 - t-001
   global_id: t-189538
   teiginys: "Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilkolakiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilkolakiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172426
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.'
@@ -54,8 +68,7 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189538
 ## Citatos
 
 - id: c-172426
@@ -73,8 +86,16 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
     me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
     gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
     nurodytu moterų žynių pavadinimu.
-  citata_rodoma: "Vilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos. Geria su draugu iš\ntos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo\napkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram\nlaikui pasiversdavę vilkais."
+  citata_rodoma: |
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos. Geria su draugu iš
+    tos pačios taurelės, kalbasi. Antikos laikais panašiai būdavo
+    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
+    laikui pasiversdavę vilkais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

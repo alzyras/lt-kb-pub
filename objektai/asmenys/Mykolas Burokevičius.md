@@ -32,6 +32,9 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 - t-001
   global_id: t-40356
   teiginys: "Mykolas Burokevičius buvo vienas iš komunistų vadovauto „Nacionalinio gelbėjimo komiteto“ lyderių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44467
 
@@ -50,8 +53,15 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
     „Jedinstvo“. Yra duomenų, kad sausio 13 d.
     naktį kariniuose veiksmuose iš viso daly-
     vavo apie 900 sovietinių kareivių.
-  citata_rodoma: "Apie 400 „raudonraiš-\nčių“, vadovaujamų „Nacionalinio gelbė-\njimo komiteto“ lyderių komunistų Juozo\nJermalavičiaus, Mykolo Burokevičiaus\nir Valerijaus Ivanovo organizacijos\n„Jedinstvo“. Yra duomenų, kad sausio 13 d."
+  citata_rodoma: |
+    Apie 400 „raudonraiš-
+    čių“, vadovaujamų „Nacionalinio gelbė-
+    jimo komiteto“ lyderių komunistų Juozo
+    Jermalavičiaus, Mykolo Burokevičiaus
+    ir Valerijaus Ivanovo organizacijos
+    „Jedinstvo“. Yra duomenų, kad sausio 13 d.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

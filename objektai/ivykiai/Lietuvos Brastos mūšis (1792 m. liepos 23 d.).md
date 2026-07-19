@@ -57,6 +57,18 @@ Nenurodyta
 - t-001
   global_id: t-66681
   teiginys: "1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mūšio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-43075
 
@@ -64,6 +76,16 @@ Nenurodyta
 - t-002
   global_id: t-66682
   teiginys: "Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11875
 
@@ -71,6 +93,16 @@ Nenurodyta
 - t-003
   global_id: t-66683
   teiginys: "Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11875
 
@@ -78,6 +110,19 @@ Nenurodyta
 - t-004
   global_id: t-66684
   teiginys: "1792 m. liepos 24 d. karalius S. A. Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos ir įsakė kariuomenei sudėti ginklus."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=128"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir perteikia citatoje nurodytą sprendimą."
   pagrindžia:
     - c-11876
 
@@ -85,6 +130,16 @@ Nenurodyta
 - t-005
   global_id: t-66685
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43076
 
@@ -92,6 +147,19 @@ Nenurodyta
 - t-006
   global_id: t-66686
   teiginys: "Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "mūšio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kazokai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako mūšio pradžią ir remiasi citata."
   pagrindžia:
     - c-43075
 
@@ -99,6 +167,16 @@ Nenurodyta
 - t-007
   global_id: t-66687
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Brastos mūšis (1792 m. liepos 23 d.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43076
 - susijęs iš Muchavecas: Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.
@@ -127,15 +205,27 @@ Nenurodyta
     kas patyrė didelių nuostolių, o atsitraukta
     nesulaukus pastiprinimo, organizuotai ir
     tvarkingai.
-  citata_rodoma: "Ne veltui karalius S. A. Poniatovskis apdova-\nnojo keliolika šio mūšio karininkų ir karei-\nvių neseniai įsteigto karinio Virtuti Militari\nordino auksiniais ir sidabriniais medaliais.\nMūšio prie Lietuvos Brastos negalime\nvadinti pergale, kadangi LDK kariuomenė\nturėjo pasitraukti, o priešininkui atiteko\nstrategiškai svarbi teritorija, tačiau negalime\nlaikyti ir pralaimėjimu, kadangi priešinin-\nkas patyrė didelių nuostolių, o atsitraukta\nnesulaukus pastiprinimo, organizuotai ir\ntvarkingai."
+  citata_rodoma: |
+    Ne veltui karalius S. A. Poniatovskis apdova-
+    nojo keliolika šio mūšio karininkų ir karei-
+    vių neseniai įsteigto karinio Virtuti Militari
+    ordino auksiniais ir sidabriniais medaliais.
+    Mūšio prie Lietuvos Brastos negalime
+    vadinti pergale, kadangi LDK kariuomenė
+    turėjo pasitraukti, o priešininkui atiteko
+    strategiškai svarbi teritorija, tačiau negalime
+    laikyti ir pralaimėjimu, kadangi priešinin-
+    kas patyrė didelių nuostolių, o atsitraukta
+    nesulaukus pastiprinimo, organizuotai ir
+    tvarkingai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66682
     - t-66683
-
 - id: c-11876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -146,12 +236,12 @@ Nenurodyta
     racijos, o kariuomenei įsakė sudėti ginklus,
     nors ji dar tikrai galėjo kovoti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66684
-
 - id: c-43075
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,13 +260,13 @@ Nenurodyta
     pasiekiami prieš priemiesčius išdėstytai ar-
     tilerijai ir pėstininkams.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66681
     - t-66686
-
 - id: c-43076
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -186,9 +276,15 @@ Nenurodyta
 
     Mūšis truko apie 8 valandas. Lietuvos ka-
     riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: "Mūšio padariniai\n\nMūšis truko apie 8 valandas. Lietuvos ka-\nriuomenė, remiantis S. Zabielos raportais,\nneteko apie 300 karių."
+    neteko apie 300 karių.
+  citata_rodoma: |
+    Mūšio padariniai
+
+    Mūšis truko apie 8 valandas. Lietuvos ka-
+    riuomenė, remiantis S. Zabielos raportais,
+    neteko apie 300 karių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

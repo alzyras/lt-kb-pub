@@ -38,9 +38,15 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61174
   teiginys: "V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1981 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
   pagrindžia:
     - c-61806
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
@@ -53,8 +59,7 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61174
 ## Citatos
 
 - id: c-61806
@@ -65,8 +70,10 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
     —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
-  citata_rodoma: "Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8."
+  citata_rodoma: |
+    Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

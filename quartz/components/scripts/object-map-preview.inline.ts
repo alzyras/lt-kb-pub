@@ -19,8 +19,20 @@ type ObjectMapPreviewNode = {
 
 type ObjectMapPreviewRuntime = typeof globalThis & {
   loadGraphTopology?: () => Promise<{
-    nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
-    edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+    nodes?: Array<{
+      slug: string
+      title: string
+      type: string
+      claimCount: number
+      quoteCount: number
+    }>
+    edges?: Array<{
+      from: string
+      to: string
+      kind: string
+      evidenceCount: number
+      confidence: number
+    }>
     relationKinds?: Record<string, { defaultOn?: boolean }>
   }>
   loadGraphSlugMap?: () => Promise<{
@@ -78,11 +90,14 @@ type ObjectMapLabelBounds = {
 
 const objectMapRuntime = globalThis as ObjectMapPreviewRuntime
 let objectMapIndexPromise: Promise<Record<string, ObjectMapPreviewNode>> | undefined
-let objectMapSlugMapPromise: Promise<{
-  publicToGraph: Record<string, string>
-  aliases: Record<string, string>
-}> | undefined
+let objectMapSlugMapPromise:
+  | Promise<{
+      publicToGraph: Record<string, string>
+      aliases: Record<string, string>
+    }>
+  | undefined
 const objectMapPreviewInitialized = new WeakSet<HTMLElement>()
+const objectMapPreviewNeighbourLimit = 42
 
 const objectMapVisual = objectMapRuntime.__ltkbGraphVisualRegistry ?? {
   typeColors: {},
@@ -96,7 +111,9 @@ const objectMapVisual = objectMapRuntime.__ltkbGraphVisualRegistry ?? {
 }
 
 function objectMapColor(value: number | undefined, fallback: number): string {
-  return `#${Number(value ?? fallback).toString(16).padStart(6, "0")}`
+  return `#${Number(value ?? fallback)
+    .toString(16)
+    .padStart(6, "0")}`
 }
 
 function objectMapRgba(value: number | undefined, fallback: number, alpha: number): string {
@@ -115,8 +132,20 @@ function objectMapThemeColor(
 const objectMapPreviewMinConfidence = 0.5
 
 function objectMapIndexFromTopology(topology: {
-  nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
-  edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+  nodes?: Array<{
+    slug: string
+    title: string
+    type: string
+    claimCount: number
+    quoteCount: number
+  }>
+  edges?: Array<{
+    from: string
+    to: string
+    kind: string
+    evidenceCount: number
+    confidence: number
+  }>
   relationKinds?: Record<string, { defaultOn?: boolean }>
 }): Record<string, ObjectMapPreviewNode> {
   const index: Record<string, ObjectMapPreviewNode> = {}
@@ -127,7 +156,13 @@ function objectMapIndexFromTopology(topology: {
     const source = index[edge.from]
     const target = index[edge.to]
     const relation = topology.relationKinds?.[edge.kind]
-    if (!source || !target || !relation?.defaultOn || edge.confidence < objectMapPreviewMinConfidence) continue
+    if (
+      !source ||
+      !target ||
+      !relation?.defaultOn ||
+      edge.confidence < objectMapPreviewMinConfidence
+    )
+      continue
     source.links!.push({
       target: edge.to,
       targetTitle: target.title,
@@ -165,8 +200,20 @@ async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode
           const response = await fetch(candidate, { cache: "force-cache" })
           if (response.ok) {
             const topology = (await response.json()) as {
-              nodes?: Array<{ slug: string; title: string; type: string; claimCount: number; quoteCount: number }>
-              edges?: Array<{ from: string; to: string; kind: string; evidenceCount: number; confidence: number }>
+              nodes?: Array<{
+                slug: string
+                title: string
+                type: string
+                claimCount: number
+                quoteCount: number
+              }>
+              edges?: Array<{
+                from: string
+                to: string
+                kind: string
+                evidenceCount: number
+                confidence: number
+              }>
             }
             return objectMapIndexFromTopology(topology)
           }
@@ -234,8 +281,10 @@ function objectMapResolveNode(
   const normalized = simplified.normalize("NFC").toLocaleLowerCase("lt-LT")
   const matches = Object.entries(index).filter(
     ([candidate]) =>
-      candidate.replace(/\/index$/, "").normalize("NFC").toLocaleLowerCase("lt-LT") ===
-      normalized,
+      candidate
+        .replace(/\/index$/, "")
+        .normalize("NFC")
+        .toLocaleLowerCase("lt-LT") === normalized,
   )
   return matches.length === 1 ? matches[0] : undefined
 }
@@ -247,7 +296,13 @@ function objectMapNeighbours(
 ): ObjectMapNeighbour[] {
   const neighbours = new Map<string, ObjectMapNeighbour>()
 
-  const add = (targetSlug: string, fallbackTitle: string, fallbackType: string, evidenceCount = 0, confidence = 0) => {
+  const add = (
+    targetSlug: string,
+    fallbackTitle: string,
+    fallbackType: string,
+    evidenceCount = 0,
+    confidence = 0,
+  ) => {
     if (!targetSlug || targetSlug === slug) return
     if (!objectMapPreviewAllowed(targetSlug)) return
     const target = index[targetSlug]
@@ -266,7 +321,13 @@ function objectMapNeighbours(
 
   for (const link of node.links ?? []) {
     const target = String(link.target ?? "")
-    add(target, String(link.targetTitle ?? ""), String(link.targetType ?? ""), link.evidenceCount, link.confidence)
+    add(
+      target,
+      String(link.targetTitle ?? ""),
+      String(link.targetType ?? ""),
+      link.evidenceCount,
+      link.confidence,
+    )
   }
 
   for (const [sourceSlug, source] of Object.entries(index)) {
@@ -283,12 +344,11 @@ function objectMapNeighbours(
     }
   }
 
-  return [...neighbours.values()]
-    .sort((a, b) => {
-      const evidenceDiff = b.evidenceCount - a.evidenceCount
-      if (evidenceDiff !== 0) return evidenceDiff
-      return a.title.localeCompare(b.title, "lt")
-    })
+  return [...neighbours.values()].sort((a, b) => {
+    const evidenceDiff = b.evidenceCount - a.evidenceCount
+    if (evidenceDiff !== 0) return evidenceDiff
+    return a.title.localeCompare(b.title, "lt")
+  })
 }
 
 function objectMapHash(value: string): number {
@@ -305,7 +365,9 @@ function objectMapRuntimeRadius(node: ObjectMapRuntimeNode): number {
   return Math.min(18, Math.max(4.8, 4.5 + Math.log1p(node.score) * 1.6))
 }
 
-function objectMapLinkEndpoints(link: ObjectMapRuntimeLink): [ObjectMapRuntimeNode, ObjectMapRuntimeNode] {
+function objectMapLinkEndpoints(
+  link: ObjectMapRuntimeLink,
+): [ObjectMapRuntimeNode, ObjectMapRuntimeNode] {
   return [link.source as ObjectMapRuntimeNode, link.target as ObjectMapRuntimeNode]
 }
 
@@ -403,7 +465,11 @@ function buildObjectMapPreviewGraph(
     const source = runtimeNode.id === slug ? node : index[runtimeNode.id]
     const claimCount = Math.max(0, Number(source?.claimCount) || 0)
     const quoteCount = Math.max(0, Number(source?.quoteCount) || 0)
-    runtimeNode.score = claimCount + quoteCount * 1.8 + runtimeNode.degree * 2 + Math.log1p(runtimeNode.evidenceCount) * 3
+    runtimeNode.score =
+      claimCount +
+      quoteCount * 1.8 +
+      runtimeNode.degree * 2 +
+      Math.log1p(runtimeNode.evidenceCount) * 3
   }
 
   return { nodes, links }
@@ -426,13 +492,15 @@ function layoutObjectMapPreviewGraph(nodes: ObjectMapRuntimeNode[]) {
   const total = Math.max(1, outerNodes.length)
   let offset = 0
   const innerRadius = 92
-  const outerRadius = innerRadius + Math.max(132, Math.min(296, 104 + Math.sqrt(total) * 23))
+  const outerRadius = innerRadius + Math.max(118, Math.min(232, 92 + Math.sqrt(total) * 19))
   const orderedGroups = [...groups.values()].sort(
     (a, b) => b.length - a.length || a[0].type.localeCompare(b[0].type, "lt"),
   )
 
   for (const group of orderedGroups) {
-    group.sort((a, b) => b.score - a.score || b.degree - a.degree || a.title.localeCompare(b.title, "lt"))
+    group.sort(
+      (a, b) => b.score - a.score || b.degree - a.degree || a.title.localeCompare(b.title, "lt"),
+    )
     const start = (offset / total) * Math.PI * 2
     const span = Math.max(0.14, (group.length / total) * Math.PI * 2)
     for (let index = 0; index < group.length; index++) {
@@ -459,13 +527,13 @@ function drawObjectMapPreview(
   node: ObjectMapPreviewNode,
 ) {
   const rect = canvas.getBoundingClientRect()
-  const width = Math.max(430, rect.width || canvas.clientWidth || 540)
-  const height = Math.max(290, rect.height || canvas.clientHeight || 350)
-  const pixelRatio = Math.min(window.devicePixelRatio || 1, 2)
-  canvas.width = Math.floor(width * pixelRatio)
-  canvas.height = Math.floor(height * pixelRatio)
-  canvas.style.width = `${width}px`
-  canvas.style.height = `${height}px`
+  const width = Math.max(1, Math.round(rect.width || canvas.clientWidth || 540))
+  const height = Math.max(1, Math.round(rect.height || canvas.clientHeight || 350))
+  const pixelRatio = Math.min(Math.max(window.devicePixelRatio || 1, 1), 3)
+  const bitmapWidth = Math.max(1, Math.round(width * pixelRatio))
+  const bitmapHeight = Math.max(1, Math.round(height * pixelRatio))
+  if (canvas.width !== bitmapWidth) canvas.width = bitmapWidth
+  if (canvas.height !== bitmapHeight) canvas.height = bitmapHeight
 
   const ctx = canvas.getContext("2d")
   if (!ctx) return
@@ -481,21 +549,32 @@ function drawObjectMapPreview(
     ctx.fillRect(0, 0, width, height)
   }
 
-  const graph = buildObjectMapPreviewGraph(index, slug, node, neighbours)
+  const graph = buildObjectMapPreviewGraph(
+    index,
+    slug,
+    node,
+    neighbours.slice(0, objectMapPreviewNeighbourLimit),
+  )
   layoutObjectMapPreviewGraph(graph.nodes)
 
   const labelNodes = [...graph.nodes]
     .sort((a, b) => {
-      const diff = (b.focus ? 10000 : 0) + b.score + b.degree * 2 - ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
+      const diff =
+        (b.focus ? 10000 : 0) +
+        b.score +
+        b.degree * 2 -
+        ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
       return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
     })
-    .slice(0, graph.nodes.length > 96 ? 38 : 54)
+    .slice(0, graph.nodes.length > 96 ? 38 : 34)
   const labelSet = new Set(labelNodes.map((runtimeNode) => runtimeNode.id))
   const bounds = graph.nodes.map((runtimeNode) => {
     const x = runtimeNode.x ?? 0
     const y = runtimeNode.y ?? 0
     const radius = objectMapRuntimeRadius(runtimeNode) + 8
-    const labelWidth = labelSet.has(runtimeNode.id) ? Math.min(170, runtimeNode.title.length * 5.8 + 14) : 0
+    const labelWidth = labelSet.has(runtimeNode.id)
+      ? Math.min(170, runtimeNode.title.length * 5.8 + 14)
+      : 0
     const halfWidth = Math.max(radius, labelWidth / 2)
     return {
       minX: x - halfWidth,
@@ -510,7 +589,7 @@ function drawObjectMapPreview(
   const maxY = Math.max(...bounds.map((bound) => bound.maxY))
   const graphWidth = Math.max(1, maxX - minX)
   const graphHeight = Math.max(1, maxY - minY)
-  const padding = graph.nodes.length > 96 ? 26 : 38
+  const padding = graph.nodes.length > 96 ? 26 : 30
   const scale = Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight)
   const offsetX = width / 2 - ((minX + maxX) / 2) * scale
   const offsetY = height / 2 - ((minY + maxY) / 2) * scale
@@ -528,9 +607,10 @@ function drawObjectMapPreview(
     ctx.moveTo(s.x, s.y)
     ctx.lineTo(t.x, t.y)
     ctx.globalAlpha = Math.max(0.18, Math.min(0.68, (link.confidence || 0.34) * 0.72))
-    ctx.strokeStyle = link.relationKind === "explicit_wikilink"
-      ? objectMapRgba(objectMapVisual.edgeExplicit, 0xb0a18a, 0.7)
-      : objectMapRgba(objectMapVisual.edgeSemantic, 0x756149, 0.78)
+    ctx.strokeStyle =
+      link.relationKind === "explicit_wikilink"
+        ? objectMapRgba(objectMapVisual.edgeExplicit, 0xb0a18a, 0.7)
+        : objectMapRgba(objectMapVisual.edgeSemantic, 0x756149, 0.78)
     ctx.lineWidth = Math.max(0.5, Math.min(2.3, 0.45 + Math.log1p(link.evidenceCount) * 0.42))
     ctx.stroke()
   }
@@ -538,7 +618,7 @@ function drawObjectMapPreview(
 
   for (const runtimeNode of graph.nodes) {
     const pos = project(runtimeNode)
-    const nodeRadius = Math.max(2.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
+    const nodeRadius = Math.max(3.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
     ctx.beginPath()
     ctx.arc(pos.x, pos.y, nodeRadius, 0, Math.PI * 2)
     ctx.fillStyle = objectMapColor(
@@ -559,9 +639,10 @@ function drawObjectMapPreview(
   for (const runtimeNode of labelNodes) {
     const pos = project(runtimeNode)
     const required = runtimeNode.focus
-    const fontSize = required ? 11 : runtimeNode.degree > 8 ? 10 : 8.8
-    const label = runtimeNode.title.length > 24 ? `${runtimeNode.title.slice(0, 23)}…` : runtimeNode.title
-    const nodeRadius = Math.max(2.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
+    const fontSize = required ? 13 : runtimeNode.degree > 8 ? 11 : 10
+    const label =
+      runtimeNode.title.length > 26 ? `${runtimeNode.title.slice(0, 25)}…` : runtimeNode.title
+    const nodeRadius = Math.max(3.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
     ctx.font = `${required ? 700 : 500} ${fontSize}px var(--bodyFont, sans-serif)`
     const labelWidth = Math.min(width - 16, ctx.measureText(label).width + 7)
     const labelHeight = fontSize + 5
@@ -573,7 +654,11 @@ function drawObjectMapPreview(
       labelBounds.bottom >= 0 &&
       labelBounds.top <= height
     if (!inCanvas && !required) continue
-    if (!required && drawnLabelBounds.some((existing) => objectMapBoundsOverlap(existing, labelBounds))) continue
+    if (
+      !required &&
+      drawnLabelBounds.some((existing) => objectMapBoundsOverlap(existing, labelBounds))
+    )
+      continue
     drawnLabelBounds.push(labelBounds)
     ctx.lineWidth = 3
     ctx.strokeStyle = surfaceColor
@@ -641,10 +726,36 @@ function initObjectMapPreviews() {
       pageHeader.insertAdjacentElement("afterend", sectionNav)
     }
 
+    let renderFrame: number | undefined
+    let hasRendered = false
     const render = () => {
-      window.requestAnimationFrame(() => renderObjectMapPreview(root))
+      if (!hasRendered) return
+      if (renderFrame !== undefined) window.cancelAnimationFrame(renderFrame)
+      renderFrame = window.requestAnimationFrame(() => {
+        renderFrame = undefined
+        void renderObjectMapPreview(root)
+      })
     }
-    render()
+
+    let intersectionObserver: IntersectionObserver | undefined
+    if ("IntersectionObserver" in window) {
+      intersectionObserver = new IntersectionObserver(
+        (entries) => {
+          if (!entries.some((entry) => entry.isIntersecting)) return
+          hasRendered = true
+          intersectionObserver?.disconnect()
+          render()
+        },
+        { rootMargin: "240px 0px" },
+      )
+    }
+    const observationTarget = root.querySelector<HTMLElement>(".object-map-preview-link") ?? root
+    if (intersectionObserver) {
+      intersectionObserver.observe(observationTarget)
+    } else {
+      hasRendered = true
+      render()
+    }
 
     const handleThemeChange = () => render()
     document.addEventListener("themechange", handleThemeChange)
@@ -654,9 +765,13 @@ function initObjectMapPreviews() {
 
     const observer = "ResizeObserver" in window ? new ResizeObserver(render) : undefined
     if (observer) {
-      observer.observe(root)
+      observer.observe(observationTarget)
       objectMapRuntime.addCleanup?.(() => observer.disconnect())
     }
+    objectMapRuntime.addCleanup?.(() => {
+      if (renderFrame !== undefined) window.cancelAnimationFrame(renderFrame)
+      intersectionObserver?.disconnect()
+    })
   })
 }
 

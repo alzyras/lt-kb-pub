@@ -41,9 +41,16 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
 - t-001
   global_id: t-194832
   teiginys: "Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177228
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.'
@@ -57,8 +64,7 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194832
 ## Citatos
 
 - id: c-177228
@@ -70,8 +76,11 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
     metami laužaviečių likučiai. Per daugelį metų taip išaugdavo pil­
     kapiai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Ko-
     zakovskis, duoda pagrindo tuo tikėti.
-  citata_rodoma: "-  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­\nnį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *."
+  citata_rodoma: |
+    -  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­
+    nį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

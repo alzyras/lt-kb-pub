@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Rusnė'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -37,6 +38,17 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-001
   global_id: t-32520
   teiginys: "Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Klaipėda buvo palikta Ordinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rusnė priklausė Kryžiuočių ordinas (0.86); Klaipėda priklausė Kryžiuočių ordinas (0.86); Nemunas priklausė Kryžiuočių ordinas (0.78)"
   pagrindžia:
     - c-34030
 
@@ -44,13 +56,41 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-002
   global_id: t-188828
   teiginys: "Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Šventoji: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Šventoji: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Šventoji\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171717
-
+    - c-002
 <a id="claim-t-192748"></a>
 - t-003
   global_id: t-192748
   teiginys: "Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175518
 
@@ -58,8 +98,62 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-004
   global_id: t-192749
   teiginys: "Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Nemunas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusnė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusnė apibūdinama kaip Nemuno šaka, tad vietos priklausymo Nemunui ryšys palaikomas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Rusnė priklausė Nemunas (0.70)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175519
+    - c-004
+<a id="claim-t-201102"></a>
+- t-005
+  global_id: t-201102
+  teiginys: "Rasi kartagionys nuo savo žinyčios dievui, Kronas vadinamam, Rusnėj įkurtos, ir pačią upę Nemuną nuo tos žinyčios Kro nu vadino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184452
+
+<a id="claim-t-201103"></a>
+- t-006
+  global_id: t-201103
+  teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184453
+
+<a id="claim-t-201104"></a>
+- t-007
+  global_id: t-201104
+  teiginys: "Yra minavo j ama, jog buvusios žinyčios Rusnėj, Palangoj, Dzievaltave ir Panemunėj, bet viena Vil niaus žinyčia tėra aiškiai aprašyta, kurią tuojau re gėsim. Visų senoji vienok žinyčia, rodos, Rusnėj buvu si."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184454
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190005|Henenbergeris]]: Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189973|Kristoforas Hartknochas]]: Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.
 - susijęs iš [[objektai/asmenys/Wespats.md#claim-t-191486|Wespats]]: Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai.
@@ -103,8 +197,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188828
 - c-004
   santrauka: 'Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -125,8 +218,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192749
 ## Citatos
 
 - id: c-34030
@@ -142,14 +234,20 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     — nuo Nemuno ir Marių, buvo palikta ordinni.
     Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
     Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
-  citata_rodoma: "Jūros upės krantu siena pasislinko\nvieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko\ntaip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu\n— nuo Nemuno ir Marių, buvo palikta ordinni.\nSu Livonijos ordinu siena buvo pradėta į Baltiją įtekančia\nŠventosios upe, toliau paliekant « senas sienas » (« antiquos limites »)."
+  citata_rodoma: |
+    Jūros upės krantu siena pasislinko
+    vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
+    taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu
+    — nuo Nemuno ir Marių, buvo palikta ordinni.
+    Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
+    Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32520
-
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -166,14 +264,23 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     vietos padavimai įtikina, kad tą vandenį senoji religija laikė
     šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
     upę, kad sutrauktų prie jos krantų žmones krikštui.
-  citata_rodoma: "Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­\nvių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,\narba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­\nja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno\natšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­\ngaliau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­\nkančios per jų svarbiausias sodybas, būdavo praminamos tuo\npačiu šventu vardu Ross."
+  citata_rodoma: |
+    Si ket­
+    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
+    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
+    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
+    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
+    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
+    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
+    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
+    pačiu šventu vardu Ross.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188828
-
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -196,12 +303,12 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     gali pasirodyti nauja suregzta išmone, kuri mažai susiju­
     si su nagrinėjamu dalyku.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192748
-
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,10 +329,97 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
     t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
     arba langas, langas, t. y. uosto prieplauka.
-  citata_rodoma: "Pusantros mylios už šio miesto aukštos pakrantės ima\nžemėti, vagos didingumas mažėja, o Nemunas ima vin­\ngiuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie\nSancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­\ndinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-\nnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­\nmis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri\nyra senovinė piliavietė, nuplaukusi gražiomis apylinkė­\nmis apie penkias mylias, suskyla į daugelį mažų vagų,\narba protakų."
+  citata_rodoma: |
+    Pusantros mylios už šio miesto aukštos pakrantės ima
+    žemėti, vagos didingumas mažėja, o Nemunas ima vin­
+    giuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie
+    Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
+    dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
+    nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
+    mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri
+    yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
+    mis apie penkias mylias, suskyla į daugelį mažų vagų,
+    arba protakų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192749
+- id: c-184452
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Čia tas dar yra dabotina, jog upis, šiandien
+    Nemunu vadinama, senovėj vadinos Kronas raš­
+    tuose Ptolomėjaus, kursai savo žinias surankiojo iš
+    raštų penicijonų ir kartagionų. Rasi kartagionys nuo
+    savo žinyčios dievui, Kronas vadinamam, Rusnėj
+    įkurtos, ir pačią upę Nemuną nuo tos žinyčios Kro­
+    nu vadino. Jog Rusnė buvo šventa vieta ir garsią
+    turėjo žinyčią, tą dar 10 ir 11 amžiuj rodo mums
+    aiškiai tų laikų raštai, kaipogi sako į Rusnės žiny­
+    čią ne vien ispanai, bet ir graikai leidę savo siunti­
+    nius tenai apie savo ūkės reikalus teirautis.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201102
+- id: c-184453
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Nuo to gi gal lemti, jog ta pasaka galėjo bū­
+    ti pradžioj yna, bet paskui yra pertaisyta nuo kokio
+    noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj,
+    kaipogi daugioj vietoj pati pasaka sau prieštarauja,
+    bylodama, jog pirmąją žinyčią Rusnėj viešpats Bra-
+    tenis įkūręs ties ąžuolu, visuomet žaliuojančiu, savo
+    buveinę Rūmais pravardavęs ir kunigus įstatęs. Nes
+    jei Brutenis buvo jau viešpačiu ir tarnu dievų ir
+    visų vyriausiu valdymieru ūkės dar pirm Vitevudo,
+    kaip pati pasaka byloja, tai turėjo pirmesniai būti
+    žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus
+    pirm to jau godojo, ką ne vien Pitėjas, kurs tą žemę
+    šventa vadina, bet ir patys raštai Nemuno, kursai
+    būk pirmasis žinyčią Rusnėj įkūręs, aiškiai rodo.
+    Pats vardas upės Nemuno Niemon regimai yra len­
+    kiškas žodis, taip pat Romovė neženklina žinyčios,
+    kaip pasakoj skelbia, bet trobesį, kuriame viešpats
+    ir visų vyriausias valdymieras visos tautos gyvenęs,
+    kaipogi šiandien dar žemaičiai namus viešpaties ir
+    kunigaikščio rūmais vadina.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201103
+- id: c-184454
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Yra minavo j ama, jog buvusios žinyčios Rusnėj,
+    Palangoj, Dzievaltave ir Panemunėj, bet viena Vil­
+    niaus žinyčia tėra aiškiai aprašyta, kurią tuojau re­
+    gėsim.
+    Visų senoji vienok žinyčia, rodos, Rusnėj buvu­
+    si. Nuo garsumo tos Rusnės žinyčios, apie kurią
+    viršiaus minavo jau, prašaleičiai vidutiniuose am­
+    žiuose ne vien apygardas Parusio, bet Žemaičius,
+    Lietuvą, Kuršą, Žemgalius, Letgalius, Krievius, arba
+    Krivičius, Merus, Muromus, Vėsus, Igumius vadino
+    Rusija nuo to, jog tos visos giminės klausė visų
+    1 S t r y i k o w s k i .
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201104

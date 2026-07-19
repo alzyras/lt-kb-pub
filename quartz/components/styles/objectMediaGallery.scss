@@ -925,10 +925,22 @@ body.media-viewer-open .pswp {
 }
 .media-detail-links,
 .media-detail-tags,
+.media-detail-source-tags,
 .media-detail-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
+}
+.media-detail-source-tags span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0.38rem 0.58rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--darkgray);
+  font-size: 0.72rem;
+  line-height: 1.2;
 }
 .media-detail-links a,
 .media-detail-tags a,

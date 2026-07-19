@@ -48,6 +48,9 @@ Nenurodyta
 - t-001
   global_id: t-194819
   teiginys: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177215
 
@@ -73,8 +76,9 @@ Nenurodyta
     užgestų. Tos mergelės, kol gyvos, privalo laikytis skaistybės; ją
     praradusias šalies įstatymai baudžia žiauria mirtimi“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194819

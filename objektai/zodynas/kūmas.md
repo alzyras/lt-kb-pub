@@ -33,6 +33,11 @@ Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas 
 - t-001
   global_id: t-187556
   teiginys: 'Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie sąvoką ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Osterodė'
   pagrindžia:
     - c-170506
 
@@ -60,8 +65,9 @@ Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas 
     nigaikštis draugauja su didžiuoju kunigaikščiu Jogai­
     la.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187556

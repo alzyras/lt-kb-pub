@@ -32,6 +32,16 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
 - t-001
   global_id: t-38504
   teiginys: "Liubave buvo bolševikų centras, kurio link pasuko pasakojime minimi žygio dalyviai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liubavas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liubavas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40308
 - susijęs iš Raketija: Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.
@@ -48,6 +58,7 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
     pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras. Tikėjom, jog rusams
     niekad neateis į galvą, kad mes drįstume apsistoti prie pat jų kirmelyno.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -58,6 +58,9 @@ Nenurodyta
 - t-001
   global_id: t-50813
   teiginys: "Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37097
 
@@ -65,6 +68,16 @@ Nenurodyta
 - t-002
   global_id: t-50814
   teiginys: "Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių sukilimas 1418 m (sukilimas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių sukilimas 1418 m (sukilimas)\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37098
 
@@ -86,14 +99,24 @@ Nenurodyta
     vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
 
     (^1) ) C. ep.
-  citata_rodoma: "Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­\npas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­\nbus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­\nkėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš\npradžių trūko ir vieno ir kito. Kitais metais po vyskupijos\nįkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,\nkai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­\nvę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,\n\n(^1) ) C."
+  citata_rodoma: |
+    Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­
+    pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­
+    bus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­
+    kėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš
+    pradžių trūko ir vieno ir kito. Kitais metais po vyskupijos
+    įkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,
+    kai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­
+    vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
+
+    (^1) ) C.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50813
-
 - id: c-37098
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -108,6 +131,7 @@ Nenurodyta
     tautas dukart malšino sukilimą, mirtimi nubausdamas 60 suki­
     limo vadų^1 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

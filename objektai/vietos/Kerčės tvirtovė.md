@@ -33,6 +33,12 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
 - t-001
   global_id: t-192879
   teiginys: 'Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys suformuluotas apie Kerčės tvirtovę, o Narbuto geografinė identifikacija palikta atribuuota. Neperkelta platesnė hipotezė apie Pantikapo vardą.'
+  susije_objektai: 'mentioned_place: Pantikapėja; mentioned_person: [[objektai/asmenys/Borėjas|Borėjas]]; mentioned_person: [[objektai/asmenys/Jupiteris|Jupiteris]]; mentioned_place: Baltija; mentioned_place: Skitija; mentioned_place: Viena; llm_object: Pantikapėja'
+  semantiniai_rysiai: 'Kerčės tvirtovė priklausė Pantikapėja'
   pagrindžia:
     - c-175649
 - susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
@@ -57,8 +63,9 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
     ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
     vi ant Pantikapėjos miesto griuvėsių1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192879

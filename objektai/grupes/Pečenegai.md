@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Pečenegai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1121 m.'
@@ -31,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių.
+Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių. Viešpataujant Igoriui Guduose, būk radęsi kiti jų neprieteliai, vadinami pečenegai, kurie, atkeliavę iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok, nedrįsdami su Igoriu kariauti, suderėję su juomi ir ilgą laiką taikiai gyvenę.
 
 ## Teiginiai
 
@@ -39,8 +40,35 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - t-001
   global_id: t-192989
   teiginys: "Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Hunai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pečenegai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Hunai: mention_match, group, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pečenegai\" parinktas kaip owner_note_path. Targetas \"Hunai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175759
+
+<a id="claim-t-200927"></a>
+- t-002
+  global_id: t-200927
+  teiginys: "Viešpataujant Igoriui Guduose, būk radęsi kiti jų neprieteliai, vadinami pečenegai, kurie, atkeliavę iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok, nedrįsdami su Igoriu kariauti, suderėję su juomi ir ilgą laiką taikiai gyvenę."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184277
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191284|Jonas Komninas]]: Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas.
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191284|Jonas Komninas]]: Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas.
 - susijęs iš [[objektai/asmenys/Konstantinas Purpurinis.md#claim-t-191435|Konstantinas Purpurinis]]: Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove.
@@ -75,12 +103,37 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
     Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
     smukimo metai2.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192989
-
+- id: c-184277
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Tuo
+    tarpu įkyrėjus juodgirėnams (Drewier) ir baltiesiems
+    gudams duoklę duoti Igoriui patrakę, bet Igoris juos
+    sudraudęs ir už nepaklusnumą duoklę padidinęs nuo
+    dūmo.
+    Viešpataujant Igoriui Guduose, būk radęsi kiti jų
+    neprieteliai, vadinami pečenegai, kurie, atkeliavę
+    iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok,
+    nedrįsdami su Igoriu kariauti, suderėję su juomi ir
+    ilgą laiką taikiai gyvenę.
+    Tas Igoris pasibandęs metuose 935 į Grekonų
+    buveinę Konstantinopolį traukti, jei paskalboms gal
+    tikėti, būk tenai išsirėdęs Juodąja jūra su 10 000 el­
+    dijų, arba laivų.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:30"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200927
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jonas Komninas]]
 - Pečenegai valdė [[objektai/vietos/Padneprė]]

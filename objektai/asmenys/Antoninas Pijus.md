@@ -30,6 +30,20 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
 - t-001
   global_id: t-200737
   teiginys: "Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Duona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antoninas Pijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antoninas Pijus\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184082
 
@@ -48,6 +62,7 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
     [D]ieną, vadinamą Saulės diena, toje pačioje vietoje susirenka visi, gyvenantys miestuo-
     se bei kaimuose.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

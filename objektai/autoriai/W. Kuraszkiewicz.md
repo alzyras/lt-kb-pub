@@ -37,6 +37,19 @@ Kuraszkiewicz, W.
 - t-001
   global_id: t-31064
   teiginys: "W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palenkė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "W. Kuraszkiewicz: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Palenkė: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Kuraszkiewicz\" parinktas kaip owner_note_path. Targetas \"Palenkė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1200 m.; įvykio data: 1200 m.; įvykio data: 1939 m.; įvykio data: 1955 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašą, leidžiantį suformuluoti faktą apie autorių."
   pagrindžia:
     - c-33195
 
@@ -53,8 +66,12 @@ Kuraszkiewicz, W.
     języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
     many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
     kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
-  citata_rodoma: "— Kuraszkiewicz, W. : _Domnie­\nmany Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­\nkiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T."
+  citata_rodoma: |
+    — Kuraszkiewicz, W. : _Domnie­
+    many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
+    kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

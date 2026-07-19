@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 507
+tema_objektu_skaicius: 508
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 507.
+Objektų skaičius: 508.
 
 ## Kaip naudoti
 
@@ -458,7 +458,7 @@ Objektų skaičius: 507.
 - [Volfgeris](../objektai/asmenys/Volfgeris)
 - [Vosylius](../objektai/asmenys/Vosylius)
 - [Vosylius II](../objektai/asmenys/Vosylius%20II)
-- [Vytautas Didysis](../objektai/asmenys/Vytautas%20Didysis)
+- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
 - [Vytenis (Lietuvos karalius)](../objektai/asmenys/Vytenis%20%28Lietuvos%20karalius%29)
 - [Vytenis (valdovas, XIII–XIV a.)](../objektai/asmenys/Vytenis)
 - [Zbignevas Olesnickis (vyskupas)](../objektai/asmenys/Zbignevas%20Olesnickis)
@@ -537,6 +537,7 @@ Objektų skaičius: 507.
 - [Pinskas](../objektai/vietos/Pinskas)
 - [Pskovas](../objektai/vietos/Pskovas)
 - [Smolenskas](../objektai/vietos/Smolenskas)
+- [Varšuva](../objektai/vietos/Var%C5%A1uva)
 
 ### Įvykiai
 - [Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)](../objektai/ivykiai/Lubavos%20%C5%BEem%C4%97s%20m%C5%AB%C5%A1is%2C%20kuriame%20%C5%BEuvo%20magistras%20Helmerichas%20ir%20mar%C5%A1alas%20Ditrichas%20%281263%20m.%29)

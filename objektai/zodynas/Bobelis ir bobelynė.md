@@ -57,6 +57,10 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
 - t-001
   global_id: t-195644
   teiginys: "Bobelynė šiame šaltinyje reiškia mažą žemės sklypą ar ūkį, kurį galima gauti ar parduoti."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178045
 - susijęs iš [[objektai/asmenys/Petras (Onos vyras, XIX a.).md#claim-t-195552|Petras (Onos vyras, XIX a.)]]: Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas.
@@ -77,8 +81,11 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
 
     metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų
     nusipirko dvylika hektarų žemės.
-  citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.\nUžėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės."
+  citata_rodoma: |
+    1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
+    Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

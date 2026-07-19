@@ -42,6 +42,20 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - t-001
   global_id: t-30308
   teiginys: "Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Kalita: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jonas Kalita tiesiogiai įvardytas didžiuoju Maskvos kunigaikščiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Kalita buvo valdovas Maskva (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1325 m.; valdymo laikotarpis: 1327 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Kalita buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-32758
 
@@ -49,6 +63,20 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - t-002
   global_id: t-30309
   teiginys: "Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Jonas Kalita: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jonas Kalita: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Jonas Kalita buvo totorių palaikomas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai rėmė Jonas Kalita (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradiniame teiginyje likęs kontekstinis žodis „taip pat“."
   pagrindžia:
     - c-32757
 - susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
@@ -69,14 +97,18 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
     Maskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana
     veiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų
     žemes.
-  citata_rodoma: "Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam\nMaskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana\nveiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų\nžemes."
+  citata_rodoma: |
+    Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam
+    Maskvos kunigaikščiui Jonui Kalitai. Totorių palaikomas, šis gana
+    veiklus Gedimino amžininkas savo valdžion taip pat užiminėjo rusų
+    žemes.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30309
-
 - id: c-32758
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -90,13 +122,18 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
     Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
     Pajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­
     diečiai kreipėsi į Gediminą.
-  citata_rodoma: "Veiklus didysis Maskvos\nkunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde\nMaskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.\nPajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­\ndiečiai kreipėsi į Gediminą."
+  citata_rodoma: |
+    Veiklus didysis Maskvos
+    kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde
+    Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
+    Pajutę savo savarankiškumui pavojų iš Maskvos pusės, naugar­
+    diečiai kreipėsi į Gediminą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30308
-
 ## Ryšiai
 - Jonas Kalita buvo valdovas [[objektai/vietos/Maskva]]

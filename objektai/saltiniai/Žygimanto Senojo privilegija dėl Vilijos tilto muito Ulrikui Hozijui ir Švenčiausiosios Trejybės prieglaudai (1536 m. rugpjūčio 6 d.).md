@@ -38,6 +38,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-001
   global_id: t-88103
   teiginys: "Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84087
 
@@ -45,6 +55,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-002
   global_id: t-88104
   teiginys: "Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Paneriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Paneriai: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Paneriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84088
 
@@ -52,6 +72,19 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-003
   global_id: t-88105
   teiginys: "1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko privilegijos datą ir esmę, o pradinis teiginys sudarytas iš antraštės bei puslapio triukšmo."
   pagrindžia:
     - c-84085
 
@@ -59,6 +92,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-004
   global_id: t-88106
   teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84086
 
@@ -66,6 +109,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-005
   global_id: t-88107
   teiginys: "Ulrikui Hozijui leista rinkti Vilijos tilto mokestį, kol jis susigrąžins tilto statybai išleistą kapitalą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84084
 
@@ -73,6 +126,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-006
   global_id: t-88108
   teiginys: "Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ulrikas Hozijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ulrikas Hozijus: mention_match, person, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Ulrikas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84082
 
@@ -80,6 +143,17 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-007
   global_id: t-88109
   teiginys: "Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Jonas Hozijus: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jonas Hozijus: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad karaliaus raštu Jonas Hozijus skiriamas tvarkyti tiltui ir prieglaudai priklausantį mokestį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žygimantas Senasis paskyrė Jonas Hozijus (0.72)"
   pagrindžia:
     - c-84083
 
@@ -87,6 +161,16 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-008
   global_id: t-88110
   teiginys: "Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ulrikas Hozijus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ulrikas Hozijus: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)\" parinktas kaip owner_note_path. Targetas \"Ulrikas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84089
 
@@ -122,12 +206,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     lektis. Į plotį nuo prieglaudos bažnyčios sklypo į viršų to pa­
     ties sklypo per 20 arba 7 uolektis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88108
-
 - id: c-84083
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,14 +247,44 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
     niaus miesto knygos, vykstant ribų komisijos teismams tarp
     jo did. pono Goreckio, Lydos pav. iždininko, ir garb.
-  citata_rodoma: "O kad \ntvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos \naprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­\ndymas ištikimai ir deramai būtų išlaikomas, globą ir vado­\nvavimą minėtos administracijos šviesiausiajam Kristuje tė­\nvui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat \nir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad\n391\n\n## Puslapis 408\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\njie visiškai rūpintųsi geru tos pačios prieglaudos valdymu \nbei administravimu bei jai skirtomis pajamomis. Dėl to taip \npat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis \nJonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį \ntiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­\nnėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­\nnauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­\ntus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai \nprieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą \nduoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto \ngalia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­\nspaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536 \nmetų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.\nKaralius ŽYGIMANTAS\nPrikabintas LDK antspaudas\nŠios privilegijos ištrauka iš garbingojo magistrato ir Vil­\nniaus miesto knygos, vykstant ribų komisijos teismams tarp \njo did."
+  citata_rodoma: |
+    O kad
+    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
+    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
+    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
+    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
+    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
+    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
+    391
+
+    ## Puslapis 408
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis. Dėl to taip
+    pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
+    Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
+    tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
+    nėtąjį Jo šv. atm. kun. Vilniaus vyskupą, du prelatus bei ka­
+    nauninkus, jo įpareigotus arba jam nesant, kapitulos išrink­
+    tus, kasmet kiekvienų metų pabaigoje visų ir atskirų minėtai
+    prieglaudai ir tiltui priklausančių pajamų ir išlaidų ataskaitą
+    duoti ir gauti iš jų patvirtinimą, įpareigojami dabartinio rašto
+    galia, kurio patvirtinimui ir tikrumui yra uždėtas mūsų ant­
+    spaudas. Tai įvyko ir duota Vilniuje Viešpaties gimimo 1536
+    metų rugpjūčio 6 dieną, mūsų karaliavimo 3-iaisiais metais.
+    Karalius ŽYGIMANTAS
+    Prikabintas LDK antspaudas
+    Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
+    niaus miesto knygos, vykstant ribų komisijos teismams tarp
+    jo did.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88109
-
 - id: c-84084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -190,12 +304,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
     ti ir pamaitinti bei prižiūrėti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88107
-
 - id: c-84085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,14 +341,39 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     LOTYNŲ KALBA
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
-  citata_rodoma: "Dalyvaujant \ndidžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­\nkupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­\nniesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos \nDidžiosios Kunigaikštystės rūmų bei kariuomenės maršal­\nkai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­\nlai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­\nvadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios \nKunigaikštystės iždininkui Ivanui Homostajui ir daugeliui \nkitų liudininkų.\nKaralius ŽYGIMANTAS\n\n## Puslapis 402\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO \nPRIVILEGIJA\nDĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU \nPER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA  \nULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS  \nPRIEGLAUDAI (ŠPITOLEI),\nIŠLEISTA\" 1536 METŲ RUGPJŪČIO 6 DIENĄ \nLOTYNŲ KALBA\n(Išrašo iš magistrato knygų vertimas)\nViešpaties vardu Amen."
+  citata_rodoma: |
+    Dalyvaujant
+    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
+    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
+    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
+    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
+    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
+    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
+    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
+    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
+    kitų liudininkų.
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 402
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
+    PRIVILEGIJA
+    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
+    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
+    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
+    PRIEGLAUDAI (ŠPITOLEI),
+    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
+    LOTYNŲ KALBA
+    (Išrašo iš magistrato knygų vertimas)
+    Viešpaties vardu Amen.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88105
-
 - id: c-84086
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -275,12 +414,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     varomas parduoti, - vienas denaras arba obolas. Nuo* vie­
     nos krūvos molio plytoms daryti - dvidešimt grašių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88106
-
 - id: c-84087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -309,12 +448,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     statyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės,
     priimti ir apgyvendinti, patogiai gyventi.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88103
-
 - id: c-84088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -341,12 +480,12 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     kad prie Šv.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88104
-
 - id: c-84089
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -382,6 +521,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
     tolesnių pajamų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

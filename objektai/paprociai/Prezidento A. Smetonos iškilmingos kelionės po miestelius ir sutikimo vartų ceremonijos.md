@@ -71,6 +71,19 @@ media_all_json: |-
 - t-001
   global_id: t-20818
   teiginys: "1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "kelionės data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašymas pašalina perteklinę detalę ir tiksliau perteikia citatoje nurodytą laiką bei ceremoniją."
   pagrindžia:
     - c-23537
 
@@ -90,8 +103,10 @@ Nenurodyta
     lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
     moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
     tinkamai išpuoštų vietos žydų vartų.
-  citata_rodoma: "lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,"
+  citata_rodoma: |
+    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 258
+tema_objektu_skaicius: 261
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 258.
+Objektų skaičius: 261.
 
 ## Kaip naudoti
 
@@ -28,6 +28,7 @@ Objektų skaičius: 258.
 ### Asmenys
 - [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Erdvilas]]
 - [[objektai/asmenys/Helmerichas]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/asmenys/Jonas Basanavičius]]
@@ -54,7 +55,7 @@ Objektų skaičius: 258.
 - [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
 - [[objektai/grupes/Aušrėnai]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
+- [Baltai](../objektai/grupes/Baltai)
 - [Baltarusiai](../objektai/grupes/Baltarusiai)
 - [Baltijos valstybės](../objektai/grupes/Baltijos%20valstyb%C4%97s)
 - [Baltų žyniai](../objektai/grupes/Balt%C5%B3%20%C5%BEyniai)
@@ -290,8 +291,12 @@ Objektų skaičius: 258.
 ### Posakiai
 - [Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti](../objektai/posakiai/Pasigail%C4%97k%2C%20vie%C5%A1patie%2C%20pasigail%C4%97k%20savo%20tautos%20ir%20neduok%20savo%20t%C4%97vonijos%20paniekinti)
 
+### Vietos
+- [Chersonas](../objektai/vietos/Chersonas)
+
 ### Šaltiniai
 - [Lenkų tautos istorija](../objektai/saltiniai/Lenk%C5%B3%20tautos%20istorija)
+- [Tauta ir žodis](../objektai/saltiniai/Tauta%20ir%20%C5%BEodis)
 
 ### Žodynas
 - [luomas](../objektai/zodynas/luomas)

@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 603
+tema_objektu_skaicius: 607
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 603.
+Objektų skaičius: 607.
 
 ## Kaip naudoti
 
@@ -548,7 +548,7 @@ Objektų skaičius: 603.
 - [Vygandas](../objektai/asmenys/Vygandas)
 - [Vyguntas](../objektai/asmenys/Vyguntas)
 - [Vykintas](../objektai/asmenys/Vykintas)
-- [Vytautas Didysis](../objektai/asmenys/Vytautas%20Didysis)
+- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
 - [Zbignevas Olesnickis (vyskupas)](../objektai/asmenys/Zbignevas%20Olesnickis)
 - [Zemislovas](../objektai/asmenys/Zemislovas)
 - [Zemovitas](../objektai/asmenys/Zemovitas)
@@ -614,18 +614,22 @@ Objektų skaičius: 603.
 
 ### Grupės
 - [Cistersų ordinas](../objektai/grupes/Cisters%C5%B3%20ordinas)
+- [Dobrynės broliai](../objektai/grupes/Dobryn%C4%97s%20broliai)
 - [Lenkijos senatas](../objektai/grupes/Lenkijos%20senatas)
+- [Radvilų giminė](../objektai/grupes/Radvil%C5%B3%20gimin%C4%97)
 
 ### Vietos
 - [Italija](../objektai/vietos/Italija)
 - [Krokuva](../objektai/vietos/Krokuva)
 - [Kujavija](../objektai/vietos/Kujavija)
+- [Kulmija](../objektai/vietos/Kulmija)
 - [Pinskas](../objektai/vietos/Pinskas)
 - [Polockas](../objektai/vietos/Polockas)
 - [Pskovas](../objektai/vietos/Pskovas)
 - [Riazanė](../objektai/vietos/Riazan%C4%97)
 - [Severskas](../objektai/vietos/Severskas)
 - [Smolenskas](../objektai/vietos/Smolenskas)
+- [Volynija](../objektai/vietos/Volynija)
 - [Černigovas](../objektai/vietos/%C4%8Cernigovas)
 
 ### Įvykiai

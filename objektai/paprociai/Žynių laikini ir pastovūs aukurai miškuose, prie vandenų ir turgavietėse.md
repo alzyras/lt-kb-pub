@@ -49,6 +49,21 @@ Nenurodyta
 - t-001
   global_id: t-189959
   teiginys: "Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Aukurai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žyniai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žyniai įsirengdavo aukurus; tai artimiausiai atitinka aukurų pastatymo arba įrengimo santykį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Žyniai pastatė Aukurai (0.72)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172842
 
@@ -72,6 +87,7 @@ Nenurodyta
     kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
     ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,13 +44,23 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - t-001
   global_id: t-68384
   teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-67974
-
+    - c-001
 <a id="claim-t-201078"></a>
 - t-002
   global_id: t-201078
-  teiginys: "1276 m. šalaujų tėvūnai nutarė kariauti su kryžėjais ir pasiuntė kelis šimtus rinktinės raitelių užimti Labguvos pilį."
+  teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184428
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
@@ -64,7 +74,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/autoriai/Zimmermann P.md#claim-t-60828|Zimmermann P]]: P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš [[objektai/ivykiai/Labguvos pilies užėmimas.md#claim-t-201328|Labguvos pilies užėmimas]]: 1276 m. šalaujų tėvūnai sueimoje nutarė kariauti prieš kryžėjus ir išsiuntė kelis šimtus rinktinės raitijos užimti Labguvos pilį, kurią kariai naktį užėmė.
 - susijęs iš Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės: A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.
 - susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
 - susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
@@ -83,8 +92,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68384
 ## Citatos
 
 - id: c-67974
@@ -95,18 +103,19 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     114—120.
     Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
     Л., 1963, с.
-  citata_rodoma: "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.\n185—189."
+  citata_rodoma: |
+    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
+    185—189.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68384
-
 - id: c-184428
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 444"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 444."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tam pavykus, Lidelau ap-'
     sidrąsinęs persikėlė į antrą pusę Nemuno ir tenai
@@ -122,8 +131,12 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     kyčius nugalavo, o jų vaikus ir motriškąsias į ver­
     gus išvarė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201078
+## Ryšiai
+- Užėmė Labguvą: [[objektai/grupes/Skalviai]]
+- Buvo žygio kryptis: [[objektai/grupes/Skalviai]]

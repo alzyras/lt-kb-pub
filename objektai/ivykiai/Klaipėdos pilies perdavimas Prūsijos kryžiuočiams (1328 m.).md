@@ -51,6 +51,20 @@ Nenurodyta
 - t-001
   global_id: t-01667
   teiginys: "1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste Livonijos kryžiuočiai ir Prūsijos kryžiuočiai vaizduojami kaip ordino šakos; ryšys žymi Livonijos ordino priklausymą platesnei kryžiuočių struktūrai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Livonijos ordinas priklausė Kryžiuočių ordinas (0.61)"
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą."
   pagrindžia:
     - c-01905
 
@@ -69,8 +83,14 @@ Nenurodyta
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
-  citata_rodoma: "Jo pastatytoji Klaipėdos pilis\nbuvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra. Todėl\n1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją\nPrūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-\njūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy."
+  citata_rodoma: |
+    Jo pastatytoji Klaipėdos pilis
+    buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra. Todėl
+    1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
+    Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
+    jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

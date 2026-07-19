@@ -56,6 +56,10 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
 - t-001
   global_id: t-195633
   teiginys: "Dieveriai šiame šaltinyje yra vyro broliai."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178035
 
@@ -79,8 +83,10 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
     apsiaustui;
     mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po dro­
     bės stuomenį; du kraičvežiu jau apdovanoti.
-  citata_rodoma: "Uošviui, vyro tėvui, duoda ar pasiūtą apsiaustą, ar tik medžiagą apsiaustui; mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po drobės stuomenį; du kraičvežiu jau apdovanoti."
+  citata_rodoma: |
+    Uošviui, vyro tėvui, duoda ar pasiūtą apsiaustą, ar tik medžiagą apsiaustui; mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po drobės stuomenį; du kraičvežiu jau apdovanoti.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

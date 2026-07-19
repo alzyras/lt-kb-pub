@@ -42,6 +42,20 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 - t-001
   global_id: t-26437
   teiginys: "Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ženeva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dovas Zaunius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ženeva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Dovas Zaunius keliavo į Ženeva (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą."
   pagrindžia:
     - c-26662
 
@@ -65,8 +79,18 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: "Voldemaras, neturėdamas \nLietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: \nDovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir \npasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)\n\nL I E T U V O S  I S T O R I J A\n160\nišeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos \nnėra."
+  citata_rodoma: |
+    Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+
+    L I E T U V O S  I S T O R I J A
+    160
+    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

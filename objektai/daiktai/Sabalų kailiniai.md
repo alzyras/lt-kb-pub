@@ -60,6 +60,12 @@ Nenurodyta
 - t-001
   global_id: t-186868
   teiginys: 'Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo komentaro kontekstą, datą, vietas ir Vytautui įteiktą dovaną. Nepridėta kitų citatoje minimų dovanų kaip pagrindinio objekto.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1427 m.; įvykio data: 1428 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo komentaro kontekstą, datą, vietas ir Vytautui įteiktą dovaną. Nepridėta kitų citatoje minimų dovanų kaip pagrindinio objekto.'
   pagrindžia:
     - c-170052
 
@@ -83,8 +89,9 @@ Nenurodyta
     sabalais, šilko rietimais ir kt. dovanomis.
   citata_rodoma: "1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos \nDidžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­\nvanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas \nrytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­\nlenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta \npati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje \nir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais \nsabalais, šilko rietimais ir kt. dovanomis."
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186868

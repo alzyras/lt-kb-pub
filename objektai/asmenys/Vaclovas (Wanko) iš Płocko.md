@@ -40,6 +40,19 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - t-001
   global_id: t-100079
   teiginys: "Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas (Wanko) iš Płocko: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas (Wanko) iš Płocko\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia apie Gediminą, todėl perrašyta į faktą apie Vaclovą."
   pagrindžia:
     - c-94004
 
@@ -57,8 +70,13 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
-  citata_rodoma: "Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su\nMozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas\nir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams\nrekomendavo kelią per Mozūriją. Jo 1325 m."
+  citata_rodoma: |
+    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
+    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
+    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
+    rekomendavo kelią per Mozūriją. Jo 1325 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

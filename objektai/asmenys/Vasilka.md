@@ -43,6 +43,12 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-001
   global_id: t-186169
   teiginys: "Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169530
 
@@ -50,6 +56,24 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-002
   global_id: t-190995
   teiginys: "1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Jotvingiai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kontekstas nurodo mūšį su jotvingiais, kuriame Vasilka laimėjo."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vasilka kariavo prieš Jotvingiai (0.90)"
+  temporaliniai_duomenys: "mūšio data: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka kariavo prieš Jotvingiai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas iki Vasilkos veiksmo, vietos, datos ir rezultato, pašalinant perteklinį maršruto aprašymą. Pergalės vertinimas paliktas su Narbuto pasakojimo atribucija."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173877
 
@@ -57,6 +81,20 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-003
   global_id: t-190996
   teiginys: "Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Ziemovitas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ziemovitas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vasilka ir Ziemovitas veikė toje pačioje kariuomenėje ir kartu kovėsi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173878
 
@@ -64,6 +102,12 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-004
   global_id: t-194005
   teiginys: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun tė savo broliui Vasilkai [žinią], kad norįs su juo pasi matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat pas juos atvažiuotų pasitarti."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176630
 
@@ -71,6 +115,13 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-005
   global_id: t-196624
   teiginys: "Vasilka ir Švarnas Kojelavičiaus pasakojime pakvietė Vaišvilką į Vladimirą, o Vaišvilkas jais pasikliovė ir nusileido jų prašymams."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169530
 
@@ -78,6 +129,12 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - t-006
   global_id: t-197839
   teiginys: "Vasilka buvo baiminamasi didžiausio pralaimėjimo, jei šios provincijos ir gentys, sudariusios tarpusavio sąjungą, kartu, bendromis jėgomis užpultų Kryžiuočių or1 Henning."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173877
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.
@@ -114,15 +171,24 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     no ir Romano kuo širdingiausiai priimtas, jis galop
     atsikratė visų įtarimų, kurie be paliovos kamavo jaut­
     rią širdį.
-  citata_rodoma: "Patogiau, \ngirdi, šitame mieste susirinkti tokiam skaičiui kuni­\ngaikščių su jų palydomis, pasivaišinsią, o beviešint ir \ndraugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė \nįtartina, kad nesilaikoma sutartos dienos, be to, ne­\nįprastas atrodė ir priešo meilumas. Vis dėlto, būdamas \ntikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­\nsada kuo draugiškiausiai bendraudavo, negalvoja apie \njokią klastą, jais pasikliovęs, nusileido jų prašymams."
+  citata_rodoma: |
+    Patogiau,
+    girdi, šitame mieste susirinkti tokiam skaičiui kuni­
+    gaikščių su jų palydomis, pasivaišinsią, o beviešint ir
+    draugystė tvirtesnė užsimegsianti. Vaišvilkui pasirodė
+    įtartina, kad nesilaikoma sutartos dienos, be to, ne­
+    įprastas atrodė ir priešo meilumas. Vis dėlto, būdamas
+    tikras, jog Vasilka ir Švarnas, su kuriais anksčiau vi­
+    sada kuo draugiškiausiai bendraudavo, negalvoja apie
+    jokią klastą, jais pasikliovęs, nusileido jų prašymams.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186169
     - t-196624
-
 - id: c-173877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -141,15 +207,25 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     jei šios provincijos ir gentys, sudariusios tarpusavio są­
     jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
     1 Henning.
-  citata_rodoma: "Ypač vokiečių godumą skatino tur­\ntinga Sembos provincija, bet šie atkaklūs bandymai ją \nužkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė \ntoks pavojus, kad, norint lengviau užimti Sembą, pirmiau­\nsia reikėjo užimti kitą Bartos dalį, užkariauti Galindą, \nsutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­\nnės kraštais. Buvo baiminamasi didžiausio pralaimėjimo, \njei šios provincijos ir gentys, sudariusios tarpusavio są­\njungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­\n1 Henning."
+  citata_rodoma: |
+    Ypač vokiečių godumą skatino tur­
+    tinga Sembos provincija, bet šie atkaklūs bandymai ją
+    užkariauti nepavyko. IŠ kaimyninių provincijų jiems grėsė
+    toks pavojus, kad, norint lengviau užimti Sembą, pirmiau­
+    sia reikėjo užimti kitą Bartos dalį, užkariauti Galindą,
+    sutramdyti jotvingius ir nutraukti j*ų ryšius su Panemu­
+    nės kraštais. Buvo baiminamasi didžiausio pralaimėjimo,
+    jei šios provincijos ir gentys, sudariusios tarpusavio są­
+    jungą, kartu, bendromis jėgomis užpultų Kryžiuočių or­
+    1 Henning.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190995
     - t-197839
-
 - id: c-173878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -163,12 +239,12 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     kovėsi, kaip Ir Andrius, rūmų urėdas, nors ir ligotas, bet
     narsus žmogus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190996
-
 - id: c-176630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -191,14 +267,24 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
     vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
     sudegino.
-  citata_rodoma: "Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­\ntė savo broliui Vasilkai [žinią], kad norįs su juo pasi­\nmatyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat \npas juos atvažiuotų pasitarti.\nIr Haličo kunigaikštis Vasilka kvietė Vaišvilką, \nkad jis ten pat pas juos atvyktų ir susitiktų su jais. \nVaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­\ntaikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo \njam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro \nmiestą, pasitikėdamas Vasilkos ir Švarno žodžiu."
+  citata_rodoma: |
+    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
+    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
+    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
+    pas juos atvažiuotų pasitarti.
+    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
+    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
+    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
+    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
+    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
+    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194005
-
 ## Ryšiai
 - Vasilka siuntė į [[objektai/vietos/Haličas]]
 - Vasilka kariavo prieš [[objektai/grupes/Jotvingiai]]

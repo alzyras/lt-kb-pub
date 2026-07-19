@@ -57,6 +57,10 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
 - t-001
   global_id: t-195630
   teiginys: "Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178032
 
@@ -75,8 +79,10 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
     dėjo, didžiai norėjo už bernužėlio į nevalėlę“ .
     Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia:
     turi suruošti vadinamas „prikeltuves“ .
-  citata_rodoma: "Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ ."
+  citata_rodoma: |
+    Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ .
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

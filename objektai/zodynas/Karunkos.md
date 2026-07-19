@@ -56,6 +56,10 @@ Terminas vartojamas kalbant apie kaimo žmonių susirinkimus žiemos šventadien
 - t-001
   global_id: t-195464
   teiginys: "Karunkos šiame šaltinyje reiškia vakarais giedamą giesmę ar giedojimą."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177885
 
@@ -70,8 +74,11 @@ Terminas vartojamas kalbant apie kaimo žmonių susirinkimus žiemos šventadien
     Arba: šiandien susitrauksi, kitą dieną atsigausi.
     Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo
     jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
-  citata_rodoma: "Kai temsta, kaimo \njaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti"
+  citata_rodoma: |
+    Kai temsta, kaimo
+    jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,9 +32,16 @@ media_all_json: |-
 - t-001
   global_id: t-194891
   teiginys: "Į Vakarus nuo dešiniojo 1 Thunmann."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177287
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į Vakarus nuo dešiniojo 1 Thunmann.'
@@ -50,8 +57,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194891
 ## Citatos
 
 - id: c-177287
@@ -70,8 +76,13 @@ media_all_json: |-
     gentims, sako: „Turbūt tas pats karalius Germanarikas
     savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
     kraštą ir pavergė estų tautą“4.
-  citata_rodoma: "Į Vakarus nuo dešiniojo\n1 Thunmann. Untersuchungen über die Geschichte einiger nor­\ndischer Völker.\nS. 66*."
+  citata_rodoma: |
+    Į Vakarus nuo dešiniojo
+    1 Thunmann. Untersuchungen über die Geschichte einiger nor­
+    discher Völker.
+    S. 66*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,20 @@ Nenurodyta
 - t-001
   global_id: t-191056
   teiginys: "Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Odoakras: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zenonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Zenonas kurstė Teodoriką prieš Odoakrą, todėl Zenono priešiškumas Odoakrui palaikomas, bet netiesiogiai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173938
 
@@ -52,6 +66,23 @@ Nenurodyta
 - t-002
   global_id: t-191057
   teiginys: "Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Italija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Teodoriko Italijos žygį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 479 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodorikas surengė žygį į Italija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teodoriko motyvai palikti su Narbuto atribucija. Nepridėtos platesnės teisinės pretenzijos ar rugių skriaudos aiškinimas."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173939
 
@@ -59,6 +90,12 @@ Nenurodyta
 - t-003
   global_id: t-197561
   teiginys: "Galop jis slapta susitarė su Teodoriku, pasikliaudamas pažadais, o gal vildamasis sukelti barbarų valdovų tarpusavio karą; abiem šalims nusilpus, atsirastų proga pašalinti juos abu, be to, jis leido ostrogotams grobti ir Romą, ir Italiją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173938
 
@@ -86,9 +123,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-173938
@@ -112,15 +146,28 @@ Nenurodyta
     skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
     klausė Mezijoje.
-  citata_rodoma: "Galop jis slapta susitarė su Teodo- \nriku, pasikliaudamas pažadais, o gal vildamasis sukelti \nbarbarų valdovų tarpusavio karą; abiem šalims nusilpus, \natsirastų proga pašalinti juos abu, be to, jis leido ostro- \ngotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai \nperprato ketinimus visuomet klastingo Zenono, kuris jau \nseniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po \nNepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­\nninko; tačiau tuomet Teodorikas nesileido sukurstomas. \nBet dabartinėmis aplinkybėmis surengti Italijos žygį pa­\nskatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas \nir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­\nklausė Mezijoje."
+  citata_rodoma: |
+    Galop jis slapta susitarė su Teodo-
+    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
+    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
+    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
+    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
+    perprato ketinimus visuomet klastingo Zenono, kuris jau
+    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
+    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
+    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191056
     - t-197561
-
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -142,6 +189,7 @@ Nenurodyta
     žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
     kančius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

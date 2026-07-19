@@ -33,6 +33,16 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
 - t-001
   global_id: t-78080
   teiginys: "Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaižgantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaižgantas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75384
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
@@ -62,8 +72,19 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
     dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: "Nacionalinėje lietuvių valstybėje žydams liko uždara \nvalstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-\njoje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-\nnių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų \nsistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-\nbiais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių \nkultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius \ndar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos \npusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad \nžydai tarpusavyje dažnai vartojo rusų kalbą."
+  citata_rodoma: |
+    Nacionalinėje lietuvių valstybėje žydams liko uždara
+    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
+    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
+    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
+    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
+    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
+    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
+    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
+    žydai tarpusavyje dažnai vartojo rusų kalbą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

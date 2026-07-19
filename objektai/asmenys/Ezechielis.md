@@ -32,6 +32,13 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
 - t-001
   global_id: t-191394
   teiginys: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174276
 - susijęs iš [[objektai/asmenys/Nikolajus Karamzinas.md#claim-t-191146|Nikolajus Karamzinas]]: Teodoro Narbuto perteikimu, Karamzinas žodį Ross ar Russ Ezechielio pranašystėje suprato perkeltine galvos ar svarbiausio dalyko prasme.
@@ -60,6 +67,7 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
     šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
     mam požiūriui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

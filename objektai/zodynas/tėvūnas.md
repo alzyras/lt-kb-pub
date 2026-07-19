@@ -34,6 +34,16 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-001
   global_id: t-12593
   teiginys: "Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14716
 
@@ -41,6 +51,17 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-002
   global_id: t-70370
   teiginys: "Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-69407
 
@@ -48,6 +69,19 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-003
   global_id: t-182983
   teiginys: "Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166381
 
@@ -65,14 +99,16 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
-  citata_rodoma: "prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.\ndvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį."
+  citata_rodoma: |
+    prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
+    dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12593
-
 - id: c-69407
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -86,14 +122,19 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos.
-  citata_rodoma: "Kunigaikščiai valdė\nsavo žemes ir teisė jose gyvenančius žmones per savo vieti-\nninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie\niš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo\nkunigaikščio nustatytos."
+  citata_rodoma: |
+    Kunigaikščiai valdė
+    savo žemes ir teisė jose gyvenančius žmones per savo vieti-
+    ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
+    iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
+    kunigaikščio nustatytos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70370
-
 - id: c-166381
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,6 +148,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     kunigaikščio nustatytos. Tuo tarpu bajorai stengėsi kuo dau-
     giausia išnaudoti savo valstiečius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

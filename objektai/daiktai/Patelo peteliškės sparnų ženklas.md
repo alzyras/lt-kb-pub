@@ -48,9 +48,16 @@ Nenurodyta
 - t-001
   global_id: t-194803
   teiginys: "Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177199
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje.'
@@ -69,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194803
 ## Citatos
 
 - id: c-177199
@@ -78,15 +84,23 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
-    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes - monarchai. E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą.
-  citata_rodoma: "Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę.\nVėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti\ndievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV\nlentelėje. Skaitykite straipsnį apie herbus."
+    Čio­
+    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
+    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
+    pagrobiantis vėlę.
+    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
+    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
+    lentelėje. Skaitykite straipsnį apie herbus.
+  citata_rodoma: |
+    Čio­
+    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
+    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
+    pagrobiantis vėlę.
+    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
+    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
+    lentelėje. Skaitykite straipsnį apie herbus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

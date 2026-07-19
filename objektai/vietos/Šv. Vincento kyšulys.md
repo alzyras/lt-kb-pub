@@ -33,9 +33,23 @@ media_all_json: |-
 - t-001
   global_id: t-192915
   teiginys: "Šv. Vincento kyšulys Narbuto aprašyme buvo jūros kelyje, kuris ėjo pro Heraklio stulpus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Stulpai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šv. Vincento kyšulys: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Stulpai: mention_match, thing, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Vincento kyšulys\" parinktas kaip owner_note_path. Targetas \"Stulpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175685
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šv. Vincento kyšulys Narbuto aprašyme buvo jūros kelyje, kuris ėjo pro Heraklio stulpus.'
@@ -52,8 +66,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192915
 ## Citatos
 
 - id: c-175685
@@ -75,8 +88,14 @@ media_all_json: |-
     Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
     poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
     barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: "Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus."
+  citata_rodoma: |
+    Taip mūsų kraštų prekės lengvai patekdavo arba
+    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
+    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
+    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
+    kuris ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

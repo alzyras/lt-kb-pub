@@ -33,6 +33,20 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - t-001
   global_id: t-186088
   teiginys: "Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Lvovas: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vincentas iš Šamotulų: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lvovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vincentas buvo išsiųstas iš Lvovo, tačiau leidžiamas ryšys neturi atskiros krypties „iš“, todėl interpretacija ribota."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vincentas iš Šamotulų siuntė į Lvovas (0.55)"
   pagrindžia:
     - c-169449
 
@@ -40,6 +54,13 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - t-002
   global_id: t-196628
   teiginys: "Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169450
 
@@ -62,12 +83,12 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     grindinėmis jėgomis į priekį, be vargo atsiėmė vieną
     kitą pražygiuojamą pilį ir priartėjo prie Braclavo.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186088
-
 - id: c-169450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -80,8 +101,18 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     kad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­
     kams beliko įveikti Murafos upę, tekančią tankiomis
     4 45
-  citata_rodoma: "Štai todėl \nŠamotulskis ir patraukė su visa kariuomene į Lenkiją. \nNenorėdamas praleisti progos tinkamu metu susikauti, \nFiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai, \nkad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­\nkams beliko įveikti Murafos upę, tekančią tankiomis\n4 45\n\ngiriomis tarp žemų nendrėtų krantų."
+  citata_rodoma: |
+    Štai todėl
+    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
+    Nenorėdamas praleisti progos tinkamu metu susikauti,
+    Fiodoras lydėjo atsitraukiančius lenkus, bet taip tyliai,
+    kad tie nė nejuto, jog rusai jiems lipa ant kulnų. Len­
+    kams beliko įveikti Murafos upę, tekančią tankiomis
+    4 45
+
+    giriomis tarp žemų nendrėtų krantų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

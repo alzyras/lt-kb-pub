@@ -43,6 +43,17 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - t-001
   global_id: t-171948
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pasvalys: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pasvalys: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškiai nurodo Zigmanto Augusto žygį ir sustojimą Pasvalyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Zigmantas Augustas keliavo į Pasvalys (0.88)"
   pagrindžia:
     - c-156401
     - c-166461
@@ -76,8 +87,6 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-156401
@@ -91,14 +100,16 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
     į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
     tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
-  citata_rodoma: "Zigmantas Augustas, surinkęs didelę lie-\ntuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly."
+  citata_rodoma: |
+    Zigmantas Augustas, surinkęs didelę lie-
+    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171948
-
 - id: c-166461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,6 +122,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     Magistras Fürstenbergas buvo pasiryžęs ginti ordino nepriklau-
     somybę, tačiau nebeturėjo jėgų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

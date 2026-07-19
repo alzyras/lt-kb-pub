@@ -33,6 +33,9 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
 - t-001
   global_id: t-03062
   teiginys: "Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03300
 
@@ -47,6 +50,7 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
     nių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių
     dievybių. Be to, buvo miškų, namų, židinio ir gyvulių dievų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

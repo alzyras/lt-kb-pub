@@ -56,6 +56,20 @@ Nenurodyta
 - t-001
   global_id: t-31475
   teiginys: "1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Smolenskas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas užėmė Smolenską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.96); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Viazma (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33429
 
@@ -73,8 +87,15 @@ Nenurodyta
     bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
     vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
-  citata_rodoma: "Remdamasis giminyste,\nVytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė\nSmolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­\nbindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9."
+  citata_rodoma: |
+    Remdamasis giminyste,
+    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
+    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
+    bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
+    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
+    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

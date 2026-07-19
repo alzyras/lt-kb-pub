@@ -32,6 +32,13 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
 - t-001
   global_id: t-194885
   teiginys: "Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senovės tyrinėtojai, kurie nagrinėjo He rodoto geografiją ir vietoje susipažino su įvairiomis geo 1 Lelewel, Rzut oka na dawnosc Narodow Litew."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177281
 
@@ -50,6 +57,7 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
     milian Hrabia Ossolifiski. Uwagi nad Winc. Kadlubkiem (S. Lindės
     vokiškas vertimas). S. 147.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

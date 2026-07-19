@@ -57,6 +57,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 - t-001
   global_id: t-195260
   teiginys: "Iešmantas ganė iki 1864 m., vėliau vedė žmoną, pasistatė trobą ir, kaimiečių gerbiamas, pabaigė savo amželį."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177626
 
@@ -64,6 +68,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 - t-002
   global_id: t-195261
   teiginys: "Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177629
 
@@ -71,6 +79,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 - t-003
   global_id: t-195262
   teiginys: "Iešmantas buvo linksmo būdo ir dainavo savo komponuotas dainas."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177627
 
@@ -78,6 +90,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 - t-004
   global_id: t-195263
   teiginys: "Kerdžius Iešmantas gerai valdė trimitą ir juo žadindavo mergaites karvių melžti."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177625
 
@@ -85,6 +101,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 - t-005
   global_id: t-195264
   teiginys: "Iešmantas nuo mažystės tarnavo piemeniu, vėliau iš piemenų pastojo į kerdžius."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177628
 - susijęs iš [[objektai/paprociai/Kerdžiaus ganymo signalų sistema.md#claim-t-195363|Kerdžiaus ganymo signalų sistema]]: Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti.
@@ -101,14 +121,15 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites
     karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: bari­
     nė, ingelčikas, suktinis.
-  citata_rodoma: "Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis."
+  citata_rodoma: |
+    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis.
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195263
-
 - id: c-177626
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -123,14 +144,15 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė
     žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs,
     kaimiečių gerbiamas, pabaigė savo amželį.
-  citata_rodoma: "Ganė ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs, kaimiečių gerbiamas, pabaigė savo amželį."
+  citata_rodoma: |
+    Ganė ligi 1864 metų, tada, jau apysenis, gavo trijų hektarų bobelynę, vedė žmoną, pasistatė trobą, įsigijo gyvulių, (mat, turėta iš ko) ir pasenęs, kaimiečių gerbiamas, pabaigė savo amželį.
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195260
-
 - id: c-177627
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -145,14 +167,15 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     išbėgti nuo jo negalėdavo nė mėginti: buvo greitas, o kai ima rimbu
     plikyti į kulnus, turi luptis. Buvo linksmo būdo, dainavo savo kompo­
     nuotas dainas.
-  citata_rodoma: "Buvo linksmo būdo, dainavo savo komponuotas dainas."
+  citata_rodoma: |
+    Buvo linksmo būdo, dainavo savo komponuotas dainas.
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195262
-
 - id: c-177628
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -164,14 +187,15 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio
     duonos nevalgęs, kaip iš ganymo. Nuo mažystės ligi vyro tarnavo pie­
     meniu, iš piemenų pastojo į kerdžius.
-  citata_rodoma: "Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius."
+  citata_rodoma: |
+    Nuo mažystės ligi vyro tarnavo piemeniu, iš piemenų pastojo į kerdžius.
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195264
-
 - id: c-177629
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -183,8 +207,10 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
     vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir
     nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio
     duonos nevalgęs, kaip iš ganymo.
-  citata_rodoma: "Mūsų kerdžius, Tadaušas Iešmantas, vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio duonos nevalgęs, kaip iš ganymo."
+  citata_rodoma: |
+    Mūsų kerdžius, Tadaušas Iešmantas, vienrankis, gimęs ir augęs tame pačiame kaime. Dešinė ranka maža ir nevaldoma, tur būti, mažystėje susižeidęs, ir kaipo toks, kito uždarbio duonos nevalgęs, kaip iš ganymo.
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

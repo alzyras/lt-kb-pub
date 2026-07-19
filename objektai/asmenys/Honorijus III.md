@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlandia buvo ypač pabrėžta Witlandia. 1224 m. pabaigoje popiežius Honorijus III pasiuntė Mutinos vyskupą Vilhelmą į Padaugavį taikinti kalavijuočių su Rygos vyskupu Albertu.
+Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlandia buvo ypač pabrėžta Witlandia. Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v.
 
 ## Teiginiai
 
@@ -42,17 +42,32 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
 - t-001
   global_id: t-191415
   teiginys: "Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlandia buvo ypač pabrėžta Witlandia."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1224 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Honorijaus III titulas, nes citata kalba apie popiežiaus bulę ir pavadinimų skaitymą. Palikta Narbuto atribucija, nepridėta platesnė Vytlandijos interpretacija."
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174297
 
 <a id="claim-t-200996"></a>
 - t-002
   global_id: t-200996
-  teiginys: "1224 m. pabaigoje popiežius Honorijus III pasiuntė Mutinos vyskupą Vilhelmą į Padaugavį taikinti kalavijuočių su Rygos vyskupu Albertu."
+  teiginys: "Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184346
-- susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-201044|Vilhelmas]]: 1224 metų pabaigoje popiežius Honorijus III pasiuntė Mutinos vyskupą Vilhelmą į Padaugavį taikinti kalavijonų su Rygos vyskupu Albertu.
-- susijęs iš [[objektai/paprociai/Kryžiaus karo skelbimas ir kryžiumi pasižymėjusiųjų telkimas.md#claim-t-201373|Kryžiaus karo skelbimas ir kryžiumi pasižymėjusiųjų telkimas]]: Daukantas vaizduoja Honorijų III kaip popiežių, siejusį kryžiaus žygius su ūkės reikalais.
+
 ## Citatos
 
 - id: c-174297
@@ -67,16 +82,15 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
     kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
     suchungen ettr. 5, 53).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191415
-
 - id: c-184346
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 249"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo pačiu laiku sukilo kerštai kalavijonų su Al­
     bertu, v. Rygos, kurie niekaip negalėjo taikiai žemę
@@ -91,6 +105,7 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
     payslio kraštus aplankyti, kursai, nukeliavęs pirma
     į Kulmiją, tol truko pas v.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

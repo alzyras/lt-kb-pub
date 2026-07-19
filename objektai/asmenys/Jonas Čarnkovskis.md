@@ -33,6 +33,12 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
 - t-001
   global_id: t-196500
   teiginys: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169579
 - susijęs iš [[objektai/asmenys/Cigala iš Vienos.md#claim-t-186191|Cigala iš Vienos]]: Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
@@ -56,8 +62,15 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
     sykį tarė valdovo lūpos". Šitaip jis kalbėjo viešai, tuo
     tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
     ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
-  citata_rodoma: "Senosios draugystės pastovumui laiduoti visiškai \nužtenka ankstesnio susitarimo, nepaisant to, kad jis \nnepatvirtintas jokia priesaika. Negalima abejoti tuo, ką \nsykį tarė valdovo lūpos\". Šitaip jis kalbėjo viešai, tuo \ntarpu slaptomis susitarė pagreitinti pakėlimą į sostą \nir nustatė, jog tai įvyks kitų metų rugsėjo 16."
+  citata_rodoma: |
+    Senosios draugystės pastovumui laiduoti visiškai
+    užtenka ankstesnio susitarimo, nepaisant to, kad jis
+    nepatvirtintas jokia priesaika. Negalima abejoti tuo, ką
+    sykį tarė valdovo lūpos". Šitaip jis kalbėjo viešai, tuo
+    tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
+    ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

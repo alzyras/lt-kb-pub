@@ -45,6 +45,23 @@ Nenurodyta
 - t-001
   global_id: t-191070
   teiginys: "Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Orestas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Orestas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 475 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Paliktas asmuo, data ir veiksmas, o imperatoriaus sosto formuluotė pateikta su Narbuto atribucija. Nepridėta platesnio Ricimero ir imperatorių kaitos konteksto."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173952
 
@@ -65,6 +82,7 @@ Nenurodyta
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą. Tai įvyko 475 metais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

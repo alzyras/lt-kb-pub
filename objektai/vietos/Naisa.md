@@ -39,6 +39,24 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
 - t-001
   global_id: t-192885
   teiginys: "Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aurelianas Klaudijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Aurelianas Klaudijus mūšyje įveikė gotų būrius, todėl tiesiogiai palaikomas karinis priešiškumas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Aurelianas Klaudijus kariavo prieš Gotai (0.88)"
+  temporaliniai_duomenys: "mūšio data: 269 m; mūšio data: apie 269 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aurelianas Klaudijus kariavo prieš Gotai“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta priešiška formuluotė apie „grobikų būrius“ ir paliktas mūšio rezultatas. Chronikinis pasakojimas bei valdovo titulas neperteikti kaip neutralūs papildomi faktai."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175655
 - susijęs iš [[objektai/asmenys/Aurelianas Klaudijus.md#claim-t-191338|Aurelianas Klaudijus]]: Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę.
@@ -61,6 +79,7 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
     nuostolių, o imperatorius prie savo titulų pridėjo Götti­
     ens.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

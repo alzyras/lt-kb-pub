@@ -51,6 +51,9 @@ Nenurodyta
 - t-001
   global_id: t-186639
   teiginys: 'Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Palikta metraščio atribucija ir pridėtas citatoje esantis laiko žymuo.'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-169908
 
@@ -58,6 +61,9 @@ Nenurodyta
 - t-002
   global_id: t-186640
   teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išplėstas veiksmo vykdytojų įvardijimas iš citatos.'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Maskvos žemės; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-169908
 
@@ -65,6 +71,9 @@ Nenurodyta
 - t-003
   global_id: t-186641
   teiginys: 'Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Dieviška pagalba yra atribucijai jautrus religinis aiškinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Viazma; llm_object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; llm_object: Smolenskas'
   pagrindžia:
     - c-169908
 
@@ -72,6 +81,9 @@ Nenurodyta
 - t-004
   global_id: t-186642
   teiginys: 'Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys aiškus, bet chronikos karo pasakojimui palikta atribucija.'
+  susije_objektai: 'llm_object: Viazma; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Maskva; mentioned_place: Viazma; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-169908
 
@@ -79,6 +91,9 @@ Nenurodyta
 - t-005
   global_id: t-186643
   teiginys: 'Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas nereikalingas teiginio boilerplate.'
+  susije_objektai: 'mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-169908
 
@@ -105,12 +120,13 @@ Nenurodyta
     mas ir šlovinamas5 0 .
   citata_rodoma: "Šeši tūkstančiai devyni šimtai penkiasdešimt trečiai­\nsiais metais 1 3  nutrūko didžiojo kunigaikščio Kazimiero\ntaika 1 4  su Maskvos didžiuoju kunigaikščiu. Ir atėjo\nmaskvenai su totoriais, ir nusiaubė Viazmos žemę. Di­\ndysis kunigaikštis Kazimieras tą pačią žiemą išsiuntė\nprieš juos savo vaivadas, kunigaikščius ir ponus su ka­\nriuomene, kad pultų Maskvos žemę. Ir nusiaubė Ko-\nzelską l8 , Vereją l7 , Možaiską, Kalugą, ir padarė raask-\nvėnams daug žalos ,8 . O maskvėnų susirinko penki šim­\ntai ir šoko vytis lietuvių; dievas padėjo lietuviams,\ndaug maskvėnų jie nukovė I B , o kitus gyvus sučiupo\nir nusivarė j Smolenską pas didįjį kunigaikštį Kazimie­\nrą, ir buvo jis tuomet su visa valstybe didžiai garbina­\nmas ir šlovinamas5 0 ."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-    - t-005
+    - t-186639
+    - t-186640
+    - t-186641
+    - t-186642
+    - t-186643

@@ -33,6 +33,9 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 - t-001
   global_id: t-72117
   teiginys: "Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-70533
 
@@ -40,6 +43,9 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 - t-002
   global_id: t-72118
   teiginys: "Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-70533
 
@@ -60,6 +66,7 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

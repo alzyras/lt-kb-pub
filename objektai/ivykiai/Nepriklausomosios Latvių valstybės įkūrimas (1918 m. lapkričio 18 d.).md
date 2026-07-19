@@ -49,6 +49,10 @@ Nenurodyta
 - t-001
   global_id: t-66799
   teiginys: "Po Vokietijos pralaimėjimo Vakaruose Latvija 1918 m. lapkričio 18 d. buvo paskelbta nepriklausoma."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66926
 
@@ -68,8 +72,14 @@ Nenurodyta
 
 
     sybė.
-  citata_rodoma: "Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-\nlaimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-\nčiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma\n(1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-\nsybė."
+  citata_rodoma: |
+    Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-
+    laimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-
+    čiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma
+    (1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-
+    sybė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

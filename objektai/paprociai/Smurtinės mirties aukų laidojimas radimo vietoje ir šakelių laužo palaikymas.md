@@ -49,6 +49,20 @@ Nenurodyta
 - t-001
   global_id: t-189897
   teiginys: "Narbutas rašo, kad miške rastų smurtinės mirties aukų kapai būdavę pridengiami šakelių laužu, kurį kasmet slapta padegdavę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Laužas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Laužas: mention_match, thing, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172780
 
@@ -56,6 +70,20 @@ Nenurodyta
 - t-002
   global_id: t-189898
   teiginys: "Narbutas pateikia vietos padavimą, kad prie Išlaužo esantis šakelių laužas dengęs plėšikų nužudyto svetimšalio palaikus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Laužas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Laužas: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172781
 
@@ -63,13 +91,26 @@ Nenurodyta
 - t-003
   global_id: t-194633
   teiginys: "Lietuviai turėjo paprotį skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje, kur atrado."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177031
-
+    - c-003
 <a id="claim-t-197265"></a>
 - t-004
   global_id: t-197265
   teiginys: "Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai kuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179094
 
@@ -77,6 +118,12 @@ Nenurodyta
 - t-005
   global_id: t-197266
   teiginys: "Erazmas Ste la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina, kad laidojimo apeigų tvarka buvo labai senas, šventas daly kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu vių genties tautos."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172781
 
@@ -98,8 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194633
 ## Citatos
 
 - id: c-172780
@@ -117,12 +163,12 @@ Nenurodyta
     gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
     turi rūpestingai užmesti ant jo kokią nors šakelę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189897
-
 - id: c-172781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -138,13 +184,13 @@ Nenurodyta
     būti jokio pasilinksminimo, o samdytos raudotojos privalėjo
     nuolat verkti apraudodamos mirusiojo atminimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189898
     - t-197266
-
 - id: c-177031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -158,14 +204,21 @@ Nenurodyta
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
     gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
     apeigų paprotį, kiekviena tauta kitonišką.
-  citata_rodoma: "Romėnai\ntą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį\nskenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,\nkur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai\npasitaikydavo miške, kapą pridengia laužu iš kokių nors me­\ndžių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;\nsako, kad tai būdavo daroma niekam nematant."
+  citata_rodoma: |
+    Romėnai
+    tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
+    skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,
+    kur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai
+    pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
+    džių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;
+    sako, kad tai būdavo daroma niekam nematant.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194633
-
 - id: c-179094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -183,6 +236,7 @@ Nenurodyta
     kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
     vių genties tautos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

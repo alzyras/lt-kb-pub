@@ -41,8 +41,25 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
 - t-001
   global_id: t-186222
   teiginys: "Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jurga (pasienio seniūnas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurga (pasienio seniūnas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susietas su Jurga ir pagrįstas citatos duomenimis."
   pagrindžia:
     - c-169583
+    - c-001
 - susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams.
 - susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
 ## Reikšmingi paminėjimai
@@ -78,8 +95,7 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186222
 ## Citatos
 
 - id: c-169583
@@ -106,8 +122,31 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
     kalaujant sugrąžinti Podolę, o lenkams ne mažiau įnir­
     tingai priešinantis, seimas išsivažinėjo ne tik nieko ne­
     nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
-  citata_rodoma: "Štai todėl, norėdamas išvengti gink­\nluotų susidūrimų, jis sušaukė Naugarduke seimą ir pats\nnuvyko į Lietuvą.\n1449 m ela i\nKol valdovas rūpinosi lie-\nS k ila i\nn io k o ja\nPo-\ntuvių seimo reikalais, skitai\ndo ]ę\nsurengė niokojamą žygį į tą\nPodolės dalį, kurią valdė len­\nkai, degindami ir žudydami, kas pakliuvo po ranka, ta­\nčiau neliesdami kaimyninės Braclavo žemės, nors nio­\nkotojams bei grobikams ji buvo tiesiog ranka pasiekia­\nma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus\ngausių dovanų, išpirko lietuviams priklausomas valdas\nnuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš\nnaujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl\nPodolės nuniokojimo, kad nesą jokių abejonių, jog ne\nbe karaliaus žinios lietuviai sukurstė skitus prieš len­\nkus, nes jis mat nepritarė nė vienam jų sumanymui."
+  citata_rodoma: |
+    Štai todėl, norėdamas išvengti gink­
+    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
+    nuvyko į Lietuvą.
+    1449 m ela i
+    Kol valdovas rūpinosi lie-
+    S k ila i
+    n io k o ja
+    Po-
+    tuvių seimo reikalais, skitai
+    do ]ę
+    surengė niokojamą žygį į tą
+    Podolės dalį, kurią valdė len­
+    kai, degindami ir žudydami, kas pakliuvo po ranka, ta­
+    čiau neliesdami kaimyninės Braclavo žemės, nors nio­
+    kotojams bei grobikams ji buvo tiesiog ranka pasiekia­
+    ma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus
+    gausių dovanų, išpirko lietuviams priklausomas valdas
+    nuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš
+    naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl
+    Podolės nuniokojimo, kad nesą jokių abejonių, jog ne
+    be karaliaus žinios lietuviai sukurstė skitus prieš len­
+    kus, nes jis mat nepritarė nė vienam jų sumanymui.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,6 +42,20 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
 - t-001
   global_id: t-186020
   teiginys: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.57"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vasiljevičius (Maskvos valdovas) puolė Lietuva (0.57)"
   pagrindžia:
     - c-169381
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
@@ -117,13 +131,11 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
     tų: vienus jėga užgrobė, kiti
     patys pasidavė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169381
@@ -149,12 +161,12 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
     d a s
     apie smulkesnius išpuolius.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186020
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Vasiljevičius (Maskvos valdovas) buvo valdovas [[objektai/vietos/Maskva]]

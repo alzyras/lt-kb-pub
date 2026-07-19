@@ -33,6 +33,17 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - t-001
   global_id: t-40546
   teiginys: "Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Herberšteinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Herberšteinas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44582
 
@@ -40,6 +51,16 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - t-002
   global_id: t-40547
   teiginys: "Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zigmantas Herberšteinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Herberšteinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44581
 - susijęs iš [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus.md#claim-t-41473|apsuptą nusivaryti iki pat Maskvos kaip galvijus]]: Čeliadninas teigė, kad Maskvos pajėgos gali Lietuvos kariuomenę įveikti arba apsuptą nusivaryti iki Maskvos kaip galvijus.
@@ -64,14 +85,23 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     stojo viena prieš kitą, Ostrogiškis savo re-
     zervą išdėstė už miško taip, kad priešas jo
     nepastebėtų.
-  citata_rodoma: "Apie tai ga-\nlima spręsti iš arogantiškų Čeliadnino žo-\ndžių, kuriuos perteikia vėliau mūšį aprašęs\ndiplomatas Zigmantas Herberšteinas, pa-\nsakytų, kai rusų vadas įsakė leisti persikelti\nvisai Lietuvos kariuomenei. Kariuomenės\nstojo viena prieš kitą, Ostrogiškis savo re-\nzervą išdėstė už miško taip, kad priešas jo\nnepastebėtų."
+  citata_rodoma: |
+    Apie tai ga-
+    lima spręsti iš arogantiškų Čeliadnino žo-
+    džių, kuriuos perteikia vėliau mūšį aprašęs
+    diplomatas Zigmantas Herberšteinas, pa-
+    sakytų, kai rusų vadas įsakė leisti persikelti
+    visai Lietuvos kariuomenei. Kariuomenės
+    stojo viena prieš kitą, Ostrogiškis savo re-
+    zervą išdėstė už miško taip, kad priešas jo
+    nepastebėtų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40547
-
 - id: c-44582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -86,8 +116,16 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     galėtų pulti ir sutriuškinti šią kariuomenės dalį. O anas atsakė: „Jei šią dalį kariuomenės
     sunaikinsime, išliks kita dalis, prie kurios galbūt galės prisijungti kitos pajėgos, ir dėl to
     mums grės didesnis pavojus. Palaukime tol, kol persikels visa kariuomenė.
-  citata_rodoma: "Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado\nČeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-\nmenė jau keliasi per Dniepro upę:\n\n„Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą, Ivanui Andrejevičiui\nČeliadninui, kuriam Maskvėnas buvo pavedęs aukščiausią vadovavimą, pranešama, kad\ngalėtų pulti ir sutriuškinti šią kariuomenės dalį."
+  citata_rodoma: |
+    Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado
+    Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-
+    menė jau keliasi per Dniepro upę:
+
+    „Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą, Ivanui Andrejevičiui
+    Čeliadninui, kuriam Maskvėnas buvo pavedęs aukščiausią vadovavimą, pranešama, kad
+    galėtų pulti ir sutriuškinti šią kariuomenės dalį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,8 +33,24 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
 - t-001
   global_id: t-192871
   teiginys: "Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "prekiavo_su -> Masilija: 0.69"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Galija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Masilija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Prekių gabenimas per Galiją į Masiliją tiesiogiai sieja šias vietas prekybos maršrutu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Galija prekiavo su Masilija (0.69)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175641
+    - c-001
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
 - susijęs iš Ammianus Marcellinus, Res gestae: Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.
 - susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
@@ -62,8 +78,7 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192871
 ## Citatos
 
 - id: c-175641
@@ -85,8 +100,16 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
     Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
     poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
     barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: "Siaurės sagose daug žinių apie\njurų keliautojus, nuo senų amžių garsėjusius savo drąsiais\nžygiais. Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv."
+  citata_rodoma: |
+    Siaurės sagose daug žinių apie
+    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
+    žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
+    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
+    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
+    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
+    kuris ėjo pro šv.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

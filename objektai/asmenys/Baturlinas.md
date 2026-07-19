@@ -33,6 +33,21 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
 - t-001
   global_id: t-191255
   teiginys: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Bogončavas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bogončavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo budinų užimtas Bogončavo apylinkes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Budinai gyveno Voluika (0.80); Budinai gyveno Bogončavas (0.80); Gelonai gyveno Belskas (0.78)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174137
 
@@ -58,6 +73,7 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
     tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
     nės, Tambovo ir Penzos gubernijose.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

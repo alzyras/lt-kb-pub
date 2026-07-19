@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-114162
   teiginys: "1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Aleksandras Jogailaitis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė „savo malūną“ rodo, kad malūnas priklausė karaliui Aleksandrui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Malūnas priklausė Aleksandras Jogailaitis (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-105319
 
@@ -48,6 +62,17 @@ media_all_json: |-
 - t-002
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Borisovas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Borisovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totorių pajėgos užėmė Borisovas (0.97); Totorių pajėgos puolė Lietuva (0.95); Totorių pajėgos užėmė Vilnius (0.95); Totorių pajėgos užėmė Trakai (0.95)"
   pagrindžia:
     - c-167165
 
@@ -55,8 +80,22 @@ media_all_json: |-
 - t-004
   global_id: t-184934
   teiginys: "Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Borisovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Borisovas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168295
+    - c-003
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
 - susijęs iš [[objektai/autoriai/Eustachijus Tiškevičius.md#claim-t-191564|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
@@ -107,8 +146,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184934
 ## Citatos
 
 - id: c-105319
@@ -136,14 +174,27 @@ media_all_json: |-
     taip netvirtus bernardinų pastatų
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
+  citata_rodoma: |
+    51
+    Karalius Aleksandras savo sprendi­
+    mu, datuotu Borisove 1500 m. (feria
+    quinta in octava Visitationis Beatae
+    Virginis Mariae - ketvirtadienį Švč.
+    Mergelės Marijos Apsilankymo ok­
+    tavoje), bernardinų prašymu, prie
+    vienuolyno esantį savo malūną įsa­
+    ko nugriauti, kadangi šis dėl drebė­
+    jimo malimo metu išjudino jau ir
+    taip netvirtus bernardinų pastatų
+    pamatus, o sklvpą, kuriame malū­
+    nas stovėjo, atiduoda vienuolynui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114162
-
 - id: c-167165
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,12 +234,12 @@ media_all_json: |-
 
     priversdamas priešą badauti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114163
-
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -217,13 +268,25 @@ media_all_json: |-
     vaikais ir visomis brangenybėmis, pats, kurį metą už­
     trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
     savuosius.
-  citata_rodoma: "Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius."
+  citata_rodoma: |
+    Ga­
+    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
+    kis tūkstančius algininkų bei didikų kariaunas ir ka­
+    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
+    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
+    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
+    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
+    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
+    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
+    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
+    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
+    kiojo karalius.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184934
-
 ## Ryšiai
 - Užėmė Borisovą: [[objektai/grupes/Totorių pajėgos]]

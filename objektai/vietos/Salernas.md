@@ -40,6 +40,17 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 - t-001
   global_id: t-58767
   teiginys: "Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Salernas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Salernas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Hermano iš Zalcos mirties vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė Salernas (0.98); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas Barleta (0.96)"
   pagrindžia:
     - c-59399
 - susijęs iš Barleta: Didysis magistras Hermanas iš Zalcos mirė Salerne, o buvo palaidotas Ordino koplyčioje Barletos mieste.
@@ -57,14 +68,19 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
     pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
     Adrijos pakrantė).
 
-    jam nusivylimą? Tikrai ne. Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
-  citata_rodoma: "158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į\npietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,\nAdrijos pakrantė).\n\njam nusivylimą?"
+    jam nusivylimą?
+  citata_rodoma: |
+    158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į
+    pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
+    Adrijos pakrantė).
+
+    jam nusivylimą?
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58767
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

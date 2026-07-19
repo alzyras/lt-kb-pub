@@ -34,6 +34,17 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - t-001
   global_id: t-100285
   teiginys: "Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> SSRS: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Lietuviai gyveno SSRS (0.78)"
   pagrindžia:
     - c-94127
 
@@ -41,6 +52,9 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - t-002
   global_id: t-100286
   teiginys: "SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-94127
 
@@ -48,6 +62,10 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - t-003
   global_id: t-100287
   teiginys: "Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
   pagrindžia:
     - c-94129
 
@@ -66,15 +84,19 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     dvasioje. Ten varomoji lietuviška kultūrinė veikla tėra tiktai
     priemonė komunizmui skleisti ir agituoti prieš tautišką nepri-
     klausomąją Lietuvą.
-  citata_rodoma: "Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten\nsparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-\nmieno ir auklėjami tautiškumui priešingoje — komunistiškoje\ndvasioje."
+  citata_rodoma: |
+    Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten
+    sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-
+    mieno ir auklėjami tautiškumui priešingoje — komunistiškoje
+    dvasioje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-100285
     - t-100286
-
 - id: c-94129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -89,8 +111,11 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
     o prisišliejo prie kitų ir dirbo kitų naudai ir garbei. Daugumas
     jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams
     jau gresia rimtas pavojus nutausti.
-  citata_rodoma: "Daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams\njau gresia rimtas pavojus nutausti."
+  citata_rodoma: |
+    Daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams
+    jau gresia rimtas pavojus nutausti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

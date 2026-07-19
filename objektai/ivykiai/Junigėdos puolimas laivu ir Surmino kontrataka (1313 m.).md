@@ -56,6 +56,19 @@ Nenurodyta
 - t-001
   global_id: t-31423
   teiginys: "1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Surminas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytenis tiesiogiai siunčia Surminą atlikti karinės užduoties; „paskyre“ tiksliausiai perteikia pavedimą asmeniui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis paskyrė Surminas (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1313 m.; įvykio data: 1315 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33398
 
@@ -74,8 +87,14 @@ Nenurodyta
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m. rugpiū­
     čio mėn.
-  citata_rodoma: "Kai 1313 m. kry­\nžiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »\natplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,\nlietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su\n100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m."
+  citata_rodoma: |
+    Kai 1313 m. kry­
+    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
+    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
+    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
+    100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,8 +33,16 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
 - t-001
   global_id: t-189334
   teiginys: "Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsias ir nemarias mergeles."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172221
+    - c-001
 - susijęs iš [[objektai/zodynas/Žemės motina Sutektas mejtas.md#claim-t-189363|Žemės motina Sutektas mejtas]]: Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusią žemės viduryje, o Sutektas mejtas vadina jos nemariomis patarnautojomis.
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,8 +63,7 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189334
 ## Citatos
 
 - id: c-172221
@@ -77,8 +84,17 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
     los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
     miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
     žirbos iš nepaprasta liepsna užsidegusio kamino.
-  citata_rodoma: "Žemės motina (Žemines Mahti)\nPožemio deivė, gyvenusi žemės viduryje. Jeigu kas nors\nnumesta ant žemės arba pamesta, jos galia sugrąžinti to pra­\nšantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­\ntas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­\ndavo savo malonę, leisdama toms mergelėms per naktį nu­\ndirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų\nviską gatava."
+  citata_rodoma: |
+    Žemės motina (Žemines Mahti)
+    Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
+    numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
+    šantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­
+    tas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­
+    davo savo malonę, leisdama toms mergelėms per naktį nu­
+    dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
+    viską gatava.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

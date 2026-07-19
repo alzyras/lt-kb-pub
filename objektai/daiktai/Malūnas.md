@@ -53,6 +53,17 @@ Nenurodyta
 - t-001
   global_id: t-35536
   teiginys: "Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas sutartyje pasižadėjo ginti Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas gynė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.78)"
   pagrindžia:
     - c-38219
 - susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
@@ -145,13 +156,19 @@ Nenurodyta
     Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
-  citata_rodoma: "Sekančiais metais Vytautas su kryžiuočių diplomatais su­\nvažiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.\nOrdinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu\npasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi\nsutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors\nVyt."
+  citata_rodoma: |
+    Sekančiais metais Vytautas su kryžiuočių diplomatais su­
+    važiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.
+    Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu
+    pasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi
+    sutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors
+    Vyt.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35536
-
 ## Ryšiai
 - Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]]

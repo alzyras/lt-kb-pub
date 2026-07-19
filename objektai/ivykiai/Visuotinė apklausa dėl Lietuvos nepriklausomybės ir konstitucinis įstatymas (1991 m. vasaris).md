@@ -55,6 +55,16 @@ Nenurodyta
 - t-001
   global_id: t-77911
   teiginys: "Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75227
 
@@ -76,8 +86,19 @@ Nenurodyta
     247
     visuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc.
     turinčiųjų teisę balsuoti, iš kurių net 90 proc. balsavo „Taip“.
-  citata_rodoma: "Tačiau, nors karo veiksmai prieš Lietuvą ir buvo \npristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo \nLietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.\nSausio 13-osios aukų laidotuvės tapo nepriklausomybės siekio bei \ntautos ir valdžios vienybės viršūne. Po Sausio 13-osios įvykių Lietuvoje \n5 dienas nebuvo įregistruota nė vieno kriminalinio nusikaltimo, o vasario\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n247\nvisuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc."
+  citata_rodoma: |
+    Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
+    pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo
+    Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.
+    Sausio 13-osios aukų laidotuvės tapo nepriklausomybės siekio bei
+    tautos ir valdžios vienybės viršūne. Po Sausio 13-osios įvykių Lietuvoje
+    5 dienas nebuvo įregistruota nė vieno kriminalinio nusikaltimo, o vasario
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    247
+    visuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

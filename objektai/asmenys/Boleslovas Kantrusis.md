@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus nelaimę, pasiuntė į Parusnį pasiuntinius Vaitiekaus kūnui išpirkti.
+Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį.
 
 ## Teiginiai
 
 <a id="claim-t-201416"></a>
 - t-001
   global_id: t-201416
-  teiginys: "Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus nelaimę, pasiuntė į Parusnį pasiuntinius Vaitiekaus kūnui išpirkti."
+  teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184766
 
 ## Citatos
 
 - id: c-184766
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 139"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­
@@ -51,6 +56,7 @@ Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus nela
     tinius į Parusnį. Bet netikėliai norėjo pagal smagu­
     mą kūno sidabro gauti lygų luitą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

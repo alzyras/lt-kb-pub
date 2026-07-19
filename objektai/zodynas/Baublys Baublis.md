@@ -32,6 +32,20 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 - t-001
   global_id: t-189218
   teiginys: "Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį ąžuolo, laikyto pranašaujančiu, pavadinimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> D. Poškos Baublys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Baublys Baublis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "D. Poškos Baublys: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baublys Baublis\" parinktas kaip owner_note_path. Targetas \"D. Poškos Baublys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172106
 
@@ -39,9 +53,16 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 - t-002
   global_id: t-189219
   teiginys: "Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172107
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus.'
@@ -58,8 +79,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189219
 ## Citatos
 
 - id: c-172106
@@ -77,12 +97,12 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
     baubimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189218
-
 - id: c-172107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -97,8 +117,14 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
     nojo nuo seniausių laikų.
-  citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
+  citata_rodoma: |
+    Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
+    kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
+    mus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose
+    medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
+    Baubliu (Baublis)Ąi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

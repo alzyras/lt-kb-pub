@@ -61,6 +61,13 @@ Nenurodyta
 - t-001
   global_id: t-193819
   teiginys: "Kai dar lenkų kariuomenė traukėsi spaudžiama bolševikų, o lietuviai atsiiminėjo žemes, Lietuvos karinės ir politinės savanorių buvo demobilizuota ir nors dar 1919 m. kovo mėnesį buvo pradėtas privalomas šaukimas į Lietuvos kariuomenę, ji nebuvo Lenkijos."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
   pagrindžia:
     - c-176463
 
@@ -85,6 +92,7 @@ Nenurodyta
 
     202 AUGUSTAVO-SUVALKŲ OPERACIJA liepa-rugsėjis 1920 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,13 +40,26 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
 - t-001
   global_id: t-192815
   teiginys: "Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175585
-
+    - c-001
 <a id="claim-t-197870"></a>
 - t-002
   global_id: t-197870
   teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179373
 - susijęs iš Pagudė: Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras.
@@ -67,13 +80,34 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
     Elbliongo, šiandien esančio per mylią.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-192815
+- c-002
+  santrauka: 'Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Pietuose, Christ-
+    347
 
+    ## Puslapis 358
+
+    burgo link, jis tęsėsi irgi toliau. Buvo laikai, kai jo van­
+    denys skalavo Baumgarto kaimą; dar 1290 metais pats
+    Christburgas buvo prie pat ežero, o šiandien jis nutolęs
+    net penkias mylias. Be to, jis buvo nepalyginti platesnis,
+    nes vakarų pusėje plytėjo net iki Tirgarteno kaimo, o ry­
+    tų — Holando kalvos priėjo netoli jo pakrančių; visa tai
+    patvirtina rašytiniai duomenys ir vietiniai stebėjimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 ## Citatos
 
 - id: c-175585
@@ -98,14 +132,24 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
     šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
     Elbliongo, šiandien esančio per mylią.
-  citata_rodoma: "Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius. Drūsinės, arba Druso, ežeras\nvadinamas šitaip nuo žodžio Druskas, druska, todėl, kad\nkitados jis susisiekdavo didesniais sąsiauriais su jūra;\ntaigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­\nlyginti didesnis ir užėmė didesnę šios provincijos dalį: į\nšiaurę jis tyvuliavo gerokai toliau — net iki dabartinio\nElbliongo, šiandien esančio per mylią."
+  citata_rodoma: |
+    Tai pa­
+    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
+    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
+    vo gamybos blizgučius. Drūsinės, arba Druso, ežeras
+    vadinamas šitaip nuo žodžio Druskas, druska, todėl, kad
+    kitados jis susisiekdavo didesniais sąsiauriais su jūra;
+    taigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­
+    lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
+    šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
+    Elbliongo, šiandien esančio per mylią.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192815
-
 - id: c-179373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -118,6 +162,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     nės upę (arba Sorge) net iki Osos, taigi Christburgo ir
     Rizenburgo valsčiai dar priklausė šiai provincijai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

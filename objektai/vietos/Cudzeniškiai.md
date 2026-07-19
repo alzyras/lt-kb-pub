@@ -39,6 +39,19 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - t-001
   global_id: t-86063
   teiginys: "1396 m. Vilniuje surašyta privilegija Vytautas dovanojo Vilniaus katedros kapitulai Cudzeniškių valdą prie Medininkų pilies."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Cudzeniškiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cudzeniškiai\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys gramatiškai stringa, bet citata palaiko aiškų perrašymą."
   pagrindžia:
     - c-82042
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176085|Vilniaus kapitula]]: 1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies.
@@ -66,8 +79,18 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     55
     Stryjkowski, p. 466, Kromer,
     Lib.
-  citata_rodoma: "Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis \npriimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­\nkydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­\nbių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų \ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, \ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p."
+  citata_rodoma: |
+    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
+    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
+    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
+    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -62,6 +62,16 @@ Nenurodyta
 - t-001
   global_id: t-66810
   teiginys: "Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gelvonai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabaisko mūšis (1435 m. rugsėjo 1 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gelvonai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaisko mūšis (1435 m. rugsėjo 1 d.)\" parinktas kaip owner_note_path. Targetas \"Gelvonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13100
 
@@ -69,6 +79,20 @@ Nenurodyta
 - t-002
   global_id: t-66811
   teiginys: "Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Pabaisko mūšis (1435 m. rugsėjo 1 d.): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pabaisko mūšis (1435 m. rugsėjo 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Livonijos ordinas dalyvavo Pabaisko mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonijos ordinas dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja pilietinį karą, mūšį ir jo padarinį."
   pagrindžia:
     - c-13104
 
@@ -76,6 +100,19 @@ Nenurodyta
 - t-003
   global_id: t-66812
   teiginys: "1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Pabaisko mūšis (1435 m. rugsėjo 1 d.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaisko mūšis (1435 m. rugsėjo 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Švitrigaila tiesiogiai įvardytas kaip mūšyje sumuštos pusės vadas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švitrigaila dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.90)"
+  temporaliniai_duomenys: "mūšio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-43098
 
@@ -83,6 +120,17 @@ Nenurodyta
 - t-004
   global_id: t-66813
   teiginys: "Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Pabaisko mūšis (1435 m. rugsėjo 1 d.): 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pabaisko mūšis (1435 m. rugsėjo 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Lenkai tiesiogiai minimi kaip kariuomenės dalis mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.89); Lenkai dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.89); Švitrigaila dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.86); Totoriai dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.84); Rusėnai dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.84)"
   pagrindžia:
     - c-13101
 
@@ -90,6 +138,17 @@ Nenurodyta
 - t-005
   global_id: t-66814
   teiginys: "Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Pabaisko mūšis (1435 m. rugsėjo 1 d.): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kerskorfas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaisko mūšis (1435 m. rugsėjo 1 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Kerskorfas tiesiogiai žuvo Pabaisko mūšyje, todėl buvo jo dalyvis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kerskorfas dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.93); Livonijos ordinas dalyvavo mūšyje Pabaisko mūšis (1435 m. rugsėjo 1 d.) (0.87)"
   pagrindžia:
     - c-43099
 
@@ -97,6 +156,20 @@ Nenurodyta
 - t-006
   global_id: t-66815
   teiginys: "Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Pabaiskas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tinkamo bažnyčios objekto nėra, bet citata nurodo, kad Žygimantas Kęstutaitis pastatė bažnyčią Pabaiske."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) pastatė Pabaiskas (0.72)"
+  temporaliniai_duomenys: "pastatymo data: 1436-1440; pastatymo data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir paremtas citata."
   pagrindžia:
     - c-43100
 
@@ -132,12 +205,12 @@ Nenurodyta
     perskelta pusiau. Mūšis pareikalavo dau-
     gelio aukų. Pagaliau, nežiūrint viršijančių
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66810
-
 - id: c-13101
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -155,12 +228,12 @@ Nenurodyta
     apie tai sužinoję lietuviai greitai juos be
     kovos paėmė į nelaisvę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66813
-
 - id: c-13104
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,12 +243,12 @@ Nenurodyta
     pasibaigusį 1435 m. Pabaisko mūšiu. Buvo visiškai susilpnintas
     ir jame dalyvavęs vis dar Lietuvai grasinęs Livonijos ordinas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66811
-
 - id: c-43098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -186,12 +259,12 @@ Nenurodyta
     gaikščiui Mykolui; jie sumušė kunigaikštį Švitrigailą bei visas jo pajėgas ir paėmė nelais- |
     vėn arba nukovė daugelį kunigaikščių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66812
-
 - id: c-43099
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -213,12 +286,12 @@ Nenurodyta
     Tanenbergo- Žalgirio kautynėmis. Tai buvo
     „Žalgiris“ Livonijos ordinui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66814
-
 - id: c-43100
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -234,11 +307,11 @@ Nenurodyta
     1440 m.), kuri daug kartų perstatyta ir
     šiandien tebestovi Pabaiske.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66815
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]

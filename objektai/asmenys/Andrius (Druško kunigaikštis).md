@@ -42,6 +42,19 @@ media_all_json: |-
 - t-001
   global_id: t-87622
   teiginys: "Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Andrius (Druško kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrius (Druško kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-83601
 
@@ -78,8 +91,32 @@ media_all_json: |-
     pačia teise ir sąlygomis, kaip ją val­
     dė Druško kunigaikščio Andriaus
     sūnūs ].
-  citata_rodoma: "3-oji privilegija rašyta \nTrakuose, datuota 1411 m., kuria di­\ndysis kunigaikštis Vytautas, atsi­\nliepdamas į vyskupo Mikalojaus ir \nVilniaus kapitulos pareiškimus \nmainais už dvasininkijos Vechatnicos \nkaimą Volkovisko paviete, esantį \nkapitulai netinkamoje vietovėje, \nduoda jai: Vilias seu haereditates \nnostras Mileykozvo et Moranonnikoni- \nce nuncupatas in districtu Creuensi \n(powiat Krewski) sitas, haereditates \nque Blusza in flumine Swisłocz et di­\nstrictu Swisłocen, eo modo et jure quo \nipsam filii Andreani Ducis de Druszsko \ntenuerunt, etc. [kaimus, arba mums \npriklausančius, vadinamus Mileika- \nvu ir Moranonikovičiais, Krėvos \nvalsčiuje esančius, ir Blušą prie Svis- \nločės upės Svisločės valsčiuje tokia \npačia teise ir sąlygomis, kaip ją val­\ndė Druško kunigaikščio Andriaus \nsūnūs ]."
+  citata_rodoma: |
+    3-oji privilegija rašyta
+    Trakuose, datuota 1411 m., kuria di­
+    dysis kunigaikštis Vytautas, atsi­
+    liepdamas į vyskupo Mikalojaus ir
+    Vilniaus kapitulos pareiškimus
+    mainais už dvasininkijos Vechatnicos
+    kaimą Volkovisko paviete, esantį
+    kapitulai netinkamoje vietovėje,
+    duoda jai: Vilias seu haereditates
+    nostras Mileykozvo et Moranonnikoni-
+    ce nuncupatas in districtu Creuensi
+    (powiat Krewski) sitas, haereditates
+    que Blusza in flumine Swisłocz et di­
+    strictu Swisłocen, eo modo et jure quo
+    ipsam filii Andreani Ducis de Druszsko
+    tenuerunt, etc. [kaimus, arba mums
+    priklausančius, vadinamus Mileika-
+    vu ir Moranonikovičiais, Krėvos
+    valsčiuje esančius, ir Blušą prie Svis-
+    ločės upės Svisločės valsčiuje tokia
+    pačia teise ir sąlygomis, kaip ją val­
+    dė Druško kunigaikščio Andriaus
+    sūnūs ].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

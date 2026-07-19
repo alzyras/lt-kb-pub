@@ -51,6 +51,13 @@ Nenurodyta
 - t-001
   global_id: t-196226
   teiginys: "Polockiečiams pasiekus Gorodecą, Mingaila juos užpuolė, privertė bėgti iš kovos lauko ir stovyklos, o paskui patraukė prie Polocko sienų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178587
 
@@ -58,6 +65,13 @@ Nenurodyta
 - t-002
   global_id: t-196227
   teiginys: "Kojelavičiaus pasakojime Mingaila tais pačiais metais po pergalės mirė, palikęs įpėdiniais Skirmantą ir Ginvilą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178588
 
@@ -80,12 +94,12 @@ Nenurodyta
     pergalingą kariuomenę atvedė prie Polocko sienų, kur
     pabėgę priešai buvo perkėlę karo veiksmus.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196226
-
 - id: c-178588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -103,6 +117,7 @@ Nenurodyta
     kai — tuo metu nebūtų nukreipęs rusų dėmesio ir jėgų
     nuo minčių apie žygį į Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

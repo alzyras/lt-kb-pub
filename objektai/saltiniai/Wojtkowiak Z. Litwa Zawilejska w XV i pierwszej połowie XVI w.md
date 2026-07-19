@@ -38,9 +38,22 @@ Dusburgietis teigia, kad wojtkowiak Z.
 - t-001
   global_id: t-61370
   teiginys: "Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1980 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą apie leidinį."
   pagrindžia:
     - c-62002
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m.'
@@ -53,8 +66,7 @@ Dusburgietis teigia, kad wojtkowiak Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61370
 ## Citatos
 
 - id: c-62002
@@ -66,8 +78,10 @@ Dusburgietis teigia, kad wojtkowiak Z.
     Baltistica, 1980, 16(1), р. 19—24.
     Пашуто В. Т. Помезания: «Помезанская правда» как исторический источник
     изучения общественного и политического строя Помезании XIII—XIV вв.
-  citata_rodoma: "Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980."
+  citata_rodoma: |
+    Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-08344
   teiginys: "Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10298
 
@@ -67,9 +71,12 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Dešimtasis trobesys vadinos ublas^246 , taip vadinamas smalos pečius, kuriame dervą, arba
-        smalą ir degutą degė.
-  citata_rodoma: "Dešimtasis trobesys vadinos ublas^246 , taip vadinamas smalos pečius, kuriame dervą, arba\nsmalą ir degutą degė."
+    smalą ir degutą degė.
+  citata_rodoma: |
+    Dešimtasis trobesys vadinos ublas^246 , taip vadinamas smalos pečius, kuriame dervą, arba
+    smalą ir degutą degė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

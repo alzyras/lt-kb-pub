@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "./quartz/util/contentPaths"
 
 /**
  * Quartz 4 Configuration
@@ -43,8 +44,7 @@ const config: QuartzConfig = {
       "templates",
       "tyrimai/auditai",
       "tyrimai/auditai/**",
-      "objektai/autoriai/Дельбрюк Г.md",
-      "objektai/saltiniai/Полное собрание русских летописей.md",
+      ...INTENTIONAL_IGNORED_OBJECT_PAGES,
     ],
     defaultDateType: "created",
     theme: {
@@ -108,11 +108,13 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
+      Plugin.HomeCollectionData(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.GraphExplorerPage(),
       Plugin.ObjectGalleryPage(),
+      Plugin.ExhibitionPages(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

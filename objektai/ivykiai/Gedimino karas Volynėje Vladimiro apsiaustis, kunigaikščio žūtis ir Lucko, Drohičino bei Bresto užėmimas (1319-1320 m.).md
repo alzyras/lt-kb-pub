@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185504
   teiginys: "Gediminas pirmąjį smūgį Volynės pasienyje nukreipė į Vladimirą ir apsupo kunigaikščio Vladimiro sostinę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168865
 
@@ -80,8 +93,17 @@ Nenurodyta
     kitais suartėję; lietuviai jau pradėjo krikti, nes skitai,
     įprastinėmis užuolankomis puldami sparnus, nuolatos
     ardė eiles, neleisdami sudaryti pastovios rikiuotės.
-  citata_rodoma: "Pir­\nmąjį smūgį jis nukreipė į Volynės pasienį: apsupo \nVladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­\ntą atkakliai puolė iš visų pusių, vis dėlto miestiečiai \natrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo \nmetu su savo krašto kariuomene ir atėjusiais į pagal­\nbą skitais atvyko Vladimiras, ketindamas nuvaryti prie­\nšą nuo sienų."
+  citata_rodoma: |
+    Pir­
+    mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
+    Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
+    tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
+    atrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo
+    metu su savo krašto kariuomene ir atėjusiais į pagal­
+    bą skitais atvyko Vladimiras, ketindamas nuvaryti prie­
+    šą nuo sienų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

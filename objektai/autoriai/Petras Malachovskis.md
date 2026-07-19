@@ -41,6 +41,23 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 - t-002
   global_id: t-191616
   teiginys: "Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Herbai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Malachovskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Herbai: mention_match, thing, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Malachovskis\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1780 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas, paliekant Narbuto pastabos kontekstą ir leidinio identifikaciją. Nepridėta platesnių duomenų apie veikalo turinį."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174498
 
@@ -48,9 +65,13 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 - t-001
   global_id: t-191615
   teiginys: 'Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Malachovskio rinkinyje minimą žinią apie Gedimino suteiktą herbą. Nepridėta neaiškaus šaltinio pagrindo, kurį pats tekstas pažymi kaip neapibrėžtą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-174497
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
@@ -67,13 +88,12 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
     suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191615
 ## Citatos
 
 - id: c-174498
@@ -90,6 +110,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
     nazwisk szlachty z opisem herbow wiasnych, familjom zostającym
     w Krolestvvie Polskiem i w. ks. Lit,ewskiem. Luck, 1780.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

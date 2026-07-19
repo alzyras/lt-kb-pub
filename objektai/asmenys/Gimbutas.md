@@ -42,6 +42,20 @@ media_all_json: |-
 - t-001
   global_id: t-200697
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gimbutas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gimbutas\" parinktas kaip owner_note_path. Targetas \"Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184045
 - susijęs iš [[objektai/asmenys/Gimbutas (Starodubo pateisėjininkaitis, XVIII a.).md#claim-t-200525|Gimbutas (Starodubo pateisėjininkaitis, XVIII a.)]]: Gimbutas buvo Starodubo pateisėjininkaitis.
@@ -71,6 +85,7 @@ media_all_json: |-
     pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]. Tais
     pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega.
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

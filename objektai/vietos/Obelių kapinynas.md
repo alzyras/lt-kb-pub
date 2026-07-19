@@ -39,9 +39,23 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
 - t-001
   global_id: t-188937
   teiginys: "Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Obelių kapinynas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Obelių kapinynas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171826
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.'
@@ -61,8 +75,7 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188937
 ## Citatos
 
 - id: c-171826
@@ -81,8 +94,17 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
     ostrzu 2 i cwierc, miąžszosč przy dziurce jeden i avierč
     cali, dziurka z jedney strony 9, z dnigiey 7 linij ma w
     šrednicy, wnętrze jej do poloni wygladzone) (PE.
-  citata_rodoma: "Vėliau T. Narbutas šią informaciją įdėjo į vadina­\nmuosius „Mažesniuosius istorijos raštus“ (Pomniej-\nsze pisma historyczne szczegolnie do historyi Lit-\nwy odnoszące się. -  Wilno, 1852. -  S. 222-224).\nObelių kapinyno radiniai užėmė vieną garbingiau­\nsių vietų Šaurų dvaro muziejuje ([Narbutl T.] Spi-\nsanie Muzeum w Szavvrach. -  L. 2 (nr. 3); -  L. 3\n(nr. 29, 31)."
+  citata_rodoma: |
+    Vėliau T. Narbutas šią informaciją įdėjo į vadina­
+    muosius „Mažesniuosius istorijos raštus“ (Pomniej-
+    sze pisma historyczne szczegolnie do historyi Lit-
+    wy odnoszące się. -  Wilno, 1852. -  S. 222-224).
+    Obelių kapinyno radiniai užėmė vieną garbingiau­
+    sių vietų Šaurų dvaro muziejuje ([Narbutl T.] Spi-
+    sanie Muzeum w Szavvrach. -  L. 2 (nr. 3); -  L. 3
+    (nr. 29, 31).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

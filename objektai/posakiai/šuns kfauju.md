@@ -52,6 +52,18 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 - t-001
   global_id: t-186885
   teiginys: "Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_vaizdinys"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "šuns kfauju: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"šuns kfauju\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170071
 
@@ -59,6 +71,21 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 - t-002
   global_id: t-186886
   teiginys: "Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_vaizdinys"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "šuns kfauju: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"šuns kfauju\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektu padarytas pats posakis, o Bychovco kronikos formuluotė palikta su komentarui priskirta atribucija. Nepridėta platesnio vertinimo, nei leidžia citata."
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170072
 
@@ -81,14 +108,18 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     išgalabyti, o mužikus — šuns kraują — iškelti" paro­
     dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
     nedorybių.
-  citata_rodoma: "Tariamas siekimas „visą bajorų luomą kruvinai \nišgalabyti, o mužikus — šuns kraują — iškelti\" paro­\ndytas kaip viena iš baisiausių Žygimanto Kęstutaičio \nnedorybių."
+  citata_rodoma: |
+    Tariamas siekimas „visą bajorų luomą kruvinai
+    išgalabyti, o mužikus — šuns kraują — iškelti" paro­
+    dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
+    nedorybių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186885
-
 - id: c-170072
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -108,8 +139,16 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
     kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
     gumi.
-  citata_rodoma: "Valstiečiai originaliajame Bychovco kronikos teks­\nte vadinami „šuns kfauju\", bet nėra ko stebėtis, prisi­\nminus, kad toje pačioje kronikoje feodalas Droždža, \nLietuvos did. kunigaikščio Aleksandro favorito kuni­\ngaikščio Mykolo Glinskio giminaitis, valdęs didžiojo \nkunigaikščio valsčius ir pilis, vadinamas „prastu\" žmo­\ngumi."
+  citata_rodoma: |
+    Valstiečiai originaliajame Bychovco kronikos teks­
+    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
+    minus, kad toje pačioje kronikoje feodalas Droždža,
+    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
+    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
+    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
+    gumi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

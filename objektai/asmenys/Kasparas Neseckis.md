@@ -33,6 +33,11 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
 - t-001
   global_id: t-191212
   teiginys: 'Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako, ką Neseckis žinojo apie Krunevičiaus vardu vadintą herbą. Nepapildyta Malachovskio pasakojimu apie Gedimino suteikimą, nes tai nėra tiesioginis teiginys apie Neseckį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-174094
 
@@ -54,8 +59,9 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
     suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191212

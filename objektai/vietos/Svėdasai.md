@@ -33,6 +33,17 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - t-001
   global_id: t-42174
   teiginys: "Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Svėdasai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Svėdasai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Sierakauskas keliavo į Svėdasai (0.88)"
   pagrindžia:
     - c-45350
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
@@ -70,13 +81,23 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     niais išskubėjo Svėdasų kryptimi.
 
     suteikdama jam pulkininko laipsnį.
-  citata_rodoma: "Norėdamas atitraukti\nrusų kariuomenės dėmėsi nuo pagrin-\ndinių sukilėlių dalinių, Z. Sierakauskas\nišsiuntė Kasperą Maleckį su 150 karių\nardyti geležinkelio komunikacijas\nir rinkti duomenis apie priešo judė-\njimą, o pats su savo pagrindiniais dali-\nniais išskubėjo Svėdasų kryptimi.\n\nsuteikdama jam pulkininko laipsnį."
+  citata_rodoma: |
+    Norėdamas atitraukti
+    rusų kariuomenės dėmėsi nuo pagrin-
+    dinių sukilėlių dalinių, Z. Sierakauskas
+    išsiuntė Kasperą Maleckį su 150 karių
+    ardyti geležinkelio komunikacijas
+    ir rinkti duomenis apie priešo judė-
+    jimą, o pats su savo pagrindiniais dali-
+    niais išskubėjo Svėdasų kryptimi.
+
+    suteikdama jam pulkininko laipsnį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42174
-
 ## Ryšiai
 - Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

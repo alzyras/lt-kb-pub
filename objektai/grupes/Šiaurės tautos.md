@@ -33,6 +33,13 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 - t-001
   global_id: t-194795
   teiginys: "To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177191
 
@@ -40,6 +47,12 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 - t-002
   global_id: t-197227
   teiginys: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie tuvių genties tautos žinojo trizną."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177191
 
@@ -65,6 +78,7 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
     Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
     tuvių genties tautos žinojo trizną.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

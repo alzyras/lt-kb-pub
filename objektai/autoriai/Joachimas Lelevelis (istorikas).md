@@ -43,6 +43,17 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - t-001
   global_id: t-63305
   teiginys: "Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto."
+  atnaujinta: "2026-05-30 14:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Joachimas Lelevelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Joachimas Lelevelis (istorikas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Joachimas Lelevelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joachimas Lelevelis (istorikas)\" parinktas kaip owner_note_path. Targetas \"Joachimas Lelevelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-64343
 
@@ -50,6 +61,17 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - t-002
   global_id: t-63306
   teiginys: "Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų."
+  atnaujinta: "2026-05-30 14:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Joachimas Lelevelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Joachimas Lelevelis (istorikas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Joachimas Lelevelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joachimas Lelevelis (istorikas)\" parinktas kaip owner_note_path. Targetas \"Joachimas Lelevelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-64344
 
@@ -57,6 +79,20 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - t-003
   global_id: t-188409
   teiginys: "Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Joachimas Lelevelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Joachimas Lelevelis (istorikas): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Joachimas Lelevelis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joachimas Lelevelis (istorikas)\" parinktas kaip owner_note_path. Targetas \"Joachimas Lelevelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171299
 
@@ -64,13 +100,26 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - t-004
   global_id: t-194662
   teiginys: "18 Lelevelio senovės geografijos tyrimai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177059
-
+    - c-004
 <a id="claim-t-197303"></a>
 - t-005
   global_id: t-197303
   teiginys: "Joachimas Lelevelis pasidaro šiek tiek didesnė."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179115
 
@@ -91,8 +140,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194662
 ## Citatos
 
 - id: c-64343
@@ -108,14 +156,19 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
+  citata_rodoma: |
+    Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63305
-
 - id: c-64344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,14 +190,27 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     zefas Frankas (Joseph Frank) – jų
     darbai buvo žinomi tarptautiniu
     mastu.
-  citata_rodoma: "Universi-\ntete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-\nlewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),\nchemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-\ndvigas Heinrichas Bojanus (Lu-\ndwig Heinrich Bojanus) ir Edu-\nardas Karolis Eichvaldas (Edward\nKarol Eichwald), iš Austrijos at-\nvykę Johanas Pėteris Frankas (Jo-\nhann Peter Frank) ir jo sūnus Jo-\nzefas Frankas (Joseph Frank) – jų\ndarbai buvo žinomi tarptautiniu\nmastu."
+  citata_rodoma: |
+    Universi-
+    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
+    lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
+    chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
+    dvigas Heinrichas Bojanus (Lu-
+    dwig Heinrich Bojanus) ir Edu-
+    ardas Karolis Eichvaldas (Edward
+    Karol Eichwald), iš Austrijos at-
+    vykę Johanas Pėteris Frankas (Jo-
+    hann Peter Frank) ir jo sūnus Jo-
+    zefas Frankas (Joseph Frank) – jų
+    darbai buvo žinomi tarptautiniu
+    mastu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63306
-
 - id: c-171299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -160,12 +226,12 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188409
-
 - id: c-177059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -179,14 +245,20 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     šiu arba išsikraustydavo iš proto. Bet penktoji deivė - Sargė (Sar-
     gietoje) - tai pastebėjusi, anoms trims primindavo jų priedermes
     ir sergėdavo žmonių likimus.
-  citata_rodoma: "Ši deivė savo reikšme visiškai tapati romėnų žinomam die­\nvaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo\npaprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­\nkirtimo vietoje.\n18 Lelevelio senovės geografijos tyrimai*.\n19 Kunigo Sirvydo žodynas."
+  citata_rodoma: |
+    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
+    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
+    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
+    kirtimo vietoje.
+    18 Lelevelio senovės geografijos tyrimai*.
+    19 Kunigo Sirvydo žodynas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194662
-
 - id: c-179115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -202,6 +274,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     las tuojau nutrūksta, žvaigždė krenta, gęsta ore, ir žmogus mirš­
     ta.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

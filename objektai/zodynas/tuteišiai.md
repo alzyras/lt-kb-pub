@@ -57,6 +57,18 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-001
   global_id: t-45859
   teiginys: "Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tuteišiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tuteišiai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1819 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-26891
 
@@ -64,10 +76,19 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-002
   global_id: t-45860
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "tuteišiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tuteišiai\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48525
     - c-26787
-
 ## Citatos
 
 - id: c-26787
@@ -84,6 +105,7 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
     ponus bei kunigus, ir rusų valdžios atstovus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,12 +125,12 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
     laikant save tiesiog čiabuviais (tuteišiais).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45859
-
 - id: c-48525
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,8 +144,16 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
     įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
     tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
-  citata_rodoma: "Bet rytiniai ir pietrytiniai šio ploto pakraš-\nčiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) \nprocesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, \nlaikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-\ntiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius \nponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas \nįgis XIX a."
+  citata_rodoma: |
+    Bet rytiniai ir pietrytiniai šio ploto pakraš-
+    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
+    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
+    laikant save tiesiog čiabuviais (tuteišiais). Mat baltarusių šnekta pragma-
+    tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
+    ponus bei kunigus, ir rusų valdžios atstovus. Didesnį pagreitį šis procesas
+    įgis XIX a.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

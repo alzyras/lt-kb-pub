@@ -55,10 +55,42 @@ Nenurodyta
 - t-002
   global_id: t-194629
   teiginys: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama pavasarį, kai tik nutirpsta sniegas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177027
-
+    - c-002
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Deivės Pergrubės garbinimas ne tik buvo bendras dauge­
+    133
+
+    ## Puslapis 133
+
+    liui tautų, gyvenusių Lietuvos kaimynystėje, bet ir labai išgar­
+    sėjęs tiek tarp pačių Lietuvos gyventojų, tiek ir tolesnėse vals­
+    tybėse. Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
+    kiekvienas savitai.
+    Senovės germanai ją vadino H erta, tai yra Motina žeme.
+    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
+    čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
+    gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
+    ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
+    čios Agenda.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 - c-002
   santrauka: 'Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama pavasarį, kai tik nutirpsta sniegas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,13 +101,12 @@ Nenurodyta
     vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
     kas panašaus, aišku, buvo ir Pergrubė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194629
 ## Citatos
 
 - id: c-177027
@@ -90,8 +121,14 @@ Nenurodyta
     pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
     kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
     kais (Mildawnikas).
-  citata_rodoma: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama\npavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė."
+  citata_rodoma: |
+    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
+    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
+    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
+    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
+    kas panašaus, aišku, buvo ir Pergrubė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

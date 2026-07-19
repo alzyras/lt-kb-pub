@@ -48,6 +48,20 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 - t-001
   global_id: t-63303
   teiginys: "Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą."
+  atnaujinta: "2026-05-30 14:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> NATO: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "NATO: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuva tapo NATO valstybių šeimos nare."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuva priklausė NATO (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-64342
 
@@ -73,8 +87,16 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio\nreikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus\nuniversiteto Tarptautinių santykių ir politikos mokslų instituto moks-\nlininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-\nfesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),\nprašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-\njais grįstą Lietuvos istorijos veikalą."
+  citata_rodoma: |
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

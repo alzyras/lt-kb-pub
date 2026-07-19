@@ -32,6 +32,9 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
 - t-001
   global_id: t-78844
   teiginys: "LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75982
 
@@ -46,6 +49,7 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
     p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.
     p. 224, „PARTIZANŲ ĮVAIZDIS“, Daumantas J., p. 98.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

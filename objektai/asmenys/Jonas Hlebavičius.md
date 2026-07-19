@@ -44,6 +44,19 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-001
   global_id: t-87391
   teiginys: "Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Hlebavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Hlebavičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1542 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko pareigas, datą ir dalyvavimą, bet pradinė formuluotė nutrūkusi."
   pagrindžia:
     - c-83371
 
@@ -51,6 +64,19 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-002
   global_id: t-87393
   teiginys: "Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Hlebavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Hlebavičius\" parinktas kaip owner_note_path. Targetas \"Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia dokumento datą ir Hlebavičiaus pareigybes."
   pagrindžia:
     - c-83372
 
@@ -58,6 +84,19 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-003
   global_id: t-87394
   teiginys: "Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Hlebavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): mention_match, person, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Hlebavičius\" parinktas kaip owner_note_path. Targetas \"Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1580 m.; įvykio data: apie 1580 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko globą ir laiką, o pradinė formuluotė yra triukšminga sąrašo dalis."
   pagrindžia:
     - c-83370
 - susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86890|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.
@@ -82,12 +121,12 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     pirkliai, kaip karaliaus įsakymo lau­
     žytojai, būtų nubausti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87394
-
 - id: c-83371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -121,12 +160,12 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
     Sigismundus Augustus Dei gratia Rex Poloniae, Magnus
     Dux Lituaniae, Russiae, Prussiae, Masoviae, Samogitiae, etc.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87391
-
 - id: c-83372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,8 +202,39 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 
     VILNIAUS MIESTO ISTORIJA// TOMAS
     In Ckristi nomine Amen.
-  citata_rodoma: "— • —\n423\n\n## Puslapis 440\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nDievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­\ntuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio \ntryliktą dieną.\n(pasirašyta) Stephanus Rex\n[Karalius Steponas]\n(prikabintas antspaudas) Jonas Hlebavičius\n- Dubrovnoje Minsko\nkaštelionas, krašto \npaiždininkis ir raštininkas\n424\n\n## Puslapis 441\n\nIV KNYGA\nVYSKUPO SEMINARIJOS JSTEIGIMAS \nIŠ VYSKUPŲ STALO DVARO, \nVADINAMO VOZGĖLIŠKĖMIS\n1582 METAI\n(Kapitulos archyvas)\n\n## Puslapis 442\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIn Ckristi nomine Amen."
+  citata_rodoma: |
+    — • —
+    423
+
+    ## Puslapis 440
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
+    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
+    tryliktą dieną.
+    (pasirašyta) Stephanus Rex
+    [Karalius Steponas]
+    (prikabintas antspaudas) Jonas Hlebavičius
+    - Dubrovnoje Minsko
+    kaštelionas, krašto
+    paiždininkis ir raštininkas
+    424
+
+    ## Puslapis 441
+
+    IV KNYGA
+    VYSKUPO SEMINARIJOS JSTEIGIMAS
+    IŠ VYSKUPŲ STALO DVARO,
+    VADINAMO VOZGĖLIŠKĖMIS
+    1582 METAI
+    (Kapitulos archyvas)
+
+    ## Puslapis 442
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    In Ckristi nomine Amen.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

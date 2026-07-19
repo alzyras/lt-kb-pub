@@ -61,14 +61,33 @@ Nenurodyta
 - t-001
   global_id: t-54334
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
+  atnaujinta: "2026-05-31 17:11"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)\" parinktas kaip owner_note_path. Targetas \"Romuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-55200
     - c-166723
-
 <a id="claim-t-54335"></a>
 - t-002
   global_id: t-54335
   teiginys: "Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-55201
 
@@ -76,6 +95,16 @@ Nenurodyta
 - t-003
   global_id: t-54336
   teiginys: "Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-55201
 
@@ -91,14 +120,19 @@ Nenurodyta
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: "Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties \n(Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių \nsąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su \nLietuvoje išplitusiais Aukuro kalnais ir akmenimis."
+  citata_rodoma: |
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
+    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
+    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54334
-
 - id: c-55201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,15 +143,20 @@ Nenurodyta
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: "Iš mūsų pagonių valdovų laikysenos \ngalima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-\ngi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo \ninstitucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti \nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
+  citata_rodoma: |
+    Iš mūsų pagonių valdovų laikysenos
+    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
+    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
+    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54335
     - t-54336
-
 - id: c-166723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,6 +168,7 @@ Nenurodyta
     Lietuvos giria iš A. Grottgerio piešinių ciklo
     „Litwa“, 1864–1866 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

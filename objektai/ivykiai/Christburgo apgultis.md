@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Christburgo apgulties metu nauja kariauna apsupo pilį, o lietuviai Sirgūnėje nuskandino valtis, kuriomis įgula gaudavo maisto.
+Kryžėjai ta pergale nepalengvino įgulės Christburgo, kaipogi kita nauja kariauna apgulė pilį, ku rioje dėl didžios daugybės svieto, tenai sulindusio, rados baisus badas, kurie po truputėlį tegaudami mitalo per Draudžiu ežerą maitinos, tuo tarpu lie tuviai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201279"></a>
 - t-001
   global_id: t-201279
-  teiginys: "Christburgo apgulties metu nauja kariauna apsupo pilį, o lietuviai Sirgūnėje nuskandino valtis, kuriomis įgula gaudavo maisto."
+  teiginys: "Kryžėjai ta pergale nepalengvino įgulės Christburgo, kaipogi kita nauja kariauna apgulė pilį, ku rioje dėl didžios daugybės svieto, tenai sulindusio, rados baisus badas, kurie po truputėlį tegaudami mitalo per Draudžiu ežerą maitinos, tuo tarpu lie tuviai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184629
 
 ## Citatos
 
 - id: c-184629
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 418"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 418."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Panokę jį ties upe Gurbe miegantį
     be sargties, antpuolę staiga išmušė mažne lig pas-
@@ -66,6 +71,7 @@ Nenurodyta
     Rados paskui badas taip didis pilė j, jog dienos vie­
     nos meldžionys nebgalėjo beišsiturėti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

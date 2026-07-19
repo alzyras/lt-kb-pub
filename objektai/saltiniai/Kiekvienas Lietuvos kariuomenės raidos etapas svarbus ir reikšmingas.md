@@ -38,6 +38,18 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
 - t-001
   global_id: t-41542
   teiginys: "2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 2010 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44999
 
@@ -52,8 +64,11 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
     kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
     p. 262, „SAVANORIO LAIŠKAS“ [nepublikuota; laiško nuorašas iš Alberto Daugirdo
     asmeninio archyvo].
-  citata_rodoma: "p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos\nkariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15."
+  citata_rodoma: |
+    p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lietuvos
+    kariuomenės raidos etapas svarbus ir reikšmingas // Krašto apsauga, 2010, Nr. 8 (183), p. 15.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

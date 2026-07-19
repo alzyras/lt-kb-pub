@@ -43,21 +43,58 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - t-001
   global_id: t-71615
   teiginys: "DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija Užsienio Lietuviams Remti (DULR): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Rūpinimasis užsienio lietuvių švietimu yra tiesioginė paramos lietuviams forma."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Draugija Užsienio Lietuviams Remti (DULR) rėmė Lietuviai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-46274
 
-<a id="claim-t-71616"></a>
+<a id="claim-t-71618"></a>
 - t-002
-  global_id: t-71616
+  global_id: t-71618
   teiginys: "DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija Užsienio Lietuviams Remti (DULR): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo DULR paramą užsienio lietuvių draugijoms."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Draugija Užsienio Lietuviams Remti (DULR) rėmė Lietuviai (0.86)"
   pagrindžia:
-    - c-46278
     - c-46275
-
+    - c-46278
 <a id="claim-t-71617"></a>
 - t-003
   global_id: t-71617
   teiginys: "DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija Užsienio Lietuviams Remti (DULR): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje DULR tikslas tiesiogiai apibrėžtas kaip užsienyje gyvenančių lietuvių rėmimas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Draugija Užsienio Lietuviams Remti (DULR) rėmė Lietuviai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1932 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-46273
 
@@ -65,6 +102,21 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - t-004
   global_id: t-182887
   teiginys: "DULR rūpinosi lietuviškų mokyklų steigimu, mokytojų parūpinimu išeivių mokykloms ir knygų siuntimu bibliotekoms."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draugija Užsienio Lietuviams Remti (DULR): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "DULR veikla nukreipta į užsienio lietuvių švietimo rėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Draugija Užsienio Lietuviams Remti (DULR) rėmė Lietuviai (0.84)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-166291
 
@@ -72,6 +124,12 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - t-005
   global_id: t-193089
   teiginys: "Nepaprastai didelę reikšmę užsienio lietuviams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46276
 
@@ -89,14 +147,18 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
     ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
     nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
-  citata_rodoma: "Rūpindamasi, kad kraštas palaikytų su išeiviais kuo\nartimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių\nekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-\nnizacijas, padeda susitikti sportininkams ir pasirodyti menininkams."
+  citata_rodoma: |
+    Rūpindamasi, kad kraštas palaikytų su išeiviais kuo
+    artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
+    ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
+    nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71617
-
 - id: c-46274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,14 +169,17 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: "Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi\nlietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,\nsiunčia išeivių bibliotekoms knygų ir vadovėlių."
+  citata_rodoma: |
+    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
+    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
+    siunčia išeivių bibliotekoms knygų ir vadovėlių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71615
-
 - id: c-46275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,8 +193,14 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
     gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
     lietuvių spaudą raštais.
-  citata_rodoma: "Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos\nlietuviškos organizacijos ir spauda, tai DULR kiek galėdama sten-\ngiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-\ngijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio\nlietuvių spaudą raštais."
+  citata_rodoma: |
+    Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos
+    lietuviškos organizacijos ir spauda, tai DULR kiek galėdama sten-
+    giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
+    gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
+    lietuvių spaudą raštais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -146,12 +217,12 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     maldas arba net suorganizuotų savas lietuviškas parapijas. Ji taip
     pat rūpinasi, kad lietuviai turėtų ir savų lietuviškų maldaknygių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193089
-
 - id: c-46278
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,12 +235,12 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     lietuvių spaudą raštais. Nepaprastai didelę reikšmę užsienio lietu-
     viams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71616
-
+    - t-71618
 - id: c-166291
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -185,11 +256,11 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
     gijas ir spaudą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182887
-
 ## Ryšiai
 - Draugija Užsienio Lietuviams Remti (DULR) rėmė [[objektai/grupes/Lietuviai]]

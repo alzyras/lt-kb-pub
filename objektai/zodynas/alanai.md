@@ -33,6 +33,19 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
 - t-001
   global_id: t-185378
   teiginys: "Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "alanai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"alanai\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168739
 
@@ -40,8 +53,22 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
 - t-002
   global_id: t-185379
   teiginys: "Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "alanai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"alanai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168740
+    - c-002
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
 ## Reikšmingi paminėjimai
 - c-002
@@ -69,8 +96,7 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185379
 ## Citatos
 
 - id: c-168739
@@ -92,12 +118,12 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
     noliai atkakliai tvirtina: ateivių italų esą buvę penki
     šimtai kilmingųjų.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185378
-
 - id: c-168740
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,8 +151,24 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
     trukus ateiviai ir vietiniai gyventojai visiškai susivie­
     nijo: abi tautos panoro turėti bendrą valstybę, o lie­
     tuviai patys netgi sutiko pasiduoti ateivių valdžiai.
-  citata_rodoma: "Toji sodyba, tada vadinama R om a n o va , paskui\nRomnove bei Romove, vėliau tapo vyriausiojo lietuvių\nžynio Krivės Krivaičio būstine, kurią, Gediminui vieš-\npataujaut, iš pamatų išgriovė vokiečių ordino vienuo­\nliai riteriai, paprastai vadinami kryžiuočiais. Gerokai\npasistūmėję tolyn, jie persikėlė per Nevėžio upę ir\nnusigavo į vietas, kur gyveno alanai, arba lietuviai.\nTen, negaišdami pasidarę įtvirtinimus, įkurdino juose\n60\n\n## Puslapis 59\n\nįgulas, kurios galėtų sėkmingai atremti vietinius gy­\nventojus, jeigu šie kartais susimanytų pulti naujuosius\nateivius."
+  citata_rodoma: |
+    Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
+    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
+    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+    Ten, negaišdami pasidarę įtvirtinimus, įkurdino juose
+    60
+
+    ## Puslapis 59
+
+    įgulas, kurios galėtų sėkmingai atremti vietinius gy­
+    ventojus, jeigu šie kartais susimanytų pulti naujuosius
+    ateivius.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

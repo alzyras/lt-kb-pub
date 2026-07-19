@@ -39,9 +39,27 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
 - t-001
   global_id: t-191805
   teiginys: "Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Kuršas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ketleris tiesiogiai įvardytas Kuršo kunigaikščiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ketleris buvo valdovas Kuršas (0.94)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1605 m.; valdymo laikotarpis: apie 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris buvo valdovas Kuršas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išskleidžia rankraščio kalbą, mūšio datą ir jame minimą Angeširų apskrities detalę. Palikta Narbuto atribucija, nes cituojama jo turėto rankraščio informacija."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174687
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.'
@@ -68,8 +86,7 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191805
 ## Citatos
 
 - id: c-174687
@@ -91,8 +108,24 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
     rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
     Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.
-  citata_rodoma: "278\n\n## Puslapis 289\n\nkęs prie kanalo, kuris ir dabar jungia ežerą su jūra. Tu­\nriu po ranka lotynų kalba parašytą rankraštį apie mūšį,\nįvykusį 1605 metų rugsėjo 27 dieną, kuriame yra tokia\ndetalė: kai Kuršo kunigaikštis Ketleris atvyko pagelbėti\nChodkevičiui, tarp Kuršo bajorų savanorių, išvardytų\nten valsčiais, buvo ir 85 riteriai iš Angeširų apskrities1.\nVisa tai rodo, kad minėtų agazirų žemė buvusi prie En-\ngūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­\nvių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,\nkuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje\nsu gelonais ir budinais (§ 268)."
+  citata_rodoma: |
+    278
+
+    ## Puslapis 289
+
+    kęs prie kanalo, kuris ir dabar jungia ežerą su jūra. Tu­
+    riu po ranka lotynų kalba parašytą rankraštį apie mūšį,
+    įvykusį 1605 metų rugsėjo 27 dieną, kuriame yra tokia
+    detalė: kai Kuršo kunigaikštis Ketleris atvyko pagelbėti
+    Chodkevičiui, tarp Kuršo bajorų savanorių, išvardytų
+    ten valsčiais, buvo ir 85 riteriai iš Angeširų apskrities1.
+    Visa tai rodo, kad minėtų agazirų žemė buvusi prie En-
+    gūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­
+    vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,
+    kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje
+    su gelonais ir budinais (§ 268).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

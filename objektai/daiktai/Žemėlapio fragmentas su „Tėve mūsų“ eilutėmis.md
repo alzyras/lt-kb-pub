@@ -61,6 +61,20 @@ Nenurodyta
 - t-001
   global_id: t-75350
   teiginys: "1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Niurnbergas: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Niurnbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos antraštė nurodo žemėlapio fragmento leidimo arba pateikimo vietą Niurnbergą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis priklausė Niurnbergas (0.61)"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi puslapio triukšmo, o citata palaiko sutvarkytą faktą apie objektą."
   pagrindžia:
     - c-73154
 
@@ -79,6 +93,7 @@ Nenurodyta
     Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
     Niurnbergas, 1741 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

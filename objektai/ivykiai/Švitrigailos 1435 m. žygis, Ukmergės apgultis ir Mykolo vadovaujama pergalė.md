@@ -51,13 +51,29 @@ Nenurodyta
 - t-001
   global_id: t-185516
   teiginys: "1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citata."
   pagrindžia:
     - c-178616
-
+    - c-168877
 <a id="claim-t-196298"></a>
 - t-002
   global_id: t-196298
   teiginys: "1435 m. Švitrigaila po pirmo antpuolio užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178616
 
@@ -87,9 +103,32 @@ Nenurodyta
     A p s u p a U k m e r g ę
     kėjosi.
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185516
     - t-196298
+- id: c-168877
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 453."
+  citata_originali: |
+    Vladislovui ro-
+    1435 m e ta i
+    dėsi, jog būtų ne pro šalį
+    valdymo pradžioje sutramdy­
+    ti Boleslovą, pagarsėti sėkmingais karo žygiais ir įvaryti
+    baimės kitiems priešams. Todėl pasiuntė į Lietuvą pasi­
+    žymėjusį karvedį Jokūbą iš Kobylianų su aštuoniais
+    tūkstančiais lenkų. Boleslovas, jau po pirmo antpuolio
+    užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir
+    priartėjo su kariuomene prie Ukmergės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185516

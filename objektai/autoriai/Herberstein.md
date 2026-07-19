@@ -32,6 +32,9 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 - t-001
   global_id: t-30638
   teiginys: "Herbersteino XVI a. žinios, kad Žemaičiuose tebuvę vartojami mediniai arklų noragai, laikomos netiksliomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32945
 
@@ -49,8 +52,12 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
     žiniu noragu. XVI amž. žinios (Herberstein, Guagnini, Lasicius),
     jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra
     tikslios.
-  citata_rodoma: "XVI amž. žinios (Herberstein, Guagnini, Lasicius),\njog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra\ntikslios."
+  citata_rodoma: |
+    XVI amž. žinios (Herberstein, Guagnini, Lasicius),
+    jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra
+    tikslios.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

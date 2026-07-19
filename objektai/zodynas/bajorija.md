@@ -34,6 +34,13 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - t-001
   global_id: t-193290
   teiginys: "Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-176018
 - susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200582|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą.
@@ -54,6 +61,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
     niuoju visuomenės sluoksniu, arba bajorija. Be jų, buvo
     dar kitų, žemesnių sluoksnių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

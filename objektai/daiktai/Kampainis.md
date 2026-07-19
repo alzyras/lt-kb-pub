@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-189723
   teiginys: 'Masonų organizacijose kampainis simbolizavo sąžinę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į patį kampainį, o ne į visą taurės ikonografijos sąrašą. Palikta tik citatos tiesiogiai remiama simbolinė reikšmė.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-172606
 - susijęs iš [[objektai/daiktai/Akacijos šakelė.md#claim-t-189716|Akacijos šakelė]]: Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.
@@ -83,8 +88,9 @@ Nenurodyta
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
     čiausiąjį protą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189723

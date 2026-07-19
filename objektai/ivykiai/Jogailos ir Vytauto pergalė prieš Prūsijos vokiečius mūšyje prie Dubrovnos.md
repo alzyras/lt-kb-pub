@@ -62,6 +62,12 @@ Nenurodyta
 - t-006
   global_id: t-193851
   teiginys: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176491
 
@@ -69,6 +75,13 @@ Nenurodyta
 - t-007
   global_id: t-196785
   teiginys: "Lietuvos metraštis vaizduoja, kad po pergalės Jogailos ir Vytauto kariuomenė paėmė dalį vokiečių miestų bei žemių ir grįžo su didžia šlove."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178907
 
@@ -76,37 +89,49 @@ Nenurodyta
 - t-001
   global_id: t-186604
   teiginys: 'Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pataisyta sakinio sandara ir palikta pasakojimo atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubrovna; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
   pagrindžia:
-    - c-169894
-
+    - c-002
 <a id="claim-t-186605"></a>
 - t-002
   global_id: t-186605
   teiginys: 'Lietuvos metraštis pasakoja, kad vokiečiai prie Dubrovnos buvo prikasę duobių ir pridengę jas velėnomis.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Priešo veiksmų vaizdavimas tinkamai atribuuotas šaltiniui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dubrovna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
-    - c-169894
-
+    - c-002
 <a id="claim-t-186606"></a>
 - t-003
   global_id: t-186606
   teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir šaltiniui atribuuotas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-169893
-
+    - c-001
 <a id="claim-t-186607"></a>
 - t-004
   global_id: t-186607
   teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pataisyta klaidinga didžioji raidė ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Dubrovna; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lenkija; llm_object: Lietuva'
   pagrindžia:
-    - c-169893
-
+    - c-001
 <a id="claim-t-193850"></a>
 - t-005
   global_id: t-193850
   teiginys: 'Lietuvos metraštis pasakoja, kad 1412 m. prasidėjo Jogailos ir Lietuvos kunigaikščio Vytauto karas su Prūsijos vokiečiais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Žali OCR antraštės ir lūžiai pakeisti rišliu sakiniu apie karo pradžią. Atribucija palikta, nes kronika vartoja titulą ir chronikinę dataciją.'
   pagrindžia:
-    - c-169894
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -128,14 +153,13 @@ Nenurodyta
     nyčioje, o Vilniuje taip pat švento Stanislovo (ka­
     tedroje) ia.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: saltinio_teiginys
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
-
+    - t-186606
+    - t-186607
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -164,15 +188,14 @@ Nenurodyta
     lauke, ir todėl prikasė duobių ir pridengė velėnomis,
     kad žirgai ir žmonės į jas įgriūtų3 .
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-005
-
+    - t-186604
+    - t-186605
+    - t-193850
 ## Citatos
 
 - id: c-176491
@@ -199,14 +222,22 @@ Nenurodyta
     Ir lenkų, ir lietuvių ponai, tai girdėdami, surašė tokį
     pat susitarimą ir prisiekė savo valdovams, kad, mirus
     m
-  citata_rodoma: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su \nsavo kariuomenėmis perėję per miškus, priėjo tuos \nDubrovnos laukus. Tuo metu Jogailos kariuomenėje \ndidžiuoju etmonu buvo ponas Sokolas Čekas \\  o kiemo \netmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­\nriuomenėje didžiuoju etmonu buvo kunigaikštis Jonas \n2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­\nmonu — ponas Jonas Goštautas9 ."
+  citata_rodoma: |
+    Karalius Jogaila ir didysis kunigaikštis Vytautas, su
+    savo kariuomenėmis perėję per miškus, priėjo tuos
+    Dubrovnos laukus. Tuo metu Jogailos kariuomenėje
+    didžiuoju etmonu buvo ponas Sokolas Čekas \  o kiemo
+    etmonu 5  — ponas Spytka Spytkovičius 6 . O Vytauto ka­
+    riuomenėje didžiuoju etmonu buvo kunigaikštis Jonas
+    2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­
+    monu — ponas Jonas Goštautas9 .
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193851
-
 - id: c-178907
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -227,6 +258,7 @@ Nenurodyta
     nyčioje, o Vilniuje taip pat švento Stanislovo (ka­
     tedroje) ia.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

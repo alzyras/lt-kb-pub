@@ -41,6 +41,11 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 - t-001
   global_id: t-40327
   teiginys: "1991 m. pučo metu Marius Šmitas buvo įamžintas kartu su Pranu Kastecku."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44452
 
@@ -48,6 +53,13 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 - t-002
   global_id: t-40328
   teiginys: "1991 m. nuotraukoje Marius Šmitas vaizduojamas su medžiokliniu šautuvu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata yra nuotraukos antraštės fragmentas, todėl teiginį reikia suformuluoti kaip pilną sakinį."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44452
 
@@ -60,9 +72,13 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   citata_originali: |
     p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
 
-    p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM.
-  citata_rodoma: "p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.\n\np."
+    p.
+  citata_rodoma: |
+    p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
+
+    p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,9 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-195319
   teiginys: "Šaukštas minimas kaip vienas kerdžiaus padirbamų daiktų."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177703
     - c-177704
+    - c-177703
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -74,14 +78,15 @@ Nenurodyta
     o šiems pavalgius — gimines ir kaimynus.
     Valgė mediniais šaukštais,
     įsipildami į baltas lėkštes.
-  citata_rodoma: "Valgė mediniais šaukštais, įsipildami į baltas lėkštes."
+  citata_rodoma: |
+    Valgė mediniais šaukštais, įsipildami į baltas lėkštes.
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195319
-
 - id: c-177704
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -101,8 +106,10 @@ Nenurodyta
     kam sėtuvę iš eglės šaknų,
     narvelį sūriams džiovinti,
     šaukštą, samtį, kaušą, lanktį.
-  citata_rodoma: "Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį..."
+  citata_rodoma: |
+    Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį...
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

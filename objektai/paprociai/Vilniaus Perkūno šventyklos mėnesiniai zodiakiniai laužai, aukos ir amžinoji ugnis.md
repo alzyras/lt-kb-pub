@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-194825
   teiginys: "Kiekvienas laiptas buvo skirtas kuriam nors vienam Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar leisdamasi įžengdavo į tą ženklą, ant tų laiptų buvo uždegami ir aukų aukojimo laužai; taigi aukščiausias laiptas buvo Vė žio, o žemiausias -."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177221
 
@@ -73,6 +80,7 @@ Nenurodyta
     negalėdavo užgesinti ugnies; priešingai, tokiais atvejais lieps­
     nos kildavo dar aukščiau; tikriausiai tai dėl degių medžiagų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

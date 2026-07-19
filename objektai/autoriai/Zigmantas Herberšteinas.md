@@ -33,6 +33,12 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - t-001
   global_id: t-193824
   teiginys: "Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176468
 
@@ -40,6 +46,12 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - t-002
   global_id: t-193825
   teiginys: "Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176469
 
@@ -65,12 +77,12 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
     zervą išdėstė už miško taip, kad priešas jo
     nepastebėtų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193824
-
 - id: c-176469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -97,6 +109,7 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
     Lietuvos kariuomenės nuostoliai buvo
     nežymūs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

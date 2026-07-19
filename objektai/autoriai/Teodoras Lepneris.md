@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoro Lepnerio Mažosios Lietuvos aprašymai buvo vienas iš Daukanto naudotų lietuviškų metraščių pakaitalų.
+Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės.
 
 ## Teiginiai
 
 <a id="claim-t-201432"></a>
 - t-001
   global_id: t-201432
-  teiginys: "Teodoro Lepnerio Mažosios Lietuvos aprašymai buvo vienas iš Daukanto naudotų lietuviškų metraščių pakaitalų."
+  teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184782
 
 ## Citatos
 
 - id: c-184782
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 5"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netrukus Teodoras Narbutas paskelbs ir
     vėlyvąją Lietuvos metraščio redakciją — Bychovco
@@ -53,6 +58,7 @@ Teodoro Lepnerio Mažosios Lietuvos aprašymai buvo vienas iš Daukanto naudotų
     vės istorija", nors vėliau su jos autoriumi per laiš­
     kus nuoširdžiai bendrauta.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

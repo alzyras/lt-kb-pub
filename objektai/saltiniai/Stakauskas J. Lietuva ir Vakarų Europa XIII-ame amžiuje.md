@@ -38,9 +38,22 @@ Dusburgietis teigia, kad stakauskas J.
 - t-001
   global_id: t-61296
   teiginys: "J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61928
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
@@ -53,8 +66,7 @@ Dusburgietis teigia, kad stakauskas J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61296
 ## Citatos
 
 - id: c-61928
@@ -66,8 +78,10 @@ Dusburgietis teigia, kad stakauskas J.
     Батура Р. К. Из проблематики «Хроники земли Прусской» Дусбурга. — Балто-
     славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
     докладов, М, 1983 с.
-  citata_rodoma: "Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934."
+  citata_rodoma: |
+    Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje.—K., 1934.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

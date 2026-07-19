@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-66794
   teiginys: "Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66922
 
@@ -56,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-66795
   teiginys: "Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66921
 
@@ -73,12 +79,12 @@ Nenurodyta
     visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
     niaveckis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66795
-
 - id: c-66922
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -90,8 +96,13 @@ Nenurodyta
     dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
-  citata_rodoma: "Didikai bandė šitą elekciją sutruk-\ndyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų\nvadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-\nveckis tapo karalium."
+  citata_rodoma: |
+    Didikai bandė šitą elekciją sutruk-
+    dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
+    vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
+    veckis tapo karalium.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

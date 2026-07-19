@@ -63,4 +63,3 @@ Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

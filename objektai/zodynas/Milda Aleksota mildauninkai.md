@@ -34,16 +34,44 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
 - t-001
   global_id: t-189311
   teiginys: "Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aleksotas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milda Aleksota mildauninkai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aleksotas: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milda Aleksota mildauninkai\" parinktas kaip owner_note_path. Targetas \"Aleksotas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172198
-
+    - c-001
 <a id="claim-t-189312"></a>
 - t-002
   global_id: t-189312
   teiginys: "Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aleksotas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milda Aleksota mildauninkai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aleksotas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milda Aleksota mildauninkai\" parinktas kaip owner_note_path. Targetas \"Aleksotas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172199
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.'
@@ -63,8 +91,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189311
 - c-002
   santrauka: 'Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -82,8 +109,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189312
 ## Citatos
 
 - id: c-172198
@@ -100,14 +126,22 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     Kaune buvo rastas tos deivės stabas. Šio atradimo smulkme­
     nas man papasakojo gerbiamas profesorius ponas Laurinavi­
     čius.
-  citata_rodoma: "Milda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­\nkose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­\nmai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­\nnos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­\nniai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią\nLietuvos Venerą.\nJai buvo skirtas balandžio mėnuo."
+  citata_rodoma: |
+    Milda (Milda)
+    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
+    kose apie ją nėra nieko konkretaus, vien šiokie tokie spėlioji­
+    mai, tačiau padavimai, pasakojimai ir kai kurios liaudies dai­
+    nos paaiškina tą mitą. Straipsnyje „Kaunis“ bus nurodyti šalti­
+    niai ir įrodymai; čia suminėsime tai, kas tiesiogiai liečia šią
+    Lietuvos Venerą.
+    Jai buvo skirtas balandžio mėnuo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189311
-
 - id: c-172199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -122,8 +156,16 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš
     išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
     kirsti angą ir ją sutvirtinti.
-  citata_rodoma: "O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip\npastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar\nkerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-\nkais (Mildawnikas)."
+  citata_rodoma: |
+    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
+    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
+    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
+    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
+    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
+    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
+    kais (Mildawnikas).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

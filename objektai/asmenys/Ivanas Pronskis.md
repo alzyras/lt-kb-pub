@@ -33,6 +33,16 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 - t-001
   global_id: t-40149
   teiginys: "Ivanas Pronskis buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Pronskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Pronskis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44354
 
@@ -54,8 +64,19 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
     čio dvaro pajėgoms vadovavo Ratajus Ši-
     riajevas. Vyriausias Maskvos kariuomenės
     vadas buvo Ivanas Čeliadninas.
-  citata_rodoma: "bojarinų Grigorijaus Fiodorovičiaus\nDavidovo, Ivano Andrejevičiaus Čelia-\ndnino ir kitų vaivadų, tokių kaip kuni-\ngaikščių Ivano Pronskio, Ivano „Tiomkos“\nRostovskio, Andriejaus Obolenskio, va-\ndovaujamos pajėgos, kurias čia tuo tikslu\npasiuntė Maskvos valdovas Vasilijus 111,\npats likęs Smolenske. Didžiojo kunigaikš-\nčio dvaro pajėgoms vadovavo Ratajus Ši-\nriajevas."
+  citata_rodoma: |
+    bojarinų Grigorijaus Fiodorovičiaus
+    Davidovo, Ivano Andrejevičiaus Čelia-
+    dnino ir kitų vaivadų, tokių kaip kuni-
+    gaikščių Ivano Pronskio, Ivano „Tiomkos“
+    Rostovskio, Andriejaus Obolenskio, va-
+    dovaujamos pajėgos, kurias čia tuo tikslu
+    pasiuntė Maskvos valdovas Vasilijus 111,
+    pats likęs Smolenske. Didžiojo kunigaikš-
+    čio dvaro pajėgoms vadovavo Ratajus Ši-
+    riajevas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

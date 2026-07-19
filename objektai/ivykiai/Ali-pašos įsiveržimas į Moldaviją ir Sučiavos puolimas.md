@@ -63,6 +63,10 @@ Nenurodyta
 - t-001
   global_id: t-186765
   teiginys: 'Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Belgorodas; mentioned_place: Isteris; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mūšio data: 6994 m; mūšio data: 1484 m.; mūšio data: 1485 m.; mūšio data: 1486 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-169970
 
@@ -70,6 +74,10 @@ Nenurodyta
 - t-002
   global_id: t-186766
   teiginys: 'Redakcinė pastaba nurodo, kad Steponui būnant Kolomyjoje Ali-pašos vadovaujama kariuomenė giliai įsiveržė į Moldaviją.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kolomyja; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-169969
 
@@ -77,6 +85,10 @@ Nenurodyta
 - t-003
   global_id: t-186767
   teiginys: 'Redakcinė pastaba nurodo, kad 1485 m. rugsėjo 19–20 d. buvo puolama Moldavijos sostinė Sučiava.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Moldavija; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-169969
 
@@ -98,13 +110,13 @@ Nenurodyta
     čiavų.
   citata_rodoma: "”  Iš tikrųjų ne pats sultonas, o jo vietininkas Balkanuose \nAll-paša, kurio vadovaujam a Turkijos kariuomenė, M oldavijos vai­\nvadai Steponui būnant Kolomyjoje. giliai įsiveržė j M oldavija Ir \n1485 m. rugsėjo 1 9 -2 0  d. puolė pačių Moldavijos sostine — Su- \nčiavų."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
-
+    - t-186766
+    - t-186767
 - id: c-169970
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -121,8 +133,9 @@ Nenurodyta
     j M oldaviją 1485 m. vasarą.
   citata_rodoma: "1 6  6994 m.— 1486 m. Iš tikrųjų galimi tik 1485 m., jeigu toliau \nturim as galvoje turkų sultono vietininko Rumelijoje Ali-pašos žygis \nj M oldaviją 1485 m. vasarą."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186765

@@ -32,6 +32,16 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
 - t-001
   global_id: t-21302
   teiginys: "Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verslas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verslas\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24002
 
@@ -49,8 +59,10 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     žurnalistų, 32 dirbo prekyboje, 23 proc. pramonėje ir amatuose. Ketvir-
     tajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
     verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
-  citata_rodoma: "verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“."
+  citata_rodoma: |
+    verslininkai laikraštyje „Verslas“ – atvirai kėlė šūkį „Lietuva lietuviams“.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

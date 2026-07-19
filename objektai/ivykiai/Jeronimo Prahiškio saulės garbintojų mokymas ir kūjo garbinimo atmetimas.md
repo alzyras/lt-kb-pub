@@ -45,9 +45,23 @@ Nenurodyta
 - t-001
   global_id: t-189625
   teiginys: "Narbutas pasakoja, kad keliaudamas Jeronimas Prahiškis rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimo Prahiškio saulės garbintojų mokymas ir kūjo garbinimo atmetimas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172508
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad keliaudamas Jeronimas Prahiškis rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.'
@@ -70,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189625
 ## Citatos
 
 - id: c-172508
@@ -92,8 +105,20 @@ Nenurodyta
     dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
     guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
     protėvių tikėjimo.
-  citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
+  citata_rodoma: |
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

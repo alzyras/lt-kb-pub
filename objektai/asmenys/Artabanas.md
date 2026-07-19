@@ -34,6 +34,12 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
 - t-001
   global_id: t-191254
   teiginys: 'Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas Artabano veiksmas ir Darijaus žygio kontekstas. Priešiško krašto apibūdinimas paliktas su Narbuto ir Herodoto atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Darijus|Darijus]]; mentioned_group: [[objektai/grupes/Persai|Persai]]; llm_object: [[objektai/asmenys/Darijus|Darijus]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Artabanas|Artabanas]] buvo brolis [[objektai/asmenys/Darijus|Darijus]]'
   pagrindžia:
     - c-174136
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191008|Darijaus žygis prieš skitus]]: Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą.
@@ -63,8 +69,9 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
     žiniškos Darijaus kariuomenės buvo neįmanoma apsau­
     goti nuo milžiniškų nuostolių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191254

@@ -38,6 +38,13 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
 - t-001
   global_id: t-200742
   teiginys: "Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė straipsnį „Towards the Cultural History of Alcohol in France“."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184087
 
@@ -52,6 +59,7 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
     Brennan Thomas 1989. “Towards the Cultural History of Alcohol in France”, Journal of Social History,
     vol. 23, No. 1, p. 71–92.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

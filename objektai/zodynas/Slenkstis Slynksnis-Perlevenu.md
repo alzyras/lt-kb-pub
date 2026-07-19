@@ -33,13 +33,41 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
 - t-001
   global_id: t-189179
   teiginys: "Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kazokai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slenkstis Slynksnis-Perlevenu: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kazokai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slenkstis Slynksnis-Perlevenu\" parinktas kaip owner_note_path. Targetas \"Kazokai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172067
-
+    - c-001
 <a id="claim-t-189180"></a>
 - t-002
   global_id: t-189180
   teiginys: "Narbutas rašo, kad Slynksniui-Perlevenu vieta būdavusi skiriama virš slenksčio arba virš prieangio durų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slenkstis Slynksnis-Perlevenu: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slenkstis Slynksnis-Perlevenu\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172068
 
@@ -62,8 +90,7 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189179
 ## Citatos
 
 - id: c-172067
@@ -78,14 +105,22 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
     kalmukus (jie turėtų būti mongolų palikuonys), bet vis dėlto ne tokį
     ryškų, kaip tat matome buvus pas senovės lietuvius (Potocki J. Podrož
     doAstrahanu // Dziennik Wilenski.
-  citata_rodoma: "Slynksnis-Perlevenu (Slynxnis-Perlewenu)\nBendras namų dievaitis, namų ir žemdirbio nuosavybės glo­\nbėjas. 2\n2\nUkrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo\ntėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.\nStrijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių\nkalba Kūnas reiškia kūną, mėsą."
+  citata_rodoma: |
+    Slynksnis-Perlevenu (Slynxnis-Perlewenu)
+    Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
+    bėjas. 2
+    2
+    Ukrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo
+    tėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.
+    Strijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių
+    kalba Kūnas reiškia kūną, mėsą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189179
-
 - id: c-172068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -104,6 +139,7 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
     kas laikoma Dievo įžeidimu3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

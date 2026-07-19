@@ -33,9 +33,16 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
 - t-001
   global_id: t-188992
   teiginys: "Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171881
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu.'
@@ -55,8 +62,7 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188992
 ## Citatos
 
 - id: c-171881
@@ -73,8 +79,17 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
     Lazdona (Lazdona)
     Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
     vien tik lazdynus.
-  citata_rodoma: "Nebent pripažintume,\njog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią\nnimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją\nįeina vanduo.\nYra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­\nnašiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki\nšiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­\nčios, nuogos mergos."
+  citata_rodoma: |
+    Nebent pripažintume,
+    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
+    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
+    įeina vanduo.
+    Yra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­
+    našiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki
+    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
+    čios, nuogos mergos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,9 +38,15 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
 - t-001
   global_id: t-194163
   teiginys: "A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883)."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176776
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883).'
@@ -55,8 +61,7 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194163
 ## Citatos
 
 - id: c-176776
@@ -76,8 +81,12 @@ A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvi
     birželio 25 d.
     * Pirmasis lenkų seimas Petrakave po Kazimiero vainikavimo
     Lenkijos karaliumi įvyko jau 1447 m. rugpiūčio mėn.
-  citata_rodoma: "A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių \nišvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani- \nlowicz, Skarbiec, 1 1 , Nr. 1883)."
+  citata_rodoma: |
+    A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių
+    išvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani-
+    lowicz, Skarbiec, 1 1 , Nr. 1883).
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

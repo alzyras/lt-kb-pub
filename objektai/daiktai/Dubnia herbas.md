@@ -54,6 +54,9 @@ Nenurodyta
 - t-001
   global_id: t-186865
   teiginys: 'Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas heraldiniu komentaru.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Habdankas|Habdankas]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-170048
 
@@ -70,8 +73,9 @@ Nenurodyta
     Virš skydo, šalme — kryžius tarp dviejų jaučio ragų.
   citata_rodoma: "Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1  \natmaina: per visą herbo skydą baltas kryžius raudonam e lauke; \napatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \\V). \nVirš skydo, šalme — kryžius tarp dviejų jaučio ragų."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186865

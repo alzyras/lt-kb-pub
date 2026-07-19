@@ -45,9 +45,23 @@ Nenurodyta
 - t-001
   global_id: t-189628
   teiginys: "Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vladislovas Jogaila buvo nusiuntęs Jeronimą į Lietuvą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172511
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.'
@@ -71,8 +85,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189628
 ## Citatos
 
 - id: c-172511
@@ -91,8 +104,21 @@ Nenurodyta
     no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
     džio. Todėl Jeronimas, pagriebęs kirvį, pirmas nukirto vieną iš
     aukščiausių medžių.
-  citata_rodoma: "Tokiu pačiu būdu buvo pastatyti ir\nstulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno\nkrantus*.\n„Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir\nvisoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­\nbinimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą. Mat\nJeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila\nbuvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog\npirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius: 31\n31\nLietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena\nir Cackis (O prawach."
+  citata_rodoma: |
+    Tokiu pačiu būdu buvo pastatyti ir
+    stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno
+    krantus*.
+    „Keistas dalykas, kaip smarkiai tarp miestų gyventojų ir
+    visoje Lietuvoje buvo paplitęs prietaringas netikrų dievų gar­
+    binimas, kol ji priėmė Kristaus tikėjimą ir jo garbinimą. Mat
+    Jeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila
+    buvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog
+    pirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius: 31
+    31
+    Lietuvoje būta dviejų Jeronimų Prahiškių -  apie tai užsimena
+    ir Cackis (O prawach.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,20 +33,36 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 - t-001
   global_id: t-190089
   teiginys: "Narbutas polemikoje teigia, kad kronikose Brutenio vardas rašytas netiksliai ir turėjo tokią pačią galūnę kaip Vaidevučio vardas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brutenis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brutenis\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172972
 
 <a id="claim-t-200973"></a>
 - t-002
   global_id: t-200973
-  teiginys: "Daukantas nurodo, kad pasakoje Brutenis vaizduojamas kaip dievų tarnas ir vyriausias ūkės valdymierius dar prieš Vitevudą."
+  teiginys: "Nes jei Brutenis buvo jau viešpačiu ir tarnu dievų ir visų vyriausiu valdymieru ūkės dar pirm Vitevudo, kaip pati pasaka byloja, tai turėjo pirmesniai būti žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus pirm to jau godojo, ką ne vien Pitėjas, kurs tą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184323
 - susijęs iš [[objektai/asmenys/Vaidevutis.md#claim-t-190031|Vaidevutis]]: Narbutas kritikui atsakė, kad kronikose vardai rašyti netiksliai, o Brutenis ir Vaidevutis tame būryje turėjo tokias pat vardų galūnes.
-- susijęs iš [[objektai/ivykiai/Pirmosios žinyčios Rusnėje įkūrimas.md#claim-t-201299|Pirmosios žinyčios Rusnėje įkūrimas]]: Daukantas aiškino, kad pasaka apie Bratenio įkurtą pirmąją žinyčią Rusnėje galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
-- susijęs iš [[objektai/paprociai/Apeiga prie švento ąžuolo.md#claim-t-201372|Apeiga prie švento ąžuolo]]: Daukanto pasakojime Brutenis liepė ąžuolo kamiene išręžti tris uoksus, į juos įdėti dievveidžius, o prie kiekvieno padėti auką ir dovanų.
-- susijęs iš [[objektai/paprociai/Karo grobio dalijimas į keturias dalis.md#claim-t-07781|Karo grobio dalijimas į keturias dalis]]: Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.
-- susijęs iš Rusnė: Daukantas manė, kad pasaka apie pirmąją Rusnės žinyčią galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
 ## Citatos
 
 - id: c-172972
@@ -74,16 +90,15 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
     savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
     jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190089
-
 - id: c-184323
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 73"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mėklinantis į visą tą pasaką, gal regėti ją sutin­
     kančią daugioj vietoj su pasakomis viršiaus mina-
@@ -104,6 +119,7 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
     šventa vadina, bet ir patys raštai Nemuno, kursai
     būk pirmasis žinyčią Rusnėj įkūręs, aiškiai rodo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

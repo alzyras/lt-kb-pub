@@ -38,6 +38,19 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 - t-001
   global_id: t-02205
   teiginys: "„Lenko pasikalbėjime su lietuviu“ buvo ginčijami Ožechovskio tvirtinimai ir ginamos Lietuvos valstybės teisės gyventi savarankiškai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenko pasikalbėjimu su lietuviu: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenko pasikalbėjimu su lietuviu\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas šaltinis ir aiškiau suformuluotas faktinis predikatas."
   pagrindžia:
     - c-02443
 
@@ -45,6 +58,19 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 - t-002
   global_id: t-02206
   teiginys: "1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenko pasikalbėjimu su lietuviu: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenko pasikalbėjimu su lietuviu\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1564 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Geriau sutelkti teiginį į šaltinio objektą ir pašalinti perteklinę aplinkybę."
   pagrindžia:
     - c-02444
 
@@ -62,14 +88,17 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu". Ten jie
     įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
     valstybės garbę ir jos teises gyventi savarankiškai.
-  citata_rodoma: "Ten jie\nįrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos\nvalstybės garbę ir jos teises gyventi savarankiškai."
+  citata_rodoma: |
+    Ten jie
+    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
+    valstybės garbę ir jos teises gyventi savarankiškai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02205
-
 - id: c-02444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -82,8 +111,13 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
     lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
-  citata_rodoma: "Lietuvos didikai,\nvadovaujami M. Radvilos Juodojo, suorganizavo mokslintus\nlietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-\ngutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu\"."
+  citata_rodoma: |
+    Lietuvos didikai,
+    vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
+    lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
+    gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

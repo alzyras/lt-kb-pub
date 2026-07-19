@@ -32,13 +32,26 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
 - t-001
   global_id: t-190299
   teiginys: "Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173182
-
+    - c-001
 <a id="claim-t-197318"></a>
 - t-002
   global_id: t-197318
   teiginys: "Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179127
 
@@ -58,8 +71,7 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190299
 ## Citatos
 
 - id: c-173182
@@ -77,14 +89,19 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
     Prapule manu owate.
     Ajl Kas gelbės jeszkoti,
     Manu ^vienturte owatę?
-  citata_rodoma: "Rėza. Dainės)*.\nVisa ši dainelė yra mitologinė: joje papasakotas ištekan­\nčios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,\narba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­\nužsimenama."
+  citata_rodoma: |
+    Rėza. Dainės)*.
+    Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
+    čios už vyro Aušrinės nuotykis, tik nežinia už ko ji tekėjo,
+    arba kaip vadinosi lietuvių Titanas, nes čia apie Mėnulį ne­
+    užsimenama.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190299
-
 - id: c-179127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -99,6 +116,7 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
     naitė.
     Antikos žmonės šią žvaigždę vadino Hespera.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

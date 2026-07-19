@@ -54,6 +54,9 @@ Nenurodyta
 - t-001
   global_id: t-87241
   teiginys: "Jeigu krikščionis sumušdavo žydą nepraliedamas kraujo, kaltė jam turėjo būti priskirta pagal žemės paprotį, o nukentėjusiajam atlyginta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83220
 
@@ -76,6 +79,7 @@ Nenurodyta
     žemėje esantį paprotį, o sumuštajam ir nukentėjusiajam tu­
     ri būti pakankamai atlyginta, kaip mūsų žemėje priimta.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

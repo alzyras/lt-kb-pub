@@ -33,6 +33,19 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
 - t-001
   global_id: t-192118
   teiginys: "Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "uzkariavo -> Estai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Estai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Germanarikas pavergė estų tautą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Germanarikas užkariavo Estai (0.86)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174999
 
@@ -54,8 +67,17 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
     vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
     ni estus, kalbėdamas apie karingus Odoakro vadovauja­
     mus herulus, kilusius iš estų tautos.
-  citata_rodoma: "Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-\n  riko įtaką Europos vakaruose gyvenančioms tautoms ir\n  gentims, sako: „Turbūt tas pats karalius Germanarikas\n  savo išmintimi užėmė ilgą Vokiečių okeano pakrantės\n  kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­\n  vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­\n  ni estus, kalbėdamas apie karingus Odoakro vadovauja­\n  mus herulus, kilusius iš estų tautos."
+  citata_rodoma: |
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+      riko įtaką Europos vakaruose gyvenančioms tautoms ir
+      gentims, sako: „Turbūt tas pats karalius Germanarikas
+      savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+      kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
+      vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+      ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+      mus herulus, kilusius iš estų tautos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

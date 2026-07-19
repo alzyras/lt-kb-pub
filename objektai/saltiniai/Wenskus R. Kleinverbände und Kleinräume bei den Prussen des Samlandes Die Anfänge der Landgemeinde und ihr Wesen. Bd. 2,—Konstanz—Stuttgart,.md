@@ -38,6 +38,12 @@ Dusburgietis teigia, kad wenskus R.
 - t-001
   global_id: t-61364
   teiginys: "R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko publikavimo duomenis, o pradinis teiginys yra fragmentiškas."
   pagrindžia:
     - c-61996
 
@@ -52,6 +58,7 @@ Dusburgietis teigia, kad wenskus R.
     Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge
     und Forschungen, Bd. 8), S. 201—254.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

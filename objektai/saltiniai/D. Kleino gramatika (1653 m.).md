@@ -32,6 +32,9 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 - t-001
   global_id: t-67366
   teiginys: "1653 m. D. Kleinas išleido pirmąją lietuvių kalbos gramatiką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67305
 
@@ -50,8 +53,16 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
     matiką, o 1666 m. — dvi giesmių knygas,
     kurios ėjo pagrindu vėlesnėms lietuvių liu-
     terionių giesmynų laidoms.
-  citata_rodoma: "Nors lietuviškų knygų spausdinimas\nbuvo ir labai sumažėjęs, tačiau nebuvo vi-\nsiškai sustojęs; taip antai, 1653 m. D. Klei-\nnas išleido net pirmąją lietuvių kalbos gra-\nmatiką, o 1666 m. — dvi giesmių knygas,\nkurios ėjo pagrindu vėlesnėms lietuvių liu-\nterionių giesmynų laidoms."
+  citata_rodoma: |
+    Nors lietuviškų knygų spausdinimas
+    buvo ir labai sumažėjęs, tačiau nebuvo vi-
+    siškai sustojęs; taip antai, 1653 m. D. Klei-
+    nas išleido net pirmąją lietuvių kalbos gra-
+    matiką, o 1666 m. — dvi giesmių knygas,
+    kurios ėjo pagrindu vėlesnėms lietuvių liu-
+    terionių giesmynų laidoms.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

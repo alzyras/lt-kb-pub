@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-195354
   teiginys: "Ąžuolo gabalas, kuriuo muša grūdus piestoje."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177763
     - c-177764
@@ -71,14 +75,17 @@ Nenurodyta
     Ąžuolo gabalas, ku­
     riuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­
     tas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu.
-  citata_rodoma: "Ąžuolo gabalas, ku­\nriuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­\ntas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu."
+  citata_rodoma: |
+    Ąžuolo gabalas, ku­
+    riuo muša grūdus piestoje, vadinasi piestu. Jis per vidurį susiaurin­
+    tas, kad galima būtų apkabinti delnu. Mušti tinka abudu galu.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195354
-
 - id: c-177764
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -90,8 +97,13 @@ Nenurodyta
     manyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį
     peilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar
     yra tiekiama piesta, būtent, anglimis.
-  citata_rodoma: "Kad mušimas būtų sėkmingesnis, galuose prikalinėta smulkių vinių. Galima \nmanyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį \npeilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar \nyra tiekiama piesta, būtent, anglimis."
+  citata_rodoma: |
+    Kad mušimas būtų sėkmingesnis, galuose prikalinėta smulkių vinių. Galima
+    manyti, kad žmogus, kol nežinojo plieno, kol pasigaudavo akmeninį
+    peilį ir kirvį, tada tiekė sau rakandus ir dubinėlius taip, kaip dabar
+    yra tiekiama piesta, būtent, anglimis.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

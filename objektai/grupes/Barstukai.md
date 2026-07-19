@@ -32,8 +32,23 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
 - t-001
   global_id: t-189448
   teiginys: "Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų klojimų ir neša juos palankesniems ūkininkams."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barstukai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barstukai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172335
+    - c-001
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189996|Frydrichas Stenderis]]: Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190277|Frydrichas Stenderis]]: Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
@@ -69,8 +84,7 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189448
 ## Citatos
 
 - id: c-172335
@@ -90,8 +104,18 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
     zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
     mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris - Tergerdą
     (Thergerd) ir Irpą (Yrpo).
-  citata_rodoma: "Rytojaus dieną ūkininkai žiūri, kurio valgio dau­\ngiau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins\njiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o\nto valgio, kuris jiems buvo gardžiausias, per kitas šventes de­\nda daugiau, negu buvo per ankstesnes, prašydami, kad pagau­\nsintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,\nkuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus\nir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:\nūgio ne aukštesnio, kaip viena uolektis“."
+  citata_rodoma: |
+    Rytojaus dieną ūkininkai žiūri, kurio valgio dau­
+    giau suvalgyta: jeigu duonos, vadinasi, dievaičiai pagausins
+    jiems javų; jeigu mėsos, -  seksis su gyvulių prieaugliu ir 1.1.; o
+    to valgio, kuris jiems buvo gardžiausias, per kitas šventes de­
+    da daugiau, negu buvo per ankstesnes, prašydami, kad pagau­
+    sintų javų. Taip pat pasakoja, kad barstukai iš kitų ūkininkų,
+    kuriuos pažįsta kaip nedėkingus, klojimų naktimis vagia javus
+    ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
+    ūgio ne aukštesnio, kaip viena uolektis“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

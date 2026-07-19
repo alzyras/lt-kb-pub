@@ -39,6 +39,17 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 - t-001
   global_id: t-40889
   teiginys: "I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Naujasodė: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "I brigada: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naujasodė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "I brigados puolimo uždavinys tiesiogiai siejamas su gynybos pralaužimu Naujasodės linijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "I brigada puolė Naujasodė (0.77)"
   pagrindžia:
     - c-44743
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
@@ -62,8 +73,15 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
     minių-Bružų- Naujasodės linijoje.
 
     Karin.
-  citata_rodoma: "Puolimą pradėjo I brigada, jos\nsvarbiausias uždavinys buvo pralaužti\nbolševikų gynybą gerai įtvirtintoje Gal-\nminių-Bružų- Naujasodės linijoje.\n\nKarin."
+  citata_rodoma: |
+    Puolimą pradėjo I brigada, jos
+    svarbiausias uždavinys buvo pralaužti
+    bolševikų gynybą gerai įtvirtintoje Gal-
+    minių-Bružų- Naujasodės linijoje.
+
+    Karin.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

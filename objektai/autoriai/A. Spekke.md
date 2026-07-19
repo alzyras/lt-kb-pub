@@ -40,6 +40,18 @@ SpHL = Spekke, A.
 - t-001
   global_id: t-30542
   teiginys: "A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Spekke: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Spekke\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1951 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32890
 
@@ -53,8 +65,10 @@ SpHL = Spekke, A.
     SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
     džiama), Maskva 1961-1970.
     SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
-  citata_rodoma: "SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951."
+  citata_rodoma: |
+    SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

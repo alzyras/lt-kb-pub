@@ -6,7 +6,6 @@ variantai:
   - 'Parusnys'
 aliases:
   - 'Parusnys'
-  - 'objektai/vietos/Parusnys'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 datos:
@@ -34,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto vertinimu, Parusnį ir Padaugavį užkariavę kryžiuočiai draudė veiklas, kurios, jo manymu, galėjo ugdyti žmogaus akylumą.
+Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti.
 
 ## Teiginiai
 
 <a id="claim-t-201129"></a>
 - t-001
   global_id: t-201129
-  teiginys: "Daukanto vertinimu, Parusnį ir Padaugavį užkariavę kryžiuočiai draudė veiklas, kurios, jo manymu, galėjo ugdyti žmogaus akylumą."
+  teiginys: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184479
 
 ## Citatos
 
 - id: c-184479
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 517"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 517."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nemintąs Erikas, viešpats danų, re­
     gėdamas tokias neteisybes, vokyčių daromas per­
@@ -67,6 +71,7 @@ Daukanto vertinimu, Parusnį ir Padaugavį užkariavę kryžiuočiai draudė vei
     kelionėse daug pritiria, sueina į pažines su sveti­
     momis tautomis, regi jų ūkės rėdą ir apsiėjimus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

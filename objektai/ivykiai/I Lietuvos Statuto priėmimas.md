@@ -61,6 +61,21 @@ Nenurodyta
 - t-001
   global_id: t-187472
   teiginys: "Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "I Lietuvos Statuto priėmimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"I Lietuvos Statuto priėmimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir pridėtas citatoje nurodytas objektas."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170442
 
@@ -85,8 +100,17 @@ Nenurodyta
     Sutampa Bychovco kronikos ir A. Goštauto memo­
     rialo tonas ir tendencija, nušviečiant Goštautų giminės
     istorinį vaidmenį ir reikšmę Lietuvos valstybėje.
-  citata_rodoma: "O Bychovco kronikoje iš\nto paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­\nvilko fragmentai.\nTurime taip pat išlikusį ir neginčijamai paties Al­\nberto Goštauto literatūrinės kūrybos pavyzdį — Žygi­\nmanto II Kazimieraičio pagyrimą, parašytą 1529 m.\nLietuvos Didžiosios Kunigaikštystės teisės kodekso —\nI-jo Lietuvos Statuto priėmimo proga 5 7 ."
+  citata_rodoma: |
+    O Bychovco kronikoje iš
+    to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­
+    vilko fragmentai.
+    Turime taip pat išlikusį ir neginčijamai paties Al­
+    berto Goštauto literatūrinės kūrybos pavyzdį — Žygi­
+    manto II Kazimieraičio pagyrimą, parašytą 1529 m.
+    Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
+    I-jo Lietuvos Statuto priėmimo proga 5 7 .
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

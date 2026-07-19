@@ -62,6 +62,16 @@ Nenurodyta
 - t-001
   global_id: t-54451
   teiginys: "Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55331
 
@@ -83,8 +93,14 @@ Nenurodyta
     gė neturtingiems studentams bursą, pavadintą Valerijono
     vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
     jėzuitų priežiūrai ir globai58.
-  citata_rodoma: "Vyskupo Protasevičiaus \nfunduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­\nkelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­\nrių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai \nišleisti dekretai57."
+  citata_rodoma: |
+    Vyskupo Protasevičiaus
+    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
+    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
+    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
+    išleisti dekretai57.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,6 +43,19 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - t-001
   global_id: t-87405
   teiginys: "1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Paleckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Paleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko datuotą privilegiją ir sklypo perdavimą Paleckiui."
   pagrindžia:
     - c-83385
 
@@ -50,6 +63,16 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - t-002
   global_id: t-87406
   teiginys: "Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Paleckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Paleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83386
 
@@ -57,6 +80,19 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - t-003
   global_id: t-87407
   teiginys: "Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martynas Paleckis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas Paleckis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1619 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko sutarties patvirtinimo faktą, o įvestyje yra puslapio ir OCR triukšmo."
   pagrindžia:
     - c-83384
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55044|Martyno Paleckio stiklo gaminiai Vilniuje]]: Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
@@ -87,14 +123,27 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     ir Eišiškių valdytojas, monopolis
     kaskart vis didesnę žalą daro mies­
     tui, norėjo jo privilegiją atšaukti.
-  citata_rodoma: "1619 m.\n56\nMiesto aktuose yra: karaliaus Stepo­\nno patvirtinimas sutarties tarp po­\nno Martyno Paleckio ir jo žmonos, \ndabar ponios Rainos Sluščiankos, ir \nmiesto dėl stiklo liejyklos ir stiklo su­\npirkimo. Buvo taip: Vilniaus vaitas \nir burmistrai, matydami, kad Palec­\nkio, kuris buvo karaliaus maršalka \nir Eišiškių valdytojas, monopolis \nkaskart vis didesnę žalą daro mies­\ntui, norėjo jo privilegiją atšaukti."
+  citata_rodoma: |
+    1619 m.
+    56
+    Miesto aktuose yra: karaliaus Stepo­
+    no patvirtinimas sutarties tarp po­
+    no Martyno Paleckio ir jo žmonos,
+    dabar ponios Rainos Sluščiankos, ir
+    miesto dėl stiklo liejyklos ir stiklo su­
+    pirkimo. Buvo taip: Vilniaus vaitas
+    ir burmistrai, matydami, kad Palec­
+    kio, kuris buvo karaliaus maršalka
+    ir Eišiškių valdytojas, monopolis
+    kaskart vis didesnę žalą daro mies­
+    tui, norėjo jo privilegiją atšaukti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87407
-
 - id: c-83385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -120,12 +169,12 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     žiniai, karaliaus valia, per Vilniaus
     gorodničių Povilą Giedraitį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87405
-
 - id: c-83386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,8 +192,21 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
     32 33
     Žr. III priedą.
-  citata_rodoma: "Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu.\nTais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­\nlo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus \nišradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­\nšalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­\ntinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-\n32 33\nŽr."
+  citata_rodoma: |
+    Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

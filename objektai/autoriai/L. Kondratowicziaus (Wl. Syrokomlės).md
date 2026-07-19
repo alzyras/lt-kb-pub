@@ -33,6 +33,16 @@ Kondratowicziaus (Wl.
 - t-001
   global_id: t-54131
   teiginys: "XIX a. tautinio atgimimo laikotarpiu L. Kondratowicziaus poema „Margier“ lietuviams darė stiprų įspūdį."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "L. Kondratowicziaus (Wl. Syrokomlės): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"L. Kondratowicziaus (Wl. Syrokomlės)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-55076
 - susijęs iš [[objektai/autoriai/Ign. Kraszewskio.md#claim-t-29338|Ign. Kraszewskio]]: Ign. Kraszewskio apysaka „Kunigas“ XIX a. tautinio atgimimo laikotarpiu lietuviams darė stiprų įspūdį.
@@ -47,8 +57,13 @@ Kondratowicziaus (Wl.
     amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė
     L. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-
     szewskio apysaka «Kunigas ».
-  citata_rodoma: "XIX\namž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė\nL. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-\nszewskio apysaka «Kunigas »."
+  citata_rodoma: |
+    XIX
+    amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė
+    L. Kondratowicziaus (Wl. Syrokomlės) poema « Margier » ir Ign. Kra-
+    szewskio apysaka «Kunigas ».
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,9 +33,23 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
 - t-001
   global_id: t-186156
   teiginys: "Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Petras Kiška su kitais pasiuntiniais buvo patikėti vykti į Maskvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169517
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
@@ -64,8 +78,7 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186156
 ## Citatos
 
 - id: c-169517
@@ -88,8 +101,26 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
 
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
-  citata_rodoma: "Vasilijus pri­\nmygtinai reikalavo, kad ka­\nraliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­\nviau galėsiąs tramdyti saviškius, jei šie susimanys be\nsaiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­\nkai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-\niždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius."
+  citata_rodoma: |
+    Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
+    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
+    iždininkiui, ir Jonui Gornostajui, raštininkui. Šie ilgai
+    aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­
+    džiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­
+    riomis kitados buvusi sudaryta sutartis tarp jo senelio
+    Vasilijaus ir karaliaus Kazimiero, arba tomis, kurias
+    6 4 9
+
+    ## Puslapis 648
+
+    buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
+    Vasiljevičius.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

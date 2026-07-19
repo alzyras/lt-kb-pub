@@ -32,6 +32,21 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
 - t-001
   global_id: t-191409
   teiginys: "Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gavo Vindliandiją, arba Vitlandą; įvykiai siejami su III a."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Heidrigas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vitliandija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Heidrigas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Kraičiu gauta teritorija tiesiogiai siejama su Heidrigo įgyta valda."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vitliandija priklausė Heidrigas (0.78)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174291
 - susijęs iš Vitliandija: Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūsų provincija Vitliandija prie Priegliaus žiočių.
@@ -48,6 +63,7 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
     provinciją Vitliandiją prie Priegliaus žiočių; ją mes jau
     ne sykį minėjome. Visi Šie įvykiai siejami su III amžiumi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

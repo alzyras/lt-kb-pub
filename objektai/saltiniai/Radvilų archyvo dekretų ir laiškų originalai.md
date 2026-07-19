@@ -32,6 +32,17 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
 - t-001
   global_id: t-88471
   teiginys: "Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Aleksandrą Jogailaitį tiesiogiai vadina Lenkijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Lenkija (0.93); Aleksandras Jogailaitis buvo valdovas Lietuva (0.93)"
   pagrindžia:
     - c-84450
 
@@ -83,8 +94,18 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
     Bekešui dėl Alantos dvaro - Step­
     hanus Rex - ]an Hlebowicz na Dub-
     rownie Kaszt.
-  citata_rodoma: "Onos bažnyčia / p. 297 \n• Faksimilės, paimtos iš dekretų ir \nlaiškų, esančių Radvilų archyve, \noriginalų:\n1) Aleksandro Jogailaičio dovanoji­\nmas Vilniaus miestiečiui Maksi- \nmui Užupyje Vilniuje / p. 447\n2) Žygimanto Senojo parašas - Si­\ngismundus Rex Į p."
+  citata_rodoma: |
+    Onos bažnyčia / p. 297
+    • Faksimilės, paimtos iš dekretų ir
+    laiškų, esančių Radvilų archyve,
+    originalų:
+    1) Aleksandro Jogailaičio dovanoji­
+    mas Vilniaus miestiečiui Maksi-
+    mui Užupyje Vilniuje / p. 447
+    2) Žygimanto Senojo parašas - Si­
+    gismundus Rex Į p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

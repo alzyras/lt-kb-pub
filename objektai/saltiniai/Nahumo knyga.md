@@ -32,6 +32,16 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
 - t-001
   global_id: t-61187
   teiginys: "Nahumo knygos 1,2 eilutė cituojama teigiant, kad Dievas yra pavydus, keršijantis ir rūstaujantis ant priešų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nahumo knyga: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vengrai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nahumo knyga\" parinktas kaip owner_note_path. Targetas \"Vengrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61819
 
@@ -51,8 +61,16 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
     ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
     jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
     turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: "Vis dėlto dievas, būdamas\nir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak\npranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo\nnedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai\nir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei\njo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo\nturtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias."
+  citata_rodoma: |
+    Vis dėlto dievas, būdamas
+    ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak
+    pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo
+    nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai
+    ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
+    jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
+    turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

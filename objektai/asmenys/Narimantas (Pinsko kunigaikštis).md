@@ -20,18 +20,19 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
+media_primary_directness: 'contextual'
+media_primary_relation_type: 'associated_symbol_of'
+media_primary_json: |-
+  {"mediaId":"m-85d84e0a6eb7ff599955fb6f","title":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","caption":"Narimanto herbas, Pagonia-Kalumny (1709)","originalTitle":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"File:Narymont. Нарымонт (1709).jpg","dateDisplay":"1709","dateStart":null,"dateEnd":null,"width":111,"height":172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Narimantas, Prince of Pinsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms with the Columns of Gediminas extracted from paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Narimantas (Pinsko kunigaikštis).md","title":"Narimantas (Pinsko kunigaikštis)","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:17:38.881001+03:00","reviewedAt":"2026-07-17T16:18:11.742438+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas 1709 m. heraldinis skydas su trimis laukais, įskaitant stilizuotą raitelio ženklą ir gyvūninius simbolius.","metadataEvidence":"Pavadinime tiesiogiai nurodytas Narymont, o apraše jis identifikuojamas kaip Lietuvos kunigaikštis Narimantas, Gedimino sūnus.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai su konkrečiu Narimantu susietas heraldinis atvaizdas.","isPrimary":0}
 media_direct_json: |-
   []
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-85d84e0a6eb7ff599955fb6f","title":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","caption":"Narimanto herbas, Pagonia-Kalumny (1709)","originalTitle":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"File:Narymont. Нарымонт (1709).jpg","dateDisplay":"1709","dateStart":null,"dateEnd":null,"width":111,"height":172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Narimantas, Prince of Pinsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms with the Columns of Gediminas extracted from paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Narimantas (Pinsko kunigaikštis).md","title":"Narimantas (Pinsko kunigaikštis)","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:17:38.881001+03:00","reviewedAt":"2026-07-17T16:18:11.742438+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas 1709 m. heraldinis skydas su trimis laukais, įskaitant stilizuotą raitelio ženklą ir gyvūninius simbolius.","metadataEvidence":"Pavadinime tiesiogiai nurodytas Narymont, o apraše jis identifikuojamas kaip Lietuvos kunigaikštis Narimantas, Gedimino sūnus.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai su konkrečiu Narimantu susietas heraldinis atvaizdas.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-85d84e0a6eb7ff599955fb6f","title":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","caption":"Narimanto herbas, Pagonia-Kalumny (1709)","originalTitle":"Narymont, Pahonia-Kalumny. Нарымонт, Пагоня-Калюмны (1709).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"File:Narymont. Нарымонт (1709).jpg","dateDisplay":"1709","dateStart":null,"dateEnd":null,"width":111,"height":172,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Narimantas, Prince of Pinsk","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms with the Columns of Gediminas extracted from paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on portrait paintings","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Narimantas (Pinsko kunigaikštis).md","title":"Narimantas (Pinsko kunigaikštis)","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:17:38.881001+03:00","reviewedAt":"2026-07-17T16:18:11.742438+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas 1709 m. heraldinis skydas su trimis laukais, įskaitant stilizuotą raitelio ženklą ir gyvūninius simbolius.","metadataEvidence":"Pavadinime tiesiogiai nurodytas Narymont, o apraše jis identifikuojamas kaip Lietuvos kunigaikštis Narimantas, Gedimino sūnus.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne portretas, bet aiškiai su konkrečiu Narimantu susietas heraldinis atvaizdas.","isPrimary":0}]
 ---
 # Narimantas (Pinsko kunigaikštis)
 
@@ -45,6 +46,20 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-001
   global_id: t-186074
   teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo priešas Narimantas (Pinsko kunigaikštis) (0.76)"
   pagrindžia:
     - c-169435
 
@@ -52,6 +67,24 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-002
   global_id: t-190930
   teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Polesė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polesė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai aprašo Narimanto karinį įsiveržimą į Polesę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia Narimanto veiksmą, laiką, vietą ir rezultatą. Valdovo titulas bei kronikinis pasakojimas išlaikyti su Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173812
 
@@ -59,6 +92,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-003
   global_id: t-193400
   teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176122
 
@@ -66,6 +105,13 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-005
   global_id: t-193966
   teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176591
 
@@ -73,6 +119,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-006
   global_id: t-193967
   teiginys: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176592
 
@@ -80,6 +132,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-007
   global_id: t-193968
   teiginys: "Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176593
 
@@ -87,6 +145,13 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-008
   global_id: t-196861
   teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį, o jo brolis Daumantas - kitą Fledro dukterį."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176591
 
@@ -94,6 +159,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-009
   global_id: t-196862
   teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176592
 
@@ -101,8 +172,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - t-004
   global_id: t-193965
   teiginys: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys perrašytas iš pastabos, pašalinant puslapio ir numeracijos triukšmą. Hipotetinis „matyt“ paliktas kaip leidinio pastabos siejimas, nepridedant naujų faktų.'
   pagrindžia:
-    - c-176590
+    - c-005
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
@@ -143,13 +218,11 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     pat metu, be galo greitai sunešę žemių bei kitokios me­
     džiagos, stengėsi jas užtaisyti.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
 - c-005
   santrauka: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -162,13 +235,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     kur išvardijami Gedimino sūnūs. Čia minimas Gedimino sūnus Na­
     rimantas gyveno 1277— 1348.II.2.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-193965
 ## Citatos
 
 - id: c-169435
@@ -193,12 +265,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     siaustį, trukusią nuo birželio 24 ligi spalio 1 dienos, ir
     su visa kariuomene sugrįžo į Prūsiją.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186074
-
 - id: c-173812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -214,12 +286,12 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
     reiga.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190930
-
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -240,14 +312,23 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     T ė v o n ija
     išd a lija m a
     nytų atsiskirti.
-  citata_rodoma: "Narimantas nenorėjo\ntaip spręsti valstybės reikalų, kad broliai galėtų jam\nprikaišioti, jog sprendžia perdaug griežtai: dėl savo\nsprendimo jis nenorėjo vienas pats susilaukti visuo­\ntinės neapykantos. Todėl jis nieko neveikė savo valia,\nbe tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­\nninti savo sprendimus. Jeigu jis vienas, remdamasis\naukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų\ngalėję skatinti brolių ir valdinių nepasitenkinimą."
+  citata_rodoma: |
+    Narimantas nenorėjo
+    taip spręsti valstybės reikalų, kad broliai galėtų jam
+    prikaišioti, jog sprendžia perdaug griežtai: dėl savo
+    sprendimo jis nenorėjo vienas pats susilaukti visuo­
+    tinės neapykantos. Todėl jis nieko neveikė savo valia,
+    be tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­
+    ninti savo sprendimus. Jeigu jis vienas, remdamasis
+    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
+    galėję skatinti brolių ir valdinių nepasitenkinimą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193400
-
 - id: c-176591
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -264,15 +345,24 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
     liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
     reikšti užuojautos.
-  citata_rodoma: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną \nminėto livoniečio Fledro dukterį, jo brolis Daumantas \nvedė antrąją to paties Fledro 21 dukterį. Praėjus nema­\nža laiko, Utenos kunigaikščio Daumanto žmona ėmė \nsirguliuoti ir pasimirė.\nDidysis kunigaikštis Narimantas, išgirdęs apie savo \nbrolienės mirtį ir pats ne itin tvirtai jausdamasis, labai \nliūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­\nreikšti užuojautos."
+  citata_rodoma: |
+    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
+    minėto livoniečio Fledro dukterį, jo brolis Daumantas
+    vedė antrąją to paties Fledro 21 dukterį. Praėjus nema­
+    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
+    sirguliuoti ir pasimirė.
+    Didysis kunigaikštis Narimantas, išgirdęs apie savo
+    brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
+    liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
+    reikšti užuojautos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193966
     - t-196861
-
 - id: c-176592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -288,13 +378,13 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
     ir jam buvo duotas Lauro vardas4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193967
     - t-196862
-
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -311,14 +401,22 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     kaip čia jį nugalabijus. O tuo metu, valdant Traide­
     niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
     nigaikštis Giedrius.
-  citata_rodoma: "Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­\nsis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­\nėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir \nPolocke *. Jam buvo labai gaila, kad jo jaunesnysis \nbrolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti, \nkaip čia jį nugalabijus. O tuo metu, valdant Traide­\nniui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­\nnigaikštis Giedrius."
+  citata_rodoma: |
+    Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­
+    sis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­
+    ėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir
+    Polocke *. Jam buvo labai gaila, kad jo jaunesnysis
+    brolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti,
+    kaip čia jį nugalabijus. O tuo metu, valdant Traide­
+    niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
+    nigaikštis Giedrius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193968
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas, remdamasis „Statut Litewski“, rašo, kad lietuvei ištekant vyras turėjo nuotakai užrašyti trečiąją dalį tėviškės ir valsčių.
+Žmonomis tapusios, nereikalavo nei bobalių, nei momkų, nei auklių, pačios savo krūti mis žindė savo kūdikius, o vyrams į karę išjojus, pačios arė, šieną pjovė ir grėbė, o mažus jų vaikus 1 Statut Litewski, r., ar.
 
 ## Teiginiai
 
 <a id="claim-t-201444"></a>
 - t-001
   global_id: t-201444
-  teiginys: "Daukantas, remdamasis „Statut Litewski“, rašo, kad lietuvei ištekant vyras turėjo nuotakai užrašyti trečiąją dalį tėviškės ir valsčių."
+  teiginys: "Žmonomis tapusios, nereikalavo nei bobalių, nei momkų, nei auklių, pačios savo krūti mis žindė savo kūdikius, o vyrams į karę išjojus, pačios arė, šieną pjovė ir grėbė, o mažus jų vaikus 1 Statut Litewski, r., ar."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184794
 
 ## Citatos
 
 - id: c-184794
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 79"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 79."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Naujų pramonių nesavinos, bet savo ūkės dobą se­
     kė, žmonos galvą baltais nuometais, o nuotakos auk­
@@ -57,6 +62,7 @@ Daukantas, remdamasis „Statut Litewski“, rašo, kad lietuvei ištekant vyras
     pačios arė, šieną pjovė ir grėbė, o mažus jų vaikus
     1 Statut Litewski, r., ar.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

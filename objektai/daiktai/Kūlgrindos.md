@@ -52,6 +52,16 @@ Nenurodyta
 - t-001
   global_id: t-06734
   teiginys: "Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūlgrindos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūlgrindos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00209
 
@@ -59,6 +69,17 @@ Nenurodyta
 - t-002
   global_id: t-06735
   teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūlgrindos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūlgrindos\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-00209
 
@@ -75,8 +96,13 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: "Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-\ntyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami\nkūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti\nLietuvoje tokių kelių liekanų."
+  citata_rodoma: |
+    Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
+    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
+    kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
+    Lietuvoje tokių kelių liekanų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

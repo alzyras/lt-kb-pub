@@ -49,6 +49,17 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 - t-001
   global_id: t-192329
   teiginys: "Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Herbai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiniglis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herbai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiniglis\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175130
 
@@ -56,6 +67,18 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 - t-002
   global_id: t-192330
   teiginys: "Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Herbai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiniglis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herbai: mention_match, thing, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiniglis\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175130
 
@@ -63,6 +86,18 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 - t-003
   global_id: t-192331
   teiginys: "Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Herbai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kiniglis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Herbai: mention_match, thing, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kiniglis\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175130
 
@@ -83,8 +118,17 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
     tą
     ir
     reiškia.
-  citata_rodoma: "Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne\nviename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,\nPaparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta\n„Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė\nžodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent\ntą\nir\nreiškia."
+  citata_rodoma: |
+    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne
+    viename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,
+    Paparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta
+    „Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė
+    žodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent
+    tą
+    ir
+    reiškia.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

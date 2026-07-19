@@ -39,6 +39,17 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-001
   global_id: t-58523
   teiginys: "Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Nadruva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Auktuolyčiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Auktuolyčių pilis nurodoma Nadruvos valsčiuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Auktuolyčiai priklausė Nadruva (0.72)"
   pagrindžia:
     - c-59156
 
@@ -46,6 +57,9 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-002
   global_id: t-58524
   teiginys: "Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59155
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
@@ -70,12 +84,12 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     HCGP), ji buvo tapatinama ir su Stanaičių (dab. Furmanovas) piliakalniu deš. Pisos krante
     į šiaurės vakarus nuo Gumbinės, dab. Gusevas (СV, t. 34, p. 92, 125).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58524
-
 - id: c-59156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -89,8 +103,18 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
     nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
     su D. Rethowi), dab.
-  citata_rodoma: "Apie Auktuolyčių pilies užkariavimą\n\n   Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos\nvalsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,\nkurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų\nkopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau\nbroliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,\nnebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai\nsu D."
+  citata_rodoma: |
+    Apie Auktuolyčių pilies užkariavimą
+
+       Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos
+    valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,
+    kurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų
+    kopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau
+    broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
+    nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
+    su D.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

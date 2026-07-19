@@ -33,6 +33,11 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
 - t-001
   global_id: t-189050
   teiginys: 'Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Mitologinis fetišo statusas ir reikšmės aiškinimas pateikti su Narbuto atribucija. Nepridėta papildomų duomenų apie Rietavą ar Vetustį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fetišai|fetišai]]; mentioned_place: Kaimas; mentioned_place: Pajūris; mentioned_place: Saratovas'
   pagrindžia:
     - c-171939
 - susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189252|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.
@@ -59,8 +64,9 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
     Guboja ir Tvertikas (Guboi i Twertikas)
     Saratovo miesto fetišai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189050

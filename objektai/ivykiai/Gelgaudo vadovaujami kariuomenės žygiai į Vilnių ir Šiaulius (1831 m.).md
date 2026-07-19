@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-66548
   teiginys: "Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66756
 
@@ -57,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-66549
   teiginys: "Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66754
 
@@ -74,14 +80,16 @@ Nenurodyta
     šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
-  citata_rodoma: "Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-\nlando būrys."
+  citata_rodoma: |
+    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
+    lando būrys.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66549
-
 - id: c-66756
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -95,6 +103,7 @@ Nenurodyta
     simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
     pelnus paskirtas Varšuvos gubernatorium.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

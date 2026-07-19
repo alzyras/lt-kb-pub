@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-03034
   teiginys: "Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "knechtas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"knechtas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03272
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172804|Vilniaus magistratas]]: Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas.
@@ -55,8 +65,13 @@ media_all_json: |-
     tai)._ Didžiausią krašto gyventojų masę sudarė senieji krašto
     gyventojai, ordino vadinami vienu bendru vardu — prūsais
     valstiečiais.
-  citata_rodoma: "Šie gyveno ordino, vyskupų arba riterių bajorų dva-\nruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-\nkesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-\ntai)._"
+  citata_rodoma: |
+    Šie gyveno ordino, vyskupų arba riterių bajorų dva-
+    ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
+    kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
+    tai)._
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,6 +59,16 @@ Nenurodyta
 - t-001
   global_id: t-67168
   teiginys: "Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos."
+  atnaujinta: "2026-05-31 12:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mergaičių, nuotakų, žmonų ir našlių galvos puošyba: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergaičių, nuotakų, žmonų ir našlių galvos puošyba\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10020
 
@@ -66,6 +76,16 @@ Nenurodyta
 - t-002
   global_id: t-67170
   teiginys: "Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mergaičių, nuotakų, žmonų ir našlių galvos puošyba: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergaičių, nuotakų, žmonų ir našlių galvos puošyba\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10019
 
@@ -73,6 +93,13 @@ Nenurodyta
 - t-003
   global_id: t-194561
   teiginys: "Taip besitiekiant jaunasis siuntė jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo karės žirgą, ragotinę ir kardą ar kalaviją, rodydamas tuo, jog yra karės vyru, jog, ištekėjusi už jo, ras sau gaspadorių, užtarytoją."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  vertinimo_atnaujinta: "2026-06-13T14:37:45Z"
   pagrindžia:
     - c-176961
 
@@ -98,12 +125,12 @@ Nenurodyta
         klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
         numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67170
-
 - id: c-10020
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -113,12 +140,12 @@ Nenurodyta
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
         sėsit juos ne sau, bet varnams.“
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67168
-
 - id: c-176961
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -144,6 +171,7 @@ Nenurodyta
     - kandidatas: Vėlyvos santuokos, kraitis ir vestuvių sutartys
     - potencialus_teiginys: Vestuvių pokylyje dalyvavo marčelga ir viešnė, o vestuvės vyko abiejuose namuose ir truko kelias dienas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

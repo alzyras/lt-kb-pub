@@ -52,6 +52,17 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-001
   global_id: t-200578
   teiginys: "Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183893
 
@@ -59,6 +70,10 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-002
   global_id: t-200579
   teiginys: "Lopacinskio laiškuose gausu informacijos apie LDK sostinėje gyvenusius dvasininkus ir pasauliečius bajorus."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183893
 
@@ -66,6 +81,17 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-003
   global_id: t-200580
   teiginys: "Nuo 1762 m. Jonas Dominykas Lopacinskis buvo Žemaičių vyskupas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183921
 
@@ -73,6 +99,20 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-004
   global_id: t-200581
   teiginys: "Jonas Dominykas Lopacinskis nuo 1752 m. buvo Vilniaus kanauninkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: po 1752 m.; įvykio data: 1752 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir citata tiesiogiai nurodo Jono Dominyko Lopacinskio pareigas nuo 1752 m. Papildomos pareigos nepridėtos."
   pagrindžia:
     - c-183921
 
@@ -80,6 +120,17 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-005
   global_id: t-200582
   teiginys: "Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183985
 
@@ -87,6 +138,21 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-006
   global_id: t-200583
   teiginys: "1755 m. Jonas Dominykas Lopacinskis buvo LDK sekretorius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1755 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Žodis „tapo“ pakeistas neutralesniu „buvo“, nes citata pateikia pareigų faktą, o ne paskyrimo veiksmą. Kiti biografiniai duomenys nepridėti."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183921
 
@@ -94,6 +160,17 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 - t-007
   global_id: t-200584
   teiginys: "Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183985
 
@@ -111,15 +188,18 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
     adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
     sostinėje jo laiškuose informacijos išties gausu.
-  citata_rodoma: "J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo\nadresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK\nsostinėje jo laiškuose informacijos išties gausu."
+  citata_rodoma: |
+    J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
+    adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
+    sostinėje jo laiškuose informacijos išties gausu.
   statusas: verified
+  atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200578
     - t-200579
-
 - id: c-183921
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
@@ -130,8 +210,13 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
     Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
     1762 m. Žemaičių vyskupas.
-  citata_rodoma: "Straipsnio pagrindiniu\nveikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan\nDominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo\n1762 m. Žemaičių vyskupas."
+  citata_rodoma: |
+    Straipsnio pagrindiniu
+    veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
+    Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
+    1762 m. Žemaičių vyskupas.
   statusas: verified
+  atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +224,6 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - t-200580
     - t-200581
     - t-200583
-
 - id: c-183985
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
@@ -152,8 +236,14 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
     nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
     konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
-  citata_rodoma: "Beje, kanauninko stilius\ngana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,\ndaug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis\nnesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp\nkonkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus."
+  citata_rodoma: |
+    Beje, kanauninko stilius
+    gana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,
+    daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
+    nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
+    konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
   statusas: verified
+  atnaujinta: "2026-07-14 06:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

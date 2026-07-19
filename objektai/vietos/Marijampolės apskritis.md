@@ -40,6 +40,24 @@ media_all_json: |-
 - t-001
   global_id: t-189023
   teiginys: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Marijampolės apskritis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lokaičiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Marijampolės apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lokaičiai tiesiogiai lokalizuojami Marijampolės apskrityje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Lokaičiai priklausė Marijampolės apskritis (0.90)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lokaičiai priklausė Marijampolės apskritis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas radinio aprašymas sutrumpintas iki aiškaus sakinio apie Marijampolės apskritį. Neįtrauktos vėlesnės pasakojimo detalės apie žiedą."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171912
 
@@ -63,11 +81,11 @@ media_all_json: |-
     jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
     11 colių diametro“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189023
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]

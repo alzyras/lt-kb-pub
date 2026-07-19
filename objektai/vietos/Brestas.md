@@ -39,6 +39,12 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
 - t-001
   global_id: t-185230
   teiginys: "Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168591
 
@@ -46,6 +52,12 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
 - t-002
   global_id: t-185231
   teiginys: "Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168592
 
@@ -53,6 +65,12 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
 - t-003
   global_id: t-185233
   teiginys: "Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168594
 
@@ -60,6 +78,12 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
 - t-004
   global_id: t-193439
   teiginys: "Netru kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir tinti paliaubų, tačiau nebeM a sk v o s p a siu n tin ia i surado karaliaus Lietuvoje."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168594
 
@@ -67,6 +91,13 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
 - t-005
   global_id: t-196677
   teiginys: "Gediminas atsiėmė Drohičiną ir Brestą, prijungė kraštą prie Lietuvos valdų ir paliko lietuvių įgulas bei vietininkus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178835
 
@@ -102,14 +133,37 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     buvo paskalos, ar teisybė, bet daugelis tuo patikėjo:
     taip jau esti, kad apie visas žymiąsias šeimas daugiau­
     sia ir sklinda visokiausių šnekų.
-  citata_rodoma: "Rodos, žiaurus patarimas, bet iš tiesų būtinas,\n580\n\n## Puslapis 579\n\nnes kitaip neapginsi nei valdovo orumo, nei valstybės\nsaugumo. Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti."
+  citata_rodoma: |
+    Rodos, žiaurus patarimas, bet iš tiesų būtinas,
+    580
+
+    ## Puslapis 579
+
+    nes kitaip neapginsi nei valdovo orumo, nei valstybės
+    saugumo. Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185230
-
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -131,14 +185,31 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     šiuo metu dar nėra išryškėjęs, bet netrukus išryškė-
     siąs ir, jeigu skubiai nebus užgniaužtas, atnešiąs vi­
     suomenei pražūtį.
-  citata_rodoma: "Karalius, supratęs, kad jo sumanymai visiems žinomi,\nsutiko parodyti malonę, patariamas to paties kancle­\nrio, o labiausiai Jono iš Osvencimo, savo nuodėm­\nklausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­\nją, o kitus išvijo iš senato.\nĮ seimą atvyko iš Vilniaus\nSkitas Sich Achmetas\nŠich Achmetas, Užvolgio ski-\ntariasi su karaliumi\ntų valdovas, o šiuo metu\nBreste ir Radome\ntremtinys ir beveik belaisvis.\nAleksandras jį pasitiko už\npenkių mylių: pastačius plyname lauke puošnią pala­\npinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo\nSich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie\nkaraliaus."
+  citata_rodoma: |
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+    Aleksandras jį pasitiko už
+    penkių mylių: pastačius plyname lauke puošnią pala­
+    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
+    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
+    karaliaus.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185231
-
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -160,15 +231,28 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
     ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
     susitarus dėl taikos, išvykti iš Maskvos.
-  citata_rodoma: "Tol luomai nenurimo, kol negavo iš karaliaus valstybės\nantspaudais patvirtinto rašto, kuriuo šis savo bei sa-\n650\n\n## Puslapis 649\n\nvo įpėdinių vardu pasižadėjo niekada neleisti, kad į\nsenatą pakliūtų žmonės, neišpažįstantys Romos tikėji­\nmo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­\nkus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­\ntinti paliaubų, tačiau nebe-\nM a sk v o s p a siu n tin ia i\nsurado karaliaus Lietuvoje."
+  citata_rodoma: |
+    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
+    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
+    650
+
+    ## Puslapis 649
+
+    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
+    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
+    mo. Paleidęs seimą, karalius išvyko į Krokuvą. Netru­
+    kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir­
+    tinti paliaubų, tačiau nebe-
+    M a sk v o s p a siu n tin ia i
+    surado karaliaus Lietuvoje.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185233
     - t-193439
-
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -188,6 +272,7 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
     ir Lucko žemes, nedarydama čia, sąjungininkų valdo­
     se, niekam skriaudų ir priartėjo prie Ovručo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

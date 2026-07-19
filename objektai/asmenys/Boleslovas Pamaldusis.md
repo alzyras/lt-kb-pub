@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-87638
   teiginys: "Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lenkija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo žydų tautos gyventojus Didžiojoje Lenkijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žydai gyveno Lenkija (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams."
   pagrindžia:
     - c-83617
 
@@ -66,8 +80,21 @@ media_all_json: |-
     sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
     privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
     rią vėliau patvirtino Kazimieras Didysis68.
-  citata_rodoma: "220.\n146\n\n## Puslapis 163\n\nIl KNYGA\nnėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­\nnėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos \nžydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­\nsios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną \nprivilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­\nrią vėliau patvirtino Kazimieras Didysis68."
+  citata_rodoma: |
+    220.
+    146
+
+    ## Puslapis 163
+
+    Il KNYGA
+    nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­
+    nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos
+    žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­
+    sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
+    privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
+    rią vėliau patvirtino Kazimieras Didysis68.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

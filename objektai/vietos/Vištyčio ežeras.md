@@ -42,6 +42,16 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-172039
   teiginys: "Nubrėžtos sienos ėjo pro Vištyčio ežerą į Leipūnos upę."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Grajevo: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vištyčio ežeras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Grajevo: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vištyčio ežeras\" parinktas kaip owner_note_path. Targetas \"Grajevo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-156469
 
@@ -65,6 +75,7 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

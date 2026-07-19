@@ -38,9 +38,26 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
 - t-001
   global_id: t-191799
   teiginys: "Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Opisanie statystyczne miasta Wilna: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Opisanie statystyczne miasta Wilna\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1835 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Balińskio veikalo citavimą ir leidimo duomenis. Narbuto kontekstas paliktas kaip citavimo atribucija, nepridedant argumentacijos iš aplinkinio teksto."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174681
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.'
@@ -59,8 +76,7 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191799
 ## Citatos
 
 - id: c-174681
@@ -76,8 +92,16 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
     kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
     ir panašios į šią prielaidos, prie žemės buvęs antras mė­
     nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
-  citata_rodoma: "Iš tikrųjų galima daryti tokią prielaidą, ir ji\nbūtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir\npriežastį, kurios privertė besiveržiančius su žemėmis ir\n1\nOpisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.\nWilno,\n1835. S. 6—9*."
+  citata_rodoma: |
+    Iš tikrųjų galima daryti tokią prielaidą, ir ji
+    būtų gana įtikėtina; bet kaip galima įsivaizduoti jėgą ir
+    priežastį, kurios privertė besiveržiančius su žemėmis ir
+    1
+    Opisanie stalystyczne miasta Wilna. Przez Michala Balinskiego.
+    Wilno,
+    1835. S. 6—9*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

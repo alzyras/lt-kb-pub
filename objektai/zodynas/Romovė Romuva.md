@@ -33,6 +33,12 @@ Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskrit
 - t-001
   global_id: t-194554
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176954
 
@@ -46,6 +52,7 @@ Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskrit
     1—9). Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos
     vieta apskritai nebeatsekama.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -1,0 +1,43 @@
+import fs from "node:fs"
+import path from "node:path"
+import { collectCorpusEvidenceIntegrityIssues } from "../quartz/util/evidenceIntegrity"
+
+const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
+
+function listMarkdownFiles(dir: string): string[] {
+  return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const entryPath = path.join(dir, entry.name)
+    if (entry.isDirectory()) return listMarkdownFiles(entryPath)
+    return entry.isFile() && entry.name.endsWith(".md") ? [entryPath] : []
+  })
+}
+
+const documents = listMarkdownFiles(objectRoot).map((file) => ({
+  filePath: path.relative(process.cwd(), file),
+  markdown: fs.readFileSync(file, "utf8"),
+}))
+const issues = collectCorpusEvidenceIntegrityIssues(documents)
+
+const counts = Object.fromEntries(
+  [...new Set(issues.map((issue) => issue.code))].map((code) => [
+    code,
+    issues.filter((issue) => issue.code === code).length,
+  ]),
+)
+
+console.log(
+  JSON.stringify(
+    {
+      files: documents.length,
+      issues: issues.length,
+      counts,
+      examples: issues.slice(0, 20),
+    },
+    null,
+    2,
+  ),
+)
+
+if (issues.length > 0) {
+  process.exitCode = 1
+}

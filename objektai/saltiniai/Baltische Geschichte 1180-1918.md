@@ -40,6 +40,9 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
 - t-001
   global_id: t-31627
   teiginys: "R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33536
 
@@ -54,8 +57,12 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
     schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte
     1180-1918_** **(WiBG).**
     (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
-  citata_rodoma: "— R. Wittram :** **_Baltische Geschichte\n1180-1918_** **(WiBG).**\n(^168) **Pvz."
+  citata_rodoma: |
+    — R. Wittram :** **_Baltische Geschichte
+    1180-1918_** **(WiBG).**
+    (^168) **Pvz.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

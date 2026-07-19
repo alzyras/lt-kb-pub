@@ -57,6 +57,10 @@ Nenurodyta
 - t-001
   global_id: t-195353
   teiginys: "Medinis grūdimo indas ir jo gamybos būdas."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177762
 - susijęs iš [[objektai/daiktai/Piestu.md#claim-t-195354|Piestu]]: Ąžuolo gabalas, kuriuo muša grūdus piestoje.
@@ -75,8 +79,13 @@ Nenurodyta
     kanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­
     dami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus,
     reikalauja daug sveikatos. Muša, kol ima tikšti aliejus.
-  citata_rodoma: "Toj pačioj piestoj muša ir aliejų iš kanapių grūdų. Šiam reikalui \nkanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­\ndami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus, \nreikalauja daug sveikatos. Muša, kol ima tikšti aliejus."
+  citata_rodoma: |
+    Toj pačioj piestoj muša ir aliejų iš kanapių grūdų. Šiam reikalui
+    kanapgrūdžius išdžiovina piestoje, stambiai sumala girnose ir neskir­
+    dami žievių pila į piestą. Piestoje ilgai muša. Tas darbas nuobodus,
+    reikalauja daug sveikatos. Muša, kol ima tikšti aliejus.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

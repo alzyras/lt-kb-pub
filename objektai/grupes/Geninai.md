@@ -33,6 +33,12 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
 - t-001
   global_id: t-192981
   teiginys: 'Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išlaikyta nuomonės ir galimumo forma, nes citata nėra tvirtas faktas. Nepridėtos alternatyvios kilmės versijos.'
+  susije_objektai: 'llm_object: Kijevas; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_place: Bizantija; mentioned_place: Salos'
+  semantiniai_rysiai: '[[objektai/grupes/Geninai|Geninai]] gyveno Kijevas'
   pagrindžia:
     - c-175751
 - susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
@@ -56,8 +62,9 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
     kiek šiauriau prie jūros sąsiaurio. Kiti mano, jog tai bu­
     vę chiomitai, kilę iš Chijo salos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192981

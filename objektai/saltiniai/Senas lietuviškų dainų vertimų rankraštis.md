@@ -33,9 +33,16 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 - t-001
   global_id: t-194852
   teiginys: "Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177248
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis.'
@@ -54,8 +61,7 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194852
 ## Citatos
 
 - id: c-177248
@@ -63,15 +69,23 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
-    aukodavo namų dievams ir vaišindavo jais svečią. Atnašau­
-    jant mažą auką namiškių susibūrime arba ant aukuro, kai bū­
-    davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
-    būdavo galima apsieiti. Tą patį paprotį aukojant duoną ir vy­
-    ną nuo senų senovės pastebime pietų tautose. Iki mūsų dienų
-    apie tai Lietuvoje išliko padavimas.
-  citata_rodoma: "Kaip ir alus, midus įeida­\nvo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­\nvilizuotose tautose buvo beveik toks pat.\nSenovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė\nkunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas\n5 Senas lietuviškų dainų vertimų rankraštis.\n6 Czacki."
+    Kaip ir alus, midus įeida­
+    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
+    vilizuotose tautose buvo beveik toks pat.
+    Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
+    kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
+    5 Senas lietuviškų dainų vertimų rankraštis.
+    6 Czacki.
+  citata_rodoma: |
+    Kaip ir alus, midus įeida­
+    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
+    vilizuotose tautose buvo beveik toks pat.
+    Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
+    kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
+    5 Senas lietuviškų dainų vertimų rankraštis.
+    6 Czacki.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

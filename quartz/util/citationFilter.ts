@@ -37,7 +37,7 @@ export function collectClaimCount(markdown: string): number {
       inClaims = heading[1].trim() === "Teiginiai"
       continue
     }
-    if (inClaims && /^\s*-\s+t-\d{3,}\s*$/i.test(line)) {
+    if (inClaims && /^-\s+t-\d{3,}\s*$/i.test(line)) {
       count += 1
     }
   }
@@ -76,7 +76,7 @@ function entryEnd(lines: string[], startIndex: number): number {
       end > startIndex &&
       line.trim() !== "" &&
       lineIndent(line) <= startIndent &&
-      /^\s*-\s+/.test(line)
+      /^-\s+/.test(line)
     ) {
       break
     }
@@ -87,7 +87,7 @@ function entryEnd(lines: string[], startIndex: number): number {
 
 function parseEntry(lines: string[]): EvidenceEntry | null {
   const first = lines[0] ?? ""
-  const idMatch = first.match(/^\s*-\s+(?:id:\s*)?([tcq]-\d{3,})\s*$/i)
+  const idMatch = first.match(/^-\s+(?:id:\s*)?([tcq]-\d{3,})\s*$/i)
   if (!idMatch) {
     return null
   }
@@ -165,7 +165,7 @@ function parseEntry(lines: string[]): EvidenceEntry | null {
 function parseEntries(sectionLines: string[]): EvidenceEntry[] {
   const entries: EvidenceEntry[] = []
   for (let idx = 0; idx < sectionLines.length; idx++) {
-    if (!/^\s*-\s+(?:id:\s*)?[tcq]-\d{3,}\s*$/i.test(sectionLines[idx])) {
+    if (!/^-\s+(?:id:\s*)?[tcq]-\d{3,}\s*$/i.test(sectionLines[idx])) {
       continue
     }
     const end = entryEnd(sectionLines, idx)

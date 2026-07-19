@@ -40,6 +40,13 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
 - t-001
   global_id: t-194155
   teiginys: "Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176768
 
@@ -47,6 +54,12 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
 - t-002
   global_id: t-196801
   teiginys: "Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-178919
 
@@ -70,14 +83,21 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
     memoriale Albertas Goštautas iškyla kaip Lietuvos
     valstybės gelbėtojas, valdant Kazimiero sūnui Žygi­
     mantui II.
-  citata_rodoma: "Pagaliau, bene svarbiausias liudininkas Alberto Goš­\ntauto naudai yra jo paties memorialas lotynų kalba, \nrašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­\nnigaikščio Žygimanto II Kazimieraičio žmonai karalie­\nnei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­\nkreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos\n5 1  2r."
+  citata_rodoma: |
+    Pagaliau, bene svarbiausias liudininkas Alberto Goš­
+    tauto naudai yra jo paties memorialas lotynų kalba,
+    rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku­
+    nigaikščio Žygimanto II Kazimieraičio žmonai karalie­
+    nei Bonai Sforcai 5 8 . Dėmesį į šio kūrinio reikšmę at­
+    kreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos
+    5 1  2r.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194155
-
 - id: c-178919
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -99,6 +119,7 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
     moriale esama ir daugiau elementų, atitinkančių By­
     chovco kroniką.
   statusas: verified
+  atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

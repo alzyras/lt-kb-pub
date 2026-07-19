@@ -34,13 +34,19 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-001
   global_id: t-72706
   teiginys: "Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71086
 
-<a id="claim-t-72707"></a>
+<a id="claim-t-72708"></a>
 - t-002
-  global_id: t-72707
+  global_id: t-72708
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71089
 
@@ -48,6 +54,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-003
   global_id: t-72710
   teiginys: "Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71088
 
@@ -55,6 +64,12 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-004
   global_id: t-182962
   teiginys: "Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166361
 
@@ -70,12 +85,12 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72706
-
 - id: c-71088
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -89,14 +104,15 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     vaivadijų atstovai pareikšdavo, jog jie klausimą palieką spręsti
     „broliams", t. y. savo seimeliui. Tą dalyką turėdavo išspręsti
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
-  citata_rodoma: "Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai."
+  citata_rodoma: |
+    Tą dalyką turėdavo išspręsti tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72710
-
 - id: c-71089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -106,12 +122,12 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     dveji metai. Tai buvo vadinamieji ordinariniai seimai,
     kurių darbas trukdavo šešetą savaičių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72707
-
+    - t-72708
 - id: c-166361
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -124,6 +140,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tiek kitų seimų laikas, pačiam seimui sutinkant, galėjo būti ir
     pratęstas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

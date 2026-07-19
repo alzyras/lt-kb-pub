@@ -42,6 +42,20 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - t-001
   global_id: t-36338
   teiginys: "1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Machmetas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Machmetas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas palaikė Machmetą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Machmetas (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-38532
 
@@ -49,8 +63,23 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - t-002
   global_id: t-184994
   teiginys: "Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Krymas: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kafos gyventojai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys rodo numatytą Kafos gyventojų judėjimą su raiteliais į Krymą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kafos gyventojai keliavo į Krymas (0.75)"
   pagrindžia:
     - c-168355
+    - c-002
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31498|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
@@ -242,8 +271,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184994
 ## Citatos
 
 - id: c-38532
@@ -257,14 +285,17 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
     marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
     vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
-  citata_rodoma: "Jis suima savo valdžion visus Pavolgio, Juod­\nmarių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­\nvimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+  citata_rodoma: |
+    Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­
+    vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36338
-
 - id: c-168355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -288,14 +319,25 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     mams. Kai Vilniuje susirinko lietuvių seimas, atvyko
     čia Lenkijos pasiuntiniai Stanislovas Ostrorogas, Kali-
     šo vaivada, ir Jonas Ritvianskis, karalystės maršalas.
-  citata_rodoma: "Karalius Ka-\nK afos g y v e n to ja i ieš-\nzimieras jiems leido ir savo\nko p a g a lb in in k ų  Len-\nvaldomose žemėse pasitelkti\nk ijo je\nalgininkų. Jie čia pasisamdė\npenkis šimtus raitelių, ku­\nriuos turėjo vestis į Krymą per Lietuvos žemes. Kai\ntraukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­\nrių ir miestiečių."
+  citata_rodoma: |
+    Karalius Ka-
+    K afos g y v e n to ja i ieš-
+    zimieras jiems leido ir savo
+    ko p a g a lb in in k ų  Len-
+    valdomose žemėse pasitelkti
+    k ijo je
+    algininkų. Jie čia pasisamdė
+    penkis šimtus raitelių, ku­
+    riuos turėjo vestis į Krymą per Lietuvos žemes. Kai
+    traukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­
+    rių ir miestiečių.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184994
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Oramas]]
 - Buvo valdoma: [[objektai/asmenys/Kutlubugas]]

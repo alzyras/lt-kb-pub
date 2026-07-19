@@ -40,6 +40,16 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
 - t-001
   global_id: t-76196
   teiginys: "Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdo žygiai į Maskvą: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutės kalnas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: mention_match, event, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutės kalnas\" parinktas kaip owner_note_path. Targetas \"Algirdo žygiai į Maskvą\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73827
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176317|Birutė]]: Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.
@@ -66,13 +76,22 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
     o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
     pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
     patvirtina vienalaikiai rašytiniai šaltiniai.
-  citata_rodoma: "Visų pirma atsirado \nherojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad \nepinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-\nčiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į \nMaskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi \ndar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-\ndota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, \no Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti \npasakojimai užrašyti XV–XVI a."
+  citata_rodoma: |
+    Visų pirma atsirado
+    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76196
-
 ## Ryšiai
 - Birutės kalnas priklausė [[objektai/vietos/Palanga]]

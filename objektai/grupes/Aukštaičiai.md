@@ -42,6 +42,12 @@ media_all_json: |-
 - t-001
   global_id: t-194991
   teiginys: "Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177374
 
@@ -49,6 +55,12 @@ media_all_json: |-
 - t-002
   global_id: t-194992
   teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31037
 
@@ -62,12 +74,12 @@ media_all_json: |-
     Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
     grupes, (1377.II.) teriojo Aukštaičius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194992
-
 - id: c-177374
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -80,6 +92,7 @@ media_all_json: |-
     kilmės reikia ieškoti Aukštaičiuose. Iš Aukštaičių kilo Lietuvos
     valstybės pradžia.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

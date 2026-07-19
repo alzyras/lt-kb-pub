@@ -42,6 +42,19 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - t-001
   global_id: t-87481
   teiginys: "Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaclovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaclovas (Medininkų vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vaclovas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas (Medininkų vyskupas)\" parinktas kaip owner_note_path. Targetas \"Vaclovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1542 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Vaclovo titulą ir dalyvavimą, o pradinis teiginys yra nutrūkęs sąrašas."
   pagrindžia:
     - c-83461
 
@@ -68,8 +81,23 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
     ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
     ištikimų ir mums mielų.
-  citata_rodoma: "Duota Vilniuje, penktadienį, rytojaus dieną po \nViešpaties žengimo į dangų šventės, tūkstantis penki šimtai \nketuriasdešimt antraisiais Viešpaties metais ir mūsų kara­\nlystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­\ndešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­\nje tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui \nPovilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­\nlovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui \nHlebavičiui, Naugarduko vaivadai Stanislovui Goštautui, \nVitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­\nnui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­\ntuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui \nir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai \ništikimų ir mums mielų."
+  citata_rodoma: |
+    Duota Vilniuje, penktadienį, rytojaus dieną po
+    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
+    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
+    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
+    dešimt šeštaisiais. Dalyvaujant didžiai gerbiamiems Kristu­
+    je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui
+    Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­
+    lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui
+    Hlebavičiui, Naugarduko vaivadai Stanislovui Goštautui,
+    Vitebsko vaivadai Motiejui Klokavičiui, rūmų maršalkai Jo­
+    nui Zabžezinskiui, raikytojui Jurgiui Astikaičiui, mūsų Lie­
+    tuvos Didžiosios Kunigaikštystės stalininkui Dubrovskiui
+    ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
+    ištikimų ir mums mielų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

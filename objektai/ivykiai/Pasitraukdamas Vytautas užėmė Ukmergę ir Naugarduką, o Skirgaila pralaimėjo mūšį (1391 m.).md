@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185631
   teiginys: "Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168992
 
@@ -59,6 +72,19 @@ Nenurodyta
 - t-002
   global_id: t-185632
   teiginys: "Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168993
 
@@ -66,6 +92,13 @@ Nenurodyta
 - t-003
   global_id: t-196234
   teiginys: "Gavęs žinią, kad Skirgaila skuba iš Rusios pralaužti apsupimo žiedo, Vytautas nutraukė apsupimą ir išvyko link Prūsijos."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168992
 
@@ -99,15 +132,32 @@ Nenurodyta
     a p su p im ą
     apsupimą ir išvyko link Prū­
     sijos.
-  citata_rodoma: "Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais. Tuo \nmetu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­\nrėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat \ngandai nepaprastai padidino Skirgailos jėgas, gal, žlu­\ngus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal \ndėl kitų sumetimų Vytautas vos išgirdęs, jog artėja\nSkirgaila, skubiai nutraukė \nN u tra u k ia \na p su p im ą \napsupimą ir išvyko link Prū­\nsijos."
+  citata_rodoma: |
+    Porą kartų pa-
+    Puola,
+    p a tird a m a s
+    bandė visomis jėgomis pulti
+    nuostolių
+    pilis ir abu kartus buvo at­
+    stumti su nuostoliais. Tuo
+    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
+    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
+    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
+    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
+    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
+    Skirgaila, skubiai nutraukė
+    N u tra u k ia
+    a p su p im ą
+    apsupimą ir išvyko link Prū­
+    sijos.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185631
     - t-196234
-
 - id: c-168993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -132,6 +182,7 @@ Nenurodyta
     kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
     gą valdymą ir Lietuvos bėdas.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

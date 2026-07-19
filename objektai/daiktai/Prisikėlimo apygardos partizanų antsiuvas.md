@@ -55,10 +55,25 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-78675"></a>
+<a id="claim-t-78676"></a>
 - t-001
-  global_id: t-78675
+  global_id: t-78676
   teiginys: "Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuvos laisvės kovos sąjūdis: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prisikėlimo apygardos partizanų antsiuvas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Antsiuvas tiesiogiai įvardytas kaip patvirtintas bendru LLKS antsiuvu, todėl siejamas su LLKS."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prisikėlimo apygardos partizanų antsiuvas priklausė Lietuvos laisvės kovos sąjūdis (0.78)"
+  temporaliniai_duomenys: "įvykio data: po 1949 m.; įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie antsiuvą ir remiasi citata."
+  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
   pagrindžia:
     - c-75889
 
@@ -87,8 +102,9 @@ Nenurodyta
     Mūšis
     Išaušo gražus rugpjūčio 13-osios rytas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78675
+    - t-78676

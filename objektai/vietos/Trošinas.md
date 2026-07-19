@@ -39,8 +39,26 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 - t-001
   global_id: t-192907
   teiginys: "Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingijos gynybos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jotvingija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trošinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingija: mention_match, place, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trošinas\" parinktas kaip owner_note_path. Targetas \"Jotvingija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "sutarties data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis „ši sutartis“ išskleistas pagal citatos kontekstą kaip sutartis dėl Jotvingijos gynybos. Nepridėta šalių detalių daugiau, nei tiesiogiai remia citata."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175677
+    - c-001
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
 - susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartimi kryžiuočiai atidavė šeštadalį jotvingių krašto, o kunigaikštis įsipareigojo remti Ordiną.
 - susijęs iš 1260 m. Trošino sutartis: 1260 m. Trošino sutartis buvo pasirašyta Trošine 1260 m. birželio 15 dieną.
@@ -64,8 +82,7 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192907
 ## Citatos
 
 - id: c-175677
@@ -86,8 +103,18 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
     į patį Polesės vidurį, kažkur tarp Bugo ir Narevo su­
     spaudęs jotvingius, birželio 23 dieną visiškai juos sutriuš­
     kino.
-  citata_rodoma: "Tuo atveju, jei iš sve­\ntimos šalies būtų surengtas koks ¡priešiškas žygis į Jot-\nvingijos kraštą, jos gynyba turi ¡būti bendras Ordino ir\nkunigaikščio- reikalas, o jei kuri nors pakrikštyta gentis\nsukiltų prieš kryžiuočius, kunigaikštis turi skubėti jiems į\n¡pagalbą. Si sutartis buvo pasirašyta Trošine 1260 metų\nbirželio 15 dieną1.\n133\nNuosmukis."
+  citata_rodoma: |
+    Tuo atveju, jei iš sve­
+    timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-
+    vingijos kraštą, jos gynyba turi ¡būti bendras Ordino ir
+    kunigaikščio- reikalas, o jei kuri nors pakrikštyta gentis
+    sukiltų prieš kryžiuočius, kunigaikštis turi skubėti jiems į
+    ¡pagalbą. Si sutartis buvo pasirašyta Trošine 1260 metų
+    birželio 15 dieną1.
+    133
+    Nuosmukis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

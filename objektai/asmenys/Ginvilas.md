@@ -33,6 +33,20 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - t-001
   global_id: t-186111
   teiginys: "Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde_miesta -> Polockas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ginvilas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ginvilas paveldėjo valdžią Polocke."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Ginvilas valdė miestą Polockas (0.88); Ginvilas buvo sūnus Mingaila (0.84)"
   pagrindžia:
     - c-169472
 
@@ -53,6 +67,7 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
     sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
     nevaliojo pakęsti rusų kunigaikščiai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

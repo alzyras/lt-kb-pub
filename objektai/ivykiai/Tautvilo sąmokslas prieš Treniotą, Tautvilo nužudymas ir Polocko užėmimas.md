@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185830
   teiginys: "Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Treniota: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tautvilas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Treniota: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sąmokslas prieš Treniotą tiesiogiai pagrindžia Tautvilo priešiškumą Treniotai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169191
 
@@ -75,6 +88,7 @@ Nenurodyta
     lockietis, Tautvilo dvariškis,
     ir valdovas kuo skubiausiai jį užgniaužė.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

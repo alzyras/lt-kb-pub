@@ -49,9 +49,16 @@ Nenurodyta
 - t-001
   global_id: t-189839
   teiginys: "Narbutas, remdamasis Lasickiu, Kremarą apibūdina kaip dievaitį, globojusį aukai tinkamus kuilius ir paršavedes; jam aukodavo alų pildami į ugnį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172722
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Lasickiu, Kremarą apibūdina kaip dievaitį, globojusį aukai tinkamus kuilius ir paršavedes; jam aukodavo alų pildami į ugnį.'
@@ -73,8 +80,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189839
 ## Citatos
 
 - id: c-172722
@@ -89,8 +95,19 @@ Nenurodyta
     duojamas netikėtas susitikimas, kvietimas susiimti rankomis,
     toliau visokios abiejų pastangos nutverti vienas kitą į glėbį ir
     grumtis; visa tai vyksta juokaujamu tonu.
-  citata_rodoma: "168\n\n## Puslapis 168\n\nba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­\nkelti lūšną nors keletą žingsnių į šalį.\nKremara (Kremara)\nSis dievaitis ypač globojo kuilius ir paršavedės, tinkamus\nsau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­\nnurodo, tik tai, kad jam aukodavo pildami alaus į ugnį."
+  citata_rodoma: |
+    168
+
+    ## Puslapis 168
+
+    ba kokie burtai arba jeigu pasivaidena naktį, jie stengiasi nu­
+    kelti lūšną nors keletą žingsnių į šalį.
+    Kremara (Kremara)
+    Sis dievaitis ypač globojo kuilius ir paršavedės, tinkamus
+    sau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­
+    nurodo, tik tai, kad jam aukodavo pildami alaus į ugnį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

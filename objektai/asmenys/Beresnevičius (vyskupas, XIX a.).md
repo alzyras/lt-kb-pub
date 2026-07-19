@@ -44,6 +44,20 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
 - t-001
   global_id: t-200912
   teiginys: "Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties."
+  atnaujinta: "2026-07-15 12:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Beresnevičius (vyskupas, XIX a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Beresnevičius (vyskupas, XIX a.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lenkai Lietuvoje Dr. J. Basanavičius"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184255
 
@@ -70,6 +84,7 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
     bażnyčiose [Kaune, Vendżiogaloje, L abunave ir
     k.] vēl įvesta tapo lenkiška kalba.
   statusas: verified
+  atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,18 @@ Dalevskiui, K.
 - t-001
   global_id: t-40451
   teiginys: "T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> egzekucija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Dalevskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "egzekucija: mention_match, thing, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Dalevskis\" parinktas kaip owner_note_path. Targetas \"egzekucija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44526
 
@@ -60,8 +72,12 @@ Dalevskiui, K.
     karti sukilėlius. Teroro sąlygomis su-
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
-  citata_rodoma: "Egzekucijos buvo įvykdytos B. Kolyškai,\nZ. Sierakauskui, T. Dalevskiui, K. Kalinaus-\nkui, A. Mackevičiui ir kitiems."
+  citata_rodoma: |
+    Egzekucijos buvo įvykdytos B. Kolyškai,
+    Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-
+    kui, A. Mackevičiui ir kitiems.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

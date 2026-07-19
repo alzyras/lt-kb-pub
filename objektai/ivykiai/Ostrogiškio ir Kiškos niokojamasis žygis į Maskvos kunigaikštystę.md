@@ -45,6 +45,13 @@ Nenurodyta
 - t-001
   global_id: t-196233
   teiginys: "Kojelavičius vaizduoja Glinskį visą naktį drąsinus maskvėnų vadus ir žadėjus lengvą pergalę, nes jis tikėjęs menkomis karaliaus jėgomis."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169183
 
@@ -74,6 +81,7 @@ Nenurodyta
     kydamas gerai žinąs, jog karaliaus jėgos menkos, ir
     tvirtai žadėdamas lengvą pergalę.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

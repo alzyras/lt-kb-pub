@@ -38,6 +38,19 @@ Chodynicki : Legenda o męczeństwie czternastu Franciszkanów w Wilnie , AW, IV
 - t-001
   global_id: t-31750
   teiginys: "K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Algirdą apibūdina kaip Vilniuje sėdintį valdovą, todėl atsargiai siejama valdovo ir miesto valdymo sąsaja."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė miestą Vilnius (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33599
 
@@ -58,8 +71,13 @@ Chodynicki : Legenda o męczeństwie czternastu Franciszkanów w Wilnie , AW, IV
     (^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w
     Wilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­
     czennikach wileńskich_** **, AW, V, zesz.
-  citata_rodoma: "**\n(^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w\nWilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­\nczennikach wileńskich_** **, AW, V, zesz."
+  citata_rodoma: |
+    **
+    (^4) **K. Chodynicki :** **_Legenda o męczeństwie czternastu Franciszkanów w
+    Wilnie_** **, AW, IV, 1927, 53-78 p.; (”)** **_Geneza i rozwój legendy o trzech mę­
+    czennikach wileńskich_** **, AW, V, zesz.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

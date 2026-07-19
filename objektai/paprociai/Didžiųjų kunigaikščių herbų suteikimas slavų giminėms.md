@@ -64,8 +64,16 @@ Nenurodyta
     lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
     kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
-  citata_rodoma: "Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;\ntokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys\nlietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­\nklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­\nlėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­\nkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,\nLietuvoje šeimos herbai egzistavo70."
+  citata_rodoma: |
+    Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
+    tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys
+    lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, pri­
+    klausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), ga­
+    lėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Len­
+    kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
+    Lietuvoje šeimos herbai egzistavo70.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -85,8 +93,18 @@ Nenurodyta
     erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
     Vilniuje 1354 metų rugpjūčio 7 dieną.
-  citata_rodoma: "Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis\npakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat\natnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­\nriška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus\nkryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­\nliai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du\nerelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su\nPodbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas\nVilniuje 1354 metų rugpjūčio 7 dieną."
+  citata_rodoma: |
+    Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
+    Vilniuje 1354 metų rugpjūčio 7 dieną.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

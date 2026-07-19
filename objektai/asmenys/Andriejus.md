@@ -41,6 +41,16 @@ media_all_json: |-
 - t-001
   global_id: t-35028
   teiginys: "Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Andriejus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andriejus\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37983
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -61,8 +71,14 @@ media_all_json: |-
     1385 mt. rugpiūčio 14 d. Krėvės pilyje buvo pasirašytas aktas,
     nurodąs sąlygas, kuriomis Jogaila, vesdamas karalaitę Jad­
     vygą, sutiko užimti Lenkijos sostą.
-  citata_rodoma: "Prieš jį\nrengė koaliciją vyriausias brolis Andriejus. Žmogus plataus maš­\ntabo norų, bet netinkąs kurti bei vykinti planams, Jogaila grie­\nbėsi mažlenkių ponų pakištos minties kaip išganymo.\n1385 mt."
+  citata_rodoma: |
+    Prieš jį
+    rengė koaliciją vyriausias brolis Andriejus. Žmogus plataus maš­
+    tabo norų, bet netinkąs kurti bei vykinti planams, Jogaila grie­
+    bėsi mažlenkių ponų pakištos minties kaip išganymo.
+    1385 mt.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

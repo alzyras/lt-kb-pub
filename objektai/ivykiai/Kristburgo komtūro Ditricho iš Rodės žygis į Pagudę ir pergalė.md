@@ -50,6 +50,17 @@ Nenurodyta
 - t-001
   global_id: t-62835
   teiginys: "Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kristburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63661
 
@@ -68,11 +79,11 @@ Nenurodyta
 
                      142 (137).
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-63661
@@ -89,8 +100,18 @@ Nenurodyta
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
-  citata_rodoma: "Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais\npatraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko\nnamo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,\npasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė\nprūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu\nper vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę\nprūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią\nmergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip\npalaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis."
+  citata_rodoma: |
+    Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
+    patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko
+    namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo,
+    pasisuko  į priešą, pasitikėdamas dievo gailestingumu, drąsiai pradėjo kovą ir privertė
+    prūsus bėgti, o broliai ir maldininkai, juos besivydami, tiek daug jų nukovė, kad vargu
+    per vieną dieną toks mažas karių pulkelis būtų kada pajėgęs nukauti. Paimtieji į nelaisvę
+    prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
+    mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
+    palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

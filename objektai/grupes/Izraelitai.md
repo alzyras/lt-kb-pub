@@ -33,6 +33,20 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
 - t-001
   global_id: t-189490
   teiginys: "Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Izraelitai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izraelitai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172378
 
@@ -40,9 +54,16 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
 - t-002
   global_id: t-194566
   teiginys: "Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176966
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.'
@@ -60,8 +81,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194566
 ## Citatos
 
 - id: c-172378
@@ -77,12 +97,12 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
     žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
     žius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189490
-
 - id: c-176966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -96,8 +116,15 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
     Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-
     bergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:
     Dewe Periamas absolo mus!
-  citata_rodoma: "Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­\ngų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir\nJeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­\npiter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.\nSenovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką\nsenovės romėnų Dominus, aukščiausiasis viešpats."
+  citata_rodoma: |
+    Šiuos pavadinimus, ypač Jeou, verta paaiškinti. Iš mitolo­
+    gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir
+    Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju­
+    piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.
+    Senovės lietuvių kalboje Kun, Kungs, Kunigas reiškia tą, ką
+    senovės romėnų Dominus, aukščiausiasis viešpats.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,10 +41,20 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-54812"></a>
+<a id="claim-t-54813"></a>
 - t-001
-  global_id: t-54812
+  global_id: t-54813
   teiginys: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje."
+  atnaujinta: "2026-06-13 17:21"
+  sprendimo_priezastis: "gap::vocabulary::validation_repair"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "locus geni: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"locus geni\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55823
 
@@ -62,10 +72,18 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
     dumos kylantis Miestas, savo istorija susiliečiantis su amžinin­
     kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
     turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
-  citata_rodoma: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra\nsusijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.\nNors M. Balinskio istorinio veikalo stilių vargu ar galima pava­\ndinti romantišku, tačiau pats tyrimo objektas - tai iš amžių glū­\ndumos kylantis Miestas, savo istorija susiliečiantis su amžinin­\nkais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas\nturi savo praeitį, kuri užrašyta istoriniuose dokumentuose."
+  citata_rodoma: |
+    Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra
+    susijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.
+    Nors M. Balinskio istorinio veikalo stilių vargu ar galima pava­
+    dinti romantišku, tačiau pats tyrimo objektas - tai iš amžių glū­
+    dumos kylantis Miestas, savo istorija susiliečiantis su amžinin­
+    kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
+    turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54812
+    - t-54813

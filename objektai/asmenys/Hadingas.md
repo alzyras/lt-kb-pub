@@ -33,8 +33,24 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
 - t-001
   global_id: t-190155
   teiginys: "Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Danija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hadingas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Danija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Hadingas citatoje tiesiogiai įvardytas Danijos karaliumi."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Hadingas buvo valdovas Danija (0.90)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173038
+    - c-001
 - susijęs iš [[objektai/zodynas/Froblosk.md#claim-t-189293|Froblosk]]: Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,8 +69,7 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190155
 ## Citatos
 
 - id: c-173038
@@ -72,13 +87,19 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
     vo šeimininką, namiškius ir kaimynus. Reikėdavo jam tuoj pat
     užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
     mą, arba pas patį Krivių Krivaitį.
-  citata_rodoma: "Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-\nriui, Balderis pakeitė ją žmonių auka (Eddy)."
+  citata_rodoma: |
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190155
-
 ## Ryšiai
 - Hadingas buvo valdovas [[objektai/vietos/Danija]]

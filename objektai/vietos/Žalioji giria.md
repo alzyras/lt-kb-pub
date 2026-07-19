@@ -47,6 +47,16 @@ media_all_json: |-
 - t-001
   global_id: t-08029
   teiginys: "Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Isteris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žalioji giria: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Isteris: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalioji giria\" parinktas kaip owner_note_path. Targetas \"Isteris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10473
 
@@ -54,6 +64,17 @@ media_all_json: |-
 - t-002
   global_id: t-08030
   teiginys: "Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "keliavo_i -> Žalioji giria: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žalioji giria: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuviais vadintos grupės įsitraukimą į Žaliąją girią."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  semantiniai_rysiai: "Lietuviai keliavo į Žalioji giria (0.76); Lietuviai gyveno Žalioji giria (0.70)"
   pagrindžia:
     - c-10474
 
@@ -61,6 +82,16 @@ media_all_json: |-
 - t-003
   global_id: t-08031
   teiginys: "Algirdas iš Žaliosios girios per Įstrupį užpuolė krikščionis iš užpakalio."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žalioji giria: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalioji giria\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10472
 - susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
@@ -78,14 +109,17 @@ media_all_json: |-
     iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
         po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
-  citata_rodoma: "iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį\nkrikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės\npo laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių."
+  citata_rodoma: |
+    iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
+    krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
+    po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08031
-
 - id: c-10473
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -96,14 +130,19 @@ media_all_json: |-
         kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
-  citata_rodoma: "Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į\nrytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,\nkuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj\nteka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir\nIsteris, arba Dunojus."
+  citata_rodoma: |
+    Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
+    rytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,
+    kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
+    teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
+    Isteris, arba Dunojus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08029
-
 - id: c-10474
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -115,8 +154,15 @@ media_all_json: |-
         girią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai
         traškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe
         savo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti.
-  citata_rodoma: "Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,\nnorinčius dar aiškiau apie tą žinoti siunčiu į viršiau minavotus raštus, o pats grįžtu prie tos dalies\ngetų tautos, kurią šiandien lietuviais vadina, kuri, po kruvinų karių įsitraukusi į Žaliąją ir Juodąją\ngirią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai\ntraškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe\nsavo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti."
+  citata_rodoma: |
+    Čia aš, trumpai parodęs notis Lietuvos tautos, žiloj senovėj nutikusias, ir šios dienos jos kraštą,
+    norinčius dar aiškiau apie tą žinoti siunčiu į viršiau minavotus raštus, o pats grįžtu prie tos dalies
+    getų tautos, kurią šiandien lietuviais vadina, kuri, po kruvinų karių įsitraukusi į Žaliąją ir Juodąją
+    girią, ilgainiui visoj šiaurinėj įšleitėj, kaip viršiau sakiau, lig pat Žemaičių pajūrių išsiplėtė ir tenai
+    traškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe
+    savo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

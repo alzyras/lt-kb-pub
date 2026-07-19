@@ -41,6 +41,18 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 - t-001
   global_id: t-40151
   teiginys: "J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Aukštuolaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Aukštuolaitis\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1919 m.; įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44356
 
@@ -74,8 +86,17 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
     netrukus buvo išformuotas; Kėdainiuose —
     karininkų J. Variakojo ir J. Šarausko va-
     dovaujami Panevėžio ir Kėdainių sričių
-  citata_rodoma: "Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,\n\nriuomenė ir birželį baltgudžių\npulkas buvo išformuotas); Tauragėje - be-\nsikuriantis Žemaičių batalionas, vadovau-\njamas avantiūristo J. Aukštuolaičio, kuris\nnetrukus buvo išformuotas; Kėdainiuose —\nkarininkų J."
+  citata_rodoma: |
+    Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,
+
+    riuomenė ir birželį baltgudžių
+    pulkas buvo išformuotas); Tauragėje - be-
+    sikuriantis Žemaičių batalionas, vadovau-
+    jamas avantiūristo J. Aukštuolaičio, kuris
+    netrukus buvo išformuotas; Kėdainiuose —
+    karininkų J.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

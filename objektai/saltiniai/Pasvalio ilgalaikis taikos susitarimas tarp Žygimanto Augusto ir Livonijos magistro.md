@@ -63,4 +63,3 @@ Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

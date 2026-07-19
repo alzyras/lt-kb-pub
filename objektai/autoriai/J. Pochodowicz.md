@@ -42,6 +42,16 @@ Pochodowicz, t.
 - t-001
   global_id: t-30695
   teiginys: "J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Balstogė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Pochodowicz: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Balstogė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Pochodowicz\" parinktas kaip owner_note_path. Targetas \"Balstogė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32976
 - susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
@@ -52,12 +62,17 @@ Pochodowicz, t.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    1, 1967 ; dal. 2 (Indeksy), Varšuva 1967.**
+    **
     **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,
     t. 1 (1944-1962), Balstogė 1964; t. 2 (1965-1967), Varšuva 1971 (kaip RoB
     priedai).
-  citata_rodoma: "**\n**_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,\nt. 1 (1944-1962), Balstogė 1964; t. 2 (1965-1967), Varšuva 1971 (kaip RoB\npriedai)."
+  citata_rodoma: |
+    **
+    **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,
+    t. 1 (1944-1962), Balstogė 1964; t. 2 (1965-1967), Varšuva 1971 (kaip RoB
+    priedai).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

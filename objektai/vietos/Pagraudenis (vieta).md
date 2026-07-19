@@ -35,30 +35,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pagraudenį ir, nesulaukęs pasipriešinimo, nukovė 1000 gyventojų. Daukanto pasakojime Pagraudenio gyventojai, nujautę kryžėjų antpuolį, užsirakino Gedimino pilyje ir atlaikė Ragainės komtūro Libencelio puolimą.
+Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo. Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o.
 
 ## Teiginiai
 
 <a id="claim-t-201137"></a>
 - t-001
   global_id: t-201137
-  teiginys: "Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pagraudenį ir, nesulaukęs pasipriešinimo, nukovė 1000 gyventojų."
+  teiginys: "Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184487
 
 <a id="claim-t-201138"></a>
 - t-002
   global_id: t-201138
-  teiginys: "Daukanto pasakojime Pagraudenio gyventojai, nujautę kryžėjų antpuolį, užsirakino Gedimino pilyje ir atlaikė Ragainės komtūro Libencelio puolimą."
+  teiginys: "Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184488
 
 ## Citatos
 
 - id: c-184487
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 496"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 496."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu mistras kry­
     žėjų ginklaudino dvi kariauni ant lietuvių: vieną
@@ -76,6 +87,7 @@ Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pa
     mė; koksai galas buvo tos kovės, nėra su visu iš­
     reikštas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,9 +95,8 @@ Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pa
     - t-201137
 
 - id: c-184488
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 528"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 528."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kryžė­
     jai, turėdami tą už ženklą atenčios nelaimos, grįžo
@@ -105,6 +116,7 @@ Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pa
     kantresniai įgulė gynės, kurios vos pačias papilęs
     nudeginęs sugrįžo į Parusnį.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

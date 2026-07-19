@@ -43,6 +43,20 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 - t-001
   global_id: t-79132
   teiginys: "Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Jogailaičiai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Motiejus Huniadis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jogailaičiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Motiejus Huniadis buvo priešiškas Jogailaičiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Motiejus Huniadis buvo priešas Jogailaičiai (0.95); Motiejus Huniadis buvo valdovas Vengrija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1484 m.; įvykio data: 1490 m.; įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir apima citatoje nurodytą statusą bei mirties metus."
   pagrindžia:
     - c-76219
 
@@ -50,6 +64,20 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 - t-002
   global_id: t-79133
   teiginys: "Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Jogailaičiai: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Motiejus Huniadis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jogailaičiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje Huniadis tiesiogiai apibūdintas kaip priešiškas Jogailaičiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Motiejus Huniadis buvo priešas Jogailaičiai (0.95); Motiejus Huniadis buvo valdovas Vengrija (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1484 m.; valdymo laikotarpis: 1490 m.; valdymo laikotarpis: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vengrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Motiejų Huniadį ir paremtas citata."
   pagrindžia:
     - c-76219
 
@@ -82,15 +110,31 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
     KIJEVAS O Svarbesni miestai jlija M y =
     : : =] his 40 1484 m. Turkijos sultonas Bajazidas II užėmė Moldavi-
     Ula O Miestai = y?
-  citata_rodoma: "odie o ( a\n‘E> oo 3 =\n2 “Batas0, 3 By sie iy Perejeslal < „\nLvovas a a ecas\n= Aa 42 erczeas Kereso =\n~ > erkasai ų 2\niš a Ka a nigoro\n1490 m. mirė Jogailaičiams priešiškas (A oN\nVengrijos karalius Motiejus Huniadis oo = A\n\nėlyn\nEN\n\nvieta ir žygio į Klecką kryptis dera K\nKrymo totorių žygių į LDK kryptys „> a a 610\nX."
+  citata_rodoma: |
+    odie o ( a
+    ‘E> oo 3 =
+    2 “Batas0, 3 By sie iy Perejeslal < „
+    Lvovas a a ecas
+    = Aa 42 erczeas Kereso =
+    ~ > erkasai ų 2
+    iš a Ka a nigoro
+    1490 m. mirė Jogailaičiams priešiškas (A oN
+    Vengrijos karalius Motiejus Huniadis oo = A
+
+    ėlyn
+    EN
+
+    vieta ir žygio į Klecką kryptis dera K
+    Krymo totorių žygių į LDK kryptys „> a a 610
+    X.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79132
     - t-79133
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Jogailaičiai]]
 - Motiejus Huniadis buvo valdovas [[objektai/vietos/Vengrija]]

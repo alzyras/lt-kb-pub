@@ -58,6 +58,19 @@ Nenurodyta
 - t-001
   global_id: t-87105
   teiginys: "1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mediniai rūmai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemutinės pilies sienos ir mediniai rūmai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mediniai rūmai: mention_match, thing, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemutinės pilies sienos ir mediniai rūmai\" parinktas kaip owner_note_path. Targetas \"Mediniai rūmai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-83084
 
@@ -83,8 +96,21 @@ Nenurodyta
     III KNYGA
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
-  citata_rodoma: "Jų pabūgę miestiečiai, raginami ir remiami Vilniaus \nvyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­\nlimu, išmetę medinius statinius. Atrodo, kad tais metais bu­\nvo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­\nkrypusios ir suskilusios, be to, išaugo panašūs ir erdvūs\n232\n\n## Puslapis 249\n\nIII KNYGA\nmediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­\nveinei*."
+  citata_rodoma: |
+    Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
+    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
+    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
+    232
+
+    ## Puslapis 249
+
+    III KNYGA
+    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
+    veinei*.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

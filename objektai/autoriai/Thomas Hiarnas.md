@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas daug kartų citavo Thomasą Hiarną, Latvijos ir Estijos kraštų istorijų autorių.
+Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas.
 
 ## Teiginiai
 
 <a id="claim-t-201433"></a>
 - t-001
   global_id: t-201433
-  teiginys: "Daukantas daug kartų citavo Thomasą Hiarną, Latvijos ir Estijos kraštų istorijų autorių."
+  teiginys: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184783
 
 ## Citatos
 
 - id: c-184783
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 5"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienas jų — istorikas ir rašytojas Augustas
     Friedrichas Kotzebue, išleidęs „Senosios Prūsijos is­
@@ -50,6 +55,7 @@ Daukantas daug kartų citavo Thomasą Hiarną, Latvijos ir Estijos kraštų isto
     vėlyvosios vokiečių šviečiamojo laikotarpio istorio­
     grafijos atstovu Augustu Ludewigu Schloezeriu.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

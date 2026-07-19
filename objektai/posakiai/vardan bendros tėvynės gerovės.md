@@ -33,9 +33,22 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
 - t-001
   global_id: t-185484
   teiginys: "Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vardan bendros tėvynės gerovės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vardan bendros tėvynės gerovės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168845
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
@@ -63,8 +76,7 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185484
 ## Citatos
 
 - id: c-168845
@@ -90,8 +102,25 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
     brachtas, o šiais metais ir ketvirtas — Aleksandras), to­
     dėl visaip baudėsi Bresto seime nukreipti nuo Podolės
     didikų užmojus.
-  citata_rodoma: "Esą visuomenė\ngalinti būti rami tik tada, kai karalius asmeniškai val­\ndysiąs Lietuvą; svetur išvykusio karaliaus žodis ne­\ngreitai juos pasiekiąs ir paprastai negalįs būti veiks­\nmingas. Kas be ko, jie visi neišpasakytai trokštą, kad\nkaralius asmeniškai juos valdytų, tačiau jie to nesitiki,\n511\n\n## Puslapis 510\n\nn es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad\nkaralius ilgam  atitrūktų nuo jų valstybės reikalų. Štai\nto d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­\nd a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,\nSlucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais\nAlgirdo proanūkį."
+  citata_rodoma: |
+    Esą visuomenė
+    galinti būti rami tik tada, kai karalius asmeniškai val­
+    dysiąs Lietuvą; svetur išvykusio karaliaus žodis ne­
+    greitai juos pasiekiąs ir paprastai negalįs būti veiks­
+    mingas. Kas be ko, jie visi neišpasakytai trokštą, kad
+    karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
+    511
+
+    ## Puslapis 510
+
+    n es p u ik iai žino, jo g  len k ai nieku b ū d u  n esu tik sią, kad
+    karalius ilgam  atitrūktų nuo jų valstybės reikalų. Štai
+    to d ėl vardan b en d ro s tėvynės gerovės jie karštai mal­
+    d a u ją  paskirti Lietuvai vietininku Simoną Olelkaitį,
+    Slucko kunigaikštį, savo pusbrolio sūnų, garsų žygiais
+    Algirdo proanūkį.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

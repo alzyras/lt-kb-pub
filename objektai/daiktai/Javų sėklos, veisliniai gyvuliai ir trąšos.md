@@ -69,6 +69,9 @@ Nenurodyta
 - t-001
   global_id: t-23286
   teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166686
 
@@ -76,6 +79,10 @@ Nenurodyta
 - t-002
   global_id: t-23287
   teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-166686
 
@@ -98,6 +105,7 @@ Nenurodyta
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

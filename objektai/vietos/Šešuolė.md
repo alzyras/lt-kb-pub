@@ -34,6 +34,16 @@ media_all_json: |-
 - t-001
   global_id: t-42360
   teiginys: "Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Virinta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šešuolė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Virinta: mention_match, place, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šešuolė\" parinktas kaip owner_note_path. Targetas \"Virinta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45460
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
@@ -61,8 +71,14 @@ media_all_json: |-
     traukti į Šešuolės- Virintos upių liniją.
     Lietuvių pajėgos ėmė rengtis kontr-
     puolimui.
-  citata_rodoma: "Giedraičius gynęs\n2-asis pulkas buvo priverstas atsi-\ntraukti į Šešuolės- Virintos upių liniją.\nLietuvių pajėgos ėmė rengtis kontr-\npuolimui."
+  citata_rodoma: |
+    Giedraičius gynęs
+    2-asis pulkas buvo priverstas atsi-
+    traukti į Šešuolės- Virintos upių liniją.
+    Lietuvių pajėgos ėmė rengtis kontr-
+    puolimui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

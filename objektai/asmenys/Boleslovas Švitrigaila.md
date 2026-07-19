@@ -34,6 +34,20 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - t-001
   global_id: t-185932
   teiginys: "Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Boleslovas Švitrigaila pasitraukė į Kijevą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Boleslovas Švitrigaila keliavo į Kijevas (0.88)"
   pagrindžia:
     - c-169293
 
@@ -41,6 +55,19 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - t-002
   global_id: t-185933
   teiginys: "Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsiveržimas į Lietuvos žemes tiesiogiai palaiko puolimo ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169294
 
@@ -48,6 +75,19 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - t-003
   global_id: t-185934
   teiginys: "Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Boleslovas Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boleslovas Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169295
 
@@ -55,6 +95,13 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - t-004
   global_id: t-196429
   teiginys: "Kojelavičiaus pasakojime Žygimantas žygiavo į Livoniją, gavęs žinių, kad Livonijos riteriai, laužydami susitarimą, padėjo Boleslovui Švitrigailai."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178680
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis.md#claim-t-185546|Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]: 1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.
@@ -81,14 +128,20 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
     dešimties tūkstančių kariuomene, įrengusia prie Ašme­
     nos stovyklą.
-  citata_rodoma: "Prasidėjus mūšiui, aukščiau­\nsiasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­\nšyje dešimt tūkstančių karių, Boleslovas vargais nega­\nlais paspruko į Kijevą. Keturi tūkstančiai vyrų pateko\nį nelaisvę, tarp jų — žymieji karo vadai ir jo šalinin­\nkai."
+  citata_rodoma: |
+    Prasidėjus mūšiui, aukščiau­
+    siasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­
+    šyje dešimt tūkstančių karių, Boleslovas vargais nega­
+    lais paspruko į Kijevą. Keturi tūkstančiai vyrų pateko
+    į nelaisvę, tarp jų — žymieji karo vadai ir jo šalinin­
+    kai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185932
-
 - id: c-169294
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -118,14 +171,29 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     didikų bičiuliai, giminaičiai ir valstiečiai: visi nekentė
     Žygimanto, neseniai išžudžiusio didikus, o neapykantą
     dar labiau kurstė šio tiesiog neįtikimas godumas.
-  citata_rodoma: "Mat karalius Jo­\ngaila, prie žemės lenkiamas ir metų, ir anksčiau patirtų\n- negandų, negalvojo jau apie karą, o svajojo apie namų\nramybę. Lenkų kariuomenės vadai tuo metu buvo įsi­\nvėlę į naują karą su Prūsija, Štai todėl Boleslovas ir\nišsirengė į žygį padalijęs kariuomenę trimis žygio vo­\nromis: su viena pats įsiveržė į senąsias Lietuvos žemes\nir jas nuniokojo. Jo karve-\nN e b a u d žia m i siau bia\ndžiai ir šalininkai Kaributai-\nL ie tu v o s že m e s\ntis, Ostrogiškis, Nosis su ki­\ntomis dviem voromis siautėjo\n449\n15."
+  citata_rodoma: |
+    Mat karalius Jo­
+    gaila, prie žemės lenkiamas ir metų, ir anksčiau patirtų
+    - negandų, negalvojo jau apie karą, o svajojo apie namų
+    ramybę. Lenkų kariuomenės vadai tuo metu buvo įsi­
+    vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
+    išsirengė į žygį padalijęs kariuomenę trimis žygio vo­
+    romis: su viena pats įsiveržė į senąsias Lietuvos žemes
+    ir jas nuniokojo. Jo karve-
+    N e b a u d žia m i siau bia
+    džiai ir šalininkai Kaributai-
+    L ie tu v o s že m e s
+    tis, Ostrogiškis, Nosis su ki­
+    tomis dviem voromis siautėjo
+    449
+    15.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185933
-
 - id: c-169295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -147,14 +215,30 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     kyti, žmogus buvo vertas tauresnės dalios, nes paliko
     busimosioms kartoms pavyzdį, koks ištikimas turi būti
     tarnas savo valdovui.
-  citata_rodoma: "Tuo tarpu rinkosi į seimą pakviesti\ndidikai, ilgai nežinoję, nei ką\nLuom ai,\np a k v ie s ti\nj\nkunigaikštis ketino su jais pa-\nseim ą,\ndaryti, nei kas su juo pačiu\nkelionėje išgirdę apie nužudymą, jie pradžiugo, ar nu­\nliūdo. Mat, pašalinus Žygimantą, kiekvienas jautėsi sau­\ngesnis ir džiaugėsi, kad pranyko nuolatinė baimė, ta­\nčiau, antra vertus, visi po senovei nekentė ir keikė Bo­\nleslovą Švitrigailą, kuris štai dabar vėl galėjo tikėtis\ngrįžti į valdžią. Tuo tarpu Boleslovas, jau anksčiau są­\nmokslininkų įspėtas, tylomis išvyko iš Dakijos ir sku­\nbėjo į Lietuvą."
+  citata_rodoma: |
+    Tuo tarpu rinkosi į seimą pakviesti
+    didikai, ilgai nežinoję, nei ką
+    Luom ai,
+    p a k v ie s ti
+    j
+    kunigaikštis ketino su jais pa-
+    seim ą,
+    daryti, nei kas su juo pačiu
+    kelionėje išgirdę apie nužudymą, jie pradžiugo, ar nu­
+    liūdo. Mat, pašalinus Žygimantą, kiekvienas jautėsi sau­
+    gesnis ir džiaugėsi, kad pranyko nuolatinė baimė, ta­
+    čiau, antra vertus, visi po senovei nekentė ir keikė Bo­
+    leslovą Švitrigailą, kuris štai dabar vėl galėjo tikėtis
+    grįžti į valdžią. Tuo tarpu Boleslovas, jau anksčiau są­
+    mokslininkų įspėtas, tylomis išvyko iš Dakijos ir sku­
+    bėjo į Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185934
-
 - id: c-178680
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -186,6 +270,7 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     susitarimą, teikė Boleslovui
     pagalbą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

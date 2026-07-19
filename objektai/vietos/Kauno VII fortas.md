@@ -39,14 +39,37 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - t-001
   global_id: t-76472
   teiginys: "TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno VII fortas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno VII fortas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24168
     - c-74043
-
 <a id="claim-t-183601"></a>
 - t-002
   global_id: t-183601
   teiginys: "Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno VII fortas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno VII fortas\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-166993
 
@@ -69,14 +92,18 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo
     masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-
     jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
-  citata_rodoma: "Viena jo kuopa padaryta\nzonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo\nmasinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-\njų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte."
+  citata_rodoma: |
+    Viena jo kuopa padaryta
+    zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo
+    masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-
+    jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76472
-
 - id: c-74043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -95,8 +122,17 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     bet ir žmoniškąsias vertybes), susiformavo dalies visuomenės įvaizdis,
     Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
     (R. Mičiūno reprodukcija)
-  citata_rodoma: "Ginkluoti partizanai \nnekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai \npaleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) \nbatalionas prie Kauno karo komendantūros. Viena jo kuopa padaryta \nzonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo \nmasinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-\njų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte. Su-\ndėtingoje 1939–1941 m."
+  citata_rodoma: |
+    Ginkluoti partizanai
+    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
+    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
+    batalionas prie Kauno karo komendantūros. Viena jo kuopa padaryta
+    zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo
+    masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-
+    jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte. Su-
+    dėtingoje 1939–1941 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -116,6 +152,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100
     įstatymų ir nutarimų neveikė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

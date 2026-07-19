@@ -34,6 +34,16 @@ Greta didžiojo etmono M.
 - t-001
   global_id: t-42451
   teiginys: "Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Radvila: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Radvila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Kristupą Radvilą įvardija M. Radvilos sūnumi, nors kandidato „Radvila“ pastaba nėra visiškai specifinė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45514
 
@@ -41,8 +51,34 @@ Greta didžiojo etmono M.
 - t-002
   global_id: t-187521
   teiginys: "Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etmonas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etmonas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170472
+
+<a id="claim-t-187522"></a>
+- t-003
+  global_id: t-187522
+  teiginys: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pareigybės ir titulai suformuluoti kaip šaltinio vartosena. Nepridėtas ankstesnis Mstislavlio epizodas ar Olbrachto mirtis.'
+  susije_objektai: 'mentioned_place: Polockas; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mstislavlis'
+  pagrindžia:
+    - c-003
 - susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63715|Jonas Chodkevičius]]: Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103053|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.
@@ -132,24 +168,27 @@ Greta didžiojo etmono M.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
 - susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.'
+- c-003
+  santrauka: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Ir didysis kunigaikštis Aleksandras, maty­
-    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
-    ties perduoti etmono vietą. Ponas Petras patarė per­
-    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
-    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
-    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+    Ir, apsupę Mstislavlio miestą, ilgokai stovėjo ir,
+    pridarę aplink miestą daug žalos, sugrįžo atgal5 8 .
+    Ponas Žemaičių seniūnas ir visos Lietuvos Didžio­
+    sios Kunigaikštystės etmonas ilgokai stovyklavo kalnuo­
+    se ir paskui nužygiavo į Lietuvą, čeką Joną Cerniną su
+    visais svetimšaliais nusiuntė į Polocką kaip įgulą5 9 .
+    Septyni tūkstančiai dešimtaisiais, o nuo Kristaus gi­
+    mimo tūkstantis penki šimtai pirmaisiais metais Toru-
+    nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
+    tas 6 0 , karaliaus Aleksandro brolis.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187522
 ## Citatos
 
 - id: c-45514
@@ -175,14 +214,30 @@ Greta didžiojo etmono M.
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
-  citata_rodoma: "Greta didžiojo\netmono M. Radvilos buvo jo šešio-\nlikmetis sūnus Kristupas Radvila,\nvėliau tapęs didžiuoju etmonu ir\nvadintas Perkūnu, lauko etmo-\nnas Grigalius Chodkevičius,\nbūsimasis lauko etmonas\nRomanas Sanguška, būsima-\nsis Livonijos etmonas Jonas\nChodkevičius ir daugelis kitų.\n\nŽygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a."
+  citata_rodoma: |
+    Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42451
-
 - id: c-170472
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -199,8 +254,15 @@ Greta didžiojo etmono M.
     riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 43.
-  citata_rodoma: "Ir didysis kunigaikštis Aleksandras, maty­\ndamas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­\nties perduoti etmono vietą. Ponas Petras patarė per­\nduoti Volynės kunigaikščiui Konstantinui Ostrogiš- \nkiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius \ndavė etmono vietą kunigaikščiui Konstantinui2 5 ."
+  citata_rodoma: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

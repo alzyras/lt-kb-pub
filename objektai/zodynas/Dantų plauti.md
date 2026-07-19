@@ -57,6 +57,10 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
 - t-001
   global_id: t-195634
   teiginys: "„Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178037
 
@@ -64,6 +68,10 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
 - t-002
   global_id: t-195635
   teiginys: "„Dantų plauti“ vadinamas gavėnios pradžios paprotys."
+  atnaujinta: "2026-07-12 14:54"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178036
 
@@ -79,14 +87,15 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     Vakar nerimavo ir išdykavo jaunieji, o suaugę namus dabojo,
     dėlto šiandien pirmieji liūdni ir nusiminę, seniai gi eina į gertuvę ar
     pas kits kitą bonkelėmis degtinės nešini. Eina „dantų plauti“ .
-  citata_rodoma: "Eina „dantų plauti“ ."
+  citata_rodoma: |
+    Eina „dantų plauti“ .
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195635
-
 - id: c-178037
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -105,8 +114,10 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     po
     tris
     žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
-  citata_rodoma: "Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima."
+  citata_rodoma: |
+    Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

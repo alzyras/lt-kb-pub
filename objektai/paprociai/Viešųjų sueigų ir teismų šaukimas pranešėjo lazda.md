@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-189910
   teiginys: "Pranešėjo lazda buvo naudojama teismams ir viešosioms sueigoms skelbti, o jos ženklas rodė svarstytiną dalyką."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172793
 
@@ -75,6 +82,7 @@ Nenurodyta
     tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
     dystė, - medine strėle arba kirviu).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

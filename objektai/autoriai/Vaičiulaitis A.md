@@ -42,9 +42,12 @@ Dusburgietis teigia, kad vaičiulaitis A.
 - t-001
   global_id: t-60807
   teiginys: "A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61439
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
@@ -58,8 +61,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60807
 ## Citatos
 
 - id: c-61439
@@ -83,8 +85,11 @@ Dusburgietis teigia, kad vaičiulaitis A.
     Kalvaitis V. (Kalwaitis W.)
     Kaminskis A. (Kamiński)
     Kandeimas (D. — Candeym, Jer.
-  citata_rodoma: "Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,\nK., 1940, t. 3, p. 315—319."
+  citata_rodoma: |
+    Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
+    K., 1940, t. 3, p. 315—319.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

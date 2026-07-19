@@ -32,6 +32,21 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 - t-001
   global_id: t-191332
   teiginys: "Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Sudargai: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sudargai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo sąjungą tarp skirių ir sudargų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Skiriai buvo sąjungininkas su Sudargai (0.74)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174214
 
@@ -39,6 +54,12 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 - t-002
   global_id: t-197842
   teiginys: "Šios vilties ir narsos, ku rią suteikia keršto troškimas, skatinami, skiri ai skubėjo su savo vadais Eduka ir Volfu pagelbėti svebams."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179359
 - susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191201|Eduka]]: Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą.
@@ -68,12 +89,12 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
     galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
     žmonėms.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191332
-
 - id: c-179359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -88,6 +109,7 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
     venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
     pakrantę ir pasidavė romėnų globai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,9 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
 - t-001
   global_id: t-187325
   teiginys: 'Po 1494.II.5 sutarties Serpeiskas paliko LDK.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Chlepenis; mentioned_place: Kijevas; mentioned_place: Maskva'
   pagrindžia:
     - c-170355
 - susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
@@ -63,8 +66,9 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
     щ ая Новгородскую и Киевскую сокращенные летописи.
   citata_rodoma: "jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš- \nčovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti. \nUubuckas, Serpeiskas, M censkas paliko LDK."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187325

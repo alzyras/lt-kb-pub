@@ -46,6 +46,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195220
   teiginys: "1899 m. „Virittaja“ paskelbtas A. R. Niemio darbas „Apie mūsų (suomių) būrimo poezijos atsiradimą“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177588
 
@@ -53,6 +57,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-002
   global_id: t-195221
   teiginys: "1900 m. „Virittaja“ paskelbta A. R. Niemio „Ritvalos Helkos šventė“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177586
 
@@ -60,6 +68,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-003
   global_id: t-195222
   teiginys: "1914 m. „Virittaja“ paskelbtas A. R. Niemio straipsnis „Apie lietuvių burtažodžius“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177587
 
@@ -76,14 +88,19 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     (Viename
     Suomijos
     valsčiuje kaimiečių apeigos, indoeuropiečių kilmės).
-  citata_rodoma: "1900. Ritvalos Helkos šventė. \nVirittaja. \n(Viename \nSuomijos \nvalsčiuje kaimiečių apeigos, indoeuropiečių kilmės)."
+  citata_rodoma: |
+    1900. Ritvalos Helkos šventė.
+    Virittaja.
+    (Viename
+    Suomijos
+    valsčiuje kaimiečių apeigos, indoeuropiečių kilmės).
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195221
-
 - id: c-177587
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -93,14 +110,15 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Mažesni
     pranešimai XLVIII.
     1914 L. Apie lietuvių burtažodžius. Virittaja.
-  citata_rodoma: "1914 L. Apie lietuvių burtažodžius. Virittaja."
+  citata_rodoma: |
+    1914 L. Apie lietuvių burtažodžius. Virittaja.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195222
-
 - id: c-177588
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -110,8 +128,12 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1899. Apie mūsų (suomių) būrimo poezijos atsiradimą.
     Virit­
     taja (toks laikraštis).
-  citata_rodoma: "1899. Apie mūsų (suomių) būrimo poezijos atsiradimą. \nVirit­\ntaja (toks laikraštis)."
+  citata_rodoma: |
+    1899. Apie mūsų (suomių) būrimo poezijos atsiradimą.
+    Virit­
+    taja (toks laikraštis).
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

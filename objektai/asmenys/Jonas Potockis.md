@@ -41,9 +41,23 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
 - t-001
   global_id: t-190070
   teiginys: "Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Suroveckis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Potockis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Suroveckis: mention_match, author, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Potockis\" parinktas kaip owner_note_path. Targetas \"Suroveckis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172953
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.'
@@ -55,13 +69,35 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
     kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
     Nauk. -  Warszawa, 1812).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-190070
+- c-002
+  santrauka: 'Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    265
 
+    ## Puslapis 265
+
+    pavadinta nuo žodžio retro, nes herulai grįžę atgal į Baltijos
+    jūros vandenų sistemą. Pakanka nuodugnių Jono Potockio ty­
+    rimų, iš kurių paaiškėjo, kad Retros šventyklos žynys vadinosi
+    Krewe, kad ten bf’ta lietuvių stabų, kad pagaliau Meklenburge
+    ir Lužicoje surasti užrašai runomis herulų kalba, arba lietuviš­
+    ka tarme.
+    Taigi slavai obotritai, žinomi Helmoldui ir kitiems istori­
+    kams, užvaldė lietuvių tautos šventyklas ir iš jų mokėsi dievų
+    garbinimo, kuris buvo artimas lietuviškam6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 ## Citatos
 
 - id: c-172953
@@ -75,8 +111,14 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
     jau dėl to, kad buvo rastos Lietuvos žemėje.
     III
     lentelė, 10-asis piešinys.
-  citata_rodoma: "Apie tai byloja ir pats žibintas -\naiškus šviesos atributas**.\n30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-\nkio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol\nNauk. -  Warszawa, 1812)."
+  citata_rodoma: |
+    Apie tai byloja ir pats žibintas -
+    aiškus šviesos atributas**.
+    30 Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potoc-
+    kio raštuose, Suroveckio studijoje (Rocznik Towarzystwa Przyjaciol
+    Nauk. -  Warszawa, 1812).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

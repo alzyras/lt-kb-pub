@@ -41,6 +41,19 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
 - t-001
   global_id: t-70360
   teiginys: "1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos bei tranzito."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Lenkija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai minimas Lietuvos ir Lenkijos santykių užmezgimas prekybos kontekste, tačiau tai yra pageidavimas, todėl pasitikėjimas vidutinis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Lietuva prekiavo su Lenkija (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-46931
 
@@ -56,8 +69,13 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
     konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
     santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
     VI. 2).
-  citata_rodoma: "Ambasadorių Konferencija jau po Klaipėdos\nkonvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų\nsantykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.\nVI. 2)."
+  citata_rodoma: |
+    Ambasadorių Konferencija jau po Klaipėdos
+    konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
+    santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
+    VI. 2).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

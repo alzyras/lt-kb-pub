@@ -42,6 +42,19 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - t-001
   global_id: t-30211
   teiginys: "Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Avinjonas: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bernardas (abatas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Avinjonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė nurodo kelionės kilmę iš Avinjono, bet allowed relation turi kryptį į vietą, todėl ryšys nėra idealus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Bernardas (abatas) keliavo į Avinjonas (0.64)"
+  temporaliniai_duomenys: "kelionės data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Bernardas (abatas) keliavo į Avinjonas“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32712
 
@@ -62,8 +75,16 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
     riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
     mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
-  citata_rodoma: "Visoje toje per ištisus metus po Gedimino laiškų parašymo\nsusidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono\natvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),\nGediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose\npopiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­\nriusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­\nmino nespaudė jokia koalicija, nei baimino koks sosto pretendentas."
+  citata_rodoma: |
+    Visoje toje per ištisus metus po Gedimino laiškų parašymo
+    susidariusioje politinėje būklėje, kada 1324 vasarop iš Avignono
+    atvyko Rygon du legatai (vysk. Baltramiejus ir abatas Bernardas),
+    Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose
+    popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
+    riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
+    mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

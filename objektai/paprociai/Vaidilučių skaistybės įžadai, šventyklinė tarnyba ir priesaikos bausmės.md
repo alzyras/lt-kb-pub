@@ -48,10 +48,42 @@ Nenurodyta
 - t-002
   global_id: t-194637
   teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177035
-
+    - c-002
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Antikos laikais panašiai būdavo
+    apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
+    laikui pasiversdavę vilkais.
+    Vaidilutės (Wejdalotki)
+    Tai buvo žynės, duodančios amžinos skaistybės -  tikra šio
+    žodžio prasme -  įžadus; sulaužiusias tą priesaiką bausdavo
+    32 Lettische Grammatik.
+    300
+
+    ## Puslapis 300
+
+    žiauriausia mirtimi: sudegindavo gyvas, išrengtas, pakabintas
+    ant aukšto medžio, užkasdavo gyvas arba nuskandindavo Ne­
+    mune, įkišę į odinį, akmenų prikimštą maišą ir užsiuvę kartu
+    su katinu, šunimi bei nuodinga gyvate.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 - c-002
   santrauka: 'Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -64,13 +96,12 @@ Nenurodyta
     moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
     josi su gražiąja lytimi, buvo vaidilučių sritis.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194637
 ## Citatos
 
 - id: c-177035
@@ -87,8 +118,16 @@ Nenurodyta
     dinimas yra Lasickio mitologijoje.
     Anksčiau, straipsnyje „Deivės“, matėme savitą moterų die­
     vybę, arba hamadriadę, vadintą ragana.
-  citata_rodoma: "Jas rink­\ndavo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­\ndavo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­\nkurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­\nlutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su\nmoterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­\njosi su gražiąja lytimi, buvo vaidilučių sritis."
+  citata_rodoma: |
+    Jas rink­
+    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
+    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
+    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
+    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
+    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
+    josi su gražiąja lytimi, buvo vaidilučių sritis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

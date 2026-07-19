@@ -40,6 +40,13 @@ media_all_json: |-
 - t-001
   global_id: t-194841
   teiginys: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177237
 
@@ -63,6 +70,7 @@ media_all_json: |-
     pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
     dalykus*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

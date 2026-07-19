@@ -33,6 +33,21 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 - t-001
   global_id: t-190384
   teiginys: "Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Romovė: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krivis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Romovė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sako, kad Romovės mieste gyveno asmuo, vadinamas kriviu."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Krivis gyveno Romovė (0.88)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173267
 
@@ -40,6 +55,20 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 - t-002
   global_id: t-190385
   teiginys: "Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dusburgietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dusburgiečio kronikos perdirbinio autorius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgietis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgiečio kronikos perdirbinio autorius\" parinktas kaip owner_note_path. Targetas \"Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173268
 
@@ -47,6 +76,12 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 - t-003
   global_id: t-197289
   teiginys: "O todėl ne pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173268
 
@@ -68,9 +103,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-173267
@@ -106,12 +138,12 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     įdėta „kilmingesnis iš jų“ (eorum nobilior), taigi reiktų manyti,
     jog Dusburgiečio tekstas netikslus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190384
-
 - id: c-173268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -126,8 +158,16 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     klausimas, ar toks palyginimas ir išvados prikergimas galėjo
     kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
     istorinė tiesa dėl to tapo abejotina?
-  citata_rodoma: "O todėl ne­\npritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­\nvį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.\nBetgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla \nklausimas, ar toks palyginimas ir išvados prikergimas galėjo \nkiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji \nistorinė tiesa dėl to tapo abejotina?"
+  citata_rodoma: |
+    O todėl ne­
+    pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri­
+    vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs.
+    Betgi, įsigilinus į nurodytosios vietos antrąją dalį, iškyla
+    klausimas, ar toks palyginimas ir išvados prikergimas galėjo
+    kiek nors pakenkti dalyko esmei arba istorinei tiesai? Ar toji
+    istorinė tiesa dėl to tapo abejotina?
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

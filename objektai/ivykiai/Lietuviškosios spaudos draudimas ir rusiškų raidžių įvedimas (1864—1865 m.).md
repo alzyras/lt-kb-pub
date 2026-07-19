@@ -49,6 +49,10 @@ Nenurodyta
 - t-001
   global_id: t-66672
   teiginys: "Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66869
 
@@ -56,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-66673
   teiginys: "Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66868
 
@@ -73,12 +80,12 @@ Nenurodyta
     keliu į Lietuvą. Varginga kova su spausdos draudimu tebuvo
     laimėta tik po 40 metų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66673
-
 - id: c-66869
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -88,8 +95,13 @@ Nenurodyta
     1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
     draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
     ir platinti.
-  citata_rodoma: "Tik jo įpėdinis Kaufmanas\n1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-\ndraudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti\nir platinti."
+  citata_rodoma: |
+    Tik jo įpėdinis Kaufmanas
+    1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
+    draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
+    ir platinti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

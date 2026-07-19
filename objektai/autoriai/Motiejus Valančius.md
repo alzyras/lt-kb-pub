@@ -26,18 +26,19 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE'
+media_primary_canonical_url: 'https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_150000015899936'
+media_primary_directness: 'contextual'
+media_primary_relation_type: 'depicts'
+media_primary_json: |-
+  {"mediaId":"m-633bbc6a5941babc89697ba6","title":"Varnių vyskupijos centras","caption":"Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius.","originalTitle":"Varnių vyskupijos centras","creator":"Vincas Uždavinys","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_150000015899936","sourceUrl":"https://www.limis.lt/api/media/150000015899936/150000015899961/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ailtireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architecture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architectuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitectură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkkitehtuuri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arquitetura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Claonchló","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Film négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotonegatiiv","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatief","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatiivi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativ","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negative","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativfilm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatīvs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektúra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arkitektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arquitectura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatiu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativos","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyvas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyw","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatív","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religión (disciplina)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Építészet","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/Motiejus Valančius.md","title":"Motiejus Valančius","itemType":"autorius","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T14:44:20.644596+03:00","reviewedAt":"2026-07-17T14:45:10.456366+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis mūrinis pastatas, tačiau žmogaus portreto ar tiesioginio atvaizdo nėra.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad tai Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius; pateiktas autorius ir muziejaus šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai nevaizduoja Motiejaus Valančiaus, bet metadata aiškiai pagrindžia konkrečią istorinę vietos sąsają su target.","isPrimary":0}
 media_direct_json: |-
   []
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-633bbc6a5941babc89697ba6","title":"Varnių vyskupijos centras","caption":"Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius.","originalTitle":"Varnių vyskupijos centras","creator":"Vincas Uždavinys","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_150000015899936","sourceUrl":"https://www.limis.lt/api/media/150000015899936/150000015899961/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ailtireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architecture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architectuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitectură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkkitehtuuri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arquitetura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Claonchló","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Film négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotonegatiiv","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatief","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatiivi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativ","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negative","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativfilm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatīvs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektúra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arkitektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arquitectura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatiu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativos","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyvas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyw","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatív","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religión (disciplina)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Építészet","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/Motiejus Valančius.md","title":"Motiejus Valančius","itemType":"autorius","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T14:44:20.644596+03:00","reviewedAt":"2026-07-17T14:45:10.456366+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis mūrinis pastatas, tačiau žmogaus portreto ar tiesioginio atvaizdo nėra.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad tai Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius; pateiktas autorius ir muziejaus šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai nevaizduoja Motiejaus Valančiaus, bet metadata aiškiai pagrindžia konkrečią istorinę vietos sąsają su target.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-633bbc6a5941babc89697ba6","title":"Varnių vyskupijos centras","caption":"Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius.","originalTitle":"Varnių vyskupijos centras","creator":"Vincas Uždavinys","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_150000015899936","sourceUrl":"https://www.limis.lt/api/media/150000015899936/150000015899961/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ailtireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architecture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architectuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Architektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Argazki","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitectură","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektuur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arhitektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkitettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arkkitehtuuri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Arquitetura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Berufsfotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Claonchló","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Creideamh","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Erlijio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Film négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Foto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotoattēls","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fotonegatiiv","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Fénykép","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Grianghraf","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatief","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatiivi","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativ","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negative","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negativfilm","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Negatīvs","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Náboženství","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Négatif","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photograph","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photographie professionnelle","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professional photography","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Professionele fotografie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religion","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religioon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religião","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Religión","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliġjon","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Reliģija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Uskonto","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vallás","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Valokuva","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektúra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architektūra","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"architettura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arkitektur","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"arquitectura","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia profesjonalna","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografia professionale","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografija","language":"def","canonicalCode":"fotografija"},{"provider":"europeana","field":"edm_concepts","label":"fotografía","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"fotografía profesional","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"história","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatiu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negativos","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyvas","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatyw","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"negatív","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"náboženstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesionálna fotografia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"profesonali fotografija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"professionel fotografering","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religione","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religió","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"religión (disciplina)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Építészet","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/Motiejus Valančius.md","title":"Motiejus Valančius","itemType":"autorius","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T14:44:20.644596+03:00","reviewedAt":"2026-07-17T14:45:10.456366+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis mūrinis pastatas, tačiau žmogaus portreto ar tiesioginio atvaizdo nėra.","metadataEvidence":"Aprašyme konkrečiai nurodyta, kad tai Varnių vyskupijos centras, kuriame iki 1854 m. gyveno Motiejus Valančius; pateiktas autorius ir muziejaus šaltinis.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai nevaizduoja Motiejaus Valančiaus, bet metadata aiškiai pagrindžia konkrečią istorinę vietos sąsają su target.","isPrimary":0}]
 ---
 # Motiejus Valančius
 
@@ -72,6 +73,16 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-001
   global_id: t-00056
   teiginys: "Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysk. Valančius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vysk. Valančius: mention_match, author, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Vysk. Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-163236
 
@@ -79,6 +90,19 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-002
   global_id: t-00058
   teiginys: "Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Antanas (vaistininkas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Antanas (vaistininkas): mention_match, person, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Antanas (vaistininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1883 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia konkretesnį teiginį apie išvardytų Valančiaus kūrinių reikšmę."
   pagrindžia:
     - c-163235
 
@@ -86,6 +110,16 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-003
   global_id: t-00059
   teiginys: "Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-163237
 
@@ -93,6 +127,9 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-004
   global_id: t-00060
   teiginys: "Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-163231
 
@@ -100,6 +137,18 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-005
   global_id: t-00061
   teiginys: "Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1849 m.; įvykio data: 1875 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163233
 
@@ -107,6 +156,16 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-006
   global_id: t-179551
   teiginys: "Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vysk. Valančius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vysk. Valančius: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Vysk. Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163230
 
@@ -114,6 +173,19 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-007
   global_id: t-179553
   teiginys: "Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Telšiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Telšiai: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Telšiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1848 m.; įvykio data: 1849 m.; įvykio data: 1875 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją."
   pagrindžia:
     - c-163227
 
@@ -121,6 +193,19 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-008
   global_id: t-179554
   teiginys: "Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1883 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas."
   pagrindžia:
     - c-163229
 
@@ -128,6 +213,16 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-009
   global_id: t-179555
   teiginys: "Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163234
 - susijęs iš [[objektai/asmenys/Beresnevičius (vyskupas, XIX a.).md#claim-t-200912|Beresnevičius (vyskupas, XIX a.)]]: Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties.
@@ -186,13 +281,11 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių
     Vyskupystėje »^43.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-163227
@@ -207,14 +300,27 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: "Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–\n1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus \nKatalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-\nriją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais \nbuvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-\ntintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad \nparašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo \nveikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius – \npraktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo \neuropietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-\ncinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-\ntuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo \nbene pirmą kartą."
+  citata_rodoma: |
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
+    riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
+    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
+    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
+    bene pirmą kartą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179553
-
 - id: c-163229
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,14 +333,20 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     visomis prasmėmis artimu ir neginčijamu autoritetu. Tad nebūdamas
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
     padarė bene didesnę įtaką, nei kas nors kitas.
-  citata_rodoma: "Tad nebūdamas \npolitiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje \npadarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-\nkimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai \nkalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška \nmaniera – Wolonczewski."
+  citata_rodoma: |
+    Tad nebūdamas
+    politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-
+    kimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai
+    kalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška
+    maniera – Wolonczewski.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179554
-
 - id: c-163230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,14 +360,33 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     remdamasis kituose katalikiškuo-
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
-  citata_rodoma: "M. Valančius pasirūpino, kad \nkunigai turėtų pagarbų požiūrį į \nlietuviškai kalbančią liaudį, gerai \nišmoktų lietuviškai ir sakytų pa-\nmokslus lietuviškai, davė nurody-\nmą kunigams prie bažnyčių steigti \nlietuviškas mokyklas. O vyskupija \ntuomet apėmė didžiąją dalį etni-\nnės Lietuvos, ne tik Žemaitiją. Tos \nmokyklos visiškai nukonkuravo \nvaldiškas mokyklas rusų kalba. \nKai kuriose vietovėse mokančių \nskaityti procentas padidėjo iki \n60 – baudžiavinio kaimo sąlygo-\nmis tai fantastiškas skaičius. Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį."
+  citata_rodoma: |
+    M. Valančius pasirūpino, kad
+    kunigai turėtų pagarbų požiūrį į
+    lietuviškai kalbančią liaudį, gerai
+    išmoktų lietuviškai ir sakytų pa-
+    mokslus lietuviškai, davė nurody-
+    mą kunigams prie bažnyčių steigti
+    lietuviškas mokyklas. O vyskupija
+    tuomet apėmė didžiąją dalį etni-
+    nės Lietuvos, ne tik Žemaitiją. Tos
+    mokyklos visiškai nukonkuravo
+    valdiškas mokyklas rusų kalba.
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179551
-
 - id: c-163231
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -266,14 +397,17 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     ir neleisti vaikų į tas mokyklas. Vyskupui Valančiui para-
     ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
     lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
-  citata_rodoma: "Vyskupui Valančiui para-\nginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma\nlenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų."
+  citata_rodoma: |
+    Vyskupui Valančiui para-
+    ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
+    lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00060
-
 - id: c-163233
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -288,14 +422,22 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: "Lietuvoje didžiausią\npasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-\nmaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-\nkupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie\njos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,\nPanevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-\ngalos dekanatai). Vyskupo raginama, kunigija tapo uoliausia\nblaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas."
+  citata_rodoma: |
+    Lietuvoje didžiausią
+    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
+    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
+    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
+    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
+    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
+    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00061
-
 - id: c-163234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -310,12 +452,12 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     Vyskupystėje »^43. Joje yra tačiau daug smulkini klaidų ir apsiri­
     kimų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179555
-
 - id: c-163235
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -331,14 +473,19 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
     čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
     niškis senelis" ir kitos.
-  citata_rodoma: "Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos\nJuzė\", „Paaugusių žmonių knygelė\", „Vaikų knygelė\", „Pasa-\nkojimas Antano tretininko\", Valančiaus bendradarbio, žemai-\nčių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-\nniškis senelis\" ir kitos."
+  citata_rodoma: |
+    Be jų, nemaža reikšmės dar turėjo Valančiaus „Palangos
+    Juzė", „Paaugusių žmonių knygelė", „Vaikų knygelė", „Pasa-
+    kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
+    čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
+    niškis senelis" ir kitos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00058
-
 - id: c-163236
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -349,14 +496,18 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
     parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
     nei vargo.
-  citata_rodoma: "Tą darbą\npradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats\nparašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų\nnei vargo."
+  citata_rodoma: |
+    Tą darbą
+    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
+    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
+    nei vargo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00056
-
 - id: c-163237
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -369,8 +520,14 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
-  citata_rodoma: "Tuo\nbūdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo\nišleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,\nStrazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)\nraštų."
+  citata_rodoma: |
+    Tuo
+    būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
+    išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
+    Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
+    raštų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

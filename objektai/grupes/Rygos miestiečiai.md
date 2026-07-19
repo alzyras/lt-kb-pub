@@ -40,6 +40,16 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - t-001
   global_id: t-81605
   teiginys: "Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miestiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miestiečiai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78197
 
@@ -47,6 +57,22 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - t-002
   global_id: t-183892
   teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rygos miestiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos miestiečiai\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-167277
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
@@ -86,14 +112,36 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
     nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
     Sostui].
-  citata_rodoma: "\"\nTaigi Jerošinas puikiausiai žinojo, kad arkivyskupas \nir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­\ntams bei popiežiui ir platino melagingą žinią, jog Gedimi­\nnas norėjęs krikštytis.\nEpitomatorius  nurodo tiesiai: Cives Rigenses et \nArchiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo- \nnia dissidiantur et in omnibus civitatibus et locis maritimis notifi- \ncant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum\n91\n\n## Puslapis 108\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbaptisma et fidem libenter cum suis susciperent, sed fratres nollet \neos suscipere, et idem intimant litteris apostołko [Rygos mies­\ntiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje \nprieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir \nvietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius \nnoriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai \nnenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų \nSostui]."
+  citata_rodoma: |
+    "
+    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
+    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
+    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
+    nas norėjęs krikštytis.
+    Epitomatorius  nurodo tiesiai: Cives Rigenses et
+    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
+    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
+    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
+    91
+
+    ## Puslapis 108
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
+    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
+    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
+    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
+    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
+    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
+    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
+    Sostui].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81605
-
 - id: c-167277
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -111,6 +159,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
     spraga.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

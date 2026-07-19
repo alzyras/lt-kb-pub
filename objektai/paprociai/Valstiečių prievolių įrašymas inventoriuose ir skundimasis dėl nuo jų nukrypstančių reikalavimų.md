@@ -48,6 +48,16 @@ Nenurodyta
 - t-001
   global_id: t-02042
   teiginys: "Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> seniūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "seniūnas: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų\" parinktas kaip owner_note_path. Targetas \"seniūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02280
 
@@ -66,8 +76,15 @@ Nenurodyta
     ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
     mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
     maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
-  citata_rodoma: "Jei kartais koks seniūnas nenorė-\ndavo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo\nskųstis. Žinoma, valstiečiams skųsti poną jo paties draugams\nar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-\nmėdavo; priešingai, kartais būdavo net jie patys apkaltinami\nmaišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami."
+  citata_rodoma: |
+    Jei kartais koks seniūnas nenorė-
+    davo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo
+    skųstis. Žinoma, valstiečiams skųsti poną jo paties draugams
+    ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-
+    mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
+    maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

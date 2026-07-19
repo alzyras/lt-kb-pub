@@ -33,6 +33,13 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 - t-001
   global_id: t-194919
   teiginys: "Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo Onevu, perėjimą į priešo pusę."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177315
 - susijęs iš [[objektai/asmenys/Dagas.md#claim-t-191263|Dagas]]: Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų vadai, ir su Umaru bei Onevu perėjo į priešo pusę.
@@ -52,6 +59,7 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
     Sis vardas yra neabejotinai slaviškas ir reiškia dirbantį muzikos
     instrumentų stygas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

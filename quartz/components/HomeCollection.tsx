@@ -359,7 +359,7 @@ function claimPool(claims: SpotlightClaim[], limit: number): SpotlightClaim[] {
   })
 }
 
-function spotlightObjects(allFiles: QuartzPluginData[]): SpotlightObject[] {
+export function buildHomeCollectionSpotlight(allFiles: QuartzPluginData[]): SpotlightObject[] {
   return allFiles
     .filter(isObjectPage)
     .map((page): SpotlightObject | undefined => {
@@ -384,10 +384,6 @@ function spotlightObjects(allFiles: QuartzPluginData[]): SpotlightObject[] {
       }
     })
     .filter((entry): entry is SpotlightObject => Boolean(entry))
-}
-
-function safeJsonPayload(value: unknown): string {
-  return JSON.stringify(value).replace(/</g, "\\u003c")
 }
 
 function objectCountText(count: number): string {
@@ -649,7 +645,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
   const cards = objectCards(allFiles)
   const highlights = mediaCards(allFiles, cards, 8)
   const groups = browseGroups(allFiles, typeCounts)
-  const spotlight = spotlightObjects(allFiles)
+  const spotlight = buildHomeCollectionSpotlight(allFiles)
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
   const claimTotal = cards.reduce((sum, card) => sum + card.claimCount, 0)
   const quoteTotal = cards.reduce((sum, card) => sum + card.quoteCount, 0)
@@ -674,11 +670,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
               aria-live="polite"
               data-collection-claim-spotlight="true"
             >
-              <script
-                type="application/json"
-                data-collection-spotlight-data
-                dangerouslySetInnerHTML={{ __html: safeJsonPayload(spotlight) }}
-              />
+              <span data-collection-spotlight-url="/static/collectionSpotlight.json" hidden />
               <p class="collection-spotlight-kicker">
                 <span data-collection-spotlight-type>Objektas</span>
                 <span data-collection-spotlight-count />

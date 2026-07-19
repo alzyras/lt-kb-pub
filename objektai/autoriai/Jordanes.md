@@ -35,6 +35,18 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-30717
   teiginys: "Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jordanes: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanes\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 375 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32985
 
@@ -42,6 +54,12 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-002
   global_id: t-197614
   teiginys: "Jordanes papildytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179263
 
@@ -60,14 +78,21 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m."
+  citata_rodoma: |
+    Padarydamas santrauką vėliau dingusios
+    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
+    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
+    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
+    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
+    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
+    375 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30717
-
 - id: c-179263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -82,6 +107,7 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     bus Gothorum, Persarum ac Vandalorum libri
     VII.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
 - t-001
   global_id: t-39044
   teiginys: "Bolševikų ugniai nutilus, pasakotojas svarstė, kad jie arba išmovė pas Abraomą, arba išbaigė šovinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40848
 
@@ -46,6 +49,7 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
     Mūsų artimųjų „draugų“ ugnis greit nutilo. Jie arba išmovė pas Abraomą, arba išbaigė
     šovinius. Į jų vietą mūsų link skubėjo kiti bolševikai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

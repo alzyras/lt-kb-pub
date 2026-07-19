@@ -40,6 +40,11 @@ Bertuleit, A.
 - t-001
   global_id: t-30498
   teiginys: "A. Bertuleit 1924 m. paskelbė darbą „Das Religionswesen der alten Preussen mit lettisch-litauischen Parallelen“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32863
 
@@ -50,11 +55,15 @@ Bertuleit, A.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — (”) _Tautosaka apie dangų,_ Sodus, Mich. 1951. — Ber-
+    — Ber-
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen
     Parallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924.
-  citata_rodoma: "— Ber-\ntuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen\nParallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924."
+  citata_rodoma: |
+    — Ber-
+    tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen
+    Parallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,20 +34,38 @@ media_all_json: |-
 - t-001
   global_id: t-185319
   teiginys: "Prisiekęs ištikimybę Vytautui ir jo įpėdiniams, Dimitras gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168680
-
+    - c-001
 <a id="claim-t-193455"></a>
 - t-002
   global_id: t-193455
   teiginys: "Vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168680
-
+    - c-001
 <a id="claim-t-194277"></a>
 - t-003
   global_id: t-194277
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176870
 
@@ -76,9 +94,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-185319
+    - t-193455
 ## Citatos
 
 - id: c-168680
@@ -103,15 +120,29 @@ media_all_json: |-
     vadinamas Olegu), Riazanės kunigaikštis, karštomis
     maldomis jį užstojo ir, davęs užstatą, laidavo jam Vy­
     tauto palankumą.
-  citata_rodoma: "Niekas taip\nD im itru i a tid u o d a  tė-\nstipriai nesutramdo išpuikėlio\nv o n iją\nširdies, kaip nesėkmė, todėl\nir Dimitras, ilgai kalėdamas,\nišmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­\nmas Vytautui bei jo įpėdiniams, gavo iš jo valdyti\n342\n\n## Puslapis 341\n\nBraclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs\nšiomis didelėmis valdomis, liovėsi reikalavęs Seversko."
+  citata_rodoma: |
+    Niekas taip
+    D im itru i a tid u o d a  tė-
+    stipriai nesutramdo išpuikėlio
+    v o n iją
+    širdies, kaip nesėkmė, todėl
+    ir Dimitras, ilgai kalėdamas,
+    išmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­
+    mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti
+    342
+
+    ## Puslapis 341
+
+    Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
+    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185319
     - t-193455
-
 - id: c-176870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,6 +173,7 @@ media_all_json: |-
     Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
     mundė, Ryga, Šmetenė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

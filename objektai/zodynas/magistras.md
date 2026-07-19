@@ -40,6 +40,16 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - t-001
   global_id: t-175181
   teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "magistras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"magistras\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-159335
 
@@ -47,6 +57,13 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - t-002
   global_id: t-193151
   teiginys: "Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos."
+  atnaujinta: "2026-07-06 13:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-159335
 
@@ -54,6 +71,12 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - t-003
   global_id: t-193382
   teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176107
 
@@ -61,6 +84,13 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - t-004
   global_id: t-196381
   teiginys: "Kojelavičius magistru vadina vadą, kuris Vokietijoje pasisamdė dešimt tūkstančių algininkų ir įsiveržė į karaliui priklausiusias Prūsijos apygardas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176107
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -784,15 +814,17 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
     čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
-  citata_rodoma: "Viso nepasisekimo kaltininkas, magistras, buvo paskelb-\ntas pamišėliu ir pašalintas iš vietos."
+  citata_rodoma: |
+    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175181
     - t-193151
-
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -814,8 +846,21 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     su šia kariuomene, vedama maršalo Ditricho fon Šen-
     bergo, į tas Prūsijos apygardas, kurios priklausė kara­
     liui.
-  citata_rodoma: "Mat tą raštą paliepė susukti į ritinėlį \nir užantspauduoti, kad pasiuntiniai negalėtų sužinoti \njo turinio nenuplėšę antspaudo, o pažeidus antspau­\ndą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­\nkos reikalas Maskvoje dėl visokių atsitiktinių dalykų, \no gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­\njaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­\nplieskė karas. Magistras, už didelius pinigus pasisam­\ndęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė \nsu šia kariuomene, vedama maršalo Ditricho fon Šen- \nbergo, į tas Prūsijos apygardas, kurios priklausė kara­\nliui."
+  citata_rodoma: |
+    Mat tą raštą paliepė susukti į ritinėlį
+    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
+    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
+    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
+    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
+    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
+    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
+    plieskė karas. Magistras, už didelius pinigus pasisam­
+    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
+    su šia kariuomene, vedama maršalo Ditricho fon Šen-
+    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
+    liui.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

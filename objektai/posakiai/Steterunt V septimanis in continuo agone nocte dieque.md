@@ -33,6 +33,16 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
 - t-001
   global_id: t-86871
   teiginys: "Posakis „Steterunt V septimanis in continuo agone nocte dieque“ reiškia, kad penkias savaites dieną ir naktį vyko nuolatinės kautynės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Steterunt V septimanis in continuo agone nocte dieque: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steterunt V septimanis in continuo agone nocte dieque\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82850
 
@@ -56,6 +66,7 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
     kautynėse dieną naktį ir kovoje iš
     abiejų pusių daug buvo užmuštų].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

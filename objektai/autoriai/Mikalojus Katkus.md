@@ -54,6 +54,10 @@ Mikalojus Katkus šiame tome pasirašo kaip „Balanos gadynės“ autorius. Kū
 - t-001
   global_id: t-195255
   teiginys: "Mikalojus Katkus pasirašė Ažytėnuose 1927 m. rugsėjo 25 d."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177621
 
@@ -69,8 +73,11 @@ Mikalojus Katkus šiame tome pasirašo kaip „Balanos gadynės“ autorius. Kū
     niais.
     Mikalojus Katkus.
     Ažytėnai, 1927 m. rugsėjo 25 d.
-  citata_rodoma: "Mikalojus Katkus.\nAžytėnai, 1927 m. rugsėjo 25 d."
+  citata_rodoma: |
+    Mikalojus Katkus.
+    Ažytėnai, 1927 m. rugsėjo 25 d.
   statusas: verified
+  atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

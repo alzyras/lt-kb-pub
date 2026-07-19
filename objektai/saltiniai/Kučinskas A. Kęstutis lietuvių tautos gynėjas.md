@@ -38,9 +38,22 @@ Dusburgietis teigia, kad kučinskas A.
 - t-001
   global_id: t-61118
   teiginys: "A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kučinskas A. Kęstutis lietuvių tautos gynėjas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kučinskas A. Kęstutis lietuvių tautos gynėjas\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia teigti leidimo vietą ir metus."
   pagrindžia:
     - c-61750
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.'
@@ -53,8 +66,7 @@ Dusburgietis teigia, kad kučinskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61118
 ## Citatos
 
 - id: c-61750
@@ -64,8 +76,10 @@ Dusburgietis teigia, kad kučinskas A.
   citata_originali: |
     257—311.
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
-  citata_rodoma: "Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938."
+  citata_rodoma: |
+    Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

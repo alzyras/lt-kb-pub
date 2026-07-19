@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-189878
   teiginys: "Narbutas vertina pagoniškas vaišes kaip religinių apeigų dalį, kuri esą padėdavo palaikyti liaudies padorumą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172761
 
@@ -69,6 +76,7 @@ Nenurodyta
     kėta liūtis sutrukdydavo apeigas, tą palaikydavo aiškiu dievų
     pykčiu“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

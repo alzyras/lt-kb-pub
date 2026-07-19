@@ -35,6 +35,20 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
 - t-001
   global_id: t-200835
   teiginys: "Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų dorėniškomis Paestumo šventyklomis."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paestumas (grupė): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paestumas (grupė)\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184180
 
@@ -54,6 +68,7 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
     Pompėja ir dorėniškomis Paestumo šventyklomis. Klasicistai, kaip kadaise re­
     nesanso menininkai, ėmė garbinti tolimos praeities meną.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

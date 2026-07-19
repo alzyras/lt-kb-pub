@@ -34,8 +34,15 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 - t-001
   global_id: t-185366
   teiginys: "Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168727
+    - c-001
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
@@ -70,8 +77,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185366
 ## Citatos
 
 - id: c-168727
@@ -98,8 +104,22 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
     karštai pulti dar kruvinais kalavijais priešą, kad kil­
     tų dar smarkesnė kova ir būtų pasiekta visiška per­
     galė.
-  citata_rodoma: "Ten greitosiomis įrengę stovyklą,\nsustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­\nletą būrių gurguolėms saugoti, o patys su visomis jė­\ngomis patraukė link priešo, kuris, pasak kalbų, taip\npat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus\ngavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo\ngerai ginkluotų karių puolimo, ypač dėl to, kad jų\npačių ir apsiginklavimas, ir kariavimo būdas buvo\nmenkoki. Štai todėl jie nutarė kokia nors nedidele\npergale atimti priešui iš pat pradžių progą džiaugsmui\nir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­\nnis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks\nlabiau turį bijoti, negu drąsą rodyti."
+  citata_rodoma: |
+    Ten greitosiomis įrengę stovyklą,
+    sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­
+    letą būrių gurguolėms saugoti, o patys su visomis jė­
+    gomis patraukė link priešo, kuris, pasak kalbų, taip
+    pat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus
+    gavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo
+    gerai ginkluotų karių puolimo, ypač dėl to, kad jų
+    pačių ir apsiginklavimas, ir kariavimo būdas buvo
+    menkoki. Štai todėl jie nutarė kokia nors nedidele
+    pergale atimti priešui iš pat pradžių progą džiaugsmui
+    ir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­
+    nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
+    labiau turį bijoti, negu drąsą rodyti.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

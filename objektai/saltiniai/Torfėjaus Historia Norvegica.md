@@ -32,9 +32,23 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
 - t-001
   global_id: t-191734
   teiginys: "Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Torfėjaus Historia Norvegica: owner_note_path, source"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torfėjaus Historia Norvegica\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174616
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.'
@@ -57,8 +71,7 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191734
 ## Citatos
 
 - id: c-174616
@@ -66,19 +79,31 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
+    234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,
     esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
     mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
-    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
-    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
-    mažą Rusios valdą. Odo, irgi norvegų riterio, žmona bu­
-    vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
-    žmonos gimtąją žemę. Tais laikais labiausiai garsėjo tur­
-    tais ir visus rusnėnų ponus šlove ir karine galybe pranoko
-    vienas valdovas, t. y. Grolaugas.
-  citata_rodoma: "Tai patvir­\ntina Nestoro pateiktos žinios, kad skandinavams priklau­\nsė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs\ndanų istorijos įvykius, palygintus su tiksliausiais skaičia­\nvimais, Frotono III valdymą sieja su III krikščioniškosios\neros amžiumi.\n234\nIslandų sakmėse, vadinamose šiaurinėmis sagomis,\nesama žinių apie įžymų rusų karalių, vadinamą Zugurla-\nmu, kuris, anot Torfėjo chronologinių skaičiavimų, taip\npat gyveno III amžiuje3."
+    pat gyveno III amžiuje3.
+  citata_rodoma: |
+    Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
+    234
+    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
+    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
+    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
+    pat gyveno III amžiuje3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

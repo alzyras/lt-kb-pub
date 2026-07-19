@@ -33,6 +33,9 @@ Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą r
 - t-001
   global_id: t-192123
   teiginys: 'Narbutas cituoja Tadą Volianskį, teigusį, kad Lietuva tuo pačiu vardu romėnams buvo žinoma jau senovėje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys suatributuotas Volianskiui per Narbuto citavimą, nes tai šaltinio interpretacija. Nepridėtos detalės apie lietuvių tarnybą ar karus su romėnais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_group: [[objektai/grupes/Gelonai|Gelonai]]; mentioned_place: Donas; mentioned_place: Graikija; mentioned_place: Olbija; mentioned_place: Skitija'
   pagrindžia:
     - c-175006
 
@@ -67,8 +70,9 @@ Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą r
     atvirkščiai, kariaudavo su romėnais.
   citata_rodoma: "„Visiškai tikra yra tai, jog Lietuva tuo\n  pačiu kaip ir dabar vardu jau buvo žinoma romėnams.\n  Lietuviai, kaip ir kitų tautų šauniausi vyrai, arba stodavo\n  j. karo tarnybą pas anuometinius pasaulio valdovus, arba,\n  atvirkščiai, kariaudavo su romėnais.“"
   statusas: not_found
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192123

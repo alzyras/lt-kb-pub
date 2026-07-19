@@ -51,6 +51,10 @@ Nenurodyta
 - t-001
   global_id: t-195314
   teiginys: "Piemens aprūpinimo aprašyme viršutinis apsiaustas duodamas kaip atskira aprangos dalis."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177697
 
@@ -70,8 +74,10 @@ Nenurodyta
     Piemeniukas, turėdamas rankoje įtakingą įrankį, mėgindavo jį pūsti:
     kitas ir išmokdavo. Kur valgo, ten gauna viršutinį apsiaustą, bet marš­
     kinius ir kelnes gauna pasavaičiui.
-  citata_rodoma: "Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui."
+  citata_rodoma: |
+    Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui.
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

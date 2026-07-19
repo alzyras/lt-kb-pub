@@ -48,13 +48,41 @@ Nenurodyta
 - t-001
   global_id: t-189843
   teiginys: "Narbutas priesaiką priskyrė aukoms, nes ją laikė geranoriška paties žmogaus sąžinės auka."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių priesaikos formulės ir užkeikimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių priesaikos formulės ir užkeikimai\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172726
-
+    - c-001
 <a id="claim-t-189844"></a>
 - t-002
   global_id: t-189844
   teiginys: "Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių priesaikos formulės ir užkeikimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių priesaikos formulės ir užkeikimai\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172727
 
@@ -80,8 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189843
 ## Citatos
 
 - id: c-172726
@@ -101,14 +128,25 @@ Nenurodyta
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
     18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
     klebonu (Wizerunki Naukowe.
-  citata_rodoma: "Toliau net matysi­\nme, kad jie turėjo nuodėmių išpažinimo dieną.\nPriesaikos\nPrie aukų priklauso ir priesaika, kadangi tai geranoriška\nsavo paties sąžinės auka. Antikos žmonės duodavo dvejopas\npriesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam\ngalingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­\nkų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,\nkreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­\nbaisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis\nbūdavo toks pat baisus kaip ir anų."
+  citata_rodoma: |
+    Toliau net matysi­
+    me, kad jie turėjo nuodėmių išpažinimo dieną.
+    Priesaikos
+    Prie aukų priklauso ir priesaika, kadangi tai geranoriška
+    savo paties sąžinės auka. Antikos žmonės duodavo dvejopas
+    priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam
+    galingam ir kerštingam dievui: Me Hercule, MeJove, tegu Her­
+    kų lis, Jupiteris bus man maloningas; kitokią su užkeikimu,
+    kreipdamiesi į Stikso vandenis, į pragarą ir kitas mitines pa­
+    baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
+    būdavo toks pat baisus kaip ir anų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189843
-
 - id: c-172727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -128,6 +166,7 @@ Nenurodyta
     tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
     (Kad až skradziuprapoltu).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

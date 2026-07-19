@@ -60,6 +60,17 @@ Nenurodyta
 - t-001
   global_id: t-62131
   teiginys: "Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Surdeta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Surdeta: mention_match, person, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas\" parinktas kaip owner_note_path. Targetas \"Surdeta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62563
 
@@ -67,6 +78,12 @@ Nenurodyta
 - t-002
   global_id: t-196985
   teiginys: "Šis Bansas norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik visus prūsus sukurstė atsimesti nuo krikščionybės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62563
 
@@ -92,11 +109,11 @@ Nenurodyta
 
           176 (171).
   citata_rodoma: ''
-  statusas: verified
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-62563
@@ -115,8 +132,18 @@ Nenurodyta
     bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo
     šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o visa ši žemė
     pavirto dykromis.
-  citata_rodoma: "Apie tai, kaip buvo apleista Skalvos žemė\n\n  Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai\ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta\nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai\npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po\nkito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,\nkad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė\nkrikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų."
+  citata_rodoma: |
+    Apie tai, kaip buvo apleista Skalvos žemė
+
+      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
+    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
+    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
+    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
+    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
+    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
+    krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

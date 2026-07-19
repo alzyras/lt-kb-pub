@@ -54,6 +54,12 @@ Bažnytinio kalendoriaus data nusakanti formulė.
 - t-001
   global_id: t-186893
   teiginys: 'Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia aiškaus predikato ir tikslesnio datos nusakymo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skabeika|Skabeika]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1490 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškaus predikato ir tikslesnio datos nusakymo.'
   pagrindžia:
     - c-170079
 
@@ -78,8 +84,9 @@ Bažnytinio kalendoriaus data nusakanti formulė.
     (Išleistoje pirmą kartą 1490 m ).
   citata_rodoma: "”  „Verbų sekmadieni\" — 1440 m. kovo 20 d."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186893

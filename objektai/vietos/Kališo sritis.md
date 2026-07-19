@@ -39,6 +39,20 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
 - t-001
   global_id: t-32195
   teiginys: "1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kališo sritis: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kališo sritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių įsiveržimą į Kališo sritį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Kališo sritis (0.86); Rusai puolė Kališo sritis (0.82); Lietuviai buvo sąjungininkas su Rusai (0.77)"
+  temporaliniai_duomenys: "įvykio data: 1307 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-33862
 
@@ -54,8 +68,13 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
     Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
+  citata_rodoma: |
+    Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
+    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

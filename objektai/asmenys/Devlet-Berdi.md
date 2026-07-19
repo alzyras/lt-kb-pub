@@ -33,6 +33,10 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
 - t-001
   global_id: t-194130
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleidžiau neaiškų įvardį į Vytautą pagal citatos kontekstą ir pašalinau fragmentišką formą. Chano skyrimą palikau kaip kronikos pasakojimą.'
   pagrindžia:
     - c-176743
 
@@ -58,8 +62,9 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
     dovas skiria Ordai daugybę chanų, o pas jį dar dau­
     giau lieka.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194130

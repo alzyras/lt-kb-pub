@@ -35,6 +35,22 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - t-001
   global_id: t-186291
   teiginys: "Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gepidai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prokopijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gepidai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prokopijus\" parinktas kaip owner_note_path. Targetas \"Gepidai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 559 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia Prokopijui priskirtą informaciją."
   pagrindžia:
     - c-169652
 
@@ -42,6 +58,20 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - t-002
   global_id: t-190787
   teiginys: "Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prokopijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prokopijus\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173669
 
@@ -49,13 +79,34 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - t-003
   global_id: t-190788
   teiginys: "Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Gotai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hiriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Frazė tiesiogiai rodo hirių veikimą kartu su gotais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Hiriai buvo sąjungininkas su Gotai (0.82)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173670
-
+    - c-003
 <a id="claim-t-197638"></a>
 - t-004
   global_id: t-197638
   teiginys: "Prokopijus net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179273
 
@@ -63,6 +114,12 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - t-005
   global_id: t-197639
   teiginys: "Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179274
 
@@ -87,8 +144,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190788
 ## Citatos
 
 - id: c-169652
@@ -116,12 +172,12 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
     beveik ištisus du šimtmečius be pertraukos viešpatavo
     langobardai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186291
-
 - id: c-173669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -137,35 +193,45 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
     mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
     imperatoriaus Justiniano laikais, arba VI amžiuje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190787
-
 - id: c-173670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
+    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
+    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
+    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
+    290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
     ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
     nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
     jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
     pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
-    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
-    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
-    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
-    kelius.
-  citata_rodoma: "Bet, nenorėdami pažeisti mūsų pasakojimų chro­\nnologinės tvarkos, turime atkreipti dėmesį dar ir į trečią\nlietuvių gentį, iškeliavusią kartu su gotais į Rytus.\n290\nIstorijoje esama aiškių įrodymų, kad tarp gotų buvę\nir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­\nnas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­\njimą kaip ir Prokopijus; kai girdime tų pačių istorikų\npateiktas žinias apie skirius ir sudargus, apie hirius jau\nnematome jokių užuominų."
+    nematome jokių užuominų.
+  citata_rodoma: |
+    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
+    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
+    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
+    290
+    Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
+    ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
+    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
+    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
+    pateiktas žinias apie skirius ir sudargus, apie hirius jau
+    nematome jokių užuominų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190788
-
 - id: c-179273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -183,12 +249,12 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
     imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
     riojoje Dnepro pakrantėje, į rytus nuo jo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197638
-
 - id: c-179274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -204,6 +270,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
     šios trečios lietuvių genties, grįžusios su gotais į Rytus,
     kelius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

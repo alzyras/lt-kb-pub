@@ -33,6 +33,13 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
 - t-001
   global_id: t-194763
   teiginys: "Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177159
 
@@ -40,6 +47,12 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
 - t-002
   global_id: t-197463
   teiginys: "Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179205
 
@@ -57,12 +70,12 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
     Atrodo, pradžią šioms spėlionėms yra davusi tam tikra na­
     minių vabzdžių rūšis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194763
-
 - id: c-179205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -76,6 +89,7 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
     rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
     Obelijomis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

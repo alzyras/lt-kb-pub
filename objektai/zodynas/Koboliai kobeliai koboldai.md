@@ -33,6 +33,11 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
 - t-001
   global_id: t-189129
   teiginys: 'Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio lūžis ir nesusijęs skandinavų intarpas. Tikėjimo teiginys apie kobolius paliktas kaip Narbuto aprašymas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Koboliai|Koboliai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]'
   pagrindžia:
     - c-172017
 
@@ -56,8 +61,9 @@ Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su 
 
     ir susilaukia iš jų visokio palankumo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189129

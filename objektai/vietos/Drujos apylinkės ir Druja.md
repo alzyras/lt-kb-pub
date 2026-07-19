@@ -39,6 +39,20 @@ media_all_json: |-
 - t-001
   global_id: t-188989
   teiginys: "1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Druja: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Drujos apylinkės ir Druja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Druja: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Drujos apylinkės ir Druja\" parinktas kaip owner_note_path. Targetas \"Druja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171878
 
@@ -46,9 +60,13 @@ media_all_json: |-
 - t-002
   global_id: t-188990
   teiginys: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Drujos pardavimo epizodas suformuluotas pilnu sakiniu ir išskleistas objektas. Nepalikti puslapio triukšmai ir nepridėti duomenys apie liudytoją už būtino teiginio ribų.'
+  susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena'
   pagrindžia:
-    - c-171879
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
@@ -67,13 +85,12 @@ media_all_json: |-
 
     pardavimo liudytojas28.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188990
 ## Citatos
 
 - id: c-171878
@@ -89,6 +106,7 @@ media_all_json: |-
     varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
     grindą - 2 colių storumo trikampę žalvarinę lentą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-200688
   teiginys: "1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Starodubas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Starodubo seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Starodubas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Starodubo seimelio pavadinimas tiesiogiai sieja seimelį su Starodubu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1752 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Starodubo seimelio paminėjimą. Jis nepretenduoja į platesnę informaciją, kurios citata neduoda."
   pagrindžia:
     - c-184023
     - c-184034
@@ -61,14 +75,19 @@ media_all_json: |-
     per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
     [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
     kintas Vilniaus seimelio rezultatais [29].
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks \nVilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti \nper seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius \n[28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-\nkintas Vilniaus seimelio rezultatais [29]."
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
+    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
+    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
+    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
+    kintas Vilniaus seimelio rezultatais [29].
   statusas: verified
+  atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200688
-
 - id: c-184034
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede"
@@ -82,8 +101,10 @@ media_all_json: |-
     Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
     Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
     per seimelį dėl brolio interesų.
-  citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks"
+  citata_rodoma: |
+    1752 m. J. D. Lopacinskis minėjo, kad atvyks
   statusas: verified
+  atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,9 +33,23 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
 - t-001
   global_id: t-189144
   teiginys: "Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus)."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemininkas Kurkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemininkas Kurkas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172032
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).'
@@ -53,8 +67,7 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189144
 ## Citatos
 
 - id: c-172032
@@ -69,8 +82,15 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
     kė prietaringą tikėjimą šia dievybe*.
     Latviai tą dievą, vadindami Zeemneeks, garbino visiškai ta
     pačia prasme kaip lietuviai.
-  citata_rodoma: "Žemininkas (Ziemienikas)\nKitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­\ngumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -\ntai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir\ntamsą, buvo šviesos dievo antipodas, namų ir apskritai viso\nkrašto globėjas."
+  citata_rodoma: |
+    Žemininkas (Ziemienikas)
+    Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­
+    gumentuotai įrodo, kad lietuvių Žemininkas ir prusųKurchus -
+    tai tas pats dievas. Jis buvo žemės dievas, valdė žemės derlių ir
+    tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
+    krašto globėjas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

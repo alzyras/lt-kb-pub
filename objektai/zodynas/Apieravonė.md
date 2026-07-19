@@ -55,6 +55,10 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
 - t-001
   global_id: t-195638
   teiginys: "Apieravonė šiame šaltinyje yra trumpas išmaldos ar aukojimo veiksmas."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178040
 - susijęs iš [[objektai/zodynas/Poterėliai.md#claim-t-195646|Poterėliai]]: Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu.
@@ -70,8 +74,11 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
     pai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­
     dindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­
     pa. Pagavus duonos gabalėlį tuoj pro duris.
-  citata_rodoma: "Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.\nPagavus duonos gabalėlį tuoj pro duris."
+  citata_rodoma: |
+    Šiaučienė ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trumpa.
+    Pagavus duonos gabalėlį tuoj pro duris.
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

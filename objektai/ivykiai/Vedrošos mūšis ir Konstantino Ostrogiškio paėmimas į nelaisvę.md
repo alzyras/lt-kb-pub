@@ -45,6 +45,20 @@ Nenurodyta
 - t-001
   global_id: t-185539
   teiginys: "Prieš Vedrošos mūšį Aleksandras pasiuntė į Smolenską lengvuosius dalinius, vadovaujamus Konstantino Ostrogiškio."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168900
 
@@ -52,6 +66,21 @@ Nenurodyta
 - t-002
   global_id: t-185541
   teiginys: "Po Vedrošos mūšio Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius išvengė nelaisvės ar mirties."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "dalyvavo_musyje -> Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bogdanas Maskevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Bogdanas Maskevičius minimas tarp pulkų vadų, išvengusių nelaisvės ar mirties po Vedrošos mūšio."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Bogdanas Maskevičius dalyvavo mūšyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis) (0.82); Teodoras Nemyra dalyvavo mūšyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis) (0.82)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168902
 
@@ -59,6 +88,13 @@ Nenurodyta
 - t-003
   global_id: t-196263
   teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad didelės priešo jėgos įsitvirtino abiejuose Vedrošos krantuose."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178602
 
@@ -98,14 +134,26 @@ Nenurodyta
     stabtelėdamas iš
     pradžių Minske, o po to Bo­
     risove.
-  citata_rodoma: "Šiek tiek pažygiavus, žvalgai pra­\nnešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­\njuose Vedrošos krantuose, o dalis raitelių, atsiskyrusių\nnuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­\nme lauke, už dviejų mylių laukianti atvykstančių lietu­\nvių. Pagrindinės priešų jėgos bei jų stovykla esančios\nuž upės, pulti trukdysią krūmai ir pelkės. Svarstant\nsusidariusią padėtį bei gautas žinias karvedžių pasita­\nrime, pradėta aštriai ginčytis, kaip tokiu painiu atveju\nelgtis. Daugelis manė, kad dabar, kai sulaužyti susita­\nrimai, geriau parodyti narsą nei baimę, jeigu jau rei­\nkia pasirinkti vieną iš dviejų."
+  citata_rodoma: |
+    Šiek tiek pažygiavus, žvalgai pra­
+    nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
+    juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių
+    nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna­
+    me lauke, už dviejų mylių laukianti atvykstančių lietu­
+    vių. Pagrindinės priešų jėgos bei jų stovykla esančios
+    už upės, pulti trukdysią krūmai ir pelkės. Svarstant
+    susidariusią padėtį bei gautas žinias karvedžių pasita­
+    rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
+    elgtis. Daugelis manė, kad dabar, kai sulaužyti susita­
+    rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
+    kia pasirinkti vieną iš dviejų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185539
-
 - id: c-168902
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,12 +173,12 @@ Nenurodyta
     stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
     se.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185541
-
 - id: c-178602
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -150,6 +198,7 @@ Nenurodyta
     rime, pradėta aštriai ginčytis, kaip tokiu painiu atveju
     elgtis.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

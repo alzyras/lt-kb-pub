@@ -56,6 +56,20 @@ Nenurodyta
 - t-001
   global_id: t-31504
   teiginys: "1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Semba: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytenį plėšus Sembą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytenis puolė Semba (0.88); Vytenis puolė Natanga (0.87)"
+  temporaliniai_duomenys: "įvykio data: 1311 m.; įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata apie Vytenio žygį."
   pagrindžia:
     - c-33446
 
@@ -73,8 +87,12 @@ Nenurodyta
     atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
-  citata_rodoma: "Pats\nVytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­\nken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m."
+  citata_rodoma: |
+    Pats
+    Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
+    ken lygumose jo kariuomenė buvo sumušta^20. Kai 1313 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

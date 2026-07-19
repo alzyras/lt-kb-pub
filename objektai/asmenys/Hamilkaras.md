@@ -32,13 +32,33 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
 - t-001
   global_id: t-191276
   teiginys: "Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estremidai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hamilkaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Estremidai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hamilkaras\" parinktas kaip owner_note_path. Targetas \"Estremidai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174158
-
+    - c-001
 <a id="claim-t-197736"></a>
 - t-002
   global_id: t-197736
   teiginys: "Hamilkaras pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179317
 
@@ -59,8 +79,7 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191276
 ## Citatos
 
 - id: c-174158
@@ -76,14 +95,20 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
     buvo gintaringos salos, ten tikrai turėjo būti žiotys Aldes-
     ko, arba Tanajo šiaurinės šakos, arba to paties Eridano,
     garsėjusio pasakiškumu, ¡bet lig tol dar neištirto krašto1.
-  citata_rodoma: "Antras keliautojas, kurio pavardė\nHamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­\nsuko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio\nvakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono\nir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai\nturtingas švino ir alavo."
+  citata_rodoma: |
+    Antras keliautojas, kurio pavardė
+    Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­
+    suko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio
+    vakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono
+    ir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai
+    turtingas švino ir alavo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191276
-
 - id: c-179317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -95,6 +120,7 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
     2 Kasinėjant senovinius kapus Elbliongo apylinkėse ir kitur, to­
     kių daiktų randama.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

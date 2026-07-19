@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189646
   teiginys: 'Narbutas perteikė latvių pasakojimą, kad Saulė aštriu kardu perkirto Mėnesį už meilę Aušrinei.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Mitologinis pasakojimas išlaikytas kaip Narbuto perteikiama latvių tradicija. Nepridėta alternatyvi versija apie Perkūną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
   pagrindžia:
     - c-172529
 
@@ -55,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-194617
   teiginys: 'Nakties karalius, laiko tarpsnių valdovas (laikas bu vo skaičiuojamas mėnesiais), tačiau nepastoviai judantis ir keičiantis pavidalą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177016
 
@@ -78,12 +86,12 @@ Nenurodyta
 
     Jį kardu padalijo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-189646
 - id: c-177016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -106,8 +114,9 @@ Nenurodyta
     ketvirtį jis toks pasirodo. Labiau paplitusi nuomonė, kad Per­
     kūnas perkirto Mėnesį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-194617

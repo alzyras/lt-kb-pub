@@ -50,6 +50,10 @@ Nenurodyta
 - t-001
   global_id: t-66602
   teiginys: "1707 m. pradžioje Karoliui XII grįžus iš Saksonijos, rusai pradėjo trauktis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66800
 
@@ -68,6 +72,7 @@ Nenurodyta
     žadėjęs sąjungą kairėje Dniepro pusėje caro valdomų kazokų
     hetmonas Mazefa, tai jis žygiavo į Ukrainą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

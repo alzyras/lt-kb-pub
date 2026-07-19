@@ -33,10 +33,20 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39673
   teiginys: "Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladimiras (Pronsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pronsko kunigaikštis Vladimiras žygiavo Maskvos link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladimiras (Pronsko kunigaikštis) keliavo į Maskva (0.90); Vladimiras (Pronsko kunigaikštis) buvo sąjungininkas su Vladimiras Andrejevičius (0.74)"
   pagrindžia:
     - c-41477
     - c-167155
-
 ## Citatos
 
 - id: c-41477
@@ -54,12 +64,12 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     tęsti buvo sunku, todėl buvo sudaryta
     taika.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39673
-
 - id: c-167155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -76,6 +86,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     sąjungininkas, Pronsko kunigaikštis Vla-
     dimiras, su juo - „Riazanės kariai“.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

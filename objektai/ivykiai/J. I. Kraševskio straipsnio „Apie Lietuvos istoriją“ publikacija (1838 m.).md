@@ -59,6 +59,18 @@ Nenurodyta
 - t-001
   global_id: t-192046
   teiginys: "Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.)\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174916
 
@@ -77,8 +89,17 @@ Nenurodyta
     Taigi konkretus apmąstymų objektas nebuvo nurodytas,
     nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
     spėti.
-  citata_rodoma: "Straipsnis dvel­\nkė ramybe, rimtumu, didele erudicija ir bylojo apie ne\nvienų metų svarstymus. T. Narbuto pavardė nebuvo pa­\nminėta, nors ant J. I. Kraševskio stalo, be jokios abejo­\nnės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.\nTaigi konkretus apmąstymų objektas nebuvo nurodytas,\nnors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­\nspėti."
+  citata_rodoma: |
+    Straipsnis dvel­
+    kė ramybe, rimtumu, didele erudicija ir bylojo apie ne
+    vienų metų svarstymus. T. Narbuto pavardė nebuvo pa­
+    minėta, nors ant J. I. Kraševskio stalo, be jokios abejo­
+    nės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.
+    Taigi konkretus apmąstymų objektas nebuvo nurodytas,
+    nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
+    spėti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

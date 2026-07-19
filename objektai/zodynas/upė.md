@@ -46,16 +46,42 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 - t-001
   global_id: t-192230
   teiginys: "Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "upė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"upė\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175077
-
+    - c-001
 <a id="claim-t-192579"></a>
 - t-002
   global_id: t-192579
   teiginys: "Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "upė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"upė\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175352
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.'
@@ -77,8 +103,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192230
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -97,8 +122,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192579
 ## Citatos
 
 - id: c-175077
@@ -120,29 +144,40 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
     upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
     leela; iš čia svetimšaliai autoriai mini Apuliją.
-  citata_rodoma: "Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-\nkia Didelę upę4."
+  citata_rodoma: |
+    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-
+    kia Didelę upę4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192230
-
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
     kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
     nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
-    upė. Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
-    leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger
-    upės žinomos dvi: viena įteka į Ventą iš jos dešiniosios
-    pakrantės, antra — į Engūrės ežerą.
-  citata_rodoma: "Žodis Upe lietu­\nvių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių\nbūtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­\ntys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­\nkia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,\nši upė, tiesą sakant, šiandien mums nežinoma, bet ma­\nnome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti\nupė."
+    upė.
+  citata_rodoma: |
+    Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys. Leela yra latvių kalbos būdvardis, Leela-Uppe reiš­
+    kia Didelę upę4. Tačiau, nepaisant latviško pavadinimo,
+    ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­
+    nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti
+    upė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

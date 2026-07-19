@@ -33,6 +33,17 @@ media_all_json: |-
 - t-001
   global_id: t-38933
   teiginys: "3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Smalėnai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "3-ioji divizija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Smalėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Smalėnai įtraukti į 3-iosios divizijos gynybinės pozicijos ruožą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "3-ioji divizija gynė Smalėnai (0.58)"
   pagrindžia:
     - c-40737
 - susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
@@ -50,6 +61,7 @@ media_all_json: |-
     2-ajai divizijai: Dimitravo ež.-Meros upė-
     Augustavo kanalas-Nemunas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

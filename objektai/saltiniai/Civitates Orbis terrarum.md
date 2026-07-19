@@ -41,9 +41,23 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
 - t-001
   global_id: t-191743
   teiginys: "Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Civitates Orbis terrarum: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Civitates Orbis terrarum\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174625
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.'
@@ -59,8 +73,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191743
 ## Citatos
 
 - id: c-174625
@@ -75,8 +88,13 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
     tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mū­
     rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len­
     kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas.
-  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­\nrąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir\nkartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­\nlasą (Civitates orbis terrarum)."
+  citata_rodoma: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
+    rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
+    kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
+    lasą (Civitates orbis terrarum).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

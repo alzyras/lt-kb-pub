@@ -33,6 +33,17 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 - t-001
   global_id: t-40877
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> NKVD: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dzūkų būrys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "NKVD: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Karinis susidūrimas su NKVD kareiviais tiesiogiai rodo kovą prieš NKVD."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dzūkų būrys kariavo prieš NKVD (0.82)"
   pagrindžia:
     - c-44734
 
@@ -52,8 +63,16 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
     tiniais stribais. Tuomet žuvo partizanas
     Jurgis Krušinskas, Juozas Remeikis-Lokys
     vėliau mirė nuo sužeidimų.
-  citata_rodoma: "Tų pačių metų\nliepos 13 d., grįždami iš žygio, Dzūkų būrio\npartizanai prie Žuvinto ežero susidūrė su\npasaloje laukusiais NKVD kareiviais ir vie-\ntiniais stribais. Tuomet žuvo partizanas\nJurgis Krušinskas, Juozas Remeikis-Lokys\nvėliau mirė nuo sužeidimų."
+  citata_rodoma: |
+    Tų pačių metų
+    liepos 13 d., grįždami iš žygio, Dzūkų būrio
+    partizanai prie Žuvinto ežero susidūrė su
+    pasaloje laukusiais NKVD kareiviais ir vie-
+    tiniais stribais. Tuomet žuvo partizanas
+    Jurgis Krušinskas, Juozas Remeikis-Lokys
+    vėliau mirė nuo sužeidimų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

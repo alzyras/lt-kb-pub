@@ -39,6 +39,18 @@ media_all_json: |-
 - t-001
   global_id: t-200431
   teiginys: "1751 m. kovo 5 d. Jono Dominyko Lopacinskio laiškas Adomui Chmarai nurodytas Biblioteka Jagiellońska rankraštyje Rkp. 6636 II."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "receipt_recovery_current"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Minskas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Biblioteka Jagiellońska, Oddział Rękopisów, Rkp. 6636 II: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Minskas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biblioteka Jagiellońska, Oddział Rękopisów, Rkp. 6636 II\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183820
 
@@ -52,8 +64,10 @@ media_all_json: |-
   citata_originali: |
     19.	 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai.
     Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
-  citata_rodoma: "19. 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai. Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v."
+  citata_rodoma: |
+    19. 1751 03 05. Vilnius. J. D. Lopacinskio laiškas Minsko pavieto medžiokliui Adomui Chmarai. Biblioteka Jagiellońska, Oddział Rękopisów (toliau – BJ), Rkp. 6636 II, t. 5, l. 22–22v.
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

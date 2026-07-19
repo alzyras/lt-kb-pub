@@ -40,6 +40,9 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 - t-001
   global_id: t-187213
   teiginys: 'Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Chlepenio lokalizaciją. Citatos duomenys nepapildyti platesniu kontekstu.'
+  susije_objektai: 'mentioned_place: Volga'
   pagrindžia:
     - c-170283
 
@@ -47,6 +50,10 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 - t-002
   global_id: t-187214
   teiginys: 'Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia komentaro lokalizacinę informaciją.'
+  susije_objektai: 'mentioned_place: Viazma; mentioned_place: Volga; llm_object: Viazma'
+  semantiniai_rysiai: 'Chlepenis priklausė Viazma'
   pagrindžia:
     - c-170283
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
@@ -71,9 +78,10 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
     santakos).
   citata_rodoma: "5  Chlepenis — anuom et Vlazmos žemės miestas (apie 40 km \nį pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų, \nsantakos)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187213
+    - t-187214

@@ -51,9 +51,23 @@ Nenurodyta
 - t-001
   global_id: t-185805
   teiginys: "Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jogaila pradėjo taikos derybas su kryžiuočių vadovais; tai tiesiogiai rodo politinį susitarimo siekį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.70)"
   pagrindžia:
     - c-169166
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.'
@@ -74,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185805
 ## Citatos
 
 - id: c-169166
@@ -96,8 +109,18 @@ Nenurodyta
     malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
     pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
     jau įsiplieskiančią karo ugnį.
-  citata_rodoma: "Susitaręs su Vytautu, Jo­\ngaila, dėdamasis turįs visai kitų ketinimų, atvyko į\nKauną. Nelyginant į vaišes čia pasikvietė kryžiuočių\nvadovus. Vieniems ir kitiems rodant abipusį palanku­\nmą ir reiškiant džiaugsmą, dėl neseniai sudarytos su­\ntarties, pradėta kalbėti apie taiką: karalius ir Vytautas\npatys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir\nkryžiuočių teirautis, ko reikia imtis, kad Prūsija ir Lie­\ntuva gyventų tvirtos ir pastovios taikos sąlygomis."
+  citata_rodoma: |
+    Susitaręs su Vytautu, Jo­
+    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
+    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
+    vadovus. Vieniems ir kitiems rodant abipusį palanku­
+    mą ir reiškiant džiaugsmą, dėl neseniai sudarytos su­
+    tarties, pradėta kalbėti apie taiką: karalius ir Vytautas
+    patys pradėjo tą reikalą gvildenti bei šį tą siūlyti ir
+    kryžiuočių teirautis, ko reikia imtis, kad Prūsija ir Lie­
+    tuva gyventų tvirtos ir pastovios taikos sąlygomis.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

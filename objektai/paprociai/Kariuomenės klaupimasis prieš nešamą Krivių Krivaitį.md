@@ -48,9 +48,23 @@ Nenurodyta
 - t-001
   global_id: t-189921
   teiginys: "Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaidilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172804
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį.'
@@ -67,8 +81,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189921
 ## Citatos
 
 - id: c-172804
@@ -86,8 +99,14 @@ Nenurodyta
     klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
     taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
     dzio tawipaltu messu.
-  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
+  citata_rodoma: |
+    Kai su­
+    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
+    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
+    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
+    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

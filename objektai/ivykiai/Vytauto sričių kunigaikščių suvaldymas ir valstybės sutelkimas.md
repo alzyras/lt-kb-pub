@@ -53,6 +53,20 @@ Nenurodyta
 - t-001
   global_id: t-01875
   teiginys: "Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Švitrigaila: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai rodo Vytauto kariuomenės veiksmą prieš Švitrigailą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Švitrigaila (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Krokuva (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1393 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys turi aiškiai įvardyti veikėją ir veiksmą."
   pagrindžia:
     - c-02114
 
@@ -60,6 +74,16 @@ Nenurodyta
 - t-002
   global_id: t-01876
   teiginys: "Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02116
 
@@ -67,6 +91,19 @@ Nenurodyta
 - t-003
   global_id: t-01877
   teiginys: "Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1397 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau įvardyti datą ir Jono Algimantaičio titulą."
   pagrindžia:
     - c-02115
 
@@ -74,6 +111,16 @@ Nenurodyta
 - t-004
   global_id: t-01879
   teiginys: "Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02117
 
@@ -94,12 +141,12 @@ Nenurodyta
     Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimi-
     ras, o iš Karijoto sūnaus, Teodoro, — Podolė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01875
-
 - id: c-02115
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,12 +159,12 @@ Nenurodyta
     mantaitį. Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
     viena iš stambiausiųjų kunigaikštysčių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01877
-
 - id: c-02116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -131,14 +178,21 @@ Nenurodyta
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-  citata_rodoma: "Iš visų čia suminėtų sri-\nčių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji\niš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,\nji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-\nkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-\ntauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-\ntauto tiesioginei valdžiai atiteko tik rytinė jos dalis."
+  citata_rodoma: |
+    Iš visų čia suminėtų sri-
+    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
+    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
+    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
+    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
+    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
+    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01876
-
 - id: c-02117
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -150,8 +204,13 @@ Nenurodyta
     nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
     iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
     bajorai.
-  citata_rodoma: "Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi\nnepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti\niš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai\nbajorai."
+  citata_rodoma: |
+    Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
+    nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
+    iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
+    bajorai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

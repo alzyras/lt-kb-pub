@@ -38,9 +38,15 @@ Dusburgietis teigia, kad šapoka A.
 - t-001
   global_id: t-61397
   teiginys: "A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia šaltinio autorių, pavadinimą ir publikavimo duomenis."
   pagrindžia:
     - c-62029
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose.'
@@ -53,8 +59,7 @@ Dusburgietis teigia, kad šapoka A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61397
 ## Citatos
 
 - id: c-62029
@@ -64,8 +69,10 @@ Dusburgietis teigia, kad šapoka A.
   citata_originali: |
     48—49.
     Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
-  citata_rodoma: "Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35."
+  citata_rodoma: |
+    Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

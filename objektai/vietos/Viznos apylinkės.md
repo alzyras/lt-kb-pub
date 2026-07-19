@@ -33,6 +33,18 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 - t-001
   global_id: t-42315
   teiginys: "Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Viznos apylinkės: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Viznos apylinkės: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo lietuvių puolimą, o tame pačiame sakinyje patikslina atakuotas Viznos apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Viznos apylinkės (0.82); Lietuviai puolė Kryžiuočių ordinas (0.70)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45432
 
@@ -52,8 +64,16 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 
     Podolėje, Valakijoje, ragino dalyvauti ko-
     voje su totoriais.
-  citata_rodoma: "Kai Livonijos magistras buvo\nprie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino\npapilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių\ntuo metu kontroliuojamos Viznos apylinkes prie Narevo.\n\nPodolėje, Valakijoje, ragino dalyvauti ko-\nvoje su totoriais."
+  citata_rodoma: |
+    Kai Livonijos magistras buvo
+    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
+    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
+    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
+
+    Podolėje, Valakijoje, ragino dalyvauti ko-
+    voje su totoriais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

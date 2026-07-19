@@ -33,6 +33,17 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
 - t-001
   global_id: t-86276
   teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Šv. Barboros bažnyčia Žemutinėje pilyje: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šv. Barboros bažnyčia Žemutinėje pilyje: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Quote tiesiogiai sako, kad Augustas pastatydino Šv. Barboros bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) pastatė Šv. Barboros bažnyčia Žemutinėje pilyje (0.90); Žygimantas Augustas (arkivyskupas, XVI a.) buvo vyras Barbora Radvilaitė (0.64)"
   pagrindžia:
     - c-82255
 
@@ -52,11 +63,11 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
     atminimui, po jos mirties visur ieškodamas paguodos savo
     skausmui numalšinti35.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86276
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

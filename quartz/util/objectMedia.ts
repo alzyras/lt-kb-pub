@@ -27,6 +27,7 @@ export type MediaEntry = {
   country?: string
   language?: string
   tags?: MediaTag[]
+  sourceTags?: MediaSourceTag[]
   relatedObjects?: RelatedMediaObject[]
   firstDiscoveredAt?: string
   reviewedAt?: string
@@ -49,6 +50,14 @@ export type MediaTag = {
   label: string
   facetKind?: string
   confidence?: number
+}
+
+export type MediaSourceTag = {
+  provider: string
+  field: string
+  label: string
+  language?: string
+  canonicalCode?: string
 }
 
 export type RelatedMediaObject = {
@@ -90,17 +99,28 @@ export function mergeMediaEntries(entries: MediaEntry[]): MediaEntry[] {
       merged.set(mediaId, {
         ...entry,
         tags: [...(entry.tags ?? [])],
+        sourceTags: [...(entry.sourceTags ?? [])],
         relatedObjects: [...(entry.relatedObjects ?? [])],
       })
       continue
     }
     const tags = new Map((current.tags ?? []).map((tag) => [tag.code, tag]))
     for (const tag of entry.tags ?? []) tags.set(tag.code, tag)
+    const sourceTags = new Map(
+      (current.sourceTags ?? []).map((tag) => [
+        `${tag.provider}:${tag.field}:${tag.label.toLocaleLowerCase("lt")}`,
+        tag,
+      ]),
+    )
+    for (const tag of entry.sourceTags ?? []) {
+      sourceTags.set(`${tag.provider}:${tag.field}:${tag.label.toLocaleLowerCase("lt")}`, tag)
+    }
     const objects = new Map(
       (current.relatedObjects ?? []).map((object) => [object.notePath, object]),
     )
     for (const object of entry.relatedObjects ?? []) objects.set(object.notePath, object)
     current.tags = [...tags.values()]
+    current.sourceTags = [...sourceTags.values()]
     current.relatedObjects = [...objects.values()]
     current.isPrimary = Math.max(Number(current.isPrimary ?? 0), Number(entry.isPrimary ?? 0))
     current.confidence = Math.max(Number(current.confidence ?? 0), Number(entry.confidence ?? 0))

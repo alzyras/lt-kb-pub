@@ -33,6 +33,9 @@ media_all_json: |-
 - t-001
   global_id: t-44093
   teiginys: "Dr. Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių, tautinio susipratimo ir laisvamanybės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-47236
 
@@ -40,6 +43,9 @@ media_all_json: |-
 - t-002
   global_id: t-44094
   teiginys: "Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-47237
 
@@ -55,14 +61,18 @@ media_all_json: |-
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
-  citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai."
+  citata_rodoma: |
+    Dr. Šliūpas visą
+    gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
+    sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
+    nieji tautininkai ir laisvamaniai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44093
-
 - id: c-47237
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -73,8 +83,12 @@ media_all_json: |-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
     suose vienodai sutapo.
-  citata_rodoma: "Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-\nsuose vienodai sutapo."
+  citata_rodoma: |
+    Todėl apie jį susibūrė griežtes-
+    nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
+    suose vienodai sutapo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

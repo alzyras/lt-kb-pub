@@ -33,6 +33,17 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 - t-001
   global_id: t-30212
   teiginys: "Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo Gedimino siekį sudaryti taiką su Ordinu; tai artima sutarties ryšiui, nors formaliai tik prašymas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas sudarė sutartį su Kryžiuočių ordinas (0.68)"
   pagrindžia:
     - c-32713
 
@@ -49,8 +60,13 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
     ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
-  citata_rodoma: "Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
+  citata_rodoma: |
+    Tur būt, Gediminas nebuvo tiek daug
+    ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
+    Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
+    popiežiaus tarpininkavimo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

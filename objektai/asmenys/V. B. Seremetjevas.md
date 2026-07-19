@@ -33,6 +33,16 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 - t-001
   global_id: t-40482
   teiginys: "Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. B. Seremetjevas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. B. Seremetjevas\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44545
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
@@ -63,8 +73,24 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
     "bei kitus miestus ir priartėjo prie Senojo
     Bychovo. Tuo pat metu priešiškai nusi-
     teikusi Švedija lūkuriavo (su ja Lenkija
-  citata_rodoma: "Rusų karvedys V. B. Seremetjevas (apie\n\n15000 karių) užėmė Polocką ir Dysną,\n\nA. N. Trubeckojaus kariuomenė (apie\n\n15000 karių) užėmė Mstislavlį (liepos 22 d.\n\nužėmus miestą visi miestiečiai buvo iš-\n\nžudyti) ir žygiavo į\n\nLietuvos gilumą,\n\nMinsko link."
+  citata_rodoma: |
+    Rusų karvedys V. B. Seremetjevas (apie
+
+    15000 karių) užėmė Polocką ir Dysną,
+
+    A. N. Trubeckojaus kariuomenė (apie
+
+    15000 karių) užėmė Mstislavlį (liepos 22 d.
+
+    užėmus miestą visi miestiečiai buvo iš-
+
+    žudyti) ir žygiavo į
+
+    Lietuvos gilumą,
+
+    Minsko link.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,18 @@ media_all_json: |-
 - t-001
   global_id: t-193057
   teiginys: "Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata tik fragmentiškai, bet pakankamai nurodo Schützo kroniką prie pasakojimo apie riterių priėmimo paprotį."
+  susije_objektai: "mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vokietija"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Schützo Prūsijos kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Schützo Prūsijos kronika\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175824
 
@@ -46,6 +58,21 @@ media_all_json: |-
 - t-002
   global_id: t-193058
   teiginys: "Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Pamedė: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai valdė Pamedę."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas valdė Pamedė (0.95)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Legendinis-mitologinis pasakojimas paliktas su Narbuto atribucija ir modalumu „esą“. Neperimti smurtiniai epizodai, nes pakanka glausto teiginio apie kronikų motyvą."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175823
 
@@ -70,12 +97,12 @@ media_all_json: |-
     įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių,
     14 Stender.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193058
-
 - id: c-175824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -92,9 +119,22 @@ media_all_json: |-
     kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
     prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
     surengdavo puotą, kur kiekvienas 42
-    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T. VTT, p 246
-  citata_rodoma: "Pirmasis, \nkurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­\njo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­\ngailos sudegintą, pasuko atgalios ir susijungė su kitu dali­\nniu, kuris, vadovaujamas Vytauto ir Ordino maršalo,\n40 kus darbus gaudavo vietą prie stalo\nViduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas, \nvieną karo žygį riteriai, susiruošę į 41\nkovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti \nprie jų, priimdavo labai širdingai ir Prūsijos kronikininkai, \nsurengdavo puotą, kur kiekvienas 42\npagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T."
+    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T.
+  citata_rodoma: |
+    Pirmasis,
+    kurį sudarė vien svetimšaliai riteriai, vadovaujami didžio­
+    jo magistro, nužygiavo Trakų link, bet tą miestą radę Skir­
+    gailos sudegintą, pasuko atgalios ir susijungė su kitu dali­
+    niu, kuris, vadovaujamas Vytauto ir Ordino maršalo,
+    40 kus darbus gaudavo vietą prie stalo
+    Viduramžiais Vokietijoje prieš kiek- ir būdavo pagerbiamas,
+    vieną karo žygį riteriai, susiruošę į 41
+    kovą, kariautojus, prisijungusius Schütz Chroń. Pr, fol. 89 ir kiti
+    prie jų, priimdavo labai širdingai ir Prūsijos kronikininkai,
+    surengdavo puotą, kur kiekvienas 42
+    pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

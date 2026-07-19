@@ -42,6 +42,12 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 - t-001
   global_id: t-61059
   teiginys: "Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1231-1340; įvykio data: 1340 m.; įvykio data: 1860 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomą, chronologines ribas ir leidimo vietą bei metus."
   pagrindžia:
     - c-61691
 
@@ -55,6 +61,7 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
     Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
     / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,6 +51,10 @@ Skundo formulė apie vyrų ir moterų nelygų palankumą.
 - t-001
   global_id: t-195432
   teiginys: "Vyras taip nusako, kad jam tenka prastesnė dalis negu moterims."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177853
 
@@ -71,8 +75,10 @@ Skundo formulė apie vyrų ir moterų nelygų palankumą.
     išeina.
     Štai aš išgėriau putų stiklinę, o tamstai, žiūrėk, be putų yra
     ir gryno alaus.
-  citata_rodoma: "— Mat, vyrui, kaip skriauda, taip skriauda, o moterims vis geriau išeina. Štai aš išgėriau putų stiklinę, o tamstai, žiūrėk, be putų yra ir gryno alaus."
+  citata_rodoma: |
+    — Mat, vyrui, kaip skriauda, taip skriauda, o moterims vis geriau išeina. Štai aš išgėriau putų stiklinę, o tamstai, žiūrėk, be putų yra ir gryno alaus.
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

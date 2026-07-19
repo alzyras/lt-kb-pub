@@ -69,6 +69,9 @@ Nenurodyta
 - t-001
   global_id: t-75327
   teiginys: "Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22242
 
@@ -76,6 +79,16 @@ Nenurodyta
 - t-002
   global_id: t-75328
   teiginys: "Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Investiciniai čekiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Investiciniai čekiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22244
 
@@ -83,6 +96,9 @@ Nenurodyta
 - t-003
   global_id: t-75329
   teiginys: "Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73138
 
@@ -90,6 +106,16 @@ Nenurodyta
 - t-004
   global_id: t-75330
   teiginys: "Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Investiciniai čekiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Investiciniai čekiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22244
 
@@ -97,6 +123,9 @@ Nenurodyta
 - t-005
   global_id: t-75331
   teiginys: "Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22243
 
@@ -104,6 +133,9 @@ Nenurodyta
 - t-006
   global_id: t-75333
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73138
 
@@ -111,6 +143,13 @@ Nenurodyta
 - t-007
   global_id: t-193578
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-176254
 
@@ -132,14 +171,18 @@ Nenurodyta
     pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
     šos.
-  citata_rodoma: "Tam reikėjo\npradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-\ntas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-\nšos."
+  citata_rodoma: |
+    Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
+    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75327
-
 - id: c-22243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,14 +197,17 @@ Nenurodyta
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
     pasinaudojo ne visi.
-  citata_rodoma: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-\ngyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo\npasinaudojo ne visi."
+  citata_rodoma: |
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
+    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75331
-
 - id: c-22244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,15 +224,19 @@ Nenurodyta
     kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
     nepalikta garantijų investicinius čekius patikėjusiems asmenims.
-  citata_rodoma: "Privatizuojamam turtui įsigyti\nkūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta\nsavininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,\nnepalikta garantijų investicinius čekius patikėjusiems asmenims."
+  citata_rodoma: |
+    Privatizuojamam turtui įsigyti
+    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
+    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
+    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75328
     - t-75330
-
 - id: c-73138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,13 +252,13 @@ Nenurodyta
     kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
     šalies ūkio raidą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75329
     - t-75333
-
 - id: c-176254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,6 +273,7 @@ Nenurodyta
     sinaudojo buvę kolūkių pirmininkai ar tarybinių ūkių direktoriai, suge-
     bėję per trumpą laiką savo rankose sukaupti didžiulius turtus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

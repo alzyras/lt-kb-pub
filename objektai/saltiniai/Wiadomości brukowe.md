@@ -32,6 +32,16 @@ Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grind
 - t-001
   global_id: t-88507
   teiginys: "Humoristinį laikraštį „Wiadomości brukowe“ leido Šubravcų draugijos nariai, o jame aktyviai bendradarbiavo Michałas Balińskis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šubravcų draugija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Wiadomości brukowe: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Šubravcų draugija: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wiadomości brukowe\" parinktas kaip owner_note_path. Targetas \"Šubravcų draugija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84486
 
@@ -50,6 +60,7 @@ Draugijos narių leidžiamas humoristinis laikraštis Wiadomości brukowe (Grind
     vos kritika, atviras šaipymasis iš obskurantizmo ir tradiciona­
     lizmo išgarsino draugiją net už Lietuvos ribų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

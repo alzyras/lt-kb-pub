@@ -33,6 +33,21 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
 - t-001
   global_id: t-188981
   teiginys: "Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino vado Bouso kapinėmis (Kapinies Wade Boussa)."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_palaidotas -> Bouso kapinės: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bousas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bouso kapinės: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje apie Bousą sakoma, kad jis guli tame kape; vieta įvardyta kaip Bouso kapinės."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Bousas buvo palaidotas Bouso kapinės (0.76)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171870
 
@@ -52,6 +67,7 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
     karine ginkluote. Sį kapą kaimiečiai lietuviškai vadina vado
     Bouso kapinėmis (Kapinies Wade Boussa).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

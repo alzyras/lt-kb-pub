@@ -59,4 +59,3 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

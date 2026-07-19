@@ -33,6 +33,9 @@ Siuchniński.
 - t-001
   global_id: t-19430
   teiginys: "M. Siuchniński kartu su J. S. Kopczewskiu parengė leidinį „Grunwald: 550 lat chwały“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22161
 - susijęs iš [[objektai/autoriai/J. S. Kopczewski.md#claim-t-19405|J. S. Kopczewski]]: J. S. Kopczewski kartu su M. Siuchnińskiu parengė leidinį „Grunwald: 550 lat chwały“.
@@ -45,8 +48,10 @@ Siuchniński.
   citata_originali: |
     Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
     M.  Siuchniński.
-  citata_rodoma: "Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,"
+  citata_rodoma: |
+    Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

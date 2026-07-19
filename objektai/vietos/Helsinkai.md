@@ -52,6 +52,10 @@ Helsinkai šiame šaltinyje yra miestas.
 - t-001
   global_id: t-195651
   teiginys: "1888 m. Augustas Robertas Niemi įstojo į Helsinkų universitetą."
+  atnaujinta: "2026-07-12 09:30"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178053
 
@@ -59,6 +63,10 @@ Helsinkai šiame šaltinyje yra miestas.
 - t-002
   global_id: t-195652
   teiginys: "Helsinkuose buvo pastatytas Lonnroto paminklas, kuriam lėšas rinko Augustas Robertas Niemi."
+  atnaujinta: "2026-07-12 09:30"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178052
 - susijęs iš [[objektai/asmenys/Holsti (užsienio reikalų ministras, 1921 m.).md#claim-t-195674|Holsti (užsienio reikalų ministras, 1921 m.)]]: 1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje.
@@ -80,14 +88,20 @@ Helsinkai šiame šaltinyje yra miestas.
     Lonnrotui
     paminklą
     Helsinkuose.
-  citata_rodoma: "Vėliau, būnant Suomių literatūros dr-jos sekretoriu­\nmi, teko velioniui pakelti sunkią naštą rinkti aukas ir iš tų aukų pasta­\ntydinti \nLonnrotui \npaminklą \nHelsinkuose."
+  citata_rodoma: |
+    Vėliau, būnant Suomių literatūros dr-jos sekretoriu­
+    mi, teko velioniui pakelti sunkią naštą rinkti aukas ir iš tų aukų pasta­
+    tydinti
+    Lonnrotui
+    paminklą
+    Helsinkuose.
   statusas: verified
+  atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195652
-
 - id: c-178053
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -103,8 +117,11 @@ Helsinkai šiame šaltinyje yra miestas.
     tai, kurios priespaudą ir kovas jis savo paties akimis matė.
     1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­
     lologijos fakultetą.
-  citata_rodoma: "1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­\nlologijos fakultetą."
+  citata_rodoma: |
+    1888 m., baigęs liciejų, įstojo į Helsinkų universitetą į istorijos fi­
+    lologijos fakultetą.
   statusas: verified
+  atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

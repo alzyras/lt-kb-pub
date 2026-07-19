@@ -32,13 +32,41 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
 - t-001
   global_id: t-191266
   teiginys: "Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų, kurių susidūrimo skeveldros sukėlė žemėje fizines revoliucijas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fajetonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fajetonas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174148
-
+    - c-001
 <a id="claim-t-191267"></a>
 - t-002
   global_id: t-191267
   teiginys: "Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žirgai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fajetonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fajetonas\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174149
 - susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
@@ -73,8 +101,7 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191266
 ## Citatos
 
 - id: c-174148
@@ -94,14 +121,22 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
     cijų, kurias mūsų žemė ne vieną kartą patyrė, ypač išsi­
     skyrė viena: tuomet labai nukentėjo uolienos ir jos buvo
     nepaprastai suskaldytos.
-  citata_rodoma: "Geriausiai šį ypatingą fenomeną pa­\naiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­\nna tolimais amžiais susidūrė dvi palyginti didelės pla­\nnetos, vadinamos H espera ir Fajetonu; jų skeveldros iš\ndalies nukrito žemėn ir sukėlė joje fizines revoliucijas,\nkurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos\nir panašios į šią prielaidos, prie žemės buvęs antras mė­\nnulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo."
+  citata_rodoma: |
+    Geriausiai šį ypatingą fenomeną pa­
+    aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
+    na tolimais amžiais susidūrė dvi palyginti didelės pla­
+    netos, vadinamos H espera ir Fajetonu; jų skeveldros iš
+    dalies nukrito žemėn ir sukėlė joje fizines revoliucijas,
+    kurios sunaikino žemynus ir sukėlė potvynius. Pasak kitos
+    ir panašios į šią prielaidos, prie žemės buvęs antras mė­
+    nulis, arba ¡palydovas, kuris buvo sunaikintas ir sprogo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191266
-
 - id: c-174149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -115,6 +150,7 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
     sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
     lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

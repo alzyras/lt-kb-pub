@@ -32,6 +32,20 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
 - t-001
   global_id: t-191865
   teiginys: "Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino kaip tautos pavadinimą, asmenvardį arba perkeltinę sąvoką."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ezechielis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventasis Raštas, Ezechielio knyga: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ezechielis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Raštas, Ezechielio knyga\" parinktas kaip owner_note_path. Targetas \"Ezechielis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174747
 
@@ -55,6 +69,7 @@ Narbutas rašo, kad Ezechielio knygoje mokslininkai žodį Ross ar Russ aiškino
     šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
     mam požiūriui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

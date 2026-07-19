@@ -32,9 +32,16 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
 - t-001
   global_id: t-194833
   teiginys: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177229
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu.'
@@ -55,8 +62,7 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194833
 ## Citatos
 
 - id: c-177229
@@ -74,8 +80,18 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
     medžio, nuo kurio priklausė jos būtis, šaknis, kreipėsi į tenai
     medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas­
     ti žemėmis jau beveik griūvantį medį.
-  citata_rodoma: "Tie trys medžiai suaugę į vieną medį, kuris\nbuvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­\nvenęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­\ngumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas\nstatęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė\nšventu.\nNepalyginti labiau medžius aukštino ir garbino stabmel­\ndžiai; jie pripažindavo šventais ne tik pavienius medžius, bet\nnet ištisus miškelius, kurių nederėjo liesti."
+  citata_rodoma: |
+    Tie trys medžiai suaugę į vieną medį, kuris
+    buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­
+    venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly­
+    gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas
+    statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė
+    šventu.
+    Nepalyginti labiau medžius aukštino ir garbino stabmel­
+    džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
+    net ištisus miškelius, kurių nederėjo liesti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

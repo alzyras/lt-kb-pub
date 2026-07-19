@@ -47,6 +47,17 @@ Bereza čia minima kaip laidojimo vieta.
 - t-001
   global_id: t-200573
   teiginys: "1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_palaidotas -> Bereza: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bereza: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Mykolas Antanas Sapiega buvo palaidotas Berezoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183976
 - susijęs iš [[objektai/asmenys/Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.).md#claim-t-200529|Tadas Bučinskis (Oršos pavieto raikytojas, XVIII a.)]]: Tadas Bučinskis buvo Oršos pavieto raikytojas.
@@ -64,8 +75,12 @@ Bereza čia minima kaip laidojimo vieta.
     pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61]. Tais
     pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
     didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
-  citata_rodoma: "Tais\npačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors\ndidikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės."
+  citata_rodoma: |
+    Tais
+    pačiais metais rudenį Slonime mirė LDK pakancleris Mykolas Antanas Sapiega. Nors
+    didikas buvo palaidotas Berezoje [86, 114], Vilniuje taip pat vyko mišios ir kitos iškilmės.
   statusas: verified
+  atnaujinta: "2026-07-14 05:14"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

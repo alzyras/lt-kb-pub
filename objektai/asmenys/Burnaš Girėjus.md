@@ -52,9 +52,9 @@ Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Sim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
+
+
 
 
 

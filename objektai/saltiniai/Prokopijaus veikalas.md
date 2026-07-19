@@ -38,6 +38,24 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
 - t-001
   global_id: t-186343
   teiginys: "Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Italija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gepidai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad gepidai kartu su langobardais įsiveržė į Italiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Gepidai puolė Italija (0.88); Langobardai puolė Italija (0.84); Gepidai buvo sąjungininkas su Langobardai (0.76)"
+  temporaliniai_duomenys: "įvykio data: 559 m; įvykio data: apie 559 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pataisyta, kad Prokopijaus autorystė aiškiai sietųsi tik su citatoje nurodyta dalimi."
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169704
 
@@ -68,6 +86,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
     beveik ištisus du šimtmečius be pertraukos viešpatavo
     langobardai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

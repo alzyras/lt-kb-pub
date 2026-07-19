@@ -16,6 +16,9 @@ export default ((opts?: Options) => {
             © {year} {cfg.pageTitle}
           </p>
           <ul>
+            <li>
+              <a href="/index.xml">RSS</a>
+            </li>
             {Object.entries(links).map(([text, link]) => (
               <li>
                 <a href={link}>{text}</a>

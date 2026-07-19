@@ -54,4 +54,3 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

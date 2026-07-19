@@ -44,6 +44,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195225
   teiginys: "Veikalas „Lietuvių liaudies dainų tyrinėjimai“ siejamas su A. R. Niemio 1910-1912 m. atliktu Lietuvių mokslo draugijos archyvo dainų katalogavimu, vadovaujant J. Basanavičiui."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177593
 
@@ -51,6 +55,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-002
   global_id: t-195226
   teiginys: "1913 m. minima knyga „Lietuvių liaudies dainų tyrinėjimai“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177592
 
@@ -58,6 +66,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-003
   global_id: t-195227
   teiginys: "Veikalas spausdinamas Tautosakos komisijos kun. A. Sabaliausko vertime."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177591
 
@@ -74,14 +86,15 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     f
      1913 L. Lietuvių liaudies dainų tyrinėjimai.
     Kun. A. Sabaliausko vertime spausdinamas Tautosakos Komisijos.
-  citata_rodoma: "Kun. A. Sabaliausko vertime spausdinamas Tautosakos Komisijos."
+  citata_rodoma: |
+    Kun. A. Sabaliausko vertime spausdinamas Tautosakos Komisijos.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195227
-
 - id: c-177592
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -91,14 +104,15 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1913 L. Lietuvių liaudies dainų tyrinėjimai.
     Kun. A. Sabaliausko vertime spausdinamas Tautosakos Komisijos.
     L. Lietuvių vestuvių apeigos.
-  citata_rodoma: "1913 L. Lietuvių liaudies dainų tyrinėjimai."
+  citata_rodoma: |
+    1913 L. Lietuvių liaudies dainų tyrinėjimai.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195226
-
 - id: c-177593
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -118,8 +132,14 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     jamas a. a. d-ro Basanavičiaus, sukatalogavo ten esamas dainas, kaip
     matyti iš jo, dabar leidžiamo, veikalo „Lietuvių liaudies dainų tyri­
     nėjimai“ .
-  citata_rodoma: "Be to, velionis, 1910— 12 metais viešėdamas Lietuvoje ir, nau­\ndodamasis Lietuvių mokslo dr-jos archyve esama tautosaka, vadovau­\njamas a. a. d-ro Basanavičiaus, sukatalogavo ten esamas dainas, kaip \nmatyti iš jo, dabar leidžiamo, veikalo „Lietuvių liaudies dainų tyri­\nnėjimai“ ."
+  citata_rodoma: |
+    Be to, velionis, 1910— 12 metais viešėdamas Lietuvoje ir, nau­
+    dodamasis Lietuvių mokslo dr-jos archyve esama tautosaka, vadovau­
+    jamas a. a. d-ro Basanavičiaus, sukatalogavo ten esamas dainas, kaip
+    matyti iš jo, dabar leidžiamo, veikalo „Lietuvių liaudies dainų tyri­
+    nėjimai“ .
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,18 @@ Prioult, A.
 - t-001
   global_id: t-31594
   teiginys: "A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33511
 
@@ -56,8 +68,12 @@ Prioult, A.
     la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
     Romanes, IV, nr. 1, 1950, 3-29 p. — Vaičiulaitis, A.: _Vidurinių
     amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq.
-  citata_rodoma: "— Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et\nla « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres\nRomanes, IV, nr. 1, 1950, 3-29 p."
+  citata_rodoma: |
+    — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
+    la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
+    Romanes, IV, nr. 1, 1950, 3-29 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

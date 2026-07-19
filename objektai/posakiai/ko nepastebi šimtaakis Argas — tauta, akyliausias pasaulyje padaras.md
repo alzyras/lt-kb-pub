@@ -33,6 +33,12 @@ Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
 - t-001
   global_id: t-196397
   teiginys: "Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168832
 
@@ -63,6 +69,7 @@ Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
     chu jaunesniuoju, Branden­
     burgo markgrafu.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

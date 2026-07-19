@@ -50,6 +50,18 @@ Nenurodyta
 - t-001
   global_id: t-66945
   teiginys: "Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pilaitė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudėnai įvardyti kaip kariuomenės subūrėjai, po antpuolio sudeginę pilaitę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Pilaitė (0.87); Sūduviai puolė Pilaitė (0.80)"
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-67036
 
@@ -57,6 +69,16 @@ Nenurodyta
 - t-002
   global_id: t-66946
   teiginys: "Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veklicas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Veklico pilies ir vienos pilaitės sugriovimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Veklicas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veklico pilies ir vienos pilaitės sugriovimas\" parinktas kaip owner_note_path. Targetas \"Veklicas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67035
 
@@ -73,14 +95,23 @@ Nenurodyta
     Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
     pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
     170 (165).
-  citata_rodoma: "Po to,\nmatydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie\nRagavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,\npilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.\n\n\n\n\n    170 (165)."
+  citata_rodoma: |
+    Po to,
+    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
+    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
+    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
+
+
+
+
+        170 (165).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66946
-
 - id: c-67036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,6 +138,7 @@ Nenurodyta
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

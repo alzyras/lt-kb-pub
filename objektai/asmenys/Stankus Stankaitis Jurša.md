@@ -32,6 +32,13 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
 - t-001
   global_id: t-190244
   teiginys: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173127
 
@@ -47,6 +54,7 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
     (Stank Stankiewicz Jursza). Vaizduoja skaičių iš raidžių, kaip
     atrodo, biarmiškų; virš jo trikampė spyna.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

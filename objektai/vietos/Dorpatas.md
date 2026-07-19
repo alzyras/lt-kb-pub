@@ -40,6 +40,19 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
 - t-001
   global_id: t-36197
   teiginys: "Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Hanza: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dorpatas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Hanza: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dorpatas priklausė Hanzai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dorpatas priklausė Hanza (0.98)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38474
 
@@ -47,6 +60,16 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
 - t-002
   global_id: t-36198
   teiginys: "Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dorpatas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dorpatas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38475
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
@@ -146,14 +169,22 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
     santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
     varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
     tuvos pirklius.
-  citata_rodoma: "Bet ši atsisakė eiti prieš Vytautą, nes, ma­\ntyt, nenorėjo pagadinti tų santykių, kurie buvo tarp Vytauto ir\nHanzai priklausančio Dorpato, kad tuo pačiu nepakenktų savo\nprekybiniams interesams šiaurėje.\nTiktai po Melno taikos, prasidėjus geriems Vytauto\nsantykiams su magistru Russdorfu, nebepasitaikė daugiau su­\nvaržymų ir represijų, kurios būtų palietusios vokiečių arba Lie­\ntuvos pirklius."
+  citata_rodoma: |
+    Bet ši atsisakė eiti prieš Vytautą, nes, ma­
+    tyt, nenorėjo pagadinti tų santykių, kurie buvo tarp Vytauto ir
+    Hanzai priklausančio Dorpato, kad tuo pačiu nepakenktų savo
+    prekybiniams interesams šiaurėje.
+    Tiktai po Melno taikos, prasidėjus geriems Vytauto
+    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
+    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
+    tuvos pirklius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36197
-
 - id: c-38475
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -171,14 +202,19 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: "Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­\nvas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­\ntuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių\nbuvo apsupta pirklių gyvenamų ir lankomų žemių."
+  citata_rodoma: |
+    Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36198
-
 ## Ryšiai
 - Puolė Dorpatą: [[objektai/grupes/Lietuviai]]
 - Užėmė Dorpatą: [[objektai/grupes/Maskvėnai]]

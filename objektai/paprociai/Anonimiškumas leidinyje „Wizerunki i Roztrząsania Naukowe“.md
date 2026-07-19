@@ -64,10 +64,10 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-174974
@@ -86,8 +86,12 @@ Nenurodyta
     nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
     dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
     A. Marcinovskiui.
-  citata_rodoma: "Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i\nRoztrząsania Naukowe“ puslapiuose anonimiškumas buvo\nįprastas reiškinys."
+  citata_rodoma: |
+    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
+    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
+    įprastas reiškinys.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

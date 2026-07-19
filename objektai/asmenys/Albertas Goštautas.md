@@ -45,6 +45,12 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada
 - t-001
   global_id: t-194220
   teiginys: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176821
 
@@ -65,6 +71,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada
     kliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys
     gavo teisę visiems laikams imti mokestį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

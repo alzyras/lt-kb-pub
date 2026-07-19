@@ -33,6 +33,10 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - t-001
   global_id: t-67299
   teiginys: "1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67260
 
@@ -40,6 +44,10 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - t-002
   global_id: t-67301
   teiginys: "Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67261
 - susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
@@ -58,14 +66,21 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     pakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-
     lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
     naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
-  citata_rodoma: "Buvo patvirtintos 1768 m. vad. kardi-\nnalinės teisės, kurių garantu vėl tapo Rusija ir jos są-\njungininkės. Jose buvo pakeistas tik vienas kitatikius (disi-\ndentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo\npakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-\nlenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų\nnaujai pastatytose bažnyčiose buvo uždrausta skambinti varpais."
+  citata_rodoma: |
+    Buvo patvirtintos 1768 m. vad. kardi-
+    nalinės teisės, kurių garantu vėl tapo Rusija ir jos są-
+    jungininkės. Jose buvo pakeistas tik vienas kitatikius (disi-
+    dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo
+    pakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-
+    lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
+    naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67299
-
 - id: c-67261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -80,8 +95,11 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
-  citata_rodoma: "Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė\nneklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet"
+  citata_rodoma: |
+    Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė
+    neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

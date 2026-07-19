@@ -45,6 +45,13 @@ Nenurodyta
 - t-001
   global_id: t-196165
   teiginys: "Jogaila sutelkė kariuomenę, netikėtai patraukė į Vilnių ir, Hanului bei miesto magistratui išdavus, naktį buvo įleistas į miestą bei užėmė pilis."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178564
 
@@ -68,6 +75,7 @@ Nenurodyta
     viską sužinojęs, spėjo su pamote Birute pasitraukti į
     Gardiną.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

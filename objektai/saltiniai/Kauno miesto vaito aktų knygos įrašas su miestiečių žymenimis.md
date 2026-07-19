@@ -1,0 +1,64 @@
+---
+tipas: saltinis
+pavadinimas: 'Kauno miesto vaito aktų knygos įrašas su miestiečių žymenimis'
+saltiniai:
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1551 m.'
+  - '1555 m.'
+date_start: '1551'
+date_end: '1555'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kauno miesto vaito aktų knygos įrašas su miestiečių žymenimis
+
+## Santrauka
+
+1555 m. įrašas Kauno miesto vaito aktų knygoje su miestiečių žymenimis.
+
+## Teiginiai
+
+<a id="claim-t-202283"></a>
+- t-001
+  global_id: t-202283
+  teiginys: "1555 m. įrašas Kauno miesto vaito aktų knygoje su miestiečių žymenimis."
+  atnaujinta: "2026-07-19 10:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185630
+
+## Citatos
+
+- id: c-185630
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1555 m. įrašas Kauno miesto vaito aktų knygoje su miestiečių žymenimis. Lietuvos valsty-
+    bės istorijos archyvas, f. Senieji aktai, b. 13842, 1551-1555 m. Kauno vaito aktų knyga.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:19"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-202283

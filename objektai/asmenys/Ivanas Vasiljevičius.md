@@ -44,6 +44,16 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - t-001
   global_id: t-87520
   teiginys: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vasiljevičius (Maskvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): mention_match, person, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Vasiljevičius (Maskvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83499
 
@@ -51,6 +61,16 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - t-002
   global_id: t-87521
   teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=104"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83500
 
@@ -58,6 +78,19 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - t-003
   global_id: t-184713
   teiginys: "Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168074
 
@@ -65,6 +98,13 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - t-004
   global_id: t-193913
   teiginys: "Lietuvos metraštis Ivaną Vasiljevičių vaizduoja 1499 m. pradėjusiu karą prieš žentą Aleksandrą po susitarimų su Mengli-Girėjumi ir Steponu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176538
 - susijęs iš Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
@@ -128,12 +168,12 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
     džiąją kunigaikštytę Eleną.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87520
-
 - id: c-83500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,12 +186,12 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
     paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87521
-
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -174,14 +214,26 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
     didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-  citata_rodoma: "Nieko nepešę, kara­\nliaus legatai iškeliavo iš Maskvos, o netrukus pas ka­\nralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­\ntesnės užduoties, tik po senovei protestavęs dėl kaimy­\nnų daromų skriaudų. Šiaip pasiuntinybė turėjo visai\nkitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų\nir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar\nvieną titulą, pasirašydamas Livonijos valdovu. Kara­\nlius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,\njog maskvėnai po senovei skriaudžia Lietuvą, o laiš­\nkuose uždraudė minėti ir Maskvos caro, ir Livonijos\nvaldovo titulus."
+  citata_rodoma: |
+    Nieko nepešę, kara­
+    liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
+    ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­
+    tesnės užduoties, tik po senovei protestavęs dėl kaimy­
+    nų daromų skriaudų. Šiaip pasiuntinybė turėjo visai
+    kitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų
+    ir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar
+    vieną titulą, pasirašydamas Livonijos valdovu. Kara­
+    lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
+    jog maskvėnai po senovei skriaudžia Lietuvą, o laiš­
+    kuose uždraudė minėti ir Maskvos caro, ir Livonijos
+    valdovo titulus.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184713
-
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -206,11 +258,11 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     nybon, be to, dar žadėjo jiems daug savo miestų ir
     valsčių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193913
-
 ## Ryšiai
 - Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]

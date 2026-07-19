@@ -34,6 +34,8 @@ media_all_json: |-
 - t-001
   global_id: t-187420
   teiginys: 'Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius; mentioned_place: Žirmūnai'
   pagrindžia:
     - c-170410
 
@@ -57,8 +59,9 @@ media_all_json: |-
     Zlžma 234
   citata_rodoma: "Žizdrą 293, 314"
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187420

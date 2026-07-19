@@ -33,9 +33,23 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
 - t-001
   global_id: t-190416
   teiginys: "Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bochartas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bochartas\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173299
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią.'
@@ -53,8 +67,7 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190416
 ## Citatos
 
 - id: c-173299
@@ -77,8 +90,15 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
     gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
     nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
     graikų mitologijos Trejybė.
-  citata_rodoma: "Egiptiečiai ir graikai, romėnai, in­\ndai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­\ngiau ar mažiau paslaptingą dievų Kabirų ritualą.\nBochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai."
+  citata_rodoma: |
+    Egiptiečiai ir graikai, romėnai, in­
+    dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
+    giau ar mažiau paslaptingą dievų Kabirų ritualą.
+    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
+    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

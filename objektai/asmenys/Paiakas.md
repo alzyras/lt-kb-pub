@@ -32,6 +32,21 @@ Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vado
 - t-001
   global_id: t-191452
   teiginys: "Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Skilūras: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Roksolanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Skilūras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad roksolanai padėjo Skilūrui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Roksolanai buvo sąjungininkas su Skilūras (0.84); Roksolanai gyveno Dnepras (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174334
 - susijęs iš [[objektai/asmenys/Pasijus.md#claim-t-191453|Pasijus]]: Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.
@@ -56,11 +71,11 @@ Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vado
     na jų orda pateko Į Volgos žemupį ir ten, šiandieninės
     Astrachanės apylinkėse, gyveno gana ilgai4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191452
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pasijus]]

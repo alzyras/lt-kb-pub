@@ -33,6 +33,12 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
 - t-001
   global_id: t-194139
   teiginys: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176752
 
@@ -50,6 +56,7 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
     Kaip kad iš jūros daug upių teka, taip iš šio didžio­
     jo valdovo, didžiojo kunigaikščio Vytauto — išmintis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

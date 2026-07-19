@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime didysis magistras Konradas Turingenas vyko į Romą tvarkyti ordino reikalų, bet ten sunkiai susirgo ir mirė liepos 24 d.
+Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė.
 
 ## Teiginiai
 
-<a id="claim-t-201421"></a>
+<a id="claim-t-201420"></a>
 - t-001
-  global_id: t-201421
-  teiginys: "Daukanto pasakojime didysis magistras Konradas Turingenas vyko į Romą tvarkyti ordino reikalų, bet ten sunkiai susirgo ir mirė liepos 24 d."
+  global_id: t-201420
+  teiginys: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184771
+    - c-184770
 
 ## Citatos
 
-- id: c-184771
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 311"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 311."
+- id: c-184770
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Urėdas kry­
     žėjų, supykęs ant jo, išvadino jį paikintoju per­
@@ -63,8 +68,9 @@ Daukanto pasakojime didysis magistras Konradas Turingenas vyko į Romą tvarkyti
     ir antram popiežiui Celestinui IV, ciesorius išblaš­
     kė, kitus kalino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201421
+    - t-201420

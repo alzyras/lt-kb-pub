@@ -33,6 +33,9 @@ Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės 
 - t-001
   global_id: t-61061
   teiginys: "Codex Justinianus minimas kaip VI a. šaltinis, kuriame „terrula“ aiškinama kaip žemės sklypelis."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61693
 
@@ -46,6 +49,7 @@ Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės 
     Plg. Codex Justinianus
     (VI a.) terrula (demin.) — žemės sklypas (sklypelis).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
 - t-001
   global_id: t-40870
   teiginys: "Iš buvusios DOSAAF perimtomis nešiojamosiomis radijo stotelėmis buvo sukurtas ryšio tinklas tarp lauko postų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44728
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
@@ -52,8 +55,16 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
     stotys gautos iš kol kas nežinomų šaltinių
     ir panaudotos radijo žvalgybai (sovietų
     ryšio pasiklausymui).
-  citata_rodoma: "Nešiojamosios radijo\nstotelės perimtos iš buvusios DOSAAF\n(jomis buvo sukurtas ryšio tinklas tarp\nlauko postų), R-105 ir R-107 karinės radijo\nstotys gautos iš kol kas nežinomų šaltinių\nir panaudotos radijo žvalgybai (sovietų\nryšio pasiklausymui)."
+  citata_rodoma: |
+    Nešiojamosios radijo
+    stotelės perimtos iš buvusios DOSAAF
+    (jomis buvo sukurtas ryšio tinklas tarp
+    lauko postų), R-105 ir R-107 karinės radijo
+    stotys gautos iš kol kas nežinomų šaltinių
+    ir panaudotos radijo žvalgybai (sovietų
+    ryšio pasiklausymui).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

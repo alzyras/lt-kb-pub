@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-39986
   teiginys: "A. Šimėnui buvo siūloma pasitraukti į pogrindį ir palaukti kelias dienas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Šimėnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Šimėnas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44254
 
@@ -56,8 +66,21 @@ media_all_json: |-
     Lietuvoje bei užsienyje, 2) gynyba kariniais
     metodais, 3) pilietinio, nesmurtinio pasi-
     priešinimo organizavimas.
-  citata_rodoma: "13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-\nveikinimo kalbą, kad būsiąs rūmuose (nors daug kas sakė, kad reikia kurti Vyriausybę\nužsienyje, kad reikia pasitraukti į pogrindį ir pralaukti keletą dienų, netgi lėktuvas buvo =\nparuoštas). Buvo siūlymų ir premjerui A. Šimėnui pasitraukti į pogrindį, pralaukti porą =\ndienų ir tada išlįsti (A. Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om\n\nParlamento gynybos principai\nGalima išskirti tris principus: 1) sovietų\nagresijos fiksavimas ir informacijos sklaida\nLietuvoje bei užsienyje, 2) gynyba kariniais\nmetodais, 3) pilietinio, nesmurtinio pasi-\npriešinimo organizavimas."
+  citata_rodoma: |
+    13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-
+    veikinimo kalbą, kad būsiąs rūmuose (nors daug kas sakė, kad reikia kurti Vyriausybę
+    užsienyje, kad reikia pasitraukti į pogrindį ir pralaukti keletą dienų, netgi lėktuvas buvo =
+    paruoštas). Buvo siūlymų ir premjerui A. Šimėnui pasitraukti į pogrindį, pralaukti porą =
+    dienų ir tada išlįsti (A. Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om
+
+    Parlamento gynybos principai
+    Galima išskirti tris principus: 1) sovietų
+    agresijos fiksavimas ir informacijos sklaida
+    Lietuvoje bei užsienyje, 2) gynyba kariniais
+    metodais, 3) pilietinio, nesmurtinio pasi-
+    priešinimo organizavimas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

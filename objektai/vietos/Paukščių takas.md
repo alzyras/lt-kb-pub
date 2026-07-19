@@ -33,9 +33,23 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
 - t-001
   global_id: t-189040
   teiginys: "Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paukščių takas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paukščių takas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171929
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale.'
@@ -56,8 +70,7 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189040
 ## Citatos
 
 - id: c-171929
@@ -79,8 +92,18 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
     turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
     tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
     klydimais.
-  citata_rodoma: "Betgi apie ją neturime smulkesnių žinių nei\nnežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik\nspėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­\nniuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­\nrusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,\nšiauriniame Paukščių tako gale; puotaudavo kartu su jais,\ngerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,\njų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo\nlenkų ir rusinu priespaudos."
+  citata_rodoma: |
+    Betgi apie ją neturime smulkesnių žinių nei
+    nežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik
+    spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­
+    niuose, kad jie įsivaizdavo kažkokį rojų ir peklą. Rojuje mi­
+    rusiųjų vėlės gyvendavo dievų namuose, kurie yra danguje,
+    šiauriniame Paukščių tako gale; puotaudavo kartu su jais,
+    gerdavo su jais alų, mėgaudavosi malonumais, o vokiečiai,
+    jų tėvynės priešai, būdavo jų valdiniai, ir buvo jie laisvi nuo
+    lenkų ir rusinu priespaudos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

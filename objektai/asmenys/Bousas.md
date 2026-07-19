@@ -41,6 +41,13 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 - t-001
   global_id: t-190088
   teiginys: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172971
 
@@ -48,6 +55,13 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 - t-002
   global_id: t-194699
   teiginys: "Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177095
 - susijęs iš [[objektai/asmenys/Boguslavas Bousevičius.md#claim-t-190136|Boguslavas Bousevičius]]: Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis.
@@ -68,12 +82,12 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
     dūnios vėliavininkas, buvo tos žemės tėvonis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190088
-
 - id: c-177095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -89,6 +103,7 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
     karine ginkluote.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

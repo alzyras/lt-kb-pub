@@ -43,6 +43,19 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43827
   teiginys: "Piltene vadintos buvusios Kuršo vyskupystės žemės."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kuršas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Piltenė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Piltenė tiesiogiai apibrėžta kaip buvusios Kuršo vyskupystės žemės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Piltenė priklausė Kuršas (0.86)"
+  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47131
 - susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
@@ -73,13 +86,15 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
+  citata_rodoma: |
+    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
+    tenę, ir Saremos (Eželio) vyskupystę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43827
-
 ## Ryšiai
 - Puolė Piltenę: [[objektai/grupes/Lietuviai]]

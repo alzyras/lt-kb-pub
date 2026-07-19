@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-42274
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Daugavgryva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Quote tiesiogiai nurodo bandymą pulti Daugavgryvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Karolis Chodkevičius puolė Daugavgryva (0.93); Jonas Karolis Chodkevičius keliavo į Livonija (0.90); Jonas Karolis Chodkevičius užėmė Kuoknesė (0.78); Jonas Karolis Chodkevičius užėmė Viljandis (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą."
   pagrindžia:
     - c-45407
 
@@ -48,6 +62,20 @@ media_all_json: |-
 - t-002
   global_id: t-42275
   teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Viljandis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Viljandis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švedijos kariuomenė užėmė Viljandį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švedijos kariuomenė užėmė Viljandis (0.95); Švedijos kariuomenė užėmė Kuoknesė (0.94); Švedijos kariuomenė užėmė Paidė (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1608 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Viljandžio užėmimą."
   pagrindžia:
     - c-45408
 - susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
@@ -103,8 +131,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-45407
@@ -123,14 +149,18 @@ media_all_json: |-
     dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-  citata_rodoma: "1608 m. rudenį numalšinus rokošą Len-\nkijos karalystėje, Jonas Karolis Chodke-\nvičius grįžo į Livoniją ir per trumpą laiką\nišvadavo Kuoknesę ir Viljandį. 1609 m."
+  citata_rodoma: |
+    1608 m. rudenį numalšinus rokošą Len-
+    kijos karalystėje, Jonas Karolis Chodke-
+    vičius grįžo į Livoniją ir per trumpą laiką
+    išvadavo Kuoknesę ir Viljandį. 1609 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42274
-
 - id: c-45408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,13 +175,19 @@ media_all_json: |-
     kijos karalystėje, Jonas Karolis Chodke-
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
-  citata_rodoma: "Per trumpa\n“| laiką Švedijos kariuomenė užėmė Paidę\n(Weisenstein), Kuoknesę (Kokenhausen) ir\nViljandį (Fellin).\n\n1608 m."
+  citata_rodoma: |
+    Per trumpa
+    “| laiką Švedijos kariuomenė užėmė Paidę
+    (Weisenstein), Kuoknesę (Kokenhausen) ir
+    Viljandį (Fellin).
+
+    1608 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42275
-
 ## Ryšiai
 - Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]

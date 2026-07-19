@@ -34,6 +34,9 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
 - t-001
   global_id: t-187365
   teiginys: 'Umolis buvo gyvenvietė prie Slucko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau turi aiškų subjektą ir predikatą, o citata tiesiogiai nurodo Umolį kaip gyvenvietę prie Slucko. Papildomų faktų nepridėta.'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_place: Slučė'
   pagrindžia:
     - c-170378
 
@@ -41,6 +44,9 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
 - t-002
   global_id: t-187366
   teiginys: 'Strijkovskis Umolį lokalizavo laukuose už Slucko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Strijkovskio lokalizaciją ir yra paremtas citata.'
+  susije_objektai: 'mentioned_place: Sluckas'
   pagrindžia:
     - c-170379
 
@@ -57,12 +63,12 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
     17 Umolts — gyvenvietė prie Slucko.
   citata_rodoma: "17 Umolts — gyvenvietė prie Slucko."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-187365
 - id: c-170379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -75,8 +81,9 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
     pastatydino naująjį dvarą" (Kronika, p. 667).
   citata_rodoma: "Jo s vietų patikslina \nM  Strijkovskis: „ties Slucku, laukuose u i Umolio,"
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-187366

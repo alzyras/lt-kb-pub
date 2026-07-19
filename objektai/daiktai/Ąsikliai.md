@@ -51,6 +51,10 @@ Nenurodyta
 - t-001
   global_id: t-195324
   teiginys: "Pagalbinė detalė vyžoms adyti."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177711
 
@@ -71,8 +75,10 @@ Nenurodyta
     kraipytų.
     Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
     karnomis.
-  citata_rodoma: "Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
+  citata_rodoma: |
+    Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

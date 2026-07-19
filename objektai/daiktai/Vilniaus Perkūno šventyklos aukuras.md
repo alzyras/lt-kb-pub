@@ -55,6 +55,11 @@ Nenurodyta
 - t-001
   global_id: t-189754
   teiginys: 'Vilniaus Perkūno šventyklos aukuro aprašymas vertime papildytas žodžiais apie aukuro viršaus aptvėrimą briedžių ragais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas objektas ir pašalintas OCR bei redakcinis triukšmas. Nepridėta daugiau datų ar vertimo istorijos, nes teiginiui pakanka citatos dalies apie aukurą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-172637
 
@@ -83,8 +88,9 @@ Nenurodyta
     me vertime pateikiami ir kitokie negu 1817 metų
     vertime šventyklos matmenys.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189754

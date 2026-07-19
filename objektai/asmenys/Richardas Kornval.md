@@ -30,23 +30,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Richardas Kornvalis, vadinamas Teutonijos viešpačiu, turėjo daugiau vardo nei valdžios ir nesirūpino kryžėjų zokanu.
+Richardas Kornval, Teutonijos viešpats, daugiaus vardą, ne valdžią, turėdamas, nėmaž zokanu kryžė jų nerūpimos, vienu žodžiu, nei nuo Rymo, nei nuo Teutonijos ūkės begalėjo pagalbos kryžėjai bevil tis.
 
 ## Teiginiai
 
-<a id="claim-t-201423"></a>
+<a id="claim-t-201422"></a>
 - t-001
-  global_id: t-201423
-  teiginys: "Daukanto pasakojime Richardas Kornvalis, vadinamas Teutonijos viešpačiu, turėjo daugiau vardo nei valdžios ir nesirūpino kryžėjų zokanu."
+  global_id: t-201422
+  teiginys: "Richardas Kornval, Teutonijos viešpats, daugiaus vardą, ne valdžią, turėdamas, nėmaž zokanu kryžė jų nerūpimos, vienu žodžiu, nei nuo Rymo, nei nuo Teutonijos ūkės begalėjo pagalbos kryžėjai bevil tis."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184773
+    - c-184772
 
 ## Citatos
 
-- id: c-184773
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 430"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 430."
+- id: c-184772
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi Klemensas
     IV popiežius buvo nustipęs 1268, po kurio kardi­
@@ -64,8 +69,9 @@ Daukanto pasakojime Richardas Kornvalis, vadinamas Teutonijos viešpačiu, turė
     * Virš žodžių bočių liuosu ir senu užrašyta: liuosais links­
     mu.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201423
+    - t-201422

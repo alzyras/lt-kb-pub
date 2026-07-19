@@ -359,6 +359,7 @@ body:not([data-slug="index"]) .page-header .period-chip {
 .object-map-preview-link {
   position: absolute;
   display: block;
+  aspect-ratio: 4 / 3;
   top: 3.35rem;
   right: 0;
   min-width: 0;
@@ -380,7 +381,9 @@ body:not([data-slug="index"]) .page-header .period-chip {
   display: block;
   width: 100%;
   height: 100%;
-  min-height: var(--object-map-preview-height);
+  max-width: 100%;
+  max-height: 100%;
+  image-rendering: auto;
 }
 
 .object-map-preview-status {
@@ -612,6 +615,41 @@ body:is([data-slug="galerija"], [data-slug$="/galerija"]) .page-header > .popove
 body:is([data-slug="galerija"], [data-slug$="/galerija"]) .object-media-gallery-page {
   justify-self: center;
   width: min(calc(100vw - 4rem), 1200px);
+  max-width: none;
+}
+
+body[data-slug^="parodos"] .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+
+body[data-slug^="parodos"] .left.sidebar,
+body[data-slug^="parodos"] .right.sidebar,
+body[data-slug^="parodos"] .page-footer,
+body[data-slug^="parodos"] .center > hr {
+  display: none !important;
+}
+
+body[data-slug^="parodos"] .page > #quartz-body .center {
+  display: block;
+  grid-area: grid-center;
+  grid-column: 1 / -1 !important;
+  grid-row: 2 !important;
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+  margin: 0 auto;
+}
+
+body[data-slug^="parodos"] .page > #quartz-body .center > article,
+body[data-slug^="parodos"] .page > #quartz-body .center > article > .popover-hint {
+  width: 100%;
   max-width: none;
 }
 
@@ -1676,7 +1714,15 @@ body.graph-explorer-active .page {
     right: auto;
     width: 100%;
     height: auto;
+  }
+
+  .object-map-preview-link {
+    aspect-ratio: 4 / 3;
     min-height: 13rem;
+  }
+
+  .object-map-preview-canvas {
+    height: 100%;
   }
 
   .object-primary-media {

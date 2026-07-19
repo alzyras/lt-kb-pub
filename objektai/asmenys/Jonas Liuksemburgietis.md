@@ -42,6 +42,19 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 - t-001
   global_id: t-30310
   teiginys: "1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Čekija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Liuksemburgietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jonas Liuksemburgietis tiesiogiai įvardytas Čekijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Liuksemburgietis buvo valdovas Čekija (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32759
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
@@ -61,13 +74,18 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
     žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
     rašytame veikale « Confort d’Ami » (« Draugo parama »).
-  citata_rodoma: "Iš kitų puolimų yra išskirtinas 1329\npradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis\nį pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš\nvisur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir\nžygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m."
+  citata_rodoma: |
+    Iš kitų puolimų yra išskirtinas 1329
+    pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis
+    į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš
+    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
+    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30310
-
 ## Ryšiai
 - Jonas Liuksemburgietis buvo valdovas [[objektai/vietos/Čekija]]

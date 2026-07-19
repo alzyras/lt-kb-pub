@@ -63,6 +63,10 @@ Nenurodyta
 - t-001
   global_id: t-195362
   teiginys: "Atsiskiriant po ganymo dar nebuvo papročio sakyti „labanakt“."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177775
 
@@ -81,8 +85,10 @@ Nenurodyta
     ant tilto bestovinčius prie užkeltų vartų. Atkėliau vartus, suleidau jau­
     čius ir užkabinau. Atsiskyriau su bendraganėmis neatsisveikinęs; tada
     dar nebuvo papročio sakyti „labanakt“ .
-  citata_rodoma: "Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“."
+  citata_rodoma: |
+    Atsiskyriau su bendraganėmis neatsisveikinęs; tada dar nebuvo papročio sakyti „labanakt“.
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

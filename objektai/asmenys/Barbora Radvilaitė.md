@@ -15,19 +15,19 @@ tags:
   - asmuo
 amziai: []
 periodo_grupes: []
-media_total_count: '1'
+media_total_count: '2'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_600571046'
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}
+  {"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}]
+  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-bf6627154dfc8d1e6d689c07","title":"Vilnius. Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti","caption":"Karalienės Barboros Radvilaitės rūmų griuvėsiai Vilniuje","originalTitle":"Vilnius. Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti","creator":"","provider":"europeana","providerLabel":"Kaunas County Public Library","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/C130000499985","sourceUrl":"https://www.epaveldas.lt/static/kvb-bucket/C130000499985/thumbnail-original/C130000499985.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkvb-bucket%2FC130000499985%2Fthumbnail-original%2FC130000499985.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T21:03:54.666700+03:00","reviewedAt":"2026-07-11T21:04:28.437124+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas pilkšvas miesto griuvėsių vaizdas su mūrine rūmų siena, bokšteliais ir užrašu apačioje.","metadataEvidence":"Pavadinime tiesiogiai nurodyta: Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai; minima 1828 m. išardymo data, sutampanti su target kontekstu.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip aiškus kontekstinis vaizdas: jis vaizduoja konkrečius Barborai Radvilaitei priskiriamus rūmus, ne bendrinę vietą.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}]
+  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1},{"mediaId":"m-bf6627154dfc8d1e6d689c07","title":"Vilnius. Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti","caption":"Karalienės Barboros Radvilaitės rūmų griuvėsiai Vilniuje","originalTitle":"Vilnius. Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti | Karalienės Barboros Radzivillaitės, Zygmunto Augusto žmonos, rūmų griuvėsiai, 1828 m. tapo jie išardyti ir nukelti","creator":"","provider":"europeana","providerLabel":"Kaunas County Public Library","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/C130000499985","sourceUrl":"https://www.epaveldas.lt/static/kvb-bucket/C130000499985/thumbnail-original/C130000499985.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkvb-bucket%2FC130000499985%2Fthumbnail-original%2FC130000499985.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T21:03:54.666700+03:00","reviewedAt":"2026-07-11T21:04:28.437124+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas pilkšvas miesto griuvėsių vaizdas su mūrine rūmų siena, bokšteliais ir užrašu apačioje.","metadataEvidence":"Pavadinime tiesiogiai nurodyta: Karalienės Barboros Radvilaitės, Žygimanto Augusto žmonos, rūmų griuvėsiai; minima 1828 m. išardymo data, sutampanti su target kontekstu.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip aiškus kontekstinis vaizdas: jis vaizduoja konkrečius Barborai Radvilaitei priskiriamus rūmus, ne bendrinę vietą.","isPrimary":0}]
 ---
 # Barbora Radvilaitė
 
@@ -68,6 +68,17 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-001
   global_id: t-54947
   teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Augustas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Augustas susituokė su Barbora."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.72)"
   pagrindžia:
     - c-157457
 
@@ -75,6 +86,18 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-002
   global_id: t-54948
   teiginys: "Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje."
+  atnaujinta: "2026-06-10 12:34"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Augustas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Santuoka tiesiogiai pagrindžia Barboros žmonos ryšį su Augustu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55501
     - c-157457
@@ -83,6 +106,17 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-003
   global_id: t-54949
   teiginys: "Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "gyveno -> Barboros rūmai Vilniuje: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barboros rūmai Vilniuje: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim teigia, kad Barbora gyveno rūmuose, o citata identifikuoja Barboros rūmus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barbora Radvilaitė gyveno Barboros rūmai Vilniuje (0.78)"
   pagrindžia:
     - c-157457
 
@@ -90,6 +124,18 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-004
   global_id: t-54950
   teiginys: "1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Auksinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55501
 
@@ -97,6 +143,19 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-005
   global_id: t-54951
   teiginys: "1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "prekybos laikotarpis: 1828 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau įvardyti veikėją, objektą ir pardavimo aplinkybes."
   pagrindžia:
     - c-55502
 
@@ -104,6 +163,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-006
   global_id: t-54952
   teiginys: "Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Italija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157460
 
@@ -111,6 +180,17 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-007
   global_id: t-54953
   teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "buvo_zmona -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata Barborą vadina Augusto mylima žmona."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barbora Radvilaitė buvo žmona Žygimantas Augustas (arkivyskupas, XVI a.) (0.86)"
   pagrindžia:
     - c-55504
 
@@ -118,6 +198,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-008
   global_id: t-54954
   teiginys: "Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55505
 
@@ -125,6 +215,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-009
   global_id: t-54955
   teiginys: "Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Ona Vytautienė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ona Vytautienė: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Ona Vytautienė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55506
 
@@ -132,6 +232,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-010
   global_id: t-173119
   teiginys: "Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Italija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157460
 
@@ -139,6 +249,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-011
   global_id: t-173121
   teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "vede -> Barbora Radvilaitė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Augustas susituokė su Barbora."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157457
 
@@ -146,6 +266,16 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-012
   global_id: t-173122
   teiginys: "Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::people"
+  ryšio_patikimumas: "susije_su -> Gzovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gzovskis: mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Gzovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55506
 
@@ -153,6 +283,23 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-013
   global_id: t-184672
   teiginys: "Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Barbora Radvilaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora Radvilaitė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1545 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir susijęs su Barbora Radvilaite."
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-168033
 
@@ -160,6 +307,12 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
 - t-014
   global_id: t-194222
   teiginys: "Dar prieš kelerius metus Vilnių puo šė Barboros rūmų griuvėsiai, stovė ję tarp Katedros ir Šv."
+  atnaujinta: "2026-07-06 13:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55502
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
@@ -262,13 +415,13 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     ir 2 paauksuotas gūnias, įvertintas
     131 grivina.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54948
     - t-54950
-
 - id: c-55502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -291,13 +444,13 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     ninko Kosobudžkio namui Nr.
     priemiestyje už Aušros vartų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54951
     - t-194222
-
 - id: c-55504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -312,12 +465,12 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     atminimui, po jos mirties visur ieškodamas paguodos savo
     skausmui numalšinti35.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54953
-
 - id: c-55505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -338,12 +491,12 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     rengiamos visiškai jokios šio vargano pasaulio pompos ir
     iškilmės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54954
-
 - id: c-55506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -378,15 +531,38 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
     puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
     kokiais kitais, kuriuos po mūsų ras.
-  citata_rodoma: "Tik po to, kas iš sumos atliks, tegu lygiomis dalimis \nsu jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­\nne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­\nvo nuosavą iš motinos paveldėtą turtą.\nVisus mūsų apdarus, drabužius, esančius mūsų sau­\ngyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės\n343\n\n## Puslapis 360\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienės Barboros apdarus, kuriuos Gzovskis saugoja, o \nvėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­\nmais jos didenybės drabužiais, nė vieno daikto neišskiriant, \ndovanojame jos didenybei karalaitei Onai, dvidešimt pratė­\ngiui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra \npas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse, \nįsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­\nkinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip \npat puskarietės, karietas, ekipažus ir kitas panašias priemo­\nnes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­\npuošimais, tiek auksu lietais, aksominiais, purpuriniais ir \nkokiais kitais, kuriuos po mūsų ras."
+  citata_rodoma: |
+    Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
+    su jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­
+    ne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­
+    vo nuosavą iš motinos paveldėtą turtą.
+    Visus mūsų apdarus, drabužius, esančius mūsų sau­
+    gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės
+    343
+
+    ## Puslapis 360
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o
+    vėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­
+    mais jos didenybės drabužiais, nė vieno daikto neišskiriant,
+    dovanojame jos didenybei karalaitei Onai, dvidešimt pratė­
+    giui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra
+    pas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse,
+    įsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­
+    kinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip
+    pat puskarietės, karietas, ekipažus ir kitas panašias priemo­
+    nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
+    puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
+    kokiais kitais, kuriuos po mūsų ras.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54955
     - t-173122
-
 - id: c-157457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -405,6 +581,7 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -413,7 +590,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     - t-54948
     - t-54949
     - t-173121
-
 - id: c-157460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -433,13 +609,13 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
     sios Katedros griuvėsiuose.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54952
     - t-173119
-
 - id: c-168033
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -474,14 +650,45 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     niu keliu ten patekti, palie­
     pė nukloti iš pilies į Barboros
     sodus takelį ir tiltuką per Vilnios upę.
-  citata_rodoma: "Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai\nją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi\nir karaliaus Aleksandro pa­\nlaikai, Augustas neilgai ge­\ndėjo. Jaunatviškai lengvabū­\ndiškas, be to, iš mažumės\ntaip išauklėtas, kad mėgo\npuotauti, šokti ir visaip link-\n1545 m e ta i\nM iršta  A u strijo s k u ­\nn ig a ik š ty tė\nE lžb ieta ,\nA u g u sto  žm on a\n6 7  4\n\n## Puslapis 673\n\nsmintis su moterimis, pradėjo lankyti Barborą Radvi­\nlaitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­\nvados Stanislovo Goštauto našlę. Nors Radvilų rūmai\nbuvo visai netoli karaliaus\nA u g u sta s sla p ta i ve-\npilies, Augustas, trokšdamas\nd a\nB arborą\nR a d vi-\nkada panorėjęs kuo trumpes-\nla itę\nniu keliu ten patekti, palie­\npė nukloti iš pilies į Barboros\nsodus takelį ir tiltuką per Vilnios upę."
+  citata_rodoma: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184672
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - Sutuoktiniai: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

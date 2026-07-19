@@ -54,6 +54,12 @@ Nenurodyta
 - t-001
   global_id: t-02044
   teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1861 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą."
   pagrindžia:
     - c-02282
 
@@ -72,6 +78,7 @@ Nenurodyta
     cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
     nutarimus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

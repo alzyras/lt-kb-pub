@@ -33,6 +33,13 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
 - t-001
   global_id: t-193299
   teiginys: "Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tuos dvarus perduoti naujam ponui arba kai tam tikra komisija tikrindavo dvaro pajamas, reikėdavo žinoti, kiek iš jų imti mokesčio (1/4 visų karališkųjų dvarų — seniūnijų ir tenutų —."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-176027
 
@@ -55,6 +62,7 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
     davo pažymėtos tuose inventoriuose, tokias valstiečiai turė-
     davo ir eiti tiems dvarams.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

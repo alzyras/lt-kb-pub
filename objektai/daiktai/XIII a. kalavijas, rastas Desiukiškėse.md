@@ -60,6 +60,12 @@ Nenurodyta
 - t-001
   global_id: t-193820
   teiginys: "Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176464
 
@@ -72,6 +78,7 @@ Nenurodyta
   citata_originali: |
     p. 30, XIII a. Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

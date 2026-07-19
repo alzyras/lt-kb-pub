@@ -55,6 +55,13 @@ Nenurodyta
 - t-001
   global_id: t-193006
   teiginys: "Kasinėdamas senovines kapavietes Narbutas rado varinių auskarų, grandinėlių ir surūdijusių geležies dirbinių, kuriuos laikė galimais peiliais, skustuvais ar įrankiais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175776
 
@@ -62,9 +69,15 @@ Nenurodyta
 - t-002
   global_id: t-194871
   teiginys: "1826 metais Ukmergės apskrities Antakriautiio dvare, pri klausančiame ponui Romanovskiui, prie ežero, tiesiant nau ją kelią, buvo atkastas senovinis pilkapis, kuriame rastas skeletas, ant kurio abiejų rankų buvo užmauta po penkias varines apyrankes, ant."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177267
-    - c-179246
 
 ## Citatos
 
@@ -84,12 +97,12 @@ Nenurodyta
     tininkų įrankiai, kuriuos kartu, su jų savininkais guldy­
     davo į kapą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193006
-
 - id: c-177267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -107,12 +120,12 @@ Nenurodyta
     rutuliukų (poromis), keleto uolekčių ilgio. Ji buvo įsirė-
     žusi į kaukolę taip, jog liko net plaukų ir odos pėdsakų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194871
-
 - id: c-179246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -131,6 +144,7 @@ Nenurodyta
     lei susegti. Galvą puošė grandinėlė, suverta iš vielinių
     rutuliukų (poromis), keleto uolekčių ilgio.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

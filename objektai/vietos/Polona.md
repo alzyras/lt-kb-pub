@@ -32,8 +32,16 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 - t-001
   global_id: t-199792
   teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Smolenskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182696
+    - c-170336
 - susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
 - susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
 - susijęs iš [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą.md#claim-t-185774|Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]: Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.
@@ -55,7 +63,40 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
     nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
     tą 9, Smolensko didžiąją kunigaikštystę — kunigaikščiui
     Jomantui19 ir Boreikos sūnui Vasilijui ".
-  citata_rodoma: "Tad atvykite \nvisi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu \nbrolišką meilę į jūsų širdis.“ 7  Ir šitaip išviliojęs juos \niš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­\njojo pas jį su dovanomis, kaip ir visi Smolensko kuni­\ngaikščiai ir bajorai, kad nė vieno mieste neliko. O jis, \nvisus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­\nnigaikščiui Glebui Svetoslavovičiui davė Polonos mies­\ntą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui \nJomantui1 9  ir Boreikos sūnui Vasilijui \"."
+  citata_rodoma: |
+    Tad atvykite
+    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
+    brolišką meilę į jūsų širdis.“ 7  Ir šitaip išviliojęs juos
+    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
+    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
+    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
+    visus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­
+    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
+    tą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui
+    Jomantui1 9  ir Boreikos sūnui Vasilijui ".
+  statusas: verified
+  atnaujinta: "2026-07-12 23:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199792
+- id: c-170336
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tad atvykite
+    visi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu
+    brolišką meilę į jūsų širdis.“ 7  Ir šitaip išviliojęs juos
+    iš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­
+    jojo pas jį su dovanomis, kaip ir visi Smolensko kuni­
+    gaikščiai ir bajorai, kad nė vieno mieste neliko. O jis,
+    visus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­
+    nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
+    tą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui
+    Jomantui1 9  ir Boreikos sūnui Vasilijui ".
+  citata_rodoma: "O jis, \nvisus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­\nnigaikščiui Glebui Svetoslavovičiui davė Polonos mies­\ntą 9 ."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

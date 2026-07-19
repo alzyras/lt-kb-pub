@@ -27,24 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Popiežius Inocentas IV, pats gyvendamas Lugdune (Lione), liepė Sviatopelkui ir kryžėjams atvykti ten aiškintis jų ginčo.
+Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno.
 
 ## Teiginiai
 
 <a id="claim-t-201156"></a>
 - t-001
   global_id: t-201156
-  teiginys: "Popiežius Inocentas IV, pats gyvendamas Lugdune (Lione), liepė Sviatopelkui ir kryžėjams atvykti ten aiškintis jų ginčo."
+  teiginys: "Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184506
-- susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-200997|Inocentas IV]]: Inocentas IV, išgirdęs apie Sviatopelko karus su kryžiuočiais, paskyrė Parto vyskupą teisėju ir liepė abiem pusėms atvykti į Lugduną.
-- susijęs iš [[objektai/zodynas/liecyba (sąvoka).md#claim-t-201208|liecyba (sąvoka)]]: Daukanto pasakojime Habsburgas, tapęs vokiečių viešpačiu, patvirtino kryžėjų liecybas ir dovanas bei pasiskelbė jų užtarytoju.
+
 ## Citatos
 
 - id: c-184506
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 336"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Inocentas IV popiežius buvo jau jutęs apie ka­
     res Sviatopelko su kryžėjais, kurie, lūgodami jo
@@ -59,6 +63,7 @@ Popiežius Inocentas IV, pats gyvendamas Lugdune (Lione), liepė Sviatopelkui ir
     ir kerštus Paysly ant godos bažnyčios ir laimos
     krikščionybės sutaikinti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,20 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
 - t-001
   global_id: t-186252
   teiginys: "Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Karšuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Spūdas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Karšuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spūdas\" parinktas kaip owner_note_path. Targetas \"Karšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169613
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
@@ -45,18 +59,29 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Neteku­
+    Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
     sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
     Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
     mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
     pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
-    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
-    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
-    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
-    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
-  citata_rodoma: "Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­\nmės lietuvis, trokšdamas priimti krikščionių tikėjimą,\npats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­\nmyna."
+    myna.
+  citata_rodoma: |
+    Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
+    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
+    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
+    myna.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

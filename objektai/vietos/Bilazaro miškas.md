@@ -43,6 +43,10 @@ Bilazaro miškas šiame šaltinyje yra miškas.
 - t-001
   global_id: t-195483
   teiginys: "Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177904
 
@@ -59,8 +63,10 @@ Bilazaro miškas šiame šaltinyje yra miškas.
     tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
     Šiandien
     toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
-  citata_rodoma: "„Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“"
+  citata_rodoma: |
+    „Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

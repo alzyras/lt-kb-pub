@@ -41,6 +41,24 @@ media_all_json: |-
 - t-001
   global_id: t-191198
   teiginys: "1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero protekcijon, o šie kunigaikščiai apie tai pranešė popiežiui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Boleslovas Gėdingasis: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Boleslovas Gėdingasis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Protekcijon perėjimas rodo galindų priklausymą Boleslovo globai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Galindai priklausė Boleslovas Gėdingasis (0.76); Jotvingiai priklausė Boleslovas Gėdingasis (0.76)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Galindai priklausė Boleslovas Gėdingasis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai priklausė Boleslovas Gėdingasis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Boleslovo Gėdingojo politinį veiksmą ir remiasi citatos informacija. Popiežiaus bulės sąlygų nepridėta."
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174080
 
@@ -48,9 +66,23 @@ media_all_json: |-
 - t-002
   global_id: t-191199
   teiginys: "Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Danielius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas Gėdingasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Danielius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pagalbos atsiuntimas Danieliui tiesiogiai rodo rėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174081
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.'
@@ -67,8 +99,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191199
 ## Citatos
 
 - id: c-174080
@@ -92,12 +123,12 @@ media_all_json: |-
     savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
     kokių tolesnių kryžiuočių pretenzijų1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191198
-
 - id: c-174081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -109,8 +140,14 @@ media_all_json: |-
     radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
     giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
     atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
-  citata_rodoma: "Ziemovitas\nvaldė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­\nbėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime\njotvingius\". Be to, pagalbą atsiuntė taip pat ir Boleslovas\n(Gėdingasis)."
+  citata_rodoma: |
+    Ziemovitas
+    valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­
+    bėdami: „Esi su mumis sąjungoje, todėl kartu užgulkime
+    jotvingius". Be to, pagalbą atsiuntė taip pat ir Boleslovas
+    (Gėdingasis).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

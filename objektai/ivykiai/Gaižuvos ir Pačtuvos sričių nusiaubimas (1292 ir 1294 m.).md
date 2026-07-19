@@ -57,6 +57,20 @@ Nenurodyta
 - t-001
   global_id: t-31410
   teiginys: "1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Pačtuva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pačtuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad ordino kariuomenė nusiaubė Pačtuvos sritis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pačtuva (0.82); Kryžiuočių ordinas puolė Gaižuva (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1294 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją, vietas ir veiksmą, o citata tai patvirtina."
   pagrindžia:
     - c-33388
 
@@ -75,8 +89,14 @@ Nenurodyta
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
     pilį « Kymel »^28.
-  citata_rodoma: "Taip pat du kartu (1292, 1294) ordino kariuomenė\npasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,\nnusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­\nstovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią\npilį « Kymel »^28."
+  citata_rodoma: |
+    Taip pat du kartu (1292, 1294) ordino kariuomenė
+    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
+    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
+    stovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
+    pilį « Kymel »^28.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

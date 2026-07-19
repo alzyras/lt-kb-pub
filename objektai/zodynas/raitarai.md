@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-42501
   teiginys: "Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "raitarai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"raitarai\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45542
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
@@ -53,8 +63,16 @@ media_all_json: |-
     ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
     Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
     kariauti su rytietiško pavyzdžio kariuomenėmis).
-  citata_rodoma: "Švedų raitarai, pasikliaudami karakoliavimo taktika,\n\nvengdavo artimo mūšio, todėl husarams\n\nginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi\nLietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |\nkariauti su rytietiško pavyzdžio kariuomenėmis)."
+  citata_rodoma: |
+    Švedų raitarai, pasikliaudami karakoliavimo taktika,
+
+    vengdavo artimo mūšio, todėl husarams
+
+    ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
+    Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
+    kariauti su rytietiško pavyzdžio kariuomenėmis).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

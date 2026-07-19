@@ -51,6 +51,20 @@ Nenurodyta
 - t-001
   global_id: t-185548
   teiginys: "Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168909
 
@@ -58,6 +72,20 @@ Nenurodyta
 - t-002
   global_id: t-185549
   teiginys: "Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Livonija: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas patraukė į Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į Livonija (0.89)"
   pagrindžia:
     - c-168910
 
@@ -65,6 +93,13 @@ Nenurodyta
 - t-003
   global_id: t-196309
   teiginys: "Kojelavičius Žygimanto pergalę vaizduoja kaip taikos viltį, kurią esą sužlugdė vėlesnis paties Žygimanto žiaurumas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178621
 
@@ -91,14 +126,29 @@ Nenurodyta
     me danguje aiškiai švietė mėnulio pilnatis, lenkai,
     trokšdami galutinės pergalės, dar po pusiaunakčio per­
     sekiojo sprunkančius rusus.
-  citata_rodoma: "Neilgai trukus, tai yra gruodžio 2 d., Boleslovas\npralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­\ndešimties tūkstančių kariuomene, įrengusia prie Ašme­\nnos stovyklą. Į pagalbą jam\nŽ y g im a n ta s\nsu m u ša\natėjo beveik visa Rusia, ne\nŠ v itrig a ilą\ntik ta, kuri priklausė Lietuvos\ndidžiajam kunigaikščiui, tai\nyra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,\nVolynės žemės, bet atžygiavo kariuomenė iš Maskvos,\nRiazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­\nčio Boriso brolio. Pagal slaptą susitarimą Livonija at­\nsiuntė į pagalbą kelis būrius vokiečių."
+  citata_rodoma: |
+    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
+    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
+    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
+    nos stovyklą. Į pagalbą jam
+    Ž y g im a n ta s
+    su m u ša
+    atėjo beveik visa Rusia, ne
+    Š v itrig a ilą
+    tik ta, kuri priklausė Lietuvos
+    didžiajam kunigaikščiui, tai
+    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
+    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
+    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
+    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
+    siuntė į pagalbą kelis būrius vokiečių.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185548
-
 - id: c-168910
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -128,12 +178,12 @@ Nenurodyta
     šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
     das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185549
-
 - id: c-178621
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -150,6 +200,7 @@ Nenurodyta
     dar daugiau skausmo savo gal kartais ir reikalingu, ir
     teisingu, bet tarp žmonių nekenčiamu žiaurumu.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

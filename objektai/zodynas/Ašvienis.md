@@ -42,6 +42,9 @@ Vartojamos formos: `ašvienio`.
 - t-001
   global_id: t-69978
   teiginys: "Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09669
 
@@ -49,6 +52,9 @@ Vartojamos formos: `ašvienio`.
 - t-002
   global_id: t-69979
   teiginys: "`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09669
 
@@ -61,6 +67,7 @@ Vartojamos formos: `ašvienio`.
   citata_originali: |
     Vargdienis, neturėdamas ašvienio arba javų, savo dirvą ar pievą kitam išnuomojo, už ką nuo antro paskui pusę javų ar šieno gavo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

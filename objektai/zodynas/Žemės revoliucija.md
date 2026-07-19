@@ -46,16 +46,33 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - t-001
   global_id: t-192283
   teiginys: "Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės revoliucija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės revoliucija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175103
-
+    - c-001
 <a id="claim-t-192284"></a>
 - t-002
   global_id: t-192284
   teiginys: "Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175104
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.'
@@ -85,8 +102,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192283
 - c-002
   santrauka: 'Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -104,8 +120,7 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192284
 ## Citatos
 
 - id: c-175103
@@ -134,14 +149,17 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     tose; e) dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­
     da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
     po įvairias lygumas.
-  citata_rodoma: "dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­\nda, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti\npo įvairias lygumas."
+  citata_rodoma: |
+    dideli ir maži uolienų luitai perplaukė per Baltijos jūrą ta­
+    da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
+    po įvairias lygumas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192283
-
 - id: c-175104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -159,8 +177,16 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
     jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
     kevalą.
-  citata_rodoma: "Štai ir visas spėjimas apie Žemės revoliucijos priežas­\ntis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos\nkristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­\njos ir garai, kurie su didžiule jėga ėmė traiškyti žemės\nkevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­\nsias materijos lavinos, potvyniai, uolų trupėjimas, pusty­\nmas, viesulai, biraus žemės sluoksnio susiformavimas,"
+  citata_rodoma: |
+    Štai ir visas spėjimas apie Žemės revoliucijos priežas­
+    tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos
+    kristalai, viršuje, tam tikrame gylyje, išsiskyrė ugnis, du­
+    jos ir garai, kurie su didžiule jėga ėmė traiškyti žemės
+    kevalą. Taip atsirado ir didžiuliai sprogimai, ir sukietėju­
+    sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
+    mas, viesulai, biraus žemės sluoksnio susiformavimas,
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

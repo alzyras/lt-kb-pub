@@ -41,6 +41,18 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 - t-001
   global_id: t-30523
   teiginys: "A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Roma: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. M. Ammann: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Roma: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. M. Ammann\" parinktas kaip owner_note_path. Targetas \"Roma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1947 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-32877
 
@@ -57,8 +69,12 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
     V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
     (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
     (^63) **CEV, 205 p.**
-  citata_rodoma: "**\n(^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**\n(^63) **CEV, 205 p."
+  citata_rodoma: |
+    **
+    (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
+    (^63) **CEV, 205 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

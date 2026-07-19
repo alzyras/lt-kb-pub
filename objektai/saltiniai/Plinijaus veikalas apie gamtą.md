@@ -32,6 +32,20 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
 - t-001
   global_id: t-191706
   teiginys: "Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasakojimą apie iš Indijos atvežamą gintaro žaliavą su medžių žieve."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Indija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Plinijaus veikalas apie gamtą: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Indija: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus veikalas apie gamtą\" parinktas kaip owner_note_path. Targetas \"Indija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174588
 
@@ -54,6 +68,7 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
     lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
     balų išmesdavo Švedijos ežeras Maeleras.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

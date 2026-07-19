@@ -41,6 +41,11 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - t-001
   global_id: t-54116
   teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55066
 
@@ -48,6 +53,11 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - t-002
   global_id: t-54117
   teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55066
 
@@ -62,8 +72,13 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
     1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
     polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
     ner_ (1382-90), Marburg a. L. 1956.
-  citata_rodoma: "Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,\n1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der\npolnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­\nner_ (1382-90), Marburg a. L. 1956."
+  citata_rodoma: |
+    Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
+    1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
+    polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
+    ner_ (1382-90), Marburg a. L. 1956.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

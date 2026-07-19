@@ -64,6 +64,21 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
 - t-001
   global_id: t-192058
   teiginys: "Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno miesto dievo-globėjo (Penatis) stabas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno miesto dievo-globėjo (Penatis) stabas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1818 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektas susietas su Kaune rasta statulėle, o aprašomasis ir interpretacinis turinys paliktas su Narbuto atribucija. Nepridėta Penatio tapatybė, nes citata ją vadina nežinomo dievo stabu."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174929
 
@@ -85,8 +100,17 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
     žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
     t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu­
     vis.
-  citata_rodoma: "Kai 1818 metais Kaune buvo statoma mui-\ntinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio\nmuro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-\nlokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą\nbronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-\nžiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,\nt. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-\nvis."
+  citata_rodoma: |
+    Kai 1818 metais Kaune buvo statoma mui-
+    tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio
+    muro, visų vadinamo Perkūno namais. Magistrato valdininkas Pu-
+    lokolovskis, valydamas tuos griuvėsius, rado ten kadaise įmūrytą
+    bronzinę apie šešių colių aukščio statulėlę, vaizduojančią sukry-
+    žiuotomis kojomis būtybę, kuri ant galvos laikė miesto vaizdą,
+    t. y. bokštus, namus ir bažnyčias, o vienoje rankoje — tris žu-
+    vis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

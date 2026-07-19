@@ -49,6 +49,17 @@ Nenurodyta
 - t-001
   global_id: t-07797
   teiginys: "Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sieja lietuvius su buvimu Vilniuje 1387 m."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  semantiniai_rysiai: "Lietuviai gyveno Vilnius (0.78)"
   pagrindžia:
     - c-09953
 
@@ -63,14 +74,22 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios
-        nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už
-        ženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo
-        laimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir
-        šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
-        dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
-        jiems karaliaus dieną šventinantys.
-  citata_rodoma: "pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios\nnedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už\nženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo\nlaimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir\nšventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų\ndirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės\njiems karaliaus dieną šventinantys."
+    nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už
+    ženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo
+    laimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir
+    šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
+    dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
+    jiems karaliaus dieną šventinantys.
+  citata_rodoma: |
+    pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios
+    nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už
+    ženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo
+    laimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir
+    šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
+    dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
+    jiems karaliaus dieną šventinantys.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

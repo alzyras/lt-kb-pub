@@ -38,9 +38,16 @@ media_all_json: |-
 - t-001
   global_id: t-194775
   teiginys: "- Vilnius-Chicago, 1990."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177171
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '- Vilnius-Chicago, 1990.'
@@ -54,8 +61,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194775
 ## Citatos
 
 - id: c-177171
@@ -74,8 +80,11 @@ media_all_json: |-
     mui ištirti ir pažinti daug naudingiau būtų, jei Narbuto Lietu­
     vos istorijos I-mas tomas su ten esančiais išvedžiojimais kiek
     galima greičiau būtų užmirštas.
-  citata_rodoma: "51 Greimas A. J. Tautos atminties beieškant: apie dievus ir žmo­\nnes. -  Vilnius-Chicago, 1990. -  P. 226."
+  citata_rodoma: |
+    51 Greimas A. J. Tautos atminties beieškant: apie dievus ir žmo­
+    nes. -  Vilnius-Chicago, 1990. -  P. 226.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

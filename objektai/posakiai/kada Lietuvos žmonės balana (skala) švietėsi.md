@@ -52,6 +52,10 @@ Apibendrinanti senosios Lietuvos buities formulė.
 - t-001
   global_id: t-195411
   teiginys: "Autorius senąją gadynę nusako įsimintina apibendrinančia formule."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177832
 - susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195611|Senosios gadynės kasdienybė]]: Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo.
@@ -76,8 +80,10 @@ Apibendrinanti senosios Lietuvos buities formulė.
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: "liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, daug meldėsi, daug dirbo, daug gėrė ir lėbavo."
+  citata_rodoma: |
+    liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, daug meldėsi, daug dirbo, daug gėrė ir lėbavo.
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

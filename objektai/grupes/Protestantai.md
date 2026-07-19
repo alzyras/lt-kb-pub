@@ -39,6 +39,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - t-001
   global_id: t-01459
   teiginys: "Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-01696
 
@@ -46,6 +50,12 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - t-002
   global_id: t-182919
   teiginys: "Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166322
 
@@ -53,6 +63,13 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - t-003
   global_id: t-193125
   teiginys: "Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-175884
 
@@ -60,6 +77,12 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - t-004
   global_id: t-193126
   teiginys: "Todėl vėlesniaisiais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo labai lėtai; dažniausiai būdavo išleidžiamos tik naujos minėtų knygų laidos."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175885
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114004|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.
@@ -112,14 +135,17 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
     vaidmens nesuvaidinusios.
-  citata_rodoma: "Katalikams pačios pavojingosios buvo protestantų\nmokyklos. Jos buvo steigiamos protestantų didikų, o kai kur\nir miestiečių."
+  citata_rodoma: |
+    Katalikams pačios pavojingosios buvo protestantų
+    mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
+    ir miestiečių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01459
-
 - id: c-166322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -133,12 +159,12 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182919
-
 - id: c-175884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -149,12 +175,12 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     pastangomis katalikybė ėmė atsigauti, ir daugelis didžiųjų
     ponų šeimų sugrįžo atgal į katalikybę (žiūr. 253, 290 psl.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193125
-
 - id: c-175885
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -167,6 +193,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     joje buvo išspausdinta didelė dalis lietuviškai išverstos Bibli-
     jos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

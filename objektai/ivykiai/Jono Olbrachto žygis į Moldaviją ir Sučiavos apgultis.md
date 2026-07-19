@@ -61,6 +61,9 @@ Nenurodyta
 - t-001
   global_id: t-186652
   teiginys: 'Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia „Po to“.'
+  susije_objektai: 'mentioned_place: Moldavija; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
   pagrindžia:
     - c-169914
 
@@ -68,6 +71,9 @@ Nenurodyta
 - t-002
   global_id: t-186653
   teiginys: 'Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išplėstas asmens įvardijimas ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Sučiava'
   pagrindžia:
     - c-169914
 
@@ -75,6 +81,9 @@ Nenurodyta
 - t-003
   global_id: t-186654
   teiginys: 'Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-169914
 
@@ -82,6 +91,9 @@ Nenurodyta
 - t-004
   global_id: t-186655
   teiginys: 'Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatinis ir šaltiniui atribuuotas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Sučiava'
   pagrindžia:
     - c-169914
 
@@ -89,6 +101,9 @@ Nenurodyta
 - t-005
   global_id: t-186656
   teiginys: 'Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje pateiktą gynėjų atsakymą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; llm_object: Sučiava'
   pagrindžia:
     - c-169914
 
@@ -96,6 +111,10 @@ Nenurodyta
 - t-006
   global_id: t-193853
   teiginys: 'Olbrachtui įsiveržus į Moldaviją, vaivada Steponas sutvirtino Sučiavos pilį ir miestus, paliko įgulas ir su kariuomene pasitraukė į Putnos apylinkių tarpeklius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas veiksmo subjektas ir pašalinti OCR bei nutrūkusio sakinio fragmentai. Neperimtas metraščio emocinis vertinimas apie Olbrachto pyktį ir kariuomenės galybę.'
   pagrindžia:
     - c-176492
 
@@ -124,16 +143,16 @@ Nenurodyta
     griežtai to prisilaikysiąs3 2 .
   citata_rodoma: "O karalius Olbrachtas, pasiekęs Sučiavą ir prastovėjęs \nprie jos kelias dienasM , suprato, kad miestui nieko \nnepadarys; visi moldavai, apgulti mieste, davė jam to­\nkį atsakymą: „2inok neabejodamas, kad mes nebūsi­\nme savo valdovo ir jo miesto išdavikais. Mūsų valdo­\nvas vaivada Steponas su savo kariuomene yra lauke: \njei nori — eik ir nugalėk jj, ir tuomet jo miestai ir visa \nžemė iš karto atsidurs tavo rankose.\"\n\nKaralius Olbrachtas pasitraukė nuo Sučiavos mies­\nto ir žygiuoja gilyn, iš visos širdies trokšdamas susi­\nkauti su juo 3 I."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-    - t-005
-
+    - t-186652
+    - t-186653
+    - t-186654
+    - t-186655
+    - t-186656
 - id: c-176492
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -156,8 +175,9 @@ Nenurodyta
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-193853

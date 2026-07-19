@@ -58,6 +58,18 @@ Nenurodyta
 - t-001
   global_id: t-78632
   teiginys: "Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai parodo lietuvių pajėgas Prostkų mūšio sudėtyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.90)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-11893
 
@@ -65,6 +77,16 @@ Nenurodyta
 - t-002
   global_id: t-78633
   teiginys: "Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prostkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Prostkai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prostkų mūšis (1656 m. spalio 8 d.)\" parinktas kaip owner_note_path. Targetas \"Prostkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11896
 
@@ -72,6 +94,21 @@ Nenurodyta
 - t-003
   global_id: t-78634
   teiginys: "1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatos kontekste lietuviai įvardijami kaip viena iš suartėjusių kariuomenių mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1656 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į aiškų enciklopedinį sakinį apie mūšio eigą."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-75853
 
@@ -79,6 +116,19 @@ Nenurodyta
 - t-004
   global_id: t-78635
   teiginys: "1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys apie Lietuvos pajėgų veiksmą tiesiogiai priklauso Prostkų mūšio kontekstui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.85)"
+  temporaliniai_duomenys: "įvykio data: 1656 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-11893
 
@@ -86,6 +136,17 @@ Nenurodyta
 - t-005
   global_id: t-78636
   teiginys: "Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių veikimą Prostkų mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.95)"
   pagrindžia:
     - c-75853
 
@@ -93,6 +154,17 @@ Nenurodyta
 - t-006
   global_id: t-78637
   teiginys: "Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Prostkų mūšis (1656 m. spalio 8 d.): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prostkų mūšis (1656 m. spalio 8 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Totoriai tiesiogiai minimi tame pačiame mūšio epizode kaip kovos veiksmo dalyviai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.78); Radvilos dalyvavo mūšyje Prostkų mūšis (1656 m. spalio 8 d.) (0.78)"
   pagrindžia:
     - c-43108
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -122,13 +194,13 @@ Nenurodyta
     Walenrodto vedamų pėstininkų. Iš viso
     apie 7000 karių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78632
     - t-78635
-
 - id: c-11896
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,12 +211,12 @@ Nenurodyta
     krito apie 5500. Priešų pusėje kovojęs
     B. Radvila pateko į nelaisvę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78633
-
 - id: c-43108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -164,12 +236,12 @@ Nenurodyta
     jėgos smogė priešo pajėgų likučiams, pats
     gen. G. Valdekas vos suspėjo išsigelbėti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78637
-
 - id: c-75853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -191,14 +263,30 @@ Nenurodyta
     tačiau staiga pasirodžiusios pagrindi-
 
     nės V. Gosievskio pajėgos juos užpuolė
-  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą. Tuo tarpu G. Valdekas gavo žinią,\nkad šiauriau Prostkų per upę keliasi toto-\nriai. Juos sulaikyti jis pasiuntė B. Radvilos\nkavaleriją. Taip pat jis įsakė generolo Wa-\nlenrodto brandenburgiečiams keltis atgal,\ntačiau staiga pasirodžiusios pagrindi-\n\nnės V."
+  citata_rodoma: |
+    Mūšis
+    Spalio 8 d. kariuomenės suartėjo ties
+    Prostkais skiriamos Elko upės. Lietuviai
+
+    E gf
+
+    apgaulingu atsitraukimo manevru išvi-
+    liojo brandenburgiečius persikelti į kita
+    krantą. Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai. Juos sulaikyti jis pasiuntė B. Radvilos
+    kavaleriją. Taip pat jis įsakė generolo Wa-
+    lenrodto brandenburgiečiams keltis atgal,
+    tačiau staiga pasirodžiusios pagrindi-
+
+    nės V.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78634
     - t-78636
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

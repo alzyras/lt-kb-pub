@@ -55,6 +55,10 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
 - t-001
   global_id: t-195256
   teiginys: "A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177622
 
@@ -62,6 +66,10 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
 - t-002
   global_id: t-195257
   teiginys: "1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius."
+  atnaujinta: "2026-07-12 01:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177622
 
@@ -94,8 +102,10 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: "1899—1900 m. studijavo Tartų universitete, latvių kalbos lektoriui Lautenbachui vadovaujant, latvių kalbą ir liaudies poeziją; tą pačią 1900 m. vasarą pradėjęs lietuvių kalbos studijas kažkur Lietuvos šiaurėje;"
+  citata_rodoma: |
+    1899—1900 m. studijavo Tartų universitete, latvių kalbos lektoriui Lautenbachui vadovaujant, latvių kalbą ir liaudies poeziją; tą pačią 1900 m. vasarą pradėjęs lietuvių kalbos studijas kažkur Lietuvos šiaurėje;
   statusas: verified
+  atnaujinta: "2026-07-12 01:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,20 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
 - t-001
   global_id: t-190062
   teiginys: "Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į savo deivių rinkinį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Sirvydas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bazilijus Bonifacas Jakimavičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Sirvydas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bazilijus Bonifacas Jakimavičius\" parinktas kaip owner_note_path. Targetas \"Sirvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172945
 
@@ -50,6 +64,7 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
     mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
     Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

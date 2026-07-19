@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Dobrynės broliai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -21,6 +22,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - kunigaikštis
   - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -47,6 +49,16 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-001
   global_id: t-65108
   teiginys: "„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dobrynės broliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynės broliai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65602
 
@@ -54,6 +66,16 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-002
   global_id: t-65109
   teiginys: "Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dobrynės broliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynės broliai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65603
 
@@ -61,6 +83,19 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-003
   global_id: t-65110
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Dobrynės broliai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dobrynės broliai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje kunigaikštis, kontekste siejamas su Konradu, ir broliai aiškiai susitaria dėl žemės pasidalijimo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru."
   pagrindžia:
     - c-65606
 
@@ -68,6 +103,17 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-004
   global_id: t-65111
   teiginys: "Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Livonija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dobrynės broliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad broliai tuo metu buvo įsikūrę Livonijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dobrynės broliai gyveno Livonija (0.86)"
   pagrindžia:
     - c-65605
 
@@ -75,13 +121,36 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-005
   global_id: t-65112
   teiginys: "Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dobrynės broliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynės broliai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65604
-
+    - c-003
 <a id="claim-t-65113"></a>
 - t-006
   global_id: t-65113
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dobrynės broliai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynės broliai\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Faktas pagrįstas citata, bet pašalinta netinkama autorinė įžanga."
   pagrindžia:
     - c-65606
 
@@ -89,8 +158,49 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-007
   global_id: t-192375
   teiginys: "Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Dobrynės broliai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Dobrynės broliai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Drohičinas buvo perduotas magistrui Henrikui ir Dobrynės riteriams, todėl miestas siejamas su jų valda."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Drohičinas priklausė Dobrynės broliai (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175169
+
+<a id="claim-t-200916"></a>
+- t-008
+  global_id: t-200916
+  teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184266
+
+<a id="claim-t-200917"></a>
+- t-009
+  global_id: t-200917
+  teiginys: "Užvis kry žeiviams susinėrus su kalavijonimis ir Dobrynės brostviais rodės jam galinčiais, netikėlius nuveikus, paties kraštą užkariauti; užvis dar didesniai krūpa vo, matydamas, jog vokyčiai, kurdamies į tą kraštą, naikino tenai kalbą ir apsiėjimus senųjų."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184267
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 - susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60035|Julijus Cezaris (vyskupas)]]: Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.
@@ -113,8 +223,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-65112
 ## Citatos
 
 - id: c-65602
@@ -127,12 +236,12 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
     apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65108
-
 - id: c-65603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,14 +254,19 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
     Kaip tik tuo metu šventosios Marijos ligoninės Teutonų namų ordino Jeruzalėje broliai
     pradėjo prieš juos naują karą.
-  citata_rodoma: "Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas\nPotyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra\nvadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų\nvadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip\nnusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų."
+  citata_rodoma: |
+    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
+    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
+    vadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų
+    vadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip
+    nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65109
-
 - id: c-65604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -168,14 +282,19 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
     prieš Ordiną.
-  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų\nordino broliai pradėję su jais naują karą (II, 7)."
+  citata_rodoma: |
+    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65112
-
 - id: c-65605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -192,14 +311,25 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: "Apie Kristaus karių ordino brolius\n\n  Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau\nsuprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono\nir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi\nKristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo\nmetu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;\nminėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge\nsu juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems\n  165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis\nįvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten."
+  citata_rodoma: |
+    Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65111
-
 - id: c-65606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -235,13 +365,13 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
     padedami, ateityje pajungsią savo valdžiai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65110
     - t-65113
-
 - id: c-175169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -262,8 +392,52 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192375
+- id: c-184266
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Bet ne taip veikiai nusibengė kerštai mozūrų
+    kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
+    vių Dobrynės su kryžėjais buvo jau nubengtas, ku­
+    rie buvo apsisavinę ne vien Dobrynės pilę, bet ir
+    visais valsčiais, Konradui gyniojant. Ne visai te­
+    vyko ir pačiam Vilhelmui tame daikte taikinti.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:30"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200916
+- id: c-184267
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Tuo tarpu kunigaikštis Pamario Sviatopelkas,
+    taikinėjęs ilgą laiką kryžėjams,' kaip minavo jau,
+    nuo šiol, regėdamas vieną dalį Lietuvos tautos nu­
+    vergta, rados abejotiniu, ailba dvigubiu, dėl kryžė-
+    jų ir nebnorėjo jų bestiprinti tolesniai. Užvis kry­
+    žeiviams susinėrus su kalavijonimis ir Dobrynės
+    brostviais rodės jam galinčiais, netikėlius nuveikus,
+    paties kraštą užkariauti; užvis dar didesniai krūpa­
+    vo, matydamas, jog vokyčiai, kurdamies į tą kraštą,
+    naikino tenai kalbą ir apsiėjimus senųjų gyventojų
+    ir į jų vietą savo dobę, kalbą ir būdą veisė ir pla­
+    tino, *todėl nebkentė jų ir nebnorėjo, idant kryžė-
+    jai tolimesnius kraštus lietuvių ir žemaičių tautos
+    užkariautų. Nuo to kėlės tuojau skaugės, barnės ir
+    kerštai tarp abejų.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:30"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200917

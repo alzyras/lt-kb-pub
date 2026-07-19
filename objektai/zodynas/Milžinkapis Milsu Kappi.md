@@ -33,16 +33,44 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
 - t-001
   global_id: t-189160
   teiginys: "Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar didelius žmones vadino milžinkapiais, „Milsu Kappi“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milžinkapis Milsu Kappi: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milžinkapis Milsu Kappi\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172048
-
+    - c-001
 <a id="claim-t-189161"></a>
 - t-002
   global_id: t-189161
   teiginys: "Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milžinkapis Milsu Kappi: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milžinkapis Milsu Kappi\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172049
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar didelius žmones vadino milžinkapiais, „Milsu Kappi“.'
@@ -61,8 +89,7 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189160
 - c-002
   santrauka: 'Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -78,8 +105,7 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189161
 ## Citatos
 
 - id: c-172048
@@ -95,14 +121,21 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     juo sudegintų tarnų ir tarnaičių kapai.
     Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
     džių statinių.
-  citata_rodoma: "Lietuvoje pilkapiai randami labai retai, dažnai sly­\npi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­\nmę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­\nriuos savo padavimuose apie milžinus arba didelius žmones\nvadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­\nmai senovei; tokių padavimų yra ir kitose lietuvių genties tau­\ntose."
+  citata_rodoma: |
+    Lietuvoje pilkapiai randami labai retai, dažnai sly­
+    pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
+    mę*. Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189160
-
 - id: c-172049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -119,8 +152,14 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
     kos ne ant krūtinės, o prie šonų taip sulenktos, kad galais sie­
     kė galvą; dešinėje laikė lenktą geležį - kapoklį arba skaptą,
     kuriuo dirba medinius šaukštus, kairėje - kažkokį geležinį įran­
-  citata_rodoma: "Tai yra kalnas, gerokai aukš­\ntesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų\npusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias\nkupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad\ntai Gedimino kapas."
+  citata_rodoma: |
+    Tai yra kalnas, gerokai aukš­
+    tesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų
+    pusių aiškiai nukasta ir baigiasi terasa, iš kurios kyla plokščias
+    kupolas, arba milžinkapis. Vietos padavimai iki šiol mini, kad
+    tai Gedimino kapas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

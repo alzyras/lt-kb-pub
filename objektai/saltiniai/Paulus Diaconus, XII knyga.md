@@ -32,9 +32,16 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
 - t-001
   global_id: t-194898
   teiginys: "Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177294
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus.'
@@ -54,8 +61,7 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194898
 ## Citatos
 
 - id: c-177294
@@ -70,8 +76,17 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
     yra
     dar
     lietuviškesnis.
-  citata_rodoma: "Gotų pakurstyti he­\nrulai, surinkę savo jaunimą ir narsaus Malabato2 vado­\n1 Paulus\nDiaconus.\nLib.\nXII,\nP.\n259."
+  citata_rodoma: |
+    Gotų pakurstyti he­
+    rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­
+    1 Paulus
+    Diaconus.
+    Lib.
+    XII,
+    P.
+    259.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,9 +33,23 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
 - t-001
   global_id: t-190392
   teiginys: "Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filosofo Archilo šmėklą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Horacijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Horacijus\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173275
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filosofo Archilo šmėklą.'
@@ -59,8 +73,7 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190392
 ## Citatos
 
 - id: c-173275
@@ -78,8 +91,21 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
     maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
     stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
     bės įvedimo.
-  citata_rodoma: "Visa tai praverčia neži­\nnomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­\nvuoja jau daug amžių, kadangi didelis dvaras, kadaise priklau­\n201 Horacijaus knyga, 28 odė, kurioje kalbama apie filosofo Ar­\nchilo šmėklą.\n367\n\n## Puslapis 367\n\nsęs Kauno miestui, labai seniai, dar prieš XV amžių, egzistuo­\njantis tuo pavadinimu, kaip rodo miesto aktų dokumentai, va-\ndinosiIžlauže; tai reiškia, nuo Kauno žiūrint,padėtas už laužo."
+  citata_rodoma: |
+    Visa tai praverčia neži­
+    nomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­
+    vuoja jau daug amžių, kadangi didelis dvaras, kadaise priklau­
+    201 Horacijaus knyga, 28 odė, kurioje kalbama apie filosofo Ar­
+    chilo šmėklą.
+    367
+
+    ## Puslapis 367
+
+    sęs Kauno miestui, labai seniai, dar prieš XV amžių, egzistuo­
+    jantis tuo pavadinimu, kaip rodo miesto aktų dokumentai, va-
+    dinosiIžlauže; tai reiškia, nuo Kauno žiūrint,padėtas už laužo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

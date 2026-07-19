@@ -42,6 +42,19 @@ Dziebzykbay-Rogalski, T.
 - t-001
   global_id: t-97228
   teiginys: "T. Dziebzykbay-Rogalski 1964 m. paskelbė publikaciją „Z badań nad niektórymi zagadnieniami typologicznymi Jaćwingów“."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Dziebzykbay-Rogalski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Dziebzykbay-Rogalski\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis faktas, paremtas citata."
   pagrindžia:
     - c-91708
 
@@ -49,6 +62,19 @@ Dziebzykbay-Rogalski, T.
 - t-002
   global_id: t-97229
   teiginys: "T. Dziebzykbay-Rogalski 1964 m. paskelbė darbą apie kai kuriuos jotvingių tipologijos klausimus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Dziebzykbay-Rogalski: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Dziebzykbay-Rogalski\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą apie autoriaus darbą."
   pagrindžia:
     - c-91708
 
@@ -78,8 +104,14 @@ Dziebzykbay-Rogalski, T.
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: "-—-\n(”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł\narcheologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.\n— Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami\ntypologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p."
+  citata_rodoma: |
+    -—-
+    (”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł
+    archeologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.
+    — Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami
+    typologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

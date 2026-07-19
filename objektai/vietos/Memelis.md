@@ -35,6 +35,17 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 - t-001
   global_id: t-86152
   teiginys: "Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Memelis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Memelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žemaičiai tiesiogiai nurodyti įsiveržę į Memelio apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žemaičiai puolė Memelis (0.92); Žemaičiai užėmė Memelis (0.86)"
   pagrindžia:
     - c-82132
 
@@ -60,13 +71,22 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
     C
     Taigi J e r o s c h i n, c.
-  citata_rodoma: "Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu \npapročiu nesiliovė ir tais metais. Energingas Garteno (Gar­\ndino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, \njas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­\nką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė \nmiestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug \nkaimyninių naujakrikščiams priklausiusių sodybų6, didelių\nC\nTaigi J e r o s c h i n, c."
+  citata_rodoma: |
+    Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
+    papročiu nesiliovė ir tais metais. Energingas Garteno (Gar­
+    dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
+    jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­
+    ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė
+    miestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug
+    kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
+    C
+    Taigi J e r o s c h i n, c.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86152
-
 ## Ryšiai
 - Puolė Memelį: [[objektai/grupes/Žemaičiai]]

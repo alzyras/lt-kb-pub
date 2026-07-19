@@ -38,6 +38,12 @@ media_all_json: |-
 - t-001
   global_id: t-100180
   teiginys: "„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1933 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą apie publikavimo vietą ir laiką."
   pagrindžia:
     - c-31671
 
@@ -51,6 +57,7 @@ media_all_json: |-
     — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99. —
     Veblaitis, P.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

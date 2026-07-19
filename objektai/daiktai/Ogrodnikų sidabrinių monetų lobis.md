@@ -56,6 +56,23 @@ Nenurodyta
 - t-001
   global_id: t-189693
   teiginys: "1826 m. Lydos apskrityje prie Ogrodnikų kaimo, Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų lobį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ogrodnikų sidabrinių monetų lobis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ogrodnikų sidabrinių monetų lobis\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1826 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR skiemenavimas ir aiškiai įvardytas radinys. Nepridėtos vėlesnės monetų gavimo ar sulydymo detalės."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172576
 
@@ -63,6 +80,13 @@ Nenurodyta
 - t-002
   global_id: t-194618
   teiginys: "Po šių pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent jau dėl to, kad buvo rastos Lietuvos žemėje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177017
 
@@ -70,6 +94,12 @@ Nenurodyta
 - t-003
   global_id: t-197241
   teiginys: "Monetos storis piešinyje nurodytas skersmens pjūviu, pa žymėtu tarp monetos šonų, kaip ir visuose kituose tos lentelės piešiniuose."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177017
 
@@ -92,12 +122,12 @@ Nenurodyta
     31
     Dėl Santvaro atvaizdo buvo įvairiausių nuomonių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189693
-
 - id: c-177017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -112,6 +142,7 @@ Nenurodyta
     Kaldinimo būdas, sidabras ir pavidalas - visai tokie, kaip
     ir kitoje monetoje - tikriausiai rodo jų tą patį amžių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,6 +40,12 @@ Dusburgietis teigia, kad thomas A.
 - t-001
   global_id: t-61315
   teiginys: "A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1882 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio vietą, metus ir tomą."
   pagrindžia:
     - c-61947
 
@@ -53,6 +59,7 @@ Dusburgietis teigia, kad thomas A.
     Thomas A. Der Szarkaberg und die Gisevius’schen Volkssagen.— AM, Königsberg in
     Pr., 1882, Bd. 19, S. 237—242.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,20 @@ Nenurodyta
 - t-001
   global_id: t-185864
   teiginys: "Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Žemaitija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trobius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje pasakyta, kad Trobiui buvo patikėta Žemaitija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Trobius valdė Žemaitija (0.84)"
   pagrindžia:
     - c-169225
 
@@ -56,6 +70,13 @@ Nenurodyta
 - t-002
   global_id: t-196322
   teiginys: "Rūmų maršalas, paraginęs siekti protėvių santarvės ir šlovės, įteikė Giliginui kalaviją bei lazdą kaip valdžios ženklus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178624
 
@@ -80,12 +101,12 @@ Nenurodyta
     paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185864
-
 - id: c-178624
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -103,6 +124,7 @@ Nenurodyta
     jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
     rašytojai.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

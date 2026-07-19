@@ -40,10 +40,22 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 - t-001
   global_id: t-75881
   teiginys: "Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanas Gotfrydas Herderis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanas Gotfrydas Herderis\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą."
   pagrindžia:
     - c-21727
     - c-73553
-
 ## Citatos
 
 - id: c-21727
@@ -61,14 +73,18 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
     mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
     kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
-  citata_rodoma: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-\nderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų\nmintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-\nkviena kalba ir kultūra yra vertingas visos žmonijos turtas."
+  citata_rodoma: |
+    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
+    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
+    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
+    kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75881
-
 - id: c-73553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -84,6 +100,7 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     liaudies kalba turi būti ugdoma ir kaip atskiros aukštosios kultūros kal-
     ba.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

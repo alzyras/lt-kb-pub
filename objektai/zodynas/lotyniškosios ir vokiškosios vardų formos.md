@@ -33,9 +33,12 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
 - t-001
   global_id: t-58914
   teiginys: "Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59546
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
@@ -53,8 +56,7 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58914
 ## Citatos
 
 - id: c-59546
@@ -70,8 +72,15 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
     minima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios
     ar vokiškosios vardų formos pateikiamos dažniausiai tuo linksniu, kokiu jie ten
     užrašyti.
-  citata_rodoma: "Agota\n  Ahohietis\n  605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma\nminima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios\nar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten\nužrašyti."
+  citata_rodoma: |
+    Agota
+      Ahohietis
+      605 Į rodykles nedėta bibliografijos vardai (šios kn. p. 431 — 458), kurių didžiuma
+    minima paaiškinimuose. Abiejose rodyklėse iš kronikų bei dokumentų imtos lotyniškosios
+    ar  vokiškosios vardų formos pateikiamos  dažniausiai tuo  linksniu, kokiu  jie ten
+    užrašyti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

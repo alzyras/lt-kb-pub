@@ -32,9 +32,16 @@ media_all_json: |-
 - t-001
   global_id: t-191823
   teiginys: "„Laiškai nuo Kražantės krantų“ trejus metus buvo spausdinami „Gazeta Warszawska“ puslapiuose."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174705
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Laiškai nuo Kražantės krantų“ trejus metus buvo spausdinami „Gazeta Warszawska“ puslapiuose.'
@@ -58,8 +65,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191823
 ## Citatos
 
 - id: c-174705
@@ -67,20 +73,33 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vis dėlto sun­
-    ku tai tvirtinti, juolab kad istoriografijoje vyrauja nuo­
-    monė (taip pat labiau hipotetinė), jog A. Marcinovskis
-    buvo J. Zavadskio proteguojamas ir, būtent jo padedamas,
-    tapo garsiu Vilniaus leidėju.
-    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
-    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
-    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
-    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
-    buvusių Vilniaus universiteto profesorių, astuoni su šia
-    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
-    dauguma buvo to universiteto absolventai.
-  citata_rodoma: "Sunku tarp\njų būtų pažinti recenzijos autorių. Vis dėlto straipsnio\nstilius, maniera, kandumas, dalyko išmanymas, profesio­\nnalumas labai primena kitą rašinį, tiksliau sakant, straips­\nnių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus\n1 Ten pat.\n4 4 0\n\n## Puslapis 450\n\nmetus buvo spausdinamas „Gazeta Warszawska“ pusla­\npiuose1."
+    Sunku tarp
+    jų būtų pažinti recenzijos autorių. Vis dėlto straipsnio
+    stilius, maniera, kandumas, dalyko išmanymas, profesio­
+    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
+    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
+    1 Ten pat.
+    4 4 0
+
+    ## Puslapis 450
+
+    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
+    piuose1.
+  citata_rodoma: |
+    Sunku tarp
+    jų būtų pažinti recenzijos autorių. Vis dėlto straipsnio
+    stilius, maniera, kandumas, dalyko išmanymas, profesio­
+    nalumas labai primena kitą rašinį, tiksliau sakant, straips­
+    nių ciklą „Laiškai nuo Kražantės krantų“, kuris trejus
+    1 Ten pat.
+    4 4 0
+
+    ## Puslapis 450
+
+    metus buvo spausdinamas „Gazeta Warszawska“ pusla­
+    piuose1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,6 +30,20 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
 - t-001
   global_id: t-200906
   teiginys: "Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška liturgine kalba buvo per penkis šimtus metų ištautinti lietuviai."
+  atnaujinta: "2026-07-15 12:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Katalikiškųjų parapijų baltrusiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Katalikiškųjų parapijų baltrusiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lenkai Lietuvoje Dr. J. Basanavičius"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184249
 
@@ -52,6 +66,7 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
     vimo galas, kaip tik baltrusiai pradēs labiaus atsi-
     gaivint tautiškai....
   statusas: verified
+  atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

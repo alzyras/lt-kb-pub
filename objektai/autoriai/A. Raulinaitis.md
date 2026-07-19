@@ -41,6 +41,12 @@ Raulinaitis (Pedag.
 - t-001
   global_id: t-30535
   teiginys: "A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1964 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Raulinaičio publikaciją."
   pagrindžia:
     - c-32886
 
@@ -51,11 +57,15 @@ Raulinaitis (Pedag.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    2, 1969).**
+    **
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­
     rinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.).
-  citata_rodoma: "**\n(^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­\nrinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.)."
+  citata_rodoma: |
+    **
+    (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­
+    rinę mokyklą rašė A. Raulinaitis (Pedag. ir psichok, t. 6, 1964, 111-114 p.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

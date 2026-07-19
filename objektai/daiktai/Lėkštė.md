@@ -53,9 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-195341
   teiginys: "Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177742
     - c-177743
+    - c-177742
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -73,14 +77,15 @@ Nenurodyta
     Įėjusi galva
     kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią
     lėkštę, įkiša snapą į tuščią ąsotį.
-  citata_rodoma: "Įėjusi galva kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią lėkštę, įkiša snapą į tuščią ąsotį."
+  citata_rodoma: |
+    Įėjusi galva kraipo, dairosi į visas puses, žiūri kas ant stalo, bado snapu į tuščią lėkštę, įkiša snapą į tuščią ąsotį.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195341
-
 - id: c-177743
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -93,8 +98,10 @@ Nenurodyta
     o šiems pavalgius — gimines ir kaimynus.
     Valgė mediniais šaukštais,
     įsipildami į baltas lėkštes.
-  citata_rodoma: "Valgė mediniais šaukštais, įsipildami į baltas lėkštes."
+  citata_rodoma: |
+    Valgė mediniais šaukštais, įsipildami į baltas lėkštes.
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

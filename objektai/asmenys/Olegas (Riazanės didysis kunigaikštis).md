@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-39620
   teiginys: "1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Olegas (Riazanės didysis kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad Olegas puolė Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Olegas (Riazanės didysis kunigaikštis) puolė Lietuva (0.98)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Olegas (Riazanės didysis kunigaikštis) buvo valdovas Riazanė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į vientisą enciklopedinį sakinį be tiesioginės citatos fragmento."
   pagrindžia:
     - c-41424
 
@@ -57,11 +71,11 @@ media_all_json: |-
     puolimą į Riazanės kunigaikštystę,
     gindamas savo pozicijas Smolenske.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39620
-
 ## Ryšiai
 - Olegas (Riazanės didysis kunigaikštis) puolė [[objektai/vietos/Lietuva]]

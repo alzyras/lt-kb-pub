@@ -39,6 +39,20 @@ Dejevo, į Paupį.
 - t-001
   global_id: t-38525
   teiginys: "1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Paupys: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Paupys: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad rusų pajėgoms pavyko užimti Paupį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rusai užėmė Paupys (0.94); Rusai užėmė Užupis (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per trumpas; citata palaiko konkretų faktą apie Paupį."
   pagrindžia:
     - c-40329
 
@@ -63,11 +77,11 @@ Dejevo, į Paupį.
     tačiau daliai pavyko prasiveržti ir užimti
     Paupį bei Užupį, pastarasis buvo padegtas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38525
-
 ## Ryšiai
 - Užėmė Paupį: [[objektai/grupes/Rusai]]

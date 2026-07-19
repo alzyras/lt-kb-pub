@@ -39,6 +39,13 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
 - t-001
   global_id: t-194850
   teiginys: "Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių 25 Listy z nad brzegow Kroženty // Gazeta Warszawska."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177246
 
@@ -55,6 +62,7 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
     25 Listy z nad brzegow Kroženty // Gazeta Warszawska. - 1856—
     1859 (list I-X).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

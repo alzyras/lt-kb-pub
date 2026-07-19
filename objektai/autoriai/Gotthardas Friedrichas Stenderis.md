@@ -41,15 +41,37 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
 - t-002
   global_id: t-191541
   teiginys: "Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gotthardas Friedrichas Stenderis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=148"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gotthardas Friedrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174423
-
+    - c-002
 <a id="claim-t-194877"></a>
 - t-003
   global_id: t-194877
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177273
+    - c-003
 - susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
 - susijęs iš Gotthard Friedrich Stender, Lettische Grammatik: Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.
 ## Reikšmingi paminėjimai
@@ -75,8 +97,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191541
 - c-003
   santrauka: 'Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -97,8 +118,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194877
 ## Citatos
 
 - id: c-174423
@@ -116,14 +136,26 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
     kė“2. Minėtos dvi apskritys — senoji ir naujoji, Rahdiįa,
     esančios Bauskės apylinkėse ir Angerapės pakrantėje.
-  citata_rodoma: "245\n\n## Puslapis 256\n\naptiko kaimo pavadinimą Kiligundus1, tokį patį kaip estų;\ntai jam davė dingstį daryti išvadą, kad latviai kilę iš suo­\nmių. Trumpiausiai į tai atsakome pateikdami Kuršo pa­\nmokslininko ir latvių gramatikos autoriaus Stenderio žo­\ndžius. Stenderis, neketindamas atsakyti į Tuntnano prie­\nlaidą, bet tiesiog aprašydamas istorinius-topografinius šios\ntautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­\nrinių kaimynų estų kalbos taip, kaip dangus ir žemė."
+  citata_rodoma: |
+    245
+
+    ## Puslapis 256
+
+    aptiko kaimo pavadinimą Kiligundus1, tokį patį kaip estų;
+    tai jam davė dingstį daryti išvadą, kad latviai kilę iš suo­
+    mių. Trumpiausiai į tai atsakome pateikdami Kuršo pa­
+    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
+    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
+    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
+    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
+    rinių kaimynų estų kalbos taip, kaip dangus ir žemė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191541
-
 - id: c-177273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -138,8 +170,19 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     buvo panašūs nei išvaizda, nei papročiais ir kalba, sky­
     rėsi nuo tikrų poloviečių, kurie negalėjo kitaip užklysti į
     tas šalis, o nebent tik taip, kaip mes jau minėjome.
-  citata_rodoma: "Mongolų karvedžiai skubėjo\nužimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­\nlydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­\n1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­\nschweig,\n1761.\n8-vo.\nS.\n1,\nsequ."
+  citata_rodoma: |
+    Mongolų karvedžiai skubėjo
+    užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­
+    lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
+    1 Stender Gotthard Friedrich. Lettische Grammatik etc. Braun­
+    schweig,
+    1761.
+    8-vo.
+    S.
+    1,
+    sequ.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,9 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - t-001
   global_id: t-72700
   teiginys: "Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-71080
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101678|Michailas Gorbačiovas]]: 1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
@@ -156,6 +159,7 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
     dinami ir pranešami visam kraštui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

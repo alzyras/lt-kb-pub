@@ -33,6 +33,17 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
 - t-001
   global_id: t-40490
   teiginys: "V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> brigada: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Skorupskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "brigada: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Skorupskis\" parinktas kaip owner_note_path. Targetas \"brigada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44551
 
@@ -60,8 +71,16 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
     poziciją Drobų-Murliškių-Deveikių-
     Purviškių-Lundaiškės linijoje, įsa-
     kyta pulti Degučių-Zarasų kryptimi.
-  citata_rodoma: "Viduriniajai, karin. V. Skorupskio va-\ndovaujamai kolonai (1-ojo pėst. pulko\ndu batalionai, pusė husarų eskadrono,\n4-osios baterijos vienas būrys), laikiusiai\npoziciją Drobų-Murliškių-Deveikių-\nPurviškių-Lundaiškės linijoje, įsa-\nkyta pulti Degučių-Zarasų kryptimi."
+  citata_rodoma: |
+    Viduriniajai, karin. V. Skorupskio va-
+    dovaujamai kolonai (1-ojo pėst. pulko
+    du batalionai, pusė husarų eskadrono,
+    4-osios baterijos vienas būrys), laikiusiai
+    poziciją Drobų-Murliškių-Deveikių-
+    Purviškių-Lundaiškės linijoje, įsa-
+    kyta pulti Degučių-Zarasų kryptimi.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

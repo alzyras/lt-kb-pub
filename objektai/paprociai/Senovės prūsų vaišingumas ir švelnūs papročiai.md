@@ -53,10 +53,21 @@ Nenurodyta
 - t-001
   global_id: t-192093
   teiginys: "Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės prūsų vaišingumas ir švelnūs papročiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės prūsų vaišingumas ir švelnūs papročiai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174962
     - c-175302
-
 ## Citatos
 
 - id: c-174962
@@ -73,14 +84,15 @@ Nenurodyta
     ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
     gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
     labiausiai civilizuotų ir mažiausiai karingi.
-  citata_rodoma: "Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi."
+  citata_rodoma: |
+    Šioje provincijoje gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš labiausiai civilizuotų ir mažiausiai karingi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192093
-
 - id: c-175302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -94,6 +106,7 @@ Nenurodyta
     kraštų ir turtų viliojami kryžiuočiai anksti juos išnaikino
     ir sugriovė daugelį praeities paminklų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

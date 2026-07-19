@@ -63,6 +63,22 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - t-001
   global_id: t-187907
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "buvo_sunus -> Šventaragis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šventaragis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šventaragis buvo Gerimanto tėvas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Gerimantas buvo sūnus Šventaragis (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gerimantas buvo sūnus Šventaragis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sukonkretintas ir palikta būtina metraščio atribucija. Orakulo religinė interpretacija neperrašyta kaip neutralus faktas."
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170889
 
@@ -70,6 +86,21 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - t-002
   global_id: t-188535
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Šventaragis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gerimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šventaragis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Šventaragis buvo Gerimanto tėvas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Gerimantas buvo sūnus Šventaragis (0.95)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171424
 - susijęs iš Mitrofano Pinskiečio rusiškas metraštis: Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities.
@@ -96,14 +127,21 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
     kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
     eitis.
-  citata_rodoma: "Senas pasakojimas,\nkuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša\nžinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią\nšventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263\nmetais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­\nkulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­\neitis."
+  citata_rodoma: |
+    Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187907
-
 - id: c-171424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -126,11 +164,11 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188535
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Šventaragis]]

@@ -53,6 +53,10 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
 - t-001
   global_id: t-195546
   teiginys: "Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177965
 
@@ -60,6 +64,10 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
 - t-002
   global_id: t-195547
   teiginys: "Jokūbas derėjosi su Grigoru dėl algos ir pasirūpino duoti du auksinus rankpinigių."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177962
     - c-177964
@@ -68,6 +76,10 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
 - t-003
   global_id: t-195548
   teiginys: "Po nesėkmingos baigties Jokūbui teko ieškoti kito berno."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177963
 
@@ -82,14 +94,15 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     Ar mes
     nežinome.
     — Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas.
-  citata_rodoma: "— Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas."
+  citata_rodoma: |
+    — Kiek gi, tau, Grigorėli, algos reikia? — paklausė Jokūbas.
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195547
-
 - id: c-177963
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -101,14 +114,15 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     Jokūbą į grįčią, priėjus prie stalo, padėjo du auksinu ir išeidama tiek
     tepasakė: „Tėtė apsidraudė vietoje“ . Jokūbui neliko nieko kito, kaip
     ieškoti kito berno.
-  citata_rodoma: "Jokūbui neliko nieko kito, kaip ieškoti kito berno."
+  citata_rodoma: |
+    Jokūbui neliko nieko kito, kaip ieškoti kito berno.
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195548
-
 - id: c-177964
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -121,14 +135,15 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui, saky­
     damas :
     — Tegul bus gi, kaip jūs sakote.
-  citata_rodoma: "Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui."
+  citata_rodoma: |
+    Jokūbas pasirūpino iš namų pasiimti du auksinu, jeigu atsitiktų nusamdyti šeimynykštis. Dabar juos išėmė ir padavė Grigorui.
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195547
-
 - id: c-177965
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -141,8 +156,10 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
     — Papiršk!
     Lileika priėjo prie Jokūbo ir sako:
     — Tamsta savo Petro neapdraudei, tai imk Grigorą.
-  citata_rodoma: "Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“"
+  citata_rodoma: |
+    Lileika priėjo prie Jokūbo ir sako: „Tamsta savo Petro neapdraudei, tai imk Grigorą.“
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

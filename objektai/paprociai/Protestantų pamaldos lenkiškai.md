@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-67191
   teiginys: "Lenkiškoji protestantų akcija Lietuvoje greitai nustelbė silpną ir trumpą lietuvišką protestantizmo skelbimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67204
 
@@ -69,8 +73,11 @@ Nenurodyta
     lenkiškoji protestantų akcija. Lietuvos protestantai suskato
     lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
     tik tada, kai to griebėsi atsigavę katalikai.
-  citata_rodoma: "Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus\ntik tada, kai to griebėsi atsigavę katalikai."
+  citata_rodoma: |
+    Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
+    tik tada, kai to griebėsi atsigavę katalikai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

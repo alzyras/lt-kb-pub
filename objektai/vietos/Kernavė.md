@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -40,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą. H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
+kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
 ## Teiginiai
 
@@ -48,6 +49,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-001
   global_id: t-173444
   teiginys: "Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-157751
 
@@ -55,6 +66,17 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-002
   global_id: t-173445
   teiginys: "Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kernavė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad kryžiuočių kariuomenė kartu su Vytauto pulkais užėmė Kernavę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.82); Kryžiuočių ordinas užėmė Maišiagala (0.82)"
   pagrindžia:
     - c-157744
 
@@ -62,6 +84,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-003
   global_id: t-173446
   teiginys: "H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> H. Paszkiewicz: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "H. Paszkiewicz: mention_match, author, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"H. Paszkiewicz\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32122
 
@@ -69,6 +101,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-004
   global_id: t-173447
   teiginys: "Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietauka: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietauka: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietauka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-157750
 
@@ -76,6 +118,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-005
   global_id: t-173449
   teiginys: "Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157754
 
@@ -83,6 +135,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-006
   global_id: t-173452
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės."
+  atnaujinta: "2026-05-31 14:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-157747
 
@@ -90,6 +152,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-007
   global_id: t-173453
   teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maišiagala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maišiagala: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Maišiagala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157744
 
@@ -97,6 +169,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-008
   global_id: t-173454
   teiginys: "Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemenčinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemenčinė: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Nemenčinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157748
 
@@ -104,6 +186,16 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-009
   global_id: t-173455
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-157755
 
@@ -111,6 +203,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-010
   global_id: t-184982
   teiginys: "Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168343
 
@@ -118,6 +223,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-011
   global_id: t-184984
   teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aleksandras Jogailaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168345
 
@@ -125,6 +243,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-012
   global_id: t-188720
   teiginys: "Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171609
 
@@ -132,6 +263,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-013
   global_id: t-188721
   teiginys: "Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171610
 
@@ -139,6 +283,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-014
   global_id: t-188722
   teiginys: "Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171611
 
@@ -146,6 +303,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-015
   global_id: t-188723
   teiginys: "Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171612
 
@@ -153,6 +323,13 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-016
   global_id: t-196692
   teiginys: "Kojelavičiaus pasakojime valdovas, sutvarkęs valstybės reikalus, perkėlė kunigaikštystės sostinę iš Naugarduko į Kernavę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178845
 
@@ -160,8 +337,43 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - t-017
   global_id: t-196693
   teiginys: "Nugalėjęs ir apmalšinęs Rusią, Gedi minas Kernavėje atšventė 1321 m e ta i pergalę: tėvų papročiu pa gerbęs dievus, paleido ka riuomenę sumokėjęs atlyginimą ir apdovanojęs dova nomis."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-178846
+
+<a id="claim-t-201064"></a>
+- t-018
+  global_id: t-201064
+  teiginys: "Sako dar, jog netoli nuo Kernavės, senosios lietuvių buveinės, žmonys ne seniai dar tokius atminimus senovės darę."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184414
+
+<a id="claim-t-201065"></a>
+- t-019
+  global_id: t-201065
+  teiginys: "Trakų vieto vę, savo gimtuvę, praplatino, perkėlė buveinę iš Kernavės į Vilnių ir, turtingai jį papuošęs, mūrais ir pylomis aprietė1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-184415
 - susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
 - susijęs iš Lietuva: Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.
 - susijęs iš Lenkija: Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.
@@ -248,14 +460,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
     sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
     pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
-  citata_rodoma: "Yra paaiškėję, kad pradinė\nMindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios\nplotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių\nsritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso\npastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17."
+  citata_rodoma: |
+    Yra paaiškėję, kad pradinė
+    Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
+    plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
+    sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
+    pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173446
-
 - id: c-157744
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -276,13 +493,13 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173445
     - t-173453
-
 - id: c-157747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -294,14 +511,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14.
-  citata_rodoma: "XVI amž. plačioji Lietuvos metraščio\nredakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo\nKernavės, toje girios vietoje, kur Gediminas primedžiojęs daug\nžvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės\nįkūrimas^14."
+  citata_rodoma: |
+    XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173452
-
 - id: c-157748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -333,14 +555,27 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
     kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
     aukščiau mūsų nurodytomis.
-  citata_rodoma: "Nederėtų, be\nto, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš\nmūsų valdinių per tą pačią upę kitose vietose statyti mažų\ntiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės\ndvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­\nžiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime\nuždrausti ir uždraudžiame bei užginame perkėlimus, vadi­\nnamus plaustais, per tą pačią Vilijos upę, kad nė vienas iš\nmūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­\nmo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­\nnyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­\nkimo tam pačiam mūsų nustatytam muitui, su bausmėmis,\naukščiau mūsų nurodytomis."
+  citata_rodoma: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173454
-
 - id: c-157750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -353,12 +588,12 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
     buvo tarp Nemuno ir Neries upių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173447
-
 - id: c-157751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -371,14 +606,20 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
 
     (^1) ) C. ep.
-  citata_rodoma: "O\nVytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino\npulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­\nkiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).\n\n(^1) ) C."
+  citata_rodoma: |
+    O
+    Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino
+    pulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­
+    kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
+
+    (^1) ) C.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173444
-
 - id: c-157754
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -392,14 +633,20 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     pilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo
     senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
     šen bei ten palei Viliją laukuose augo pušys5.
-  citata_rodoma: "Kelias\nsuko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs\nį du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės\npilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo\nsenų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,\nšen bei ten palei Viliją laukuose augo pušys5."
+  citata_rodoma: |
+    Kelias
+    suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs
+    į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
+    pilį. Į kairę nuo kelto, kur dabar Lukiškių priemiestis, nuo
+    senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
+    šen bei ten palei Viliją laukuose augo pušys5.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173449
-
 - id: c-157755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -414,14 +661,19 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos.
-  citata_rodoma: "Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­\nsių administracijos centrais. XVI amž. plačioji Lietuvos metraščio\nredakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo\nKernavės, toje girios vietoje, kur Gediminas primedžiojęs daug\nžvėrienos."
+  citata_rodoma: |
+    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
+    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173455
-
 - id: c-168343
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -444,14 +696,30 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     visam laikui pasiliko Retu­
     mas P o lo ck a s
     vių rankose.
-  citata_rodoma: "Todėl, norėdamas su­\nrišti priešui rankas, įkūrė pirmą nausėdiją ant upės\nkranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos\n64\n\n## Puslapis 63\n\npadėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos\nsostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­\ndėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję\nį naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie\nveiksmai priminė veikiau atkarų plėšikavimą nei gar­\nbingą karą: nuolatiniais antpuoliais buvo siaubiami\nnaujakuriai;\nKernius bei Gimbutas dėjosi nematą\nskriaudų, tačiau paslapčiomis ryžosi pulti Rusią."
+  citata_rodoma: |
+    Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    64
+
+    ## Puslapis 63
+
+    padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos
+    sostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­
+    dėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję
+    į naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie
+    veiksmai priminė veikiau atkarų plėšikavimą nei gar­
+    bingą karą: nuolatiniais antpuoliais buvo siaubiami
+    naujakuriai;
+    Kernius bei Gimbutas dėjosi nematą
+    skriaudų, tačiau paslapčiomis ryžosi pulti Rusią.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184982
-
 - id: c-168345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -474,14 +742,29 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
     nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
     išvaryti.
-  citata_rodoma: "Šios įgulos nepaprastai kenkė aplinkiniam\nkraštui: nesutikdamos pasipriešinimo, jos pridarydavo\ndaug žalos menkais, bet dažnais išpuoliais, rengiamais\nnedidelių būrių. Šitokia padėtis paskatino Kernavės ku­\nnigaikštį Aleksandrą Vygandą pamėginti priešą iš ten\nišvaryti. Puldamas Ritersver-\nA le k sa n d ra s V y g a n -\nderį su trimis lenkų pėstinin-\ndas n e sė k m in g a i puo-\nkų ir keliais lietuvių raitelių\nia pilis\nbūriais, kunigaikštis, be abe­\njonės, būtų netrukęs užimti\npilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,\nkai gynėjai jau ketino pasiduoti."
+  citata_rodoma: |
+    Šios įgulos nepaprastai kenkė aplinkiniam
+    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
+    daug žalos menkais, bet dažnais išpuoliais, rengiamais
+    nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
+    nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
+    išvaryti. Puldamas Ritersver-
+    A le k sa n d ra s V y g a n -
+    derį su trimis lenkų pėstinin-
+    das n e sė k m in g a i puo-
+    kų ir keliais lietuvių raitelių
+    ia pilis
+    būriais, kunigaikštis, be abe­
+    jonės, būtų netrukęs užimti
+    pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
+    kai gynėjai jau ketino pasiduoti.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184984
-
 - id: c-171609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -503,12 +786,12 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
     riškių miškas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188720
-
 - id: c-171610
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -524,14 +807,27 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
     mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: "Nereikia tapatinti Medziojnos\nsu Medžiojma, kurią laikėme medžiotojų deive, vadinama\nLaima.\n154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę."
+  citata_rodoma: |
+    Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+    154
+
+    ## Puslapis 154
+
+    Pajauta (Pojata)
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188721
-
 - id: c-171611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -544,14 +840,20 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
     sas. Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę.
-  citata_rodoma: "To­\nkie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­\nniams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose\nvietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­\ngė šventoji ugnis.\n4."
+  citata_rodoma: |
+    To­
+    kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
+    niams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose
+    vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
+    gė šventoji ugnis.
+    4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188722
-
 - id: c-171612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -566,12 +868,12 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     ir vyriausioji šventykla.
     Greitai augantis Vilnius turėjo ne vieną šventyklą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188723
-
 - id: c-178845
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -597,12 +899,12 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     jo tv in g ių šalį
     kurti senąsias lietuvių teises.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196692
-
 - id: c-178846
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -636,11 +938,51 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
     valandomis galvojo, kaip tvarkyti valstybę, kaip kurti
     miestus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196693
-
+- id: c-184414
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Taip pat akmenys,
+    ant kurių apieras javų ar žuvių dievams degino,
+    buvo šventais vadinami. Sako dar, jog netoli nuo
+    Kernavės, senosios lietuvių buveinės, žmonys ne­
+    seniai dar tokius atminimus senovės darę.
+    Buvo dar taip pat lieknai ir girios šventomis va­
+    dinamos, į kurias patys kunigai ir žmonės, galą da­
+    romi arba apžadus pildydami, tegalėjo įžengti.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201064
+- id: c-184415
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Bet Gediminas ne vien baisiomis karėmis nepriete­
+    lius savo giminės draudė, nes ir pačia ūke rūpinos
+    ir apie jos reikalus ir laimą trūsinėjo. Trakų vieto­
+    vę, savo gimtuvę, praplatino, perkėlė buveinę iš
+    Kernavės į Vilnių ir, turtingai jį papuošęs, mūrais
+    ir pylomis aprietė1.
+    Pasakoja, jog Gediminas, kitu kartu medžioda­
+    mas Paneriuose, ant visų aukštojo kalno, Tauro kal­
+    nu vadinamo, o šiandien Pilies kalnu, patsai vyly-
+    čia taurį būk nuvėręs.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201065
 ## Ryšiai
 - Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

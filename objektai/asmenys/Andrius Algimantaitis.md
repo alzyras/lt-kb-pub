@@ -42,6 +42,10 @@ Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus i
 - t-001
   global_id: t-194097
   teiginys: 'Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pataisyti OCR iškraipymai ir išskleista asmens tapatybė su pareigomis. Sąmokslo ir mirties epizodai nepridėti, kad sakinys liktų glaustas.'
   pagrindžia:
     - c-176710
 
@@ -59,8 +63,9 @@ Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus i
     organizatorius sąmokslo (1432), iškalusio didžiuoju kunigaikščiu Vy­
     tauto broli Žygimantą KąstulaitĮ.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194097

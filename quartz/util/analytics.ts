@@ -1,4 +1,4 @@
-export const ANALYTICS_SCHEMA_VERSION = "ga4_events_v1"
+export const ANALYTICS_SCHEMA_VERSION = "ga4_events_v2"
 
 export type GtagCommand = (...args: unknown[]) => void
 
@@ -17,10 +17,98 @@ export const ANALYTICS_EVENT_NAMES = [
   "search_result_select",
   "knowledge_navigation",
   "feature_use",
+  "map_interaction",
+  "gallery_open",
+  "map_open",
+  "rss_click",
+  "newsletter_signup",
+  "outbound_source_click",
   "outbound_source_open",
 ] as const
 
 export type AnalyticsEventName = (typeof ANALYTICS_EVENT_NAMES)[number]
+
+export const ANALYTICS_CUSTOM_DIMENSIONS = [
+  "content_type",
+  "page_type",
+  "interaction_context",
+  "site_language",
+  "navigation_method",
+  "destination_type",
+  "feature_name",
+  "feature_action",
+  "feature_value",
+  "source_kind",
+  "search_outcome",
+  "map_action",
+  "map_view",
+  "map_filter_name",
+  "map_object_type",
+  "map_relation_type",
+  "map_panel_mode",
+  "map_zoom_bucket",
+  "media_action",
+  "settings_area",
+  "translation_language",
+  "translation_status",
+  "list_action",
+] as const
+
+export const ANALYTICS_CUSTOM_METRICS = ["result_count", "term_length"] as const
+
+export type AnalyticsParamValue = string | number | boolean
+export type AnalyticsParams = Record<string, AnalyticsParamValue>
+export type AnalyticsDedupeScope = "none" | "page" | "session"
+
+export type AnalyticsFeatureDetail = {
+  name: string
+  action: string
+  value?: string
+  params?: AnalyticsParams
+  dedupeScope?: AnalyticsDedupeScope
+  dedupeKey?: string
+}
+
+export type AnalyticsMapDetail = {
+  action: string
+  params?: AnalyticsParams
+  dedupeScope?: AnalyticsDedupeScope
+  dedupeKey?: string
+}
+
+export const ANALYTICS_MAP_ACTIONS = [
+  "open",
+  "load_success",
+  "load_error",
+  "node_select",
+  "edge_select",
+  "focus",
+  "search_submit",
+  "search_result_select",
+  "search_zero_results",
+  "filter_change",
+  "source_change",
+  "relation_change",
+  "type_change",
+  "panel_open",
+  "panel_mode_change",
+  "zoom",
+  "pan",
+  "home",
+  "reset",
+  "history_back",
+  "history_forward",
+  "map_preview_open",
+] as const
+
+export type AnalyticsMapAction = (typeof ANALYTICS_MAP_ACTIONS)[number]
+
+export function analyticsZoomBucket(value: number): "far" | "medium" | "close" | "near" {
+  if (value < 0.35) return "far"
+  if (value < 0.9) return "medium"
+  if (value < 1.8) return "close"
+  return "near"
+}
 export type AnalyticsPageType = "object" | "home" | "folder" | "tag" | "research" | "not_found"
 
 export const RECOGNIZED_OBJECT_TYPES = new Set([

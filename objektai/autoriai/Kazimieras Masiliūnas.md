@@ -45,6 +45,19 @@ media_all_json: |-
 - t-001
   global_id: t-63308
   teiginys: "Viceministro Kazimiero Masiliūno iniciatyva ir rūpesčiu lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją."
+  atnaujinta: "2026-05-30 14:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Masiliūnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Masiliūnas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-64346
 
@@ -63,8 +76,13 @@ media_all_json: |-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: "Lietuvos Respublikos švietimo ministerijos (viceministro Ka-\nzimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-\nšė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas\nŠapoka."
+  citata_rodoma: |
+    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

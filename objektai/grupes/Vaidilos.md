@@ -33,15 +33,37 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 - t-001
   global_id: t-189441
   teiginys: "Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivaitį, o žmonės parpuldavo veidais žemyn."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172328
-
+    - c-001
 <a id="claim-t-189442"></a>
 - t-002
   global_id: t-189442
   teiginys: "Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidilos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilos\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172329
+    - c-002
 - susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
 - susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
 - susijęs iš [[objektai/paprociai/Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį.md#claim-t-189921|Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį]]: Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį.
@@ -74,8 +96,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189441
 - c-002
   santrauka: 'Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -99,8 +120,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189442
 ## Citatos
 
 - id: c-172328
@@ -118,14 +138,19 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     klaidą, cituodamas tą maldelę, kurią grynai lietuviškai reiktų
     taip rašyti: Perkūne Dewajte, ne muszk und mana: Tiewe, mel-
     dzio tawipaltu messu.
-  citata_rodoma: "Kai su­\nšaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;\nvaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba\npinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis\nmosikuodavo raudona vėliavėle ir kažką į juos numesdavo..."
+  citata_rodoma: |
+    Kai su­
+    šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
+    vaidilos atnešdavo Krivių Krivaitį su dengtais neštuvais arba
+    pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
+    mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189441
-
 - id: c-172329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,8 +167,22 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
     pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
     rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: "360\n\n## Puslapis 360\n\nžįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­\ntojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino\nneišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima\nįsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie\nbūsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­\nvengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad\npo mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­\nles; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms\nvėlėms padarytą skriaudą?"
+  citata_rodoma: |
+    360
+
+    ## Puslapis 360
+
+    žįsta lietuvių nuo amžių paveldėtą dievobaimingumą gimdy­
+    tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
+    neišdildomą jų bruožą gerbti žmogaus gyvybe. Ar būtų galima
+    įsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie
+    būsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­
+    vengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad
+    po mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­
+    les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
+    vėlėms padarytą skriaudą?
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

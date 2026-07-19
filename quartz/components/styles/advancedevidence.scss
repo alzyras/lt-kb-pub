@@ -221,7 +221,7 @@ article table.advanced-claims-table {
   padding: 0.7rem 0.8rem;
   border: 1px solid color-mix(in srgb, var(--secondary) 18%, transparent);
   border-left: 3px solid color-mix(in srgb, var(--secondary) 48%, transparent);
-  border-radius: 6px;
+  border-radius: 2px;
   background: color-mix(in srgb, var(--light) 82%, var(--secondary) 4%);
 
   h4 {
@@ -238,7 +238,7 @@ article table.advanced-claims-table {
   margin: 0 0 0.85rem;
   padding: 0.72rem 0.85rem;
   border: 1px solid color-mix(in srgb, var(--secondary) 18%, transparent);
-  border-radius: 6px;
+  border-radius: 2px;
   background: var(--light);
 
   &:last-child {
@@ -265,7 +265,7 @@ article table.advanced-claims-table {
   margin: 0.7rem 0 0;
   padding: 0.65rem 0.75rem;
   border: 1px solid color-mix(in srgb, var(--tertiary) 18%, transparent);
-  border-radius: 6px;
+  border-radius: 2px;
   background: color-mix(in srgb, var(--light) 78%, var(--tertiary) 7%);
   color: var(--darkgray);
   font-size: 0.88rem;
@@ -330,6 +330,15 @@ article table.advanced-claims-table {
   }
 }
 
+.claim-citation-quote-label {
+  margin: 0.75rem 0 0.2rem;
+  color: var(--gray);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .citation-evidence-store {
   display: none !important;
 }
@@ -368,6 +377,15 @@ article blockquote {
     overflow-wrap: anywhere;
   }
 
+  tbody tr:nth-child(even) td {
+    background: color-mix(in srgb, var(--light) 88%, var(--gray) 4%);
+  }
+
+  tbody tr:hover th,
+  tbody tr:hover td {
+    background: color-mix(in srgb, var(--tertiary) 8%, var(--light));
+  }
+
   th {
     width: min(13rem, 34%);
     background: color-mix(in srgb, var(--light) 72%, var(--gray) 5%);
@@ -383,6 +401,25 @@ article blockquote {
   td {
     color: var(--darkgray);
     line-height: 1.45;
+  }
+
+  .advanced-field-label {
+    cursor: help;
+  }
+
+  .advanced-field-help {
+    display: inline-grid;
+    width: 1rem;
+    height: 1rem;
+    margin-left: 0.35rem;
+    place-items: center;
+    border: 1px solid color-mix(in srgb, var(--gray) 48%, transparent);
+    border-radius: 50%;
+    color: var(--gray);
+    font-size: 0.66rem;
+    font-weight: 900;
+    line-height: 1;
+    text-transform: none;
   }
 
   pre {

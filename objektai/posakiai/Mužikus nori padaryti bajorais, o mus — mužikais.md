@@ -33,6 +33,9 @@ media_all_json: |-
 - t-001
   global_id: t-67278
   teiginys: "Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67248
 
@@ -40,6 +43,9 @@ media_all_json: |-
 - t-002
   global_id: t-67279
   teiginys: "Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67249
 
@@ -58,12 +64,12 @@ media_all_json: |-
     duodamųjų palengvinimų. „Mužikus nori padaryti
     bajorais, o mus — mužikais", — šaukė bajorija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67278
-
 - id: c-67249
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -74,8 +80,11 @@ media_all_json: |-
     čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
-  citata_rodoma: "Jame buvo nuostatų, palengvinančių valstiečių būklę\nir paimančių juos įstatymo globon."
+  citata_rodoma: |
+    Jame buvo nuostatų, palengvinančių valstiečių būklę
+    ir paimančių juos įstatymo globon.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

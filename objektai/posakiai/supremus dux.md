@@ -39,6 +39,18 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 - t-001
   global_id: t-31569
   teiginys: "Salyno taikoje „supremus dux“ buvo paties asmens vartotas titulas, kuriuo jį jau titulavo ir didysis magistras."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> didysis magistras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "supremus dux: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "didysis magistras: mention_match, thing, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"supremus dux\" parinktas kaip owner_note_path. Targetas \"didysis magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1401 m.; įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33494
 - susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11685|supremus dux ir magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
@@ -56,8 +68,11 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
     niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą
     iki gyvos galvos. Taip didysis magistras jį jau titulavo Salyno
     taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
-  citata_rodoma: "Taip didysis magistras jį jau titulavo Salyno\ntaikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m."
+  citata_rodoma: |
+    Taip didysis magistras jį jau titulavo Salyno
+    taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

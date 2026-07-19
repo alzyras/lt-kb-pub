@@ -33,6 +33,17 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 - t-001
   global_id: t-28529
   teiginys: "Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Žemaičių atstovai darė taiką ir su Ordinu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žemaičiai sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90); Žemaičiai sudarė sutartį su Kryžiuočių ordinas (0.90); Žemaičiai prekiavo su Prūsai (0.88)"
   pagrindžia:
     - c-28433
 
@@ -52,6 +63,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     nes parodė savo įtaką Žemaičiuose, kuriuos jis — be pačių Žemaičių
     žinios — jau buvo antrukart ordinui pažadėjęs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

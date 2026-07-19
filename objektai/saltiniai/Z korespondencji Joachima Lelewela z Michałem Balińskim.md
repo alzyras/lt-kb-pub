@@ -38,6 +38,12 @@ Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbit
 - t-001
   global_id: t-194323
   teiginys: "Z korespondencji Joachima Lelewela z Michałem Ba lińskim. Wilno, 1939 (odbitka), s."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176915
 
@@ -51,6 +57,7 @@ Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbit
     4 Jasiulianiec K. Z korespondencji Joachima Lelewela z Michałem Ba­
     lińskim. Wilno, 1939 (odbitka), s. 245.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

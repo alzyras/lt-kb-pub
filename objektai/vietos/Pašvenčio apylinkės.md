@@ -33,9 +33,23 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
 - t-001
   global_id: t-188962
   teiginys: "Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologinį pasakojimą apie Krūminę ir jos dukterį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pašvenčio apylinkės: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pašvenčio apylinkės\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171851
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologinį pasakojimą apie Krūminę ir jos dukterį.'
@@ -54,8 +68,7 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188962
 ## Citatos
 
 - id: c-171851
@@ -71,8 +84,16 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
     tas akmuo, ant kurio Lemtis savo pirštu buvo užrašiusi kara­
     lienės Krūminės dukters likimą, kurį jai skyrė dievai prieš daug
     daug amžių.
-  citata_rodoma: "Pats pavadinimas, iš­\nreikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­\nkovskis, o deivei.\nApie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­\nšvenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­\ndangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo\nnepaprasto grožio vienatinę dukterį."
+  citata_rodoma: |
+    Pats pavadinimas, iš­
+    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
+    kovskis, o deivei.
+    Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
+    švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­
+    dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
+    nepaprasto grožio vienatinę dukterį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

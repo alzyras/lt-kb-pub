@@ -33,6 +33,17 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 - t-001
   global_id: t-80623
   teiginys: "Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kontekstas nurodo lenkų ataką prieš lietuvių karius, nors citatos veiksmas aprašo pralėkimą pro juos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lenkai puolė Lietuviai (0.70)"
   pagrindžia:
     - c-77326
 - susijęs iš [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika.md#claim-t-67245|Šturmovųjų grupių fronto pralaužimo taktika]]: Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.
@@ -48,6 +59,7 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
     susispaude į krūvą, atstatė durtuvus ir laukė. Lenkai, kaip viesulas,
     pralėkė pro mūsų vyrus iš abiejų pusių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

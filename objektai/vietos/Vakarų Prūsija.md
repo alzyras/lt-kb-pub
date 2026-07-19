@@ -41,6 +41,20 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 - t-001
   global_id: t-42239
   teiginys: "Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Varmė prijungta prie Lenkijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vakarų Prūsija priklausė Lenkija (0.90); Varmė priklausė Lenkija (0.90)"
+  temporaliniai_duomenys: "įvykio data: po 1466 m.; įvykio data: 1466 m.; įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto."
   pagrindžia:
     - c-45390
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
@@ -80,13 +94,37 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
     nas BAKA ŠV
     ASmenaQ,
     o da rėva
-  citata_rodoma: "Gardine išleista privilegija nurodė statyti\n\na i miesto gynybinę mūro sieną\n\n## Puslapis 79\n\nNuo 1466 m. ry\nVakarų Prūsija ir\nVarmė buvo pri-\njungtos tiesiogiai\nprie Lenkijos.\n\n—\n-\n— Ū\npes\n\n6 Palanga\n\nKlaipe\n\nKARALIAU C /\n\nD."
+  citata_rodoma: |
+    Gardine išleista privilegija nurodė statyti
+
+    a i miesto gynybinę mūro sieną
+
+    ## Puslapis 79
+
+    Nuo 1466 m. ry
+    Vakarų Prūsija ir
+    Varmė buvo pri-
+    jungtos tiesiogiai
+    prie Lenkijos.
+
+    —
+    -
+    — Ū
+    pes
+
+    6 Palanga
+
+    Klaipe
+
+    KARALIAU C /
+
+    D.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42239
-
 ## Ryšiai
 - Vakarų Prūsija priklausė [[objektai/vietos/Lenkija]]

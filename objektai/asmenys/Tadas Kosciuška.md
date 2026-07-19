@@ -44,6 +44,17 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-001
   global_id: t-82738
   teiginys: "Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Kosciuška: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=105"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Kosciuška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-79181
 
@@ -51,6 +62,16 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-002
   global_id: t-82740
   teiginys: "Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Kosciuška: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Kosciuška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-79177
 
@@ -58,6 +79,9 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-003
   global_id: t-82741
   teiginys: "Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-79183
 
@@ -65,6 +89,10 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-004
   global_id: t-82742
   teiginys: "Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-79180
 - susijęs iš [[objektai/asmenys/Mykolas Velhorskis.md#claim-t-40363|Mykolas Velhorskis]]: Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.
@@ -92,14 +120,20 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-  citata_rodoma: "Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų \nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis."
+  citata_rodoma: |
+    Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
+    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
+    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
+    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
+    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
+    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82740
-
 - id: c-79180
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,12 +146,12 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     limo vadas, 1794—1796 m. Rusų
     belaisvis († 1817 m.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82742
-
 - id: c-79181
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -137,14 +171,23 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     siasis Lenkijos ir LDK sukilėlių vadas Tadas
     Kosciuška gegužės 4 d. pašalino Jasinskį iš
     Lietuvos sukilėlių vado pareigų.
-  citata_rodoma: "Kai\nkurie konservatyvūs sukilimo politinės\nvadovybės atstovai buvo nepatenkinti jo\nradikalumu, respublikoniškomis pažiūro-\nmis, siekiu plėsti Lietuvos savarankiškumą\nLenkijos atžvilgiu. Jų spaudžiamas vyriau-\nsiasis Lenkijos ir LDK sukilėlių vadas Tadas\nKosciuška gegužės 4 d. pašalino Jasinskį iš\nLietuvos sukilėlių vado pareigų."
+  citata_rodoma: |
+    Kai
+    kurie konservatyvūs sukilimo politinės
+    vadovybės atstovai buvo nepatenkinti jo
+    radikalumu, respublikoniškomis pažiūro-
+    mis, siekiu plėsti Lietuvos savarankiškumą
+    Lenkijos atžvilgiu. Jų spaudžiamas vyriau-
+    siasis Lenkijos ir LDK sukilėlių vadas Tadas
+    Kosciuška gegužės 4 d. pašalino Jasinskį iš
+    Lietuvos sukilėlių vado pareigų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82738
-
 - id: c-79183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -157,8 +200,12 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
-  citata_rodoma: "Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-\n  kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę\n  (tokių atsišaukimų buvo išleistų ir lietuviškų)."
+  citata_rodoma: |
+    Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
+      kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
+      (tokių atsišaukimų buvo išleistų ir lietuviškų).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

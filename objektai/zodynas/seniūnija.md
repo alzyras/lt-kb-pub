@@ -33,6 +33,9 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 - t-001
   global_id: t-03169
   teiginys: "Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166374
 
@@ -40,6 +43,12 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 - t-002
   global_id: t-182976
   teiginys: "Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166374
 
@@ -61,6 +70,7 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
     dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
     nemažus turtus susikraudavo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

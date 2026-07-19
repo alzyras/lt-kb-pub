@@ -40,6 +40,16 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-001
   global_id: t-58407
   teiginys: "Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skydas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Skydas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"Skydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59040
 
@@ -47,6 +57,19 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-002
   global_id: t-58408
   teiginys: "Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą."
   pagrindžia:
     - c-59039
 
@@ -54,6 +77,9 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-003
   global_id: t-58409
   teiginys: "Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59042
 
@@ -61,6 +87,17 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-004
   global_id: t-58410
   teiginys: "Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Šventoji žemė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arabai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šventoji žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Arabai užėmė Šventoji žemė (0.78); Arabai puolė Šventoji žemė (0.69)"
   pagrindžia:
     - c-59041
 
@@ -83,14 +120,23 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
 
     galią.
-  citata_rodoma: "Po to daug karalių\nir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,\ntačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties\nviešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo\nlikęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį\ngindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus\natsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo\n\ngalią."
+  citata_rodoma: |
+    Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį
+    gindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus
+    atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
+
+    galią.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58408
-
 - id: c-59040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,14 +153,25 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
 
                   81.
-  citata_rodoma: "Šventoji žemė ragina krikščionis ją išvaduoti\n\n  Maldauju — išgirskite, visos krikščionių tautos,  ir išvyskite skausmą, kurį apleista\nkenčiu, turėkite omenyje, kas man nutiko, pamatykite ir suvokite, kaip esu paniekinta,\ngriebkitės ginklo bei skydo ir kilkite man į pagalbą, svieskite ietį, taikydami į tuos, kurie\nmane persekioja, išplėskite mane, varganą  ir apleistą, bei išvaduokite iš nusidėjėlių\nrankų.\n\n\n\n              81."
+  citata_rodoma: |
+    Šventoji žemė ragina krikščionis ją išvaduoti
+
+      Maldauju — išgirskite, visos krikščionių tautos,  ir išvyskite skausmą, kurį apleista
+    kenčiu, turėkite omenyje, kas man nutiko, pamatykite ir suvokite, kaip esu paniekinta,
+    griebkitės ginklo bei skydo ir kilkite man į pagalbą, svieskite ietį, taikydami į tuos, kurie
+    mane persekioja, išplėskite mane, varganą  ir apleistą, bei išvaduokite iš nusidėjėlių
+    rankų.
+
+
+
+                  81.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58407
-
 - id: c-59041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,14 +185,22 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
     sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
-  citata_rodoma: "Apie šventosios žemės reikalus\n\n   Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,\nvienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,\nžiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius\nŠventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai\nsunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,\npajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš."
+  citata_rodoma: |
+    Apie šventosios žemės reikalus
+
+       Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,
+    vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,
+    žiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius
+    Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
+    sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
+    pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58410
-
 - id: c-59042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,8 +215,18 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     nutrėmė visas tavo sienas, sugriovė tavo tvirtoves, jis sunaikino tavo padangtę kaip
     sodą, sugriovė tavo būstinę, leido užmiršti iškilmę ir subatą, padavė paniekai ir savo
     narso užsidegimui karalių ir kunigą”.
-  citata_rodoma: "Dejonė dėl šventosios žemės apleidimo\n\n   Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti\nviso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė\nsavo buvimą, o tavo vadavimo mums teikiamomis šventomis malonėmis norėjo atpirkti\nžmonių giminę, likai apleista ir prislėgta sielvarto. „Viešpats pasidarė lyg nedraugas,\nnutrėmė visas tavo sienas, sugriovė tavo tvirtoves, jis sunaikino tavo padangtę kaip\nsodą, sugriovė tavo būstinę, leido užmiršti iškilmę ir subatą, padavė paniekai ir savo\nnarso užsidegimui karalių ir kunigą”."
+  citata_rodoma: |
+    Dejonė dėl šventosios žemės apleidimo
+
+       Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti
+    viso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė
+    savo buvimą, o tavo vadavimo mums teikiamomis šventomis malonėmis norėjo atpirkti
+    žmonių giminę, likai apleista ir prislėgta sielvarto. „Viešpats pasidarė lyg nedraugas,
+    nutrėmė visas tavo sienas, sugriovė tavo tvirtoves, jis sunaikino tavo padangtę kaip
+    sodą, sugriovė tavo būstinę, leido užmiršti iškilmę ir subatą, padavė paniekai ir savo
+    narso užsidegimui karalių ir kunigą”.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

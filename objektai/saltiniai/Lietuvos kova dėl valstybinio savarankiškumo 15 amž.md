@@ -38,6 +38,10 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
 - t-001
   global_id: t-194159
   teiginys: 'Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinti OCR lūžiai ir neužbaigta pabaiga, išlaikyta priežasties ir pasekmės grandinė. Nepridėta daugiau, nei leidžia citata apie Kazimiero sutikimą.'
   pagrindžia:
     - c-176772
 
@@ -57,8 +61,9 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
     BK Kazimiero išrinkimas Lenkijos karaliumi atvaizduotas supras­
     tintai.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194159

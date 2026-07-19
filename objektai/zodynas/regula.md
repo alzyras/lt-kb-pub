@@ -34,6 +34,16 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
 - t-001
   global_id: t-82094
   teiginys: "Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "regula: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"regula\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78589
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.
@@ -65,8 +75,20 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
     dokumentus, kurie galėtų ano meto
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
-  citata_rodoma: "Algirdas viešai nubaudė to žiauraus poelgio vadei­\nvas ir liepė paskelbti visame krašte valią nevaržomiems \ngyventi visiems krikščionių vienuoliams ir laisvę išpažinti \nsavo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­\ndė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­\nčios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl \nto, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi \nliūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­\nnuolyną pastatydino naujoje vietoje, savo naujų medinių rū­\nmų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­\nvadino Mergelės Marijos vardu20."
+  citata_rodoma: |
+    Algirdas viešai nubaudė to žiauraus poelgio vadei­
+    vas ir liepė paskelbti visame krašte valią nevaržomiems
+    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
+    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
+    dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
+    čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
+    to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
+    liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­
+    nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
+    mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
+    vadino Mergelės Marijos vardu20.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

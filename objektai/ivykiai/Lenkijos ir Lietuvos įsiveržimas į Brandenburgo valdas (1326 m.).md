@@ -52,14 +52,28 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-89374"></a>
+<a id="claim-t-89375"></a>
 - t-001
-  global_id: t-89374
+  global_id: t-89375
   teiginys: "1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Lietuvos kariuomenė tiesiogiai įvardyta kaip įsiveržimo dalyvė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė surengė žygį į Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.) (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, kurį tiesiogiai patvirtina citata."
   pagrindžia:
-    - c-85328
     - c-85327
-
+    - c-002
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
@@ -75,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89375
 - c-002
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89375
 ## Citatos
 
 - id: c-85327
@@ -112,8 +124,13 @@ Nenurodyta
     veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
     Pačioje Vakarų Europoje XIII—XIV a. irgi pasigirsdavo Kryžiuočių ordino adresu
     kritiškų balsų, raginančių netgi jį likviduoti.
-  citata_rodoma: "1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė\nFrankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,\nLietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos\ncentru62."
+  citata_rodoma: |
+    1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
+    Frankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
+    Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos
+    centru62.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -132,10 +149,16 @@ Nenurodyta
     Oderio pietvakariuose, bendradarbiaudama su kaimyninėmis rusų bei lenkų žemėmis,
     sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
     veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
-  citata_rodoma: "Kijevo\npatekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos\nįtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš\nAukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.\n  1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė\nFrankfurtą prie Oderio (III, 361)."
+  citata_rodoma: |
+    Kijevo
+    patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos
+    įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš
+    Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš Vakarų.
+      1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
+    Frankfurtą prie Oderio (III, 361).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89374

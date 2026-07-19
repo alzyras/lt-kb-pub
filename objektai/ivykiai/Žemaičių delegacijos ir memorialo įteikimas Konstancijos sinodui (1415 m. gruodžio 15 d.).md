@@ -56,6 +56,19 @@ Nenurodyta
 - t-001
   global_id: t-35923
   teiginys: "1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Konstancija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstancija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos kontekste „jis“ reiškia Vytautą, kuris nusiuntė žemaičių bajorus į sinodą Konstancijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstancija (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38334
 
@@ -77,8 +90,15 @@ Nenurodyta
     sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
-  citata_rodoma: "Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios\nsinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­\njoru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­\nsitio Samaytarum” kurio dėl graudingumo, kaip sako prof.\nkunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis\nskaityti^3 )."
+  citata_rodoma: |
+    Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
+    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
+    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
+    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
+    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
+    skaityti^3 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

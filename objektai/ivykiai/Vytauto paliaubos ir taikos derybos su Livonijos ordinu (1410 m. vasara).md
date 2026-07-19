@@ -55,6 +55,19 @@ Nenurodyta
 - t-001
   global_id: t-31497
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Heilsbergas: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Vytautas buvo nuvykęs prie Heilsbergo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Heilsbergas (0.66)"
+  temporaliniai_duomenys: "kelionės data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33443
 
@@ -70,8 +83,13 @@ Nenurodyta
     mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
     maršalu B. Hevelmannu ir pradėjo taikos derybas.
     c.
-  citata_rodoma: "Bet (1410.VIII.)\nLivonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo\nmūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos\nmaršalu B. Hevelmannu ir pradėjo taikos derybas."
+  citata_rodoma: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

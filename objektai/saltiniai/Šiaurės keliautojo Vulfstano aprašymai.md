@@ -32,6 +32,20 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
 - t-001
   global_id: t-191820
   teiginys: "Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Drūsinė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiaurės keliautojo Vulfstano aprašymai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Drūsinė: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės keliautojo Vulfstano aprašymai\" parinktas kaip owner_note_path. Targetas \"Drūsinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174702
 
@@ -39,6 +53,12 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
 - t-002
   global_id: t-197692
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174702
 
@@ -61,6 +81,7 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
     rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
     nieko nežinotume apie šį miestą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

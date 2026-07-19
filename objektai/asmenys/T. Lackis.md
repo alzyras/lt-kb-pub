@@ -33,6 +33,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - t-001
   global_id: t-40456
   teiginys: "Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Lackis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Lackis\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44530
 
@@ -40,6 +50,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - t-002
   global_id: t-40457
   teiginys: "T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> husarai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Lackis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Lackis\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42255
 
@@ -56,12 +76,12 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 
     ® Švedų pajėgos bėga iš mūšio lauko.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40457
-
 - id: c-44530
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -76,8 +96,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     besikaunančius švedų pėstininkus, kurie
     kovėsi su rotmistro V. Vainos ir Kuršo rei-
     tarais.
-  citata_rodoma: "Rotmistro\nT. Lackio vadovaujami 200 husarų padarė\nlankstą ir visa jėga smogė į besikaunan-\nčių švedų raitelių kairįjį sparną. Raiteliai\npradėjo trauktis į priešingą pusę ir spausti\nbesikaunančius švedų pėstininkus, kurie\nkovėsi su rotmistro V."
+  citata_rodoma: |
+    Rotmistro
+    T. Lackio vadovaujami 200 husarų padarė
+    lankstą ir visa jėga smogė į besikaunan-
+    čių švedų raitelių kairįjį sparną. Raiteliai
+    pradėjo trauktis į priešingą pusę ir spausti
+    besikaunančius švedų pėstininkus, kurie
+    kovėsi su rotmistro V.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

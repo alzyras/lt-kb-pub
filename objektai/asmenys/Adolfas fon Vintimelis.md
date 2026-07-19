@@ -33,6 +33,20 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
 - t-001
   global_id: t-186172
   teiginys: "Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Adolfas fon Vintimelis (didikas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Adolfas fon Vintimelis buvo atvykęs į Prūsiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Adolfas fon Vintimelis (didikas) keliavo į Prūsija (0.96)"
   pagrindžia:
     - c-169533
 - susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
@@ -55,11 +69,11 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
     atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
     ir žiauriai nuniokojo visą Gardino kraštą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186172
-
 ## Ryšiai
 - Adolfas fon Vintimelis (didikas) keliavo į [[objektai/vietos/Prūsija]]

@@ -40,6 +40,20 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-001
   global_id: t-41207
   teiginys: "Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Švitrigaila: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Livonijos šaką kaip Švitrigailos rėmėją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonijos ordinas rėmė Švitrigaila (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Rewrite failed deterministic gates: missing_factual_predicate"
   pagrindžia:
     - c-44876
 
@@ -47,6 +61,13 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-002
   global_id: t-193737
   teiginys: "Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-176403
 
@@ -54,6 +75,13 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-003
   global_id: t-193738
   teiginys: "Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42988
 
@@ -74,12 +102,12 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193738
-
 - id: c-44876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,14 +128,24 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     degino Linkmenų, Tauragnų, Utenos,
     Užpalių pilis, paėmė daug belaisvių, bet bi-
     jodami lietuvių kontrsmūgio, pasitraukė.
-  citata_rodoma: "Ordinas, pirmiausia jo Livonijos šaka,\ntoliau liko Švitrigailos rėmėja, nes siekė,\nkad pastarasis organizuotų platų piet-\nryčių frontą (su voluiniečiais, podolie-\nčiais, totoriais) prieš Lenkiją, kuri su\nhusitais vakaruose rengėsi kovoti prieš\nOrdiną. Livonijos ordinas ne visada paisė\n\nsusitarimų su Švitrigaila, veikė ir atski-\nrai."
+  citata_rodoma: |
+    Ordinas, pirmiausia jo Livonijos šaka,
+    toliau liko Švitrigailos rėmėja, nes siekė,
+    kad pastarasis organizuotų platų piet-
+    ryčių frontą (su voluiniečiais, podolie-
+    čiais, totoriais) prieš Lenkiją, kuri su
+    husitais vakaruose rengėsi kovoti prieš
+    Ordiną. Livonijos ordinas ne visada paisė
+
+    susitarimų su Švitrigaila, veikė ir atski-
+    rai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41207
-
 - id: c-176403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -121,6 +159,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     su Čekijos husitais. Tuo pat metu buvo
     veikiama prieš Švitrigailą Lietuvoje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

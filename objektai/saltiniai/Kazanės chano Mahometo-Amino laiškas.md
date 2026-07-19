@@ -41,6 +41,16 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 - t-001
   global_id: t-08862
   teiginys: "Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  ryšio_patikimumas: "susije_su -> Kazanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazanės chano Mahometo-Amino laiškas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kazanė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazanės chano Mahometo-Amino laiškas\" parinktas kaip owner_note_path. Targetas \"Kazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-11161
 
@@ -62,8 +72,17 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
     Amino laišką, kuriame jis Lietuvai siūlė są-
 
     jungą prieš Maskvą.
-  citata_rodoma: "Mengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos. Pasiuntinys\ntaip pat gabeno Kazanės chano Mahometo-\nAmino laišką, kuriame jis Lietuvai siūlė są-\njungą prieš Maskvą."
+  citata_rodoma: |
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos. Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+    Amino laišką, kuriame jis Lietuvai siūlė są-
+    jungą prieš Maskvą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

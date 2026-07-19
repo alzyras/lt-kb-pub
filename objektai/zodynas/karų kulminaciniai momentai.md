@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-42467
   teiginys: "Karų kulminaciniai momentai leidinyje suprantami kaip mūšiai, per kuriuos rodoma kovų už Lietuvos valstybę istorija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karų kulminaciniai momentai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karų kulminaciniai momentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45525
 
@@ -40,6 +50,19 @@ media_all_json: |-
 - t-002
   global_id: t-183714
   teiginys: "Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karų kulminaciniai momentai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karų kulminaciniai momentai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167102
 
@@ -57,14 +80,19 @@ media_all_json: |-
     įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
     nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
     tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: "Šio leidinio tikslas - per karų kulminacinius momen-\ntus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę\nistoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-\ntojas galėtų susikurti įvairių laikotarpių Lietuvos kario\nįvaizdį."
+  citata_rodoma: |
+    Šio leidinio tikslas - per karų kulminacinius momen-
+    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
+    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
+    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
+    įvaizdį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42467
-
 - id: c-167102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -79,6 +107,7 @@ media_all_json: |-
     tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
     įvaizdį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

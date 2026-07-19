@@ -33,6 +33,16 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 - t-001
   global_id: t-39983
   teiginys: "A. Stapulionis vadovavo Joniškėlio partizanų batalionui, turėjusiam paremti rinktinės puolimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Stapulionis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Stapulionis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44251
 
@@ -55,8 +65,19 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
     Bolševikų pajėgas sudarė 14-asis
     ir 15-asis šaulių pėstininkų pulkai ir
     6-asis latvių komunistų pulkas.
-  citata_rodoma: "Rinktinės\npuolimą turėjo paremti A. Stapulionio\nvadovaujamas Joniškėlio partizanų ba-\ntalionas, Šeduvos-Panevėžio\ngeležinkelio liniją dengė vo-\nkiečių saksų batalionas.\n\nBolševikų pajėgas sudarė 14-asis\nir 15-asis šaulių pėstininkų pulkai ir\n6-asis latvių komunistų pulkas."
+  citata_rodoma: |
+    Rinktinės
+    puolimą turėjo paremti A. Stapulionio
+    vadovaujamas Joniškėlio partizanų ba-
+    talionas, Šeduvos-Panevėžio
+    geležinkelio liniją dengė vo-
+    kiečių saksų batalionas.
+
+    Bolševikų pajėgas sudarė 14-asis
+    ir 15-asis šaulių pėstininkų pulkai ir
+    6-asis latvių komunistų pulkas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

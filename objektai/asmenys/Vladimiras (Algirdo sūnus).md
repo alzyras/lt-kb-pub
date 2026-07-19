@@ -33,6 +33,17 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 - t-001
   global_id: t-35316
   teiginys: "Vytautas suvaldė nepaklusnų Kijevo kunigaikštį Vladimirą, Algirdo sūnų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladimiras (Algirdo sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vladimiras tiesiogiai įvardytas Algirdo sūnumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladimiras (Algirdo sūnus) buvo sūnus Algirdas (Lietuvos valdovas) (0.95)"
   pagrindžia:
     - c-38137
 
@@ -53,13 +64,21 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
     jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
     naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
     stovos, jų valdžią silpnino.
-  citata_rodoma: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­\nnaičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­\nstovos, jų valdžią silpnino."
+  citata_rodoma: |
+    Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
+    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
+    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
+    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
+    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
+    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
+    stovos, jų valdžią silpnino.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35316
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

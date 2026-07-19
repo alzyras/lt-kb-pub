@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-189877
   teiginys: "Narbutas lietuvių genties tautoms priskyrė religijos pašventintą svetingumą, apėmusį šventyklų, šventų giraičių ir namijų prieglobstį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172760
 
@@ -56,6 +63,12 @@ Nenurodyta
 - t-002
   global_id: t-197269
   teiginys: "Srutis ir Mėletėlė (Strutis i M iechutele) Dievaitis su savo drauge; jie globojo augalus, tinkamus amatams, ypač dažymui."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179095
 
@@ -76,12 +89,12 @@ Nenurodyta
     ti svetimšaliai jausdavosi visiškai saugūs - tiek asmenys, tiek
     turtas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189877
-
 - id: c-179095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -102,6 +115,7 @@ Nenurodyta
     Dievaitis su savo drauge; jie globojo augalus, tinkamus
     amatams, ypač dažymui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

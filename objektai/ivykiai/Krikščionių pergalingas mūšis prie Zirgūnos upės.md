@@ -49,6 +49,17 @@ Nenurodyta
 - t-001
   global_id: t-91906
   teiginys: "Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Krikščionių pergalingas mūšis prie Zirgūnos upės: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Krikščionių pergalingas mūšis prie Zirgūnos upės: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citatos antraštė ir tekstas tiesiogiai sieja krikščionis su šiuo mūšiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.86); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo mūšyje Krikščionių pergalingas mūšis prie Zirgūnos upės (0.78)"
   pagrindžia:
     - c-87548
 
@@ -75,6 +86,7 @@ Nenurodyta
     nukautųjų. Šitai padarę, visi maldininkai džiūgaudami sugrįžo pas saviškius, šlovindami
     išganytojo palankumą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

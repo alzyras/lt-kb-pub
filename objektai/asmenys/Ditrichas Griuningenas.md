@@ -30,23 +30,28 @@ media_all_json: |-
 
 ## Santrauka
 
-1238 m. Ditrichas Griuningenas iš Balkos perėmė valdžią Padaugavyje, kai Balka grįžo į Payslį šalinti kryžėjams kilusio pavojaus.
+Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti.
 
 ## Teiginiai
 
 <a id="claim-t-201417"></a>
 - t-001
   global_id: t-201417
-  teiginys: "1238 m. Ditrichas Griuningenas iš Balkos perėmė valdžią Padaugavyje, kai Balka grįžo į Payslį šalinti kryžėjams kilusio pavojaus."
+  teiginys: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184767
 
 ## Citatos
 
 - id: c-184767
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 296"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 296."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kujavos, į Kul-
     m iją .
@@ -58,6 +63,7 @@ media_all_json: |-
     ir steigė tą pavojų kaip įmanąs attolinti. To dėję­
     sis, tuojau sukerštino kunig.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

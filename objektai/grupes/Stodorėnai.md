@@ -33,6 +33,20 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
 - t-001
   global_id: t-192998
   teiginys: "Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stodorėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stodorėnai\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175768
 
@@ -40,6 +54,12 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
 - t-002
   global_id: t-197522
   teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175768
 - susijęs iš [[objektai/grupes/Brėžanai.md#claim-t-192994|Brėžanai]]: Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai.
@@ -63,9 +83,6 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-175768
@@ -84,8 +101,17 @@ Narbutas rašo, kad Havolijos genčių sąjungai priklausė vėlinai, brėžanai
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos.
-  citata_rodoma: "Bet \nšis pavadinimas aprėpė įvairias arti viena kitos taikiai \ngyvenusias arba tam tikrai lygai priklausiusias gentis, o \nta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės. \nŠiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu- \nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos."
+  citata_rodoma: |
+    Bet
+    šis pavadinimas aprėpė įvairias arti viena kitos taikiai
+    gyvenusias arba tam tikrai lygai priklausiusias gentis, o
+    ta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
+    Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
+    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
+    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
+    tuvių kartos.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

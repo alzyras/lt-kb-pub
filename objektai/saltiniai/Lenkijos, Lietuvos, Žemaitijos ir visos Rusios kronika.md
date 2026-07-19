@@ -67,4 +67,3 @@ Kojelavičius Motiejų Strijkovskį vadino pirmuoju kruopščiai iš rusų ir kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

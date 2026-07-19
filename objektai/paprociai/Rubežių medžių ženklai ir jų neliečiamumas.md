@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-07802
   teiginys: "Dideli ir seni medžiai senovėje tarnavo kaip rubežių ženklai, o jų palietimas buvo baudžiamas labai griežtai."
+  atnaujinta: "2026-05-20 21:56"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09959
 
@@ -63,11 +66,16 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos
-        saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
-        beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
-        rubežių.
-  citata_rodoma: "dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos\nsaugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,\nbeje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais\nrubežių."
+    saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
+    beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
+    rubežių.
+  citata_rodoma: |
+    dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos
+    saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
+    beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
+    rubežių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,6 +51,10 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
 - t-001
   global_id: t-195414
   teiginys: "Artojai sakydavo, kad dirbti smagu tik tada, kai gyvulys sotus."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177835
 
@@ -66,8 +70,10 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
     reikia avižų.
     Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“
     Iš to pasakymo reikia manyti, kad dirbdavo ir alkanais gyvuliais.
-  citata_rodoma: "Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“"
+  citata_rodoma: |
+    Artojai sakydavo: „Smagu dirbti, jei gyvulys sotus.“
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

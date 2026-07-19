@@ -41,6 +41,19 @@ media_all_json: |-
 - t-001
   global_id: t-41026
   teiginys: "1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Adolfas Ramanauskas-Vanagas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos gynybos pajėgos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Adolfas Ramanauskas-Vanagas: mention_match, person, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos gynybos pajėgos\" parinktas kaip owner_note_path. Targetas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir pagrįstas citata."
   pagrindžia:
     - c-44793
 
@@ -48,6 +61,19 @@ media_all_json: |-
 - t-002
   global_id: t-41027
   teiginys: "1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos gynybos pajėgos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos gynybos pajėgos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1951 m.; įvykio data: 1953 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-44792
 
@@ -65,14 +91,18 @@ media_all_json: |-
     1951 m. gruodį ištikus insultui atsisakė pareigų (jas vėl
     pradėjo eiti 1953 m. pavasarį) 1953 m. gegužės 30 d.
     jo bunkeris buvo išduotas, J. Žemaitis suimtas gyvas.
-  citata_rodoma: "1949 m. vasarį partizanų vadų suvažiavime J. Že-\nmaitis išrinktas LLKS tarybos prezidiumo pirmininku,\ntaip pat laikinai ėjo Lietuvos gynybos pajėgų vado\npareigas. Jam suteiktas partizanų generolo laipsnis."
+  citata_rodoma: |
+    1949 m. vasarį partizanų vadų suvažiavime J. Že-
+    maitis išrinktas LLKS tarybos prezidiumo pirmininku,
+    taip pat laikinai ėjo Lietuvos gynybos pajėgų vado
+    pareigas. Jam suteiktas partizanų generolo laipsnis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41027
-
 - id: c-44793
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -86,8 +116,14 @@ media_all_json: |-
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: "1949 m. dalyvavo kuriant\nvieningą pasipriešinimo judėjimo vadovybę, tapo\nLietuvos laisvės kovos sąjūdžio tarybos prezidiumo\npirmininko J. Žemaičio-Vytauto pavaduotoju, kiek\nvėliau ir LLKS gynybos pajėgų vadu."
+  citata_rodoma: |
+    1949 m. dalyvavo kuriant
+    vieningą pasipriešinimo judėjimo vadovybę, tapo
+    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
+    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
+    vėliau ir LLKS gynybos pajėgų vadu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

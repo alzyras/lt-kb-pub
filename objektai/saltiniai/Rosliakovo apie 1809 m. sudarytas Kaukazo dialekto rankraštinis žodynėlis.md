@@ -39,9 +39,26 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
 - t-001
   global_id: t-190556
   teiginys: "Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rosliakovo apie 1809 m. sudarytas Kaukazo dialekto rankraštinis žodynėlis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rosliakovo apie 1809 m. sudarytas Kaukazo dialekto rankraštinis žodynėlis\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1809 m.; įvykio data: apie 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Sakinys sutelktas į rankraštinio žodynėlio panaudojimą. Kilmės ir etimologinis aiškinimas paliktas su Narbuto atribucija, nepridedant neparemtų kalbinių faktų."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173439
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu.'
@@ -60,8 +77,7 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190556
 ## Citatos
 
 - id: c-173439
@@ -82,8 +98,16 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
     kad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys
     buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
     susukdavo kojas ir rankas“.
-  citata_rodoma: "Tokios nuomo­\nnės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau\nįsigilinus į kalbas, paaiškėja, kad indų-budinų kalba, išlikusia šalyje\nprie Arakso, Kas p reiškia plikas, o Koh -  kalnas. Iš čia Kaspijos jūra\nvieloje reiškia Plikoji jūra; tai perkeltinis pavadinimas jūros, turin­\nčios plikus krantus (kažkokio Kaukazo dialekto rankraštinis žody­\nnėlis, surašytas gydytojo Rosliakovo apie 1809 metus)."
+  citata_rodoma: |
+    Tokios nuomo­
+    nės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau
+    įsigilinus į kalbas, paaiškėja, kad indų-budinų kalba, išlikusia šalyje
+    prie Arakso, Kas p reiškia plikas, o Koh -  kalnas. Iš čia Kaspijos jūra
+    vieloje reiškia Plikoji jūra; tai perkeltinis pavadinimas jūros, turin­
+    čios plikus krantus (kažkokio Kaukazo dialekto rankraštinis žody­
+    nėlis, surašytas gydytojo Rosliakovo apie 1809 metus).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

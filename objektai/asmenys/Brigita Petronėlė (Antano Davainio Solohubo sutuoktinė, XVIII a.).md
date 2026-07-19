@@ -32,6 +32,8 @@ Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu 
 - t-001
   global_id: t-200521
   teiginys: 'Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu Solohubu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Neapibrėžta karnavalo aplinka pakeista tiesiogiai paremtu buvimo Vilniuje faktu. Karnavalo interpretacija nepridėta kaip Brigitos Petronėlės veikla.'
   pagrindžia:
     - c-183873
 
@@ -39,6 +41,8 @@ Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu 
 - t-002
   global_id: t-200522
   teiginys: 'Brigita Petronėlė buvo Antano Davainio Solohubo sutuoktinė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Brigitos Petronėlės santuokinį ryšį. Citata ją tiesiogiai įvardija Antano Davainio Solohubo sutuoktine.'
   pagrindžia:
     - c-183873
 
@@ -57,9 +61,10 @@ Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu 
     buvęs“.
   citata_rodoma: "Vilniuje tuo metu\nbuvo artilerijos generolas Antanas Davainis Solohubas su sutuoktine Brigita Petronėle,\nVilniaus pavaivadis Jurgis Abramovičiaus (Jerzy Abramowicz) ir tijūnas, Gegabrastos\n(šiandieniniame Pasvalio rajone) seniūnas Jonas Pliateris."
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-200521
+    - t-200522

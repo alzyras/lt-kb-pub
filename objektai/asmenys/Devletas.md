@@ -42,6 +42,20 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
 - t-001
   global_id: t-34716
   teiginys: "1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Konstantinopolis: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Devletas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Devletas buvo Konstantinopolyje, nes iš ten rašė Vytautui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Devletas keliavo į Konstantinopolis (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Devletą ir remiasi citata."
   pagrindžia:
     - c-35941
 - susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
@@ -59,6 +73,7 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
     gailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­
     bėję tik blogi žmonės“^5 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

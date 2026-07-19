@@ -53,6 +53,17 @@ Nenurodyta
 - t-001
   global_id: t-59693
   teiginys: "Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Medinis kryžius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ruseinis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medinis kryžius: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Ruseinis pasirūpino medinio kryžiaus padirbdinimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ruseinis pastatė Medinis kryžius (0.78)"
   pagrindžia:
     - c-60325
 - susijęs iš [[objektai/daiktai/Vytautinis Krucifiksas.md#claim-t-200847|Vytautinis Krucifiksas]]: Vytautiniu Krucifiksu vadinamas medinis kryžius su dramblio kaulo Nukryžiuotojo figūra, nors Vorobjovas jį datavo XVII amžiaus pabaiga.
@@ -73,6 +84,7 @@ Nenurodyta
     ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
     padirbdinti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,19 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 - t-001
   global_id: t-80653
   teiginys: "Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dainava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dainavos apygarda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dainava: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dainavos apygarda\" parinktas kaip owner_note_path. Targetas \"Dainava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet objektas yra asmuo, todėl sakinys turi aiškiai įvardyti pilną vardą."
   pagrindžia:
     - c-77351
 - susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
@@ -59,8 +72,13 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: "Po kelių mėnesių Ramanauskas-Vanagas\nbuvo pakeltas į Merkio rinktinės vado pareigas.\nVėliau jis tapo Dainavos apygardos ir Pietų Lietuvos\nsrities partizanų vadu. 1949 m."
+  citata_rodoma: |
+    Po kelių mėnesių Ramanauskas-Vanagas
+    buvo pakeltas į Merkio rinktinės vado pareigas.
+    Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos
+    srities partizanų vadu. 1949 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

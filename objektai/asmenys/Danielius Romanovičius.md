@@ -43,6 +43,12 @@ media_all_json: |-
 - t-001
   global_id: t-194106
   teiginys: "6 Danielius Romaoovičius (1201— 1264) — Haličo ir Volynės (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176719
 
@@ -50,9 +56,12 @@ media_all_json: |-
 - t-002
   global_id: t-194107
   teiginys: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys performuluotas kaip pilnas teiginys apie Danielių Romanovičių per jo brolį Vasilką. Palikti tik citatos duomenys, pašalinus išnašos numerį ir OCR klaidą.'
   pagrindžia:
-    - c-176720
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
@@ -67,13 +76,12 @@ media_all_json: |-
     gaikštis, Haličo-Volynės didžiojo kunigaikščio Danieliaus Romano-
     vičiaus brolis ir politinis bendradarbis.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194107
 ## Citatos
 
 - id: c-176719
@@ -97,8 +105,16 @@ media_all_json: |-
     lynės
     Naugardo (Novgorod Volynskij), rusų metraščiuose minimą
     1171 m
-  citata_rodoma: "Užimta buvo visa \nLietuvos žemė ir nesuskaičiuojami jų  turtai\".\n6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės \n(vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Pasinaudo­\ndamas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį \nMindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­\ntuvos valstybės priešų koaliciją."
+  citata_rodoma: |
+    Užimta buvo visa
+    Lietuvos žemė ir nesuskaičiuojami jų  turtai".
+    6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės
+    (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Pasinaudo­
+    damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį
+    Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
+    tuvos valstybės priešų koaliciją.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -11,7 +11,20 @@ interface CustomEventMap {
   readermodechange: CustomEvent<{ mode: "on" | "off" }>
   "quartz-options-change": CustomEvent<{}>
   citationopen: CustomEvent<{ citationKey: string; sourceKind: string }>
-  analyticsfeature: CustomEvent<{ name: string; action: string; value?: string }>
+  analyticsfeature: CustomEvent<{
+    name: string
+    action: string
+    value?: string
+    params?: Record<string, string | number | boolean>
+    dedupeScope?: "none" | "page" | "session"
+    dedupeKey?: string
+  }>
+  analyticsmap: CustomEvent<{
+    action: string
+    params?: Record<string, string | number | boolean>
+    dedupeScope?: "none" | "page" | "session"
+    dedupeKey?: string
+  }>
   periodfiltercommit: CustomEvent<{ start: number; end: number; includeUnknown: boolean }>
 }
 

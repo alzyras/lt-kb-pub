@@ -44,6 +44,10 @@ Duburys šiame šaltinyje yra upuokšnis.
 - t-001
   global_id: t-195480
   teiginys: "Duburys apibūdinamas kaip gilėjantis savo krioklio tėkme."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177902
 
@@ -51,6 +55,10 @@ Duburys šiame šaltinyje yra upuokšnis.
 - t-002
   global_id: t-195481
   teiginys: "Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177901
 - susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
@@ -71,14 +79,15 @@ Duburys šiame šaltinyje yra upuokšnis.
     Gi štai devyniolik­
     tame šimtmetyje Duburys atsiminė, jog ir jam vagos reikia, ir pasi­
     rūpino ištiesti ją visa tėkmė ligi pat Ažytės.
-  citata_rodoma: "Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku."
+  citata_rodoma: |
+    Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku.
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195481
-
 - id: c-177902
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -90,8 +99,10 @@ Duburys šiame šaltinyje yra upuokšnis.
     Duburys panoro gilesnės vagos.
     Tas pats krioklys imasi ją gilinti vi­
     sa tėkmė.
-  citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
+  citata_rodoma: |
+    Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

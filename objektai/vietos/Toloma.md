@@ -34,6 +34,21 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 - t-001
   global_id: t-192905
   teiginys: "Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Uždauguvis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Toloma: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Uždauguvis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Toloma pateikiama kaip viena Uždauguvio skirstymo dalių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Toloma priklausė Uždauguvis (0.90); Latviai gyveno Kuršas (0.88); Latviai gyveno Piltenė (0.86); Latviai gyveno Livonija (0.80)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175675
 
@@ -63,11 +78,11 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
     1 Žemėlapis Kruzės veikale „Necrolivonica"**,
     2 Lett.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192905
-
 ## Ryšiai
 - Toloma priklausė [[objektai/vietos/Uždauguvis]]

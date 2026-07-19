@@ -55,6 +55,19 @@ Nenurodyta
 - t-001
   global_id: t-35886
   teiginys: "1382 m. liepos 20 d. Trakų pilies įgula pasidavė Jogailai, o pilyje buvo pastatyti jo kareiviai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "pastatymo data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai paremtas citatos duomenimis."
   pagrindžia:
     - c-37057
 
@@ -62,6 +75,16 @@ Nenurodyta
 - t-002
   global_id: t-35887
   teiginys: "Skirgaila Trakų piliai ginti iš maršalkos gavo dovanų kelias dideles armotas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38325
 
@@ -81,12 +104,12 @@ Nenurodyta
     siąs pilį, reikalavo, kad jie pasiduotų geruoju nors Jogailai. Kai
     įgula pasidavė Jogailai, pilyje buvo pastatyti jo kareiviai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35886
-
 - id: c-38325
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -98,8 +121,13 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
     Dabar Kęstučio padėtis žymiai pablogėjo.
-  citata_rodoma: "Skir­\ngaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­\nlių armotų.\nDabar Kęstučio padėtis žymiai pablogėjo."
+  citata_rodoma: |
+    Skir­
+    gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
+    lių armotų.
+    Dabar Kęstučio padėtis žymiai pablogėjo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

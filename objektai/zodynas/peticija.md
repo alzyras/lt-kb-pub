@@ -33,6 +33,10 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 - t-001
   global_id: t-70281
   teiginys: "Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-69331
 
@@ -55,8 +59,14 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
     josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
     tuvių reikalų neužtardavo nė vienu žodžiu.
-  citata_rodoma: "Kadangi tuo pat metu\nbuvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-\nklas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-\njosi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-\ntuvių reikalų neužtardavo nė vienu žodžiu."
+  citata_rodoma: |
+    Kadangi tuo pat metu
+    buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-
+    klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
+    josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
+    tuvių reikalų neužtardavo nė vienu žodžiu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

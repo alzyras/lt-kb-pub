@@ -32,6 +32,9 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
 - t-001
   global_id: t-60998
   teiginys: "Judas Makabėjus, su saujele savųjų stovėdamas prieš didelę kariuomenę, drąsino juos nebijoti priešų daugybės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61631
 
@@ -49,6 +52,7 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
     kaip buvo išgelbėti mūsų tėvai Raudonojoje jūroje, kai juos vijosi faraonas su gausinga
     kariuomene.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,6 +55,20 @@ Nenurodyta
 - t-001
   global_id: t-41325
   teiginys: "1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Miro mūšis (1792 m. birželio 11 d.): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Miro mūšis (1792 m. birželio 11 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Lietuvos kariuomenės nesėkmė šiame mūšyje tiesiogiai rodo jos dalyvavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė dalyvavo mūšyje Miro mūšis (1792 m. birželio 11 d.) (0.88)"
+  temporaliniai_duomenys: "mūšio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įrašyti metai, kad sakinys būtų savarankiškas ir aiškus."
   pagrindžia:
     - c-44916
 
@@ -75,8 +89,13 @@ Nenurodyta
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: "Pirmasis didelis mūšis įvyko bir-\nželio 11 d. prie Miro. Čia Lietuvos\nkariuomenė patyrė pirmąją nesė-\nkmę."
+  citata_rodoma: |
+    Pirmasis didelis mūšis įvyko bir-
+    želio 11 d. prie Miro. Čia Lietuvos
+    kariuomenė patyrė pirmąją nesė-
+    kmę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

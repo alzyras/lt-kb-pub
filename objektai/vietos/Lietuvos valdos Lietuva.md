@@ -33,6 +33,20 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
 - t-001
   global_id: t-185244
   teiginys: "Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jogaila įsakė siųsti grūdų laivus į Prūsijos pasienį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Prūsija (0.86); Jogaila (kunigaikštis, XIV–XV a.) siuntė į Lietuva (0.79)"
   pagrindžia:
     - c-168605
 
@@ -40,6 +54,13 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
 - t-002
   global_id: t-193422
   teiginys: "Po Švitrigailos puolimo ir maisto stokos Vytauto kariai pasiekė Lietuvos valdas, kur, pasak Kojelavičiaus, pailsėjo ir atsigavo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176144
 
@@ -61,12 +82,12 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
     gas karu i
     juos išsivežė kitur.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185244
-
 - id: c-176144
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -86,6 +107,7 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
     įveikė šiuos sunkumus ir pasiekė Lietuvos valdas, kur
     šiek tiek pailsėjo ir atsigavo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

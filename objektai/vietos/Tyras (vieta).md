@@ -27,27 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Tyrą, pasak Daukanto, penicijonys pavedė dievo, vadinamo Tyro bočiumi arba viešpačiu, globai, tikėdamiesi miesto apsaugos ir prekybos sėkmės.
+Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys.
 
 ## Teiginiai
 
-<a id="claim-t-201514"></a>
+<a id="claim-t-201178"></a>
 - t-001
-  global_id: t-201514
-  teiginys: "Tyrą, pasak Daukanto, penicijonys pavedė dievo, vadinamo Tyro bočiumi arba viešpačiu, globai, tikėdamiesi miesto apsaugos ir prekybos sėkmės."
+  global_id: t-201178
+  teiginys: "Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184864
-- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
-- susijęs iš Heilsbergo pilis (pilis): Kryžėjai įsilaužė į Heilsbergo pilį, iškirto arba pavergė jos įgulą ir, Daukanto vertinimu, taip nuniokojo visą Parusnį.
-- susijęs iš Meruniškė (vieta): Daukanto pasakojime kryžėjų magistras su raitija įsiveržė į Meruniškę, sugriovė 18 pilių, prisigrobė turto ir išsivedė daug belaisvių.
-- susijęs iš Pragaro upė: Otokaras su kryžiuočiais kariavo su samionais ir kitais žemaičiais tarp Pragaro ir Nemuno upių.
-- susijęs iš Tvangstė (vieta): Daukanto pasakojime Otokaras prie Tvangstės girios aptiko paupio kalną, ant kurio ketino statyti miestą ir pilį, tačiau po pamatų padėjimo kitąmet grįžo namo.
+    - c-184528
+
 ## Citatos
 
-- id: c-184864
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 26"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 26."
+- id: c-184528
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Regis, jog tą vaisių žemaičių žemės gavo saulė­
     tekio tautos nuo penicijonų, kurie, pagirti senovėj
@@ -72,8 +73,9 @@ Tyrą, pasak Daukanto, penicijonys pavedė dievo, vadinamo Tyro bočiumi arba vi
     jukynus ir pilės, kurias buvo įkūrę svetimuose kraš­
     tuose, norėdami su jais prekioti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201514
+    - t-201178

@@ -41,6 +41,19 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
 - t-001
   global_id: t-58706
   teiginys: "1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romos karalius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milanas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Romos karalius: mention_match, thing, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milanas\" parinktas kaip owner_note_path. Targetas \"Romos karalius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą."
   pagrindžia:
     - c-59338
 - susijęs iš [[objektai/ivykiai/Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m.md#claim-t-191020|Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m]]: Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo.
@@ -80,12 +93,17 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    107. Apie jo vainikavimą prie Milano
+    Apie jo vainikavimą prie Milano
 
       1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
     vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
-  citata_rodoma: "Apie jo vainikavimą prie Milano\n\n  1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,\nvainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446)."
+  citata_rodoma: |
+    Apie jo vainikavimą prie Milano
+
+      1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
+    vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

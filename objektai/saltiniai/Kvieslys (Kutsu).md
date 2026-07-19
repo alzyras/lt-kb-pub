@@ -45,6 +45,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195219
   teiginys: "Kviečiant į A. R. Niemio įžengiamąją paskaitą buvo išleistas „Kvieslys (Kutsu)“ su jo curriculum vitae ir mokslo darbų sąrašu."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177585
 
@@ -63,8 +67,12 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Kvie­
     čiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­
     me įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų.
-  citata_rodoma: "Kvie­\nčiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­\nme įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų."
+  citata_rodoma: |
+    Kvie­
+    čiant į tą paskaitą, buvo išleistas tam tikras Kvieslys (Kutsu), kuria­
+    me įdėtos a. a. velionies curriculum vitae ir sąrašas jo mokslo darbų.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -35,6 +35,20 @@ Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Euro
 - t-001
   global_id: t-200828
   teiginys: "Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Europos stilių istoriją nuo gotikos iki empiro."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kuri: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Europa (sąvoka): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuri: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa (sąvoka)\" parinktas kaip owner_note_path. Targetas \"Kuri\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184173
 
@@ -54,6 +68,7 @@ Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Euro
     juoti meno istoriją ne iš vadovėlių, o iš pačių meno šedevrų; jis gali tapti
     neišsemiamu estetinio jaunosios kartos auklėjimo šaltiniu.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

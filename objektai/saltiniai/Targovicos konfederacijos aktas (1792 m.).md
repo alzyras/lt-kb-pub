@@ -38,6 +38,16 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - t-001
   global_id: t-02290
   teiginys: "Targovicos konfederacija taip vadinama dėl vietos, kurioje buvo paskelbtas jos aktas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Targovicos konfederacijos aktas (1792 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Targovicos konfederacijos aktas (1792 m.)\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02528
 
@@ -45,6 +55,17 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - t-002
   global_id: t-02291
   teiginys: "Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Targovicos konfederacijos aktas (1792 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Targovicos konfederacijos aktas (1792 m.)\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-02529
 
@@ -62,14 +83,16 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: "Ta konfederacija dėl jos akto pa-\nskelbimo vietos yra vadinama Targovicos konfederacija."
+  citata_rodoma: |
+    Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02290
-
 - id: c-02529
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -82,8 +105,13 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
     aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
     rusai esą jų sąjungininkai.
-  citata_rodoma: "Opozicionieriai, atvykę į Targovicos\nmiestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos\naktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;\nrusai esą jų sąjungininkai."
+  citata_rodoma: |
+    Opozicionieriai, atvykę į Targovicos
+    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
+    aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
+    rusai esą jų sąjungininkai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

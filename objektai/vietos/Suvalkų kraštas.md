@@ -34,6 +34,16 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-001
   global_id: t-95214
   teiginys: "Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Suvalkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suvalkų kraštas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suvalkų kraštas\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46739
 
@@ -41,6 +51,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-002
   global_id: t-95216
   teiginys: "Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90172
 
@@ -48,6 +61,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-003
   global_id: t-95217
   teiginys: "Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90175
 
@@ -55,6 +71,16 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-004
   global_id: t-95219
   teiginys: "Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Suvalkų kraštas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suvalkų kraštas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-90170
 
@@ -62,6 +88,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-005
   global_id: t-95220
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą)."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-90171
 
@@ -69,6 +98,12 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-006
   global_id: t-193234
   teiginys: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175971
 
@@ -87,14 +122,22 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
     vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
-  citata_rodoma: "Pati\nreforma iš pradžių buvo padaryta tik vakarinėje valstybės da-\nlyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose\nsrityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien\nsavo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.\nvidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki\nmūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė\nvienkiemiais XIX amž."
+  citata_rodoma: |
+    Pati
+    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
+    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
+    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
+    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
+    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
+    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
+    vienkiemiais XIX amž.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95214
-
 - id: c-90170
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -107,12 +150,12 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
     dvarų juose buvo mažiau.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95219
-
 - id: c-90171
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -127,14 +170,17 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
-  citata_rodoma: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,\nnes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko\ndaugiau nesitikėjo gauti."
+  citata_rodoma: |
+    Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
+    nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
+    daugiau nesitikėjo gauti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95220
-
 - id: c-90172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -148,14 +194,17 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     riomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
-  citata_rodoma: "Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.\nvisas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-\ntingos ir Telšių apskričių dalys."
+  citata_rodoma: |
+    Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
+    visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
+    tingos ir Telšių apskričių dalys.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95216
-
 - id: c-90175
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -166,12 +215,12 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95217
-
 - id: c-175971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -187,6 +236,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     daugiau nesitikėjo gauti. Jam pasitraukus, turėjo atsitraukti ir
     Jogaila.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

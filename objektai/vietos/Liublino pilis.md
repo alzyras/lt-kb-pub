@@ -1,13 +1,9 @@
 ---
 tipas: vieta
-pavadinimas: 'Liublino pilis (pilis)'
+pavadinimas: 'Liublino pilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-variantai:
-  - 'Liublino pilis'
-aliases:
-  - 'Liublino pilis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Liublino pilis (pilis)
+# Liublino pilis
 
 ## Santrauka
 
@@ -37,13 +33,27 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 - t-001
   global_id: t-199545
   teiginys: "Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia atribucijos, nes citata perteikia Vytauto pirmojo asmens skundą ir vertinimo kontekstą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182302
-
+    - c-170640
 <a id="claim-t-201080"></a>
 - t-002
   global_id: t-201080
-  teiginys: "Daukanto pasakojime lenkai, dar nebaigę karo su lietuviais, pradėjo karą su gudais, tikėdamiesi iš jų atimti prieš 57 metus užimtą Liublino pilį."
+  teiginys: "Tą metą lenkai, nenubengę dar su visu karės su lietuviais, ėmė gudus kariauti, vildamos atimsią nuo jų Liublino pilį, pirm 57 metų užimtą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184430
 
@@ -60,20 +70,26 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     kėjimą.
     Jau metai laiko nūnai, kai kunigaikštis [Jogailai
     Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
-    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu.
-  citata_rodoma: "Tai buvo iš jų pusės daroma man didelė neteisybė, kad \njie prieš mano valią spyrė, kad aš priimčiau rusų ti­\nkėjimą.\nJau metai laiko nūnai, kai kunigaikštis [Jogailai \nLiublino pilyje užrašė kunigaikščiui Skirgailai raštais \nvisą mano tėviškę mano akivaizdoje6 . Man tai buvo \nlabai skaudu."
+  citata_rodoma: |
+    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
+    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
+    kėjimą.
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    labai skaudu.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199545
-
 - id: c-184430
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 494"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 494."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą metą lenkai, nenubengę dar su visu karės su
     lietuviais, ėmė gudus kariauti, vildamos atimsią
@@ -88,8 +104,27 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     susitaikino su kalavijonimis ant to, jog visas Pa-
     daugavys priguli kaipo veldėmė ir turtas šv.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201080
+- id: c-170640
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
+    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
+    kėjimą.
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    labai skaudu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199545

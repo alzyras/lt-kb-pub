@@ -46,6 +46,20 @@ Nenurodyta
 - t-001
   global_id: t-185711
   teiginys: "Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių kariuomenės kartu su lenkais tiesiogiai įsiveržė į Prūsiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Lenkai puolė Prūsija (0.83)"
   pagrindžia:
     - c-169072
 
@@ -53,6 +67,13 @@ Nenurodyta
 - t-002
   global_id: t-196175
   teiginys: "Kojelavičiaus pasakojime Vytautas, nepasitikėdamas Švitrigaila ir bijodamas neramumų žygio į Prūsiją metu, liepė jį suimti ir įkalinti Kremenece."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178568
 
@@ -86,14 +107,30 @@ Nenurodyta
     kariuomenei patraukus į Prūsiją, namie gali kilti kokie
     neramumai, todėl liepė šį suimti ir įkalinti Kremeneco
     kalėjime.
-  citata_rodoma: "Atsi­\ndūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­\nmantą, vėliau, tarpininkaujant imperatoriui bei karaliui\nJogailai, vargais negalais susitaikė su Vytautu. Tuo\nmetu prasidėjo karas su Prū-\nPrūdėtas\nkaras\nsu\nsija. Lenkų ir lietuvių kariuo-\nPrūsija\nmenės, peržengusios sienas,\nnetruko įsiveržti į šį kraštą;\nvisi, o ypač valdovai Jogaila bei Vytautas, ketino ne­\ngailint jėgų pergalingai užbaigti ilgą ir sunkų karą,\ntrokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams\nliktų arba ramūs bei klusnūs, arba draugiški."
+  citata_rodoma: |
+    Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu. Tuo
+    metu prasidėjo karas su Prū-
+    Prūdėtas
+    karas
+    su
+    sija. Lenkų ir lietuvių kariuo-
+    Prūsija
+    menės, peržengusios sienas,
+    netruko įsiveržti į šį kraštą;
+    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
+    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
+    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
+    liktų arba ramūs bei klusnūs, arba draugiški.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185711
-
 - id: c-178568
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -115,6 +152,7 @@ Nenurodyta
     mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
     Jogailai, vargais negalais susitaikė su Vytautu.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

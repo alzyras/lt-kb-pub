@@ -59,6 +59,16 @@ Nenurodyta
 - t-001
   global_id: t-54733
   teiginys: "Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas."
+  atnaujinta: "2026-05-27 06:24"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Parakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Parakas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55714
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
@@ -99,8 +109,18 @@ Nenurodyta
     imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
     grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
     atgal į Prūsiją.
-  citata_rodoma: "Taip įvairioms kautynėms ir ginčams besitęsiant praėjo \npenkios sunkios apsupties savaitės lenkų įgulai Aukštuti­\nnėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­\nkybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­\nriaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi \nir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­\nimtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema \ngrėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti \natgal į Prūsiją."
+  citata_rodoma: |
+    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
+    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
+    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
+    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
+    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
+    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
+    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
+    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
+    atgal į Prūsiją.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

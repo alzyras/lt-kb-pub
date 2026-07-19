@@ -32,9 +32,24 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
 - t-001
   global_id: t-190118
   teiginys: "Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Palemonas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Spera Palemonaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Palemonas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Sperą Palemonaitį Palemono sūnumi."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Spera Palemonaitis buvo sūnus Palemonas (0.95)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173001
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.'
@@ -55,8 +70,7 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190118
 ## Citatos
 
 - id: c-173001
@@ -74,13 +88,22 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
     ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
     nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
     (Betygola) pavadinimas.
-  citata_rodoma: "219\n\n## Puslapis 219\n\nbai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­\nmas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­\nlingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­\nsimas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-\nmiškasis raidynas?"
+  citata_rodoma: |
+    219
+
+    ## Puslapis 219
+
+    bai“. Šitas neįkainojamas mūsų senovės paminklas -  tai įrody­
+    mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­
+    lingas žmogus, nes kaldino auksinius medalius. Tiktai kyla klau­
+    simas: ar XI amžiuje, kuriame gyveno Spera, egzistavo biar-
+    miškasis raidynas?
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190118
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Palemonas]]

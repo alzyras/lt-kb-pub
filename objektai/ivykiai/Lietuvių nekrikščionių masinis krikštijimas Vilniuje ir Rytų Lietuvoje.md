@@ -65,6 +65,12 @@ Nenurodyta
 - t-001
   global_id: t-186717
   teiginys: 'Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas komentarą minintis įvadas ir išlaikytas faktinis turinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Miro; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1393 m.; įvykio data: po 1410 m.; įvykio data: 1410 m.; įvykio data: 1428 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas komentarą minintis įvadas ir išlaikytas faktinis turinys.'
   pagrindžia:
     - c-169945
 
@@ -85,8 +91,9 @@ Nenurodyta
     (jį smulkiai aprašė J . Dlugošas).
   citata_rodoma: "Kalbama apie lietuvių nekrikščionių masin) krikštijim ą ka­\ntalikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje \n(jį smulkiai aprašė J . Dlugošas)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186717

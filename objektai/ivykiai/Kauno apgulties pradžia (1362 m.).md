@@ -52,6 +52,12 @@ Nenurodyta
 - t-001
   global_id: t-196176
   teiginys: "Pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-178569
 
@@ -75,6 +81,7 @@ Nenurodyta
     karius. Pavasario pradžioje jis ir išvedė abi kariuo­
     menes į Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

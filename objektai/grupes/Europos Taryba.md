@@ -44,6 +44,20 @@ media_all_json: |-
 - t-001
   global_id: t-19687
   teiginys: "1993 m. Lietuva buvo priimta į Europos Tarybą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Europos Taryba (institucija): 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Europos Taryba (institucija): llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Priėmimas į Europos Tarybą tiesiogiai reiškia Lietuvos priklausymą šiai organizacijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuva priklausė Europos Taryba (institucija) (0.91)"
+  temporaliniai_duomenys: "įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys apima kelias organizacijas; citata pagrindžia aiškų sakinį apie Europos Tarybą."
   pagrindžia:
     - c-22392
 
@@ -64,13 +78,14 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: "(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą"
+  citata_rodoma: |
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19687
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

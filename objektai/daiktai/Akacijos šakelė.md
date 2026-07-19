@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189716
   teiginys: 'Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, subjektas susietas su taurės atvaizdu. Nepridėta simbolinės reikšmės, nes teiginiui pakanka pavaizdavimo fakto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-172599
 - susijęs iš [[objektai/daiktai/Masonų taurės raižinio objektai.md#claim-t-189730|Masonų taurės raižinio objektai]]: Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.
@@ -84,8 +89,9 @@ Nenurodyta
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
     čiausiąjį protą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189716

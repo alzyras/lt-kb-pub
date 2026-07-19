@@ -40,8 +40,20 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
 - t-001
   global_id: t-184471
   teiginys: "Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas Valkūnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas Valkūnas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167830
+    - c-001
 - susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186443|Juozas Jurginis]]: Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
 ## Reikšmingi paminėjimai
@@ -74,8 +86,7 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-184471
 ## Citatos
 
 - id: c-167830
@@ -96,8 +107,28 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
     „kiekvienas matys, jog varna puošiasi svetimomis
     plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
     ninį.
-  citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
+  citata_rodoma: |
+    BBK-63.3(2L)
+    Vi-109
+    Spausdinama pagal leidinį:
+    Albertas Vijūkas-Kojelavičius
+    LIETUVOS ISTORIJA, V., Vaga, 1988
+    REDAKCINE KOM ISIJA
+    J. LANKUTIS (pirm ininkas),
+    A. JOVAIŠAS, A. MALDONIS, V. MERKYS,
+    E. ULČINAITĖ, H. ZABULIS
+    Įvadą ir paaiškinim us parašė
+    JUOZAS JURGINIS
+    Iš lotynų ka!bos_vertė
+    LEONAS VALKŪNAS
+    V
+    0503020908—250
+    -----------------------  Prot. Nr.
+    M853(10)—89
+    1—89
+    (6) Vertimas, įvadas, paaiškinimai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,8 +40,19 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
 - t-001
   global_id: t-191674
   teiginys: "Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų straipsnį apie gintarą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1837 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pataisytas pagal citatos leidinio pavadinimą ir tiesioginį veiksmą „parašė“. Nepridėta straipsnio turinio ar publikacijos detalių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174556
+    - c-001
 - susijęs iš Muzeum Domome: Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,8 +67,7 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191674
 ## Citatos
 
 - id: c-174556
@@ -74,8 +84,11 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
     Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
     teigiama, neseniai atradęs didelių gintaro klodų1 Avos
     karalystėje.
-  citata_rodoma: "2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą\nparašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837)."
+  citata_rodoma: |
+    2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
+    parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

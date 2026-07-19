@@ -42,6 +42,9 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07690
   teiginys: "Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09620
 
@@ -49,6 +52,9 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07691
   teiginys: "Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09620
 
@@ -69,8 +75,13 @@ Papildomos aiškios formos neišskirtos.
         manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
-  citata_rodoma: "Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su\nneprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai\ngodojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo\ngalvą padėję."
+  citata_rodoma: |
+    Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
+    neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
+    godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
+    galvą padėję.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

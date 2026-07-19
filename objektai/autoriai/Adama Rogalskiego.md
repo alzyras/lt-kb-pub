@@ -41,6 +41,13 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
 - t-001
   global_id: t-194846
   teiginys: "Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177242
 
@@ -58,6 +65,7 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
     zenie Adama Rogalskiego // Dziennik Wileñski. -
     1823. - T. I, III. - S. 248-255; 398-406).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

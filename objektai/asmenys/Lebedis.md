@@ -33,6 +33,9 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-001
   global_id: t-87540
   teiginys: "Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83520
 
@@ -40,6 +43,9 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-002
   global_id: t-87541
   teiginys: "Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83519
 
@@ -54,14 +60,17 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms
     Varšuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­
     vo Krokuvoje, pridėjo 3 flor., 19 gr.
-  citata_rodoma: "Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms \nVaršuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­\nvo Krokuvoje, pridėjo 3 flor., 19 gr."
+  citata_rodoma: |
+    Die 1  10 bris [gruodžio 1 dieną] Lebedis liet. monetoms
+    Varšuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­
+    vo Krokuvoje, pridėjo 3 flor., 19 gr.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87541
-
 - id: c-83520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -70,6 +79,7 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     Be to, Lebedis mokėjo skolas lietuviškomis monetomis,
     pridėjau 69 flor., 4 gr., 9 den.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

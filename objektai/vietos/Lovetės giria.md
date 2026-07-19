@@ -34,6 +34,12 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 - t-002
   global_id: t-197893
   teiginys: "Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179385
 
@@ -41,9 +47,13 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 - t-001
   global_id: t-192882
   teiginys: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Ilgas vietovių sąrašas sutrumpintas iki teiginio apie Lovetės girią. Vietovės vardo forma palikta su Narbuto atribucija.'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Bernas; mentioned_place: Drūsinė; mentioned_place: Drūsinės ežeras; mentioned_place: Elbingas; mentioned_place: Pagudė'
   pagrindžia:
-    - c-175652
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
@@ -64,13 +74,12 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
     su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės
     ežeras.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192882
 ## Citatos
 
 - id: c-179385
@@ -87,6 +96,7 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
     Lovetės, Loweten, giria, kita — tarp Steno ir Malborko,
     nemažai didžiulių miškų plytėjo prie Drūsinės ežero.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

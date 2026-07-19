@@ -33,6 +33,12 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
 - t-001
   global_id: t-194317
   teiginys: "Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176909
 
@@ -54,6 +60,7 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
     mas, o vėliau - negandos ir permainingas likimas, kuris Vilniui
     nuo pat jo gyvavimo pradžios buvo skirtas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

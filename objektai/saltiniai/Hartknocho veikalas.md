@@ -32,6 +32,11 @@ Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemup
 - t-001
   global_id: t-190491
   teiginys: 'Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemupyje, pavyzdį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Fragmentas paverstas sakiniu apie Hartknocho veikalą kaip kalbos pavyzdžio šaltinį. Maldos teksto ir puslapio triukšmo neperkelta.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-173374
 
@@ -56,8 +61,9 @@ Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemup
     tawo; te atejg tawo karaliste; te nusi dode tawo walle kaip dau­
     giu tejp ir ant žemes.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190491

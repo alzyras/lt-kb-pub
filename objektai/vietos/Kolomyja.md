@@ -39,6 +39,12 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
 - t-001
   global_id: t-187234
   teiginys: 'Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys suformuluotas taisyklingai apie Kolomyjos lokalizaciją pagal citatą. Sovietinis administracinis kontekstas neplėstas, nes pakanka geografinės informacijos.'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_place: Prutas; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į atsargesnę lokalizavimo formą pagal paaiškinamąją pastabą. Nepridėta dabartinės administracinės priklausomybės už citatos ribų.'
   pagrindžia:
     - c-170299
 
@@ -46,6 +52,13 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
 - t-002
   global_id: t-187235
   teiginys: 'Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata. Jis aiškiai susieja Steponą su Kolomyja ir data.'
+  susije_objektai: 'llm_object: Kolomyja; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] keliavo į Kolomyja'
+  temporaliniai_duomenys: 'kelionės data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie Stepono atvykimą į Kolomyją. Papildomos interpretacijos ar motyvų nepridėta.'
   pagrindžia:
     - c-170301
 
@@ -53,6 +66,12 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
 - t-003
   global_id: t-187236
   teiginys: 'Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir ten išbuvo iki rugsėjo 18 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išlaikytas aiškus subjektas, data ir vieta, pataisyta sakinio forma. Nepridėta informacijos už citatos ribų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Kolomyją kaip Kazimiero buvimo vietą. Citata tiesiogiai nurodo atvykimo ir išvykimo datas.'
   pagrindžia:
     - c-170299
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
@@ -76,13 +95,13 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
     389).
   citata_rodoma: "1 3  Kolomyja — dabar Ukrainos TSR Ivano Franko sr. miestas \n(prie Pruto upės, apie 160 km j pietryčius nuo Lvovo). Lenkijos \nkaralius Kazimieras atvyko į Kolomyją 1485 m. rugpiūčio 24 d \nir išbuvo ten  Ugi rugsėjo 18 d. (F. Papėe, Polska i Litwa, I, p. 198, \n389)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-
+    - t-187234
+    - t-187236
 - id: c-170301
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -97,8 +116,9 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
     tarp rugsėjo 6 ir 12 d.
   citata_rodoma: "IS  Moldavijos vaivada Steponas atvyko j Kolomyją 1485 m. \ntarp rugsėjo 6 ir 12 d."
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-187235

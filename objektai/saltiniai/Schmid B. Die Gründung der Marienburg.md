@@ -38,9 +38,15 @@ Dusburgietis teigia, kad schmid B.
 - t-001
   global_id: t-61287
   teiginys: "B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį."
   pagrindžia:
     - c-61919
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
@@ -54,8 +60,7 @@ Dusburgietis teigia, kad schmid B.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61287
 ## Citatos
 
 - id: c-61919
@@ -66,8 +71,11 @@ Dusburgietis teigia, kad schmid B.
     Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.
-  citata_rodoma: "Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg\ni. Pr., 1929, Heft 2, S. 191—200."
+  citata_rodoma: |
+    Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
+    i. Pr., 1929, Heft 2, S. 191—200.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

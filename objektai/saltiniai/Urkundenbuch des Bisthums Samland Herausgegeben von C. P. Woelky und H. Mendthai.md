@@ -41,9 +41,22 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
 - t-001
   global_id: t-61331
   teiginys: "„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> C. P. Woelky: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "C. P. Woelky: mention_match, author, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai\" parinktas kaip owner_note_path. Targetas \"C. P. Woelky\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1898 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia rengėjus ir leidimo metus."
   pagrindžia:
     - c-61963
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
@@ -58,8 +71,7 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61331
 ## Citatos
 
 - id: c-61963
@@ -71,8 +83,12 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
     1951.
     Лаучюте Ю. А. Древняя и древнейшая территория расселения балтских племен:
     Сопоставление результатов лингвистических и археологических исследований.
-  citata_rodoma: "Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.\nMendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.\nOstpreussischer Theil. II Abtheilung, Bd. 2)."
+  citata_rodoma: |
+    Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
+    Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.
+    Ostpreussischer Theil. II Abtheilung, Bd. 2).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

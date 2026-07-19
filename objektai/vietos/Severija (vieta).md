@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Severiją priskiria Algirdo valdytiems kraštams ir teigia, kad Daukanto laikais joje tebebuvo remiamasi Lietuvos įstatymais.
+Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija.
 
 ## Teiginiai
 
 <a id="claim-t-201153"></a>
 - t-001
   global_id: t-201153
-  teiginys: "Daukantas Severiją priskiria Algirdo valdytiems kraštams ir teigia, kad Daukanto laikais joje tebebuvo remiamasi Lietuvos įstatymais."
+  teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184503
-- susijęs iš [[objektai/ivykiai/Gedimino žygis į Volyniją, Lucką, Drohičiną ir Brestą.md#claim-t-201283|Gedimino žygis į Volyniją, Lucką, Drohičiną ir Brestą]]: Po Volynijos nukariavimo Gediminas žygiavo prieš Lucko kunigaikštį Levą, be kovos įėjo į Lucką ir užėmė Drohičiną su Brestu.
+
 ## Citatos
 
 - id: c-184503
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 659"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 659."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veltui
     nori šiandien tūli neprieteliai Lietuvos ir Žemaičių
@@ -73,11 +78,9 @@ Daukantas Severiją priskiria Algirdo valdytiems kraštams ir teigia, kad Daukan
     tarp Yslos ir Nemuno Žemaičių pašalį užėmė ir Pa-
     daugavy užsiturėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201153
-
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -42,6 +42,20 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
 - t-001
   global_id: t-40314
   teiginys: "Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Mogiliavas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "M. K. Pacas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja M. K. Paco karius su Mogiliavo apgultimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "M. K. Pacas apgulė Mogiliavas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1660 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-44440
 
@@ -58,8 +72,12 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
     1660 m. dalyvavo kovose su švedais. Žuvo
     1665 metais prie Mogiliavo, kai miestą buvo
     apgulę lauko etmono M. K. Paco kariai.
-  citata_rodoma: "Žuvo\n1665 metais prie Mogiliavo, kai miestą buvo\napgulę lauko etmono M. K. Paco kariai."
+  citata_rodoma: |
+    Žuvo
+    1665 metais prie Mogiliavo, kai miestą buvo
+    apgulę lauko etmono M. K. Paco kariai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

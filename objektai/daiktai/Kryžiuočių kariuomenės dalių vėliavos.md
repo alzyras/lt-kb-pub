@@ -65,6 +65,17 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - t-003
   global_id: t-186824
   teiginys: "Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai."
+  atnaujinta: "2026-06-16 11:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių kariuomenės dalių vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių kariuomenės dalių vėliavos\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-170006
 
@@ -72,6 +83,18 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - t-004
   global_id: t-186825
   teiginys: "Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį."
+  atnaujinta: "2026-06-16 11:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių kariuomenės dalių vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių kariuomenės dalių vėliavos\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-170008
 
@@ -79,6 +102,17 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - t-005
   global_id: t-186826
   teiginys: "Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos."
+  atnaujinta: "2026-06-16 11:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kryžiuočių kariuomenės dalių vėliavos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių kariuomenės dalių vėliavos\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-170009
 
@@ -86,16 +120,26 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - t-001
   global_id: t-186822
   teiginys: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]'
+  temporaliniai_duomenys: 'įvykio data: 1454 m.; įvykio data: 1529 m.; įvykio data: 1550 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
   pagrindžia:
-    - c-170010
-
+    - c-005
 <a id="claim-t-186823"></a>
 - t-002
   global_id: t-186823
   teiginys: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.; įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
   pagrindžia:
-    - c-170007
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
@@ -107,13 +151,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     sudegusių per 1529 m Vilniaus gaisrą, mini Mykolas Lietuvis
     (Apie totorių, lietuvių ir maskvėnų papročius. V. 1966. p. t> 0).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186823
 - c-005
   santrauka: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -129,13 +172,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     vėliavos, laimėtos Žalgirio mūšyje, „yra pakabintos"
     Vilniaus katedroje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186822
 ## Citatos
 
 - id: c-170006
@@ -148,14 +190,19 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
     gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
     damas apie Tanenbergo mūšį.
-  citata_rodoma: "Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.\ngale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-\ndamas apie Tanenbergo mūšį."
+  citata_rodoma: |
+    Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
+    gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
+    damas apie Tanenbergo mūšį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186824
-
 - id: c-170008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,14 +212,18 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
     Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
     nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
-  citata_rodoma: "PRIEDĖLIŲ PAAIŠKINIMAI\n**I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**\nTanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-\nnės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį."
+  citata_rodoma: |
+    PRIEDĖLIŲ PAAIŠKINIMAI
+    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
+    Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
+    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186825
-
 - id: c-170009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -181,8 +232,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
     šiuose. Dabar jos jau yra žuvusios.
-  citata_rodoma: "Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie\nto rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-\nšiuose. Dabar jos jau yra žuvusios."
+  citata_rodoma: |
+    Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

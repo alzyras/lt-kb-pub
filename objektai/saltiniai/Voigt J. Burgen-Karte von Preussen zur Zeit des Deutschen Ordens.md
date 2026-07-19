@@ -33,9 +33,12 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61351
   teiginys: "J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61983
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome.'
@@ -49,8 +52,7 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61351
 ## Citatos
 
 - id: c-61983
@@ -62,8 +64,11 @@ Dusburgietis teigia, kad voigt J.
     с. 3—8.
     Охманьский Е. Иноземные поселения в Литве XIII—XIV вв. в свете этнонимических
     местных названий.
-  citata_rodoma: "Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte\nPreussens, Bd. 2."
+  citata_rodoma: |
+    Voigt J. Burgen-Karte von Preussen zur Zeit des Deutschen Ordens.—oVigt J. Geschichte
+    Preussens, Bd. 2.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

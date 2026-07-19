@@ -51,6 +51,20 @@ media_all_json: |-
 - t-001
   global_id: t-06869
   teiginys: "1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Pilėnai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pilėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai kalba apie Pilėnų pilies gynimą ir nurodo, kad lietuviai didvyriškai gynėsi, todėl ryšys lietuviai gynė Pilėnus yra pagrįstas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Lietuviai gynė Pilėnai (0.90); Lietuviai buvo priešas Vokiečiai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1336 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį faktinį sakinį be boilerplate."
   pagrindžia:
     - c-00369
 
@@ -67,8 +81,11 @@ media_all_json: |-
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: "Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-\nginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.)."
+  citata_rodoma: |
+    Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
+    ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

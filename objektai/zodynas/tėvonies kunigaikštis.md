@@ -33,6 +33,11 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
 - t-001
   global_id: t-187562
   teiginys: 'Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Titulavimas ir kronikos formuluotė turi likti priskirti šaltiniui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-170512
 
@@ -50,8 +55,9 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
     Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
     Jurijaus3 8 .
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187562

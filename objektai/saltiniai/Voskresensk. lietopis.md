@@ -32,6 +32,9 @@ b) Voskresensk.
 - t-001
   global_id: t-36127
   teiginys: "„Voskresensk. lietopis“ cituoja Vytauto žodžius apie ketinimą nugalėti carą Temir Kutlujų ir pasodinti Tachtamyšą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38439
 
@@ -48,8 +51,13 @@ b) Voskresensk.
     golišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo
     jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
     Vielikom kniaženii, na vsiej ruskoj ziemli" ...
-  citata_rodoma: "b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-\ngolišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo\njego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na\nVielikom kniaženii, na vsiej ruskoj ziemli\" ..."
+  citata_rodoma: |
+    b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-
+    golišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo
+    jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
+    Vielikom kniaženii, na vsiej ruskoj ziemli" ...
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

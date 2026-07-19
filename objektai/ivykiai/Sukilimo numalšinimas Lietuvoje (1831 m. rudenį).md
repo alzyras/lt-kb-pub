@@ -55,6 +55,19 @@ Nenurodyta
 - t-001
   global_id: t-66913
   teiginys: "1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sukilimo numalšinimas Lietuvoje (1831 m. rudenį): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67006
 
@@ -71,8 +84,11 @@ Nenurodyta
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: "Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo\nlikviduotas sukilimas."
+  citata_rodoma: |
+    Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
+    likviduotas sukilimas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

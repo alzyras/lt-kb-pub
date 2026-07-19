@@ -14,6 +14,8 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
+import { isObjectPage } from "../util/citationFilter"
+import { collectEvidenceIntegrityIssues } from "../util/evidenceIntegrity"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
@@ -94,6 +96,21 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
 
+        const relativePath = path.posix.relative(argv.directory, fp)
+        if (isObjectPage(relativePath)) {
+          const integrityIssues = collectEvidenceIntegrityIssues(file.value.toString())
+          if (integrityIssues.length > 0) {
+            const summary = integrityIssues
+              .slice(0, 8)
+              .map(
+                (issue) =>
+                  `${issue.code}:${issue.entryId}${issue.relatedId ? `->${issue.relatedId}` : ""}`,
+              )
+              .join(", ")
+            throw new Error(`Evidence integrity failed for ${relativePath}: ${summary}`)
+          }
+        }
+
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
           file.value = plugin.textTransform!(ctx, file.value.toString())
@@ -102,7 +119,7 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         // base data properties that plugins may use
         file.data.filePath = file.path as FilePath
         file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
-        file.data.slug = slugifyFilePath(file.data.relativePath)
+        file.data.slug = ctx.slugMap[file.data.relativePath] ?? slugifyFilePath(file.data.relativePath)
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)
@@ -181,6 +198,7 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
       argv: ctx.argv,
       allSlugs: ctx.allSlugs,
       allFiles: ctx.allFiles,
+      slugMap: ctx.slugMap,
       incremental: ctx.incremental,
     }
 

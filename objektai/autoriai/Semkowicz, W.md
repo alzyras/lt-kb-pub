@@ -42,6 +42,18 @@ Semkowicz, W.
 - t-001
   global_id: t-30979
   teiginys: "W. Semkowiczius parašė darbą „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“, paskelbtą 1930 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Semkowicz, W: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Semkowicz, W\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1930 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33138
 
@@ -61,8 +73,15 @@ Semkowicz, W.
     483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: "— Semkowicz, W. : Pierwsze\nprzywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,\n348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit\ndes Koustanzer Konzils , Diss. Freiburg i. Br. 1923. — Sužiedėlis, S. :\nVytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-\n483 p."
+  citata_rodoma: |
+    — Semkowicz, W. : Pierwsze
+    przywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,
+    348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit
+    des Koustanzer Konzils , Diss. Freiburg i. Br. 1923. — Sužiedėlis, S. :
+    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
+    483 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

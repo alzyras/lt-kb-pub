@@ -44,6 +44,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195228
   teiginys: "A. R. Niemio „Lietuvių vestuvių apeigos“ paskelbta Suomių ugrų draugijos Memuaruose XXXV."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177594
 
@@ -60,8 +64,13 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Suomių ugrų dr-jos
     Memuarai
     XXXV.
-  citata_rodoma: "L. Lietuvių vestuvių apeigos. \nSuomių ugrų dr-jos \nMemuarai \nXXXV."
+  citata_rodoma: |
+    L. Lietuvių vestuvių apeigos.
+    Suomių ugrų dr-jos
+    Memuarai
+    XXXV.
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

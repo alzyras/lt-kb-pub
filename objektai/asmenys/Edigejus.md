@@ -42,6 +42,7 @@ Nenurodyta
     Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
     lėjui, visi kaip vienas paspruko iš kovos lauko.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -60,6 +60,10 @@ Socialinė ir prekybinė grupė.
 - t-001
   global_id: t-195513
   teiginys: "Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177936
 
@@ -67,6 +71,10 @@ Socialinė ir prekybinė grupė.
 - t-002
   global_id: t-195514
   teiginys: "Vaikams kromininkas ir Leiba buvo lygios sąvokos."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177937
 
@@ -74,6 +82,10 @@ Socialinė ir prekybinė grupė.
 - t-003
   global_id: t-195515
   teiginys: "Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177934
 
@@ -81,6 +93,10 @@ Socialinė ir prekybinė grupė.
 - t-004
   global_id: t-195516
   teiginys: "Vėlesniu metu kromininkai po kaimus nebebuvo pėsti vaikščiotojai ir daugiau supirkdavo negu parduodavo."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177935
 
@@ -97,14 +113,15 @@ Socialinė ir prekybinė grupė.
     Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į
     vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reika­
     linga prekių.
-  citata_rodoma: "Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių."
+  citata_rodoma: |
+    Žydas kromininkas po Kalėdų įeina ne į ūkininkų grįčias, bet į vargšų grįčiukes, žinodamas, kad tuo laiku čia yra pinigų ir reikalinga prekių.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195515
-
 - id: c-177935
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -118,14 +135,15 @@ Socialinė ir prekybinė grupė.
     Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek
     perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus
     ir visokias nuliekamas smulkmenas.
-  citata_rodoma: "Šiandien kromininkai po kaimus nebevaikščioja. Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus ir visokias nuliekamas smulkmenas."
+  citata_rodoma: |
+    Šiandien kromininkai po kaimus nebevaikščioja. Ką beėję pėsti, jie važiuoja važiuoti ir ne tiek šį tą parduoda, kiek perka, būtent: odas, kailius, ašutus, paukščius, kiaušinius, skudurus ir visokias nuliekamas smulkmenas.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195516
-
 - id: c-177936
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -137,14 +155,15 @@ Socialinė ir prekybinė grupė.
     kiojęs šeimyną, pradeda metus.
     48.
     Kaimo žydai kromininkai.
-  citata_rodoma: "Kaimo žydai kromininkai."
+  citata_rodoma: |
+    Kaimo žydai kromininkai.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195513
-
 - id: c-177937
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -159,8 +178,10 @@ Socialinė ir prekybinė grupė.
     Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą,
     Mums,
     mažiems, kromininkas ir Leiba buvo lygios sąvokos.
-  citata_rodoma: "Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos."
+  citata_rodoma: |
+    Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos.
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

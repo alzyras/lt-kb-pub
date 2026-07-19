@@ -38,6 +38,11 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
 - t-001
   global_id: t-36032
   teiginys: "A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38401
 
@@ -53,8 +58,11 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
     duotą 1386 m. gegužės 10 d. Žiūr. A. Prochaska, Nieznany akt homogialny
     Witolda, Kwartalnik histor. IX t., 234 p.
     (^2) ) C. ep„ V., 234 nr., (^3) ) Žerb.
-  citata_rodoma: "Žiūr. A. Prochaska, Nieznany akt homogialny\nWitolda, Kwartalnik histor. IX t., 234 p."
+  citata_rodoma: |
+    Žiūr. A. Prochaska, Nieznany akt homogialny
+    Witolda, Kwartalnik histor. IX t., 234 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,13 +33,44 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - t-001
   global_id: t-191311
   teiginys: "Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Avitas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ricimeras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Avitas: mention_match, person, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ricimeras\" parinktas kaip owner_note_path. Targetas \"Avitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 457 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Ricimerą ir išlaiko Narbuto pasakojimo atribuciją dėl kronikinio konteksto. Nepridėti vertinamieji šaltinio epitetai apie Romos valstybės silpnumą ar Avitą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174193
-
+    - c-001
 <a id="claim-t-191975"></a>
 - t-002
   global_id: t-191975
   teiginys: "Narbutas pasakoja, kad Ricimeras, atsikratęs Majorijano, neteko vieningos imperijos valdžios ir imperijos vadovu iškėlė Severą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ricimeras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ricimeras\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174857
 
@@ -47,6 +78,12 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - t-003
   global_id: t-197811
   teiginys: "Imperatoriaus sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su darė beveik vien Italija, vadovu Severą ir šaukėsi pa galbos iš Konstantinopolio."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174857
 - susijęs iš [[objektai/asmenys/Avitas.md#claim-t-191371|Avitas]]: Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto.
@@ -78,8 +115,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191311
 ## Citatos
 
 - id: c-174193
@@ -102,14 +138,24 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     Su jais atvyko Orestas ir Eduka; pirmasis vadovavo miš­
     riai germanų kariuomenei, antrasis atėjo iš Noriko su
     herulais ir jų sąjungininkais, t. y. rugiais ir turcilingais.
-  citata_rodoma: "Einanti savo politinio gyvenimo saulė­\nlydžio link galinga Cezarių valstybė 457 metais, kai\naukščiausias svebų samdytas karvedys Ricimeras, pa­\nėmęs valdžią į savo rankas, pademonstravo ypatingą\nsilpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs\nAvitas, kurį po Genseriko užpuolimo visigotai išrinko\nimperatoriumi. Jis, Ricimerui įsakius, atsisakė savo aukš­\nto posto. Vietoj jo purpurais buvo padabintas Majorija-\nnas, kuris būtų buvęs vienas garbingiausių monarchų,\njei būtų valdęs ne tuo apverktinu žlugimo metu."
+  citata_rodoma: |
+    Einanti savo politinio gyvenimo saulė­
+    lydžio link galinga Cezarių valstybė 457 metais, kai
+    aukščiausias svebų samdytas karvedys Ricimeras, pa­
+    ėmęs valdžią į savo rankas, pademonstravo ypatingą
+    silpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs
+    Avitas, kurį po Genseriko užpuolimo visigotai išrinko
+    imperatoriumi. Jis, Ricimerui įsakius, atsisakė savo aukš­
+    to posto. Vietoj jo purpurais buvo padabintas Majorija-
+    nas, kuris būtų buvęs vienas garbingiausių monarchų,
+    jei būtų valdęs ne tuo apverktinu žlugimo metu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191311
-
 - id: c-174857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -126,6 +172,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

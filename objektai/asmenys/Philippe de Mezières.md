@@ -33,6 +33,17 @@ media_all_json: |-
 - t-001
   global_id: t-100077
   teiginys: "Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Philippe de Mezières: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Philippe de Mezières siūlė įtraukti lietuvius į kryžiaus žygį, taigi palaikė jų dalyvavimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Philippe de Mezières rėmė Lietuviai (0.58)"
   pagrindžia:
     - c-94002
 
@@ -49,6 +60,7 @@ media_all_json: |-
     prieš krikščionybės priešus pritraukti ir lietuvius^26. Lietuvių tauta,
     kuri—nuo XIII amž.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

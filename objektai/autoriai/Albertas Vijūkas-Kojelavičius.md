@@ -38,6 +38,20 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-001
   global_id: t-184459
   teiginys: "1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vilniaus Akademija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus Akademija: mention_match, group, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip owner_note_path. Targetas \"Vilniaus Akademija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pridėti svarbų kontekstą ir išplėsti inicialą į pilną vardą."
   pagrindžia:
     - c-167809
 
@@ -45,6 +59,20 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-002
   global_id: t-184460
   teiginys: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia gimimo metus ir vietą."
   pagrindžia:
     - c-167813
 
@@ -52,6 +80,19 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-003
   global_id: t-184603
   teiginys: "J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167964
 
@@ -59,6 +100,12 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-004
   global_id: t-193373
   teiginys: "Albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176098
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.
@@ -89,14 +136,18 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     pat metu daug rašė, retkarčiais gaudamas vadovauja­
     mų pareigų: trumpai ėjo vicekanclerio, o 1654 m. rek­
     toriaus pareigas be paskyrimo.
-  citata_rodoma: "1640 m., minint jėzuitų ordino įsteigimo šimto metų\nsukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­\ndaguotą kalbų rinkinį, kurių viena, skirta kancleriui,\nparašyta jo paties."
+  citata_rodoma: |
+    1640 m., minint jėzuitų ordino įsteigimo šimto metų
+    sukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­
+    daguotą kalbų rinkinį, kurių viena, skirta kancleriui,
+    parašyta jo paties.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184459
-
 - id: c-167813
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -106,14 +157,17 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: "Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno. Jo tėvai — smulkūs bajorai."
+  citata_rodoma: |
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no. Jo tėvai — smulkūs bajorai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184460
-
 - id: c-167964
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -132,29 +186,40 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     damas antgamtinėmis jėgomis ir žmonių prigimtimi,
     pirmtakui toli gražu neprilygo.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184603
-
 - id: c-176098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to visi it vienas pa­
-    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
-    kariuomenė, vargais negalais nužygiavusi dvi mylias,
-    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
-    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
-    sitraukė iš atviro lauko į stovyklą. Besitraukiantiems
-    ant kulnų lipo Konstantinas, tačiau, perdaug karštai
-    siekdamas pergalės, susilaukė pralaimėjimo: visiems
-    pulkams pasklidus atviroje lygumoje, parodė priešams,
-    kaip mažai teturi kariuomenės.
-  citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
+  citata_rodoma: |
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

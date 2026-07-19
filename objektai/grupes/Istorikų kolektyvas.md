@@ -33,6 +33,16 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 - t-001
   global_id: t-31193
   teiginys: "Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> B. Dundulis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Istorikų kolektyvas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "B. Dundulis: mention_match, author, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Istorikų kolektyvas\" parinktas kaip owner_note_path. Targetas \"B. Dundulis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33266
 - susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
@@ -49,8 +59,13 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
     santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
     B. Dundulis 108.
-  citata_rodoma: "Bendrą tų kovų istoriją paruošė istorikų kolektyvas :\n_Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių\nsantykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja\nB. Dundulis 108."
+  citata_rodoma: |
+    Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
+    _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr). Lietuvių
+    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
+    B. Dundulis 108.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

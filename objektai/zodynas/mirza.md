@@ -34,6 +34,11 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
 - t-001
   global_id: t-187557
   teiginys: 'Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinės formuluotės, nekeičiant citatos prasmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-170507
 
@@ -51,8 +56,9 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
     Totorių-mongolų tarp e mirzomis titulavosi chano Tamerlano, o vė­
     liau ir šiaip žymiausių feodalų giminių nariai.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187557

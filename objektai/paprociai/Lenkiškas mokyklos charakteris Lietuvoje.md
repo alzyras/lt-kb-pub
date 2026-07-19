@@ -45,6 +45,20 @@ Nenurodyta
 - t-001
   global_id: t-200883
   teiginys: "Basanavičiaus teigimu, lenkiškas Lietuvos mokyklų charakteris išnyko tik tada, kai dėstymui buvo įvesta rusų kalba."
+  atnaujinta: "2026-07-15 12:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lenkiškas mokyklos charakteris Lietuvoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkiškas mokyklos charakteris Lietuvoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lenkai Lietuvoje Dr. J. Basanavičius"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184228
 
@@ -72,6 +86,7 @@ Nenurodyta
     lenkinantis veiklumas Vilniaus universiteto yra
     per daug gerai żinomas, idant dar apie jį kalbēti.
   statusas: verified
+  atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

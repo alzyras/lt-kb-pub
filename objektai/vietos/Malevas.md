@@ -33,6 +33,8 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
 - t-001
   global_id: t-187259
   teiginys: 'Malevas yra apie 18 km į šiaurę nuo Klecko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatinis sakinys apie Malevo lokalizaciją. Sąmoningai neperkelti kiti citatoje minimi vietovardžiai, nes jie nereikalingi pagrindiniam faktui.'
   pagrindžia:
     - c-170316
 
@@ -40,6 +42,9 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
 - t-002
   global_id: t-187260
   teiginys: 'Malevas yra kaimas pietiniame, kairiajame Ušos upės krante.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-170316
 
@@ -60,9 +65,10 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
     apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.
   citata_rodoma: "8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante, \napie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187259
+    - t-187260

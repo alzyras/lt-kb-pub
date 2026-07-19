@@ -18,6 +18,7 @@ import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { emitAnalyticsMap } from "../../util/analytics-client"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
@@ -198,9 +199,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   })
   const nodeById = new Map(nodes.map((node) => [node.id, node]))
-  const visibleLinks = depth >= 0 ? [...neighbourhood].flatMap((source) => {
-    return (adjacencyOut.get(source) ?? []).map((target) => ({ source, target }))
-  }) : allLinks
+  const visibleLinks =
+    depth >= 0
+      ? [...neighbourhood].flatMap((source) => {
+          return (adjacencyOut.get(source) ?? []).map((target) => ({ source, target }))
+        })
+      : allLinks
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: visibleLinks
@@ -774,8 +778,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   })
 
   function openGraphExplorer() {
+    emitAnalyticsMap("open", { map_view: "local", input_method: "button" })
     const currentSlug = simplifySlug(getFullSlug(window))
-    const target = new URL(resolveRelative(getFullSlug(window), "zemelapis/index" as FullSlug), window.location.toString())
+    const target = new URL(
+      resolveRelative(getFullSlug(window), "zemelapis/index" as FullSlug),
+      window.location.toString(),
+    )
     if (currentSlug !== "/") {
       target.searchParams.set("focus", currentSlug)
       target.searchParams.set("depth", "1")

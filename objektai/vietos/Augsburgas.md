@@ -39,6 +39,12 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
 - t-001
   global_id: t-187161
   teiginys: 'Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]'
+  temporaliniai_duomenys: 'įvykio data: 1518 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
   pagrindžia:
     - c-170258
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
@@ -61,8 +67,9 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
     ir kl.
   citata_rodoma: "Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu- \nropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521 \nir kl."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187161

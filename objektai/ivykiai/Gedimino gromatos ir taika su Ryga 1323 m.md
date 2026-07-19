@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Gediminas antroje gromatoje Saksonijos, Silezijos ir Baltijos miestų adresatams rašė laukiantis popiežiaus kunigų ir siuntinių.
+Tuo pačiu laiku Gediminas antrą gromatą pas pravorus ir gvardijonus Saksonijos ir Silezijos, ly gia dalia prekybos miestus Liubeką, Rostoką, Zun dą, Greifsvaldą, Sietiną ir Gotlandą buvo nuleidęs, sakydamas, jog jis lūgojęs nuo popiežiaus kunigų ir siuntinius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201319"></a>
 - t-001
   global_id: t-201319
-  teiginys: "Gediminas antroje gromatoje Saksonijos, Silezijos ir Baltijos miestų adresatams rašė laukiantis popiežiaus kunigų ir siuntinių."
+  teiginys: "Tuo pačiu laiku Gediminas antrą gromatą pas pravorus ir gvardijonus Saksonijos ir Silezijos, ly gia dalia prekybos miestus Liubeką, Rostoką, Zun dą, Greifsvaldą, Sietiną ir Gotlandą buvo nuleidęs, sakydamas, jog jis lūgojęs nuo popiežiaus kunigų ir siuntinius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184669
 
 ## Citatos
 
 - id: c-184669
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 542"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 542."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo Li­
     gojo Gediminas širdingai popiežiaus žvilgterėti ant
@@ -70,6 +75,7 @@ Nenurodyta
     ir noriu aiškiai Bažnyčią godoti, kunigus gerbti ir
     Dievo žodžio klausyti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

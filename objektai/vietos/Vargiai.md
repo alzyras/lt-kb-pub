@@ -33,6 +33,10 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 - t-001
   global_id: t-58744
   teiginys: "Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59376
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108751|J. Pilsudskis]]: J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
@@ -59,11 +63,15 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vaplaukis (Woyploc, Woplaukin, dab. Wopławki)
-    Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
-    Varmė, u.
-  citata_rodoma: "Wopławki)\n   Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)\n  Varmė, u."
+    Wopławki)
+       Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
+      Varmė, u.
+  citata_rodoma: |
+    Wopławki)
+       Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
+      Varmė, u.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

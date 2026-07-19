@@ -43,6 +43,19 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
 - t-001
   global_id: t-30363
   teiginys: "1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gniezno: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Romedanskis (Medininkų vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gniezno: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Romedanskis (Medininkų vyskupas)\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1420 m.; įvykio data: 1420 m.; įvykio data: 1427 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, pilnas ir paremtas citata."
   pagrindžia:
     - c-32793
 
@@ -59,8 +72,14 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
     vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau
     tada įgijusiam metropolito teises į Medininkų vyskupiją.
     Nuo 1420 m.
-  citata_rodoma: "Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus\nRomedanskio konsekracijos aplinkybių (1427), popiežius naujam\nvyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau\ntada įgijusiam metropolito teises į Medininkų vyskupiją.\nNuo 1420 m."
+  citata_rodoma: |
+    Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus
+    Romedanskio konsekracijos aplinkybių (1427), popiežius naujam
+    vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau
+    tada įgijusiam metropolito teises į Medininkų vyskupiją.
+    Nuo 1420 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

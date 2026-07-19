@@ -51,6 +51,13 @@ Nenurodyta
 - t-001
   global_id: t-194797
   teiginys: "1247 metais, kai kryžiuočiai jau valdė Pamedę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą, vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie, matyt, neturėjo pakankamai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177193
 
@@ -71,6 +78,7 @@ Nenurodyta
     matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
     sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

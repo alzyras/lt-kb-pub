@@ -41,6 +41,20 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
 - t-001
   global_id: t-200745
   teiginys: "Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Taurės: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jędrzej Kitowicz: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Taurės: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jędrzej Kitowicz\" parinktas kaip owner_note_path. Targetas \"Taurės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184090
 
@@ -61,6 +75,7 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
     gėrė vienas po kito, nesibjaurėdami gėrimo lašais, kurie nuo vienų ūsų krisdavo į
     taurę, ją perduodant kitam“ (Kitowicz 1840: 255).
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

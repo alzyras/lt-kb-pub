@@ -33,9 +33,23 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
 - t-001
   global_id: t-189515
   teiginys: "Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Galai ir skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galai ir skandinavai\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172403
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais.'
@@ -55,8 +69,7 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189515
 ## Citatos
 
 - id: c-172403
@@ -75,8 +88,17 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
     vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
     besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
     les iš kambarių.
-  citata_rodoma: "Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­\nsiojo kūnu būdavo kraunama viskas, kas velionio gyvenime\nbuvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­\nžiūriu sekta senovės galais ir skandinavais bei daugeliu kitų\nįvairių tautų."
+  citata_rodoma: |
+    Šis pa­
+    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
+    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
+    žymesniems žmonėms laidoti. Ant laidotuvių laužo su miru­
+    siojo kūnu būdavo kraunama viskas, kas velionio gyvenime
+    buvo malonaus arba reikalingo ar buvo jo puošmena. Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

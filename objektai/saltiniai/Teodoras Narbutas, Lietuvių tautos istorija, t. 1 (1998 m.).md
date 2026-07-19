@@ -53,23 +53,62 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 - t-001
   global_id: t-188037
   teiginys: "Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170731
-
+    - c-001
 <a id="claim-t-188038"></a>
 - t-002
   global_id: t-188038
   teiginys: "Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Norbertas Vėlius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source"
+  ryšio_targeto_parinkimas: "Norbertas Vėlius: mention_match, author, gap=114"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Norbertas Vėlius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170733
-
+    - c-003
 <a id="claim-t-188039"></a>
 - t-003
   global_id: t-188039
   teiginys: "1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1835 m.; įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki metrikoje tiesiogiai paliudytų leidybinių duomenų. Nepridėta platesnio originalo pavadinimo interpretacijų už citatos ribų."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170732
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu.'
@@ -88,8 +127,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188037
 - c-002
   santrauka: '1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,8 +150,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188039
 - c-003
   santrauka: 'Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +180,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188038
 ## Citatos
 
 - id: c-170731
@@ -161,14 +197,21 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     XIX amžius teisėtai vadinamas istorizmo šimtmečiu. Ro­
     mantizmas pagimdė naują individo sąmonės formų struktūrą,
     kuri skiriasi nuo švietėjiškos asmenybės proto diktato.
-  citata_rodoma: "TEODORAS NARBUTAS IR JO\n„LIETUVIŲ TAUTOS ISTORIJA“\nYra asmenybių, kurių gyvenime atsispindi visuomenės he­\nroizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti\nTeodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių\ntautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­\nminklu ir lietuvių tautos kultūriniu palikimu."
+  citata_rodoma: |
+    TEODORAS NARBUTAS IR JO
+    „LIETUVIŲ TAUTOS ISTORIJA“
+    Yra asmenybių, kurių gyvenime atsispindi visuomenės he­
+    roizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti
+    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
+    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
+    minklu ir lietuvių tautos kultūriniu palikimu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188037
-
 - id: c-170732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -181,14 +224,26 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
     socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
     ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
+  citata_rodoma: |
+    UDK
+    947.45
+    Na-162
+    Versta iš:
+    Dzicjc starožytne narodu
+    Litcwskiego przcz
+    Teodora Narbutta.
+    Tom picrwszy:
+    Mitologia Litcwska
+    z o.šmią rycinami.
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188039
-
 - id: c-170733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -206,8 +261,28 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
-  citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,\n1997\nDailininkas Alfonsas Zvilius, 1992,"
+  citata_rodoma: |
+    Wilno, naktadem i drukiem
+    A. Marcinowskicgo, 1835.
+    R edaktorių kolegija:
+    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
+    A. TYLA] N. VĖLIUS,! V. VISOCKAS
+    Dailininkas ALFONSAS ŽVILIUS
+    Iš lenkų ir lotynų kalbų vertė RIMANTAS JASAS
+    Specialioji redaktorė REDA GRIŠKAITĖ
+    ISBN 5-417-00765-Х
+    ISBN 5-417-00766-8
+    Vertimas, Rimantas Jasas, 1992, 1998
+    Įvedamasis straipsnis,
+    Vytautas Berenis, 1992, 1998
+    Įvedamasis straipsnis,
+    Norbertas Vėlius, 1992, 1998
+    Įvedamasis straipsnis, paaiškinimai,
+    papildymų vertimas, Reda Griškaitė,
+    1997
+    Dailininkas Alfonsas Zvilius, 1992,
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,16 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - t-001
   global_id: t-02508
   teiginys: "Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kražių apygarda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kražių apygarda\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02746
 
@@ -49,8 +59,12 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
-  citata_rodoma: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,\nDombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-\ndoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje."
+  citata_rodoma: |
+    III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
+    Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
+    doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

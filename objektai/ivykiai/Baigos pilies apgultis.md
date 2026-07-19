@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojimu, 1239 m. kryžėjų maršalka Bernheimas apgulė Baigos, arba Onedos, pilį, tačiau įgula išpuolė, susirėmė su kryžėjais ir vėl užsidarė pilyje.
+Po nuopuolio kryžėjų ties pilė Baiga, arba Oneda.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201313"></a>
 - t-001
   global_id: t-201313
-  teiginys: "Daukanto pasakojimu, 1239 m. kryžėjų maršalka Bernheimas apgulė Baigos, arba Onedos, pilį, tačiau įgula išpuolė, susirėmė su kryžėjais ir vėl užsidarė pilyje."
+  teiginys: "Po nuopuolio kryžėjų ties pilė Baiga, arba Oneda."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184663
 
 ## Citatos
 
 - id: c-184663
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 303"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 303."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Po nuopuolio kry-
     žėjų ties pilė Baiga, arba Oneda. Jau praėjusį metą
@@ -75,6 +80,7 @@ Nenurodyta
     žies eilų kryžėjų, apent užsirakino pilė j ir toliaus
     ją gyniojo1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

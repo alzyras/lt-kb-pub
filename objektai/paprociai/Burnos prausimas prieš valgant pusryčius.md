@@ -64,6 +64,10 @@ Nenurodyta
 - t-001
   global_id: t-195390
   teiginys: "Lietuviui priskiriamas paprotys burną prausti prieš pusryčius, o ne vos pradedant dieną."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177808
 
@@ -71,6 +75,10 @@ Nenurodyta
 - t-002
   global_id: t-195391
   teiginys: "Dotnavos gudai, palyginimui, burną nusiprausdavo vos atsikėlę prieš eidami į darbą."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177807
 
@@ -94,14 +102,15 @@ Nenurodyta
     Dotnavietis, atsikėlęs iš ry­
     to, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto
     plaukus, apsivelka ir tada eina į darbą.
-  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą."
+  citata_rodoma: |
+    Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu. Dotnavietis, atsikėlęs iš ryto, ar jis kalba poterius ar ne, tuojau nusiprausia burną, susiklasto plaukus, apsivelka ir tada eina į darbą.
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195391
-
 - id: c-177808
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -114,8 +123,10 @@ Nenurodyta
     Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną
     ne dieną pradėdamas, bet visada eidamas valgyti
     pusryčių.
-  citata_rodoma: "Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių."
+  citata_rodoma: |
+    Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių.
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

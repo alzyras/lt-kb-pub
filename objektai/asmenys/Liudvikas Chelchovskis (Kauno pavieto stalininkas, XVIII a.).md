@@ -40,6 +40,21 @@ media_all_json: |-
 - t-001
   global_id: t-200500
   teiginys: "1754 m. karnavalo metu Jonas Dominykas Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas vietoje įvardžio praleistas asmuo ir derybų partneris. Nepridėta daugiau apie derybų rezultatą, nes citata jo nepateikia."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183863
 
@@ -47,6 +62,17 @@ media_all_json: |-
 - t-002
   global_id: t-200501
   teiginys: "Liudvikas Chelchovskis buvo Kauno pavieto stalininkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Chelchovskis (Kauno pavieto stalininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183863
 
@@ -64,8 +90,11 @@ media_all_json: |-
     tai pridėkite, ką kiti irgi viršaus prideda“ [14]. 1754 m. kanauninkas laiške minėjo, kad
     karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
     Chełchowski) dėl Balbieriškio valdų [33].
-  citata_rodoma: "1754 m. kanauninkas laiške minėjo, kad karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik\nChełchowski) dėl Balbieriškio valdų [33]."
+  citata_rodoma: |
+    1754 m. kanauninkas laiške minėjo, kad karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
+    Chełchowski) dėl Balbieriškio valdų [33].
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -61,6 +61,16 @@ Nenurodyta
 - t-001
   global_id: t-168690
   teiginys: "Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rašliava: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rašliava\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-153486
 
@@ -68,6 +78,9 @@ Nenurodyta
 - t-002
   global_id: t-168692
   teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-153490
 
@@ -75,6 +88,16 @@ Nenurodyta
 - t-003
   global_id: t-168695
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rašliava: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rašliava\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-153487
 
@@ -94,14 +117,16 @@ Nenurodyta
     dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
-  citata_rodoma: "Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo\npublicistišką charakterį."
+  citata_rodoma: |
+    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
+    publicistišką charakterį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168690
-
 - id: c-153487
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,14 +141,17 @@ Nenurodyta
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
-  citata_rodoma: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų\nraštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-\nkinga, maištaujanti lenkų globojama valstybė."
+  citata_rodoma: |
+    Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
+    raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
+    kinga, maištaujanti lenkų globojama valstybė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168695
-
 - id: c-153490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -134,8 +162,11 @@ Nenurodyta
     mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
     ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
     tiek visuomenė, tiek mokykla.
-  citata_rodoma: "Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-\nūgėjo."
+  citata_rodoma: |
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

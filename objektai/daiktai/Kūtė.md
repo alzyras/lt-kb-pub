@@ -53,6 +53,17 @@ Nenurodyta
 - t-001
   global_id: t-08300
   teiginys: "Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Namas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūtė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūtė\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10255
 
@@ -60,6 +71,17 @@ Nenurodyta
 - t-002
   global_id: t-08301
   teiginys: "Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Namas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kūtė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kūtė\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10256
 
@@ -78,34 +100,49 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš
-        namo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,
-        arba dvaru, vadino, kursai pradžioj iš virbų nutvertas buvo, vienas šalines sienas su pačiu namu
-        turįs, kuriame tvarte buvo gyvuliai pasieniais prisieti, beje, karvės, jaučiai. Vidury to tvarto buvo
-        avys, atskiestos^185 keturiomis gardėmis, nuo kurių vadinos gardu; už to tvarto vėl buvo kūtė,
-        arklių tvartu vadinama, vis tarp tų pačių šalinių namo sienų stovėjo; arkliai jau prie užėdžio^186
-        pririšti, jau palaidi, kažiai^187 , arba kumeliai, nuo senių arklių atskiesti ir kartimis kampe užšaudyti
-        stovėjo; ta arklių kūtė turėjo nuo saulėtekio duris, pro kurias arklius ir bandą varė girdyti, jaukiam
-        orui esant, speiguotie^188 drungnu vandeniu iš namo geldose girdė.
-  citata_rodoma: "Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš\nnamo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,\narba dvaru, vadino, kursai pradžioj iš virbų nutvertas buvo, vienas šalines sienas su pačiu namu\nturįs, kuriame tvarte buvo gyvuliai pasieniais prisieti, beje, karvės, jaučiai. Vidury to tvarto buvo\navys, atskiestos^185 keturiomis gardėmis, nuo kurių vadinos gardu; už to tvarto vėl buvo kūtė,\narklių tvartu vadinama, vis tarp tų pačių šalinių namo sienų stovėjo; arkliai jau prie užėdžio^186\npririšti, jau palaidi, kažiai^187 , arba kumeliai, nuo senių arklių atskiesti ir kartimis kampe užšaudyti\nstovėjo; ta arklių kūtė turėjo nuo saulėtekio duris, pro kurias arklius ir bandą varė girdyti, jaukiam\norui esant, speiguotie^188 drungnu vandeniu iš namo geldose girdė."
+    namo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,
+    arba dvaru, vadino, kursai pradžioj iš virbų nutvertas buvo, vienas šalines sienas su pačiu namu
+    turįs, kuriame tvarte buvo gyvuliai pasieniais prisieti, beje, karvės, jaučiai. Vidury to tvarto buvo
+    avys, atskiestos^185 keturiomis gardėmis, nuo kurių vadinos gardu; už to tvarto vėl buvo kūtė,
+    arklių tvartu vadinama, vis tarp tų pačių šalinių namo sienų stovėjo; arkliai jau prie užėdžio^186
+    pririšti, jau palaidi, kažiai^187 , arba kumeliai, nuo senių arklių atskiesti ir kartimis kampe užšaudyti
+    stovėjo; ta arklių kūtė turėjo nuo saulėtekio duris, pro kurias arklius ir bandą varė girdyti, jaukiam
+    orui esant, speiguotie^188 drungnu vandeniu iš namo geldose girdė.
+  citata_rodoma: |
+    Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš
+    namo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,
+    arba dvaru, vadino, kursai pradžioj iš virbų nutvertas buvo, vienas šalines sienas su pačiu namu
+    turįs, kuriame tvarte buvo gyvuliai pasieniais prisieti, beje, karvės, jaučiai. Vidury to tvarto buvo
+    avys, atskiestos^185 keturiomis gardėmis, nuo kurių vadinos gardu; už to tvarto vėl buvo kūtė,
+    arklių tvartu vadinama, vis tarp tų pačių šalinių namo sienų stovėjo; arkliai jau prie užėdžio^186
+    pririšti, jau palaidi, kažiai^187 , arba kumeliai, nuo senių arklių atskiesti ir kartimis kampe užšaudyti
+    stovėjo; ta arklių kūtė turėjo nuo saulėtekio duris, pro kurias arklius ir bandą varė girdyti, jaukiam
+    orui esant, speiguotie^188 drungnu vandeniu iš namo geldose girdė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08300
-
 - id: c-10256
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Už tos arklių kūtės buvo dar kiaulių kūtelė, arba tvartelis, kartais neb tose pačiose namo
-        salinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu
-        už namo sienas. Žąsys, pylės^190 bandos tvarte buvo laikomos. Ir taip gaspadorius, sėdęsis ant
-        suolo namo pasieny, visą savo piešą^191 galėjo regėti. Stogas to namo pirma buvo mauknomis
-        klotas, idant kibirkštys, iš ugnies lėkdamos, neįkibtų, o ant tų mauknų viršaus – ilginiais.
-  citata_rodoma: "Už tos arklių kūtės buvo dar kiaulių kūtelė, arba tvartelis, kartais neb tose pačiose namo\nsalinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu\nuž namo sienas. Žąsys, pylės^190 bandos tvarte buvo laikomos. Ir taip gaspadorius, sėdęsis ant\nsuolo namo pasieny, visą savo piešą^191 galėjo regėti. Stogas to namo pirma buvo mauknomis\nklotas, idant kibirkštys, iš ugnies lėkdamos, neįkibtų, o ant tų mauknų viršaus – ilginiais."
+    salinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu
+    už namo sienas. Žąsys, pylės^190 bandos tvarte buvo laikomos. Ir taip gaspadorius, sėdęsis ant
+    suolo namo pasieny, visą savo piešą^191 galėjo regėti. Stogas to namo pirma buvo mauknomis
+    klotas, idant kibirkštys, iš ugnies lėkdamos, neįkibtų, o ant tų mauknų viršaus – ilginiais.
+  citata_rodoma: |
+    Už tos arklių kūtės buvo dar kiaulių kūtelė, arba tvartelis, kartais neb tose pačiose namo
+    salinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu
+    už namo sienas. Žąsys, pylės^190 bandos tvarte buvo laikomos. Ir taip gaspadorius, sėdęsis ant
+    suolo namo pasieny, visą savo piešą^191 galėjo regėti. Stogas to namo pirma buvo mauknomis
+    klotas, idant kibirkštys, iš ugnies lėkdamos, neįkibtų, o ant tų mauknų viršaus – ilginiais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,13 +48,34 @@ Nenurodyta
 - t-001
   global_id: t-189880
   teiginys: "Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dusburgietis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgietis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu\" parinktas kaip owner_note_path. Targetas \"Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172763
-
+    - c-001
 <a id="claim-t-189881"></a>
 - t-002
   global_id: t-189881
   teiginys: "Narbutas rašo, kad vyriausiojo žynio pasiuntiniai pas krašto valdovus vykdavę kaip taikos pasiuntiniai ir išsiskirdavę jiems duota lazda."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172764
 
@@ -62,6 +83,12 @@ Nenurodyta
 - t-003
   global_id: t-197270
   teiginys: "Tą patvirtina paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios - Katedros - iždą ."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172764
 
@@ -85,8 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189880
 ## Citatos
 
 - id: c-172763
@@ -113,14 +139,23 @@ Nenurodyta
     bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
     mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
     jimas.
-  citata_rodoma: "Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir\njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos.\nDusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­\nnį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­\nsiasis krikščionių valdovas; tai mes ir pažymėjome."
+  citata_rodoma: |
+    Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
+    Dusburgietis iš tikrųjų prilygina popiežiui šį vyriausiąjį žy­
+    nį, kuris valdė lietuvių genties tautas panašiai kaip aukščiau­
+    siasis krikščionių valdovas; tai mes ir pažymėjome.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189880
-
 - id: c-172764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -141,6 +176,7 @@ Nenurodyta
     krivičių, o to pavadinimo etimologija slavų kalboje gali būti
     kitokia.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

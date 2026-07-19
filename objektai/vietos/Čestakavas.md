@@ -43,6 +43,10 @@ media_all_json: |-
 - t-001
   global_id: t-195485
   teiginys: "Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177906
 - susijęs iš Vilniaus Aušros broma: Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
@@ -59,8 +63,10 @@ media_all_json: |-
     nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
     je užsilaiko. Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­
     niaus Aušros bromos Dievo Motinos.
-  citata_rodoma: "Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos."
+  citata_rodoma: |
+    Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos.
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

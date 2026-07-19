@@ -48,6 +48,18 @@ Nenurodyta
 - t-001
   global_id: t-186567
   teiginys: "Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardukiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vaišvilkas su naugardukiečiais parvyko į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169880
 
@@ -55,6 +67,13 @@ Nenurodyta
 - t-002
   global_id: t-196790
   teiginys: "Lietuvos metraštis vaizduoja, kad Levas, šėtono pakurstytas ir prisiminęs Vaišvilko žalą Rusų žemėms, nužudė Vaišvilką švento Mykolo vienuolyne."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-169880
 
@@ -70,8 +89,13 @@ Nenurodyta
     yra žiauriai kenkę Rusų žemėms ir jam pačiam. Ir štai
     čia pat, švento Mykolo vienuolyne, jį nužudė*. Ir
     taip pasibaigė Romos kunigaikščio Palemono giminė.
-  citata_rodoma: "Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į \nNaugarduką, ten pasiėmė su savimi naugardukiečius ir \nparvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko \nsavo valdovo sūnų didžiai džiaugdamasi."
+  citata_rodoma: |
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

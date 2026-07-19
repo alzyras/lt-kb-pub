@@ -51,6 +51,23 @@ Nenurodyta
 - t-001
   global_id: t-185612
   teiginys: "1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lovičius: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lovičius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje Mindaugo kariuomenė siejama su Lovičiaus apygardų nusiaubimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Lovičius (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys paverstas savarankišku faktiniu teiginiu be boilerplate ir skiemenavimo klaidų."
   pagrindžia:
     - c-168973
 
@@ -58,6 +75,13 @@ Nenurodyta
 - t-002
   global_id: t-196213
   teiginys: "Kojelavičius Lietuvos žygių į Mazoviją kontekste vaizdavo lenkus ir mozūrus kaip dažnų lietuvių antpuolių varginamus krikščionis."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168973
 
@@ -79,8 +103,22 @@ Nenurodyta
     nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
     mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
     čio, žmona, karalienės sesuo.
-  citata_rodoma: "Ki­\ntais metais Mindaugas žiemą nusiaubė Livoniją: vasa­\nrio 2 dieną užėmė bei su-\n1263 m e ta i\ngriovė Pernu, prie Daugav-\ngryvos susikovė su priešu.\nPo to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­\nją: kadangi čia negalėjo priešo įvilioti į mūšį, o po\nankstesnių nuniokojimų šalyje nebuvo nieko dora li­\nkę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos\nLovičiaus apygardos, todėl iš ten buvo išgabentas di­\ndžiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­\nju."
+  citata_rodoma: |
+    Ki­
+    tais metais Mindaugas žiemą nusiaubė Livoniją: vasa­
+    rio 2 dieną užėmė bei su-
+    1263 m e ta i
+    griovė Pernu, prie Daugav-
+    gryvos susikovė su priešu.
+    Po to kitą vasarą vėl kariuomenę nusiuntė į Mazovi­
+    ją: kadangi čia negalėjo priešo įvilioti į mūšį, o po
+    ankstesnių nuniokojimų šalyje nebuvo nieko dora li­
+    kę, jis persikėlė per Vyslą. Iki tol išliko nepaliestos
+    Lovičiaus apygardos, todėl iš ten buvo išgabentas di­
+    džiulis grobis, o visa kita sunaikinta ugnimi ir kalavi­
+    ju.
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

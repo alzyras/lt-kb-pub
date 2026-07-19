@@ -59,6 +59,10 @@ Terminas vartojamas kaip kaimo ūkinės tvarkos pareigybės pavadinimas.
 - t-001
   global_id: t-195453
   teiginys: "Kerdžius šiame šaltinyje yra už bandą ir piemenų paskirstymą atsakingas kaimo prižiūrėtojas."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177874
 - susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.
@@ -75,8 +79,12 @@ Terminas vartojamas kaip kaimo ūkinės tvarkos pareigybės pavadinimas.
     Tą
     dieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų
     piemuo ne bandą gano, bet pas Baroną rugius piauna.
-  citata_rodoma: "Tą \ndieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų \npiemuo ne bandą gano, bet pas Baroną rugius piauna"
+  citata_rodoma: |
+    Tą
+    dieną, man dar bemiegant, atėjo į namus kerdžius ir pranešė, kad mūsų
+    piemuo ne bandą gano, bet pas Baroną rugius piauna
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

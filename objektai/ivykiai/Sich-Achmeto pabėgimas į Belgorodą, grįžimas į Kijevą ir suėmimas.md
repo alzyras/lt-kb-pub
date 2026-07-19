@@ -62,17 +62,60 @@ Nenurodyta
 - t-001
   global_id: t-186795
   teiginys: "Redakcinė pastaba nurodo, kad Sich-Achmetas 1503 m. rudenį bėgo į turkų valdomą Belgorodą tikėdamasis sultono pagalbos."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Belgorodas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Belgorodas: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas\" parinktas kaip owner_note_path. Targetas \"Belgorodas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1503 m.; įvykio data: 1504 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pilnas ir atitinka redakcinės pastabos informaciją."
   pagrindžia:
     - c-169985
-
+    - c-002
 <a id="claim-t-186797"></a>
-- t-002
+- t-003
   global_id: t-186797
   teiginys: "Redakcinė pastaba nurodo, kad Sich-Achmetas į Kijevą grįžo 1503–1504 metų žiemą."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1503 m.; įvykio data: 1504 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas asmens vardu."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169985
-
+    - c-002
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    "  A ntrą kartą grjžąs i Kijevą Aukso ordos chanas Slch-Ach-
+    metas buvo suimtas ir laikomas Lietuvoje, Vilniaus Aukštojoje. T ra­
+    kų ir Kauno pilyse. Paleistas 1528 m.
+    n  LDK ir Lenkijos talkos delegacijos nariai gavo Įgaliojamuo­
+    sius rašius Vilniuje 1503.1.9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -82,14 +125,13 @@ Nenurodyta
     masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą
     grižo 1503/1504 m. žiemą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-186795
+    - t-186797
 ## Citatos
 
 - id: c-169985
@@ -102,8 +144,13 @@ Nenurodyta
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
     masis gauti pagalbos Iš Turkijos sultono Bajareto II-jo. ( Kijevą
     grižo 1503/1504 m. žiemą.
-  citata_rodoma: "п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą \nBelgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­\nmasis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą \ngrižo 1503/1504 m. žiemą."
+  citata_rodoma: |
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo. ( Kijevą
+    grižo 1503/1504 m. žiemą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

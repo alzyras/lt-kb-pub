@@ -69,6 +69,18 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - t-001
   global_id: t-187895
   teiginys: "Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anicetas Renjė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anicetas Renjė\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170876
 
@@ -76,6 +88,18 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - t-002
   global_id: t-187896
   teiginys: "Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Adomas Honorijus Kirkoras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anicetas Renjė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Adomas Honorijus Kirkoras: mention_match, author, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anicetas Renjė\" parinktas kaip owner_note_path. Targetas \"Adomas Honorijus Kirkoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170877
 
@@ -83,15 +107,48 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - t-003
   global_id: t-187897
   teiginys: "Medicinos daktaro Renjė 1839 m. gruodžio 15 d. laiškas iš Vilniaus Narbutui buvo nuoroda į Podčašinskio pastebėjimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anicetas Renjė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anicetas Renjė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1839 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas kaip faktas apie Renjė laišką ir jo kontekstą. Nepridėta, koks buvo pastebėjimo turinys ar rezultatas."
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170878
-
+    - c-003
 <a id="claim-t-190847"></a>
 - t-004
   global_id: t-190847
   teiginys: "1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Anicetas Renjė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anicetas Renjė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1839 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Aniceto Renjė laišką ir jo turinį. Išlaikytas laiško kontekstas, o papildomos aplinkybės nepridėtos."
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173729
+    - c-004
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188395|Adomas Stanislovas Naruševičius]]: Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą.
 - susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-187978|Briliantinis žiedas]]: 1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių.
 ## Reikšmingi paminėjimai
@@ -110,8 +167,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187897
 - c-004
   santrauka: '1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -134,8 +190,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190847
 ## Citatos
 
 - id: c-170876
@@ -151,14 +206,22 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
     sirašinėjo (didelė dalis šios korespondencijos pa­
     siekė mūsų dienas).
-  citata_rodoma: "P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­\nmas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­\nmaciją, kaip galima spręsti iš papildymo turinio,\nT. Narbutas gavo iš Vilniaus gydytojo ir visuome­\nnės veikėjo Aniceto Renjė (Renier, Renjer, Reg-\nnier, 1804-1877), su kuriuo ilgus dešimtmečius su­\nsirašinėjo (didelė dalis šios korespondencijos pa­\nsiekė mūsų dienas)."
+  citata_rodoma: |
+    P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­
+    mas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­
+    maciją, kaip galima spręsti iš papildymo turinio,
+    T. Narbutas gavo iš Vilniaus gydytojo ir visuome­
+    nės veikėjo Aniceto Renjė (Renier, Renjer, Reg-
+    nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
+    sirašinėjo (didelė dalis šios korespondencijos pa­
+    siekė mūsų dienas).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187895
-
 - id: c-170877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -171,14 +234,18 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
     riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
     dumą.
-  citata_rodoma: "T. Narbutas liguistai reagavo j jam\nišsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­\nriodikoje, pagirdami už iškelto ir realizuoto sumanymo di­\ndumą."
+  citata_rodoma: |
+    T. Narbutas liguistai reagavo j jam
+    išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
+    riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
+    dumą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187896
-
 - id: c-170878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -196,14 +263,19 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     kalnu yra erdvūs požeminiai koridoriai, labai patvariai išmū­
     ryti iš plytų, su salėmis, nišomis, besitęsiantys įvairiais zigza­
     gais; sako, kad iki šiol nežinoma, kur jie baigiasi.
-  citata_rodoma: "Tik neaišku, koks buvo rezul­\ntatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos\ndaktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį\npastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos\ndalykus*."
+  citata_rodoma: |
+    Tik neaišku, koks buvo rezul­
+    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
+    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
+    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
+    dalykus*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187897
-
 - id: c-173729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,8 +288,21 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     lėjo egzistuoti griaustinio ir žaibų dievo šventykla: „Aš mažai
     tikiu šiais padavimais, bylojančiais, tarytum čia iš tikrųjų buvo
     garbinamas Perkūnas“.
-  citata_rodoma: "(Medicinos\ndaktaro\nRenjė\n1839.XII.15\ndienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis\npadarė\ndar\nprieš\nman\naprašant\ntuos\ndalykus."
+  citata_rodoma: |
+    (Medicinos
+    daktaro
+    Renjė
+    1839.XII.15
+    dienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis
+    padarė
+    dar
+    prieš
+    man
+    aprašant
+    tuos
+    dalykus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

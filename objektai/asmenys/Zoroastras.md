@@ -32,8 +32,23 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
 - t-001
   global_id: t-190120
   teiginys: "Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosčiusias slaptas apeigas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Persai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zoroastras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Persai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zoroastras\" parinktas kaip owner_note_path. Targetas \"Persai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173003
+    - c-001
 - susijęs iš [[objektai/grupes/Gvebrai.md#claim-t-189517|Gvebrai]]: Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiūrinčius Dievą arba pasaulio visatos sielą.
 - susijęs iš [[objektai/paprociai/Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime.md#claim-t-189816|Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime]]: Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.
 - susijęs iš [[objektai/asmenys/Inachas.md#claim-t-190158|Inachas]]: Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.
@@ -63,8 +78,7 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190120
 ## Citatos
 
 - id: c-173003
@@ -82,8 +96,15 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
     Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
     tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
     jas dingo kartu su jų netektimi.
-  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
+  citata_rodoma: |
+    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
+    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
+    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
+    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
+    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
+    sias slaptas apeigas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,16 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - t-001
   global_id: t-72688
   teiginys: "Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etnografinė siena: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etnografinė siena\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46897
 
@@ -48,6 +58,19 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - t-002
   global_id: t-72689
   teiginys: "Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etnografinė siena: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etnografinė siena\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1921 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir aiškiai įvardyta minima siena."
   pagrindžia:
     - c-71070
 
@@ -55,6 +78,16 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - t-003
   global_id: t-72690
   teiginys: "Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etnografinė siena: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etnografinė siena\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46897
 
@@ -62,6 +95,19 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - t-004
   global_id: t-72691
   teiginys: "Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuršas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "etnografinė siena: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kuršas: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"etnografinė siena\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1921 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštinis triukšmas ir teiginys suformuluotas kaip vienas aiškus faktinis sakinys."
   pagrindžia:
     - c-71070
 
@@ -83,15 +129,22 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
     Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
     ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
     Lietuvos sujungimą.
-  citata_rodoma: "Okupacijos metu ir Vilniaus konferencija ir Taryba vengė\naiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta\nbendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-\nnamąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,\nAmerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti\nir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios\nLietuvos sujungimą."
+  citata_rodoma: |
+    Okupacijos metu ir Vilniaus konferencija ir Taryba vengė
+    aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta
+    bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-
+    namąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,
+    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
+    ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
+    Lietuvos sujungimą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72688
     - t-72690
-
 - id: c-71070
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,8 +162,17 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
     dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
     škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
     buvusios gubernijos sienos.
-  citata_rodoma: "Lietuvos Latvijos sienos nustatymas**\n\nSusikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-\ntuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet\n\nkadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje\nčia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-\nduoti 1921 m."
+  citata_rodoma: |
+    Lietuvos Latvijos sienos nustatymas**
+
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
+    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
+    duoti 1921 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

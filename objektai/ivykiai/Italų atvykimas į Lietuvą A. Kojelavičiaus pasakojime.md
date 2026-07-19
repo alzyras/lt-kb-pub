@@ -44,6 +44,20 @@ Nenurodyta
 - t-001
   global_id: t-185570
   teiginys: "Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Italija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Italija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168931
 
@@ -51,6 +65,13 @@ Nenurodyta
 - t-002
   global_id: t-193355
   teiginys: "Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176083
 
@@ -77,14 +98,29 @@ Nenurodyta
     ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
     pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
     buvo tinkamiausios įsikurti ir neniokojamos karų.
-  citata_rodoma: "Taigi iš tiesų galėjo ši- \n908 m e ta i \ntaip įvykti, kad kurie ne\nkurie žmonės, matydami ši­\ntokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti \ntėvynę ir, išsaugoję sveikas galvas, leistis į kelionę. \nGal, palikę Italiją, šia kryptimi pasuko tie, kurie no­\nrėjo išvengti savo likimo, o gal tie, kurie nugalėjusių \npriešų buvo paskelbti už įstatymo ribų; nieku būdu \nnegaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­\nklydėliai. Galimas daiktas, alanai, arba herulai (kurie, \nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie \npasitraukė iš tėvynės ir pasuko į tas žemes, kurios \nbuvo tinkamiausios įsikurti ir neniokojamos karų."
+  citata_rodoma: |
+    Taigi iš tiesų galėjo ši-
+    908 m e ta i
+    taip įvykti, kad kurie ne
+    kurie žmonės, matydami ši­
+    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
+    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
+    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
+    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
+    priešų buvo paskelbti už įstatymo ribų; nieku būdu
+    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
+    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185570
-
 - id: c-176083
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -118,8 +154,30 @@ Nenurodyta
     įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
     žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
     Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
-  citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
+  citata_rodoma: |
+    Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
+    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
+    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
+    noliai atkakliai tvirtina: ateivių italų esą buvę penki
+    šimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus
+    buvo vardijami vadai: Palemonas, arba Publijus Libo-
+    nas, herbo Stulpai,
+    Julijonas
+    Dausprungas;,
+    kurio
+    59
+
+    ## Puslapis 58
+
+    giminės herbas Kentauras, Prosperas Cezarinas — her­
+    bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
+    Rožynas.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
 - t-001
   global_id: t-35023
   teiginys: "Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37980
 
@@ -48,8 +51,12 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
     tas kviesdamas į tas iškilmes Ordiną, taip pat mini tą dieną^4 ). Jogailos
     pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
     dienos į kitą^5 ).
-  citata_rodoma: "Jogailos\npasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos\ndienos į kitą^5 )."
+  citata_rodoma: |
+    Jogailos
+    pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos
+    dienos į kitą^5 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

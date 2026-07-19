@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194808
   teiginys: "Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177204
 
@@ -67,6 +74,7 @@ Nenurodyta
     Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­
     jame Brandenburge, Sponholco kabinete**.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,6 +42,12 @@ media_all_json: |-
 - t-001
   global_id: t-193266
   teiginys: "Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175996
 
@@ -49,6 +55,12 @@ media_all_json: |-
 - t-002
   global_id: t-193267
   teiginys: "Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175997
 
@@ -66,12 +78,12 @@ media_all_json: |-
     me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
     ris jau buvo spręstas Konstancos suvažiavime.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193266
-
 - id: c-175997
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -81,6 +93,7 @@ media_all_json: |-
     kiti kraštai. Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki
     1449 m., t. y. daug ilgiau, negu gyveno Zigmantas (-)- 1440 m.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

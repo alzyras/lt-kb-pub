@@ -33,6 +33,20 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 - t-001
   global_id: t-190156
   teiginys: "Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas kalba Heziodas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heziodas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heziodas\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173039
 
@@ -40,6 +54,12 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 - t-002
   global_id: t-197401
   teiginys: "Heziodas tuoj pat vykdavo pas tam tikrą signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo beturtis neregys arba šlubis."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173039
 
@@ -62,9 +82,6 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-173039
@@ -83,8 +100,17 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
     beturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks
     vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
     dievų valia.
-  citata_rodoma: "Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam. Hartknochas pagal vietinius padavi­\nmus ir kronikas šitaip aprašo vagystės nustatymo būdą: „Jeigu \nkam ką nors pavogdavo, jis tuoj pat vykdavo pas tam tikrą \nsignotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo \nbeturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks \nvargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti \ndievų valia."
+  citata_rodoma: |
+    Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
+    mui ir atskleisti slaptam. Hartknochas pagal vietinius padavi­
+    mus ir kronikas šitaip aprašo vagystės nustatymo būdą: „Jeigu
+    kam ką nors pavogdavo, jis tuoj pat vykdavo pas tam tikrą
+    signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo
+    beturtis neregys arba šlubis. Kai jo klausdavo, kodėl jis toks
+    vargšas, neregys arba šlubis, jis atsakydavo, kad tokia esanti
+    dievų valia.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

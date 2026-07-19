@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-08314
   teiginys: "Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10269
 
@@ -73,6 +76,7 @@ Nenurodyta
         svetį į pirtį nuvesti ir išperdinti, nesgi pirtį žmogui susikeliavusiam už didžiai naudingą ir
         reikalingą daiktą turėjo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

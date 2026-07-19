@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 148
+tema_objektu_skaicius: 149
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 148.
+Objektų skaičius: 149.
 
 ## Kaip naudoti
 
@@ -177,6 +177,7 @@ Objektų skaičius: 148.
 
 ### Šaltiniai
 - [Pašuta V. Lietuvos valstybės susidarymas](../objektai/saltiniai/Pa%C5%A1uta%20V.%20Lietuvos%20valstyb%C4%97s%20susidarymas)
+- [Salyno sutartis (1398 m.)](../objektai/saltiniai/Salyno%20sutartis%20%281398%20m.%29)
 
 ### Žodynas
 - [baltų sąjunga federacija](../objektai/zodynas/balt%C5%B3%20s%C4%85junga%20federacija)

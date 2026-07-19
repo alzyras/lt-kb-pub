@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-08333
   teiginys: "Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56400
 - susijęs iš Joniškio apskritis: 1945 m. balandžio 18 d. Joniškio apskrities Joniškio valsčiaus Gasčiūnų kaime NKVD pajėgos aptiko partizanus, o kautynės truko tris valandas.
@@ -72,8 +76,13 @@ Nenurodyta
         tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
         vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
         nuokamieniai^241 sukrautas.
-  citata_rodoma: "Jei\ntose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip\nvadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,\nnuokamieniai^241 sukrautas."
+  citata_rodoma: |
+    Jei
+    tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
+    vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
+    nuokamieniai^241 sukrautas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

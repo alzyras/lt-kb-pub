@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-67044
   teiginys: "XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67098
 
@@ -60,6 +63,9 @@ Nenurodyta
 - t-002
   global_id: t-67045
   teiginys: "Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67099
 
@@ -76,14 +82,17 @@ Nenurodyta
     stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
-  citata_rodoma: "Bet to meto bajorija\nir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-\nnyti."
+  citata_rodoma: |
+    Bet to meto bajorija
+    ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
+    nyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67044
-
 - id: c-67099
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -94,8 +103,11 @@ Nenurodyta
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti. Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
     agentų kišenėse, ir mokyklos pradėjo skursti.
-  citata_rodoma: "Užtat daugumas mokykloms skirtų pinigų žūdavo visokių\nagentų kišenėse, ir mokyklos pradėjo skursti."
+  citata_rodoma: |
+    Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
+    agentų kišenėse, ir mokyklos pradėjo skursti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

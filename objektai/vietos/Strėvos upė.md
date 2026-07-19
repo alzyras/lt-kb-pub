@@ -39,6 +39,18 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 - t-001
   global_id: t-42168
   teiginys: "Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Strėvos upė: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Strėvos upė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Lietuvos kariuomenės veiksmą prie Strėvos upės, nors tai nėra kelionės tikslas siaurąja prasme."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė keliavo į Strėvos upė (0.64)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45346
 
@@ -46,6 +58,18 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 - t-002
   global_id: t-42169
   teiginys: "Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Strėva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Strėvos upė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Strėva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strėvos upė\" parinktas kaip owner_note_path. Targetas \"Strėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-45347
 
@@ -69,14 +93,25 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     Vitebsko, Smolensko, Polocko daliniai, su-
     telkti greičiausiai anksčiau suplanuotam
     Ordino puolimui.
-  citata_rodoma: "Atgal grįžtantį priešą prie\nStrėvos upės pavijo Lietuvos kariuomenė.\n\nLietuvos pajėgos\n\nPagrindinių Lietuvos žemių, Algirdo ir\nKęstučio jėgos bei rytinių Lietuvos valdų,\nrusėnų Vladimiro (Voluinės), Brastos,\nVitebsko, Smolensko, Polocko daliniai, su-\ntelkti greičiausiai anksčiau suplanuotam\nOrdino puolimui."
+  citata_rodoma: |
+    Atgal grįžtantį priešą prie
+    Strėvos upės pavijo Lietuvos kariuomenė.
+
+    Lietuvos pajėgos
+
+    Pagrindinių Lietuvos žemių, Algirdo ir
+    Kęstučio jėgos bei rytinių Lietuvos valdų,
+    rusėnų Vladimiro (Voluinės), Brastos,
+    Vitebsko, Smolensko, Polocko daliniai, su-
+    telkti greičiausiai anksčiau suplanuotam
+    Ordino puolimui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42168
-
 - id: c-45347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -90,8 +125,11 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
-  citata_rodoma: "J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai\nmėtė į krikščionis savo ietis, rusai iš lankų ir t."
+  citata_rodoma: |
+    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
+    mėtė į krikščionis savo ietis, rusai iš lankų ir t.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas, perteikdamas Vulfstano žinią, Hedaby sieja su prekyba garsėjusiu Šlezvigu, iš kurio jūra keliauta Vyslos link.
+Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, į įtaką Yslos.
 
 ## Teiginiai
 
 <a id="claim-t-201164"></a>
 - t-001
   global_id: t-201164
-  teiginys: "Daukantas, perteikdamas Vulfstano žinią, Hedaby sieja su prekyba garsėjusiu Šlezvigu, iš kurio jūra keliauta Vyslos link."
+  teiginys: "Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, į įtaką Yslos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184514
 
 ## Citatos
 
 - id: c-184514
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 48"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di­
     džiojo anglų viešpaties, arba karaliaus, į Žemaičius
@@ -55,6 +60,7 @@ Daukantas, perteikdamas Vulfstano žinią, Hedaby sieja su prekyba garsėjusiu �
     sėj jos gyvena (Weonoland) gudai, antroj pusėj vy­
     čiai, teka ji į Aestų, tai yra Žemaičių, jūrą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,17 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 - t-001
   global_id: t-28524
   teiginys: "Jogailai įsiveržus į Dobrino žemę, kryžiuočiai grįžo atgal."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Dobrino žemė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dobrino žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailos įsiveržimą į Dobrino žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) puolė Dobrino žemė (0.96)"
   pagrindžia:
     - c-28428
 
@@ -50,11 +61,11 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
     davusiu lietuviu, kuris tokiu būdu tikėjosi lengviau sunaikinti kry­
     žiuočius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28524
-
 ## Ryšiai
 - Puolė Dobrino žemę: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

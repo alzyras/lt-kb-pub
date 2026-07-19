@@ -47,6 +47,10 @@ Nenurodyta
 - t-001
   global_id: t-189681
   teiginys: 'Narbutas rašo, kad lietuvių bardai grojo styginiu instrumentu Citera, kurio garsai buvo išgaunami sukant į veleną panašią rankeną.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išlaikytas konkretus instrumento aprašas ir grojimo būdas. Pasakojimų apie senus žmones nepridėjau, nes pagrindiniam teiginiui pakanka aiškesnės citatos dalies.'
   pagrindžia:
     - c-172564
 
@@ -76,8 +80,9 @@ Nenurodyta
     vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
     tas, tačiau, pasak tų pasakojimų, tai buvę seniai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189681

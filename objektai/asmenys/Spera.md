@@ -34,6 +34,19 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - t-001
   global_id: t-186163
   teiginys: "Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Širvinta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Spera: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Širvinta: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spera\" parinktas kaip owner_note_path. Targetas \"Širvinta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169524
 
@@ -41,6 +54,13 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - t-002
   global_id: t-193987
   teiginys: "Lietuvos metraštis Sperą vaizduoja kaip ilgai valdžiusį, valdiniams gerą valdovą, kuris mirė nepalikęs įpėdinių."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176612
 
@@ -48,6 +68,13 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - t-003
   global_id: t-196592
   teiginys: "Apie Speros paminėtinus darbus vėlesnės kartos, Kojelavičiaus teigimu, nežinojo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178784
 - susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
@@ -67,12 +94,12 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
     ro pilį. Vieta ir dabar nuo įkūrėjo vardo Spera vadi­
     nama.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186163
-
 - id: c-176612
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -85,12 +112,12 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
     nantys aplinkui, ėmė jam atnašauti aukas ir laikyti jį
     dievu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193987
-
 - id: c-178784
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -104,6 +131,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
     tarp Neries, Nevėžio ir Dauguvos, o jaunėliui Gimbu­
     tui paskyrė Žemaitiją.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

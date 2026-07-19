@@ -33,6 +33,16 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
 - t-001
   global_id: t-86607
   teiginys: "Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "piniginiai vienetai ir apskaitos matai monetų kalykloje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piniginiai vienetai ir apskaitos matai monetų kalykloje\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82586
 
@@ -71,8 +81,31 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
     už 20 tūkstančių grivenų ir 6 šimtus
     grivenų ir 50 ir aštuonias grivenas
     ir du skatikus].
-  citata_rodoma: "serebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas. Ponas Liutauras \nChreptavičius, maršalka, Naugar­\nduko ir Slonimo vietininkas. Jo Ma­\nlonybei Valdovui Didžiajam kuni­\ngaikščiui pateikė monetų kalyklos \nišleistų monetų ketverių metų ap­\nskaitą: šešiasdešimt tūkstančių auk­\nsinų ir tūkstantis auksinų ir devyni \nšimtai auksinų ir dvidešimt auksi­\nnų, o auksinai po dvidešimt grašių \nir po du grašius. O už sidabrą ir už \ndarbą, ir už varį bei už visus reika­\nlus, kurie kalyklai priklauso, išėjo 50 \ntūkstančių kapų ir šeši tūkstančiai \nkapų, ir 40 kapų, ir kapa, ir 26 gra­\nšiai. O sidabro lydinių kalyklai teko \nuž 20 tūkstančių grivenų ir 6 šimtus \ngrivenų ir 50 ir aštuonias grivenas \nir du skatikus]."
+  citata_rodoma: |
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas. Ponas Liutauras
+    Chreptavičius, maršalka, Naugar­
+    duko ir Slonimo vietininkas. Jo Ma­
+    lonybei Valdovui Didžiajam kuni­
+    gaikščiui pateikė monetų kalyklos
+    išleistų monetų ketverių metų ap­
+    skaitą: šešiasdešimt tūkstančių auk­
+    sinų ir tūkstantis auksinų ir devyni
+    šimtai auksinų ir dvidešimt auksi­
+    nų, o auksinai po dvidešimt grašių
+    ir po du grašius. O už sidabrą ir už
+    darbą, ir už varį bei už visus reika­
+    lus, kurie kalyklai priklauso, išėjo 50
+    tūkstančių kapų ir šeši tūkstančiai
+    kapų, ir 40 kapų, ir kapa, ir 26 gra­
+    šiai. O sidabro lydinių kalyklai teko
+    už 20 tūkstančių grivenų ir 6 šimtus
+    grivenų ir 50 ir aštuonias grivenas
+    ir du skatikus].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

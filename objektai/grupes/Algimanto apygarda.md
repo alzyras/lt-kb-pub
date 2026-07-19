@@ -43,6 +43,19 @@ media_all_json: |-
 - t-001
   global_id: t-78161
   teiginys: "Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Algimanto apygarda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algimanto apygarda\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį."
   pagrindžia:
     - c-75468
 
@@ -50,6 +63,20 @@ media_all_json: |-
 - t-002
   global_id: t-78162
   teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Šimonių girios apgultis: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algimanto apygarda: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šimonių girios apgultis: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Claimas nurodo, kad per Šimonių girios apgultį žuvo apygardos vadovybė, todėl apygarda tiesiogiai siejama su šiuo įvykiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algimanto apygarda dalyvavo mūšyje Šimonių girios apgultis (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius."
   pagrindžia:
     - c-42634
 
@@ -57,6 +84,12 @@ media_all_json: |-
 - t-003
   global_id: t-193731
   teiginys: "Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42633
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
@@ -84,12 +117,12 @@ media_all_json: |-
 
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193731
-
 - id: c-42634
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,12 +148,12 @@ media_all_json: |-
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78162
-
 - id: c-75468
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -152,8 +185,33 @@ media_all_json: |-
     LGIMANTO"™ sd VEB AYA
     es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
     = ox Subačius ied : a X ; A 1945 m. vasario 17 d. į Panevėžio aps.
-  citata_rodoma: "Žuvo Antanas Slučka-Šarūnas\n\nVabalninkas co\n\ni i m e\nini e — m\nIl L lainė\n\nPanemunėlis p. “O ~~\n\nKriaunos“\n2 Aleksandravėlė“\n= Salos WO 7 d L \\ avis,\n\n+\n\n(Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo)\nsrities vadas), jo žmona ir dar vienas partizanas.\n\np\nJGPILIS\nLGIMANTO\"™ sd VEB AYA\nes mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS\n= ox Subačius ied : a X ; A 1945 m."
+  citata_rodoma: |
+    Žuvo Antanas Slučka-Šarūnas
+
+    Vabalninkas co
+
+    i i m e
+    ini e — m
+    Il L lainė
+
+    Panemunėlis p. “O ~~
+
+    Kriaunos“
+    2 Aleksandravėlė“
+    = Salos WO 7 d L \ avis,
+
+    +
+
+    (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo)
+    srities vadas), jo žmona ir dar vienas partizanas.
+
+    p
+    JGPILIS
+    LGIMANTO"™ sd VEB AYA
+    es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
+    = ox Subačius ied : a X ; A 1945 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

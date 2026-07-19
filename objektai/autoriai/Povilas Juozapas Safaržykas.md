@@ -41,6 +41,11 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
 - t-001
   global_id: t-191581
   teiginys: 'Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas sakinys apie Povilo Juozapo Safaržyko veikalą. Jis remiasi citata ir neprideda neparemtų detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-174463
 
@@ -63,8 +68,9 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
     rusiškąjį „Slavų senienų“ variantą, buvo nuodugniai juos
     išstudijavęs ir susidaręs savo nuomonę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191581

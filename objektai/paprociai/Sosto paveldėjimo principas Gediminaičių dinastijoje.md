@@ -59,6 +59,18 @@ Nenurodyta
 - t-001
   global_id: t-54349
   teiginys: "XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sosto paveldėjimo principas Gediminaičių dinastijoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sosto paveldėjimo principas Gediminaičių dinastijoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1264 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55209
 
@@ -76,8 +88,16 @@ Nenurodyta
     čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
     Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
     pačios giminės žmonės  – broliai arba sūnūs.
-  citata_rodoma: "1264 m. jis įsitraukė į politinį gyvenimą ir, \nsusidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą. \nGediminaičių dinastijos iškilimas\nXIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-\nčiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus \nVytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos \npačios giminės žmonės  – broliai arba sūnūs."
+  citata_rodoma: |
+    1264 m. jis įsitraukė į politinį gyvenimą ir,
+    susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
+    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
+    pačios giminės žmonės  – broliai arba sūnūs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

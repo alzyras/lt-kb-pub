@@ -41,6 +41,13 @@ media_all_json: |-
 - t-001
   global_id: t-193284
   teiginys: "Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-176013
 
@@ -57,6 +64,7 @@ media_all_json: |-
     ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
     išdrįso kariauti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

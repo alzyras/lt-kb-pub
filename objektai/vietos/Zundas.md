@@ -33,6 +33,11 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
 - t-001
   global_id: t-192914
   teiginys: 'Narbutas teigė, kad germanų tautų valtys išplaukdavo toliau už Zundą ir nugabendavo prekes į Okeano pakrančių miestus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutvarkytas OCR pažeistas sakinys ir išskleistas objektas – Zundas kaip kelio riba. Nepridėta papildomų žinių apie Tacitą ar sveonus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]'
   pagrindžia:
     - c-175684
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
@@ -56,8 +61,9 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
     'tacitas, užsiminęs apie sveonus, pateikia žinių, kad jie
     turėjo daug didelių laivų1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192914

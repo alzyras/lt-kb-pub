@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-189916
   teiginys: 'Narbuto aiškinime Gabijos buvo šaukiamasi kurstant ugnį jaujose, Pelenų Gabijos - namų krosnyse, o Moterų Gabijos - kepant duoną.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinis dievybių ryšio aiškinimas ir šaukimosi praktikos pateikti su Narbuto atribucija. Palikti tik citatoje nurodyti vardai ir naudojimo situacijos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-172799
 
@@ -71,8 +76,9 @@ Nenurodyta
     nį krosnyse namuose. Šauktis Moterų Gabijos -  tai paprotys
     kepėjų, norinčių, kad gerai nusisektų duona*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189916

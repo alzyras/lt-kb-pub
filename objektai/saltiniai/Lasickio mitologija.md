@@ -32,9 +32,16 @@ Tas pava dinimas yra Lasickio mitologijoje.
 - t-001
   global_id: t-194856
   teiginys: "Tas pava dinimas yra Lasickio mitologijoje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177252
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tas pava dinimas yra Lasickio mitologijoje.'
@@ -50,8 +57,7 @@ Tas pava dinimas yra Lasickio mitologijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194856
 ## Citatos
 
 - id: c-177252
@@ -74,8 +80,13 @@ Tas pava dinimas yra Lasickio mitologijoje.
     nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
-  citata_rodoma: "Burtininkė (Burte)\nLietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­\nvo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­\ndinimas yra Lasickio mitologijoje."
+  citata_rodoma: |
+    Burtininkė (Burte)
+    Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
+    vo įvairias dainas, taip pat pranašaudavo (burdavo). Tas pava­
+    dinimas yra Lasickio mitologijoje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -54,6 +54,14 @@ Nenurodyta
 - t-001
   global_id: t-189920
   teiginys: '1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas teisinis veiksmas ir jo išimtis, pašalinus archyvinį kontekstą bei OCR triukšmą. Nepridėta platesnių teisinių pasekmių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_group: [[objektai/grupes/Lietuvos seimas Gardine|Lietuvos seimas Gardine]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1568 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleistas teisinis veiksmas ir jo išimtis, pašalinus archyvinį kontekstą bei OCR triukšmą. Nepridėta platesnių teisinių pasekmių.'
   pagrindžia:
     - c-172803
 
@@ -80,8 +88,9 @@ Nenurodyta
 
     O prawach.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189920

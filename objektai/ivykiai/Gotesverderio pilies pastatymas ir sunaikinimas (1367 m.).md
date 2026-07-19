@@ -50,6 +50,13 @@ Nenurodyta
 - t-001
   global_id: t-196156
   teiginys: "Šindekopfas, atvykęs prie Gotesverderio pilies vietos, neberado jos ženklo, nes Algirdas ir Kęstutis ją užėmė ir sugriovė iki pamatų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178561
 
@@ -78,6 +85,7 @@ Nenurodyta
     atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
     matų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

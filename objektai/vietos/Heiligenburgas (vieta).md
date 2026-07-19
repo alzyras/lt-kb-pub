@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, įkūrė Heiligenburgo pilį, joje apgyvendino 300 vyrų ir pasirūpino maistu bei ginklais.
+Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai.
 
 ## Teiginiai
 
 <a id="claim-t-201146"></a>
 - t-001
   global_id: t-201146
-  teiginys: "Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, įkūrė Heiligenburgo pilį, joje apgyvendino 300 vyrų ir pasirūpino maistu bei ginklais."
+  teiginys: "Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184496
-- susijęs iš Padauguvis: Daukanto pasakojime Padauguvyje naujasis kalavijuočių magistras įkūrė Trikotės, Burtinikės, Rožytės ir Heiligenburgo pilis.
+
 ## Citatos
 
 - id: c-184496
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 461"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 461."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskiaus mistras Šauerburgas sutarė su savo tar­
     nais brostviais naują pilį Žemgaliuose įkurti, todėl
@@ -60,6 +65,7 @@ Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, į
     atsigrūdę lig griovų, vienok, gresiami vylyčiomis,
     nieko negalėjo nuveikti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

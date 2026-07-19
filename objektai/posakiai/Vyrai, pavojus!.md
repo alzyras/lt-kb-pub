@@ -44,10 +44,12 @@ media_all_json: |-
 - t-001
   global_id: t-41471
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43204
     - c-43205
-
 ## Citatos
 
 - id: c-43204
@@ -60,12 +62,12 @@ media_all_json: |-
     Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
     jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41471
-
 - id: c-43205
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -75,6 +77,7 @@ media_all_json: |-
     jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai. Kovos draugai, pašokę iš miego, griebėsi
     ginklų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

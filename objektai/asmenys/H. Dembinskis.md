@@ -41,6 +41,19 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 - t-001
   global_id: t-40131
   teiginys: "Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakų sukilėlių daliniai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "H. Dembinskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Trakų sukilėlių daliniai: mention_match, group, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"H. Dembinskis\" parinktas kaip owner_note_path. Targetas \"Trakų sukilėlių daliniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai nusako H. Dembinskio dalinių vaidmenį ir plano baigtį."
   pagrindžia:
     - c-44340
 
@@ -71,9 +84,31 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
     nuo pagrindinės sukilėlių puolimo kryp-
     ties (šio plano įgyvendinti nepavyko, tam
 
-    154  PANERIŲ MUSIS 1831 m. birželio 19 d.
-  citata_rodoma: "Sukilėlių pajėgos\n\nSukilėlių kariuomenės pagrindą Panerių\nmūšyje sudarė Lietuvos ir Lenkijos suki-\nlėlių daliniai. Lietuvos - 2-asis pėstininkų\npulkas, 6-asis raitųjų šaulių pulkas, 12-asis\nulonų pulkas, Trakų sukilėlių daliniai ir\nkiti smulkesni. Lenkijos - 7-asis pėsti-\nninkų pulkas, 1-asis, 2-asis ir 4-asis šaulių\npulkai, 1-asis ulonų pulkas, Kališo, Plocko,\nPoznanės raitininkų eskadronai ir kiti ma-\nzesni junginiai. Sukilėlių kariuomenėje\ngalėjo būti apie 13 tūkst. karių ir 28 arti-\nlerijos pabūklai. Operacijoje dalyvavo ir\nsukilėlių generolo H. Dembinskio daliniai,\nkurie turėjo imituoti puolimą per Neries\nŽaliąjį tiltą ir nukreipti dalį priešo pajėgų\nnuo pagrindinės sukilėlių puolimo kryp-\nties (šio plano įgyvendinti nepavyko, tam\n\n154  PANERIŲ MUSIS 1831 m."
+    154  PANERIŲ MUSIS 1831 m.
+  citata_rodoma: |
+    Sukilėlių pajėgos
+
+    Sukilėlių kariuomenės pagrindą Panerių
+    mūšyje sudarė Lietuvos ir Lenkijos suki-
+    lėlių daliniai. Lietuvos - 2-asis pėstininkų
+    pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
+    ulonų pulkas, Trakų sukilėlių daliniai ir
+    kiti smulkesni. Lenkijos - 7-asis pėsti-
+    ninkų pulkas, 1-asis, 2-asis ir 4-asis šaulių
+    pulkai, 1-asis ulonų pulkas, Kališo, Plocko,
+    Poznanės raitininkų eskadronai ir kiti ma-
+    zesni junginiai. Sukilėlių kariuomenėje
+    galėjo būti apie 13 tūkst. karių ir 28 arti-
+    lerijos pabūklai. Operacijoje dalyvavo ir
+    sukilėlių generolo H. Dembinskio daliniai,
+    kurie turėjo imituoti puolimą per Neries
+    Žaliąjį tiltą ir nukreipti dalį priešo pajėgų
+    nuo pagrindinės sukilėlių puolimo kryp-
+    ties (šio plano įgyvendinti nepavyko, tam
+
+    154  PANERIŲ MUSIS 1831 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,6 +43,16 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - t-001
   global_id: t-31039
   teiginys: "V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Merkys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Merkys\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33175
 
@@ -50,8 +60,23 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - t-002
   global_id: t-188484
   teiginys: "V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Merkys: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Merkys\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171374
+    - c-002
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
 - susijęs iš [[objektai/autoriai/P. Žostautaitė.md#claim-t-30920|P. Žostautaitė]]: P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.
 - susijęs iš [[objektai/autoriai/S. Samalavičius.md#claim-t-30971|S. Samalavičius]]: S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.
@@ -71,8 +96,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188484
 ## Citatos
 
 - id: c-33175
@@ -88,14 +112,19 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
     vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
     1965, 169-183 p.).
-  citata_rodoma: "Apie Vilniaus amatų pramonę, dar­\nbininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.\npradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­\nvičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,\n1965, 169-183 p.)."
+  citata_rodoma: |
+    Apie Vilniaus amatų pramonę, dar­
+    bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.
+    pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
+    vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
+    1965, 169-183 p.).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31039
-
 - id: c-171374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -112,8 +141,12 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
     Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
     „kurie yra veikale „Tūkstantis ir viena naktis“28 29.
-  citata_rodoma: "21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,\nįvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-\n560."
+  citata_rodoma: |
+    21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
+    įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
+    560.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

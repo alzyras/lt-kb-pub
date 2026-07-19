@@ -33,6 +33,9 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
 - t-001
   global_id: t-38776
   teiginys: "Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40580
 
@@ -49,6 +52,7 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
     praradus rikiuotę, vienose vietose atsirastų dideli tarpai tarp pada-
     linių, kitur - kariai susigrūstų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

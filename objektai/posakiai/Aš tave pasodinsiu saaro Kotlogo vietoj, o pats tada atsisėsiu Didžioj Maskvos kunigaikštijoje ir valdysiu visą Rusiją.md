@@ -32,6 +32,16 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 - t-001
   global_id: t-35964
   teiginys: "Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu: šis gausiąs Ordą, o Vytautas valdysiąs Didžiąją Maskvos kunigaikštiją ir visą Rusią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38351
 
@@ -52,8 +62,15 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
     tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
     samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
     yra teisingas.
-  citata_rodoma: "Rusų kronikos aiškina, kad\nsu Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro\nKotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­\ntijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio\nsamprotavimo priskyrimas būtų anachronizmas, bet esmėje jis\nyra teisingas."
+  citata_rodoma: |
+    Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
+    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
+    yra teisingas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

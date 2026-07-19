@@ -38,6 +38,15 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
 - t-001
   global_id: t-195049
   teiginys: "Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme“ ir siejo jį su menku lietuvių istorijos darbų skaičiumi per 400 metų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Vertinamasis posakis suformuluotas kaip Narbuto moralinis vertinimas. Palikti tik citatoje esantys argumentai, nepridedant platesnių priežasčių."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Samojedai|Samojedai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177411
 
@@ -56,8 +65,17 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
     darbų parašyta nei apie Lietuvą. Tas pavyzdžio neturin­
     tis abejingumas bus amžina Lietuvos dėmė ir prisidės
     prie kadaise galingos ir didvyriškos tauos išnykimo“1.
-  citata_rodoma: "Vyrauja tuščias pasididžiavimas senoliais, o protėvių\nistorijai paprasčiausiai atsuko nugarą. Per 400 metų nė\nvienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir\nTeodorą Narbutą, nepasirūpino krašto praeitimi. Iki šio­\nlei apie Abisiniją, arabus, mongolus ir samojedus daugiau\ndarbų parašyta nei apie Lietuvą. Tas pavyzdžio neturin­\ntis abejingumas bus amžina Lietuvos dėmė ir prisidės\nprie kadaise galingos ir didvyriškos tauos išnykimo“1."
+  citata_rodoma: |
+    Vyrauja tuščias pasididžiavimas senoliais, o protėvių
+    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
+    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
+    Teodorą Narbutą, nepasirūpino krašto praeitimi. Iki šio­
+    lei apie Abisiniją, arabus, mongolus ir samojedus daugiau
+    darbų parašyta nei apie Lietuvą. Tas pavyzdžio neturin­
+    tis abejingumas bus amžina Lietuvos dėmė ir prisidės
+    prie kadaise galingos ir didvyriškos tauos išnykimo“1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

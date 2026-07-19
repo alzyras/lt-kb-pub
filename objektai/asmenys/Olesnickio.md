@@ -32,6 +32,16 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 - t-001
   global_id: t-30367
   teiginys: "Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olesnickio: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olesnickio\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32796
 - susijęs iš [[objektai/asmenys/Jonas iš Tarnovo.md#claim-t-186113|Jonas iš Tarnovo]]: Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.
@@ -55,8 +65,15 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
     yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
     kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
     skersai kelio.
-  citata_rodoma: "Savo mokytojo\nOlesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko\nklausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai\nyra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,\nkuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo\nskersai kelio."
+  citata_rodoma: |
+    Savo mokytojo
+    Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko
+    klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai
+    yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
+    kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
+    skersai kelio.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

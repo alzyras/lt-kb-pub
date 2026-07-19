@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-86112
   teiginys: "Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viktorijos upelis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viktorijos upelis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82092
 
@@ -40,6 +50,16 @@ media_all_json: |-
 - t-002
   global_id: t-86113
   teiginys: "Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaclovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viktorijos upelis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vaclovas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viktorijos upelis\" parinktas kaip owner_note_path. Targetas \"Vaclovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82091
 
@@ -66,14 +86,26 @@ media_all_json: |-
     netgi gana graži. Žemė derlinga,
     Viktorijos upelis, nors mažas, bet
     vertas gražaus vardo.
-  citata_rodoma: "Kai \nkurie gyventojai, kad gimtosioms \napylinkėms suteiktų daugiau soli­\ndumo, dargi įrodinėja, neišmanyda­\nmi istorijos, kad anuomet ties Pa­\nbaisku galvą padėjęs čekų karalius \nVaclovas ir pan. Pabaisko vietovė \nkalvota, tačiau atvira, o ten, kur da­\nbar iškilusi nauja mūrinė bažnyčia, \nnetgi gana graži. Žemė derlinga, \nViktorijos upelis, nors mažas, bet \nvertas gražaus vardo."
+  citata_rodoma: |
+    Kai
+    kurie gyventojai, kad gimtosioms
+    apylinkėms suteiktų daugiau soli­
+    dumo, dargi įrodinėja, neišmanyda­
+    mi istorijos, kad anuomet ties Pa­
+    baisku galvą padėjęs čekų karalius
+    Vaclovas ir pan. Pabaisko vietovė
+    kalvota, tačiau atvira, o ten, kur da­
+    bar iškilusi nauja mūrinė bažnyčia,
+    netgi gana graži. Žemė derlinga,
+    Viktorijos upelis, nors mažas, bet
+    vertas gražaus vardo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86113
-
 - id: c-82092
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -89,6 +121,7 @@ media_all_json: |-
     vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
     likimui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

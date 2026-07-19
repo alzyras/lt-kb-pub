@@ -41,6 +41,16 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-001
   global_id: t-88025
   teiginys: "Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermanas Corneris Korneris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Corneris Korneris\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84005
 
@@ -48,6 +58,16 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-002
   global_id: t-88026
   teiginys: "Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Hermanas Corneris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hermanas Corneris Korneris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Hermanas Corneris: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Corneris Korneris\" parinktas kaip owner_note_path. Targetas \"Hermanas Corneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84004
 
@@ -72,14 +92,27 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     čio brolio, sūnui - subėgę vienas po
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
-  citata_rodoma: "33\nŽr. Hermano C  o  r  neri o, \ndominikono, Kroniką, Naruševi­\nčiau s t. VII, p. 342, kuris byloja: \nCives oppidi Vilnae, magis faventes Ja- \n$il, filio Olgerdi, fratris Keystuti, cu- \ncurrerunt unus post alium, ac si furem \nquemdam insequerentur ad castrum \n[Vilniaus miesto miestiečiai, labiau\npalankūs Jogailai - Algirdo, Kęstu­\nčio brolio, sūnui - subėgę vienas po \nkito ir tarsi kokį piktadarį nuvarę į \npilį]."
+  citata_rodoma: |
+    33
+    Žr. Hermano C  o  r  neri o,
+    dominikono, Kroniką, Naruševi­
+    čiau s t. VII, p. 342, kuris byloja:
+    Cives oppidi Vilnae, magis faventes Ja-
+    $il, filio Olgerdi, fratris Keystuti, cu-
+    currerunt unus post alium, ac si furem
+    quemdam insequerentur ad castrum
+    [Vilniaus miesto miestiečiai, labiau
+    palankūs Jogailai - Algirdo, Kęstu­
+    čio brolio, sūnui - subėgę vienas po
+    kito ir tarsi kokį piktadarį nuvarę į
+    pilį].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88026
-
 - id: c-84005
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -91,6 +124,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
     tėvų tikėjimą išpažindamas!
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

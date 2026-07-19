@@ -41,6 +41,18 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
 - t-001
   global_id: t-36048
   teiginys: "Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heweker, Die Schlacht bei Tannenberg: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heweker, Die Schlacht bei Tannenberg\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1906 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-38407
 
@@ -53,9 +65,12 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
-    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
-  citata_rodoma: "Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.\nYčas, J."
+    Yčas, J.
+  citata_rodoma: |
+    Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
+    Yčas, J.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

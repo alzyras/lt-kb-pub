@@ -42,6 +42,17 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 - t-001
   global_id: t-69178
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Ruhro sritis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ruhro sritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Okupavimas tiesiogiai atitinka užėmimo santykį tarp prancūzų kariuomenės ir Ruhro srities."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prancūzai užėmė Ruhro sritis (0.92); Ruhro sritis priklausė Vokietija (0.76)"
   pagrindžia:
     - c-43818
 
@@ -63,13 +74,20 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     Lietuvos vyriausybę priimti sprendimą
     pradėti karinę operaciją, suvaidino ryž-
     tingai nusiteikę Šaulių sąjungos nariai.
-  citata_rodoma: "Tarptautinės bendruomenės dėmesys\nbuvo nukrypęs į Vokietijos Ruhro sritį,\nkurią tuo metu okupavo prancūzų ka-\nriuomenė. Nemažą vaidmenį, skatinant\nLietuvos vyriausybę priimti sprendimą\npradėti karinę operaciją, suvaidino ryž-\ntingai nusiteikę Šaulių sąjungos nariai."
+  citata_rodoma: |
+    Tarptautinės bendruomenės dėmesys
+    buvo nukrypęs į Vokietijos Ruhro sritį,
+    kurią tuo metu okupavo prancūzų ka-
+    riuomenė. Nemažą vaidmenį, skatinant
+    Lietuvos vyriausybę priimti sprendimą
+    pradėti karinę operaciją, suvaidino ryž-
+    tingai nusiteikę Šaulių sąjungos nariai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69178
-
 ## Ryšiai
 - Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]

@@ -40,6 +40,18 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p.
 - t-001
   global_id: t-31843
   teiginys: "M. Stryjkowskio „Kronika Polska, Litewska etc.“ I tomas cituojamas 1846 m. leidimo 370–372 puslapiuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Stryjkowski Kronika Polska, Litewska etc: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Stryjkowski Kronika Polska, Litewska etc\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1846 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33661
 
@@ -53,8 +65,11 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p.
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**
     (^15) **Plg. Ad.
-  citata_rodoma: "M. Stryjkowski:** **_Kronika\nPolska, Litewska etc_** **., I, 1846, 370-372 p."
+  citata_rodoma: |
+    M. Stryjkowski:** **_Kronika
+    Polska, Litewska etc_** **., I, 1846, 370-372 p.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

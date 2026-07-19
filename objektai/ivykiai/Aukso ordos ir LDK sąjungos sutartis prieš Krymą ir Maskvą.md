@@ -64,6 +64,12 @@ Nenurodyta
 - t-001
   global_id: t-186781
   teiginys: '1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gomelis; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'
   pagrindžia:
     - c-169977
 
@@ -82,9 +88,9 @@ Nenurodyta
     Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę.
   citata_rodoma: "M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­\nsandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso \nordų pas chanų Slch-Achmatų buvo siunčiamas dar 1496.VIII už­\nmegzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui. \ntarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš \nKrymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-186781

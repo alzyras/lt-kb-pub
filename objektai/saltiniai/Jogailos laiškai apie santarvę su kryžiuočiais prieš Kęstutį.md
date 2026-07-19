@@ -33,6 +33,13 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
 - t-001
   global_id: t-193531
   teiginys: "Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė šio puolimo sumanymo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176211
 
@@ -40,6 +47,13 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
 - t-002
   global_id: t-196348
   teiginys: "Kęstutis laukė Jonušo, Mazovijos kunigaikščio ir savo žento, pagalbos, todėl nestojo į lemiamą mūšį prieš Jogailą su maža kariuomene."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176211
 
@@ -64,6 +78,7 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
     laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
     žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

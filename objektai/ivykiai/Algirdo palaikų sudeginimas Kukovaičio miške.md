@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-186691
   teiginys: 'Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maišiagala; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-169929
 
@@ -68,8 +70,9 @@ Nenurodyta
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
   citata_rodoma: "’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu \nprie Šventosios ties Deltuva, yra. veikiausiai, patekusi | Lietuvos \nmetraščių PS per Kęsgailas, Žemaičių senitinus ir Trakų kaštelionus, \nkadangi Deltuva XV ir XVI a. pirm ojoje pusėje buvo Kęsgailų \ntėviškė. Pagal J . Dlugošą Kukovaičio („Kokivvejtos'') m iške prie \nMaišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai \n(Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg \ndwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-186691

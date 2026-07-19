@@ -33,13 +33,34 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - t-001
   global_id: t-189398
   teiginys: "Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žyniai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žyniai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172285
-
+    - c-001
 <a id="claim-t-194606"></a>
 - t-002
   global_id: t-194606
   teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177005
 
@@ -47,6 +68,12 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - t-003
   global_id: t-197228
   teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179075
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
@@ -190,8 +217,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189398
 ## Citatos
 
 - id: c-172285
@@ -212,14 +238,25 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
     guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
     protėvių tikėjimo.
-  citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
+  citata_rodoma: |
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189398
-
 - id: c-177005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -236,12 +273,12 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
     dydavo nugara į ugnį, neabejotinai laukė mirtis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194606
-
 - id: c-179075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -258,11 +295,11 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     riu, Paukščių taku, laikančią rankoje tris žvaigždes ir su didele
     draugų palyda kylančią į amžinosios laimės buveinę .
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197228
-
 ## Ryšiai
 - Žyniai gyveno [[objektai/vietos/Upsala]]

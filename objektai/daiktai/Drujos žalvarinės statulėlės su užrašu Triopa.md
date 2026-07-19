@@ -52,6 +52,9 @@ Nenurodyta
 - t-001
   global_id: t-187979
   teiginys: 'Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išlaikyta Vėliaus perteikta Narbuto kilmės ir mitologinė interpretacija. Teiginys sutrumpintas, nepridėta duomenų apie radinio autentiškumą.'
+  susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-170986
 
@@ -80,8 +83,9 @@ Nenurodyta
     tinantis, kad tai panaši lietuviška minėtų dievų trijulė.
   citata_rodoma: "Pavyzdžiui, dievų Kabirų (su pomirtiniu pasauliu susiju­\nsios paslaptingosios dievų trijulės) lietuvių panteone T. Nar­\nbutas ieško pastebėjęs, kad mitai apie juos yra žinomi dauge­\nliui pasaulio tautų. O kad ir lietuviai tuos dievus turėję, ro­\ndančios Drujos apylinkėje rastos trys tarpusavy sujungtos žal-\n30\n\n## Puslapis 30\n\nvarinės statulėlės; buvęs net lietuviškas užrašas Triopa, patvir­\ntinantis, kad tai panaši lietuviška minėtų dievų trijulė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-187979

@@ -48,6 +48,9 @@ Nenurodyta
 - t-001
   global_id: t-194823
   teiginys: 'Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap rašo gedulingą žemaičių šventę, vadinamą skerstuvėmis (Skierstimes); lietuvių kalba tai reiškia meitėlio skerdimą; pa prastai tai vyksta ruošiant vaišių stalą ir dabar yra mūsų kai miečių įprastinės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177219
 
@@ -75,8 +78,9 @@ Nenurodyta
     su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
     tomis apeigomis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194823

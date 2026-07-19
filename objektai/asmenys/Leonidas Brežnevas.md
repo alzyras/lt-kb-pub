@@ -42,6 +42,19 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 - t-001
   global_id: t-19107
   teiginys: "Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonidas Brežnevas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonidas Brežnevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1967-1975; įvykio data: 1975 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir pašalinta citatoje neužbaigta statistika."
   pagrindžia:
     - c-21856
 
@@ -59,8 +72,10 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
     funkcijas pagal Maskvos nurodymus. O valdžios olimpe įsitvirtinus Leo-
     nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
     valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
-  citata_rodoma: "nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,"
+  citata_rodoma: |
+    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

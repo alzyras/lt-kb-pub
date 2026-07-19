@@ -67,6 +67,21 @@ Nenurodyta
 - t-001
   global_id: t-186737
   teiginys: "Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos užpuolimas Ašmenoje\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmais ir pasekmėmis. Jis remiasi citata ir neprideda nuo jos neatsekamų faktų."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169957
 
@@ -74,6 +89,22 @@ Nenurodyta
 - t-003
   global_id: t-186740
   teiginys: "1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "dalyvavo_musyje -> Švitrigailos užpuolimas Ašmenoje: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigailos užpuolimas Ašmenoje: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Žygimantas Kęstutaitis įvardytas tarp užpuolimą Ašmenoje įvykdžiusių veikėjų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) dalyvavo mūšyje Švitrigailos užpuolimas Ašmenoje (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169957
 
@@ -81,6 +112,21 @@ Nenurodyta
 - t-005
   global_id: t-186742
   teiginys: "Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos užpuolimas Ašmenoje\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: po 1422 m.; įvykio data: 1422 m.; įvykio data: 1432 m.; įvykio data: po 1434 m.; įvykio data: 1434 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia glaustesnės sakinio struktūros ir atribucijos redakcinei pastabai."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169956
 
@@ -88,16 +134,26 @@ Nenurodyta
 - t-002
   global_id: t-186739
   teiginys: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Ašmena; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mstislavlis'
+  temporaliniai_duomenys: 'įvykio data: iki 1433 m.; įvykio data: 1399 m.; įvykio data: 1433 m.; įvykio data: 1457 m.; įvykio data: apie 1457 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
   pagrindžia:
-    - c-169954
-
+    - c-001
 <a id="claim-t-186741"></a>
 - t-004
   global_id: t-186741
   teiginys: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
   pagrindžia:
-    - c-169958
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
@@ -113,13 +169,12 @@ Nenurodyta
     ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
     šioje vieloje neminimas.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186739
 - c-004
   santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -132,13 +187,12 @@ Nenurodyta
     neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
     kaltai".
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-186741
 ## Citatos
 
 - id: c-169956
@@ -161,14 +215,19 @@ Nenurodyta
     Švitrigailą ir apkaltintiems neištikimybe. 1437 m. pradžioje buvo
     nukirsdinti Polocko ir Vitebsko pasiuntiniai, atvykę pas Žygimantą
     Kęstutaitį.
-  citata_rodoma: "3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­\ntininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą \nI432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs- \ntutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.) \nMirė 1435 m."
+  citata_rodoma: |
+    3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
+    tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
+    I432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs-
+    tutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.)
+    Mirė 1435 m.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186742
-
 - id: c-169957
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -189,8 +248,18 @@ Nenurodyta
     viškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu-
     taičio rankas Po sųmokslo Žygimantui Kęstutaičiul pasidavė Trakų
     kunigaikštystė (Žemaitija.
-  citata_rodoma: "su Alšėnų kunigaikščiu Simonu Jonaičiu Algimantalčiu (Lenkijos ka­\nraliaus Jogailos žmonos Sofijos dėde ir globėju), Aleksandru lOlel- \nka) Vladimiraičlu Algirdaičiu, Naugarduko vietininku Petru Mant- \ngirdaičiu Ir jų ginkluotais būriais; pastarieji 1432.!X.1 naktį užpuolė \nSvitrigallų Ašmenoje, kur jis su šeima, dvaru ir palyda buvo ap­\nsistojęs, vykdamas j Brastų derybų su Lenkija. Pats Švitrigaila su \nnedidele palyda pabėgo, o jo žmona, dvariškiai, Švitrigailos valdo- \nviškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu- \ntaičio rankas"
+  citata_rodoma: |
+    su Alšėnų kunigaikščiu Simonu Jonaičiu Algimantalčiu (Lenkijos ka­
+    raliaus Jogailos žmonos Sofijos dėde ir globėju), Aleksandru lOlel-
+    ka) Vladimiraičlu Algirdaičiu, Naugarduko vietininku Petru Mant-
+    girdaičiu Ir jų ginkluotais būriais; pastarieji 1432.!X.1 naktį užpuolė
+    Svitrigallų Ašmenoje, kur jis su šeima, dvaru ir palyda buvo ap­
+    sistojęs, vykdamas j Brastų derybų su Lenkija. Pats Švitrigaila su
+    nedidele palyda pabėgo, o jo žmona, dvariškiai, Švitrigailos valdo-
+    viškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu-
+    taičio rankas
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

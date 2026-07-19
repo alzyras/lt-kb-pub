@@ -32,9 +32,16 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - t-001
   global_id: t-188948
   teiginys: "Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171837
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis.'
@@ -53,8 +60,7 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188948
 ## Citatos
 
 - id: c-171837
@@ -73,8 +79,16 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
     bių; garbinimo objektai labai dažnai būdavo nedailus medžio
     gabalas, keisto pavidalo akmuo arba kokio nors metalo gaba­
     las.
-  citata_rodoma: "Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­\nnyti, kad ji galinti turėti įtakos vaisingumui.\nVINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-\nnių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai\nsenos vinkšnos kelmas; jo skersmuo apačioje siekia penkias\nuolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­\natmenamų laikų."
+  citata_rodoma: |
+    Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
+    nyti, kad ji galinti turėti įtakos vaisingumui.
+    VINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-
+    nių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai
+    senos vinkšnos kelmas; jo skersmuo apačioje siekia penkias
+    uolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­
+    atmenamų laikų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
