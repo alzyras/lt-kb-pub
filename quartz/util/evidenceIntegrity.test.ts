@@ -49,6 +49,36 @@ describe("evidence integrity", () => {
     assert.deepEqual(collectEvidenceIntegrityIssues(withExcerpt), [])
   })
 
+  test("normalizes OCR line-break hyphenation and page context", () => {
+    const withOcr = `---
+pavadinimas: Klastyklė
+---
+# Klastyklė
+
+## Teiginiai
+- t-001
+  teiginys: Atskiras javų valymo įrankis.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- c-001
+  citata_originali: |
+    Su klastykle nuvaro į šalį viską, kas grū-
+    duose nereikalinga.
+  pagrindžia:
+    - t-001
+`
+    assert.deepEqual(collectEvidenceIntegrityIssues(withOcr), [])
+  })
+
+  test("matches non-Latin citation tokens without relying on ASCII-only text", () => {
+    const cyrillic = validMarkdown
+      .replace("Vytautas vedė kariuomenę prie mūšio.", "Ипатиевская летопись.")
+      .replace("Vytautas vedė kariuomenę.", "Ипатиевская летопись.")
+    assert.deepEqual(collectEvidenceIntegrityIssues(cyrillic), [])
+  })
+
   test("rejects duplicate global claim ids", () => {
     const duplicate = validMarkdown.replace(
       "\n## Citatos",

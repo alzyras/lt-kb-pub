@@ -268,12 +268,10 @@ describe("citationFilter metadata", () => {
     }
   })
 
-  test("keeps the full object corpus render-safe", () => {
+  test("keeps the full object corpus integrity-clean before rendering", () => {
     const failures: string[] = []
     for (const filePath of listMarkdownFiles(path.resolve("objektai"))) {
-      const issues = collectEvidenceIntegrityIssues(fs.readFileSync(filePath, "utf8")).filter(
-        (issue) => issue.severity === "error",
-      )
+      const issues = collectEvidenceIntegrityIssues(fs.readFileSync(filePath, "utf8"))
       for (const issue of issues) {
         failures.push(
           `${path.relative(process.cwd(), filePath)}: ${issue.code} ${issue.entryId}${issue.relatedId ? ` -> ${issue.relatedId}` : ""}`,
