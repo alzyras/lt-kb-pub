@@ -104,8 +104,9 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
           alt={cleanText(media.caption) || item.titleLt}
           width={media.width || undefined}
           height={media.height || undefined}
-          loading={index < 2 ? "eager" : "lazy"}
+          loading={index < 6 ? "eager" : "lazy"}
           decoding="async"
+          sizes="(max-width: 800px) calc(100vw - 2rem), 58vw"
         />
         <span>
           Atidaryti vaizdo kortelę <ExternalLink size={14} />
@@ -142,13 +143,19 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
   )
   return (
     <main class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}>
-      <header
-        class="exhibition-hero"
-        style={{
-          backgroundImage: `linear-gradient(90deg, rgba(5,3,2,.88), rgba(5,3,2,.24)), url(${JSON.stringify(hero).slice(1, -1)})`,
-        }}
-      >
-        <div>
+      <header class="exhibition-hero">
+        <div class="exhibition-hero-media" aria-hidden="true">
+          <img
+            src={hero}
+            alt=""
+            width={exhibition.hero.width || undefined}
+            height={exhibition.hero.height || undefined}
+            loading="eager"
+            decoding="async"
+          />
+        </div>
+        <div class="exhibition-hero-scrim" aria-hidden="true" />
+        <div class="exhibition-hero-content">
           <p class="exhibition-eyebrow">
             <Images size={15} /> Skaitmeninė paroda
           </p>

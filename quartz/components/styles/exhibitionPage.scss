@@ -22,14 +22,14 @@
 }
 
 .exhibition-hero {
+  position: relative;
   display: grid;
   min-height: min(78vh, 50rem);
   align-items: end;
+  overflow: hidden;
   margin: -2rem calc(50% - 50vw) 0;
   padding: clamp(4rem, 10vw, 8rem) max(1.25rem, calc((100vw - 82rem) / 2));
   background-color: #16100d;
-  background-position: center;
-  background-size: cover;
   color: #fff;
   isolation: isolate;
 }
@@ -38,7 +38,36 @@
   background-color: #170f0c;
 }
 
-.exhibition-hero > div {
+.exhibition-hero-media,
+.exhibition-hero-scrim {
+  position: absolute;
+  inset: 0;
+}
+
+.exhibition-hero-media {
+  display: grid;
+  place-items: center end;
+  background: #160f0c;
+}
+
+.exhibition-hero-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center right;
+  opacity: 0.78;
+}
+
+.exhibition-hero-scrim {
+  z-index: 1;
+  background:
+    linear-gradient(90deg, rgba(5, 3, 2, 0.97) 0%, rgba(5, 3, 2, 0.82) 30%, rgba(5, 3, 2, 0.28) 67%, rgba(5, 3, 2, 0.16) 100%),
+    linear-gradient(0deg, rgba(5, 3, 2, 0.62), transparent 40%);
+}
+
+.exhibition-hero-content {
+  position: relative;
+  z-index: 2;
   max-width: 52rem;
 }
 
@@ -167,7 +196,7 @@
 }
 
 .exhibition-section {
-  padding: clamp(4rem, 9vw, 8rem) 0 2rem;
+  padding: clamp(3.2rem, 7vw, 6rem) 0 1.5rem;
   scroll-margin-top: 4rem;
 }
 
@@ -181,7 +210,7 @@
   display: grid;
   max-width: 58rem;
   grid-template-columns: 3.4rem 1fr;
-  margin-bottom: clamp(3rem, 7vw, 6rem);
+  margin-bottom: clamp(2rem, 4vw, 3.5rem);
 }
 
 .exhibition-section > header > span {
@@ -222,8 +251,8 @@
   display: grid;
   grid-template-columns: minmax(0, 1.14fr) minmax(20rem, 0.86fr);
   gap: clamp(2rem, 6vw, 6rem);
-  align-items: center;
-  padding: clamp(2.5rem, 6vw, 6rem) 0;
+  align-items: start;
+  padding: clamp(2rem, 4vw, 4rem) 0;
   border-top: 1px solid var(--lightgray);
 }
 
@@ -238,7 +267,8 @@
 .exhibition-item-image {
   position: relative;
   display: grid;
-  min-height: 24rem;
+  aspect-ratio: 4 / 3;
+  min-height: 0;
   place-items: center;
   overflow: hidden;
   padding: clamp(1.2rem, 3vw, 2.4rem);
@@ -283,7 +313,7 @@
   position: relative;
   z-index: 0;
   width: 100%;
-  max-height: 70vh;
+  height: 100%;
   object-fit: contain;
   filter: saturate(0.96) contrast(1.02);
   transition:
@@ -328,6 +358,10 @@
   font-size: clamp(1.8rem, 3.5vw, 3.1rem);
   line-height: 1.04;
   letter-spacing: -0.035em;
+}
+
+.exhibition-item-copy {
+  padding-top: 0.35rem;
 }
 
 .exhibition-item-meta {
@@ -632,6 +666,15 @@
     min-height: 72vh;
     margin-top: -1rem;
   }
+  .exhibition-hero-media img {
+    object-position: center;
+    opacity: 0.48;
+  }
+  .exhibition-hero-scrim {
+    background:
+      linear-gradient(90deg, rgba(5, 3, 2, 0.92), rgba(5, 3, 2, 0.52)),
+      linear-gradient(0deg, rgba(5, 3, 2, 0.72), transparent 62%);
+  }
   .exhibition-chapters {
     display: flex;
     overflow-x: auto;
@@ -647,7 +690,7 @@
     order: 0;
   }
   .exhibition-item-image {
-    min-height: 18rem;
+    aspect-ratio: 4 / 3;
   }
   .exhibition-catalogue > div {
     grid-template-columns: 1fr;
