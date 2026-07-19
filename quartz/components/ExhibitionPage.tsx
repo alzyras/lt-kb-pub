@@ -50,7 +50,9 @@ function ClaimLinks({ item }: { item: ExhibitionItem }) {
           <div class="exhibition-claim-label">
             {claim.role === "direct" ? "Tiesiogiai apie eksponatą" : "Istorinis kontekstas"}
           </div>
-          <p>{claim.text}</p>
+          <p>
+            <strong>Šaltinis teigia:</strong> {claim.text}
+          </p>
           <div class="exhibition-claim-footer">
             <small>{claim.sourceTitle}</small>
             <a href={claim.url}>
@@ -113,6 +115,7 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
         <span class="exhibition-item-number">{String(index + 1).padStart(2, "0")}</span>
         <h3>{item.titleLt}</h3>
         <ItemMeta item={item} />
+        <div class="exhibition-narrative-label">Parodos pasakojimas</div>
         <p class="exhibition-item-description">{item.descriptionLt}</p>
         <ClaimLinks item={item} />
         <ItemTags item={item} />
@@ -123,7 +126,7 @@ function Exhibit({ item, index }: { item: ExhibitionItem; index: number }) {
             target="_blank"
             rel="noreferrer noopener"
           >
-            Pirminis vaizdo įrašas <ExternalLink size={14} />
+            Pirminis vaizdas <ExternalLink size={14} />
           </a>
         )}
       </div>
@@ -156,6 +159,10 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos
             kaip parodos pasakojimas.
           </p>
+          <div class="exhibition-reading-key" aria-label="Kaip skaityti parodą">
+            <span class="is-narrative">Parodos pasakojimas</span>
+            <span class="is-source">Šaltinis ir citata</span>
+          </div>
           <a href="#parodos-pradzia">
             Pradėti parodą <ArrowRight size={17} />
           </a>
@@ -205,6 +212,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
                   />
                 </a>
                 <h3>{item.titleLt}</h3>
+                <div class="exhibition-narrative-label">Kuratoriaus pastaba</div>
                 <p>{item.catalogDescriptionLt}</p>
                 <ClaimLinks item={item} />
               </article>

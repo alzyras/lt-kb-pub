@@ -1491,7 +1491,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 
 <a id="claim-t-179863"></a>
 - t-072
-  global_id: t-179863
+  global_id: t-908871599
   teiginys: 'Narbutas nurodė iš Gardino gavęs ištrauką iš lotyniško in folio veikalo, kuriame buvo XVI a. Gardino raižinys.'
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
@@ -1502,7 +1502,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 
 <a id="claim-t-179827"></a>
 - t-075
-  global_id: t-179827
+  global_id: t-908871600
   teiginys: 'Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.'
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'

@@ -129,6 +129,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176087
+    - c-003
 
 <a id="claim-t-200708"></a>
 - t-005
@@ -186,9 +187,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193360
-
 ## Citatos
 
 - id: c-23136

@@ -90,6 +90,35 @@
   line-height: 1.55;
 }
 
+.exhibition-reading-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1.8rem;
+}
+
+.exhibition-reading-key span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.8rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 999px;
+  color: #f4e9de;
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.exhibition-reading-key .is-narrative {
+  border-color: rgba(255, 139, 136, 0.7);
+}
+
+.exhibition-reading-key .is-source {
+  border-color: rgba(196, 151, 85, 0.85);
+}
+
 .exhibition-hero a,
 .exhibition-footer a,
 .exhibitions-index article > div > a {
@@ -308,6 +337,19 @@
   font-weight: 700;
 }
 
+.exhibition-narrative-label {
+  margin-top: 1.1rem;
+  color: var(--gray);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.exhibition-theme--interwar .exhibition-narrative-label {
+  color: color-mix(in srgb, var(--exhibition-gold) 78%, var(--exhibition-ink));
+}
+
 .exhibition-item-description {
   margin: 1.2rem 0;
   color: var(--darkgray);
@@ -387,6 +429,11 @@
   line-height: 1.55;
 }
 
+.exhibition-claims p strong {
+  color: var(--secondary);
+  font-weight: 800;
+}
+
 .exhibition-claim-label {
   margin-top: 0.75rem;
   color: var(--gray);
@@ -464,8 +511,24 @@
 .exhibition-catalogue img {
   width: 100%;
   aspect-ratio: 4 / 3;
+  padding: 0.65rem;
+  border: 1px solid color-mix(in srgb, var(--exhibition-gold) 48%, transparent);
   background: var(--lightgray);
+  box-shadow: inset 0 0 0 0.25rem color-mix(in srgb, var(--exhibition-gold) 12%, transparent);
   object-fit: contain;
+  transition:
+    transform 360ms ease,
+    box-shadow 360ms ease;
+}
+
+.exhibition-catalogue article > a {
+  display: block;
+  overflow: hidden;
+}
+
+.exhibition-catalogue article > a:hover img {
+  transform: scale(1.02);
+  box-shadow: inset 0 0 0 0.25rem color-mix(in srgb, var(--exhibition-gold) 24%, transparent);
 }
 
 .exhibition-catalogue h3 {
@@ -596,7 +659,8 @@
 
 @media (prefers-reduced-motion: reduce) {
   .exhibition-item-image,
-  .exhibition-item-image img {
+  .exhibition-item-image img,
+  .exhibition-catalogue img {
     transition: none;
   }
 }

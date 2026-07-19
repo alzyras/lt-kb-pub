@@ -151,8 +151,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, paremtą citata."
   pagrindžia:
-    - c-180205
-    - c-180178
     - c-34203
 
 <a id="claim-t-05220"></a>
@@ -237,7 +235,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys su aiškia priežastine pasekme."
   pagrindžia:
     - c-11545
-    - c-164
 
 <a id="claim-t-10107"></a>
 - t-009
@@ -256,7 +253,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporaliniai_duomenys: "įvykio data: 1430 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-165
     - c-160616
 
 <a id="claim-t-10108"></a>
@@ -279,7 +275,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą faktą."
   pagrindžia:
     - c-160720
-    - c-166
 
 <a id="claim-t-10703"></a>
 - t-011
@@ -2912,9 +2907,9 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindžia:
     - c-180238
 
-<a id="claim-t-10107"></a>
+<a id="claim-t-198275"></a>
 - t-157
-  global_id: t-10107
+  global_id: t-198275
   teiginys: "1430 m. spalio 27 d. mirė Vytautas Didysis Kęstutaitis, šaltinyje įvardijamas valstybės galybės kūrėju."
   atnaujinta: "2026-07-12 22:59"
   sprendimo_priezastis: "auto"
@@ -2930,8 +2925,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-165
-    - c-160616
+    - c-180198
+    - c-180203
 
 <a id="claim-t-198279"></a>
 - t-158
@@ -2970,7 +2965,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-180205
     - c-180124
 
 <a id="claim-t-198295"></a>

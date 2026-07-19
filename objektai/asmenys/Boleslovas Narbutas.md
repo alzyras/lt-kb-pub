@@ -7,15 +7,15 @@ datos:
   - '1863 m.'
 date_start: '1863'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sukilėlis
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
