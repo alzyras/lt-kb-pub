@@ -242,8 +242,14 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
     .map((object) => object.title)
     .join(" · ")
   const href = galleryUrl(emptyGalleryState(), text(entry.mediaId))
+  const width = Number(entry.width)
+  const height = Number(entry.height)
+  const intrinsicSize =
+    Number.isFinite(width) && width > 0 && Number.isFinite(height) && height > 0
+      ? ` width="${width}" height="${height}"`
+      : ""
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
-    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
+    <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
     <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
   const image = article.querySelector<HTMLImageElement>("img")

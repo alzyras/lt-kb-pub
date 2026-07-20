@@ -123,7 +123,8 @@ function Exhibit({
   exhibitionId: string
 }) {
   const media = item.media
-  const imageUrl = cleanText(media.thumbUrl || media.sourceUrl)
+  // Large exhibition panels should never upscale a thumbnail.
+  const imageUrl = cleanText(media.sourceUrl || media.thumbUrl)
   const frame = mediaFrame(item)
   return (
     <article
@@ -282,7 +283,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
                     style={`--media-aspect:${frame.aspect}`}
                   >
                     <img
-                      src={item.media.thumbUrl || item.media.sourceUrl}
+                      src={item.media.sourceUrl || item.media.thumbUrl}
                       alt={item.titleLt}
                       loading="lazy"
                     />
