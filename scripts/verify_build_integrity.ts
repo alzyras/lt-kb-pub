@@ -54,12 +54,24 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
   const contexts = readJson<
     Record<
       string,
-      { exhibitionId?: string; items?: Array<{ mediaId?: string; descriptionLt?: string }> }
+      {
+        exhibitionId?: string
+        items?: Array<{
+          mediaId?: string
+          descriptionLt?: string
+          sectionSlug?: string
+          featured?: boolean
+        }>
+      }
     >
   >("static/exhibitionMediaContext.json")
   const expectedCounts: Record<string, number> = {
     "vytautas-didysis-tarp-istorijos-ir-atvaizdo": 32,
     "vytauto-atminties-kultas-tarpukariu": 20,
+  }
+  const expectedFeaturedCounts: Record<string, number> = {
+    "vytautas-didysis-tarp-istorijos-ir-atvaizdo": 24,
+    "vytauto-atminties-kultas-tarpukariu": 18,
   }
   for (const [exhibitionId, expectedCount] of Object.entries(expectedCounts)) {
     const context = contexts[exhibitionId]
@@ -74,6 +86,24 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
     }
     if (context.items?.some((item) => !item.mediaId || !item.descriptionLt)) {
       failures.push(`${exhibitionId} gallery context contains an incomplete item`)
+    }
+    const mediaIds = context.items?.map((item) => String(item.mediaId ?? "")) ?? []
+    if (new Set(mediaIds).size !== mediaIds.length) {
+      failures.push(`${exhibitionId} gallery context contains duplicate media IDs`)
+    }
+    if (context.items?.some((item) => !item.sectionSlug || typeof item.featured !== "boolean")) {
+      failures.push(`${exhibitionId} gallery context contains incomplete slideshow fields`)
+    }
+    const featuredCount = context.items?.filter((item) => item.featured).length ?? 0
+    if (featuredCount !== expectedFeaturedCounts[exhibitionId]) {
+      failures.push(
+        `${exhibitionId} slideshow context has ${featuredCount} featured items; expected ${expectedFeaturedCounts[exhibitionId]}`,
+      )
+    }
+    const pagePath = path.join(publicRoot, "parodos", exhibitionId, "index.html")
+    const pageHtml = fs.existsSync(pagePath) ? fs.readFileSync(pagePath, "utf8") : ""
+    if (!pageHtml.includes("data-exhibition-slideshow") || !pageHtml.includes("mode=slideshow")) {
+      failures.push(`${exhibitionId} page is missing the slideshow launch link`)
     }
   }
 }

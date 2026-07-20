@@ -82,6 +82,8 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
                 creatorDisplay: item.creatorDisplay || "",
                 dateDisplay: item.dateDisplay || item.media.dateDisplay || "",
                 sectionTitle: section.title,
+                sectionSlug: section.slug,
+                featured: item.featured,
               })),
             ),
           },

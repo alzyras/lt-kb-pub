@@ -176,6 +176,27 @@
   text-decoration: none;
 }
 
+.exhibition-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.2rem;
+  align-items: center;
+}
+
+.exhibition-hero-actions .is-slideshow {
+  min-height: 2.5rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--exhibition-accent) 70%, transparent);
+  background: var(--exhibition-accent);
+  color: #fff;
+}
+
+.exhibition-hero-actions .is-slideshow:hover,
+.exhibition-hero-actions .is-slideshow:focus-visible {
+  background: var(--exhibition-ink);
+  color: #fff;
+}
+
 .exhibition-chapters {
   position: sticky;
   z-index: 8;

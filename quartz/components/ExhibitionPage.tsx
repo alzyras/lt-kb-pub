@@ -1,4 +1,4 @@
-import { ArrowLeft, ArrowRight, ExternalLink, Images, Quote, Tags } from "lucide-preact"
+import { ArrowLeft, ArrowRight, ExternalLink, Images, Play, Quote, Tags } from "lucide-preact"
 import type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import type { ExhibitionClaim, ExhibitionItem, ExhibitionManifest } from "../util/exhibitions"
 import { cleanText, displayCreator, displayDate } from "../util/objectMedia"
@@ -25,13 +25,25 @@ function parseManifest(value: unknown): ExhibitionManifest | undefined {
 function ItemMeta({ item }: { item: ExhibitionItem }) {
   const media = item.media
   const facts = [
-    displayCreator(item.creatorDisplay || media.creator),
-    displayDate(item.dateDisplay || media.dateDisplay),
-    cleanText(media.institution || media.providerLabel || media.provider),
-  ].filter(Boolean)
+    { value: displayCreator(item.creatorDisplay || media.creator), isDate: false },
+    { value: displayDate(item.dateDisplay || media.dateDisplay), isDate: true },
+    {
+      value: cleanText(media.institution || media.providerLabel || media.provider),
+      isDate: false,
+    },
+  ].filter((fact) => fact.value)
   return (
     <>
-      {facts.length > 0 && <p class="exhibition-item-meta">{facts.join(" · ")}</p>}
+      {facts.length > 0 && (
+        <p class="exhibition-item-meta">
+          {facts.map((fact, index) => (
+            <span class="exhibition-item-meta-fact" data-exhibition-date={fact.isDate || undefined}>
+              {fact.value}
+              {index < facts.length - 1 && <span aria-hidden="true"> · </span>}
+            </span>
+          ))}
+        </p>
+      )}
       <div class="exhibition-item-rights">
         <span>{mediaLicenseLabel(media.license) || "Teisės nenurodytos"}</span>
         {media.attribution && <span>{media.attribution}</span>}
@@ -214,9 +226,19 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             <span class="is-narrative">Parodos pasakojimas</span>
             <span class="is-source">Šaltinis ir citata</span>
           </div>
-          <a href="#parodos-pradzia">
-            Pradėti parodą <ArrowRight size={17} />
-          </a>
+          <div class="exhibition-hero-actions">
+            <a href="#parodos-pradzia">
+              Pradėti parodą <ArrowRight size={17} />
+            </a>
+            <a
+              class="is-slideshow"
+              href="?mode=slideshow"
+              data-exhibition-slideshow
+              aria-label="Paleisti automatinę parodos peržiūrą"
+            >
+              <Play size={16} fill="currentColor" /> Paleisti peržiūrą
+            </a>
+          </div>
         </div>
       </header>
       <nav

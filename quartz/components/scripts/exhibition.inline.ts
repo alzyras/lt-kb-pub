@@ -3,6 +3,13 @@ import PhotoSwipeLightbox from "photoswipe/lightbox"
 import type { MediaEntry } from "../../util/objectMedia"
 import { cleanText, displayCaption } from "../../util/objectMedia"
 import { mediaLicenseLabel } from "../../util/mediaGallery"
+import {
+  exhibitionSlideshowDurationMs,
+  exhibitionSlideshowIsRtl,
+  exhibitionSlideshowLabels,
+  exhibitionSlideshowNextIndex,
+  exhibitionSlideshowSequence,
+} from "../../util/exhibitionSlideshow"
 
 type Cleanup = () => void
 
@@ -13,6 +20,8 @@ type ExhibitionViewerItem = {
   creatorDisplay: string
   dateDisplay: string
   sectionTitle: string
+  sectionSlug: string
+  featured: boolean
 }
 
 type ExhibitionViewerContext = {
@@ -157,21 +166,42 @@ function viewerDimensions(entry: MediaEntry): { width: number; height: number } 
   return { width: 1600, height: 1200 }
 }
 
-function viewerDetails(entry: MediaEntry, item: ExhibitionViewerItem): string {
+function currentLanguage(): string {
+  return new URLSearchParams(location.search).get("lang") || document.documentElement.lang || "lt"
+}
+
+function viewerDetails(
+  entry: MediaEntry,
+  item: ExhibitionViewerItem,
+  slideshow = false,
+  page?: HTMLElement,
+): string {
+  const labels = exhibitionSlideshowLabels(currentLanguage())
+  const localized = page ? localizedViewerItem(page, item) : item
   const fact = (label: string, value: unknown) => {
     const clean = text(value)
     return clean ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(clean)}</dd></div>` : ""
   }
-  const creator = text(item.creatorDisplay || entry.creator)
-  const date = viewerDate(item.dateDisplay || entry.dateDisplay)
+  const creator = text(localized.creatorDisplay || entry.creator)
+  const date = viewerDate(localized.dateDisplay || entry.dateDisplay)
   const provider = text(entry.institution || entry.providerLabel || entry.provider)
   const license = mediaLicenseLabel(entry.license) || "Teisės nenurodytos"
+  if (slideshow) {
+    return `<div class="media-viewer-panel-inner is-exhibition-context is-slideshow-context">
+      <header class="media-viewer-heading">
+        <p class="media-viewer-kicker">${escapeHtml(localized.sectionTitle || labels.exhibit)}</p>
+        <h2>${escapeHtml(localized.titleLt || displayCaption(entry))}</h2>
+        ${date ? `<p class="media-viewer-exhibition-date">${escapeHtml(date)}</p>` : ""}
+        <p class="media-viewer-exhibition-description">${escapeHtml(localized.descriptionLt)}</p>
+      </header>
+    </div>`
+  }
   return `<div class="media-viewer-panel-inner is-exhibition-context">
     <header class="media-viewer-heading">
-      <p class="media-viewer-kicker">${escapeHtml(item.sectionTitle || "Parodos eksponatas")}</p>
-      <h2>${escapeHtml(item.titleLt || displayCaption(entry))}</h2>
+      <p class="media-viewer-kicker">${escapeHtml(localized.sectionTitle || "Parodos eksponatas")}</p>
+      <h2>${escapeHtml(localized.titleLt || displayCaption(entry))}</h2>
       ${date ? `<p class="media-viewer-exhibition-date">${escapeHtml(date)}</p>` : ""}
-      <p class="media-viewer-exhibition-description">${escapeHtml(item.descriptionLt)}</p>
+      <p class="media-viewer-exhibition-description">${escapeHtml(localized.descriptionLt)}</p>
     </header>
     <details class="media-viewer-exhibition-metadata">
       <summary>Rodyti metaduomenis</summary>
@@ -182,6 +212,33 @@ function viewerDetails(entry: MediaEntry, item: ExhibitionViewerItem): string {
   </div>`
 }
 
+function localizedViewerItem(page: HTMLElement, item: ExhibitionViewerItem): ExhibitionViewerItem {
+  const link = [...page.querySelectorAll<HTMLAnchorElement>("[data-exhibition-media]")].find(
+    (candidate) => candidate.dataset.exhibitionMedia === item.mediaId,
+  )
+  const card = link?.closest<HTMLElement>("article")
+  if (!card) return item
+  const title = text(card.querySelector("h3")?.textContent)
+  const description = text(
+    card.querySelector(".exhibition-item-description")?.textContent ||
+      [...card.querySelectorAll("p")].find(
+        (candidate) => !candidate.classList.contains("exhibition-item-meta"),
+      )?.textContent,
+  )
+  const date = text(card.querySelector("[data-exhibition-date='true']")?.textContent)
+  const section = [...page.querySelectorAll<HTMLElement>("[data-exhibition-chapter]")].find(
+    (candidate) => candidate.dataset.exhibitionChapter === item.sectionSlug,
+  )
+  return {
+    ...item,
+    titleLt: title || item.titleLt,
+    descriptionLt: description || item.descriptionLt,
+    dateDisplay: date || item.dateDisplay,
+    sectionTitle:
+      text(section?.querySelector(".exhibition-chapter-title")?.textContent) || item.sectionTitle,
+  }
+}
+
 function initExhibitionViewer() {
   const page = document.querySelector<HTMLElement>(".exhibition-page[data-exhibition-id]")
   if (!page) return
@@ -189,10 +246,198 @@ function initExhibitionViewer() {
   if (!exhibitionId) return
 
   let lightbox: PhotoSwipeLightbox | undefined
+  let allSequence: MediaEntry[] = []
+  let allContextItems: ExhibitionViewerItem[] = []
   let sequence: MediaEntry[] = []
   let contextItems: ExhibitionViewerItem[] = []
   let loadPromise: Promise<void> | undefined
   let details: HTMLElement | undefined
+  let progress: HTMLElement | undefined
+  let toggle: HTMLElement | undefined
+  let fullscreen: HTMLElement | undefined
+  let slideshowMode = false
+  let slideshowPaused = false
+  let slideshowTimer: number | undefined
+  let slideshowDuration = 10_000
+  let imageReady = new Set<number>()
+  let imageFailureReported = new Set<number>()
+  let translationObserver: MutationObserver | undefined
+  let isCleaningUp = false
+
+  const labels = () => exhibitionSlideshowLabels(currentLanguage())
+  const clearSlideshowTimer = () => {
+    if (slideshowTimer !== undefined) window.clearTimeout(slideshowTimer)
+    slideshowTimer = undefined
+    progress?.classList.remove("is-running")
+  }
+  const updateFullscreenControl = () => {
+    if (!fullscreen) return
+    const current = Boolean(document.fullscreenElement)
+    const next = labels()
+    fullscreen.setAttribute("aria-label", current ? next.exitFullscreen : next.fullscreen)
+    fullscreen.setAttribute("title", current ? next.exitFullscreen : next.fullscreen)
+    fullscreen.textContent = current ? "↙" : "⛶"
+  }
+  const updateSlideshowControl = () => {
+    if (!toggle) return
+    const next = labels()
+    toggle.setAttribute("aria-label", slideshowPaused ? next.play : next.pause)
+    toggle.setAttribute("title", slideshowPaused ? next.play : next.pause)
+    toggle.textContent = slideshowPaused ? "▶" : "Ⅱ"
+    toggle.classList.toggle("is-paused", slideshowPaused)
+  }
+  const updateViewerLabels = () => {
+    const next = labels()
+    const root = lightbox?.pswp?.element
+    if (!root) return
+    const setLabel = (selector: string, value: string) => {
+      const element = root.querySelector<HTMLElement>(selector)
+      if (!element) return
+      element.setAttribute("aria-label", value)
+      element.setAttribute("title", value)
+    }
+    setLabel(".pswp__button--close", next.close)
+    setLabel(".pswp__button--arrow--prev", next.previous)
+    setLabel(".pswp__button--arrow--next", next.next)
+    updateSlideshowControl()
+    updateFullscreenControl()
+    root.dir = exhibitionSlideshowIsRtl(currentLanguage()) ? "rtl" : "ltr"
+  }
+  const updateProgress = (running: boolean) => {
+    if (!progress) return
+    progress.setAttribute("aria-label", labels().progress)
+    progress.setAttribute("aria-valuemin", "0")
+    progress.setAttribute("aria-valuemax", "100")
+    progress.setAttribute("aria-valuenow", running ? "0" : "100")
+    progress.style.setProperty("--slideshow-duration", `${slideshowDuration}ms`)
+    progress.classList.toggle("is-running", running)
+  }
+  const localizedCurrentItem = (index: number) => {
+    const item = contextItems[index]
+    return item ? localizedViewerItem(page, item) : undefined
+  }
+  const preloadNext = (index: number) => {
+    if (!slideshowMode || !sequence.length) return
+    const next = sequence[exhibitionSlideshowNextIndex(index, sequence.length)]
+    const src = text(next?.sourceUrl || next?.thumbUrl)
+    if (!src) return
+    const image = new Image()
+    image.decoding = "async"
+    image.src = src
+  }
+  const scheduleSlideshow = (index: number, failed = false) => {
+    clearSlideshowTimer()
+    if (!slideshowMode || slideshowPaused || !sequence[index]) return
+    const item = localizedCurrentItem(index)
+    slideshowDuration = failed ? 3_000 : exhibitionSlideshowDurationMs(item?.descriptionLt || "")
+    updateProgress(true)
+    slideshowTimer = window.setTimeout(() => {
+      const current = lightbox?.pswp?.currIndex ?? index
+      const next = exhibitionSlideshowNextIndex(current, sequence.length)
+      lightbox?.pswp?.goTo(next)
+    }, slideshowDuration)
+    preloadNext(index)
+  }
+  const updateDetails = (element: HTMLElement, index: number) => {
+    const entry = sequence[index]
+    const item = contextItems[index]
+    if (!entry || !item) return
+    element.innerHTML = viewerDetails(entry, item, slideshowMode, page)
+    if (slideshowMode) {
+      const localized = localizedCurrentItem(index) || item
+      slideshowDuration = exhibitionSlideshowDurationMs(localized.descriptionLt)
+    }
+    updateViewerLabels()
+  }
+  const configureSequence = (slideshow: boolean) => {
+    const pairs = allContextItems
+      .map((item, index) => ({ item, entry: allSequence[index] }))
+      .filter((pair): pair is { item: ExhibitionViewerItem; entry: MediaEntry } =>
+        Boolean(pair.entry),
+      )
+    const selected = slideshow
+      ? exhibitionSlideshowSequence(pairs.map((pair) => pair.item)).map(
+          (item) => pairs.find((pair) => pair.item.mediaId === item.mediaId)!,
+        )
+      : pairs
+    contextItems = selected.map((pair) => pair.item)
+    sequence = selected.map((pair) => pair.entry)
+    if (lightbox) lightbox.options.dataSource = dataSource()
+  }
+  const dataSource = () =>
+    sequence.map((entry) => ({
+      src: entry.sourceUrl || entry.thumbUrl,
+      msrc: entry.thumbUrl || entry.sourceUrl,
+      ...viewerDimensions(entry),
+      alt: displayCaption(entry),
+    }))
+  const syncSlideDimensions = (index: number, dimensions: { width: number; height: number }) => {
+    const pswp = lightbox?.pswp as
+      | (PhotoSwipe & {
+          currSlide?: {
+            data?: { width?: number; height?: number }
+            width?: number
+            height?: number
+            updateContentSize?: (force?: boolean) => void
+          }
+        })
+      | undefined
+    if (!pswp || pswp.currIndex !== index) return
+    const slide = pswp.currSlide
+    if (!slide) return
+    if (slide.data) {
+      slide.data.width = dimensions.width
+      slide.data.height = dimensions.height
+    }
+    slide.width = dimensions.width
+    slide.height = dimensions.height
+    slide.updateContentSize?.(true)
+    pswp.updateSize(true)
+  }
+  const togglePause = () => {
+    slideshowPaused = !slideshowPaused
+    updateSlideshowControl()
+    const index = lightbox?.pswp?.currIndex ?? 0
+    if (slideshowPaused) clearSlideshowTimer()
+    else if (imageReady.has(index)) scheduleSlideshow(index)
+    else updateProgress(false)
+  }
+  const toggleFullscreen = async () => {
+    try {
+      if (document.fullscreenElement) await document.exitFullscreen()
+      else await document.documentElement.requestFullscreen?.()
+    } catch {
+      // Fullscreen is an enhancement; the overlay remains usable when denied.
+    }
+    updateFullscreenControl()
+  }
+  const updateModeUrl = (active: boolean) => {
+    const url = new URL(location.href)
+    if (active) url.searchParams.set("mode", "slideshow")
+    else url.searchParams.delete("mode")
+    history.replaceState(history.state, "", `${url.pathname}${url.search}${url.hash}`)
+  }
+  const enterSlideshow = (index = 0) => {
+    configureSequence(true)
+    if (!sequence.length || !lightbox) return
+    slideshowMode = true
+    slideshowPaused = false
+    imageReady = new Set<number>()
+    imageFailureReported = new Set<number>()
+    updateModeUrl(true)
+    document.body.classList.add("media-viewer-exhibition-slideshow")
+    lightbox.options.bgOpacity = 1
+    lightbox.options.dataSource = dataSource()
+    lightbox.loadAndOpen(Math.max(0, Math.min(index, sequence.length - 1)))
+  }
+  const leaveSlideshow = () => {
+    clearSlideshowTimer()
+    slideshowMode = false
+    slideshowPaused = false
+    document.body.classList.remove("media-viewer-exhibition-slideshow")
+    lightbox?.options && (lightbox.options.bgOpacity = 0.985)
+    if (!isCleaningUp) updateModeUrl(false)
+  }
 
   const load = () => {
     loadPromise ??= Promise.all([
@@ -208,47 +453,32 @@ function initExhibitionViewer() {
       const context = contexts[exhibitionId]
       if (!context?.items?.length) throw new Error(`missing exhibition ${exhibitionId}`)
       const mediaById = new Map(catalog.map((entry) => [text(entry.mediaId), entry]))
-      contextItems = context.items.filter((item) => mediaById.has(item.mediaId))
-      sequence = contextItems.map((item) => mediaById.get(item.mediaId)!)
-      const dataSource = () =>
-        sequence.map((entry) => ({
-          src: entry.sourceUrl || entry.thumbUrl,
-          msrc: entry.thumbUrl || entry.sourceUrl,
-          ...viewerDimensions(entry),
-          alt: displayCaption(entry),
+      allContextItems = context.items
+        .map((item) => ({
+          ...item,
+          sectionSlug: item.sectionSlug || "",
+          featured: item.featured !== false,
         }))
-      const syncSlideDimensions = (index: number, dimensions: { width: number; height: number }) => {
-        const pswp = lightbox?.pswp as
-          | (PhotoSwipe & {
-              currSlide?: {
-                data?: { width?: number; height?: number }
-                width?: number
-                height?: number
-                updateContentSize?: (force?: boolean) => void
-              }
-            })
-          | undefined
-        if (!pswp || pswp.currIndex !== index) return
-        const slide = pswp.currSlide
-        if (!slide) return
-        if (slide.data) {
-          slide.data.width = dimensions.width
-          slide.data.height = dimensions.height
-        }
-        slide.width = dimensions.width
-        slide.height = dimensions.height
-        slide.updateContentSize?.(true)
-        pswp.updateSize(true)
-      }
+        .filter((item) => mediaById.has(item.mediaId))
+      allSequence = allContextItems.map((item) => mediaById.get(item.mediaId)!)
+      configureSequence(false)
       lightbox = new PhotoSwipeLightbox({
         dataSource: dataSource(),
         pswpModule: PhotoSwipe,
+        loop: true,
         bgOpacity: 0.985,
-        closeTitle: "Uždaryti",
+        closeTitle: labels().close,
         zoomTitle: "Didinti",
-        arrowPrevTitle: "Ankstesnis vaizdas",
-        arrowNextTitle: "Kitas vaizdas",
+        arrowPrevTitle: labels().previous,
+        arrowNextTitle: labels().next,
         paddingFn: () => {
+          if (slideshowMode) {
+            if (innerWidth <= 900) {
+              return { top: 8, right: 8, bottom: Math.min(innerHeight * 0.4, 320) + 8, left: 8 }
+            }
+            const right = Math.ceil(Math.min(460, Math.max(360, innerWidth * 0.31)))
+            return { top: 16, right: right + 16, bottom: 8, left: 8 }
+          }
           const header = document.querySelector<HTMLElement>(".li-header-shell")
           const mobileBrand = header?.querySelector<HTMLElement>(".li-header-brand")
           const top = Math.ceil(
@@ -270,11 +500,7 @@ function initExhibitionViewer() {
           onInit: (element, pswp) => {
             details = element
             element.className = "pswp__media-details"
-            const update = () => {
-              const entry = sequence[pswp.currIndex]
-              const item = contextItems[pswp.currIndex]
-              if (entry && item) element.innerHTML = viewerDetails(entry, item)
-            }
+            const update = () => updateDetails(element, pswp.currIndex)
             pswp.on("change", update)
             update()
           },
@@ -292,54 +518,148 @@ function initExhibitionViewer() {
             update()
           },
         })
+        lightbox?.pswp?.ui?.registerElement({
+          name: "slideshow-progress",
+          order: 5,
+          tagName: "div",
+          appendTo: "root",
+          onInit: (element) => {
+            progress = element
+            element.className = "pswp__slideshow-progress"
+            element.innerHTML = "<span></span>"
+            updateProgress(false)
+          },
+        })
+        lightbox?.pswp?.ui?.registerElement({
+          name: "slideshow-toggle",
+          order: 6,
+          isButton: true,
+          appendTo: "bar",
+          onInit: (element) => {
+            toggle = element
+            element.className = "pswp__button pswp__button--slideshow-toggle"
+            element.addEventListener("click", togglePause)
+            updateSlideshowControl()
+          },
+        })
+        lightbox?.pswp?.ui?.registerElement({
+          name: "slideshow-fullscreen",
+          order: 7,
+          isButton: true,
+          appendTo: "bar",
+          onInit: (element) => {
+            fullscreen = element
+            element.className = "pswp__button pswp__button--slideshow-fullscreen"
+            element.addEventListener("click", () => void toggleFullscreen())
+            updateFullscreenControl()
+          },
+        })
       })
       lightbox.on("afterInit", () => {
         const header = document.querySelector<HTMLElement>(".li-header-shell")
-        const headerHeight = Math.ceil(header?.getBoundingClientRect().height ?? 0)
+        const headerHeight = slideshowMode
+          ? 0
+          : Math.ceil(header?.getBoundingClientRect().height ?? 0)
         lightbox?.pswp?.element?.style.setProperty(
           "--media-viewer-header-height",
           `${headerHeight}px`,
         )
         document.body.classList.add("media-viewer-open")
+        updateViewerLabels()
+        const index = lightbox?.pswp?.currIndex ?? 0
+        if (slideshowMode && imageReady.has(index)) scheduleSlideshow(index)
       })
-      lightbox.on("close", () => document.body.classList.remove("media-viewer-open"))
+      lightbox.on("change", () => {
+        const index = lightbox?.pswp?.currIndex ?? 0
+        if (!slideshowMode) return
+        clearSlideshowTimer()
+        updateProgress(false)
+        if (imageReady.has(index)) scheduleSlideshow(index)
+        preloadNext(index)
+      })
+      lightbox.on("close", () => {
+        leaveSlideshow()
+        document.body.classList.remove("media-viewer-open")
+      })
       lightbox.on("contentLoadImage", ({ content }) => {
         const image = content.element
         if (!(image instanceof HTMLImageElement)) return
-        const syncFromImage = () => {
-          const width = image.naturalWidth
-          const height = image.naturalHeight
-          if (!width || !height) return
-          const index = lightbox?.pswp?.currIndex ?? 0
-          const entry = sequence[index]
-          if (!entry) return
-          entry.width = width
-          entry.height = height
-          if (lightbox) lightbox.options.dataSource = dataSource()
-          syncSlideDimensions(index, { width, height })
+        const index = content.index
+        let settled = false
+        const markReady = (failed = false) => {
+          if (settled) return
+          settled = true
+          imageReady.add(index)
+          if (failed) {
+            const isCurrent = lightbox?.pswp?.currIndex === index
+            if (isCurrent && !imageFailureReported.has(index)) {
+              imageFailureReported.add(index)
+              details?.insertAdjacentHTML(
+                "afterbegin",
+                '<p class="media-viewer-error">Vaizdo nepavyko užkrauti.</p>',
+              )
+            }
+          } else {
+            imageFailureReported.delete(index)
+            details?.querySelectorAll<HTMLElement>(".media-viewer-error").forEach((error) => {
+              error.remove()
+            })
+            const width = image.naturalWidth
+            const height = image.naturalHeight
+            const entry = sequence[index]
+            if (width && height && entry) {
+              entry.width = width
+              entry.height = height
+              lightbox!.options.dataSource = dataSource()
+              syncSlideDimensions(index, { width, height })
+            }
+          }
+          if (slideshowMode && lightbox?.pswp?.currIndex === index) scheduleSlideshow(index, failed)
         }
-        if (image.complete) syncFromImage()
-        else image.addEventListener("load", syncFromImage, { once: true })
-        image.addEventListener(
-          "error",
-          () => {
-            details?.insertAdjacentHTML(
-              "afterbegin",
-              '<p class="media-viewer-error">Vaizdo nepavyko užkrauti.</p>',
-            )
-          },
-          { once: true },
-        )
+        if (image.complete) markReady(image.naturalWidth <= 0 || image.naturalHeight <= 0)
+        else image.addEventListener("load", () => markReady(), { once: true })
+        image.addEventListener("error", () => markReady(true), { once: true })
       })
       lightbox.init()
+      translationObserver = new MutationObserver(() => {
+        if (!slideshowMode || !details || !lightbox?.pswp?.isOpen) return
+        updateDetails(details, lightbox.pswp.currIndex)
+      })
+      translationObserver.observe(page, { subtree: true, childList: true, characterData: true })
     })
     return loadPromise
   }
 
+  const onKeydown = (event: KeyboardEvent) => {
+    if (!slideshowMode || event.defaultPrevented) return
+    if (event.key === " " && !(event.target instanceof HTMLInputElement)) {
+      event.preventDefault()
+      togglePause()
+    }
+  }
+  const onFullscreenChange = () => updateFullscreenControl()
   const onClick = (event: MouseEvent) => {
-    const link = (event.target as Element | null)?.closest<HTMLAnchorElement>(
-      "[data-exhibition-media]",
-    )
+    const target = event.target as Element | null
+    const slideshowLink = target?.closest<HTMLAnchorElement>("[data-exhibition-slideshow]")
+    if (
+      slideshowLink &&
+      event.button === 0 &&
+      !event.metaKey &&
+      !event.ctrlKey &&
+      !event.shiftKey &&
+      !event.altKey
+    ) {
+      event.preventDefault()
+      event.stopPropagation()
+      void load()
+        .then(() => enterSlideshow(0))
+        .catch((error) => {
+          console.error("Nepavyko paleisti parodos peržiūros.", error)
+          location.href = slideshowLink.href
+        })
+      return
+    }
+    const link = target?.closest<HTMLAnchorElement>("[data-exhibition-media]")
     if (
       !link ||
       event.button !== 0 ||
@@ -354,6 +674,8 @@ function initExhibitionViewer() {
     const mediaId = link.dataset.exhibitionMedia || ""
     void load()
       .then(() => {
+        configureSequence(false)
+        lightbox!.options.bgOpacity = 0.985
         const index = contextItems.findIndex((item) => item.mediaId === mediaId)
         if (index < 0 || !lightbox) throw new Error(`missing media ${mediaId}`)
         lightbox.loadAndOpen(index)
@@ -364,12 +686,22 @@ function initExhibitionViewer() {
       })
   }
   page.addEventListener("click", onClick)
-  void load()
+  addEventListener("keydown", onKeydown)
+  addEventListener("fullscreenchange", onFullscreenChange)
+  void load().then(() => {
+    if (new URLSearchParams(location.search).get("mode") === "slideshow") enterSlideshow(0)
+  })
 
   cleanups.add(() => {
+    isCleaningUp = true
     page.removeEventListener("click", onClick)
+    removeEventListener("keydown", onKeydown)
+    removeEventListener("fullscreenchange", onFullscreenChange)
+    translationObserver?.disconnect()
+    leaveSlideshow()
     lightbox?.destroy()
     document.body.classList.remove("media-viewer-open")
+    isCleaningUp = false
   })
 }
 
