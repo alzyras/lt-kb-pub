@@ -234,6 +234,11 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
   const article = document.createElement("article")
   article.className = "media-gallery-card"
   article.dataset.mediaId = text(entry.mediaId)
+  const initialDimensions = normalizedDimensions(entry)
+  article.style.setProperty(
+    "--media-aspect",
+    String(initialDimensions.width / initialDimensions.height),
+  )
   const caption = displayCaption(entry)
   const date = displayDate(entry.dateDisplay)
   const creator = text(entry.creator)
@@ -258,6 +263,7 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
     const dimensions = { width: image.naturalWidth, height: image.naturalHeight }
     const changed = entry.width !== dimensions.width || entry.height !== dimensions.height
     applyResolvedDimensions(entry, dimensions)
+    article.style.setProperty("--media-aspect", String(dimensions.width / dimensions.height))
     if (changed) onImageDimensions?.()
   }
   if (image?.complete) syncNaturalDimensions()

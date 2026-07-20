@@ -73,6 +73,14 @@ function parseBootstrap(value: unknown): MediaGalleryBootstrap {
 const objectHref = (notePath: string) =>
   `/${notePath.replace(/\.md$/i, "").split("/").map(encodeURIComponent).join("/")}`
 
+function mediaAspect(entry: MediaEntry): number {
+  const width = Number(entry.width)
+  const height = Number(entry.height)
+  if (!Number.isFinite(width) || !Number.isFinite(height) || width <= 0 || height <= 0) return 4 / 3
+  const ratio = width / height
+  return ratio >= 0.1 && ratio <= 10 ? ratio : 4 / 3
+}
+
 function MediaDetailPage({ entry }: { entry: MediaEntry }) {
   const caption = displayCaption(entry)
   const originalTitle = cleanText(entry.originalTitle || entry.title)
@@ -217,7 +225,11 @@ function MediaCard({
   const tags = (entry.tags ?? []).slice(0, 2)
   const mediaHref = mediaDetailUrl(entry)
   return (
-    <article class="media-gallery-card" data-media-id={entry.mediaId}>
+    <article
+      class="media-gallery-card"
+      data-media-id={entry.mediaId}
+      style={`--media-aspect:${mediaAspect(entry)}`}
+    >
       <a
         href={mediaHref}
         data-media-open={index}

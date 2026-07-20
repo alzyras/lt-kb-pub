@@ -430,6 +430,7 @@
 }
 
 .media-gallery-card {
+  aspect-ratio: var(--media-aspect, 4 / 3);
   min-width: 0;
   overflow: hidden;
   border: 1px solid color-mix(in srgb, var(--dark) 14%, var(--lightgray));
@@ -636,6 +637,11 @@ body.media-viewer-open .pswp {
   font-size: clamp(1.25rem, 1.7vw, 1.7rem);
   line-height: 1.15;
   letter-spacing: 0;
+}
+
+.pswp__img {
+  object-fit: contain;
+  object-position: center;
 }
 .media-viewer-original-title {
   margin: 0.65rem 0 0;
