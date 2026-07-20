@@ -112,6 +112,19 @@ pavadinimas: Klastyklė
     assert.deepEqual(collectEvidenceIntegrityIssues(withOcr), [])
   })
 
+  test("cuts page furniture from a displayed OCR excerpt", () => {
+    const withPageFurniture = validMarkdown.replace(
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.",
+      "  citata_originali: |\n    Vytautas vedė kariuomenę prie mūšio.\n\n    L I E T U V O S  I S T O R I J A\n    162\n  citata_rodoma: |\n    Vytautas vedė kariuomenę prie mūšio.\n\n    L I E T U V O S  I S T O R I J A\n    162",
+    )
+    const citation = parseEvidenceSections(withPageFurniture).get("Citatos")?.[0]
+    assert.ok(citation)
+    assert.equal(
+      evidenceCitationQuoteForClaim(citation, "Vytautas vedė kariuomenę.", "Objektas"),
+      "Vytautas vedė kariuomenę prie mūšio.",
+    )
+  })
+
   test("matches non-Latin citation tokens without relying on ASCII-only text", () => {
     const cyrillic = validMarkdown
       .replace("Vytautas vedė kariuomenę prie mūšio.", "Ипатиевская летопись.")

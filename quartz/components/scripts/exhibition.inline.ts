@@ -217,6 +217,29 @@ function initExhibitionViewer() {
           ...viewerDimensions(entry),
           alt: displayCaption(entry),
         }))
+      const syncSlideDimensions = (index: number, dimensions: { width: number; height: number }) => {
+        const pswp = lightbox?.pswp as
+          | (PhotoSwipe & {
+              currSlide?: {
+                data?: { width?: number; height?: number }
+                width?: number
+                height?: number
+                updateContentSize?: (force?: boolean) => void
+              }
+            })
+          | undefined
+        if (!pswp || pswp.currIndex !== index) return
+        const slide = pswp.currSlide
+        if (!slide) return
+        if (slide.data) {
+          slide.data.width = dimensions.width
+          slide.data.height = dimensions.height
+        }
+        slide.width = dimensions.width
+        slide.height = dimensions.height
+        slide.updateContentSize?.(true)
+        pswp.updateSize(true)
+      }
       lightbox = new PhotoSwipeLightbox({
         dataSource: dataSource(),
         pswpModule: PhotoSwipe,
@@ -283,6 +306,20 @@ function initExhibitionViewer() {
       lightbox.on("contentLoadImage", ({ content }) => {
         const image = content.element
         if (!(image instanceof HTMLImageElement)) return
+        const syncFromImage = () => {
+          const width = image.naturalWidth
+          const height = image.naturalHeight
+          if (!width || !height) return
+          const index = lightbox?.pswp?.currIndex ?? 0
+          const entry = sequence[index]
+          if (!entry) return
+          entry.width = width
+          entry.height = height
+          if (lightbox) lightbox.options.dataSource = dataSource()
+          syncSlideDimensions(index, { width, height })
+        }
+        if (image.complete) syncFromImage()
+        else image.addEventListener("load", syncFromImage, { once: true })
         image.addEventListener(
           "error",
           () => {

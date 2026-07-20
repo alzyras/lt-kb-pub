@@ -18,6 +18,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "prebuild": "npm test && npx tsc --noEmit",
     "build": "npx quartz build",
     "postbuild": "npx tsx scripts/verify_corpus_integrity.ts && npx tsx scripts/verify_public_assets.ts && npx tsx scripts/verify_rendered_evidence.ts && npx tsx scripts/audit_evidence_matches.ts && python3 scripts/audit_public_build.py --fail",
     "serve": "npx quartz build --serve"

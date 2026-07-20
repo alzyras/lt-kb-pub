@@ -39,6 +39,13 @@ function citationText(entry: EvidenceEntry): string {
     .join("\n")
 }
 
+function cleanCitationDisplayText(value: string): string {
+  const pageFurniture = value.search(
+    /\n\s*(?:\d+\s+skyrius\b|L\s+I\s+E\s+T\s+U\s+V\s+O\s+S\b)/u,
+  )
+  return (pageFurniture >= 0 ? value.slice(0, pageFurniture) : value).trim()
+}
+
 function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
   return (
     entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
@@ -48,9 +55,9 @@ function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
 
 export function evidenceCitationQuote(entry: EvidenceEntry): string {
   return (
-    entry.fields.get("citata_rodoma")?.trim() ||
-    entry.fields.get("citata")?.trim() ||
-    entry.fields.get("citata_originali")?.trim() ||
+    cleanCitationDisplayText(entry.fields.get("citata_rodoma")?.trim() || "") ||
+    cleanCitationDisplayText(entry.fields.get("citata")?.trim() || "") ||
+    cleanCitationDisplayText(entry.fields.get("citata_originali")?.trim() || "") ||
     ""
   )
 }
@@ -175,8 +182,9 @@ export function evidenceCitationQuoteForClaim(
   claimText: string,
   contextText = "",
 ): string {
-  const displayQuote =
-    entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || ""
+  const displayQuote = cleanCitationDisplayText(
+    entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || "",
+  )
   const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
   if (displayQuote) {
     // The returned excerpt is the current anchored public text. Do not fall
@@ -184,7 +192,7 @@ export function evidenceCitationQuoteForClaim(
     // the two fields can come from different anchors after a merge.
     return evidenceSupportsClaim(claimText, displayQuote, contextText) ? displayQuote : ""
   }
-  return originalQuote
+  return cleanCitationDisplayText(originalQuote)
 }
 
 export function evidenceDocumentContext(markdown: string): string {

@@ -44,7 +44,10 @@ describe("exhibition manifest", () => {
     assert.equal(exhibitionFeaturedCount(historical), 24)
     assert.equal(interwar.sections.length, 5)
     assert.equal(exhibitionItemCount(interwar), 20)
-    assert.equal(exhibitionFeaturedCount(interwar), 20)
+    // Paired views remain in the manifest and gallery sequence; the second
+    // Klaipėda frame stays in the main narrative because it adds a distinct
+    // view of the ceremony. Only the medal reverse and booklet page are catalog-only.
+    assert.equal(exhibitionFeaturedCount(interwar), 18)
 
     const allItems = exhibitions.flatMap((exhibition) =>
       exhibition.sections.flatMap((section) => section.items),
