@@ -72,11 +72,13 @@ test("PII-like search terms are suppressed while ordinary history terms remain",
 
 test("event allowlist and dedupe keys are deterministic", () => {
   assert.deepEqual(ANALYTICS_EVENT_NAMES.includes("deep_exploration"), true)
+  assert.deepEqual(ANALYTICS_EVENT_NAMES.includes("exhibition_interaction"), true)
   assert.deepEqual(ANALYTICS_EVENT_NAMES.includes("map_interaction"), true)
   for (const name of [
     "object_view",
     "citation_open",
     "deep_exploration",
+    "exhibition_interaction",
     "gallery_open",
     "map_open",
     "rss_click",
@@ -87,6 +89,7 @@ test("event allowlist and dedupe keys are deterministic", () => {
   }
   assert.deepEqual(ANALYTICS_MAP_ACTIONS.includes("node_select"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("map_action"), true)
+  assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("exhibition_action"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_METRICS.includes("result_count"), true)
   assert.equal(ANALYTICS_SCHEMA_VERSION, "ga4_events_v2")
   assert.equal(analyticsDedupeKey(["Feature", "On", 1]), "feature|on|1")

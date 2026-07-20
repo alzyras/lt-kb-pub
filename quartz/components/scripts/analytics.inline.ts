@@ -63,6 +63,16 @@ const MAP_PARAM_ALLOWLIST = new Set([
   "result_count",
   "input_method",
 ])
+const EXHIBITION_PARAM_ALLOWLIST = new Set([
+  "exhibition_id",
+  "exhibition_action",
+  "exhibition_mode",
+  "exhibition_media_id",
+  "exhibition_section",
+  "exhibition_position",
+  "exhibition_total",
+  "exhibition_language",
+])
 
 function analyticsEnabled(): boolean {
   if (!PRODUCTION_HOSTS.has(location.hostname) || navigator.webdriver) return false
@@ -389,8 +399,7 @@ function installAnalytics() {
         { ...commonParams("gallery"), media_action: "open" },
         {
           dedupeScope: detail.dedupeScope ?? "page",
-          dedupeKey:
-            detail.dedupeKey ?? analyticsDedupeKey([pageMetadata().content_id, "gallery"]),
+          dedupeKey: detail.dedupeKey ?? analyticsDedupeKey([pageMetadata().content_id, "gallery"]),
         },
       )
     }
@@ -401,6 +410,35 @@ function installAnalytics() {
       { dedupeScope: detail.dedupeScope, dedupeKey: detail.dedupeKey },
       detail.value,
     )
+  })
+
+  document.addEventListener("analyticsexhibition", (event) => {
+    const detail = (
+      event as CustomEvent<{
+        action?: string
+        exhibitionId?: string
+        mode?: string
+        mediaId?: string
+        section?: string
+        position?: number
+        total?: number
+      }>
+    ).detail
+    if (!detail?.action || !detail.exhibitionId) return
+    const exhibitionParams: AnalyticsParams = {
+      exhibition_id: detail.exhibitionId,
+      exhibition_action: detail.action,
+      exhibition_mode: detail.mode || "page",
+      exhibition_language: siteLanguage(),
+    }
+    if (detail.mediaId) exhibitionParams.exhibition_media_id = detail.mediaId
+    if (detail.section) exhibitionParams.exhibition_section = detail.section
+    if (detail.position !== undefined) exhibitionParams.exhibition_position = detail.position
+    if (detail.total !== undefined) exhibitionParams.exhibition_total = detail.total
+    track("exhibition_interaction", {
+      ...commonParams("exhibition"),
+      ...normalizeAnalyticsParams(exhibitionParams, EXHIBITION_PARAM_ALLOWLIST),
+    })
   })
 
   document.addEventListener("analyticsmap", (event) => {

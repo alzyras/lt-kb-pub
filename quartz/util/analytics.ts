@@ -17,6 +17,7 @@ export const ANALYTICS_EVENT_NAMES = [
   "search_result_select",
   "knowledge_navigation",
   "feature_use",
+  "exhibition_interaction",
   "map_interaction",
   "gallery_open",
   "map_open",
@@ -38,6 +39,14 @@ export const ANALYTICS_CUSTOM_DIMENSIONS = [
   "feature_name",
   "feature_action",
   "feature_value",
+  "exhibition_id",
+  "exhibition_action",
+  "exhibition_mode",
+  "exhibition_media_id",
+  "exhibition_section",
+  "exhibition_position",
+  "exhibition_total",
+  "exhibition_language",
   "source_kind",
   "search_outcome",
   "map_action",
@@ -67,6 +76,16 @@ export type AnalyticsFeatureDetail = {
   params?: AnalyticsParams
   dedupeScope?: AnalyticsDedupeScope
   dedupeKey?: string
+}
+
+export type AnalyticsExhibitionDetail = {
+  action: string
+  exhibitionId: string
+  mode?: "page" | "viewer" | "slideshow"
+  mediaId?: string
+  section?: string
+  position?: number
+  total?: number
 }
 
 export type AnalyticsMapDetail = {

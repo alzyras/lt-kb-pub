@@ -1,12 +1,17 @@
 import type {
   AnalyticsDedupeScope,
   AnalyticsFeatureDetail,
+  AnalyticsExhibitionDetail,
   AnalyticsMapDetail,
   AnalyticsParams,
 } from "./analytics"
 
 export function emitAnalyticsFeature(detail: AnalyticsFeatureDetail): void {
   document.dispatchEvent(new CustomEvent("analyticsfeature", { detail }))
+}
+
+export function emitAnalyticsExhibition(detail: AnalyticsExhibitionDetail): void {
+  document.dispatchEvent(new CustomEvent("analyticsexhibition", { detail }))
 }
 
 export function emitAnalyticsMap(detail: AnalyticsMapDetail): void

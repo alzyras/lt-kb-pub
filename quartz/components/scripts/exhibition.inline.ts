@@ -1,5 +1,6 @@
 import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
+import { emitAnalyticsExhibition } from "../../util/analytics-client"
 import type { MediaEntry } from "../../util/objectMedia"
 import { cleanText, displayCaption } from "../../util/objectMedia"
 import { mediaLicenseLabel } from "../../util/mediaGallery"
@@ -56,9 +57,19 @@ function initExhibitionNavigation() {
   let frame = 0
   let activeId = ""
   let hashTimers: number[] = []
+  const viewedSections = new Set<string>()
   const setActive = (id: string) => {
     if (!id || id === activeId) return
     activeId = id
+    if (!viewedSections.has(id)) {
+      viewedSections.add(id)
+      emitAnalyticsExhibition({
+        action: "chapter_view",
+        exhibitionId: page.dataset.exhibitionId || "unknown",
+        mode: "page",
+        section: id,
+      })
+    }
     for (const entry of sections) {
       const active = entry.id === id
       entry.link.toggleAttribute("data-active", active)
@@ -112,7 +123,16 @@ function initExhibitionNavigation() {
     const link = (event.target as Element | null)?.closest<HTMLAnchorElement>(
       "[data-exhibition-chapter]",
     )
-    if (link?.dataset.exhibitionChapter) setActive(link.dataset.exhibitionChapter)
+    if (link?.dataset.exhibitionChapter) {
+      const section = link.dataset.exhibitionChapter
+      setActive(section)
+      emitAnalyticsExhibition({
+        action: "chapter_click",
+        exhibitionId: page.dataset.exhibitionId || "unknown",
+        mode: "page",
+        section,
+      })
+    }
   }
   for (const entry of sections) observer.observe(entry.section)
   addEventListener("scroll", schedule, { passive: true })
@@ -261,8 +281,25 @@ function initExhibitionViewer() {
   let slideshowDuration = 10_000
   let imageReady = new Set<number>()
   let imageFailureReported = new Set<number>()
+  let viewedSlideshowSlides = new Set<number>()
   let translationObserver: MutationObserver | undefined
   let isCleaningUp = false
+  const trackExhibition = (
+    action: string,
+    index = lightbox?.pswp?.currIndex ?? 0,
+    mode: "viewer" | "slideshow" = slideshowMode ? "slideshow" : "viewer",
+  ) => {
+    const item = contextItems[index]
+    emitAnalyticsExhibition({
+      action,
+      exhibitionId,
+      mode,
+      mediaId: item?.mediaId,
+      section: item?.sectionSlug,
+      position: sequence.length ? index + 1 : undefined,
+      total: sequence.length || undefined,
+    })
+  }
 
   const labels = () => exhibitionSlideshowLabels(currentLanguage())
   const clearSlideshowTimer = () => {
@@ -328,12 +365,17 @@ function initExhibitionViewer() {
   const scheduleSlideshow = (index: number, failed = false) => {
     clearSlideshowTimer()
     if (!slideshowMode || slideshowPaused || !sequence[index]) return
+    if (!viewedSlideshowSlides.has(index)) {
+      viewedSlideshowSlides.add(index)
+      trackExhibition("slideshow_slide_view", index, "slideshow")
+    }
     const item = localizedCurrentItem(index)
     slideshowDuration = failed ? 3_000 : exhibitionSlideshowDurationMs(item?.descriptionLt || "")
     updateProgress(true)
     slideshowTimer = window.setTimeout(() => {
       const current = lightbox?.pswp?.currIndex ?? index
       const next = exhibitionSlideshowNextIndex(current, sequence.length)
+      if (next === 0 && current !== 0) trackExhibition("slideshow_loop", current, "slideshow")
       lightbox?.pswp?.goTo(next)
     }, slideshowDuration)
     preloadNext(index)
@@ -395,17 +437,20 @@ function initExhibitionViewer() {
     pswp.updateSize(true)
   }
   const togglePause = () => {
-    slideshowPaused = !slideshowPaused
-    updateSlideshowControl()
     const index = lightbox?.pswp?.currIndex ?? 0
+    slideshowPaused = !slideshowPaused
+    trackExhibition(slideshowPaused ? "slideshow_pause" : "slideshow_resume", index, "slideshow")
+    updateSlideshowControl()
     if (slideshowPaused) clearSlideshowTimer()
     else if (imageReady.has(index)) scheduleSlideshow(index)
     else updateProgress(false)
   }
   const toggleFullscreen = async () => {
+    const entering = !document.fullscreenElement
     try {
       if (document.fullscreenElement) await document.exitFullscreen()
       else await document.documentElement.requestFullscreen?.()
+      trackExhibition(entering ? "slideshow_fullscreen_enter" : "slideshow_fullscreen_exit")
     } catch {
       // Fullscreen is an enhancement; the overlay remains usable when denied.
     }
@@ -424,6 +469,8 @@ function initExhibitionViewer() {
     slideshowPaused = false
     imageReady = new Set<number>()
     imageFailureReported = new Set<number>()
+    viewedSlideshowSlides = new Set<number>()
+    trackExhibition("slideshow_start", index, "slideshow")
     updateModeUrl(true)
     document.body.classList.add("media-viewer-exhibition-slideshow")
     lightbox.options.bgOpacity = 1
@@ -567,6 +614,15 @@ function initExhibitionViewer() {
         document.body.classList.add("media-viewer-open")
         updateViewerLabels()
         const index = lightbox?.pswp?.currIndex ?? 0
+        if (!slideshowMode) trackExhibition("viewer_open", index, "viewer")
+        const root = lightbox?.pswp?.element
+        const bindArrow = (selector: string, action: string) => {
+          root?.querySelector<HTMLElement>(selector)?.addEventListener("click", () => {
+            trackExhibition(slideshowMode ? `slideshow_${action}` : `viewer_${action}`)
+          })
+        }
+        bindArrow(".pswp__button--arrow--next", "next")
+        bindArrow(".pswp__button--arrow--prev", "previous")
         if (slideshowMode && imageReady.has(index)) scheduleSlideshow(index)
       })
       lightbox.on("change", () => {
@@ -578,6 +634,7 @@ function initExhibitionViewer() {
         preloadNext(index)
       })
       lightbox.on("close", () => {
+        if (!isCleaningUp) trackExhibition(slideshowMode ? "slideshow_close" : "viewer_close")
         leaveSlideshow()
         document.body.classList.remove("media-viewer-open")
       })
@@ -632,6 +689,10 @@ function initExhibitionViewer() {
 
   const onKeydown = (event: KeyboardEvent) => {
     if (!slideshowMode || event.defaultPrevented) return
+    if (event.key === "ArrowRight" || event.key === "ArrowLeft") {
+      trackExhibition(event.key === "ArrowRight" ? "slideshow_next" : "slideshow_previous")
+      return
+    }
     if (event.key === " " && !(event.target instanceof HTMLInputElement)) {
       event.preventDefault()
       togglePause()
