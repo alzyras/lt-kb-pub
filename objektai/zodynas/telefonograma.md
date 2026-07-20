@@ -30,7 +30,6 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 
 <a id="claim-t-80633"></a>
 - t-001
-  global_id: t-80633
   teiginys: "Lenkų pusė naktį gavo telefonogramą apie karo paliaubas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80633
+    - t-001

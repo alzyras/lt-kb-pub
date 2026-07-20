@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-189600"></a>
 - t-001
-  global_id: t-189600
   teiginys: "„Lietuvių mitologijos“ pasirodymas šaltinyje siejamas su laiško datavimu apie 1836 m. arba 1837 m. pradžią."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189600
+    - t-001

@@ -39,7 +39,6 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
 
 <a id="claim-t-78079"></a>
 - t-001
-  global_id: t-78079
   teiginys: "1918 m. gruodį S. Rozenbaumas tapo Lietuvos užsienio reikalų viceministru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78079
+    - t-001

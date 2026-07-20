@@ -40,8 +40,7 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 ## Teiginiai
 
 <a id="claim-t-35264"></a>
-- t-001
-  global_id: t-35264
+- t-002
   teiginys: "Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
     - c-38113
 
 <a id="claim-t-35265"></a>
-- t-002
-  global_id: t-35265
+- t-001
   teiginys: "Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35265
+    - t-001
+
 - id: c-38113
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -115,17 +114,11 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
     skirti vyskupais Vytautui juos rekomenduojant. Du paskutiniai
     prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
     veno Vytauto rezidencijoje.
-  citata_rodoma: |
-    Taip antai, ketvirtas iš eilės Vilniaus
-    vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­
-    tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis
-    Žemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių
-    vysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­
-    skirti vyskupais Vytautui juos rekomenduojant.
+  citata_rodoma: "Taip antai, ketvirtas iš eilės Vilniaus\nvyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­\ntu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis\nŽemaičių ir vėliau Vilniaus vysk. Motiejus ir antrasis Žemaičių\nvysk. Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­\nskirti vyskupais Vytautui juos rekomenduojant."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35264
+    - t-002

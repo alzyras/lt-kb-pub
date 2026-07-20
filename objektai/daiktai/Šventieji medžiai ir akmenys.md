@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-19618"></a>
 - t-001
-  global_id: t-19618
   teiginys: "Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19618
+    - t-001

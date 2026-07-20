@@ -30,7 +30,6 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 
 <a id="claim-t-58728"></a>
 - t-001
-  global_id: t-58728
   teiginys: "Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
     Skorpiono žvaigždynas
     Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
     Skronaitė (Scroneyte, Scroneiten), p.
-  citata_rodoma: |
-    Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p. (Skomantburg)
-    Skorpiono žvaigždynas
-    Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
-    Skronaitė (Scroneyte, Scroneiten), p.
+  citata_rodoma: "Skomętno)\nSkomanto kalnas (Skomentberg)\nSkomanto sodyba, p. (Skomantburg)\nSkorpiono žvaigždynas\nSkrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)\nSkronaitė (Scroneyte, Scroneiten), p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58728
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-86819"></a>
 - t-001
-  global_id: t-86819
   teiginys: "1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,20 +72,11 @@ media_all_json: |-
     Krokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­
     našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­
     siųjų dvasininkų.
-  citata_rodoma: |
-    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
-    D
-
-    ## Puslapis 22
-
-    ĮVADAS
-    Krokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­
-    našiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­
-    siųjų dvasininkų.
+  citata_rodoma: "Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė\nD\n\n## Puslapis 22\n\nĮVADAS\nKrokuva, Kališas ir Naugardas. 1255 m. šešiasdešimt miestų pa­\nnašiu tikslu įsteigė Reino konfederaciją, vadovaujamą aukščiau­\nsiųjų dvasininkų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86819
+    - t-001

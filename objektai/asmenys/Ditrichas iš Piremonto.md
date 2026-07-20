@@ -30,7 +30,6 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 
 <a id="claim-t-60267"></a>
 - t-001
-  global_id: t-60267
   teiginys: "Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60899
-    - c-001
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,8 +62,7 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60267
+
 ## Citatos
 
 - id: c-60899
@@ -73,14 +70,6 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai
-    buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei
-    ietimis, nei kalavijais, nei kokiais kitais ginklais. Galop, nusitvėrę dviese, trise ar daugiau
-    po mietą, rėmė juos kopiantiems į krūtinę ar nugarą, stūmė žemyn ir vertė juos nuo
-    sienų. Kai sutemo, broliai liovėsi puolę. Kitą dieną, kai jie ketino vėl stoti į kovą, pilėnai,
-    davę įkaitų, pasižadėjo paklusti broliams. Verčiami lietuvių karaliaus, vis dėlto vėliau jie
-    nesilaikė duoto žodžio.
-  citata_rodoma: |
     Kai po to broliai pasuko atgal, suplūdo, išvydę
     minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;
     abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir
@@ -90,10 +79,11 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 
 
                 335 (328).
+  citata_rodoma: "Kai po to broliai pasuko atgal, suplūdo, išvydę\nminėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;\nabiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir\nkrito daug netikėlių.\n\n\n\n\n            335 (328)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60267
+    - t-001

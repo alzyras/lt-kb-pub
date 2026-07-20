@@ -31,7 +31,6 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 
 <a id="claim-t-55019"></a>
 - t-001
-  global_id: t-55019
   teiginys: "Pranciškus Malevskis vadovavo senosios Lietuvos Metrikos padaliniui, priskirtam Senato Trečiajam departamentui."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -48,7 +47,6 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 
 <a id="claim-t-55020"></a>
 - t-002
-  global_id: t-55020
   teiginys: "Pranciškus Malevskis Balinskio medžiagos rinkiniams parūpino gausių išrašų apie Vilnių iš Lietuvos Metrikos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::authors"
@@ -65,7 +63,6 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 
 <a id="claim-t-81962"></a>
 - t-003
-  global_id: t-81962
   teiginys: "Pranciškus Malevskis iš senosios Lietuvos Metrikos parūpino gausių išrašų apie Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -118,8 +115,9 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55019
-    - t-55020
+    - t-001
+    - t-002
+
 - id: c-78479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,4 +143,4 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81962
+    - t-003

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-75201"></a>
 - t-001
-  global_id: t-75201
   teiginys: "Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-75202"></a>
 - t-002
-  global_id: t-75202
   teiginys: "Lietuvių plėšiamieji žygiai rodė jų stiprėjančią galią ir padėjo pagrindus greitai atsirasiančiai Lietuvos valstybei."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-75203"></a>
 - t-003
-  global_id: t-75203
   teiginys: "Lietuvių pagoniškosios religijos išsikristalizavimas dažniausiai siejamas su Lietuvos valstybės kūrimosi laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,21 +125,16 @@ Nenurodyta
     17
     suspėjo krikštytis, o 1253 m. – karūnuotis
     karaliumi.
-  citata_rodoma: |
-    Valstybė – Lietuvos Didžioji Kunigaikš-
-    tija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net
-
-    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
-    17
-    suspėjo krikštytis, o 1253 m.
+  citata_rodoma: "Valstybė – Lietuvos Didžioji Kunigaikš-\ntija – buvo sukurta XIII a. viduryje, jos pirmasis valdovas Mindaugas net\n\nĮvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S\n17\nsuspėjo krikštytis, o 1253 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75201
-    - t-75203
+    - t-001
+    - t-003
+
 - id: c-73075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75202
+    - t-002

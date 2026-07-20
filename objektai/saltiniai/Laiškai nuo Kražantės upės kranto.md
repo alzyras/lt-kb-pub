@@ -37,8 +37,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 ## Teiginiai
 
 <a id="claim-t-88195"></a>
-- t-001
-  global_id: t-88195
+- t-002
   teiginys: "Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - c-84175
 
 <a id="claim-t-88196"></a>
-- t-002
-  global_id: t-88196
+- t-003
   teiginys: "„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     - c-84174
 
 <a id="claim-t-88197"></a>
-- t-003
-  global_id: t-88197
+- t-001
   teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,27 +107,15 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
     zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
     1.1.
-  citata_rodoma: |
-    Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
-    kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
-    o tai mėginama jau daryti"13. Kita vertus, Laiškuose galima užtikti
-    ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip
-    pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais
-    XIV
-
-    ## Puslapis 15
-
-    darbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­
-    ros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju-
-    zumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir
-    1.
+  citata_rodoma: "Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­\nkintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, - \no tai mėginama jau daryti\"13. Kita vertus, Laiškuose galima užtikti \nano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų. „Taip \npat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais\nXIV\n\n## Puslapis 15\n\ndarbais kunigai Tatarė, Rajūnas, Kitkevičius, Žemaičių kated­\nros prelatas Kasakauskis; švento atminimo kunigas Čerskis, Ju- \nzumavičius, Žemaitijos Deotimos brolis kunigas Praniauskas ir \n1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88196
+    - t-003
+
 - id: c-84175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,18 +131,15 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
     me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
     nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
-  citata_rodoma: |
-    sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­
-    simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­
-    me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose
-    nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.
+  citata_rodoma: "sukilimo klestėjusį Vilniaus universitetą. M. Balinskis, lyg ir pri­\nsimindamas savo jaunystės metus „nenaudėlių\" draugijoje šia­\nme Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose \nnagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88195
+    - t-002
+
 - id: c-84176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,17 +153,11 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
     tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
     rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
     dešimtmetyje.
-  citata_rodoma: |
-    Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
-    Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti
-    straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
-    tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
-    rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
-    dešimtmetyje.
+  citata_rodoma: "Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta \nWarszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti \nstraipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­\ntingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū- \nrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a. \ndešimtmetyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88197
+    - t-001

@@ -30,7 +30,6 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
 
 <a id="claim-t-191630"></a>
 - t-001
-  global_id: t-191630
   teiginys: "Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191630
+    - t-001

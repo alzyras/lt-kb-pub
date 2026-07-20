@@ -31,7 +31,6 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
 
 <a id="claim-t-67492"></a>
 - t-001
-  global_id: t-67492
   teiginys: "1793 m. Gardino seime sudaryta naujoji valstybės konstitucija grąžino santvarką, buvusią po pirmojo padalijimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
 
 <a id="claim-t-67493"></a>
 - t-002
-  global_id: t-67493
   teiginys: "Pagal 1793 m. naująją valstybės konstituciją buvo atgaivinta Nuolatinė Taryba, karo ir iždo komisijos, o Edukacinė Komisija atskirta Lietuvai ir Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,8 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67493
+    - t-002
+
 - id: c-67384
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -78,14 +77,11 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
     šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo.
-  citata_rodoma: |
-    Buvo sudaryta
-    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
-    buvusi po I padalinimo.
+  citata_rodoma: "Buvo sudaryta\nnaujoji valstybės konstitucija, kuria buvo grąžinta santvarka,\nbuvusi po I padalinimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67492
+    - t-001

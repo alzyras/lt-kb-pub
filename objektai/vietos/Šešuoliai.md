@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-28509"></a>
 - t-001
-  global_id: t-28509
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28509
+    - t-001
+
 ## Ryšiai
 - Puolė Šešuoliai: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,7 +31,6 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
 
 <a id="claim-t-195033"></a>
 - t-001
-  global_id: t-195033
   teiginys: "Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -43,12 +42,10 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
   pagrindžia:
     - c-177404
 
-## Citatos
-
-- id: c-177404
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Šeši tūkstančiai devyni šimtai šeštaisiais17 metais
     įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto
@@ -65,7 +62,19 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
     sodinsime sostan chaną Tochtamyšą, o jis mus pasodins
     valdyti visos Rusų žemės."
     Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-177404
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais
     įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto
     ir chano Temir-Kutlujaus Didysis kunigaikštis Vy­
@@ -80,10 +89,11 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
     sodinsime sostan chaną Tochtamyšą, o jis mus pasodins
     valdyti visos Rusų žemės."
     Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
+  citata_rodoma: "Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais \nįvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto \nir chano Temir-Kutlujaus Didysis kunigaikštis Vy­\ntautas sutelkė nesuskaičiuojamą daugybę kariuomenės, \njo pusėje buvo chanas Tochtamyšas su savo kariuome­\nne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai, \nmoldavai ir penkiasdešimt rusų kunigaikščių. Ir su vi­\nsomis šiomis ginkluotomis pajėgomis ištraukė 1 9  prieš \nchaną Temir-Kutlujų, ketindamas atimti iš jo karalystę \nir sakė, girdamasis bei grasindamas Ordai: „Eime, už­\nkariausime totorių žemę, sumušime Temir-Kutlujų, pa­\nsodinsime sostan chaną Tochtamyšą, o jis mus pasodins \nvaldyti visos Rusų žemės.\"\nIr, šitaip prakalbėjęs, leidosi kariauti su totoriais."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195033
+    - t-001

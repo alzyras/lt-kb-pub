@@ -35,8 +35,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 ## Teiginiai
 
 <a id="claim-t-88142"></a>
-- t-001
-  global_id: t-88142
+- t-004
   teiginys: "Petras pranešė Dinaburgo komtūrui, kad Švitrigaila su gausia kariauna ir paramos pulkais patraukė toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 
 <a id="claim-t-88143"></a>
 - t-002
-  global_id: t-88143
   teiginys: "Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 
 <a id="claim-t-88144"></a>
 - t-003
-  global_id: t-88144
   teiginys: "Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - c-84123
 
 <a id="claim-t-88145"></a>
-- t-004
-  global_id: t-88145
+- t-005
   teiginys: "Dinaburgo komtūras (parašas) Originalą atitinka: Dr."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,8 +103,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - c-84125
 
 <a id="claim-t-88146"></a>
-- t-005
-  global_id: t-88146
+- t-001
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,7 +137,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88146
+    - t-001
+
 - id: c-84122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -155,20 +151,15 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     mit Werdicheit kome desse Breef dorch dach und nacht sun­
     der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-  citata_rodoma: |
-    Be metų (turbūt, 1396).
-    (Iš originalo Karaliaučiaus Slaptajame Archyve)
-    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
-    mit Werdicheit kome desse Breef dorch dach und nacht sun­
-    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
-    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
+  citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88143
+    - t-002
+
 - id: c-84123
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +187,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88144
+    - t-003
+
 - id: c-84124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,7 +209,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88142
+    - t-004
+
 - id: c-84125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -236,24 +229,11 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     VILNIAUS MIESTO ISTORIJA / TOMAS
     II
     (Plg. InJ. cod. hist. di pl.
-  citata_rodoma: |
-    Dinaburgo komtūras
-    (parašas)
-    Originalą atitinka:
-    Dr. Hennigas
-    Karai. Slapt. Arch. Direktorius
-    Už nuorašo perrašymo teisingumą [atsako]
-    Dr. Napierskis
-
-    ## Puslapis 184
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    II
-    (Plg.
+  citata_rodoma: "Dinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr. Hennigas\nKarai. Slapt. Arch. Direktorius \nUž nuorašo perrašymo teisingumą [atsako]\nDr. Napierskis\n\n## Puslapis 184\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nII\n(Plg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88145
+    - t-005

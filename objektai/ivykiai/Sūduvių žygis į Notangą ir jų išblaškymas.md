@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62495"></a>
 - t-001
-  global_id: t-62495
   teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-183966"></a>
 - t-002
-  global_id: t-183966
   teiginys: "Ordino broliai su ginklanešiais persekiojo iš Notangos pasitraukusius sūduvius, daug jų nukovė arba mirtinai sužeidė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-194426"></a>
 - t-003
-  global_id: t-194426
   teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,24 +107,13 @@ Nenurodyta
     Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
     sužeidė, o kiti gėdingai pabėgo.
     201 (196).
-  citata_rodoma: |
-    Apie sūduvių pabėgimą
-
-      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
-    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
-    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
-    sužeidė, o kiti gėdingai pabėgo.
-
-
-
-
-       201 (196).
+  citata_rodoma: "Apie sūduvių pabėgimą\n\n  Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su\npalyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.\nBroliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai\nsužeidė, o kiti gėdingai pabėgo.\n\n\n\n\n   201 (196)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62495
-    - t-183966
-    - t-194426
+    - t-001
+    - t-002
+    - t-003

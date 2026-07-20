@@ -36,7 +36,6 @@ p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 
 
 <a id="claim-t-41575"></a>
 - t-001
-  global_id: t-41575
   teiginys: "„Raudonasis rojus“ buvo karikatūrų ir satyrų leidinys, išleistas 1951 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ p. 235, Karikatūrų ir satyrų leidinys „Raudonasis rojus“ išleistas 1951 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41575
+    - t-001

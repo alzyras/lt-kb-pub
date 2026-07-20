@@ -33,7 +33,6 @@ Vytauto privilegijos Kaunui publikacija); Tarasenka Petras.
 
 <a id="claim-t-202233"></a>
 - t-001
-  global_id: t-202233
   teiginys: "Vytauto privilegijos Kaunui publikacija); Tarasenka Petras."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Vytauto privilegijos Kaunui publikacija); Tarasenka Petras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202233
+    - t-001

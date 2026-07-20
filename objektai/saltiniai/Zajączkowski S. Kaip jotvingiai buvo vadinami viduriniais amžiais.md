@@ -36,7 +36,6 @@ Dusburgietis teigia, kad zajączkowski S.
 
 <a id="claim-t-61378"></a>
 - t-001
-  global_id: t-61378
   teiginys: "S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad zajączkowski S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61378
+    - t-001

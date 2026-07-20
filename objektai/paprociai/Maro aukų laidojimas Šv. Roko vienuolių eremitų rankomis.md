@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-01991"></a>
 - t-001
-  global_id: t-01991
   teiginys: "Maro aukas daugiausia laidojo Šv. Roko vienuoliai eremitai, nors dauguma jų buvo išbėgioję."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-01992"></a>
 - t-002
-  global_id: t-01992
   teiginys: "Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01992
+    - t-002
+
 - id: c-02230
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,13 +107,11 @@ Nenurodyta
     Nebūdavo galima jų spėti nė laidoti.
     Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių
     daugumas irgi buvo išbėgioję.
-  citata_rodoma: |
-    Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių
-    daugumas irgi buvo išbėgioję.
+  citata_rodoma: "Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių\ndaugumas irgi buvo išbėgioję."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01991
+    - t-001

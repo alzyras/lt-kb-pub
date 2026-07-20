@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87763"></a>
 - t-001
-  global_id: t-87763
   teiginys: "1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87763
+    - t-001

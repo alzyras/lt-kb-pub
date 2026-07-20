@@ -40,8 +40,7 @@ Bumblauskas A.
 ## Teiginiai
 
 <a id="claim-t-64571"></a>
-- t-001
-  global_id: t-64571
+- t-002
   teiginys: "A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Bumblauskas A.
     - c-42402
 
 <a id="claim-t-64572"></a>
-- t-002
-  global_id: t-64572
+- t-001
   teiginys: "A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -88,16 +86,15 @@ Bumblauskas A.
     Vilnius, 1998.
     Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
     2010.
-  citata_rodoma: |
-    Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
-    2010.
+  citata_rodoma: "Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,\n2010."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64572
+    - t-001
+
 - id: c-42402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -111,4 +108,4 @@ Bumblauskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64571
+    - t-002

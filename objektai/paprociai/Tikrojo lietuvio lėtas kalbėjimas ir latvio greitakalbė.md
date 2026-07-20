@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-192094"></a>
 - t-001
-  global_id: t-192094
   teiginys: "Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -87,16 +86,11 @@ Nenurodyta
     sių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­
     džius, beria ištisus skiemenis ir visiškai neatsižvelgia į
     balsių ilgumą.
-  citata_rodoma: |
-    Tikrasis lietuvis kalba lėtai, pa­
-    sverdamas žodžius, su pauzėmis ir atidžiausiai paiso bal­
-    sių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­
-    džius, beria ištisus skiemenis ir visiškai neatsižvelgia į
-    balsių ilgumą.
+  citata_rodoma: "Tikrasis lietuvis kalba lėtai, pa­\nsverdamas žodžius, su pauzėmis ir atidžiausiai paiso bal­\nsių ilgumo. Latvis, atvirkščiai, greitai taria, trumpina žo­\ndžius, beria ištisus skiemenis ir visiškai neatsižvelgia į\nbalsių ilgumą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192094
+    - t-001

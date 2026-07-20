@@ -31,7 +31,6 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
 
 <a id="claim-t-186188"></a>
 - t-001
-  global_id: t-186188
   teiginys: "Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
 
 <a id="claim-t-196432"></a>
 - t-002
-  global_id: t-196432
   teiginys: "Kartu su Prūsijos magistru Henriku Livonijos magistras Burchardas Harenas išsirengė į karą su ordino riteriais ir kariais iš Prūsijos bei Livonijos."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -80,20 +78,12 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
     visos Europos riterijos žiedas; apie nieką kita jie ne­
     svajojo, apie nieką kita nekalbėjo, tik apie Lietuvos
     sunaikinimą.
-  citata_rodoma: |
-    Atvyko į
-    pagalbą danai, vedami senų karo vadų. Išsirengė į ka­
-    rą Prūsijos magistras Henrikas ir Livonijos magistras
-    Burchardas Harenas su savo ordino riteriais bei ka­
-    riais iš Prūsijos ir Livonijos. Į karą traukė iš tiesų
-    visos Europos riterijos žiedas; apie nieką kita jie ne­
-    svajojo, apie nieką kita nekalbėjo, tik apie Lietuvos
-    sunaikinimą.
+  citata_rodoma: "Atvyko į\npagalbą danai, vedami senų karo vadų. Išsirengė į ka­\nrą Prūsijos magistras Henrikas ir Livonijos magistras\nBurchardas Harenas su savo ordino riteriais bei ka­\nriais iš Prūsijos ir Livonijos. Į karą traukė iš tiesų\nvisos Europos riterijos žiedas; apie nieką kita jie ne­\nsvajojo, apie nieką kita nekalbėjo, tik apie Lietuvos\nsunaikinimą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186188
-    - t-196432
+    - t-001
+    - t-002

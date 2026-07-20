@@ -4,7 +4,9 @@ pavadinimas: 'Žygimantas Senasis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -34,13 +36,12 @@ media_all_json: |-
 
 ## Santrauka
 
-sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).
+Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą. 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui. Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.
 
 ## Teiginiai
 
 <a id="claim-t-173307"></a>
-- t-001
-  global_id: t-173307
+- t-015
   teiginys: "Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +57,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157629
 
 <a id="claim-t-173308"></a>
-- t-002
-  global_id: t-173308
+- t-019
   teiginys: "1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +75,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157651
 
 <a id="claim-t-173309"></a>
-- t-003
-  global_id: t-173309
+- t-011
   teiginys: "Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +91,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157633
 
 <a id="claim-t-173310"></a>
-- t-004
-  global_id: t-173310
+- t-007
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +108,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157637
 
 <a id="claim-t-173311"></a>
-- t-005
-  global_id: t-173311
+- t-009
   teiginys: "1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +126,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157648
 
 <a id="claim-t-173313"></a>
-- t-006
-  global_id: t-173313
+- t-023
   teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +142,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157662
 
 <a id="claim-t-173314"></a>
-- t-007
-  global_id: t-173314
+- t-025
   teiginys: "1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +160,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157657
 
 <a id="claim-t-173315"></a>
-- t-008
-  global_id: t-173315
+- t-034
   teiginys: "1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -184,9 +178,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - c-157632
 
-<a id="claim-t-173323"></a>
-- t-009
-  global_id: t-173323
+<a id="claim-t-173316"></a>
+- t-031
   teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -200,11 +193,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
   pagrindžia:
-    - c-157645
     - c-157649
+    - c-157645
+
 <a id="claim-t-173317"></a>
-- t-010
-  global_id: t-173317
+- t-035
   teiginys: "1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -223,8 +216,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157643
 
 <a id="claim-t-173318"></a>
-- t-011
-  global_id: t-173318
+- t-017
   teiginys: "1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -242,8 +234,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157658
 
 <a id="claim-t-173319"></a>
-- t-012
-  global_id: t-173319
+- t-027
   teiginys: "Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -260,8 +251,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157640
 
 <a id="claim-t-173320"></a>
-- t-013
-  global_id: t-173320
+- t-022
   teiginys: "1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -279,8 +269,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157655
 
 <a id="claim-t-173321"></a>
-- t-014
-  global_id: t-173321
+- t-026
   teiginys: "Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -296,8 +285,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157638
 
 <a id="claim-t-173322"></a>
-- t-015
-  global_id: t-173322
+- t-003
   teiginys: "1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -316,8 +304,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157641
 
 <a id="claim-t-173324"></a>
-- t-016
-  global_id: t-173324
+- t-030
   teiginys: "1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -336,8 +323,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157636
 
 <a id="claim-t-173325"></a>
-- t-017
-  global_id: t-173325
+- t-014
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -356,8 +342,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157642
 
 <a id="claim-t-173326"></a>
-- t-018
-  global_id: t-173326
+- t-032
   teiginys: "Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -373,8 +358,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157631
 
 <a id="claim-t-173327"></a>
-- t-019
-  global_id: t-173327
+- t-024
   teiginys: "Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -390,8 +374,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157660
 
 <a id="claim-t-173328"></a>
-- t-020
-  global_id: t-173328
+- t-038
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -411,8 +394,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157642
 
 <a id="claim-t-173329"></a>
-- t-021
-  global_id: t-173329
+- t-036
   teiginys: "1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -431,8 +413,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157653
 
 <a id="claim-t-173330"></a>
-- t-022
-  global_id: t-173330
+- t-028
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -449,8 +430,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157637
 
 <a id="claim-t-173331"></a>
-- t-023
-  global_id: t-173331
+- t-018
   teiginys: "Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -467,8 +447,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157646
 
 <a id="claim-t-173332"></a>
-- t-024
-  global_id: t-173332
+- t-008
   teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -487,28 +466,9 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - c-157659
     - c-157644
-<a id="claim-t-173333"></a>
-- t-025
-  global_id: t-173333
-  teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
-  atnaujinta: "2026-05-31 14:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Milanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1519 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-157650
 
 <a id="claim-t-173335"></a>
-- t-026
-  global_id: t-173335
+- t-013
   teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -523,9 +483,9 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindžia:
     - c-157634
     - c-167240
+
 <a id="claim-t-173336"></a>
-- t-027
-  global_id: t-173336
+- t-039
   teiginys: "Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -541,8 +501,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157639
 
 <a id="claim-t-173337"></a>
-- t-028
-  global_id: t-173337
+- t-037
   teiginys: "1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -561,8 +520,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157635
 
 <a id="claim-t-173338"></a>
-- t-029
-  global_id: t-173338
+- t-012
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -580,8 +538,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157652
 
 <a id="claim-t-173339"></a>
-- t-030
-  global_id: t-173339
+- t-004
   teiginys: "Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -597,8 +554,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - c-157638
 
 <a id="claim-t-173340"></a>
-- t-031
-  global_id: t-173340
+- t-033
   teiginys: "Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -612,6 +568,127 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157661
+
+<a id="claim-t-201572"></a>
+- t-041
+  teiginys: "Lietuvoje pradėjus valdyti Žygimantui Senajam buvo vykdoma muitinių pertvarka."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184919
+
+<a id="claim-t-201573"></a>
+- t-042
+  teiginys: "1511 m. Žygimantas Senasis, suteikdamas Kauno pilininko pareigas Vaskui Daškovičiui, nurodė, kad šis Kauno pilį tvirtintų mūru ir medžiu."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184920
+
+<a id="claim-t-201574"></a>
+- t-043
+  teiginys: "1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi)."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184921
+
+<a id="claim-t-201575"></a>
+- t-044
+  teiginys: "Svarbiausias pareigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija 1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno pilininko pareigas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184922
+
+<a id="claim-t-201576"></a>
+- t-045
+  teiginys: "1527 m. Lietuvos bernardinų atsiskyrimo siekius ėmė remti ir Žygimantas Senasis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184923
+
+<a id="claim-t-201577"></a>
+- t-046
+  teiginys: "Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro, nemažai žmonių išmirė, todėl miestiečiai prašė atleisti nuo naujų muitų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184924
+
+<a id="claim-t-201578"></a>
+- t-047
+  teiginys: "1540 m. Žygimantas Senasis, spręsdamas Kauno miestiečių tarpusavio ginčus, matė reikalą į savo privilegiją sprendimą įrašytame straipsnyje nurodyti, kad Kaune atvykėliai ir svečiai iš Prūsų tarp savęs negali prekiauti, išskyrus vietą kauniečių, pas kuriuos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184925
+
+<a id="claim-t-201579"></a>
+- t-048
+  teiginys: "1541 m. Žygimantas Senasis ne tik patvirtino draudimą svetimšaliams pirkliams prekiauti krašte, bet ir nurodė visiems žemvaldžiams nereikalauti iš Kauno pirklių vidaus muitų ir turgaus mokesčių."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184926
+
+<a id="claim-t-201580"></a>
+- t-049
+  teiginys: "1540 m. Žygimanto Senojo privilegijoje-sprendime buvo išvardyti, matyt, nesiekiant išsamumo, miesto pajamų šaltiniai."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184927
+
+<a id="claim-t-202317"></a>
+- t-050
+  teiginys: "Penktame XVI a. dešimtmetyje pagal sutartį su Žygimantu Senuoju Krymo chanas Sagapas Girėjus laidavo prekybos laisvę lenkų ir lietuvių pirkliams Kafoje ir Perekope už kasmet žadėtą gelumbę."
+  atnaujinta: "2026-07-19 11:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
+  pagrindžia:
+    - c-185664
 - susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
@@ -676,7 +753,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173307
+    - t-015
+
 - id: c-157631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -697,27 +775,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
     ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
     mis, leisdamas imti trečią grūdą iki gyvos galvos15.
-  citata_rodoma: |
-    Grzybowski, 1. 40), matyti,
-    266
-
-    ## Puslapis 283
-
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15.
+  citata_rodoma: "Grzybowski, 1. 40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173326
+    - t-032
+
 - id: c-157632
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -741,7 +807,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173315
+    - t-034
+
 - id: c-157633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -762,7 +829,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173309
+    - t-011
+
 - id: c-157634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -781,7 +849,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173335
+    - t-013
+
 - id: c-157635
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -801,28 +870,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
     Haeres.
-  citata_rodoma: |
-    Valerijonas
-
-    ## Puslapis 394
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
-    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
-    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
-    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
-    1533 METAIS
-    (Iš Vilniaus kapitulos archyvo rankraščių)
-    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
-    aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
-    Haeres.
+  citata_rodoma: "Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et \nHaeres."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173337
+    - t-037
+
 - id: c-157636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -844,7 +900,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173324
+    - t-030
+
 - id: c-157637
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -869,28 +926,16 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     IV KNYGA
     Žygimantas Senasis, apdovanotas proto ir charakterio pri­
     valumais ir tvirtai siekiantis įvesti tvarką.
-  citata_rodoma: |
-    Bet Lietuvos valdymą perėmė karalius
-    —  • —
-    257
-
-    ## Puslapis 274
-
-    258
-
-    ## Puslapis 275
-
-    IV KNYGA
-    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
-    valumais ir tvirtai siekiantis įvesti tvarką.
+  citata_rodoma: "Bet Lietuvos valdymą perėmė karalius\n—  • —\n257\n\n## Puslapis 274\n\n258\n\n## Puslapis 275\n\nIV KNYGA\nŽygimantas Senasis, apdovanotas proto ir charakterio pri­\nvalumais ir tvirtai siekiantis įvesti tvarką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173310
-    - t-173330
+    - t-007
+    - t-028
+
 - id: c-157638
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -905,22 +950,16 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
-  citata_rodoma: |
-    Tačiau netrukus į Vilnių at­
-    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
-    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
-    grėsusio pilietinio karo.
-    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
-    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
-    jos sostinei tam tikru atžvilgiu buvo naudingas.
+  citata_rodoma: "Tačiau netrukus į Vilnių at­\nvyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio\nkaraliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai\ngrėsusio pilietinio karo.\nTrumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,\njos sostinei tam tikru atžvilgiu buvo naudingas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173321
-    - t-173339
+    - t-026
+    - t-004
+
 - id: c-157639
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -948,7 +987,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173336
+    - t-039
+
 - id: c-157640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -962,18 +1002,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
     Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
     nigaikštis. Ponas ir tėvonis.
-  citata_rodoma: |
-    Taigi
-    mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
-    Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
-    nigaikštis. Ponas ir tėvonis.
+  citata_rodoma: "Taigi \nmes, Žygimantas, DIEVO malone Lenkijos karalius, didysis \nLietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­\nnigaikštis. Ponas ir tėvonis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173319
+    - t-027
+
 - id: c-157641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1002,7 +1039,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173322
+    - t-003
+
 - id: c-157642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1018,23 +1056,16 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
-  citata_rodoma: |
-    Tame pačiame seime
-    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
-    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
-    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
-    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
-    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
-    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
-    tėjimo viršūnės.
+  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173325
-    - t-173328
+    - t-014
+    - t-038
+
 - id: c-157643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1055,29 +1086,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     (Iš Vilniaus kapitulos rankraščių)
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc.
-  citata_rodoma: |
-    Dauge­
-    liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
-    ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
-    sams daryti.
-
-    ## Puslapis 332
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    V
-    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
-    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
-    1542 METAIS
-    (Iš Vilniaus kapitulos rankraščių)
-    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
-    niae, Russiae, Prussiae, Masoviaeq.
+  citata_rodoma: "Dauge­\nliui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę \nir jų liejimo formas bei daugybę įrangos, reikalingos apka­\nsams daryti.\n\n## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA \nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI \n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua- \nniae, Russiae, Prussiae, Masoviaeq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173317
+    - t-035
+
 - id: c-157644
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1094,10 +1111,12 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-157645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1115,10 +1134,12 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     mos augo ir buvo geriau tvarkomos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
+
 - id: c-157646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1155,22 +1176,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
-  citata_rodoma: |
-    Šiam ponui kunigaikščiui
-    Žygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­
-    tingosios paskutinės valios vykdytojui bei visiems karalys­
-    tės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­
-    sėjams atskirai (specialiter) perduodame ir patikime
-    šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
-    džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
-    mų bei teisių globą (protectio).
+  citata_rodoma: "Šiam ponui kunigaikščiui\nŽygimantui, broliui ir paveldėtojui, mūsų įpėdiniui ir ypa­\ntingosios paskutinės valios vykdytojui bei visiems karalys­\ntės ir Lietuvos Didžiosios Kunigaikštystės prelatams ir tei­\nsėjams atskirai (specialiter) perduodame ir patikime\nšviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­\ndžiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­\nmų bei teisių globą (protectio)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173331
+    - t-018
+
 - id: c-157648
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1191,7 +1205,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173311
+    - t-009
+
 - id: c-157649
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1213,7 +1228,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173323
+    - t-031
+
 - id: c-157650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1228,15 +1244,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: |
-    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+  citata_rodoma: "sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-173333
 - id: c-157651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1269,22 +1283,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     sentias, quamobrem Mandatum dudum denegaveris ut tuus
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
-  citata_rodoma: |
-    ## Puslapis 390
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    LENKIJOS KARALIUS ŽYGIMANTAS
-    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
-    1514 METAI
-    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
-    kodekso buv.
+  citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS\nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI\n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio\nkodekso buv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173308
+    - t-019
+
 - id: c-157652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1312,7 +1319,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173338
+    - t-012
+
 - id: c-157653
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1346,40 +1354,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     1514 METAI
     (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
     kodekso buv.
-  citata_rodoma: |
-    Ten pat dalyvaujant Vilniaus vyskupui di­
-    džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­
-    siems, garbingiesiems, prakilniesiems ir kilmingiesiems -
-    Trakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui
-    ir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­
-    nyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko),
-    didžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­
-    džiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai,
-    mūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo-
-    vičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­
-    nislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno
-    kanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui
-    Stanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės
-    rūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui
-    Martynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­
-    kų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir
-    mums mielų.
-
-    ## Puslapis 390
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    LENKIJOS KARALIUS ŽYGIMANTAS
-    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
-    1514 METAI
-    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
-    kodekso buv.
+  citata_rodoma: "Ten pat dalyvaujant Vilniaus vyskupui di­\ndžiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­\nsiems, garbingiesiems, prakilniesiems ir kilmingiesiems - \nTrakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui \nir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­\nnyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko), \ndidžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­\ndžiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai, \nmūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo- \nvičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­\nnislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno \nkanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui \nStanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės \nrūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui \nMartynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­\nkų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir \nmums mielų.\n\n## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173329
+    - t-036
+
 - id: c-157655
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1418,7 +1401,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173320
+    - t-022
+
 - id: c-157657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1451,7 +1435,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173314
+    - t-025
+
 - id: c-157658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1468,24 +1453,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc. Dominus et haeres.
     Significamus tenore praesentium, quibus expedit universis.
-  citata_rodoma: |
-    ## Puslapis 332
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    V
-    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
-    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
-    1542 METAIS
-    (Iš Vilniaus kapitulos rankraščių)
-    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
-    niae, Russiae, Prussiae, Masoviaeq.
+  citata_rodoma: "## Puslapis 332\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nV\nKARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA\nPRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI\n1542 METAIS\n(Iš Vilniaus kapitulos rankraščių)\nSigismundus Dei gratia Rex Poloniae Magnus Dux Litua-\nniae, Russiae, Prussiae, Masoviaeq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173318
+    - t-017
+
 - id: c-157659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1504,7 +1480,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173332
+    - t-008
+
 - id: c-157660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1531,7 +1508,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173327
+    - t-024
+
 - id: c-157661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1562,7 +1540,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173340
+    - t-033
+
 - id: c-157662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1612,7 +1591,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173313
+    - t-023
+
 - id: c-167240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1632,9 +1612,175 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-184919
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šias valdovo palaimintas naujoves įgyvendino Kauno muitinę kelerius metus
+    valdęs Abromas Jezofavičius. Lietuvoje pradėjus valdyti Žygimantui Senajam buvo
+    vykdoma muitinių pertvarka. 1507 m.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-184920
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Vienuolynui bu-
+    vo siūlomas kitas sklypas, ir tik Aleksandras Jogailaitis leido bernardinams statydin-
+    tis numatytoje vietoje, šalia pilies. 1511 m. Žygimantas Senasis, suteikdamas Kauno
+    pilininko pareigas Vaskui Daškovičiui, nurodė, kad šis Kauno pilį tvirtintų mūru ir
+    medžiu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
+- id: c-184921
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1514 m.
+    Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė
+    Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiš-
+    kių dvaru (valsčiumi). Nuo 1514 m. Abraomas Jezofavičius titulavosi Kauno seniūnu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-184922
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno seniūnai pavietą ir pilį tvarkė padedami savo administracijos. Svarbiausias pa-
+    reigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija
+    1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno
+    pilininko pareigas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
+- id: c-184923
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Lietuvos bernardinų provincijos sukūrimą palaikė Lietuvos atskirumą nuo Len-
+    kijos pabrėžiantys ir stiprinantys Lietuvos didikai, ypač Albertas Goštautas, taip pat
+    Vilniaus vyskupas Jonas iš Lietuvos kunigaikščių. 1527 m. Lietuvos bernardinų atsis-
+    kyrimo siekius ėmė remti ir Žygimantas Senasis.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
+- id: c-184924
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte že-
+    mės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro,
+    nemažai žmonių išmirė, todėl miestiečiai prašė atleisti nuo naujų muitų.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
+
+- id: c-184925
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauniečiai beveik visada sulaukdavo valdovų paramos, ypač gindami savąją rin-
+    ką nuo Karaliaučiaus ir Dancigo pirklių skverbimosi. 1540 m. Žygimantas Senasis,
+    spręsdamas Kauno miestiečių tarpusavio ginčus, matė reikalą į savo privilegiją­
+    sprendimą įrašytame straipsnyje nurodyti, kad Kaune atvykėliai ir svečiai iš Prūsų
+    tarp savęs negali prekiauti, išskyrus vietą kauniečių, pas kuriuos bus apsistoję, na-
+    muose.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
+
+- id: c-184926
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Bet vis dėlto kauniečiai turėjo teisę nemokėti vidaus muitų. 1541 m. Žygiman-
+    tas Senasis ne tik patvirtino draudimą svetimšaliams pirkliams prekiauti krašte, bet
+    ir nurodė visiems žemvaldžiams nereikalauti iš Kauno pirklių vidaus muitų ir turgaus
+    mokesčių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-048
+
+- id: c-184927
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Todėl bus
+    pateikta tik šios Kauno miesto gyvenimo srities apžvalga.
+    1540 m. Žygimanto Senojo privilegijoje-sprendime buvo išvardyti, matyt, nesie-
+    kiant išsamumo, miesto pajamų šaltiniai.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-049
+
+- id: c-185664
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 11:47"
+  pagrindzia:
+    - t-050
 
 ## Ryšiai
-- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
+- Žygimantas Senasis buvo valdovas Lenkija, Lietuva
+- Žygimantas Senasis valdė Lietuva
+- Žygimantas Senasis keliavo į Vilnius
 - Žygimantas Senasis paskyrė [[objektai/asmenys/Jonas Hozijus]]

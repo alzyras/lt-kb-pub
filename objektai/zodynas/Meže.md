@@ -44,8 +44,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 ## Teiginiai
 
 <a id="claim-t-192204"></a>
-- t-001
-  global_id: t-192204
+- t-002
   teiginys: "Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, nes kraštas ribojosi su svetimais kraštais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -63,8 +62,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     - c-175066
 
 <a id="claim-t-192205"></a>
-- t-002
-  global_id: t-192205
+- t-001
   teiginys: "Narbutas lietuvišką žodį „Meže“ aiškina kaip reiškiantį ribą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,7 +81,6 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 
 <a id="claim-t-192564"></a>
 - t-003
-  global_id: t-192564
   teiginys: "Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, reiškiančio ribą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,27 +98,7 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175345
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, reiškiančio ribą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nuo seno čia gyvenę
-    žmonės žuvo kariaudami su slavais arba pasitraukė į
-    krašto gilumą; taigi rašytinių istorijos duomenų beveik
-    nėra, vadinasi, nėra ir tikslių žinių.
-    257
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192564
+
 ## Citatos
 
 - id: c-175066
@@ -133,18 +110,16 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
     sėje su svetimais kraštais. Čia buvo senovinės Grevožės,
     Probuto ir kitos pilys.
-  citata_rodoma: |
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais.
+  citata_rodoma: "Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­\nko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­\nsėje su svetimais kraštais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192204
-    - t-192205
+    - t-002
+    - t-001
+
 - id: c-175345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -158,19 +133,11 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
     sėje su svetimais kraštais.
-  citata_rodoma: |
-    Nuo seno čia gyvenę
-    žmonės žuvo kariaudami su slavais arba pasitraukė į
-    krašto gilumą; taigi rašytinių istorijos duomenų beveik
-    nėra, vadinasi, nėra ir tikslių žinių.
-    257
-    Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
-    ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
-    sėje su svetimais kraštais.
+  citata_rodoma: "Nuo seno čia gyvenę\nžmonės žuvo kariaudami su slavais arba pasitraukė į\nkrašto gilumą; taigi rašytinių istorijos duomenų beveik\nnėra, vadinasi, nėra ir tikslių žinių.\n257\nPamedė (Pomezania). Pavadinimas kilęs iš lietuviš­\nko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­\nsėje su svetimais kraštais."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192564
+    - t-003

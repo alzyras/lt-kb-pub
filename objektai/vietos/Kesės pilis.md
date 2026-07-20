@@ -32,7 +32,6 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
 
 <a id="claim-t-201168"></a>
 - t-001
-  global_id: t-201168
   teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,9 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
 ## Citatos
 
 - id: c-184518
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­
@@ -65,4 +65,4 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201168
+    - t-001

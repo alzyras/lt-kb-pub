@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185506"></a>
 - t-001
-  global_id: t-185506
   teiginys: "Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-196152"></a>
 - t-002
-  global_id: t-196152
   teiginys: "Vytenis žiemos pabaigoje užpuolė Prūsiją, nusiaubė Sembą ir Notangą, sudegino kaimus, išžudė kaimiečius ir išvedė į vergovę penkis šimtus kilmingųjų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-196153"></a>
 - t-003
-  global_id: t-196153
   teiginys: "Kojelavičius vaizduoja Vytenį po pralaimėjimo nirštantį, negebantį tramdyti vilties ir skausmo ir besirengiantį naujam karui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-196154"></a>
 - t-004
-  global_id: t-196154
   teiginys: "Balandžio mėnesį Vytenis su keturiais tūkstančiais rinktinių karių užpuolė Varmę ir nuniokojo kraštą iki Heilsbergo bei Varmės pilių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -113,7 +109,6 @@ Nenurodyta
 
 <a id="claim-t-196155"></a>
 - t-005
-  global_id: t-196155
   teiginys: "Vytenis, sunkiai sužeistas į galvą, paliko stovyklą ir kariuomenę ir, lydimas dviejų karių, paspruko nuo kryžiuočių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -160,8 +155,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185506
-    - t-196155
+    - t-001
+    - t-005
+
 - id: c-178558
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -196,7 +192,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196152
+    - t-002
+
 - id: c-178559
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -226,7 +223,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196153
+    - t-003
+
 - id: c-178560
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -253,4 +251,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196154
+    - t-004

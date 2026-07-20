@@ -40,8 +40,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 ## Teiginiai
 
 <a id="claim-t-64420"></a>
-- t-001
-  global_id: t-64420
+- t-006
   teiginys: "Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-42350
 
 <a id="claim-t-64421"></a>
-- t-002
-  global_id: t-64421
+- t-005
   teiginys: "Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-42349
 
 <a id="claim-t-64422"></a>
-- t-003
-  global_id: t-64422
+- t-002
   teiginys: "Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
 <a id="claim-t-64423"></a>
 - t-004
-  global_id: t-64423
   teiginys: "Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos sukilėlių pasipriešinimas ėmė silpti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +99,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-42348
 
 <a id="claim-t-64424"></a>
-- t-005
-  global_id: t-64424
+- t-003
   teiginys: "Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,8 +115,7 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-42347
 
 <a id="claim-t-64425"></a>
-- t-006
-  global_id: t-64425
+- t-001
   teiginys: "1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -168,19 +162,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
     nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
-  citata_rodoma: |
-    Pavasarį paskirtas vyriausiuoju Lietu-
-    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
-    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
-    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
-    mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
+  citata_rodoma: "Pavasarį paskirtas vyriausiuoju Lietu-\nvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas\nZigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-\nnijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-\nmybę vienu smūgiu nuleisti sukilėliams daug kraujo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64425
+    - t-001
+
 - id: c-22087
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,17 +184,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
     prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
     vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-  citata_rodoma: |
-    Gegužės pradžioje
-    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
+  citata_rodoma: "Gegužės pradžioje\nprie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos\nvadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64422
+    - t-002
+
 - id: c-42347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,7 +212,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64424
+    - t-003
+
 - id: c-42348
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,21 +226,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     kovos pasipriešinimas ėmė silpti.
 
     Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
-  citata_rodoma: |
-    (G) Buvo sužeistas sukilėlių vadas
-
-    Z. Sierakauskas, po dviejų valandų
-
-    kovos pasipriešinimas ėmė silpti.
-
-    Ruoliškioež.
+  citata_rodoma: "(G) Buvo sužeistas sukilėlių vadas\n\nZ. Sierakauskas, po dviejų valandų\n\nkovos pasipriešinimas ėmė silpti.\n\nRuoliškioež."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64423
+    - t-004
+
 - id: c-42349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -268,22 +251,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
     Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
     ginklai iš esmės nesikeitė.
-  citata_rodoma: |
-    Stovykloje buvusį sužeistą
-
-    Z. Sierakauską jau mūšio pradžioje pavyko
-    išvežti ir paslėpti Biržų girioje esančiame
-    Skrebiškio palivarke. Trijų dienų mūšio
-    iškamuoti sukilėliai prarado budrumą ir
-
-    Nuo xvii a.
+  citata_rodoma: "Stovykloje buvusį sužeistą\n\nZ. Sierakauską jau mūšio pradžioje pavyko\nišvežti ir paslėpti Biržų girioje esančiame\nSkrebiškio palivarke. Trijų dienų mūšio\niškamuoti sukilėliai prarado budrumą ir\n\nNuo xvii a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64421
+    - t-005
+
 - id: c-42350
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -299,21 +275,15 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: |
-    Vilniaus karo apygardos Karo veiksmų
-
-    juos miegančius gegužės 10 naktį apsupo ir
-    paėmė į nelaisvę paporučikio fon Gaso da-
-    linys. Į nelaisvę pakliuvo Z. Sierakauskas,
-    B. Kolyška, S. Kozakauskas ir dar keletas
-    karininkų.
+  citata_rodoma: "Vilniaus karo apygardos Karo veiksmų\n\njuos miegančius gegužės 10 naktį apsupo ir\npaėmė į nelaisvę paporučikio fon Gaso da-\nlinys. Į nelaisvę pakliuvo Z. Sierakauskas,\nB. Kolyška, S. Kozakauskas ir dar keletas\nkarininkų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64420
+    - t-006
+
 ## Ryšiai
 - Zigmantas Sierakauskas mirė [[objektai/vietos/Vilnius]]
 - Zigmantas Sierakauskas paskyrė [[objektai/asmenys/Antanas Mackevičius]]

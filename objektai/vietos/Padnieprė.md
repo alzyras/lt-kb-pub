@@ -31,7 +31,6 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 
 <a id="claim-t-36471"></a>
 - t-001
-  global_id: t-36471
   teiginys: "Vytautas Padnieprės srityje turėjo vietininkų mokesčiams rinkti net ten, kur nebuvo jo dvarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
     Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
     nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
     nigais.
-  citata_rodoma: |
-    Mokes­
-    čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo
-    dvarų, kaip Uždauguvio ir Padnieprės srityse.
-    Kadangi Vytauto laikais vyko persilaužimas tarp natūrali­
-    nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
-    nigais.
+  citata_rodoma: "Mokes­\nčiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo\ndvarų, kaip Uždauguvio ir Padnieprės srityse.\nKadangi Vytauto laikais vyko persilaužimas tarp natūrali­\nnio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­\nnigais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36471
+    - t-001

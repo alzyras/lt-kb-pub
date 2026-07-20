@@ -31,7 +31,6 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
 
 <a id="claim-t-186232"></a>
 - t-001
-  global_id: t-186232
   teiginys: "Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
 
 <a id="claim-t-196543"></a>
 - t-002
-  global_id: t-196543
   teiginys: "Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai užpuolė ir nusiaubė Žemaitiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,23 +92,12 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
     k ry žiu o č ia m s
     p a g a l­
     bin in kų
-  citata_rodoma: |
-    Tuo tarpu lietuviai, išsaugoję likusius
-    karius, ramiai patraukė namo, išsigabendami laimikį —
-    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
-    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
-    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
-    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
-    didžiulę kariuomenę; šių jė­
-    gų remiami kryžiuočiai už­
-    puolė Žemaitiją ir, padaliję
-    pulkus keturiomis žygio vo­
-    romis, nusiaubė visą kraštą.
+  citata_rodoma: "Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus. Mat Aust­\nrijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją\ndidžiulę kariuomenę; šių jė­\ngų remiami kryžiuočiai už­\npuolė Žemaitiją ir, padaliję \npulkus keturiomis žygio vo­\nromis, nusiaubė visą kraštą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186232
-    - t-196543
+    - t-001
+    - t-002

@@ -8,10 +8,10 @@ datos:
   - '1579 m.'
 date_start: '1576'
 date_end: '1579'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
 
 <a id="claim-t-201840"></a>
 - t-001
-  global_id: t-201840
   teiginys: "Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Švč."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
 
 <a id="claim-t-201841"></a>
 - t-002
-  global_id: t-201841
   teiginys: "Bene pirmieji sukruto ir į valdovą kreipėsi Literatų brolijos nariai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,7 +59,6 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
 
 <a id="claim-t-201842"></a>
 - t-003
-  global_id: t-201842
   teiginys: "Kaip matyti iš 1579 m. Stepono Batoro konfirmacinės privilegijos šiai brolijai, ji dėl liuteronizmo plitimo buvo beveik sunykusi."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -74,7 +71,6 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
 
 <a id="claim-t-201843"></a>
 - t-004
-  global_id: t-201843
   teiginys: "Savo namus, į kuriuos rinkdavosi bendrauti, turėjo Literatų brolija."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -105,7 +101,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201840
+    - t-001
 
 - id: c-185188
   autorius: "Zigmantas Kiaupa"
@@ -123,7 +119,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201841
+    - t-002
 
 - id: c-185189
   autorius: "Zigmantas Kiaupa"
@@ -140,7 +136,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201842
+    - t-003
 
 - id: c-185190
   autorius: "Zigmantas Kiaupa"
@@ -157,4 +153,4 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201843
+    - t-004

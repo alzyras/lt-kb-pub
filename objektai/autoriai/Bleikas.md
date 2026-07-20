@@ -31,7 +31,6 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
 
 <a id="claim-t-191636"></a>
 - t-001
-  global_id: t-191636
   teiginys: "Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį kaip 28 000 angliškų pėdų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191636
+    - t-001

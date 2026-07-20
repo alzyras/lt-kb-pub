@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85591"></a>
-- t-001
-  global_id: t-85591
+- t-003
   teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ media_all_json: |-
   pagrindžia:
     - c-81577
     - c-81576
+
 <a id="claim-t-85592"></a>
-- t-002
-  global_id: t-85592
+- t-004
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ media_all_json: |-
     - c-81579
 
 <a id="claim-t-85593"></a>
-- t-003
-  global_id: t-85593
+- t-001
   teiginys: "Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ media_all_json: |-
     - c-81578
 
 <a id="claim-t-85595"></a>
-- t-004
-  global_id: t-85595
+- t-006
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ media_all_json: |-
     - c-81579
 
 <a id="claim-t-85596"></a>
-- t-005
-  global_id: t-85596
+- t-002
   teiginys: "Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -194,19 +190,15 @@ media_all_json: |-
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: |
-    Valdant Švitrigailai, Vilniaus miestietis
-    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
-    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
-    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
-    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
-    čio dvare9.
+  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-81577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,24 +216,15 @@ media_all_json: |-
     kaip malonų patikėtinį", bei prašo,
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
-  citata_rodoma: |
-    Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
-    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
-    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
-    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
-    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
-    gą poną Fridrichą fon Bebirsteyną,
-    priėmiau į savo dvariškių būrį ir
-    kaip malonų patikėtinį", bei prašo,
-    kad panašią paslaugą padarytų to
-    paties svečio broliui Prūsijoje.
+  citata_rodoma: "Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o\nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus\nsudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano\ngą poną Fridrichą fon Bebirsteyną,\npriėmiau į savo dvariškių būrį ir\nkaip malonų patikėtinį\", bei prašo,\nkad panašią paslaugą padarytų to\npaties svečio broliui Prūsijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85591
+    - t-003
+
 - id: c-81578
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -260,7 +243,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85593
+    - t-001
+
 - id: c-81579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -296,8 +280,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85592
-    - t-85595
+    - t-004
+    - t-006
+
 - id: c-81581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -313,6 +298,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85596
+    - t-002
+
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

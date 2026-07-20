@@ -31,7 +31,6 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 
 <a id="claim-t-96054"></a>
 - t-001
-  global_id: t-96054
   teiginys: "St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96054
+    - t-001

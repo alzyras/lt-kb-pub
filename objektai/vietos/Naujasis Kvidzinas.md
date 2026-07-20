@@ -36,8 +36,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 ## Teiginiai
 
 <a id="claim-t-36432"></a>
-- t-001
-  global_id: t-36432
+- t-003
   teiginys: "Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     - c-38580
 
 <a id="claim-t-36433"></a>
-- t-002
-  global_id: t-36433
+- t-001
   teiginys: "Po keturių savaičių darbo pilis buvo baigta ir pavadinta Naujuoju Kvidzinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     - c-38581
 
 <a id="claim-t-36434"></a>
-- t-003
-  global_id: t-36434
+- t-002
   teiginys: "Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36434
+    - t-002
+
 - id: c-38580
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -112,21 +110,15 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     sia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi
     juos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­
     burgą.
-  citata_rodoma: |
-    Vi­
-    sos trys Vytauto valdžioje buvusios pilys (Marienburgas ant
-    Nemuno, Jurbarkas (Georgenburgas), Marienverderis arba Nau­
-    jasis Kvidzinas prie Kauno) turėjo būti sunaikintos. Pirmiau­
-    sia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi
-    juos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­
-    burgą.
+  citata_rodoma: "Vi­\nsos trys Vytauto valdžioje buvusios pilys (Marienburgas ant\nNemuno, Jurbarkas (Georgenburgas), Marienverderis arba Nau­\njasis Kvidzinas prie Kauno) turėjo būti sunaikintos. Pirmiau­\nsia Vytautas, pranešdamas vokiečiams, kad Skirgaila rengiasi\njuos pulti, su 400 žemaičių nuvyko iš Naujojo Kvidzino į Marien­\nburgą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36432
+    - t-003
+
 - id: c-38581
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -138,15 +130,11 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
     mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta
     ir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­
     tyta pilis galėjo būti tvirta atrama prieš lietuvius.
-  citata_rodoma: |
-    Nežiūrint nera­
-    mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta
-    ir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­
-    tyta pilis galėjo būti tvirta atrama prieš lietuvius.
+  citata_rodoma: "Nežiūrint nera­\nmumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta\nir pavadinta Naujuoju Kvidzinu. Tvirta ir naujoviškai pasta­\ntyta pilis galėjo būti tvirta atrama prieš lietuvius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36433
+    - t-001

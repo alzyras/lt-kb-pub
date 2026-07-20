@@ -31,7 +31,6 @@ Vitkauskas, gen.
 
 <a id="claim-t-19300"></a>
 - t-001
-  global_id: t-19300
   teiginys: "Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Vitkauskas, gen.
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: |
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+  citata_rodoma: "S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19300
+    - t-001

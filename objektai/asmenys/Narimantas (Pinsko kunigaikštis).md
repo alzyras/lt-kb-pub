@@ -10,16 +10,16 @@ datos:
   - '1348 m.'
 date_start: '1268'
 date_end: '1348'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/5/53/Narymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ANarymont%2C_Pahonia-Kalumny._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F-%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281709%29.jpg'
@@ -43,8 +43,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 ## Teiginiai
 
 <a id="claim-t-186074"></a>
-- t-001
-  global_id: t-186074
+- t-002
   teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-169435
 
 <a id="claim-t-190930"></a>
-- t-002
-  global_id: t-190930
+- t-003
   teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-173812
 
 <a id="claim-t-193400"></a>
-- t-003
-  global_id: t-193400
+- t-004
   teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-176122
 
 <a id="claim-t-193966"></a>
-- t-005
-  global_id: t-193966
+- t-006
   teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-176591
 
 <a id="claim-t-193967"></a>
-- t-006
-  global_id: t-193967
+- t-007
   teiginys: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-176592
 
 <a id="claim-t-193968"></a>
-- t-007
-  global_id: t-193968
+- t-008
   teiginys: "Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -142,8 +136,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-176593
 
 <a id="claim-t-196861"></a>
-- t-008
-  global_id: t-196861
+- t-010
   teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį, o jo brolis Daumantas - kitą Fledro dukterį."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -156,8 +149,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     - c-176591
 
 <a id="claim-t-196862"></a>
-- t-009
-  global_id: t-196862
+- t-011
   teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -167,17 +159,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176592
-
-<a id="claim-t-193965"></a>
-- t-004
-  global_id: t-193965
-  teiginys: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys perrašytas iš pastabos, pašalinant puslapio ir numeracijos triukšmą. Hipotetinis „matyt“ paliktas kaip leidinio pastabos siejimas, nepridedant naujų faktų.'
-  pagrindžia:
-    - c-005
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
@@ -201,28 +182,30 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184687|Daumantas (kunigaikštis, XV a.)]]: Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.'
+- c-004
+  santrauka: 'Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Vytautas manė, jog patirto pralai­
-    mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­
-    pęs iš visų pusių, jis toliau puolė, ypač dėl to, kad
-    Plikojo kalno pusėje patrankų sviediniais apgriovus
-    Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė
-    platus kelias. Vis dėlto nors seko gynėjų gretos, nema­
-    žėjo nei jų narsumas, nei atkaklumas; visas priešo pas­
-    tangas Moskožovskis ryžtingai vertė niekais. Plyšius
-    sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
-    šais, norėdami laikinai jas paslėpti nuo priešo akių; tuo
-    pat metu, be galo greitai sunešę žemių bei kitokios me­
-    džiagos, stengėsi jas užtaisyti.
+    Jeigu jis vienas, remdamasis
+    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
+    galėję skatinti brolių ir valdinių nepasitenkinimą. Mat
+    valdovų potvarkiais dažniausiai skundžiamasi pasikliau­
+    jant asmeniškomis nuotaikomis, ir be vargo atsiranda,
+    kas klausosi šitokių skundų; tarybos nutarimų ne taip
+    greitai linkstama apšnekėti ir įtarinėti, tarsi jie būtų
+    neabejotinai visuomenei naudingi ir neliečiami. Be abe­
+    jo, galima buvo plačias žemes išdalyti kaip tėvoniją
+    kitiems kunigaikščiams, tačiau dėl priešų artumo Na­
+    rimantas nenorėjo stiprinti jų valdžios, kad jie, pasi­
+    davę užgaidoms, nesusima-
+    T ė v o n ija
+    išd a lija m a
+    nytų atsiskirti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-005
   santrauka: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -236,13 +219,35 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     rimantas gyveno 1277— 1348.II.2.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193965
+  statusas: not_found
+
 ## Citatos
 
+- id: c-169434
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vytautas manė, jog patirto pralai­
+    mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­
+    pęs iš visų pusių, jis toliau puolė, ypač dėl to, kad
+    Plikojo kalno pusėje patrankų sviediniais apgriovus
+    Aukštutinės pilies sieną, puolėjams nelyginant atsivėrė
+    platus kelias. Vis dėlto nors seko gynėjų gretos, nema­
+    žėjo nei jų narsumas, nei atkaklumas; visas priešo pas­
+    tangas Moskožovskis ryžtingai vertė niekais. Plyšius
+    sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
+    šais, norėdami laikinai jas paslėpti nuo priešo akių; tuo
+    pat metu, be galo greitai sunešę žemių bei kitokios me­
+    džiagos, stengėsi jas užtaisyti.
+  statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-169435
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -270,7 +275,8 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186074
+    - t-002
+
 - id: c-173812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -291,28 +297,13 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190930
+    - t-003
+
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jeigu jis vienas, remdamasis
-    aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
-    galėję skatinti brolių ir valdinių nepasitenkinimą. Mat
-    valdovų potvarkiais dažniausiai skundžiamasi pasikliau­
-    jant asmeniškomis nuotaikomis, ir be vargo atsiranda,
-    kas klausosi šitokių skundų; tarybos nutarimų ne taip
-    greitai linkstama apšnekėti ir įtarinėti, tarsi jie būtų
-    neabejotinai visuomenei naudingi ir neliečiami. Be abe­
-    jo, galima buvo plačias žemes išdalyti kaip tėvoniją
-    kitiems kunigaikščiams, tačiau dėl priešų artumo Na­
-    rimantas nenorėjo stiprinti jų valdžios, kad jie, pasi­
-    davę užgaidoms, nesusima-
-    T ė v o n ija
-    išd a lija m a
-    nytų atsiskirti.
-  citata_rodoma: |
     Narimantas nenorėjo
     taip spręsti valstybės reikalų, kad broliai galėtų jam
     prikaišioti, jog sprendžia perdaug griežtai: dėl savo
@@ -322,13 +313,15 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     ninti savo sprendimus. Jeigu jis vienas, remdamasis
     aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
     galėję skatinti brolių ir valdinių nepasitenkinimą.
+  citata_rodoma: "Narimantas nenorėjo\ntaip spręsti valstybės reikalų, kad broliai galėtų jam\nprikaišioti, jog sprendžia perdaug griežtai: dėl savo\nsprendimo jis nenorėjo vienas pats susilaukti visuo­\ntinės neapykantos. Todėl jis nieko neveikė savo valia,\nbe tarybos, pasiryžęs, gausių tarėjų paremiamas, švel­\nninti savo sprendimus. Jeigu jis vienas, remdamasis\naukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų\ngalėję skatinti brolių ir valdinių nepasitenkinimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193400
+    - t-004
+
 - id: c-176591
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -345,24 +338,16 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
     liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
     reikšti užuojautos.
-  citata_rodoma: |
-    Didysis kunigaikštis Narimantas pasiėmė sau žmoną
-    minėto livoniečio Fledro dukterį, jo brolis Daumantas
-    vedė antrąją to paties Fledro 21 dukterį. Praėjus nema­
-    ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
-    sirguliuoti ir pasimirė.
-    Didysis kunigaikštis Narimantas, išgirdęs apie savo
-    brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
-    liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­
-    reikšti užuojautos.
+  citata_rodoma: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną \nminėto livoniečio Fledro dukterį, jo brolis Daumantas \nvedė antrąją to paties Fledro 21 dukterį. Praėjus nema­\nža laiko, Utenos kunigaikščio Daumanto žmona ėmė \nsirguliuoti ir pasimirė.\nDidysis kunigaikštis Narimantas, išgirdęs apie savo \nbrolienės mirtį ir pats ne itin tvirtai jausdamasis, labai \nliūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa­\nreikšti užuojautos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193966
-    - t-196861
+    - t-006
+    - t-010
+
 - id: c-176592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -383,8 +368,9 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193967
-    - t-196862
+    - t-007
+    - t-011
+
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -401,22 +387,15 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
     kaip čia jį nugalabijus. O tuo metu, valdant Traide­
     niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
     nigaikštis Giedrius.
-  citata_rodoma: |
-    Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­
-    sis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­
-    ėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir
-    Polocke *. Jam buvo labai gaila, kad jo jaunesnysis
-    brolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti,
-    kaip čia jį nugalabijus. O tuo metu, valdant Traide­
-    niui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­
-    nigaikštis Giedrius.
+  citata_rodoma: "Ir, bevaldant didžiajam kunigaikščiui Traideniui, didy­\nsis kunigaikštis Daumantas, atžygiavęs iš Pskovo, už­\nėmė Polocko miestą ir ėmė kunigaikščiauti Pskove ir \nPolocke *. Jam buvo labai gaila, kad jo jaunesnysis \nbrolis Traidenis tapo Lietuvos viešpačiu, ir ėmė galvoti, \nkaip čia jį nugalabijus. O tuo metu, valdant Traide­\nniui, pasimirė abu jo broliai, kunigaikštis Alšys ir ku­\nnigaikštis Giedrius."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193968
+    - t-008
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

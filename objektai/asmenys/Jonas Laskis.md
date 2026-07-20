@@ -34,7 +34,6 @@ Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą palieg
 
 <a id="claim-t-87725"></a>
 - t-001
-  global_id: t-87725
   teiginys: "Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą palieg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87725
+    - t-001
+
 ## Ryšiai
 - Jonas Laskis keliavo į [[objektai/vietos/Vilnius]]

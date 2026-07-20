@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88444"></a>
 - t-001
-  global_id: t-88444
   teiginys: "1529 m. Lietuvos Metrikos XIV knyga liudijo, kad Vilnius mokėjo 1500 kapų grašių krikščionių mokesčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88444
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad michelbertas M.
 
 <a id="claim-t-61178"></a>
 - t-001
-  global_id: t-61178
   teiginys: "M. Michelberto darbas „Prekybiniai ryšiai su Romos imperija“ paskelbtas 1972 m. Vilniuje leidinyje „Lietuvos gyventojų prekybiniai ryšiai I-XIII a.“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad michelbertas M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61178
+    - t-001

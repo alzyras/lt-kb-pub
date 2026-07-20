@@ -36,7 +36,6 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
 
 <a id="claim-t-21000"></a>
 - t-001
-  global_id: t-21000
   teiginys: "„Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai“ yra kolektyvinė monografija, išleista Vilniuje 2009 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
     Senosios Lietuvos istorija: 1009–1795. Vilnius, 2005; Alma Mater
     Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,
     2009; Čiurlionis Vilniuje.
-  citata_rodoma: |
-    Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,
+  citata_rodoma: "Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija. Vilnius,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21000
+    - t-001

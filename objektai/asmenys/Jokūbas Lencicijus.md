@@ -8,15 +8,15 @@ datos:
   - '1583 m.'
 date_start: '1583'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - misionierius
   - asmuo
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-190103"></a>
 - t-001
-  global_id: t-190103
   teiginys: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo bičiulius pasiuntė misionieriais į Žemaičius ir Livoniją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ media_all_json: |-
 
 <a id="claim-t-190894"></a>
 - t-002
-  global_id: t-190894
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,24 +81,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173776
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ten jis buvo pastebėtas pra­
-    ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
-    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
-    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie
-    rado pagonybės likučių ir juos skrupulingai išnaikino.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190894
+
 ## Citatos
 
 - id: c-172986
@@ -120,35 +101,23 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190103
+    - t-001
+
 - id: c-173776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    S.
-    288.
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
-    leidimą
-    (PEĮ.
-    L,
-    240),
-    151 /Ten pat, 3 pastraipos 10 eilutės sakinio minties tęsinys/
-    Visuomet pagoniškose kapavietėse randamas koks nors geležinis
-    daiktas, padėtas prie dešiniojo peties, prie moterų — varinės ada­
-    tos, akmeniniai verpstukų smagračiai, kartais variniai lygintuvai
-    rūbams lyginti (turiu tokio lygintuvo liekanas, iškastas Obeliuo­
-    se).
-  citata_rodoma: |
     Ten jis buvo pastebėtas pra­
     ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
     1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
     sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie
     rado pagonybės likučių ir juos skrupulingai išnaikino.
+  citata_rodoma: "Ten jis buvo pastebėtas pra­\nėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.\n1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­\nsionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie\nrado pagonybės likučių ir juos skrupulingai išnaikino."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190894
+    - t-002

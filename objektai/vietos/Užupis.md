@@ -42,8 +42,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 ## Teiginiai
 
 <a id="claim-t-85023"></a>
-- t-001
-  global_id: t-85023
+- t-004
   teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   pagrindžia:
     - c-81104
 
-<a id="claim-t-85027"></a>
-- t-002
-  global_id: t-85027
+<a id="claim-t-85024"></a>
+- t-005
   teiginys: "1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81102
 
 <a id="claim-t-85025"></a>
-- t-003
-  global_id: t-85025
+- t-002
   teiginys: "Nuo sklypų Užupyje buvo skaičiuojami 168 auksinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81105
 
 <a id="claim-t-85026"></a>
-- t-004
-  global_id: t-85026
+- t-006
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +102,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81104
 
 <a id="claim-t-85028"></a>
-- t-005
-  global_id: t-85028
+- t-001
   teiginys: "1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -127,8 +122,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     - c-81106
 
 <a id="claim-t-188846"></a>
-- t-006
-  global_id: t-188846
+- t-007
   teiginys: "Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -186,26 +180,15 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
     Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
     4to, puikiausiai išsilaikęs.
-  citata_rodoma: |
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
+  citata_rodoma: "356\n\n## Puslapis 373\n\nIV KNYGA\nALEKSANDRO JOGAILAIČIO DOVANOJIMAS\nVILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI\nPIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE\n1493 METAIS\n(Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)\nŠis aktas, surašytas gryna slavų kalba, ant popieriaus in\n4to, puikiausiai išsilaikęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85027
+    - t-005
+
 - id: c-81104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,8 +209,9 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85023
-    - t-85026
+    - t-004
+    - t-006
+
 - id: c-81105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -236,16 +220,15 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
     Nuo mūrinių pastatų iš gyventojų - 200 auks.
     Nuo sklypų Užupyje - 168 auks.
     Summa facit [suma sudaro] -468 auks.
-  citata_rodoma: |
-    Nuo sklypų Užupyje - 168 auks.
-    Summa facit [suma sudaro] -468 auks.
+  citata_rodoma: "Nuo sklypų Užupyje - 168 auks.\nSumma facit [suma sudaro] -468 auks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85025
+    - t-002
+
 - id: c-81106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -270,7 +253,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85028
+    - t-001
+
 - id: c-171735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -295,6 +279,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188846
+    - t-007
+
 ## Ryšiai
 - Užėmė Užupį: [[objektai/grupes/Rusai]]

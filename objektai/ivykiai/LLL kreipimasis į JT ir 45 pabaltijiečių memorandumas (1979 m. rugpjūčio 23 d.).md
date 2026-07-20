@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-193682"></a>
 - t-001
-  global_id: t-193682
   teiginys: "LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193682
+    - t-001

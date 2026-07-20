@@ -30,10 +30,9 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
 ## Teiginiai
 
 <a id="claim-t-194033"></a>
-- t-003
-  global_id: t-194033
+- t-006
   teiginys: "Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,49 +41,9 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   pagrindžia:
     - c-170343
 
-<a id="claim-t-187305"></a>
-- t-001
-  global_id: t-187305
-  teiginys: 'Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl sankasos, kirtusios Lanės upę ir jos slėnį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai suformuluotas ir remiasi citatos paaiškinimu apie tvenkinio susidarymą. OCR triukšmas neperkeliamas į sprendimą.'
-  pagrindžia:
-    - c-002
-<a id="claim-t-187308"></a>
-- t-002
-  global_id: t-187308
-  teiginys: 'Raudonasis tvenkinys buvo Lanės upės praplatėjimas ties Klecku, į vakarus nuo miestelio.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Raudonojo tvenkinio vietą ir pobūdį. Jis sutampa su citatos geografiniu paaiškinimu.'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante,
-    apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.
-    8 1  Raudonasis tvenkinys (Krasnyj Stav) — vandens telkinys,
-    Lanės upės praplatėjim as ties Klecku, į vakarus nuo miestelio. Susi­
-
-    ## Puslapis 331
-
-    darė i šiaurę nuo Pinsko— Klecko vieškelio dėl vieškelio sankasos,
-    kertančios Lonės upę Ir jo s slėnį į pietvakarius nuo Klecko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: not_found
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187305
-    - t-187308
-## Citatos
-
-- id: c-170343
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
     gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
@@ -108,14 +67,45 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
     tai raštais ta prasme, kad jis Vilniaus niekados nebe-
     reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
     Vitebske.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante,
+    apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.
+    8 1  Raudonasis tvenkinys (Krasnyj Stav) — vandens telkinys,
+    Lanės upės praplatėjim as ties Klecku, į vakarus nuo miestelio. Susi­
+
+    ## Puslapis 331
+
+    darė i šiaurę nuo Pinsko— Klecko vieškelio dėl vieškelio sankasos,
+    kertančios Lonės upę Ir jo s slėnį į pietvakarius nuo Klecko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: not_found
+- t-001
+
+## Citatos
+
+- id: c-170343
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Paskui Lietuvos kariuomenė
     pasidarė abipus Raudonojo tvenkinio užtvankos du
     perėjimus per upę.
+  citata_rodoma: "Paskui Lietuvos kariuomenė\npasidarė abipus Raudonojo tvenkinio užtvankos du\nperėjimus per upę."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194033
+    - t-006

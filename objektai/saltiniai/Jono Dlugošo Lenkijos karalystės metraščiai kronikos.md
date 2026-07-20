@@ -45,7 +45,6 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 
 <a id="claim-t-60985"></a>
 - t-001
-  global_id: t-60985
   teiginys: "Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 
 <a id="claim-t-60986"></a>
 - t-002
-  global_id: t-60986
   teiginys: "Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,8 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60985
+    - t-001
+
 - id: c-61618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -103,4 +102,4 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60986
+    - t-002

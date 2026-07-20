@@ -36,7 +36,6 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 
 <a id="claim-t-88479"></a>
 - t-001
-  global_id: t-88479
   teiginys: "Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,21 +74,11 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
     Vilniaus pirkliams ir miestiečiams
     •328 •
     VIII PRIEDAS.
-  citata_rodoma: |
-    Žygimanto Augusto raštas, paliudijantis
-    Vilniaus vyskupo Valerijono priešinimąsi
-    Augsburgo tikėjimui, 1559 m.
-    •324 •
-    VII PRIEDAS.
-    Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms,
-    turinys: apie muitus ir mokesčius
-    Vilniaus pirkliams ir miestiečiams
-    •328 •
-    VIII PRIEDAS.
+  citata_rodoma: "Žygimanto Augusto raštas, paliudijantis \nVilniaus vyskupo Valerijono priešinimąsi \nAugsburgo tikėjimui, 1559 m.\n•324 •\nVII PRIEDAS.\nDviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, \nturinys: apie muitus ir mokesčius \nVilniaus pirkliams ir miestiečiams \n•328 •\nVIII PRIEDAS."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88479
+    - t-001

@@ -31,9 +31,8 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
 
 <a id="claim-t-189261"></a>
 - t-001
-  global_id: t-189261
   teiginys: "Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ūkio ir medžioklės dievą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,24 +41,7 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172149
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ūkio ir medžioklės dievą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šneibratas (Sznejbrato)
-    Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
-    aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
-    zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
-    Komovės šventykloje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189261
+
 ## Citatos
 
 - id: c-172149
@@ -67,22 +49,16 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
-    siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
-    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
-    Graikijoje ir toliau.
-  citata_rodoma: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo
     aukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-
     zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
     Komovės šventykloje.
+  citata_rodoma: "Šneibratas (Sznejbrato)\nPaukščių ūkio ir medžioklės dievas. Jam daugiausia buvo\naukojamos vištos, antys, balandžiai, povai. Kitaip vadinosi Is-\nzwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų\nKomovės šventykloje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189261
+    - t-001

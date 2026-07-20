@@ -53,50 +53,35 @@ Terminas nusako rankraštinę teksto kopiją, per kurią tekstai buvo perrašin�
 
 Nenurodyta
 
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ВУСНОѴСО KRONIKA IR JOS KILMĖ
+    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
+    Kunigaikštystėje kilusios metraštinės literatūros pa­
+    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
+    Bychovco kronika
+    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
+    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
+    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
+    nebuvo savo laiku išspausdintas, o plito rankraštiniais
+    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
+    tų nuorašų ir susijusių su jais atskirų fragmentų yra
+    paskelbti Rusijos Archeografinės Komisijos leidinyje,
+    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+    - t-003
+    - t-004
+
 ## Teiginiai
 
-<a id="claim-t-186921"></a>
-- t-001
-  global_id: t-186921
-  teiginys: 'Plačiau buvo žinomi bent 222 šių tekstų nuorašai.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje buvo skaičiaus ir daiktavardžio derinimo klaida bei pridėta ne visai tiksliai suformuluota fragmentų dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  pagrindžia:
-    - c-170097
-
-<a id="claim-t-186922"></a>
-- t-002
-  global_id: t-186922
-  teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  pagrindžia:
-    - c-170097
-
-<a id="claim-t-187524"></a>
-- t-003
-  global_id: t-187524
-  teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai išskleidžia subjektą kaip LDK metraštinės literatūros sąvadus. Citata tiesiogiai patvirtina spausdinimo nebuvimą ir plitimą nuorašais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  pagrindžia:
-    - c-170097
-
-<a id="claim-t-193884"></a>
-- t-004
-  global_id: t-193884
-  teiginys: 'LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti, o plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Įvardis „jų“ pakeistas aiškiu subjektu iš citatos konteksto. Paliktas tik citatos paremtas faktas apie neišspausdinimą ir nuorašų skaičių.'
-  pagrindžia:
-    - c-170097
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63716|Jonas Chodkevičius]]: XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
 - susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
@@ -134,34 +119,3 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/dešimtinė.md#claim-t-173013|dešimtinė]]: Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
-## Citatos
-
-- id: c-170097
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    ВУСНОѴСО KRONIKA IR JOS KILMĖ
-    Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
-    Kunigaikštystėje kilusios metraštinės literatūros pa­
-    minklai: Trumpasis sąvadas, Platesnysis sąvadas ir
-    Bychovco kronika
-    Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra
-    anoniminiai: mažai žinomi ar visai nežinomi jų auto­
-    riai, tikslus parašymo laikas ir vieta. Nė vienas iš jų
-    nebuvo savo laiku išspausdintas, o plito rankraštiniais
-    nuorašais, kurių plačiau žinoma bent 222 . Daugumas
-    tų nuorašų ir susijusių su jais atskirų fragmentų yra
-    paskelbti Rusijos Archeografinės Komisijos leidinyje,
-    pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: "Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra \nanoniminiai: mažai žinomi ar visai nežinomi jų auto­\nriai, tikslus parašymo laikas ir vieta. Nė vienas iš jų \nnebuvo savo laiku išspausdintas, o plito rankraštiniais \nnuorašais, kurių plačiau žinoma bent 222 . Daugumas \ntų nuorašų ir susijusių su jais atskirų fragmentų yra \npaskelbti Rusijos Archeografinės Komisijos leidinyje, \npavadintame „Pilnuoju rusų metraščių rinkiniu\" 3 ."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186921
-    - t-186922
-    - t-187524
-    - t-193884

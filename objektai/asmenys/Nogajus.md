@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87807"></a>
 - t-001
-  global_id: t-87807
   teiginys: "Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    554.
+    T. 1, p. 554.
     8
 
     ## Puslapis 25
@@ -78,23 +77,11 @@ media_all_json: |-
     su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
-  citata_rodoma: |
-    554.
-    8
-
-    ## Puslapis 25
-
-    ĮVADAS
-    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
-    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
-    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
-    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
-    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
-    savo tvirtovėmis ir prekyba.
+  citata_rodoma: "554.\n8\n\n## Puslapis 25\n\nĮVADAS\ndenio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; \nSlonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino \n1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu \nsu Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­\ntas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs \nsavo tvirtovėmis ir prekyba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87807
+    - t-001

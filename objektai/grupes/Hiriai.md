@@ -38,7 +38,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 
 <a id="claim-t-192926"></a>
 - t-001
-  global_id: t-192926
   teiginys: "Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 
 <a id="claim-t-192927"></a>
 - t-002
-  global_id: t-192927
   teiginys: "Narbutas spėja, kad hiriai, eidami paskui gotus, apie II amžiaus pabaigą apsigyveno dešiniajame Dnestro krante."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 
 <a id="claim-t-192928"></a>
 - t-003
-  global_id: t-192928
   teiginys: "Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 
 <a id="claim-t-197505"></a>
 - t-004
-  global_id: t-197505
   teiginys: "Gotams persikėlus į deši nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan tijos rašytojų kūrinių, nei gotų, nei dakų ten jau nega lėjo būti; todėl žemė buvo neužimta, ir lietuvių tauta hiriai, ėję įkandin gotų, tikriausiai ten ir apsigyveno maž daug."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -114,7 +110,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 
 <a id="claim-t-197506"></a>
 - t-005
-  global_id: t-197506
   teiginys: "Dar reikia atkreipti dėmesį į tai, kad, pasak mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu vių krašto, esančio Nemuno žemupio dešiniojoje pakran tėje, kur jie gyveno prie Jūros upės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -168,6 +163,7 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175696
@@ -190,7 +186,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192926
+    - t-001
+
 - id: c-175697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -219,8 +216,9 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192927
-    - t-197505
+    - t-002
+    - t-004
+
 - id: c-175698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,27 +240,15 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     derlingumu ir kitomis gyventi palankiomis aplinkybėmis
     primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
     jose šalyse, galėjo įžvelgti jų panašumą.
-  citata_rodoma: |
-    Čia jie gyveno nuo III amžiaus pabaigos
-    beveik iki XII amžiaus vidurio, kai, graikų imperatoriui
-    Jonui Komninui 1121 metais nugalėjus pečenegus, išsi­
-    kėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten
-    jie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­
-    tuvių genčių suteiktų vietovardžių ir upių pavadinimų
-    pastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak
-    mūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­
-    vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
-    tėje, kur jie gyveno prie Jūros upės. Sis kraštas savo
-    derlingumu ir kitomis gyventi palankiomis aplinkybėmis
-    primena Parosės Ukrainą; tas, kuris lankėsi šiose abie­
-    jose šalyse, galėjo įžvelgti jų panašumą.
+  citata_rodoma: "Čia jie gyveno nuo III amžiaus pabaigos \nbeveik iki XII amžiaus vidurio, kai, graikų imperatoriui \nJonui Komninui 1121 metais nugalėjus pečenegus, išsi­\nkėlė į kairįjį Dnepro krantą pas poloviečius; taigi ten \njie gyveno aštuonis šimtmečius, ir būtent tai nulėmė lie­\ntuvių genčių suteiktų vietovardžių ir upių pavadinimų \npastovumą. Dar reikia atkreipti dėmesį į tai, kad, pasak \nmūsų istorijos supratimo, hiriai atėjo į Rytus iš lietu­\nvių krašto, esančio Nemuno žemupio dešiniojoje pakran­\ntėje, kur jie gyveno prie Jūros upės. Sis kraštas savo \nderlingumu ir kitomis gyventi palankiomis aplinkybėmis \nprimena Parosės Ukrainą; tas, kuris lankėsi šiose abie­\njose šalyse, galėjo įžvelgti jų panašumą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192928
-    - t-197506
+    - t-003
+    - t-005
+
 ## Ryšiai
 - Hiriai keliavo į [[objektai/vietos/Dnepras]]

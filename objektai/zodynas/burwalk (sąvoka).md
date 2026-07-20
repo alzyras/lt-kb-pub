@@ -33,7 +33,6 @@ Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, ka
 
 <a id="claim-t-201798"></a>
 - t-001
-  global_id: t-201798
   teiginys: "Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, kaip ji atrodė ir ar buvo įrengta."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201798
+    - t-001

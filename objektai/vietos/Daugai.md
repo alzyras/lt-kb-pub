@@ -42,8 +42,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 ## Teiginiai
 
 <a id="claim-t-118262"></a>
-- t-001
-  global_id: t-118262
+- t-008
   teiginys: "Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-108760
 
 <a id="claim-t-118263"></a>
-- t-002
-  global_id: t-118263
+- t-012
   teiginys: "1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-43369
 
 <a id="claim-t-118264"></a>
-- t-003
-  global_id: t-118264
+- t-009
   teiginys: "Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-108760
 
 <a id="claim-t-118265"></a>
-- t-004
-  global_id: t-118265
+- t-010
   teiginys: "Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-108762
 
 <a id="claim-t-118266"></a>
-- t-005
-  global_id: t-118266
+- t-013
   teiginys: "Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - c-108764
 
 <a id="claim-t-118267"></a>
-- t-006
-  global_id: t-118267
+- t-011
   teiginys: "Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -179,7 +173,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118263
+    - t-012
+
 - id: c-108760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,29 +195,16 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes. Žr.
     Voigt, T. V, 355.
-  citata_rodoma: |
-    Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-    28
-    Tas sandėris buvo sudarytas slapta
-    girioje, prie dabartinių Daugų, Tra­
-    kų paviete, netoli nuo Alytaus, kaip
-    manau (auf dem Felde Daudisken);
-    tarp atvykusiųjų į tariamą medžiok­
-    lę buvo: Jogaila, lydimas Lietuvos
-    kunigaikščių Vytauto ir Jono, bei
-    Vaidilos, ir didysis komtūras, ku­
-    ris jiems iškėlė puikias vaišes. Žr.
+  citata_rodoma: "Kitais \nmetais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­\ndriaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė \ntikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.\n28\nTas sandėris buvo sudarytas slapta \ngirioje, prie dabartinių Daugų, Tra­\nkų paviete, netoli nuo Alytaus, kaip \nmanau (auf dem Felde Daudisken); \ntarp atvykusiųjų į tariamą medžiok­\nlę buvo: Jogaila, lydimas Lietuvos \nkunigaikščių Vytauto ir Jono, bei \nVaidilos, ir didysis komtūras, ku­\nris jiems iškėlė puikias vaišes. Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118262
-    - t-118264
+    - t-008
+    - t-009
+
 - id: c-108761
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -243,7 +225,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118267
+    - t-011
+
 - id: c-108762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -261,7 +244,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118265
+    - t-010
+
 - id: c-108764
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -274,16 +258,11 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
     girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
     suglaudė abi valstybes į bendrą kovą.
-  citata_rodoma: |
-    Kai šį sprendimą sužinojo Vytautas ir
-    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
-    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
-    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
-    suglaudė abi valstybes į bendrą kovą.
+  citata_rodoma: "Kai šį sprendimą sužinojo Vytautas ir\nJogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­\nvirko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo\ngirdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas\nsuglaudė abi valstybes į bendrą kovą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-118266
+    - t-013

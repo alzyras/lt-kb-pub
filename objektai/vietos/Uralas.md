@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-192908"></a>
 - t-001
-  global_id: t-192908
   teiginys: "Teodoras Narbutas Uralo kalnus ir turtingas rūdynas nurodė kaip tikėtiną šios plačiai pasklidusios tautos įtakos ribą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192908
+    - t-001

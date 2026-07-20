@@ -7,12 +7,12 @@ datos:
   - '1979 m.'
 date_start: '1979'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61238"></a>
 - t-001
-  global_id: t-61238
   teiginys: "J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį teiginį apie publikavimo vietą ir metus."
   pagrindžia:
     - c-61870
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61238
+
 ## Citatos
 
 - id: c-61870
@@ -74,14 +60,12 @@ Dusburgietis teigia, kad powierski J.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    ketvirtyje —Vilniaus valstybinio pedagoginio instituto mokslo darbai. Istorija ir filologija.
-    V., 1957, t. 3, p. 5—33.
-  citata_rodoma: |
     Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
+  citata_rodoma: "Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61238
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35870"></a>
 - t-001
-  global_id: t-35870
   teiginys: "1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-35871"></a>
 - t-002
-  global_id: t-35871
   teiginys: "Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35870
+    - t-001
+
 - id: c-38321
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -126,15 +125,11 @@ Nenurodyta
     ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
     dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
     diną ir galutinai atėmė iš jo Žemaitiją.
-  citata_rodoma: |
-    Tuo būdu buvo užbaigti painūs
-    ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
-    dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
-    diną ir galutinai atėmė iš jo Žemaitiją.
+  citata_rodoma: "Tuo būdu buvo užbaigti painūs\nir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai\ndabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­\ndiną ir galutinai atėmė iš jo Žemaitiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35871
+    - t-002

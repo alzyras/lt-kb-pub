@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-87705"></a>
 - t-001
-  global_id: t-87705
   teiginys: "Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87705
+    - t-001

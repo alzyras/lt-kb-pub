@@ -41,8 +41,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88111"></a>
-- t-001
-  global_id: t-88111
+- t-002
   teiginys: "Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Nenurodyta
     - c-84090
 
 <a id="claim-t-88112"></a>
-- t-002
-  global_id: t-88112
+- t-001
   teiginys: "1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,7 +123,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88111
+    - t-002
+
 - id: c-84091
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,4 +164,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88112
+    - t-001

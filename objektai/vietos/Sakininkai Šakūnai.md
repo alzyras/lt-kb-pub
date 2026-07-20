@@ -31,7 +31,6 @@ Narbutas, remdamasis Henenbergeriu, rašo, kad XVI a. pabaigoje Sakininkuose, ar
 
 <a id="claim-t-189098"></a>
 - t-001
-  global_id: t-189098
   teiginys: "Narbutas, remdamasis Henenbergeriu, rašo, kad XVI a. pabaigoje Sakininkuose, arba Šakūnuose, prie didžiulės liepos slapčia melstasi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas, remdamasis Henenbergeriu, rašo, kad XVI a. pabaigoje Sakininkuose, ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189098
+    - t-001

@@ -43,9 +43,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 
 <a id="claim-t-190432"></a>
 - t-001
-  global_id: t-190432
   teiginys: "Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,31 +60,9 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173315
-    - c-001
-<a id="claim-t-190746"></a>
-- t-002
-  global_id: t-190746
-  teiginys: "Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignacas Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignacas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173628
-    - c-002
+
 <a id="claim-t-190747"></a>
 - t-003
-  global_id: t-190747
   teiginys: "Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -106,7 +83,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 
 <a id="claim-t-193583"></a>
 - t-004
-  global_id: t-193583
   teiginys: "Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -119,7 +95,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 
 <a id="claim-t-197615"></a>
 - t-005
-  global_id: t-197615
   teiginys: "Juozapas Ignacas Kraševskis buvo teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatskiriamais epitetais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -131,24 +106,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     - c-173628
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tada aprengia drabužiais, pritinkančiais luomui ir ly­
-    čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
-    rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
-    riai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti
-    drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
-    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
-    rūs“. Mes gi apie tai nieko negalime pasakyti*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190432
 - c-002
   santrauka: 'Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -165,8 +122,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190746
+
 ## Citatos
 
 - id: c-173315
@@ -174,19 +130,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitai įrodo daugybė kapų,
-    arba laidojimo laukų, išsibarsčiusių po visą Lietuvą, kurie pa­
-    davimuose laikomi pagoniškais. Kartais jie būna apdėti ak­
-    menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių
-    asmenų kūnus laidodavo ne tik su visais drabužiais, būdingais
-    kiekvienam luomui, bet ir su visu tuo, kuo velionis vertėsi gy­
-    vas būdamas: karys su ginklu, medžiotojas su lanku, amati­
-    ninkas su savo amato įrankiais. Visuomet pagoniškose kapa­
-    vietėse randamas koks nors geležinis daiktas, padėtas prie deši­
-    niojo peties, prie motenį - varinės adatos, akmeniniai verpstukų
-    smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
-    kio lygintuvo liekanas, iškastas Obeliuose).
-  citata_rodoma: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
     rankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­
@@ -194,13 +137,15 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     drabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot
     pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
     rūs“. Mes gi apie tai nieko negalime pasakyti*.
+  citata_rodoma: "Tada aprengia drabužiais, pritinkančiais luomui ir ly­\nčiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša\nrankšluosčiu, į kurį įkiša pinigą, reikalingą kelionei, o mote­\nriai duoda adatą, kamuoliuką siūlų, idant turėtų kuo taisyti\ndrabužius, jeigu jai kas nors suplyštų kelyje į amžinybę. Anot\npono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­\nrūs“. Mes gi apie tai nieko negalime pasakyti*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190432
+    - t-001
+
 - id: c-173628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,8 +167,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190746
-    - t-197615
+    - t-005
+
 - id: c-173629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,7 +188,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190747
+    - t-003
+
 - id: c-176258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,4 +211,4 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193583
+    - t-004

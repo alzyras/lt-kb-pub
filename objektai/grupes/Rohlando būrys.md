@@ -37,7 +37,6 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
 
 <a id="claim-t-01465"></a>
 - t-001
-  global_id: t-01465
   teiginys: "Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
     šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
-  citata_rodoma: |
-    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
-    lando būrys.
+  citata_rodoma: "Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-\nlando būrys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01465
+    - t-001

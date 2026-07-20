@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185928"></a>
 - t-001
-  global_id: t-185928
   teiginys: "Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185928
+    - t-001

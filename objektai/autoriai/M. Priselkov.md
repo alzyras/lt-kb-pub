@@ -40,7 +40,6 @@ Priselkova, Maskva 1950. Priselkov, M.
 
 <a id="claim-t-30846"></a>
 - t-001
-  global_id: t-30846
   teiginys: "M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Priselkova, Maskva 1950. Priselkov, M.
 
 <a id="claim-t-30847"></a>
 - t-002
-  global_id: t-30847
   teiginys: "M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,18 +83,15 @@ Priselkova, Maskva 1950. Priselkov, M.
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
     koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
     (^7) **LUB, II, 333 p.**
-  citata_rodoma: |
-    **
-    (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
-    koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
-    (^7) **LUB, II, 333 p.
+  citata_rodoma: "**\n(^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-\nkoj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**\n(^7) **LUB, II, 333 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30847
+    - t-002
+
 - id: c-33062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -106,13 +101,11 @@ Priselkova, Maskva 1950. Priselkov, M.
     1938.
     TrLR = Troickaja letopis’. Rekonstrukcija M. D. Priselkova, Maskva
     1950.
-  citata_rodoma: |
-    TrLR = Troickaja letopis’. Rekonstrukcija M. D. Priselkova, Maskva
-    1950.
+  citata_rodoma: "TrLR = Troickaja letopis’. Rekonstrukcija M. D. Priselkova, Maskva\n1950."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30846
+    - t-001

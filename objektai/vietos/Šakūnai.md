@@ -31,7 +31,6 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
 
 <a id="claim-t-189102"></a>
 - t-001
-  global_id: t-189102
   teiginys: "Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnuose, XVI a. pabaigoje kaimiečiai slapčia melsdavosi prie didžiulės liepos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189102
+    - t-001

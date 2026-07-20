@@ -64,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-55155"></a>
 - t-001
-  global_id: t-55155
   teiginys: "M. Balinskis Varšuvos laikraštyje spausdino Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -84,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-55156"></a>
 - t-002
-  global_id: t-55156
   teiginys: "To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -103,8 +101,7 @@ Nenurodyta
     - c-78409
 
 <a id="claim-t-81866"></a>
-- t-003
-  global_id: t-81866
+- t-004
   teiginys: "XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -123,8 +120,7 @@ Nenurodyta
     - c-78409
 
 <a id="claim-t-81867"></a>
-- t-004
-  global_id: t-81867
+- t-003
   teiginys: "„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -144,7 +140,6 @@ Nenurodyta
 
 <a id="claim-t-194189"></a>
 - t-005
-  global_id: t-194189
   teiginys: "Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -188,8 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55155
-    - t-55156
-    - t-81866
-    - t-81867
-    - t-194189
+    - t-001
+    - t-002
+    - t-004
+    - t-003
+    - t-005

@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-77919"></a>
 - t-001
-  global_id: t-77919
   teiginys: "Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77919
+    - t-001

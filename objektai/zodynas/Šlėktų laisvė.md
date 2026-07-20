@@ -44,7 +44,6 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 
 <a id="claim-t-55277"></a>
 - t-001
-  global_id: t-55277
   teiginys: "Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::vocabulary"
@@ -61,7 +60,6 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 
 <a id="claim-t-82138"></a>
 - t-002
-  global_id: t-82138
   teiginys: "Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija suvažiavimais klojo būsimos šlėktų laisvės pamatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -78,7 +76,6 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 
 <a id="claim-t-194218"></a>
 - t-003
-  global_id: t-194218
   teiginys: "Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau tos pasitarimus, taip klodami busimosios šlėktų laisvės pa matus."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -113,6 +110,6 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55277
-    - t-82138
-    - t-194218
+    - t-001
+    - t-002
+    - t-003

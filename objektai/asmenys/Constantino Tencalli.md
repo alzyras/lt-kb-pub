@@ -28,7 +28,6 @@ Italų architektorius Constantino Tencalli laikomas Šv. Kazimiero koplyčios au
 
 <a id="claim-t-200865"></a>
 - t-001
-  global_id: t-200865
   teiginys: "Italų architektorius Constantino Tencalli laikomas Šv. Kazimiero koplyčios autoriumi."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Italų architektorius Constantino Tencalli laikomas Šv. Kazimiero koplyčios au
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200865
+    - t-001

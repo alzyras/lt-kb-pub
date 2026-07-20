@@ -39,8 +39,7 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 ## Teiginiai
 
 <a id="claim-t-30994"></a>
-- t-001
-  global_id: t-30994
+- t-002
   teiginys: "St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
     - c-33148
 
 <a id="claim-t-30995"></a>
-- t-002
-  global_id: t-30995
+- t-001
   teiginys: "St. M. Kuczyński 1936 m. Varšuvoje paskelbė darbą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30995
+    - t-001
+
 - id: c-33148
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -111,15 +110,11 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
     (^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach
     1409-11_** **, Warszawa 1955, 186, 192 p.**
     (^13) **CEV, 209 p.**
-  citata_rodoma: |
-    **
-    (^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach
-    1409-11_** **, Warszawa 1955, 186, 192 p.**
-    (^13) **CEV, 209 p.
+  citata_rodoma: "**\n(^12) **St. M. Kuczyński :** **_Wielka wojna z Zakonem Krzyżackim w latach\n1409-11_** **, Warszawa 1955, 186, 192 p.**\n(^13) **CEV, 209 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30994
+    - t-002

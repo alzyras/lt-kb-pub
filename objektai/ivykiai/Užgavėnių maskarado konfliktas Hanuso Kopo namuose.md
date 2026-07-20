@@ -7,10 +7,10 @@ datos:
   - '1554 m.'
 date_start: '1554'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201924"></a>
 - t-001
-  global_id: t-201924
   teiginys: "Turtingieji rengdavo mėgstamus tais laikais karnavalus, ir štai 1554 m. Užgavėnių naktį iš antradienio į trečiadienį (vasario 14 d.) Hanuso Kopo svainis Reinoidas Krakovas skundėsi Kauno vaitui Jurui Pečiūgai, kad naktį, kai į Hanuso Kopo namus pagal seną."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185271
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -77,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201924
+    - t-001

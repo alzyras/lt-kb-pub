@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77958"></a>
 - t-001
-  global_id: t-77958
   teiginys: "Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,18 +94,11 @@ Nenurodyta
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai. Šventės
     pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
     vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
-  citata_rodoma: |
-    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
-    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
-    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
-    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
-    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai. Šventės
-    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
-    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
+  citata_rodoma: "Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio \nVytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): \nvalstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos \nportretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-\ntvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai. Šventės \npabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-\nvingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77958
+    - t-001

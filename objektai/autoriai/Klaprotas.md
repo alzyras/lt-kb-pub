@@ -40,7 +40,6 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 
 <a id="claim-t-191628"></a>
 - t-001
-  global_id: t-191628
   teiginys: "Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdamas neradęs ryškaus panašumo į lietuvių kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 
 <a id="claim-t-192529"></a>
 - t-002
-  global_id: t-192529
   teiginys: "Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,7 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175317
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys.'
@@ -92,8 +90,7 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192529
+
 ## Citatos
 
 - id: c-174510
@@ -122,7 +119,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191628
+    - t-001
+
 - id: c-175317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -140,20 +138,11 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
     norėjo padarytį jį geriau matomą ir ketino priartinti; nuimant dalį
     apdorojamo paviršiaus, gabalas su trenksmu sprogo, o vanduo pa­
     virto dūmeliu.
-  citata_rodoma: |
-    Wigancli Epis-
-    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
-    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
-    ją norėjo įdėti į savo „Monumentą Prussica“.
-    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
-    gamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar
-    neišleistame veikale chemiškai įrodyta, jog jis priklauso
-    1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro
-    gabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką.
+  citata_rodoma: "Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“.\nTai, kad gintaras yra senojo pasaulio kūrinys, teigia\ngamtos tyrinėtojai Klaprotas ir Hagenas. Pastarojo dar\nneišleistame veikale chemiškai įrodyta, jog jis priklauso\n1 Man sykį sakė, kad, apdorojęs vištos kiaušinio dydžio gintaro\ngabalą, žmogus pamatė viduje žirnio dydžio vandens rutuliuką."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192529
+    - t-002

@@ -33,7 +33,6 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
 
 <a id="claim-t-201434"></a>
 - t-001
-  global_id: t-201434
   teiginys: "Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
 ## Citatos
 
 - id: c-184784
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vladislovas, paklausęs popiežiaus, sandarą padarė
     ant vienų metų su kryžėjais, kuriuos popiežius dar
@@ -68,4 +68,4 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201434
+    - t-001

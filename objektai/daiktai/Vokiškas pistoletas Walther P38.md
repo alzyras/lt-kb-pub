@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-80696"></a>
 - t-001
-  global_id: t-80696
   teiginys: "Vokiškas pistoletas Walther P38 buvo nurodytas kaip 220 puslapio iliustracija iš VDKM, fotografuota Artūro Užgalio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,14 +82,11 @@ Nenurodyta
     p. 220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.
 
     p. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr.
-  citata_rodoma: |
-    220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.
-
-    p. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr.
+  citata_rodoma: "220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.\n\np. 220, Vokiškas pistoletas Walther P38, vDKM, Artūro Užgalio nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80696
+    - t-001

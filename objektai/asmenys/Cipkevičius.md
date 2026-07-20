@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-39718"></a>
 - t-001
-  global_id: t-39718
   teiginys: "1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39718
+    - t-001

@@ -46,8 +46,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ## Teiginiai
 
 <a id="claim-t-75013"></a>
-- t-001
-  global_id: t-75013
+- t-004
   teiginys: "Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,9 +61,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   pagrindžia:
     - c-31275
     - c-167705
+
 <a id="claim-t-75014"></a>
-- t-002
-  global_id: t-75014
+- t-001
   teiginys: "Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 m."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,9 +81,8 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   pagrindžia:
     - c-166579
 
-<a id="claim-t-75017"></a>
-- t-003
-  global_id: t-75017
+<a id="claim-t-75015"></a>
+- t-005
   teiginys: "Vazų dinastijos ATR karalių pretenzijos į Švedijos sostą komplikavo ATR karus su Švedija 1600–1629 ir 1655–1660 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-72953
 
 <a id="claim-t-75016"></a>
-- t-004
-  global_id: t-75016
+- t-003
   teiginys: "Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +120,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-31274
 
 <a id="claim-t-183192"></a>
-- t-005
-  global_id: t-183192
+- t-006
   teiginys: "Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -161,18 +157,15 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     vieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)
     išdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­
     lija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17.
-  citata_rodoma: |
-    Tad perdėta turi būti laikoma, kai centre pastatant tik
-    vieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)
-    išdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­
-    lija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17.
+  citata_rodoma: "Tad perdėta turi būti laikoma, kai centre pastatant tik\nvieną valdovą, Lietuvos istorija iki Vazų dinastijos pradžios (1587)\nišdalinama, pvz., tokiomis trimis dalimis: 1) Priešvytautinė kara­\nlija, 2) Vytautinė era ir 3) Vytauto įpėdiniai (iki 1586 m.)^17."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75016
+    - t-003
+
 - id: c-31275
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -191,7 +184,8 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75013
+    - t-004
+
 - id: c-72953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -208,7 +202,8 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75017
+    - t-005
+
 - id: c-166579
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,8 +232,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75014
-    - t-183192
+    - t-001
+    - t-006
+
 - id: c-167705
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -255,3 +251,5 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

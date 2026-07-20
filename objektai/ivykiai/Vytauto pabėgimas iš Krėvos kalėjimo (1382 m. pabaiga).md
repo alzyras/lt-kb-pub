@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-95967"></a>
 - t-001
-  global_id: t-95967
   teiginys: "Kai Vytauto prašymai nieko negelbėjo, jis ėmė ieškoti būdų pabėgti iš Krėvos kalėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95967
+    - t-001

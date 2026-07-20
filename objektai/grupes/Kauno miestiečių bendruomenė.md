@@ -9,11 +9,11 @@ datos:
   - '1570 m.'
 date_start: '1415'
 date_end: '1570'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-201827"></a>
 - t-001
-  global_id: t-201827
   teiginys: "1415 m. Vytauto privilegijoje rašoma apie Kauno miestiečių skundus ir pageidavimus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-201828"></a>
 - t-002
-  global_id: t-201828
   teiginys: "Miestiečių bendruomenė."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-201829"></a>
 - t-003
-  global_id: t-201829
   teiginys: "Bene ankstyviausi Kauno miestiečių bendruomenės dydį apibūdinantys skaičiai yra 1570 m. Lietuvos rūmų iždininko Lauryno Vainos kvite, išduotame Kauno seniūnui Jonui Chodkevičiui."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -76,7 +73,6 @@ media_all_json: |-
 
 <a id="claim-t-201830"></a>
 - t-004
-  global_id: t-201830
   teiginys: "Kauno miestiečių bendruomenės pagrindą sudarė senųjų kauniečių giminių palikuonys."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -89,7 +85,6 @@ media_all_json: |-
 
 <a id="claim-t-201831"></a>
 - t-005
-  global_id: t-201831
   teiginys: "Kauno miestiečių ginčais buvo susirūpinusi ką tik iš Grigo Astiko Kauno seniūni ją išpirkusi Bona."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -102,7 +97,6 @@ media_all_json: |-
 
 <a id="claim-t-201832"></a>
 - t-006
-  global_id: t-201832
   teiginys: "Taryba šį kartą susidūrė su veiksmingu bendruomenės prisiekusiųjų, kurie ir pradėjo bylą, pasipriešinimu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -129,7 +123,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201827
+    - t-001
 
 - id: c-185175
   autorius: "Zigmantas Kiaupa"
@@ -145,7 +139,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201828
+    - t-002
 
 - id: c-185176
   autorius: "Zigmantas Kiaupa"
@@ -162,7 +156,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201829
+    - t-003
 
 - id: c-185177
   autorius: "Zigmantas Kiaupa"
@@ -179,7 +173,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201830
+    - t-004
 
 - id: c-185178
   autorius: "Zigmantas Kiaupa"
@@ -197,7 +191,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201831
+    - t-005
 
 - id: c-185179
   autorius: "Zigmantas Kiaupa"
@@ -217,4 +211,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201832
+    - t-006

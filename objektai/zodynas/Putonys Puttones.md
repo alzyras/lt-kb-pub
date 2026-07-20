@@ -32,7 +32,6 @@ Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydav
 
 <a id="claim-t-189322"></a>
 - t-001
-  global_id: t-189322
   teiginys: "Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189322
+    - t-001

@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196156"></a>
-- t-001
-  global_id: t-196156
+- t-002
   teiginys: "Šindekopfas, atvykęs prie Gotesverderio pilies vietos, neberado jos ženklo, nes Algirdas ir Kęstutis ją užėmė ir sugriovė iki pamatų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196156
+    - t-002

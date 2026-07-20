@@ -37,7 +37,6 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 
 <a id="claim-t-03231"></a>
 - t-001
-  global_id: t-03231
   teiginys: "Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,15 +79,11 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
     tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi
     sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
     čiais tik mokesčius.
-  citata_rodoma: |
-    Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos
-    tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi
-    sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
-    čiais tik mokesčius.
+  citata_rodoma: "Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos\ntarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi\nsutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-\nčiais tik mokesčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03231
+    - t-001

@@ -39,7 +39,6 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 
 <a id="claim-t-46038"></a>
 - t-001
-  global_id: t-46038
   teiginys: "Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     - c-25067
 
 <a id="claim-t-193619"></a>
-- t-002
-  global_id: t-193619
+- t-003
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -82,19 +80,15 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
     Pirmasis Prancūzijos prezidento Fransua Miterano
     vizitas į Lietuvą.
-  citata_rodoma: |
-    Planinės
-    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
-    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
-    Pirmasis Prancūzijos prezidento Fransua Miterano
-    vizitas į Lietuvą.
+  citata_rodoma: "Planinės\nekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus\nį savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius\nPirmasis Prancūzijos prezidento Fransua Miterano\nvizitas į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46038
+    - t-001
+
 - id: c-176290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,6 +107,7 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193619
+    - t-003
+
 ## Ryšiai
 - Fransua Miteranas keliavo į [[objektai/vietos/Lietuva]]

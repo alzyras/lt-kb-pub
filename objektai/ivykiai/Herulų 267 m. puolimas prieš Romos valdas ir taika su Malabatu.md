@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191030"></a>
 - t-001
-  global_id: t-191030
   teiginys: "Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-197536"></a>
 - t-002
-  global_id: t-197536
   teiginys: "Iš pra džių jų ginklai įvarė gerokai baimės, bet imperatoriaus sūnus Galėnas sulaikė puolimą ir sutriuškino herulus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191030
+    - t-001
+
 - id: c-179236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -123,4 +122,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197536
+    - t-002

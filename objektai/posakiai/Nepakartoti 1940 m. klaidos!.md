@@ -42,9 +42,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-41459"></a>
-- t-001
-  global_id: t-41459
+<a id="claim-t-41458"></a>
+- t-003
   teiginys: "Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -60,8 +59,8 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti, apie kuriuos gynėjus kalbama."
   pagrindžia:
-    - c-43192
     - c-44958
+    - c-43192
 - susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai.md#claim-t-09612|Aukščiausiosios Tarybos gynybos principai (institucija)]]: Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.
 - susijęs iš Nacionalinė M. Mažvydo biblioteka: Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.
 - susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171455|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.
@@ -90,10 +89,12 @@ media_all_json: |-
     1940 m. klaidos!
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-44958
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -111,18 +112,11 @@ media_all_json: |-
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
     gamybos dirbtuvės bei šaudykla.
-  citata_rodoma: |
-    Gynėjai išsikėlė nerašytą misiją - pa-
-    sipriešinti bet kokiu atveju ir nepakartoti
-    1940 m. klaidos!
-
-    Rengiantis gynybai AT rūsyje buvo įreng-
-    tos ginklų remonto ir šovinių, sprogmenų
-    gamybos dirbtuvės bei šaudykla.
+  citata_rodoma: "Gynėjai išsikėlė nerašytą misiją - pa-\nsipriešinti bet kokiu atveju ir nepakartoti\n1940 m. klaidos!\n\nRengiantis gynybai AT rūsyje buvo įreng-\ntos ginklų remonto ir šovinių, sprogmenų\ngamybos dirbtuvės bei šaudykla."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41459
+    - t-003

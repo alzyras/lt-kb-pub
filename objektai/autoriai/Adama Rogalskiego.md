@@ -39,7 +39,6 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
 
 <a id="claim-t-194846"></a>
 - t-001
-  global_id: t-194846
   teiginys: "Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194846
+    - t-001

@@ -30,7 +30,6 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
 
 <a id="claim-t-190111"></a>
 - t-001
-  global_id: t-190111
   teiginys: "Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvančio ąžuolo, liepė jį apkasti šviežia žeme ir paramstyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
 
 <a id="claim-t-190112"></a>
 - t-002
-  global_id: t-190112
   teiginys: "Narbutas pasakoja, kad aistruoliu lošėju laikytas Rekas, lošdamas nepaklausė bitės pranešimo ir vos jos neužmušė dėl zvimbimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190111
+    - t-001
+
 - id: c-172995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -107,4 +106,4 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190112
+    - t-002

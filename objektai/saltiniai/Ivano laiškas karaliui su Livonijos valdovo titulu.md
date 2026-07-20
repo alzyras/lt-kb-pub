@@ -30,7 +30,6 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
 
 <a id="claim-t-186330"></a>
 - t-001
-  global_id: t-186330
   teiginys: "Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
 
 <a id="claim-t-196347"></a>
 - t-002
-  global_id: t-196347
   teiginys: "Numalšinęs Livoniją karalius išsiuntė Vasilijų Tiškevičių, Mykolą Pašušvinskį ir Joną Gaiką į Maskvą derėtis dėl taikos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,30 +86,12 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
     veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
     karui prieš skitus ir švedus, baimindamasis, matyt, kad
     Augustas pirmas neužimtų šio krašto.
-  citata_rodoma: |
-    Po magistro ir
-    kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
-    tus patvirtino savo parašais, be magistro, dar du rite­
-    rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom­
-    tūras, ir Kristupas iš Viljandžio, krašto maršalas.
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
-    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
-    karui prieš skitus ir švedus, baimindamasis, matyt, kad
-    Augustas pirmas neužimtų šio krašto.
+  citata_rodoma: "Po magistro ir \nkiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­\ntus patvirtino savo parašais, be magistro, dar du rite­\nrių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom­\ntūras, ir Kristupas iš Viljandžio, krašto maršalas.\nNumalšinęs Livoniją ir iš­\nsiuntęs į Maskvą Palenkės \nvaivadą Vasilijų Tiškevičių, \nmaršalą Mykolą Pašušvinskį \nbei Lietuvos raštininką Joną \nGaiką, turėjusius derėtis su \nmaskvėnais dėl taikos, kara­\nlius iš stovyklos patraukė į \nLenkiją, manydamas, jog ateina visuotinės ramybės me­\ntas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­\nveržė į Livoniją su visa kariuomene, kurią sakėsi telkęs \nkarui prieš skitus ir švedus, baimindamasis, matyt, kad \nAugustas pirmas neužimtų šio krašto."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186330
-    - t-196347
+    - t-001
+    - t-002

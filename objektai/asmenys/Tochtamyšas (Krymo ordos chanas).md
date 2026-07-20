@@ -41,7 +41,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 
 <a id="claim-t-35297"></a>
 - t-001
-  global_id: t-35297
   teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,18 +72,14 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
-  citata_rodoma: |
-    Bet jau 1409
-    m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų
-    jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
-    mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
-    siuntė Vytautui pagalbos^1 ).
+  citata_rodoma: "Bet jau 1409\nm. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų\njam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui\nmirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai\nsiuntė Vytautui pagalbos^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35297
+    - t-001
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]

@@ -33,7 +33,6 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
 
 <a id="claim-t-35257"></a>
 - t-001
-  global_id: t-35257
   teiginys: "Kanauninkas Mykolas Trombas buvo siunčiamas pas popiežių, bet Vokietijoje jį sulaikė Habsburgai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Tuo reikalu pas popiežių buvo
+    tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
     joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
     Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
@@ -64,19 +63,11 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
     niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
     pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
     kunigaikščio Algirdo.
-  citata_rodoma: |
-    Tuo reikalu pas popiežių buvo
-    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
-    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
-    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
-    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
-    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
-    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
-    kunigaikščio Algirdo.
+  citata_rodoma: "Tuo reikalu pas popiežių buvo\nsiunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­\njoje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs\nVilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35257
+    - t-001

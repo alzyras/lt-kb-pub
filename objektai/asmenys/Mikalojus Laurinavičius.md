@@ -40,7 +40,6 @@ Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus vi
 
 <a id="claim-t-87786"></a>
 - t-001
-  global_id: t-87786
   teiginys: "Mikalojus Laurinavičius, Jachnos brolis, ilgai buvo burmistras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87786
+    - t-001

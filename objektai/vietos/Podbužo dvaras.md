@@ -39,7 +39,6 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
 
 <a id="claim-t-189046"></a>
 - t-001
-  global_id: t-189046
   teiginys: "Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,6 +82,7 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189046
+    - t-001
+
 ## Ryšiai
 - Podbužo dvaras priklausė [[objektai/vietos/Voluinė]]

@@ -8,12 +8,12 @@ datos:
   - '1519 m.'
 date_start: '1507'
 date_end: '1519'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
 
 <a id="claim-t-202068"></a>
 - t-001
-  global_id: t-202068
   teiginys: "Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šaltinių nuomininkas, taip pat nuo 1507 m. Kauno muitininkas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
 
 <a id="claim-t-202069"></a>
 - t-002
-  global_id: t-202069
   teiginys: "1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,7 +61,6 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
 
 <a id="claim-t-202070"></a>
 - t-003
-  global_id: t-202070
   teiginys: "Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202068
+    - t-001
 
 - id: c-185416
   autorius: "Zigmantas Kiaupa"
@@ -108,7 +105,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202069
+    - t-002
 
 - id: c-185417
   autorius: "Zigmantas Kiaupa"
@@ -124,4 +121,4 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202070
+    - t-003

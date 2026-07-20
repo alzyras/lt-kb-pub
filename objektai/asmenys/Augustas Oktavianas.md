@@ -31,7 +31,6 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
 
 <a id="claim-t-191182"></a>
 - t-001
-  global_id: t-191182
   teiginys: "Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,49 +52,17 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
 
 <a id="claim-t-191183"></a>
 - t-002
-  global_id: t-191183
   teiginys: "Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustas Oktavianas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas Oktavianas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-174065
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kai kartaginietis
-    pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
-    rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
-    prarado savo laivą ir pražudė savo seklį, tačiau buvo už
-    lai saviškių dosniai apdovanotas1.
-    175
-    Ilgo imperatoriaus Augusto valdymo metais geografi­
-    jos tyrinėjimas padarė geroką pažangą: šis Romos val­
-    dovas pats rašė traktatus apie geografiją, iš visur rinko
-    žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
-    valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191183
+    - c-174064
+
 ## Citatos
 
 - id: c-174064
@@ -123,26 +90,14 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191182
+    - t-001
+    - t-002
+
 - id: c-174065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taigi nėra abejonių, kad
-    valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
-    ir kraštus, esančius į šiaurę nuo Elbės. Tuo tarpu moksli­
-    ninkams šios žinios veikiausiai buvo neprieinamos. Ant­
-    rajame krikščioniškosios eros amžiuje Dionyzas iš Cha-
-    rakso dar nemokėjo deramai pažymėti Aldesko ir Panti-
-    kapo upių tėkmės. Jis sakė, kad jų versmės nežinomos, gal
-    ištekančios iš Ritėjų kalnų, be to, jis teigė, kad antra
-    šiauresnė už pirmą, o jų vandenys susisiekia su Baltijos
-    jūra. į šiaurę Europa yra susiaurėjusi. Šie pasakiški, t. y.
-    Rifėjų, kalnai skyrė į rytus tekančius Volgos, Dono, Dnep-
-    ro vandens baseinus nuo Dauguvos, Nemuno, Vyslos ir
-    kitų upių, bėgančių į vakarus3.
-  citata_rodoma: |
     Kai kartaginietis
     pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
     rodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats
@@ -155,10 +110,9 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
     žinias, pasitelkė matematikus2. Taigi nėra abejonių, kad
     valstybės valdžia turėjo tam tikrų tikslių žinių apie jūras
     ir kraštus, esančius į šiaurę nuo Elbės.
+  citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191183

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201271"></a>
 - t-001
-  global_id: t-201271
   teiginys: "18 trūkių būdami nuo Maskvos, su tokia greitybe baužė, jog mažne pirmiaus jie atėjo pas Maskvą nekaip reiškėjas pagrįžo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184621
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     18 trūkių būdami nuo Maskvos, su tokia grei-
     tybe baužė, jog mažne pirmiaus jie atėjo pas
@@ -71,4 +71,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201271
+    - t-001

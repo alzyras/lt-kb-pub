@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-189639"></a>
 - t-001
-  global_id: t-189639
   teiginys: "T. Narbuto parankiniame LTI egzemplioriuje visose devyniose dalyse atsirado daugybė pataisų ir įklijų, skirtų antrajam leidimui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-189640"></a>
 - t-002
-  global_id: t-189640
   teiginys: "Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189639
+    - t-001
+
 - id: c-172523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -138,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189640
+    - t-002

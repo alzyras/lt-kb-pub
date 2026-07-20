@@ -8,14 +8,14 @@ datos:
   - '1409 m.'
 date_start: '1409'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
   - karas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67016"></a>
-- t-001
-  global_id: t-67016
+- t-005
   teiginys: "1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-04923
 
 <a id="claim-t-67018"></a>
-- t-002
-  global_id: t-67018
+- t-007
   teiginys: "Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-04925
 
 <a id="claim-t-67019"></a>
-- t-003
-  global_id: t-67019
+- t-004
   teiginys: "1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ Nenurodyta
     - c-04922
 
 <a id="claim-t-67022"></a>
-- t-004
-  global_id: t-67022
+- t-006
   teiginys: "Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,6 +126,32 @@ Nenurodyta
   pagrindžia:
     - c-67088
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
+    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
+    Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žemaičiai, kuriems buvo atneštos žinios, kad «javams
+    nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
+    sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
+    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04922
@@ -137,38 +159,33 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
-    tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
-    Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
-  citata_rodoma: |
     1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.
     Vytautas ėmė skųstis tokiu kaimyno griežtumu.
+  citata_rodoma: "1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-\ntuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.\nVytautas ėmė skųstis tokiu kaimyno griežtumu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67019
+    - t-004
+
 - id: c-04923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Žemaičiai, kuriems buvo atneštos žinios, kad «javams
-    nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
-    sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
-    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
-  citata_rodoma: |
     Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą.
+  citata_rodoma: "Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67016
+    - t-005
+
 - id: c-04925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -184,7 +201,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67018
+    - t-007
+
 - id: c-67088
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,4 +220,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67022
+    - t-006

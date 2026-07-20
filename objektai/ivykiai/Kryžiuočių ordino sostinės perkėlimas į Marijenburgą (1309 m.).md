@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01685"></a>
 - t-001
-  global_id: t-01685
   teiginys: "1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,16 +82,11 @@ Nenurodyta
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras. Tuo būdu Marijenburgas pasidarė ordino
     sostinė.
-  citata_rodoma: |
-    Todėl 1309 m. didysis ma-
-    gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
-    Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
-    didysis magistras. Tuo būdu Marijenburgas pasidarė ordino
-    sostinė.
+  citata_rodoma: "Todėl 1309 m. didysis ma-\ngistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.\nPrūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai\ndidysis magistras. Tuo būdu Marijenburgas pasidarė ordino\nsostinė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01685
+    - t-001

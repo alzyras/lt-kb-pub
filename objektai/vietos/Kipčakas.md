@@ -37,7 +37,6 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
 
 <a id="claim-t-34193"></a>
 - t-001
-  global_id: t-34193
   teiginys: "1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34193
+    - t-001

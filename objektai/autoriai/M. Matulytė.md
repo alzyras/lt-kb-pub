@@ -39,7 +39,6 @@ Matulytė.
 
 <a id="claim-t-19429"></a>
 - t-001
-  global_id: t-19429
   teiginys: "M. Matulytė sudarė leidinį „Vilniaus fotografija, 1858–1915“, išleistą Vilniuje 2001 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,12 +66,11 @@ Matulytė.
     Vilnius, 2010; Vilniaus
     fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001; Vilniaus klasicizmas: parodos
     katalogas.
-  citata_rodoma: |
-    fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001;
+  citata_rodoma: "fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001;"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19429
+    - t-001

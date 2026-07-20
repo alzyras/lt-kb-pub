@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-88509"></a>
 - t-001
-  global_id: t-88509
   teiginys: "1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88509
+    - t-001

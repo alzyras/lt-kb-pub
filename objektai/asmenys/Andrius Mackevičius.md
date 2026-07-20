@@ -31,7 +31,6 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
 
 <a id="claim-t-186094"></a>
 - t-001
-  global_id: t-186094
   teiginys: "Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,38 +48,7 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   semantiniai_rysiai: "Andrius Mackevičius keliavo į Maskva (0.74)"
   pagrindžia:
     - c-169455
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Esą valachams visi keliai at­
-    viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
-    ir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;
-    visa kita sutvarkysią legatai, kurie greitai atvyksią į
-    Maskvą. Pasiuntinybę sudarė maršalas Motiejus Kloč-
-    ka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap­
-    tosios karaliaus tarybos narys Andrius Mackevičius.
-    Pasiuntinybė iškėlė šiuos rei-
-    P a siu n tin y b ė  į M ask-
-    kalaviinus:
-    parodyti
-    visus
-    v ą
-    belaisvius, suvežtus ir suva­
-    rytus į Maskvą, ir kuo grei­
-    čiausiai išsiųsti į pasienį taikytojus, kurie, suderinę su
-    Mackevičiumi nuomones, užbaigtų ginčus; jeigu Va­
-    silijus norįs derėtis dėl pastovios taikos, tegu siunčiąs
-    legatus pas karalių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186094
+
 ## Citatos
 
 - id: c-169455
@@ -88,28 +56,6 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galop jis pa­
-    prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
-    ir žygūnams, kurie buvo sulaikyti, kai maskvėnai su­
-    ėmė karališkuosius teisėjus.
-    Sugrįžęs iš Maskvos, Jes-
-    manas išvydo karalių bei ka­
-    ralienę Vilniuje. Karalius, su­
-    laukęs senyvo amžiaus, nuo­
-    gąstavo, kad, jam staiga mi­
-    rus, jo sūnus Augustas, dar
-    visai vaikas, beje, tokio am­
-    žiaus, kada nepajėgiama valdyti valstybės, gali netekti
-    Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
-    ją susitarimą,— ir Lietuvos kunigaikštystės. Nuogąsta­
-    vimus ir įtarumą kurstė ir karalienė, tiesa, ne tiek apie
-    sūnų, kiek apie save galvodama. Mat ši būgštavo, kad,
-    mirus karaliui, ji, kuri ligi šiol su karaliumi bemaž ly­
-    giomis teisėmis dalijosi valdžią, o gal net turėjo tokią
-    pat galią kaip ir jis ir niekieno nevaržoma tvarkėsi
-    valstybėje, tapsianti eiline moterimi ir turėsianti gyven­
-    ti atstumta nuo visų reikalų.
-  citata_rodoma: |
     Esą valachams visi keliai at­
     viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
     ir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;
@@ -129,10 +75,11 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
     Mackevičiumi nuomones, užbaigtų ginčus; jeigu Va­
     silijus norįs derėtis dėl pastovios taikos, tegu siunčiąs
     legatus pas karalių.
+  citata_rodoma: "Esą valachams visi keliai at­\nviri, Severinas plėšikaująs ir siaubiąs pasienį vienoje\nir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;\nvisa kita sutvarkysią legatai, kurie greitai atvyksią į\nMaskvą. Pasiuntinybę sudarė maršalas Motiejus Kloč-\nka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap­\ntosios karaliaus tarybos narys Andrius Mackevičius.\nPasiuntinybė iškėlė šiuos rei-\nP a siu n tin y b ė  į M ask-\nkalaviinus:\nparodyti\nvisus\nv ą\nbelaisvius, suvežtus ir suva­\nrytus į Maskvą, ir kuo grei­\nčiausiai išsiųsti į pasienį taikytojus, kurie, suderinę su\nMackevičiumi nuomones, užbaigtų ginčus; jeigu Va­\nsilijus norįs derėtis dėl pastovios taikos, tegu siunčiąs\nlegatus pas karalių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186094
+    - t-001

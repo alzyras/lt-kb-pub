@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87243"></a>
 - t-001
-  global_id: t-87243
   teiginys: "Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-183829"></a>
 - t-002
-  global_id: t-183829
   teiginys: "Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-194195"></a>
 - t-003
-  global_id: t-194195
   teiginys: "Tas pats dviejų aukštų pastatas, la bai storo mūro sienomis, stovintis šalimais katedros bokšto, iki 1832 metų priklausęs diecezijos konsisto rijai ir gyvenamas kunigų invalidų, minėtais metais, kaip ir daugelis ki tų mūrinių pastatų, supančių kated ros."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -152,6 +149,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87243
-    - t-183829
-    - t-194195
+    - t-001
+    - t-002
+    - t-003

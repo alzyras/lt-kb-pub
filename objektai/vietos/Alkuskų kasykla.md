@@ -30,7 +30,6 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
 
 <a id="claim-t-86167"></a>
 - t-001
-  global_id: t-86167
   teiginys: "Iš Alkuskų kasyklos buvo vežami plienas ir geležis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86167
+    - t-001

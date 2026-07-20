@@ -7,10 +7,10 @@ datos:
   - '1655 m.'
 date_start: '1655'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201933"></a>
 - t-001
-  global_id: t-201933
   teiginys: "1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185280
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -77,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201933
+    - t-001

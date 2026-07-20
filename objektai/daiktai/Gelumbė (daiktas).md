@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-202324"></a>
 - t-001
-  global_id: t-202324
   teiginys: "Aukštesnės rūšies gelumbę gamindavo amatininkai specialistai, vienas jos gamybos centrų buvo Vilnius, kuriame dirbo vilnos audėjai, vėlėjai, kirpėjai."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -59,25 +58,17 @@ Nenurodyta
   pagrindžia:
     - c-185671
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185671
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 61 (PDF 4)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
-  citata_originali: |
-    Šilti ir lengvesni viršutiniai drabužiai Lietuvoje siūti iš įvairių vil-
-    nonių audinių. Smulkūs bajorai, valstiečiai ir nepasiturintys mies-
-    tiečiai tenkindavosi naminiu milu iš įvairių spalvų vilnos.
-    Milas būdavo audžiamas tiek kaimuose, tiek dvaruose. Aukš-
-    tesnės rūšies gelumbę gamindavo amatininkai specialistai,
-    vienas jos gamybos centrų buvo Vilnius, kuriame dirbo vilnos
-    audėjai, vėlėjai, kirpėjai. Čia veikė dvi stambios vėlyklos: viena
-    priklausė miestui, kita – Mamoničių šeimai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202324
+    - t-001

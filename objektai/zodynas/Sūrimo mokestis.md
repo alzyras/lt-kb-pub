@@ -28,7 +28,6 @@ Taip pat buvo kilęs ginčas dėl sūrimo mokesčio.
 
 <a id="claim-t-201786"></a>
 - t-001
-  global_id: t-201786
   teiginys: "Taip pat buvo kilęs ginčas dėl sūrimo mokesčio."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Taip pat buvo kilęs ginčas dėl sūrimo mokesčio.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201786
+    - t-001

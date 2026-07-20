@@ -11,14 +11,14 @@ datos:
   - '1915 m.'
 date_start: '1595'
 date_end: '1915'
-amziai:
-  - 'XVI'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
+amziai:
+  - 'XVI'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 
 <a id="claim-t-60953"></a>
 - t-001
-  global_id: t-60953
   teiginys: "M. Prätorius manė, kad baltų Romovė galėjusi būti prie Biserkiemio ant Sidabro kalnu vadintos kalvos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - c-61585
 
 <a id="claim-t-60954"></a>
-- t-002
-  global_id: t-60954
+- t-003
   teiginys: "M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,10 +75,9 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61587
-    - c-003
+
 <a id="claim-t-60955"></a>
-- t-003
-  global_id: t-60955
+- t-002
   teiginys: "M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,22 +95,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   pagrindžia:
     - c-61586
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Reikšminga, kad senuose pasakojimuose,
-    žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
-    kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
-    (VVU) 157; r. p. (MA) 279; š. p. 576).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60954
 ## Citatos
 
 - id: c-61585
@@ -133,7 +114,8 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60953
+    - t-001
+
 - id: c-61586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,27 +136,22 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60955
+    - t-002
+
 - id: c-61587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
-    kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e. tūkstantmečio
-    vidurio grublėtosios keramikos pavyzdžių) ar pilaitės vietoje kryžiuočiai XIV a. pastatė
-    pilį (minima XIV a. 2-oje pusėje — SRP, 2, p. 577, 709 ir kt.). Norkyčiai čia buvo ir
-    XVI a., vėliau Norkyčių gyvenvietė buvusi perkelta per 2 km į šiaurę, prie Įsruties—
-    Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
-  citata_rodoma: |
     Reikšminga, kad senuose pasakojimuose,
     žinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi
     kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
     (VVU) 157; r. p. (MA) 279; š. p. 576).
+  citata_rodoma: "Reikšminga, kad senuose pasakojimuose,\nžinomuose XVI a. J. Bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi\nkadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.\n(VVU) 157; r. p. (MA) 279; š. p. 576)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60954
+    - t-003

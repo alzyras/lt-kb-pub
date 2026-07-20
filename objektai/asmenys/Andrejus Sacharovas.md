@@ -39,8 +39,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 ## Teiginiai
 
 <a id="claim-t-75687"></a>
-- t-001
-  global_id: t-75687
+- t-003
   teiginys: "Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - c-21580
 
 <a id="claim-t-75688"></a>
-- t-002
-  global_id: t-75688
+- t-001
   teiginys: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - c-21578
 
 <a id="claim-t-75689"></a>
-- t-003
-  global_id: t-75689
+- t-002
   teiginys: "A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +97,6 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 
 <a id="claim-t-75690"></a>
 - t-004
-  global_id: t-75690
   teiginys: "Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,17 +130,15 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
     ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
     tinėmis grupėmis.
-  citata_rodoma: |
-    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
-    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
-    tas valstybes apie žmogaus teisių pažeidimus.
+  citata_rodoma: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-\nsios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-\ntas valstybes apie žmogaus teisių pažeidimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75688
+    - t-001
+
 - id: c-21579
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,16 +152,15 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
     mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai,
     6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų.
-  citata_rodoma: |
-    Memorandumą pasirašė 4 estai,
-    6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų.
+  citata_rodoma: "Memorandumą pasirašė 4 estai, \n6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75689
+    - t-002
+
 - id: c-21580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,18 +171,15 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
     bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
     mokosi Rusijos ir kitų respublikų demokratai.
-  citata_rodoma: |
-    Po 1991 m. sau-
-    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
-    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
-    mokosi Rusijos ir kitų respublikų demokratai.
+  citata_rodoma: "Po 1991 m. sau-\nsio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir \nbendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių \nmokosi Rusijos ir kitų respublikų demokratai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75687
+    - t-003
+
 - id: c-73406
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,4 +201,4 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75690
+    - t-004

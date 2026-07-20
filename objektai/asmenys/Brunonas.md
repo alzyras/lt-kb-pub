@@ -33,8 +33,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 ## Teiginiai
 
 <a id="claim-t-89681"></a>
-- t-001
-  global_id: t-89681
+- t-004
   teiginys: "Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - c-85622
 
 <a id="claim-t-89682"></a>
-- t-002
-  global_id: t-89682
+- t-007
   teiginys: "Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +58,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - c-85624
 
 <a id="claim-t-89683"></a>
-- t-003
-  global_id: t-89683
+- t-006
   teiginys: "1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +67,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - c-85623
 
 <a id="claim-t-184682"></a>
-- t-004
-  global_id: t-184682
+- t-005
   teiginys: "Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,8 +87,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     - c-168043
 
 <a id="claim-t-196431"></a>
-- t-005
-  global_id: t-196431
+- t-008
   teiginys: "Kojelavičiaus pasakojime magistras Brunonas netoli Livonijos įlankos prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -116,6 +111,32 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185673|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.
 - susijęs iš Treiderės upė: Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.
 - susijęs iš Vysla: Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus. Kai žuvo aštuoni šimtai lietuvių, o
+    trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
+    kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
+    Kartais vis dėlto beviltiškoje padėtyje gelbsti ir tai,
+    kad nėra kur bėgti. Kadangi iš užpakalio buvo jūra,
+    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
+    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
+    buvo jokios vilties pabėgti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-005
+
 ## Citatos
 
 - id: c-85622
@@ -140,7 +161,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89681
+    - t-004
+
 - id: c-85623
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -154,17 +176,15 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     Bet ir jo misijos
     nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
-  citata_rodoma: |
-    Bet ir jo misijos
-      nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
-      vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+  citata_rodoma: "Bet ir jo misijos\n  nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais\n  vasario 14 d. buvo suimtas ir su visais palydovais nužudytas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89683
+    - t-006
+
 - id: c-85624
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -186,38 +206,20 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     vyko iš Lenkijos
     aisčių krikštyti net
     su 18 palydovų.
-  citata_rodoma: |
-    Pagaliau 1008 m. gale jis iš-
-      vyko iš Lenkijos
-      aisčių krikštyti net
-      su 18 palydovų.
+  citata_rodoma: "Pagaliau 1008 m. gale jis iš-\n  vyko iš Lenkijos\n  aisčių krikštyti net\n  su 18 palydovų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89682
+    - t-007
+
 - id: c-168043
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pavijęs siaubėjus ne­
-    toli Livonijos įlankos, magistras Brunonas nirtulingai
-    juos užpuolė prie Treiderės upės, jau apsikrovusius
-    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
-    dėl to, kad neturėjo po ranka kariuomenės (paprastai
-    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
-    džiusi po kaimus. Kai žuvo aštuoni šimtai lietuvių, o
-    trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
-    kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
-    Kartais vis dėlto beviltiškoje padėtyje gelbsti ir tai,
-    kad nėra kur bėgti. Kadangi iš užpakalio buvo jūra,
-    vienoje pusėje trukdė Treiderės upė, o kitoje pusėje
-    ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
-    buvo jokios vilties pabėgti.
-  citata_rodoma: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­
     viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
@@ -227,11 +229,12 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     dėl to, kad neturėjo po ranka kariuomenės (paprastai
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
     džiusi po kaimus.
+  citata_rodoma: "Po to nugalėtojai, paleisti pasiplėšti grobio,\nnusiaubė visas apylinkes, naikindami ugnimi ir kala­\nviju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­\ntoli Livonijos įlankos, magistras Brunonas nirtulingai\njuos užpuolė prie Treiderės upės, jau apsikrovusius\ngrobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal\ndėl to, kad neturėjo po ranka kariuomenės (paprastai\nšitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­\ndžiusi po kaimus."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184682
-    - t-196431
+    - t-005
+    - t-008

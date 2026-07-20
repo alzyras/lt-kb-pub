@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09532"></a>
-- t-001
-  global_id: t-09532
+- t-004
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą."
   atnaujinta: "2026-05-20 21:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-12298
 
 <a id="claim-t-09533"></a>
-- t-002
-  global_id: t-09533
+- t-003
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -104,18 +102,12 @@ Nenurodyta
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: |
-    Puolimo prieš Lietuvą išvakarėse Ordi-
-    nas stiprino ryšius su lenkų kunigaikščiais.
-    1260 m. birželio 5 d. jis ir Mozūrijos kuni-
-    gaikštis Zemovitas sudarė eilinę dar ne-
-    užgrobtos Sūduvos pasidalijimo sutartį,
-    sustiprindami tarpusavio sąjungą.
+  citata_rodoma: "Puolimo prieš Lietuvą išvakarėse Ordi-\nnas stiprino ryšius su lenkų kunigaikščiais.\n1260 m. birželio 5 d. jis ir Mozūrijos kuni-\ngaikštis Zemovitas sudarė eilinę dar ne-\nužgrobtos Sūduvos pasidalijimo sutartį,\nsustiprindami tarpusavio sąjungą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09532
-    - t-09533
+    - t-004
+    - t-003

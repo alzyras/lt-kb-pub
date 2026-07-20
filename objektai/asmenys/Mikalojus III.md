@@ -37,7 +37,6 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
 
 <a id="claim-t-200871"></a>
 - t-001
-  global_id: t-200871
   teiginys: "Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
 
 <a id="claim-t-201015"></a>
 - t-002
-  global_id: t-201015
   teiginys: "Popiežius Mikalojus III, įsėdęs į baž nyčios suolą, turėjo rūpintis didesniais reikalais nekaip pagalba kryiėjų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -89,11 +87,12 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200871
+    - t-001
 
 - id: c-184365
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais
@@ -115,4 +114,4 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201015
+    - t-002

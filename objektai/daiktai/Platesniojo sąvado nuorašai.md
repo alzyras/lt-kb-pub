@@ -48,35 +48,11 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-186812"></a>
-- t-001
-  global_id: t-186812
-  teiginys: 'Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi rašybos klaidą ir nepagrįstai suabsoliutina skaičių kaip vien Platesniojo sąvado nuorašus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
-  pagrindžia:
-    - c-169995
-
-<a id="claim-t-193871"></a>
-- t-002
-  global_id: t-193871
-  teiginys: 'Platesnysis sąvadas savo laiku nebuvo išspausdintas ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 22.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas konkrečiu objektu iš citatos, o sakinys sutvarkytas kaip faktas apie nuorašų plitimą. Nepridėta informacijos apie kitus sąvadus ar leidinius.'
-  pagrindžia:
-    - c-169995
-
-## Citatos
-
-- id: c-169995
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ВУСНОѴСО KRONIKA IR JOS KILMĖ
     Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje
@@ -91,12 +67,9 @@ Nenurodyta
     tų nuorašų ir susijusių su jais atskirų fragmentų yra
     paskelbti Rusijos Archeografinės Komisijos leidinyje,
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: "Šie sąvadai, taip pat įtrauktieji į juos kūriniai yra \nanoniminiai: mažai žinomi ar visai nežinomi jų auto­\nriai, tikslus parašymo laikas ir vieta. Nė vienas iš jų \nnebuvo savo laiku išspausdintas, o plito rankraštiniais \nnuorašais, kurių plačiau žinoma bent 222 . Daugumas \ntų nuorašų ir susijusių su jais atskirų fragmentų yra \npaskelbti Rusijos Archeografinės Komisijos leidinyje"
-  statusas: verified
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186812
-    - t-193871
+  statusas: verified
+- t-002

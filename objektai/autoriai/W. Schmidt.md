@@ -40,7 +40,6 @@ Schmidt, W.
 
 <a id="claim-t-31071"></a>
 - t-001
-  global_id: t-31071
   teiginys: "W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Schmidt, W.
     — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
     und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
     Historisch-kritischer Teil, Münster i. W. 1912.
-  citata_rodoma: |
-    — Schmidt, W. : Ursprung
-    und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
-    Historisch-kritischer Teil, Münster i. W. 1912.
+  citata_rodoma: "— Schmidt, W. : Ursprung\nund Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :\nHistorisch-kritischer Teil, Münster i. W. 1912."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31071
+    - t-001

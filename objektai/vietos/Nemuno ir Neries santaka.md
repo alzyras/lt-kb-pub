@@ -28,7 +28,6 @@ Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
 
 <a id="claim-t-201702"></a>
 - t-001
-  global_id: t-201702
   teiginys: "Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201702
+    - t-001

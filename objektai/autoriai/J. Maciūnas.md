@@ -38,7 +38,6 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
 
 <a id="claim-t-96052"></a>
 - t-001
-  global_id: t-96052
   teiginys: "J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96052
+    - t-001

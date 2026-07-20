@@ -37,7 +37,6 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 
 <a id="claim-t-42096"></a>
 - t-001
-  global_id: t-42096
   teiginys: "1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,17 +70,11 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
     regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
     Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
     laikysis senolių tikėjimo.
-  citata_rodoma: |
-    Lapkritį Gedimino „galinga kariuomenė“,
-    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
-    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
-    regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
-    Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
-    laikysis senolių tikėjimo.
+  citata_rodoma: "Lapkritį Gedimino „galinga kariuomenė“,\nvadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,\no kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės\nregioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams\nRygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau\nlaikysis senolių tikėjimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42096
+    - t-001

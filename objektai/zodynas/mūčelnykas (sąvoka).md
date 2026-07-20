@@ -39,7 +39,6 @@ Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdam
 
 <a id="claim-t-201220"></a>
 - t-001
-  global_id: t-201220
   teiginys: "Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdamas kūną mūčelnyko atpirkti dėl pajautimo savo namų ir į Lenkus parvežti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdam
 ## Citatos
 
 - id: c-184570
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išgirdęs tą, vėl Boleslovas karalius
     siuntė į Parusnį siuntinius, liepdamas kūną mūčel-
@@ -75,4 +75,4 @@ Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201220
+    - t-001

@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36552"></a>
-- t-001
-  global_id: t-36552
+- t-003
   teiginys: "Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ media_all_json: |-
 
 <a id="claim-t-36553"></a>
 - t-002
-  global_id: t-36553
   teiginys: "1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ media_all_json: |-
     - c-38629
 
 <a id="claim-t-36554"></a>
-- t-003
-  global_id: t-36554
+- t-001
   teiginys: "Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,18 +109,15 @@ media_all_json: |-
     Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
     tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
     nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
-  citata_rodoma: |
-    Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.
-    Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
-    tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
-    nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
+  citata_rodoma: "Šie pirma jį nusiuntė į Rittersverderį pas Vytautą.\nHenrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­\ntautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­\nnigaikštiją su Rusijos kraštais, kad tik jis taikintųsi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36554
+    - t-001
+
 - id: c-38628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -135,18 +129,15 @@ media_all_json: |-
     mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
     savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
     Lietuvą.
-  citata_rodoma: |
-    Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
-    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
-    Lietuvą.
+  citata_rodoma: "Vytautą rado jis Rittersverdery, berengiantį planus toli­\nmesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis\nsavo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti\nLietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36552
+    - t-003
+
 - id: c-38629
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -161,18 +152,11 @@ media_all_json: |-
     Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
     randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
     Ordino naudai propagandos.
-  citata_rodoma: |
-    Dar
-    1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­
-    nu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus
-    rankioti į Rittersverderį iš kitų Ordino pilių.
-    Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
-    randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
-    Ordino naudai propagandos.
+  citata_rodoma: "Dar\n1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­\nnu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus\nrankioti į Rittersverderį iš kitų Ordino pilių.\nPo kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­\nrandant priežastį, jog norįs pasiųsti ją Lietuvon, varyti\nOrdino naudai propagandos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36553
+    - t-002

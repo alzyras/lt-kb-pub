@@ -38,7 +38,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 
 <a id="claim-t-41213"></a>
 - t-001
-  global_id: t-41213
   teiginys: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 
 <a id="claim-t-41214"></a>
 - t-002
-  global_id: t-41214
   teiginys: "Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41213
+    - t-001
+
 - id: c-44881
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -127,20 +126,15 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     Apie 1619 m. nutapyto Pieterio
     Snayerso paveikslo „Salaspilio
     mūšis“ fragmentas. Lietuvos
-  citata_rodoma: |
-    Chodkevičius siekė neleisti švedams
-    susijungti, tačiau to padaryti nepavyko ir
-    rugsėjo 23 d. Švedijos kariuomenė apgulė
-    Rygą.
-
-    Apie 1619 m.
+  citata_rodoma: "Chodkevičius siekė neleisti švedams\nsusijungti, tačiau to padaryti nepavyko ir\nrugsėjo 23 d. Švedijos kariuomenė apgulė\nRygą.\n\nApie 1619 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41214
+    - t-002
+
 ## Ryšiai
 - Švedijos kariuomenė apgulė [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - Švedijos kariuomenė užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Paidė]], [[objektai/vietos/Viljandis]]

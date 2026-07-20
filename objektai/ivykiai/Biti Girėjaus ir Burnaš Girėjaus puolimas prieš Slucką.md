@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185695"></a>
 - t-001
-  global_id: t-185695
   teiginys: "Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185695
+    - t-001

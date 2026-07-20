@@ -36,8 +36,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 ## Teiginiai
 
 <a id="claim-t-78905"></a>
-- t-001
-  global_id: t-78905
+- t-004
   teiginys: "Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76010
 
 <a id="claim-t-78906"></a>
-- t-002
-  global_id: t-78906
+- t-001
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-76011
 
 <a id="claim-t-78907"></a>
-- t-003
-  global_id: t-78907
+- t-002
   teiginys: "XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -113,27 +110,15 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę.
-  citata_rodoma: |
-    Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo. Pašauktinės kariuo-
-    menės silpnąsias savybes (santykinai nedi-
-    delę kovinę patirtį, ne visada patenkinamą
-    discipliną) bandyta kompensuoti samdi-
-    niais - kariais profesionalais.
-
-    Totorių įsiveržimas
-
-    1506 m.
+  citata_rodoma: "Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo. Pašauktinės kariuo-\nmenės silpnąsias savybes (santykinai nedi-\ndelę kovinę patirtį, ne visada patenkinamą\ndiscipliną) bandyta kompensuoti samdi-\nniais - kariais profesionalais.\n\nTotorių įsiveržimas\n\n1506 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78905
+    - t-004
+
 - id: c-76011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -156,7 +141,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78906
+    - t-001
+
 - id: c-76013
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,4 +167,4 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78907
+    - t-002

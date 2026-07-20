@@ -31,7 +31,6 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
 
 <a id="claim-t-100130"></a>
 - t-001
-  global_id: t-100130
   teiginys: "Kun. Antano Šmulkščio vadovėlinio tipo knygutėje daugiausia dėmesio skirta lietuvių tautos žygiams iki Vytauto Didžiojo mirties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
     tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun.
     Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos
     žygiams iki Vytauto Didžiojo mirties.
-  citata_rodoma: |
-    Augusto gyvenimo pabaiga. Panašiai į ją žiūrėta ir vadovėlinio
-    tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun.
-    Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos
-    žygiams iki Vytauto Didžiojo mirties.
+  citata_rodoma: "Augusto gyvenimo pabaiga. Panašiai į ją žiūrėta ir vadovėlinio\ntipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun.\nAntano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos\nžygiams iki Vytauto Didžiojo mirties."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100130
+    - t-001

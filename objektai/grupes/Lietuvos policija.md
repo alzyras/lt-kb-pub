@@ -31,7 +31,6 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 
 <a id="claim-t-26342"></a>
 - t-001
-  global_id: t-26342
   teiginys: "Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26342
+    - t-001

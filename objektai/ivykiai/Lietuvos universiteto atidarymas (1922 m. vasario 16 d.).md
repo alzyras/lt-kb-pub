@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-23344"></a>
 - t-001
-  global_id: t-23344
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23344
+    - t-001

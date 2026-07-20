@@ -7,14 +7,14 @@ datos:
   - '1281 m.'
 date_start: '1281'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - invazija
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185740"></a>
 - t-001
-  global_id: t-185740
   teiginys: "1281 m. lietuviai užėmė jotvingių kraštą, o Traidenis Bebro pakrantėje įkūrė Raigardo sodybvietę kaip gynybinę pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -74,9 +73,8 @@ Nenurodyta
 
 <a id="claim-t-185741"></a>
 - t-002
-  global_id: t-185741
   teiginys: "1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,63 +91,12 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pakankamai tiksliai perteikia citatos faktą."
   pagrindžia:
-    - c-169102
     - c-169101
-## Citatos
 
-- id: c-169101
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Išlikę jotvingiai, iš seno ne­
-    kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
-    lietuvių kariuomenę, jie at-
-    1281 m e ta i
-    sižadėjo krikščionių tikėjimo
-    bei lenkų ir prisidėjo prie
-    lietuvių. Vėliau, po netikėto puolimo užėmus lenkų bei
-    mozūrų naująsias gyvenvietes, visas kraštas bemat pa­
-    teko į lietuvių rankas, o patogiose, arčiau priešo esan­
-    čiose vietose buvo įkurdintos įgulos; Bebro pakrantėje
-    Traidenis įkūrė naują Raigardo sodybvietę, norėdamas,
-    kad ši pilis gintų gyventojus nuo netolimų mozūrų bei
-    prūsų. Atsidėkodamas už šį
-    L ietu via i p a sta to Po-
-    ryžtingą žygį, Narimantas vi­
-    le k s ijo įe R aigardą
-    są kraštą atidavė Traideniui.
-  citata_rodoma: |
-    Štai
-    dabar Narimantas su Traideniu pirmą kartą susirūpino
-    šiomis žemėmis, nutarę ne
-    L ietu via i atsiim a
-    ki-
-    išpuoliais priešą niokoti, bet
-    ta d o s len k ų  u žg ro b tą
-    išvyti lenkus ir vėl ten at-
-    jo tv in g ių  šalį
-    kurti senąsias lietuvių teises.
-    Įvesta į šį kraštą kariuomenė
-    beveik neturėjo ką veikti. Išlikę jotvingiai, iš seno ne­
-    kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
-    lietuvių kariuomenę, jie at-
-    1281 m e ta i
-    sižadėjo krikščionių tikėjimo
-    bei lenkų ir prisidėjo prie
-    lietuvių.
-  statusas: verified
-  atnaujinta: "2026-07-13 01:00"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185740
-    - t-185741
-- id: c-169102
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, po netikėto puolimo užėmus lenkų bei
     mozūrų naująsias gyvenvietes, visas kraštas bemat pa­
@@ -173,7 +120,52 @@ Nenurodyta
     kalai, kad pačiam Narimantui šis patvarkymas atnešė
     nemažą naudą, kai piktadarybė, ištikusi jo šeimą, ne­
     leido jam rūpintis karu Poleksijoje.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169101
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Štai
+    dabar Narimantas su Traideniu pirmą kartą susirūpino
+    šiomis žemėmis, nutarę ne
+    L ietu via i atsiim a
+    ki-
+    išpuoliais priešą niokoti, bet
+    ta d o s len k ų  u žg ro b tą
+    išvyti lenkus ir vėl ten at-
+    jo tv in g ių  šalį
+    kurti senąsias lietuvių teises.
+    Įvesta į šį kraštą kariuomenė
+    beveik neturėjo ką veikti. Išlikę jotvingiai, iš seno ne­
+    kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
+    lietuvių kariuomenę, jie at-
+    1281 m e ta i
+    sižadėjo krikščionių tikėjimo
+    bei lenkų ir prisidėjo prie
+    lietuvių.
+  citata_rodoma: "Štai\ndabar Narimantas su Traideniu pirmą kartą susirūpino\nšiomis žemėmis, nutarę ne\nL ietu via i atsiim a\nki-\nišpuoliais priešą niokoti, bet\nta d o s len k ų  u žg ro b tą\nišvyti lenkus ir vėl ten at-\njo tv in g ių  šalį\nkurti senąsias lietuvių teises.\nĮvesta į šį kraštą kariuomenė\nbeveik neturėjo ką veikti. Išlikę jotvingiai, iš seno ne­\nkęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė\nlietuvių kariuomenę, jie at-\n1281 m e ta i\nsižadėjo krikščionių tikėjimo\nbei lenkų ir prisidėjo prie\nlietuvių."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
+
+- id: c-169102
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
     lietuvių kariuomenę, jie at-
@@ -191,10 +183,9 @@ Nenurodyta
     ryžtingą žygį, Narimantas vi­
     le k s ijo įe  R aigardą
     są kraštą atidavė Traideniui.
+  citata_rodoma: "Išlikę jotvingiai, iš seno ne­\nkęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė\nlietuvių kariuomenę, jie at-\n1281 m e ta i\nsižadėjo krikščionių tikėjimo\nbei lenkų ir prisidėjo prie\nlietuvių. Vėliau, po netikėto puolimo užėmus lenkų bei\nmozūrų naująsias gyvenvietes, visas kraštas bemat pa­\nteko į lietuvių rankas, o patogiose, arčiau priešo esan­\nčiose vietose buvo įkurdintos įgulos; Bebro pakrantėje\nTraidenis įkūrė naują Raigardo sodybvietę, norėdamas,\nkad ši pilis gintų gyventojus nuo netolimų mozūrų bei\nprūsų. Atsidėkodamas už šį\nL ietu via i p a sta to  Po-\nryžtingą žygį, Narimantas vi­\nle k s ijo įe  R aigardą\nsą kraštą atidavė Traideniui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185741

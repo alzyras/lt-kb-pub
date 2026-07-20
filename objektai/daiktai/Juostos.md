@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-47812"></a>
 - t-001
-  global_id: t-47812
   teiginys: "Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -90,14 +89,11 @@ Nenurodyta
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
-  citata_rodoma: |
-    Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
+  citata_rodoma: "Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47812
+    - t-001

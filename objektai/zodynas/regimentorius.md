@@ -31,7 +31,6 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 
 <a id="claim-t-70303"></a>
 - t-001
-  global_id: t-70303
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 
 <a id="claim-t-182974"></a>
 - t-002
-  global_id: t-182974
   teiginys: "Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,18 +76,15 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
     rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-  citata_rodoma: |
-    Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
-    kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
-    rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
-    Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
+  citata_rodoma: "Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-\nkiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-\nrijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į\nValkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70303
+    - t-001
+
 - id: c-166372
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -110,4 +105,4 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182974
+    - t-002

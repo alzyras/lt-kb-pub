@@ -31,7 +31,6 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
 
 <a id="claim-t-194317"></a>
 - t-001
-  global_id: t-194317
   teiginys: "Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194317
+    - t-001

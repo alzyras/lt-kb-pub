@@ -31,7 +31,6 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
 
 <a id="claim-t-02629"></a>
 - t-001
-  global_id: t-02629
   teiginys: "Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
     kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
     gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
     kybą.
-  citata_rodoma: |
-    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
-    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
-    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
-    kybą.
+  citata_rodoma: "Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-\nkybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-\ngultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-\nkybą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02629
+    - t-001

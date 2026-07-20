@@ -28,7 +28,6 @@ Vorobjovas Šv. Augustino koplyčių apšvietimo efektus apibūdina kaip tokius 
 
 <a id="claim-t-200810"></a>
 - t-001
-  global_id: t-200810
   teiginys: "Vorobjovas Šv. Augustino koplyčių apšvietimo efektus apibūdina kaip tokius rafinuotus, kad jie nustelbia skulptūros savarankiškumą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vorobjovas Šv. Augustino koplyčių apšvietimo efektus apibūdina kaip tokius 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200810
+    - t-001

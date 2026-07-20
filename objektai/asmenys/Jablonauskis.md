@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-39747"></a>
 - t-001
-  global_id: t-39747
   teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39747
+    - t-001

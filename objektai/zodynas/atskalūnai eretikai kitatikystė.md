@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-86513"></a>
 - t-001
-  global_id: t-86513
   teiginys: "1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86513
+    - t-001

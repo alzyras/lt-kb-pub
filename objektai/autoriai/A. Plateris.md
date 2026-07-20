@@ -40,7 +40,6 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
 
 <a id="claim-t-30527"></a>
 - t-001
-  global_id: t-30527
   teiginys: "A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,20 +77,11 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
     viee-rektorius, nuo 1932 **m.** rektorius), Penkauskas dar surado laiko
     (iki 1930 m.) duoti porą studijų iš lietuvių iki tol netyrinėtos
     Lietuvos istorijos srities^84.
-  citata_rodoma: |
-    **
-    (^83) **A. Plateris :** **_Janulaitis mokslininkas_** **, LE 9 t., 293 p.**
-
-
-    62 ĮVADAS
-
-    Bažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto
-    Teologijos skyriuje po Aleknos mirties (1930), visą laiką iki to
-    fakulteto uždarymo (1940 m.
+  citata_rodoma: "**\n(^83) **A. Plateris :** **_Janulaitis mokslininkas_** **, LE 9 t., 293 p.**\n\n\n62 ĮVADAS\n\nBažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto\nTeologijos skyriuje po Aleknos mirties (1930), visą laiką iki to\nfakulteto uždarymo (1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30527
+    - t-001

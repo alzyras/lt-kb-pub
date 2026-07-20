@@ -36,7 +36,6 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
 
 <a id="claim-t-16165"></a>
 - t-001
-  global_id: t-16165
   teiginys: "XVII–XVIII a. senoji Vakarų Europa skilo į pietinę katalikiškąją ir šiaurinę protestantiškąją dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
     žygio Ispanija nekartojo.
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją.
-  citata_rodoma: |
-    XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
-    kiškąją ir šiaurinę protestantiškąją.
+  citata_rodoma: "XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-\nkiškąją ir šiaurinę protestantiškąją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-16165
+    - t-001

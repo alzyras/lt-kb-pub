@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-20181"></a>
 - t-001
-  global_id: t-20181
   teiginys: "Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuri pripažino Baltijos valstybių tikslą tapti jos narėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Nenurodyta
     pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
     tapti ES narėmis.
-  citata_rodoma: |
-    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
+  citata_rodoma: "(asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20181
+    - t-001

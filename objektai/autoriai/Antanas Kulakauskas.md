@@ -45,8 +45,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 ## Teiginiai
 
 <a id="claim-t-26605"></a>
-- t-001
-  global_id: t-26605
+- t-002
   teiginys: "Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - c-154570
 
 <a id="claim-t-26709"></a>
-- t-002
-  global_id: t-26709
+- t-004
   teiginys: "Bibliografijoje Kulakauskas A. kartu su Aleksandravičiumi E. siejamas su veikalu „Carų valdžioje. Lietuva XIX amžiuje“."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - c-16343
 
 <a id="claim-t-169887"></a>
-- t-003
-  global_id: t-169887
+- t-006
   teiginys: "Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26709
+    - t-004
+
 - id: c-154570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,29 +151,15 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
     1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
     siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
-  citata_rodoma: |
-    Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-
-    lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
-    senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
-    zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
-
-    11
-    N U O  R E D A K T O R I A U S
-    II skyrius, jo plunksnai priklauso įvadas ir baigiamasis skyrius „Pabaiga
-    arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-
-    joje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas
-    Kulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo
-    procesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-
-    gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
-    1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
-    siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
+  citata_rodoma: "Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-\nlučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją: \nsenovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-\nzavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir\n\n11\nN U O  R E D A K T O R I A U S\nII skyrius, jo plunksnai priklauso įvadas ir baigiamasis skyrius „Pabaiga \narba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-\njoje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas \nKulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo \nprocesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-\ngė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo \n1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-\nsiteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26605
+    - t-002
+
 - id: c-154571
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -210,28 +194,11 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
-  citata_rodoma: |
-    Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
+  citata_rodoma: "Vytautas Radžvilas\nDr. Inga Vinogradnaitė\nIšleista Lietuvos Respublikos \nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12 \nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169887
+    - t-006

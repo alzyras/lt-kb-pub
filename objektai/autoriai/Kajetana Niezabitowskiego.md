@@ -38,7 +38,6 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 
 <a id="claim-t-190433"></a>
 - t-001
-  global_id: t-190433
   teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190433
+    - t-001

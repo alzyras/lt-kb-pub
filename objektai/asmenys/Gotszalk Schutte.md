@@ -37,7 +37,6 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
 
 <a id="claim-t-35080"></a>
 - t-001
-  global_id: t-35080
   teiginys: "Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,20 +71,11 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
     tas griežtai stojo už tai, kad Žemaičių vyskupija netektų
     Rygos arkivyskupui ir kreipėsi į Kuriją, kad popiežius uždraus­
     tų Livonijos episkopatui kištis į Lietuvos bažnytinius reikalus.
-  citata_rodoma: |
-    Be to,
-    į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai
-    (Gotszalk Schutte, Jonas Habundi)^3 ), remdamiesi tuo, kad prie
-    Mindaugo Rygos arkivyskupui tarpininkaujant buvo įkurta Že­
-    maičių vyskupija (1251), taigi dabartinė tėra senosios atnauji­
-    nimas ir turi priklausyti Rygos arkivyskupo valdžiai. Vytau­
-    tas griežtai stojo už tai, kad Žemaičių vyskupija netektų
-    Rygos arkivyskupui ir kreipėsi į Kuriją, kad popiežius uždraus­
-    tų Livonijos episkopatui kištis į Lietuvos bažnytinius reikalus.
+  citata_rodoma: "Be to,\nį Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai\n(Gotszalk Schutte, Jonas Habundi)^3 ), remdamiesi tuo, kad prie\nMindaugo Rygos arkivyskupui tarpininkaujant buvo įkurta Že­\nmaičių vyskupija (1251), taigi dabartinė tėra senosios atnauji­\nnimas ir turi priklausyti Rygos arkivyskupo valdžiai. Vytau­\ntas griežtai stojo už tai, kad Žemaičių vyskupija netektų\nRygos arkivyskupui ir kreipėsi į Kuriją, kad popiežius uždraus­\ntų Livonijos episkopatui kištis į Lietuvos bažnytinius reikalus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35080
+    - t-001

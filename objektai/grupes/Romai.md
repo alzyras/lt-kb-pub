@@ -31,7 +31,6 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
 
 <a id="claim-t-66059"></a>
 - t-001
-  global_id: t-66059
   teiginys: "Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose kraštuose likviduoti romus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66059
+    - t-001

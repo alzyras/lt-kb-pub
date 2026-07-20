@@ -32,7 +32,6 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 
 <a id="claim-t-194093"></a>
 - t-001
-  global_id: t-194093
   teiginys: "Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 
 <a id="claim-t-196813"></a>
 - t-002
-  global_id: t-196813
   teiginys: "Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -59,8 +57,7 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
     - c-178926
 
 <a id="claim-t-197712"></a>
-- t-003
-  global_id: t-197712
+- t-004
   teiginys: "Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,6 +67,24 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179301
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
+    lydima karalaitė, vardu Uršulė10, Įišleidžiama] už Ang­
+    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
+    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
+    vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
+    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
+    rybė, padaryta krikščionims.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -85,21 +100,15 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
     vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
     vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
     rybė, padaryta krikščionims.
-  citata_rodoma: |
-    O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
-    lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
-    lijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan-
-    čiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas
-    vienuolika tūkstančių mergelių, buvusių su ja. Ir jos
-    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
-    rybė, padaryta krikščionims.
+  citata_rodoma: "O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo \nlydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­\nlijos karaliaus sūnaus. Su ja vyko vienuolika tūkstan- \nčiiĮ mergelių. Atila nužudė ir pačią karalaitę, ir visas \nvienuolika tūkstančių mergelių, buvusių su ja. Ir jos \nvardan Kristaus tapo kankinėmis. Tai pirma jo žiau­\nrybė, padaryta krikščionims."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194093
+    - t-001
+
 - id: c-178926
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -118,7 +127,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196813
+    - t-002
+
 - id: c-179301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -142,4 +152,4 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197712
+    - t-004

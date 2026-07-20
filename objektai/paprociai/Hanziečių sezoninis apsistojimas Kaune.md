@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202026"></a>
 - t-001
-  global_id: t-202026
   teiginys: "Metinis prekybos ciklas, susijęs su vandens kelių būkle, lėmė, kad rudeniop į Kauną atp laukiantys Dancigo pirkliai ir kiti hanziečiai ar jų padėjėjai turėdavo čia išbūti iki pavasario, kad per žiemą sukaupę prekių ir sulaukę ledonešio galėtų išplaukti atgal."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185373
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -74,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202026
+    - t-001

@@ -36,9 +36,8 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
 
 ## Teiginiai
 
-<a id="claim-t-45693"></a>
-- t-001
-  global_id: t-45693
+<a id="claim-t-45692"></a>
+- t-003
   teiginys: "„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,9 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Lenkai (0.70)"
   pagrindžia:
-    - c-23832
     - c-48410
+    - c-23832
+
 ## Citatos
 
 - id: c-23832
@@ -66,16 +66,15 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas.
-  citata_rodoma: |
-    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
-    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
-    darbas.
+  citata_rodoma: "Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų\nEuropos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų\ndarbas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-48410
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -86,15 +85,11 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
     veidas.
-  citata_rodoma: |
-    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
-    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
-    darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
-    veidas.
+  citata_rodoma: "Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų \nEuropos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų \ndarbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio \nveidas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45693
+    - t-003

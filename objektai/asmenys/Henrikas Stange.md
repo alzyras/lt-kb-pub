@@ -32,7 +32,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 
 <a id="claim-t-60319"></a>
 - t-001
-  global_id: t-60319
   teiginys: "Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60319
+    - t-001
+
 ## Ryšiai
 - Henrikas Stange surengė žygį į [[objektai/vietos/Semba]]

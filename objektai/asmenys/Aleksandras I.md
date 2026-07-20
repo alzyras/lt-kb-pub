@@ -40,9 +40,8 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 
 ## Teiginiai
 
-<a id="claim-t-75654"></a>
-- t-001
-  global_id: t-75654
+<a id="claim-t-75651"></a>
+- t-004
   teiginys: "Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 
 <a id="claim-t-75652"></a>
 - t-002
-  global_id: t-75652
   teiginys: "Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     - c-73370
 
 <a id="claim-t-75653"></a>
-- t-003
-  global_id: t-75653
+- t-001
   teiginys: "Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     - c-21556
 
 <a id="claim-t-183518"></a>
-- t-004
-  global_id: t-183518
+- t-005
   teiginys: "Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -137,18 +133,15 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam
     Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,
     kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.
-  citata_rodoma: |
-    Universiteto globėju iki
-    1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam
-    Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,
-    kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.
+  citata_rodoma: "Universiteto globėju iki\n1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam\nJerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,\nkurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75653
+    - t-001
+
 - id: c-73370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,22 +158,16 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
     vos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė
     Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai di-
     nastijai.
-  citata_rodoma: |
-    L I E T U V O S  I S T O R I J A
-    104
-    1830–1831 metų sukilimas
-    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
-    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
-    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
-    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n104\n1830–1831 metų sukilimas \nAleksandras I nutarė nekeršyti ištikimybės priesaiką jam \nsulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad \nmilžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų \nturėjo skaudžių pasekmių ekonomikai. Kai 1815 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75654
-    - t-75652
+    - t-004
+    - t-002
+
 - id: c-166912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,4 +188,4 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183518
+    - t-005

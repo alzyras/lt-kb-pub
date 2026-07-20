@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-100223"></a>
 - t-001
-  global_id: t-100223
   teiginys: "Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ media_all_json: |-
 
     (^37) **DlugO, XIII, 119 p.**
     (^38) **DlugO, XIII, 29, 119 p.**
-  citata_rodoma: |
-    : _Kovos bruožai dėl Žemaičių ir jų
-    sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
-
-    (^37) **DlugO, XIII, 119 p.
+  citata_rodoma: ": _Kovos bruožai dėl Žemaičių ir jų\nsienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_\n\n(^37) **DlugO, XIII, 119 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100223
+    - t-001

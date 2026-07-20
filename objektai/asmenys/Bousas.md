@@ -39,7 +39,6 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 
 <a id="claim-t-190088"></a>
 - t-001
-  global_id: t-190088
   teiginys: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 
 <a id="claim-t-194699"></a>
 - t-002
-  global_id: t-194699
   teiginys: "Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190088
+    - t-001
+
 - id: c-177095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -108,4 +107,4 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194699
+    - t-002

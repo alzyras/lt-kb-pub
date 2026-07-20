@@ -30,9 +30,8 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
 
 <a id="claim-t-191622"></a>
 - t-001
-  global_id: t-191622
   teiginys: "Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,27 +48,7 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174504
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
-    ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
-    Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
-    ro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­
-    jais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,
-    grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
-    Transilvanijoje. Tai rašome vien todėl, kad nepraleistume nieko, kas
-    mums šiuo klausimu žinoma. Skaitytojas pats nuspręs, kuris teisus*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191622
+
 ## Citatos
 
 - id: c-174504
@@ -77,24 +56,6 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jiems giminin­
-    gi trakai taip pat IV amžiuje prieš Kristaus giminių
-    prasibrovė nuo Dunojaus pusės j Skitiją ir gal ilgam
-    būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
-    sutriuškinti galų. Vėliau, 358 metais prieš Kristaus gi­
-    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
-    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
-    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
-    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
-    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
-    dame prisiminimų apie skitų genčių susidūrimą su Pi­
-    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
-    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
-    vo priversta prašyti Aleksandro taikos ir santarvės, o
-    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
-    skitai taip ir liko priklausomi nuo Makedonijos galybės
-    ir buvo tolydžio puldinėjami Uždonės tautų2.
-  citata_rodoma: |
     Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
     ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių
     Voluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-
@@ -103,10 +64,11 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
     grįždamas susitiko su neurais Galicijos pasienyje bei androfagais
     Transilvanijoje. Tai rašome vien todėl, kad nepraleistume nieko, kas
     mums šiuo klausimu žinoma. Skaitytojas pats nuspręs, kuris teisus*.
+  citata_rodoma: "Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-\nro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių\nVoluinės, Minsko ir Lietuvos gubernijų, o atgal grįžo dešiniąja Dnest-\nro pakrante. Ten keliaudamas susidūrė su budinais, Polesės gyvento­\njais, melanchlenais, estais, o galbūt ir androfagais, i. y. samojedals,\ngrįždamas susitiko su neurais Galicijos pasienyje bei androfagais\nTransilvanijoje. Tai rašome vien todėl, kad nepraleistume nieko, kas\nmums šiuo klausimu žinoma. Skaitytojas pats nuspręs, kuris teisus*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191622
+    - t-001

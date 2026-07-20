@@ -39,7 +39,6 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 <a id="claim-t-19108"></a>
 - t-001
-  global_id: t-19108
   teiginys: "1922 m. Liucijano Želigovskio užimtoje „Vidurinėje Lietuvoje“ su Vilniumi balsuota už šios teritorijos tapimą Lenkijos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,14 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: |
-    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+  citata_rodoma: "durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19108
+    - t-001
+
 ## Ryšiai
 - Liucijanas Želigovskis užėmė [[objektai/vietos/Vilnius]]

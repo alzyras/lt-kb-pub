@@ -9,13 +9,13 @@ datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-114162"></a>
-- t-001
-  global_id: t-114162
+- t-002
   teiginys: "1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-105319
 
 <a id="claim-t-114163"></a>
-- t-002
-  global_id: t-114163
+- t-001
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ media_all_json: |-
 
 <a id="claim-t-184934"></a>
 - t-004
-  global_id: t-184934
   teiginys: "Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168295
-    - c-003
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
 - susijęs iš [[objektai/autoriai/Eustachijus Tiškevičius.md#claim-t-191564|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
@@ -123,30 +119,6 @@ media_all_json: |-
 - susijęs iš Nemunas: Narbuto pasakojime vilkų tauta nuo Neries žiočių dešiniuoju Nemuno krantu pasiekė Dubysą.
 - susijęs iš Pripetė: Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių.
 - susijęs iš Minskas: Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Ga­
-    vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
-    kis tūkstančius algininkų bei didikų kariaunas ir ka­
-    rališkąsias vėliavas, o netrukus ir pats skubiai patrau­
-    kė paskui išsiųstąją kariuomenę sutelkęs pašauktinių
-    bajorų jėgas ir valstybės viduje įsikūrusių skitų bū­
-    rius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
-    priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
-    kariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­
-    damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
-    jo per mažai karių. Jį atsitraukiantį atkakliai perse­
-    kiojo karalius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184934
 ## Citatos
 
 - id: c-105319
@@ -174,27 +146,15 @@ media_all_json: |-
     taip netvirtus bernardinų pastatų
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: |
-    51
-    Karalius Aleksandras savo sprendi­
-    mu, datuotu Borisove 1500 m. (feria
-    quinta in octava Visitationis Beatae
-    Virginis Mariae - ketvirtadienį Švč.
-    Mergelės Marijos Apsilankymo ok­
-    tavoje), bernardinų prašymu, prie
-    vienuolyno esantį savo malūną įsa­
-    ko nugriauti, kadangi šis dėl drebė­
-    jimo malimo metu išjudino jau ir
-    taip netvirtus bernardinų pastatų
-    pamatus, o sklvpą, kuriame malū­
-    nas stovėjo, atiduoda vienuolynui.
+  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114162
+    - t-002
+
 - id: c-167165
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -239,36 +199,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114163
+    - t-001
+
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Su šiais pagalbinin­
-    kais Mykolas privertė jam paklusti kunigaikščius Druč­
-    kius ir Mstislavlio kunigaikštį Mykolą Lengvenaitį,
-    užėmė Gomelį, Kryčevą, Oršą bei apylinkes ir įkurdi­
-    no ten maskvėnų įgulas, užkariavo didelę Baltarusi­
-    jos, Seversko žemės ir Polesės dalį ir vėl patraukė į
-    Slucką, manydamas, jog Anastazija nesipriešins palauž­
-    ta baimės ir gandų apie jo karių sėkmingus žygius. Iš
-    arti patyręs, jog viskas klostosi visai kitaip, nei tikė­
-    josi, jis pasiuntė niokotojus net ligi pat Vilniaus, o
-    pats su likusia kariuomene patraukė į Naugarduką.
-    Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
-    raliaus kariuomenė. Pasiun-
-    P erein a
-    į
-    M a sk v o s
-    tęs į Maskvos kunigaikštys-
-    k u n ig a ik š ty s tę
-    tę brolį Vosylių su visais
-    globotiniais, jų žmonomis bei
-    vaikais ir visomis brangenybėmis, pats, kurį metą už­
-    trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
-    savuosius.
-  citata_rodoma: |
     Ga­
     vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­
     kis tūkstančius algininkų bei didikų kariaunas ir ka­
@@ -281,12 +218,14 @@ media_all_json: |-
     damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
     jo per mažai karių. Jį atsitraukiantį atkakliai perse­
     kiojo karalius.
+  citata_rodoma: "Ga­\nvęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­\nkis tūkstančius algininkų bei didikų kariaunas ir ka­\nrališkąsias vėliavas, o netrukus ir pats skubiai patrau­\nkė paskui išsiųstąją kariuomenę sutelkęs pašauktinių\nbajorų jėgas ir valstybės viduje įsikūrusių skitų bū­\nrius. Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės\npriekaištų, gal iš pagarbos karaliui, pirmiausia su savo\nkariais nužygiavo į Borisovą, o iš ten į Oršą, nedrįs­\ndamas stoti į atvirą kovą veikiausiai dėl to, kad turė­\njo per mažai karių. Jį atsitraukiantį atkakliai perse­\nkiojo karalius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184934
+    - t-004
+
 ## Ryšiai
 - Užėmė Borisovą: [[objektai/grupes/Totorių pajėgos]]

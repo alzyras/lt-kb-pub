@@ -39,7 +39,6 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
 
 <a id="claim-t-30990"></a>
 - t-001
-  global_id: t-30990
   teiginys: "St. Krakowskis tiksliai įvertino ginčą dėl Karijotaičių ir Podolės klausimo XIV a. naujausioje lenkų istoriografijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,14 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — Gana tiksliai visą ginčą įvertino St. Krakowski :**
+    2, 334-347 p. — Gana tiksliai visą ginčą įvertino St. Krakowski :**
     **_Korjatowicze i sprawa Podolska w XIV w. w oświetleniu najnowszej historjo-
-    grafii polskiej_** **, AW, t. 13, sąs. 1, 1938, 250-274 p.
-  citata_rodoma: |
-    — Gana tiksliai visą ginčą įvertino St. Krakowski :**
-    **_Korjatowicze i sprawa Podolska w XIV w. w oświetleniu najnowszej historjo-
-    grafii polskiej_** **, AW, t. 13, sąs. 1, 1938, 250-274 p.
+    grafii polskiej_** **, AW, t. 13, sąs. 1, 1938, 250-274 p.**
+  citata_rodoma: "— Gana tiksliai visą ginčą įvertino St. Krakowski :**\n**_Korjatowicze i sprawa Podolska w XIV w. w oświetleniu najnowszej historjo-\ngrafii polskiej_** **, AW, t. 13, sąs. 1, 1938, 250-274 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30990
+    - t-001

@@ -36,7 +36,6 @@ Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją 
 
 <a id="claim-t-67521"></a>
 - t-001
-  global_id: t-67521
   teiginys: "Privilegija nustatė, kad bajorai galėjo laisvai valdyti savo žemes, bet turėjo atlikti karo tarnybą ir taisyti bei statyti pilis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją 
     turėti jokių kitų prievolių, kaip tik karo tarnybą ir pilių taisymą
     bei statymą. Tai buvo pirmoji privilegiją, padėjusi pagrindus
     bajorijai vėliau iškilti.
-  citata_rodoma: |
-    Privilegijoje
-    nustatoma, kad bajorai laisvai galį valdyti savo žemes ir negalį
-    turėti jokių kitų prievolių, kaip tik karo tarnybą ir pilių taisymą
-    bei statymą.
+  citata_rodoma: "Privilegijoje\nnustatoma, kad bajorai laisvai galį valdyti savo žemes ir negalį\nturėti jokių kitų prievolių, kaip tik karo tarnybą ir pilių taisymą\nbei statymą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67521
+    - t-001

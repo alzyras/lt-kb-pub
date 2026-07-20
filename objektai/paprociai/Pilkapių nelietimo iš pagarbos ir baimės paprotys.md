@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-192104"></a>
 - t-001
-  global_id: t-192104
   teiginys: "Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -68,12 +67,10 @@ Nenurodyta
   pagrindžia:
     - c-174973
 
-## Citatos
-
-- id: c-174973
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.
@@ -95,7 +92,19 @@ Nenurodyta
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Vis dėlto pilkapius visuomet gaubė dabartinės mū-
     sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors
     nelaiko jų savo tautos protėvių kapais, tačiau iš pagar-
@@ -103,10 +112,11 @@ Nenurodyta
     da nesiryžta paliesti jų nei noragu, nei kitais įrankiais,
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
+  citata_rodoma: "Vis dėlto pilkapius visuomet gaubė dabartinės mū-\nsų kraštiečių kartos pagarba. Šiandien kaimiečiai nors\nnelaiko jų savo tautos protėvių kapais, tačiau iš pagar-\nbos po jais besiilsinčios genties žmonių palaikams nieka-\nda nesiryžta paliesti jų nei noragu, nei kitais įrankiais,\no juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury\nlaukų, tarp pastatų ir gerokai trukdo, jie jų neliečia."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192104
+    - t-001

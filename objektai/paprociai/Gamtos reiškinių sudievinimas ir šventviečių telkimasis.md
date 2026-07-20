@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54232"></a>
 - t-001
-  global_id: t-54232
   teiginys: "Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-55137
 
 <a id="claim-t-183310"></a>
-- t-002
-  global_id: t-183310
+- t-003
   teiginys: "Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,21 +98,15 @@ Nenurodyta
     religinės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai
     visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
     ir vandenyje – matę šventybės raišką.
-  citata_rodoma: |
-    Romantikai
-    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
-    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
-    mėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai
-    religinės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai
-    visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
-    ir vandenyje – matę šventybės raišką.
+  citata_rodoma: "Romantikai \nieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų, \ntaigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-\nmėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai \nreliginės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai \nvisur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje \nir vandenyje – matę šventybės raišką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54232
+    - t-001
+
 - id: c-166700
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,4 +124,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183310
+    - t-003

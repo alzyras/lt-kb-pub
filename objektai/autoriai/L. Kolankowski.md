@@ -46,8 +46,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 ## Teiginiai
 
 <a id="claim-t-12253"></a>
-- t-001
-  global_id: t-12253
+- t-002
   teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     - c-13917
 
 <a id="claim-t-12254"></a>
-- t-002
-  global_id: t-12254
+- t-003
   teiginys: "L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,33 +79,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
 - susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
 - susijęs iš Koložas: Koložas buvo Gardino priemiestis.
-## Reikšmingi paminėjimai
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
-    — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
-    giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kolankowski, L.: _Problem Krymu
-    w dziejach jagiellońskich,_ KH, t. 49, 1935., 279-300 p. — Koneczny,
-    F. : _Witold wobec Rusi,_ Dzień Kowieński, 1930, nr. 204 (Vytautui skirtas
-    specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
-    Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-13916
@@ -125,7 +96,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12253
+    - t-002
+
 - id: c-13917
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -141,7 +113,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12253
+    - t-002
+
 - id: c-13918
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -154,15 +127,42 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     net buvęs Kęstučio kalintas. Bet jo patiekiami argumentai nestiprūs. Vie­
     na, kad šaltinis vėlyvas, o antra, kad ir tekstą aiškinti taip, kaip aiškina
     Kolankovskis, negalima.
-  citata_rodoma: |
-    (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
-    kovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik
-    brolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas
-    net buvęs Kęstučio kalintas.
+  citata_rodoma: "(^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­\nkovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik\nbrolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas\nnet buvęs Kęstučio kalintas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12254
+    - t-003
+
+- id: c-65344
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
+    — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
+    giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
+  citata_rodoma: "Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­\ngiellonów,_ I, 1930, 11-51 p."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-65345
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kolankowski, L.: _Problem Krymu
+    w dziejach jagiellońskich,_ KH, t. 49, 1935., 279-300 p. — Koneczny,
+    F. : _Witold wobec Rusi,_ Dzień Kowieński, 1930, nr. 204 (Vytautui skirtas
+    specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
+    Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

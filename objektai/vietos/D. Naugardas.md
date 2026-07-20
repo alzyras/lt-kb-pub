@@ -33,7 +33,6 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 
 <a id="claim-t-67769"></a>
 - t-001
-  global_id: t-67769
   teiginys: "Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,12 +53,11 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
     žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo
     pilis. Šitiems žygiams jie rado ir talkininkų. Tai buvo galinga
     D. Naugardo miestiečių valstybė.
-  citata_rodoma: |
-    D. Naugardo miestiečių valstybė.
+  citata_rodoma: "D. Naugardo miestiečių valstybė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67769
+    - t-001

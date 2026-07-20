@@ -47,8 +47,7 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 ## Teiginiai
 
 <a id="claim-t-192227"></a>
-- t-001
-  global_id: t-192227
+- t-002
   teiginys: "Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,8 +65,7 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
     - c-175076
 
 <a id="claim-t-197697"></a>
-- t-002
-  global_id: t-197697
+- t-003
   teiginys: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera mus, ir priešingo būdvardžiui Romus, ramus3."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,14 +92,12 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
     X amžiuje. Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
     rusų variagų4.
-  citata_rodoma: |
-    Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­
-    mus, ir priešingo būdvardžiui Romus, ramus3.
+  citata_rodoma: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­\nmus, ir priešingo būdvardžiui Romus, ramus3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192227
-    - t-197697
+    - t-002
+    - t-003

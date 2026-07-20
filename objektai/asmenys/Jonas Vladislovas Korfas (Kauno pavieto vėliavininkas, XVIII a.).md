@@ -38,7 +38,6 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
 
 <a id="claim-t-200504"></a>
 - t-001
-  global_id: t-200504
   teiginys: "Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
 
 <a id="claim-t-200505"></a>
 - t-002
-  global_id: t-200505
   teiginys: "1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -85,21 +83,9 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    Ne kartą laiškuose buvo minimi mokėjimai ir skolos. 1749 m. J. D. Lopacinskis Belzo
-    vaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno
-    pavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-
-    dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7].
-  citata_rodoma: |
-    1749 m. J. D. Lopacinskis Belzo
-    vaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno
-    pavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-
-    dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200504
-    - t-200505
+    - t-001
+    - t-002

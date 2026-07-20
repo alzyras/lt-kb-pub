@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-171389"></a>
-- t-001
-  global_id: t-171389
+- t-002
   teiginys: "Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-167060
 
 <a id="claim-t-171391"></a>
-- t-002
-  global_id: t-171391
+- t-001
   teiginys: "Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ media_all_json: |-
 
 <a id="claim-t-171392"></a>
 - t-003
-  global_id: t-171392
   teiginys: "Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -83,7 +80,6 @@ media_all_json: |-
 
 <a id="claim-t-183668"></a>
 - t-004
-  global_id: t-183668
   teiginys: "Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -138,7 +134,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171391
+    - t-001
+
 - id: c-42945
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,7 +160,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171392
+    - t-003
+
 - id: c-167060
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -199,5 +197,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171389
-    - t-183668
+    - t-002
+    - t-004

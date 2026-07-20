@@ -63,77 +63,10 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - susiję žmonės:
 - susiję įvykiai:
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187809"></a>
-- t-001
-  global_id: t-187809
-  teiginys: 'Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie taurės raižinius ir simbolius, paremtas citata. Jame sąmoningai nevardijami visi simboliai, nes citata leidžia glaustą apibendrinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie taurės raižinius ir simbolius, paremtas citata. Jame sąmoningai nevardijami visi simboliai, nes citata leidžia glaustą apibendrinimą.'
-  pagrindžia:
-    - c-170766
-
-<a id="claim-t-187810"></a>
-- t-002
-  global_id: t-187810
-  teiginys: 'Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas gramatinis sakinys apie masonų apeigų taurę ir tiksliai atitinka citatos turinį. Papildomos atribucijos nereikia, nes tai aprašomasis muziejinio objekto faktas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas gramatinis sakinys apie masonų apeigų taurę ir tiksliai atitinka citatos turinį. Papildomos atribucijos nereikia, nes tai aprašomasis muziejinio objekto faktas.'
-  pagrindžia:
-    - c-170766
-
-<a id="claim-t-187811"></a>
-- t-003
-  global_id: t-187811
-  teiginys: 'Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatinis ir tiesiogiai paremtas citata apie išgraviruotą datą. Papildomų interpretacijų apie Narbuto narystę nepridėta.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatinis ir tiesiogiai paremtas citata apie išgraviruotą datą. Papildomų interpretacijų apie Narbuto narystę nepridėta.'
-  pagrindžia:
-    - c-170766
-
-<a id="claim-t-188384"></a>
-- t-004
-  global_id: t-188384
-  teiginys: 'Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1817 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  pagrindžia:
-    - c-170766
-- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
-- susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188045|Lietuvos masonų organizacijos]]: Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją.
-- susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
-- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
-- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188483|Teodoras Narbutas]]: Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.
-- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.
-## Šaltiniai ir įrodymai
-
-Nenurodyta
-
-## Citatos
-
-- id: c-170766
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­
     luoti masonų organizacijose. Lietuvos istorijos ir etnografijos
@@ -153,14 +86,26 @@ Nenurodyta
     čiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4.
-  citata_rodoma: "Visuomenės švietimo ir ugdymo uždaviniai buvo suformu­\nluoti masonų organizacijose. Lietuvos istorijos ir etnografijos\nmuziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­\nbutas. Viename taurės šone išraižytas įrašas „Teodor Narbutt“,\n7\n\n## Puslapis 7\n\ns\ns\nkitame -  staltiese užtiestas stalas, ant kurio padėta žmogaus\nkaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, pa­\nstatytos svarstyklės, žiūronas ir deganti žvakė, į kurios šviesą\nskrenda drugelis. Masonų organizacijose kampainis simboli­\nzavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­\nčiausiąjį protą. Ant taurės išgraviruota data -  „1817 m.“ R. Kli­\nmavičiaus nuomone, tais metais T. Narbutas įstojo į masonų\norganizaciją4."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187809
-    - t-187810
-    - t-187811
-    - t-188384
+  statusas: verified
+- t-001
+    - t-003
+    - t-004
+
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
+## Teiginiai
+
+- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
+- susijęs iš [[objektai/grupes/Lietuvos masonų organizacijos.md#claim-t-188045|Lietuvos masonų organizacijos]]: Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją.
+- susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
+- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
+- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
+- susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
+- susijęs iš [[objektai/autoriai/T. Narbutas.md#claim-t-188483|Teodoras Narbutas]]: Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio.
+- susijęs iš Revelis: Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu.

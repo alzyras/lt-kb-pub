@@ -39,8 +39,7 @@ Vartojamos formos: `pažines`.
 ## Teiginiai
 
 <a id="claim-t-70033"></a>
-- t-001
-  global_id: t-70033
+- t-003
   teiginys: "`Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Vartojamos formos: `pažines`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70033
+    - t-003

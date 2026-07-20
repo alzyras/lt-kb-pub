@@ -39,8 +39,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 ## Teiginiai
 
 <a id="claim-t-71963"></a>
-- t-001
-  global_id: t-71963
+- t-003
   teiginys: "Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - c-70431
 
 <a id="claim-t-71964"></a>
-- t-002
-  global_id: t-71964
+- t-001
   teiginys: "Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - c-70431
 
 <a id="claim-t-183623"></a>
-- t-003
-  global_id: t-183623
+- t-004
   teiginys: "Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,21 +112,16 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: |
-    Paskutinė federacijos su Lenkija galimybė
-    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
-    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
-    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
-    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m.
+  citata_rodoma: "Paskutinė federacijos su Lenkija galimybė\nNeturėdama pakankamai karinių jėgų Lietuva nesugebėjo\napjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą\ngyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-\nki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-\ncialinį atspalvį – 1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71963
-    - t-71964
+    - t-003
+    - t-001
+
 - id: c-167015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,4 +141,4 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183623
+    - t-004

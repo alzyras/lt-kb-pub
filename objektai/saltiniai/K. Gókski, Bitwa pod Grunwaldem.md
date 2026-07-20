@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-31754"></a>
 - t-001
-  global_id: t-31754
   teiginys: "„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,13 +64,11 @@ media_all_json: |-
     _Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
-  citata_rodoma: |
-    : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
-    nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
+  citata_rodoma: ": _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31754
+    - t-001

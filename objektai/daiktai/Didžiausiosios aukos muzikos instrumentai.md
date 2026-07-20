@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189682"></a>
 - t-001
-  global_id: t-189682
   teiginys: "Narbutas rašo, kad per nuolatinę auką tam tikromis valandomis buvo meldžiamasi skambant tam tikriems muzikos instrumentams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189682
+    - t-001

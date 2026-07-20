@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-185278"></a>
 - t-001
-  global_id: t-185278
   teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ media_all_json: |-
   semantiniai_rysiai: "Šindekopfas užėmė Bajorų pilaitė (0.93)"
   pagrindžia:
     - c-168639
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
@@ -76,8 +75,7 @@ media_all_json: |-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185278
+
 ## Citatos
 
 - id: c-168639
@@ -107,29 +105,14 @@ media_all_json: |-
     sirengusių karių, o gal dėl kitos priežasties daugiau
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
     puolė.
-  citata_rodoma: |
-    Mat Algirdas ir Kęs­
-    tutis, suprasdami, jog ši prie pat Kauno esanti pilis —
-    nelyginant žaboklės, uždėtos
-    A lg ird a s
-    su griau n a
-    Lietuvai, nutarė trūks plyš
-    k ry žiu o č ių  p ilį
-    ją sunaikinti ir po ištisas
-    penkias savaites užtrukusių
-    atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
-    matų. Nuliūdęs ir pasipiktinęs Šindekopfas patraukė
-    su kariuomene prie Bajorų pilaitės ir netrukus ją už­
-    grobė. Kęstutis gal dėl to, kad mažai turėjo kovai pa­
-    sirengusių karių, o gal dėl kitos priežasties daugiau
-    grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
-    puolė.
+  citata_rodoma: "Mat Algirdas ir Kęs­\ntutis, suprasdami, jog ši prie pat Kauno esanti pilis —\nnelyginant žaboklės, uždėtos\nA lg ird a s\nsu griau n a\nLietuvai, nutarė trūks plyš\nk ry žiu o č ių  p ilį\nją sunaikinti ir po ištisas\npenkias savaites užtrukusių\natkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­\nmatų. Nuliūdęs ir pasipiktinęs Šindekopfas patraukė\nsu kariuomene prie Bajorų pilaitės ir netrukus ją už­\ngrobė. Kęstutis gal dėl to, kad mažai turėjo kovai pa­\nsirengusių karių, o gal dėl kitos priežasties daugiau\ngrasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų\npuolė."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185278
+    - t-001
+
 ## Ryšiai
 - Užėmė Bajorų pilaitę: [[objektai/asmenys/Šindekopfas]]

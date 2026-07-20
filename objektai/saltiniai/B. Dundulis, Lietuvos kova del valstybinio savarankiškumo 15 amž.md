@@ -38,7 +38,6 @@ Dundulis, B.
 
 <a id="claim-t-31623"></a>
 - t-001
-  global_id: t-31623
   teiginys: "B. Dundulio „Lietuvos kova dėl valstybinio savarankiškumo 15 amž.“ išleista Vilniuje 1968 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,11 @@ Dundulis, B.
     1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
     Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
     wielki książę Litwy_ , Vilnius 1930.
-  citata_rodoma: |
-    —Dundulis, B. : _Lietuvos kova del valstybinio sava­
-    rankiškumo 15 amž._ , Vilnius 1968. — Ekdahl, S. : _Der Krieg zwischen
-    dem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t.
+  citata_rodoma: "—Dundulis, B. : _Lietuvos kova del valstybinio sava­\nrankiškumo 15 amž._ , Vilnius 1968. — Ekdahl, S. : _Der Krieg zwischen\ndem Deutschen Orden und Polen-Litauen im Jahre 1422_ , ZfO, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31623
+    - t-001

@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-172033"></a>
-- t-001
-  global_id: t-172033
+- t-026
   teiginys: "Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ media_all_json: |-
     - c-43965
 
 <a id="claim-t-172035"></a>
-- t-002
-  global_id: t-172035
+- t-024
   teiginys: "Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ media_all_json: |-
     - c-156468
 
 <a id="claim-t-172037"></a>
-- t-003
-  global_id: t-172037
+- t-025
   teiginys: "Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ media_all_json: |-
     - c-43964
 
 <a id="claim-t-172038"></a>
-- t-004
-  global_id: t-172038
+- t-027
   teiginys: "Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,20 +137,15 @@ media_all_json: |-
     toliau - palei Vilniaus-Lydos geležinkelį iki
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
-  citata_rodoma: |
-    Galiausiai spalio 7 d. buvo nusta-
-    tyta demarkacinė linija nuo Vokietijos sienos
-    iki Juodosios Ančios ir Nemuno santakos,
-    toliau - palei Vilniaus-Lydos geležinkelį iki
-    Bastūnų stoties. Varėnos ir Bastūnų stotys
-    liko lenkams.
+  citata_rodoma: "Galiausiai spalio 7 d. buvo nusta-\ntyta demarkacinė linija nuo Vokietijos sienos\niki Juodosios Ančios ir Nemuno santakos,\ntoliau - palei Vilniaus-Lydos geležinkelį iki\nBastūnų stoties. Varėnos ir Bastūnų stotys\nliko lenkams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172037
+    - t-025
+
 - id: c-43965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,16 +154,15 @@ media_all_json: |-
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio.
-  citata_rodoma: |
-    Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
-    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
+  citata_rodoma: "Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-\nnys nuvyko į Varėną, iš ten per Alytų į Šeštokus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172033
+    - t-026
+
 - id: c-156467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,18 +173,15 @@ media_all_json: |-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
     grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
     nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
-  citata_rodoma: |
-    Traukinys savo patrankomis ir kul-
-    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
-    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
-    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
+  citata_rodoma: "Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“\ngrižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,\nnuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172038
+    - t-027
+
 - id: c-156468
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,15 +193,11 @@ media_all_json: |-
     troliuojamą Lietuvos teritoriją iš rytų.
 
     Spalio 3 d. lenkai užima Varėnos stotį.
-  citata_rodoma: |
-    sugrįžti į Lietuvos kariuomenės kon-
-    troliuojamą Lietuvos teritoriją iš rytų.
-
-    Spalio 3 d. lenkai užima Varėnos stotį.
+  citata_rodoma: "sugrįžti į Lietuvos kariuomenės kon-\ntroliuojamą Lietuvos teritoriją iš rytų.\n\nSpalio 3 d. lenkai užima Varėnos stotį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172035
+    - t-024

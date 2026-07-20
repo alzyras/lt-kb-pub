@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08323"></a>
 - t-001
-  global_id: t-08323
   teiginys: "Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,14 +83,11 @@ Nenurodyta
     kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su
         pačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas
         save atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė.
-  citata_rodoma: |
-    kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su
-    pačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas
-    save atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė.
+  citata_rodoma: "kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su\npačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas\nsave atvesti ir taip, veizėdami į jį, kaipo į savo draugą laimės ir nelaimės, numirė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08323
+    - t-001

@@ -5,19 +5,20 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1578 m.'
   - '1824 m.'
 date_start: '1578'
 date_end: '1824'
+amziai:
+  - 'XVI'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XVI'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-114776"></a>
-- t-001
-  global_id: t-114776
+- t-002
   teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +60,7 @@ media_all_json: |-
     - c-105804
 
 <a id="claim-t-114777"></a>
-- t-002
-  global_id: t-114777
+- t-001
   teiginys: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -76,6 +75,18 @@ media_all_json: |-
   semantiniai_rysiai: "Rusai puolė Mogiliavas (0.88); Rusai puolė Šklovas (0.84)"
   pagrindžia:
     - c-105805
+
+<a id="claim-t-201634"></a>
+- t-003
+  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184981
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
 - susijęs iš Mstislavlis: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.
 - susijęs iš [[objektai/asmenys/M. K. Pacas.md#claim-t-40314|M. K. Pacas]]: Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą.
@@ -108,7 +119,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114776
+    - t-002
+
 - id: c-105805
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,4 +140,20 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114777
+    - t-001
+
+- id: c-184981
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Pagal jį Vilniui buvo skirta 500 kapų grašių norma. Kaunas šį kartą turėjo
+    mokėti mažiau - 100 kapų grašių. Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Bres-
+    tas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

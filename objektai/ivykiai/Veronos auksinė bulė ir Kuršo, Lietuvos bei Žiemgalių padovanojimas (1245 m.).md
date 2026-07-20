@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31483"></a>
 - t-001
-  global_id: t-31483
   teiginys: "Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,17 +84,11 @@ Nenurodyta
     Dar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­
     dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
     Romos kurijos globa.
-  citata_rodoma: |
-    Jiems Fridrichas II vadinamoje
-    _auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo
-    Kuršą, Lietuvą ir Žiemgalius.
-    Dar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­
-    dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
-    Romos kurijos globa.
+  citata_rodoma: "Jiems Fridrichas II vadinamoje\n_auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo\nKuršą, Lietuvą ir Žiemgalius.\nDar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­\ndinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga\nRomos kurijos globa."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31483
+    - t-001

@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-60216"></a>
 - t-001
-  global_id: t-60216
   teiginys: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-60217"></a>
 - t-002
-  global_id: t-60217
   teiginys: "1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ media_all_json: |-
     - c-60848
 
 <a id="claim-t-194522"></a>
-- t-003
-  global_id: t-194522
+- t-005
   teiginys: "Apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,10 +91,54 @@ media_all_json: |-
   pagrindžia:
     - c-60849
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-62134|Kristaus kūno šventės šventimas]]: 1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+## Citatos
+
+- id: c-60848
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    46. Apie Sicilijos karalystės dovanojimą Karoliui
+
+      1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
+    ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
+    norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
+  citata_rodoma: "Apie Sicilijos karalystės dovanojimą Karoliui\n\n  1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui\nir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,\nnorėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-60849
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie Kristaus kūno šventės įsteigimą
+
+      1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
+    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
+    (Ptol. 22, 23—25).
+
+
+
+                      46.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-005
+
+- id: c-168211
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Smarkiai su­
     stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
@@ -123,56 +164,8 @@ media_all_json: |-
     saugesnio uosto, perėjo pas kryžiuočius. Čia, kaip ir
     vylėsi, Konradas Celneris, ordino magistras, visokerio­
     pai parėmė jo sumanymus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-## Citatos
-
-- id: c-60848
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Apie Sicilijos karalystės dovanojimą Karoliui
-
-      1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
-    ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
-    norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
-  citata_rodoma: |
-    Apie Sicilijos karalystės dovanojimą Karoliui
-
-      1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
-    ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
-    norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60217
-- id: c-60849
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Apie Kristaus kūno šventės įsteigimą
-
-      1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
-    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
-    (Ptol. 22, 23—25).
-
-
-
-                      46.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-60216
-    - t-194522

@@ -8,12 +8,12 @@ datos:
   - '1999 m.'
 date_start: '1983'
 date_end: '1999'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'XX a.'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Chicago, 1983; Rimša Edmundas.
 
 <a id="claim-t-202207"></a>
 - t-001
-  global_id: t-202207
   teiginys: "Chicago, 1983; Rimša Edmundas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Chicago, 1983; Rimša Edmundas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202207
+    - t-001

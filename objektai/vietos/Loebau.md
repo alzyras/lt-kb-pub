@@ -31,7 +31,6 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 
 <a id="claim-t-28395"></a>
 - t-001
-  global_id: t-28395
   teiginys: "Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 
 <a id="claim-t-184392"></a>
 - t-002
-  global_id: t-184392
   teiginys: "Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28395
+    - t-001
+
 - id: c-167760
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -104,4 +103,4 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184392
+    - t-002

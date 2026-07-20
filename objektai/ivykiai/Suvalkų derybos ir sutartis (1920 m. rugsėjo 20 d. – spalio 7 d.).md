@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-66915"></a>
 - t-001
-  global_id: t-66915
   teiginys: "Suvalkų derybos baigėsi susitarimu, kurį Lietuva ir Lenkija pasirašė 1920 m. spalio 7 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,13 +71,11 @@ Nenurodyta
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-  citata_rodoma: |
-    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
-    lys pasirašė 1920 metų spalių mėn. 7 d.
+  citata_rodoma: "Suvalkų derybos pasibaigė susitarimu, kurį abi ša-\nlys pasirašė 1920 metų spalių mėn. 7 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66915
+    - t-001

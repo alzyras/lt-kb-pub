@@ -38,7 +38,6 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 
 <a id="claim-t-18874"></a>
 - t-001
-  global_id: t-18874
   teiginys: "Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
     miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
     ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
     galvoji, kiek dar tokių vardų slepia Lietuva?
-  citata_rodoma: |
-    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+  citata_rodoma: "miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18874
+    - t-001

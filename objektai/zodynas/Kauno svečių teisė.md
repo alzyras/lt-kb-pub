@@ -28,7 +28,6 @@ Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta 
 
 <a id="claim-t-201806"></a>
 - t-001
-  global_id: t-201806
   teiginys: "Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201806
+    - t-001

@@ -40,7 +40,6 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 <a id="claim-t-63525"></a>
 - t-001
-  global_id: t-63525
   teiginys: "Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,23 +89,11 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
     „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
     torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
-  citata_rodoma: |
-    Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
-    vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos
-    scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir
-    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
-    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
-    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
-
-    265
-    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
-    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
-    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
-    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
+  citata_rodoma: "Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-\nvičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos \nscenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir \nmokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro \nne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs \nChaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar\n\n265\nPA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I\n„Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-\ntorius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924) \nar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63525
+    - t-001

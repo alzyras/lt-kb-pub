@@ -9,16 +9,16 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - didikas
   - vyskupas
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 ## Teiginiai
 
 <a id="claim-t-113785"></a>
-- t-001
-  global_id: t-113785
+- t-006
   teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104972
 
 <a id="claim-t-113786"></a>
-- t-002
-  global_id: t-113786
+- t-005
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104969
 
 <a id="claim-t-113787"></a>
-- t-003
-  global_id: t-113787
+- t-001
   teiginys: "Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104970
 
 <a id="claim-t-113788"></a>
-- t-004
-  global_id: t-113788
+- t-002
   teiginys: "Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104973
 
 <a id="claim-t-113789"></a>
-- t-005
-  global_id: t-113789
+- t-003
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-104969
 
 <a id="claim-t-184707"></a>
-- t-006
-  global_id: t-184707
+- t-007
   teiginys: "Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-168068
 
 <a id="claim-t-184708"></a>
-- t-007
-  global_id: t-184708
+- t-008
   teiginys: "Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -171,8 +164,7 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     - c-168069
 
 <a id="claim-t-184709"></a>
-- t-008
-  global_id: t-184709
+- t-009
   teiginys: "Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -268,6 +260,46 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jogaila, ne be pagrindo įtardamas,
+    jog visas reikalas kreipiamas
+    J o g a ila
+    n u sp ren d žia
+    į neišvengiamą ginkluotą su-
+    k a riau ti
+    p rieš
+    k r y -
+    sirėmimą, skubiai išvyko į
+    žiu o čiu s
+    Lietuvos Brestą pasitarti dėl
+    karo su skitų chanu ir Vytau­
+    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
+    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
+    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
+    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
+    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
+    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
+    žiuočiai nepajėgsią ilgiau at-
+    S ten giasi
+    p a la ik y ti
+    sispirti; antra vertus, dar te-
+    d ra u g y stę su im pera-
+    begaliojo sutartis, sudaryta
+    to riu m i Z ig m a n tu
+    šešiolikai metų tarp šių šalių
+    valdovų ir Lenkijos bei Lie­
+    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
+    galbos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-104969
@@ -298,8 +330,9 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113786
-    - t-113789
+    - t-005
+    - t-003
+
 - id: c-104970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -320,7 +353,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113787
+    - t-001
+
 - id: c-104972
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -376,7 +410,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113785
+    - t-006
+
 - id: c-104973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -405,42 +440,13 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113788
+    - t-002
+
 - id: c-168068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jogaila, ne be pagrindo įtardamas,
-    jog visas reikalas kreipiamas
-    J o g a ila
-    n u sp ren d žia
-    į neišvengiamą ginkluotą su-
-    k a riau ti
-    p rieš
-    k r y -
-    sirėmimą, skubiai išvyko į
-    žiu o čiu s
-    Lietuvos Brestą pasitarti dėl
-    karo su skitų chanu ir Vytau­
-    tu. Ten jie nusprendė visomis jėgomis pradėti bendrą
-    karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
-    svarbų klausimą, galintį nulemti visų įvykių raidą, bū­
-    tent, kas daryti, kad kryžiuočių pusėje nekariautų nei
-    imperatorius Zigmantas, nei karalius Vaclovas. Jogaila
-    manė, kad, negavę pagalbos iš vengrų bei čekų, kry­
-    žiuočiai nepajėgsią ilgiau at-
-    S ten giasi
-    p a la ik y ti
-    sispirti; antra vertus, dar te-
-    d ra u g y stę su im pera-
-    begaliojo sutartis, sudaryta
-    to riu m i Z ig m a n tu
-    šešiolikai metų tarp šių šalių
-    valdovų ir Lenkijos bei Lie­
-    tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
-    galbos.
-  citata_rodoma: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
     nepaisyti teisėto susitarimo iš palankumo žmonėms, su
     kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
@@ -455,13 +461,15 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     išsiaiškinus, jog imperatorius bei jo brolis neabejingi
     jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  citata_rodoma: "Vis dėlto buvo pamato būgštauti, kad jie gali\nnepaisyti teisėto susitarimo iš palankumo žmonėms, su\nkuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio\nuždavinio: pasikvietęs į palydovus didikus Goštautą,\nRumbaudą bei Radvilą, jis išvyko pas imperatorių.\nPrieš tai susitarė slaptai su karaliumi (apie tai žinojo\ntiktai karalystės pakancleris Trombą), kad, Vytautui\n376\n\n## Puslapis 375\n\nišsiaiškinus, jog imperatorius bei jo brolis neabejingi\njų reikalui, kuo greičiausiai, niekam nieko nesakyda­\nmas, ten išvyks ir Jogaila patvirtinti naujo susitarimo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184707
+    - t-007
+
 - id: c-168069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -482,28 +490,15 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
     kad karalystės luomai nu­
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
-  citata_rodoma: |
-    Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: "Vytautui išėjus, senatas kuo rimčiau­\nsiai paaiškino karaliui, kad, pritardamas pavojingiems ir \nsuktiems imperatoriaus sumanymams, nusileistų žmo­\ngui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos \npriešas, nes šitai esąs parodęs praeityje ne vieną kar­\ntą. Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie- \nIšsiskiisto Lucko su- \ntė Korčine seimą, norėdamas, \nvažiavimo dalyviai \nkad karalystės luomai nu­\nspręstų, kaip dera priešintis \nnesaikingiems Vytauto potroškiams."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184708
+    - t-008
+
 - id: c-168070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -531,7 +526,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184709
+    - t-009
+
 ## Ryšiai
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Tikocinas]]

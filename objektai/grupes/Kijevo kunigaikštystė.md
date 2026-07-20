@@ -38,7 +38,6 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 
 <a id="claim-t-28655"></a>
 - t-001
-  global_id: t-28655
   teiginys: "Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,6 +84,7 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28655
+    - t-001
+
 ## Ryšiai
 - Kijevo kunigaikštystė priklausė [[objektai/vietos/Lietuva]]

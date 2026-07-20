@@ -37,7 +37,6 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
 
 <a id="claim-t-88503"></a>
 - t-001
-  global_id: t-88503
   teiginys: "Vytauto pareiškimas dėl taikos derybų su Ordinu vietos ir dienos buvo surašytas Vilniuje 1414 m. gruodžio 27 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88503
+    - t-001

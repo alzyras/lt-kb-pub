@@ -31,7 +31,6 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 
 <a id="claim-t-39605"></a>
 - t-001
-  global_id: t-39605
   teiginys: "Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 
 <a id="claim-t-39606"></a>
 - t-002
-  global_id: t-39606
   teiginys: "Mjr. Merlinas, atsitraukęs į kaimo gilumą, išsiuntė raportą gen. mjr. I. Ganeckiui apie sukilėlių pasitraukimą Gudiškio link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39605
+    - t-001
+
 - id: c-41410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,4 +112,4 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39606
+    - t-002

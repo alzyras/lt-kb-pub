@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-42206"></a>
 - t-001
-  global_id: t-42206
   teiginys: "1945 m. sovietai išsiuntė suimtą asmenį katorgos darbams į Tulos anglių baseino kasyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ media_all_json: |-
     +» katorgos darbų į Tulos anglių baseino
     kasyklą. 1946 m. su keturiais tautiečiais
     jis pabėgo ir grįžo į Lietuvą.
-  citata_rodoma: |
-    1945 m. sovietai jj suėmė ir išsiuntė
-    +» katorgos darbų į Tulos anglių baseino
-    kasyklą. 1946 m. su keturiais tautiečiais
-    jis pabėgo ir grįžo į Lietuvą.
+  citata_rodoma: "1945 m. sovietai jj suėmė ir išsiuntė\n+» katorgos darbų į Tulos anglių baseino\nkasyklą. 1946 m. su keturiais tautiečiais\njis pabėgo ir grįžo į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42206
+    - t-001

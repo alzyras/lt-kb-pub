@@ -39,8 +39,7 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 ## Teiginiai
 
 <a id="claim-t-30358"></a>
-- t-001
-  global_id: t-30358
+- t-003
   teiginys: "Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 
 <a id="claim-t-30359"></a>
 - t-002
-  global_id: t-30359
   teiginys: "Marquardas von Salzbachas buvo uolus Vytauto patarėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     - c-32790
 
 <a id="claim-t-30360"></a>
-- t-003
-  global_id: t-30360
+- t-001
   teiginys: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,16 +104,15 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     «nebetikėti». Salzbacho padedamas, Vytautas pataikė ordine į
     laimingą momentą. Tarp Jogailos ir vyr. magistro nuo 1388 m.
     pradžios buvo užsimezgusios derybos.
-  citata_rodoma: |
-    Salzbacho padedamas, Vytautas pataikė ordine į
-    laimingą momentą. Tarp Jogailos ir vyr.
+  citata_rodoma: "Salzbacho padedamas, Vytautas pataikė ordine į\nlaimingą momentą. Tarp Jogailos ir vyr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30358
+    - t-003
+
 - id: c-32790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -127,18 +123,15 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     kad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline
     Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
     «nebetikėti».
-  citata_rodoma: |
-    Jau anksčiau buvo žinoma,
-    kad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline
-    Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
-    «nebetikėti».
+  citata_rodoma: "Jau anksčiau buvo žinoma,\nkad Salzbachas buvo uolus Vytauto patarėjas. Dėl to Liubline\nKęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau\n«nebetikėti»."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30359
+    - t-002
+
 - id: c-32791
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,14 +142,11 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
     Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo
     ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
     čiu (grafu Reineck) jis nuo 1384 m. buvo Vytauto nelaisvėje.
-  citata_rodoma: |
-    Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo
-    ordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­
-    čiu (grafu Reineck) jis nuo 1384 m.
+  citata_rodoma: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo\nordino riteris Marquardas von Salzbachas. Drauge su kitu kryžiuo­\nčiu (grafu Reineck) jis nuo 1384 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30360
+    - t-001

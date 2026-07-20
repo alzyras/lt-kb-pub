@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-20060"></a>
 - t-001
-  global_id: t-20060
   teiginys: "Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,12 +78,11 @@ media_all_json: |-
     „Varpas“, įsteigtas Varšuvos lie-
     tuvių studentų draugijos „Lietu-
     va“.
-  citata_rodoma: |
-    jo 1889 m. pradėtas leisti žurnalas
+  citata_rodoma: "jo 1889 m. pradėtas leisti žurnalas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20060
+    - t-001

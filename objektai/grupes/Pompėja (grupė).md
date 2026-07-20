@@ -33,7 +33,6 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
 
 <a id="claim-t-200836"></a>
 - t-001
-  global_id: t-200836
   teiginys: "Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų architektūros paminklais, tarp jų neseniai atkasta Pompėja."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Vorobjovo aprašyme klasicizmo skonį ugdė žavėjimasis graikų ir romėnų ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200836
+    - t-001

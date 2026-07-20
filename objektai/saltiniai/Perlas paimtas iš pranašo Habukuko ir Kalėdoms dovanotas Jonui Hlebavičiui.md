@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-88461"></a>
 - t-001
-  global_id: t-88461
   teiginys: "Veikalas „Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui“ buvo išspausdintas Vilniuje pas Joną Karcaną 1583 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ media_all_json: |-
     Spausdinta Vilniuje pas Joną Karca-
     ną, 1583, in 4to, 54 p. (Chšonstov-
     skio veikalas).
-  citata_rodoma: |
-    69
-    Perlas paimtas iš pranašo Habukuko ir
-    Kalėdoms dovanotas Jonui Hlebavičiui.
-    Spausdinta Vilniuje pas Joną Karca-
-    ną, 1583, in 4to, 54 p. (Chšonstov-
-    skio veikalas).
+  citata_rodoma: "69\nPerlas paimtas iš pranašo Habukuko ir \nKalėdoms dovanotas Jonui Hlebavičiui. \nSpausdinta Vilniuje pas Joną Karca- \nną, 1583, in 4to, 54 p. (Chšonstov- \nskio veikalas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88461
+    - t-001

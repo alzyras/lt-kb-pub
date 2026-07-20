@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66501"></a>
-- t-001
-  global_id: t-66501
+- t-002
   teiginys: "1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Nenurodyta
     - c-66714
 
 <a id="claim-t-66502"></a>
-- t-002
-  global_id: t-66502
+- t-001
   teiginys: "Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-66503"></a>
 - t-003
-  global_id: t-66503
   teiginys: "Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66503
+    - t-003
+
 - id: c-66714
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,17 +105,15 @@ Nenurodyta
     1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
     pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
     tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
-  citata_rodoma: |
-    1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
-    pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
-    tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
+  citata_rodoma: "1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų\npasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-\ntais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66501
+    - t-002
+
 - id: c-66715
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -138,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66502
+    - t-001

@@ -38,7 +38,6 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
 
 <a id="claim-t-200519"></a>
 - t-001
-  global_id: t-200519
   teiginys: "Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
 
 <a id="claim-t-200520"></a>
 - t-002
-  global_id: t-200520
   teiginys: "1755 m. Jonas Tadas Božimovskis vedė Ašmenos žemės teisėjienę Salomėją Franckevičovą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,23 +81,9 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 10"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
-  citata_originali: |
-    Kartais J. D. Lopacins-
-    kio laiškuose būdavo rašoma, kas įvyko LDK sostinėje, pateikiama platesnė ar siauresnė
-    įvykių panorama: kuris didikas atvyko, kuris išvyko, kur apsistojo, ko siekė, ką veikė,
-    ar neįvyko kokių ekscesų. Galima pateikti tokio panoraminio aprašymo pavyzdžių.
-    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
-    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
-    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
-  citata_rodoma: |
-    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
-    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
-    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200519
-    - t-200520
+    - t-001
+    - t-002

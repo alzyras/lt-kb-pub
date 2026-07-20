@@ -27,25 +27,11 @@ media_all_json: |-
 
 Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarnauti prisiekusius volyniečius ir išvyko į Vilnių.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194051"></a>
-- t-001
-  global_id: t-194051
-  teiginys: 'Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarnauti prisiekusius volyniečius ir išvyko į Vilnių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Subjektas susietas su volyniečiais, o jų priesaika ir Kazimiero išvykimas sujungti į vieną aiškų sakinį. Neperimtas metraštinis titulavimas ir nepridėtos vėlesnės žinios apie Mykoliuką.'
-  pagrindžia:
-    - c-176664
-
-## Citatos
-
-- id: c-176664
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarnauti prisiekusius volyniečius ir išvyko į Vilnių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Netrukus iš Volynės atvyko kunigaikščiai Sanguš-
     kos1  ir visi kiti Volynės kunigaikščiai bei bajorai ir
@@ -67,10 +53,8 @@ Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarna
     tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
     vo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės
     pamotė6 .
-  statusas: verified
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194051
+  statusas: verified

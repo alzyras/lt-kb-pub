@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87022"></a>
 - t-001
-  global_id: t-87022
   teiginys: "Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-87023"></a>
 - t-002
-  global_id: t-87023
   teiginys: "1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,27 +117,15 @@ Nenurodyta
     taip netvirtus bernardinų pastatų
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
-  citata_rodoma: |
-    51
-    Karalius Aleksandras savo sprendi­
-    mu, datuotu Borisove 1500 m. (feria
-    quinta in octava Visitationis Beatae
-    Virginis Mariae - ketvirtadienį Švč.
-    Mergelės Marijos Apsilankymo ok­
-    tavoje), bernardinų prašymu, prie
-    vienuolyno esantį savo malūną įsa­
-    ko nugriauti, kadangi šis dėl drebė­
-    jimo malimo metu išjudino jau ir
-    taip netvirtus bernardinų pastatų
-    pamatus, o sklvpą, kuriame malū­
-    nas stovėjo, atiduoda vienuolynui.
+  citata_rodoma: "51\nKaralius Aleksandras savo sprendi­\nmu, datuotu Borisove 1500 m. (feria \nquinta in octava Visitationis Beatae \nVirginis Mariae - ketvirtadienį Švč.\nMergelės Marijos Apsilankymo ok­\ntavoje), bernardinų prašymu, prie \nvienuolyno esantį savo malūną įsa­\nko nugriauti, kadangi šis dėl drebė­\njimo malimo metu išjudino jau ir \ntaip netvirtus bernardinų pastatų \npamatus, o sklvpą, kuriame malū­\nnas stovėjo, atiduoda vienuolynui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87023
+    - t-002
+
 - id: c-83002
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,4 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87022
+    - t-001

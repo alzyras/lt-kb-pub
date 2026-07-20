@@ -30,7 +30,6 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
 
 <a id="claim-t-190546"></a>
 - t-001
-  global_id: t-190546
   teiginys: "Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar tik Karaliaučiaus bibliotekoje buvusiomis jos ištraukomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190546
+    - t-001

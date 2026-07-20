@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189717"></a>
 - t-001
-  global_id: t-189717
   teiginys: "Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189717
+    - t-001

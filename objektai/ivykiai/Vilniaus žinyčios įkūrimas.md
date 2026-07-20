@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201350"></a>
 - t-001
-  global_id: t-201350
   teiginys: "Vilniaus žinyčia yra dar aiškesniai aprašyta."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184700
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201350
+    - t-001

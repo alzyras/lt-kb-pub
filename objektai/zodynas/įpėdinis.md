@@ -34,22 +34,36 @@ media_all_json: |-
 
 Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
 
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    38
+    1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
+    arti TSRS sienos, apie 100 km j vakarus nuo Lvovo|,
+    Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir
+    jų susitarimą dėl savo įpėdinių žinomas tik iš BK. Kituose Lietuvos
+    m etraščių nuorašuose apie šj susitikimą nėra nė užuominos. Faktiš­
+    kai čia turima galvoje Horodlo unija — susitarimas tarp LDK ir
+    Lenkijos feodalų Horodle (vietovė Volynėje, dabar Lenkijoje, prie
+    Vakari) Bugo, j pietus nuo Bresto), sudarytas 1413 m. spalio 2 d.
+    Tačiau, sprendžiant pagal kai kurias pasakojimo realijas, veiksmas
+    jam e vyksta daug vėliau, nes kalbama, kad Jogaila yra vedęs jau
+    ketvirtą kartą; tokia padėtis galėjo būti ne anksčiau kaip 1422.11.7
+    (Jogailos vedybos su Sofija Alšėniške) Ir ne vėliau kaip 1424 m.
+    lapkričio mėn. (pirmojo Jogailos sūnaus gimimas). Bet tuo laiko­
+    tarpiu (1422—1424) jokių valstybinio masto aktų Jogailos ir Vytau­
+    to įpėdinių klausimu nebuvo sudaryta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Teiginiai
 
-<a id="claim-t-187547"></a>
-- t-001
-  global_id: t-187547
-  teiginys: 'Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo pasakojimo apie Vytauto ir Jogailos susitarimą šaltinio ribotumą. Papildomos pastabos apie Horodlo uniją ir datavimą nepridėtos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Sanas'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1424 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo pasakojimo apie Vytauto ir Jogailos susitarimą šaltinio ribotumą. Papildomos pastabos apie Horodlo uniją ir datavimą nepridėtos.'
-  pagrindžia:
-    - c-170497
 - susijęs iš [[objektai/asmenys/Biartmaras.md#claim-t-191376|Biartmaras]]: Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs garsų miestą prie Nemuno žiočių ir galia nenusileidęs karaliams.
 - susijęs iš [[objektai/asmenys/Giliginas.md#claim-t-186041|Giliginas]]: Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 - susijęs iš [[objektai/asmenys/Gotbrodas.md#claim-t-191273|Gotbrodas]]: Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi.
@@ -108,33 +122,3 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
-## Citatos
-
-- id: c-170497
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    38
-    1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
-    arti TSRS sienos, apie 100 km j vakarus nuo Lvovo|,
-    Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir
-    jų susitarimą dėl savo įpėdinių žinomas tik iš BK. Kituose Lietuvos
-    m etraščių nuorašuose apie šj susitikimą nėra nė užuominos. Faktiš­
-    kai čia turima galvoje Horodlo unija — susitarimas tarp LDK ir
-    Lenkijos feodalų Horodle (vietovė Volynėje, dabar Lenkijoje, prie
-    Vakari) Bugo, j pietus nuo Bresto), sudarytas 1413 m. spalio 2 d.
-    Tačiau, sprendžiant pagal kai kurias pasakojimo realijas, veiksmas
-    jam e vyksta daug vėliau, nes kalbama, kad Jogaila yra vedęs jau
-    ketvirtą kartą; tokia padėtis galėjo būti ne anksčiau kaip 1422.11.7
-    (Jogailos vedybos su Sofija Alšėniške) Ir ne vėliau kaip 1424 m.
-    lapkričio mėn. (pirmojo Jogailos sūnaus gimimas). Bet tuo laiko­
-    tarpiu (1422—1424) jokių valstybinio masto aktų Jogailos ir Vytau­
-    to įpėdinių klausimu nebuvo sudaryta.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187547

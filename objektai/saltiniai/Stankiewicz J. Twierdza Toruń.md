@@ -7,12 +7,12 @@ datos:
   - '1972 m.'
 date_start: '1972'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad stankiewicz J.
 
 <a id="claim-t-61297"></a>
 - t-001
-  global_id: t-61297
   teiginys: "J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad stankiewicz J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą ir publikavimo duomenis."
   pagrindžia:
     - c-61929
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61297
+
 ## Citatos
 
 - id: c-61929
@@ -74,17 +60,12 @@ Dusburgietis teigia, kad stankiewicz J.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — Балто-
-    славянские этноязыковые отношения в историческом и ареальном плане: Тезисы
-    докладов, М, 1983 с. 69.
-    Валиконите И. Социально-экономическое и правовое положение женщин в ВКЛ
-    (конец XV — первая пол.
-  citata_rodoma: |
     Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
+  citata_rodoma: "Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61297
+    - t-001

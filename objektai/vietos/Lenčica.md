@@ -9,13 +9,13 @@ datos:
   - '1429 m.'
 date_start: '1409'
 date_end: '1429'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,8 +38,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 ## Teiginiai
 
 <a id="claim-t-94354"></a>
-- t-001
-  global_id: t-94354
+- t-003
   teiginys: "Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - c-89491
 
 <a id="claim-t-94355"></a>
-- t-002
-  global_id: t-94355
+- t-001
   teiginys: "1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - c-89490
 
 <a id="claim-t-94356"></a>
-- t-003
-  global_id: t-94356
+- t-002
   teiginys: "1429 m. birželio 18 d. Vytauto pasiuntiniai Lenčicoje įteikė Jogailai Vytauto laišką."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 
 <a id="claim-t-94357"></a>
 - t-004
-  global_id: t-94357
   teiginys: "1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,7 +112,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 
 <a id="claim-t-185003"></a>
 - t-005
-  global_id: t-185003
   teiginys: "Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -164,88 +159,10 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos.md#claim-t-185678|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]: Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.
 - susijęs iš Dogiel, Codex Diplomaticus: Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
-## Citatos
-
-- id: c-37500
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
-    tauto laišką. Jogaila, užimtas pasitarimais su kryžiuočiais, nesi­
-    skubino atsakyti Lietuvos delegatams.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-94356
-- id: c-89489
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Kai sužinojo, kad kryžiuočių
-    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
-    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
-    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
-    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
-    tauto laišką.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-94357
-- id: c-89490
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Tada jie
-    kreipėsi į Jogailą, klausdami: ar jis padės „išgamai“ Vytautui,
-    jei jie kovotų dėl Žemaitijos susigrąžinimo.
-    Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo
-    būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­
-    ja su Lietuva. — Ordinui buvo trumpai atsakyta: jei jis pultų
-    Žemaitiją, tada Jogaila užpultų Prūsus, nes „Lietuvos priešus
-    laikome savais”^1 ).
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-94355
-- id: c-89491
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Jogaila dar kartą pasitaręs su savo didikais,
-    atsakė, kad apie tokį svarbų reikalą, kuris liečia Lenkiją ir Lie­
-    tuvą, suvažiavime per mažai esą didikų ir riterių ir dėl to negalįs
-    nieko galutinai atsakyti. Tada lietuvių delegacija Vytauto vardu
-    griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis
-    tiek karūną priims ir ant savo galvos užsidės^3 ). Paskum Vy­
-    tauto pasiuntiniai greit išvyko iš Lenčicos.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-94354
-- id: c-168364
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėjosi šitai
     sekmadienį, todėl į miestą buvo prigužėję iš aplinkinių
@@ -271,7 +188,99 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     greitosiomis sutelktą būrį, pasivijęs lietuvius netoli
     Sochačevo, stoja į kovą, kur kas didesnę narsą rody­
     damas, nei susilaukdamas sėkmės.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-37500
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
+    tauto laišką. Jogaila, užimtas pasitarimais su kryžiuočiais, nesi­
+    skubino atsakyti Lietuvos delegatams.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-89489
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kai sužinojo, kad kryžiuočių
+    pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
+    siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­
+    num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
+    poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
+    tauto laišką.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-89490
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tada jie
+    kreipėsi į Jogailą, klausdami: ar jis padės „išgamai“ Vytautui,
+    jei jie kovotų dėl Žemaitijos susigrąžinimo.
+    Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo
+    būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­
+    ja su Lietuva. — Ordinui buvo trumpai atsakyta: jei jis pultų
+    Žemaitiją, tada Jogaila užpultų Prūsus, nes „Lietuvos priešus
+    laikome savais”^1 ).
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-89491
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Jogaila dar kartą pasitaręs su savo didikais,
+    atsakė, kad apie tokį svarbų reikalą, kuris liečia Lenkiją ir Lie­
+    tuvą, suvažiavime per mažai esą didikų ir riterių ir dėl to negalįs
+    nieko galutinai atsakyti. Tada lietuvių delegacija Vytauto vardu
+    griežtai pareiškė: ar Jogailai patiks ar nepatiks — Vytautas vis
+    tiek karūną priims ir ant savo galvos užsidės^3 ). Paskum Vy­
+    tauto pasiuntiniai greit išvyko iš Lenčicos.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-168364
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Mat bemaž tuo
     pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė
     būtų visiškai saugi nuo prie-
@@ -293,12 +302,14 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     ką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė
     aplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,
     galop bažnyčia buvo užimta ir išplėšta.
+  citata_rodoma: "Mat bemaž tuo\npačiu metu Vytenis lyg niekur nieko, tarytum tėvynė\nbūtų visiškai saugi nuo prie-\nV y te n is\nįsiv e ržia\nį\nšo, Mazovijos pasieniais įsi-\nL en k iją  ir u žim a  Len-\nveržė, sutelkęs žygiui tūks-\nčicą\ntantį aštuonis šimtus raitelių,\nį Lenčicos kraštą. Dėjosi šitai\nsekmadienį, todėl į miestą buvo prigužėję iš aplinkinių\nkaimų į pamaldas galybė kaimiečių ir bajorų. Tiesiai\niš kelio, niekieno nelauktas, Vytenis užėmė miestą, ko­\nva ir grėsmė artėjo prie bažnyčios, padrikai puolan­\nčius karius bažnyčioje užsidariusi minia, iš siaubo įga­\nvusi drąsos, atstūmė; į besiartinančius jie svaidė vis­\nką, kas tik pakliuvo po ranka, vis dėlto, kai užsidegė\naplinkiniai namai, nuo dūmų ir liepsnos daugelis žuvo,\ngalop bažnyčia buvo užimta ir išplėšta."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185003
+    - t-005
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]

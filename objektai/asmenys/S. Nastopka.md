@@ -38,8 +38,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-40411"></a>
-- t-001
-  global_id: t-40411
+- t-003
   teiginys: "S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - c-42210
 
 <a id="claim-t-40412"></a>
-- t-002
-  global_id: t-40412
+- t-001
   teiginys: "S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - c-42208
 
 <a id="claim-t-40413"></a>
-- t-003
-  global_id: t-40413
+- t-002
   teiginys: "Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,8 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40412
+    - t-001
+
 - id: c-42210
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,7 +121,8 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40411
+    - t-003
+
 - id: c-44503
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,20 +137,11 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     vadu buvo paskirtas jau kovose pasižy-
     mėjęs plk. ltn. K. Ladyga, buvo pakeisti
     kai kurie pulkų vadai.
-  citata_rodoma: |
-    Atleidus iš
-    pareigų armijos vadą gen. S. Nastopką
-
-    ir Generalinio štabo viršininką
-
-    gen. M. Katchę, rugpjūčio 23 d. armijos
-    vadu buvo paskirtas jau kovose pasižy-
-    mėjęs plk. ltn. K. Ladyga, buvo pakeisti
-    kai kurie pulkų vadai.
+  citata_rodoma: "Atleidus iš\npareigų armijos vadą gen. S. Nastopką\n\nir Generalinio štabo viršininką\n\ngen. M. Katchę, rugpjūčio 23 d. armijos\nvadu buvo paskirtas jau kovose pasižy-\nmėjęs plk. ltn. K. Ladyga, buvo pakeisti\nkai kurie pulkų vadai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40413
+    - t-002

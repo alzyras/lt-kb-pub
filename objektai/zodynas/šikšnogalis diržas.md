@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
 
 <a id="claim-t-58932"></a>
 - t-001
-  global_id: t-58932
   teiginys: "Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58932
+    - t-001

@@ -36,8 +36,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 ## Teiginiai
 
 <a id="claim-t-101688"></a>
-- t-001
-  global_id: t-101688
+- t-016
   teiginys: "Čiurlionio muziejaus senojo meno ekspozicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -53,8 +52,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-95138
 
 <a id="claim-t-101689"></a>
-- t-002
-  global_id: t-101689
+- t-012
   teiginys: "Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -69,9 +67,8 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   pagrindžia:
     - c-21889
 
-<a id="claim-t-101694"></a>
-- t-003
-  global_id: t-101694
+<a id="claim-t-101690"></a>
+- t-017
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -90,8 +87,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16722
 
 <a id="claim-t-101691"></a>
-- t-004
-  global_id: t-101691
+- t-015
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -107,8 +103,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16723
 
 <a id="claim-t-101692"></a>
-- t-005
-  global_id: t-101692
+- t-014
   teiginys: "Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -125,8 +120,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16723
 
 <a id="claim-t-101693"></a>
-- t-006
-  global_id: t-101693
+- t-018
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -143,8 +137,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-16724
 
 <a id="claim-t-101695"></a>
-- t-007
-  global_id: t-101695
+- t-013
   teiginys: "Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
@@ -197,20 +190,15 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: |
-    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
-    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
-    nacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-
-    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
-    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
-    čius.
+  citata_rodoma: "Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė \n1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir \nnacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-\nsias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir \ntautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-\nčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101694
+    - t-017
+
 - id: c-16723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,20 +211,16 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
     kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
-  citata_rodoma: |
-    Kurį laiką taip elgėsi Mikalojus
-    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
-    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
-    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
-    kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
+  citata_rodoma: "Kurį laiką taip elgėsi Mikalojus \nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje \nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs \nVaršuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-\nkotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101691
-    - t-101692
+    - t-015
+    - t-014
+
 - id: c-16724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,22 +238,16 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: |
-    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
-    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
-    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
-    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
-    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
-    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
+  citata_rodoma: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime \npradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-\ntuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas \nV. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, \nMaironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-\nrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir \nkūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101693
-    - t-101695
+    - t-018
+    - t-013
+
 - id: c-21889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,18 +263,15 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
-  citata_rodoma: |
-    Kurį laiką taip elgėsi Mikalojus
-    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
-    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
-    Varšuvoje ir Leipcige.
+  citata_rodoma: "Kurį laiką taip elgėsi Mikalojus\nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje\nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs\nVaršuvoje ir Leipcige."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101689
+    - t-012
+
 - id: c-95138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -314,4 +289,4 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101688
+    - t-016

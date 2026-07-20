@@ -54,11 +54,6 @@ Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio vidu
   pagrindžia:
 ## Teiginiai
 
-
-
-
-
-
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195005|Mengli Girėjus]]: Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos.
 

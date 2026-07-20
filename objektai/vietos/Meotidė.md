@@ -33,7 +33,6 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
 
 <a id="claim-t-192884"></a>
 - t-001
-  global_id: t-192884
   teiginys: "Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192884
+    - t-001

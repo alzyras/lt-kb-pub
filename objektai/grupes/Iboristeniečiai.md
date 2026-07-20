@@ -31,7 +31,6 @@ Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldesk
 
 <a id="claim-t-192995"></a>
 - t-001
-  global_id: t-192995
   teiginys: "Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldeską ir Pantikapą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldesk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192995
+    - t-001

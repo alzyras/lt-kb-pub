@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-193009"></a>
 - t-001
-  global_id: t-193009
   teiginys: "Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,10 +63,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175779
-    - c-001
+
 <a id="claim-t-197562"></a>
 - t-002
-  global_id: t-197562
   teiginys: "Šito įrodymų aptikta ant atrastų auksinių ir sidabri nių medalių1."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193009
+
 ## Citatos
 
 - id: c-175779
@@ -129,28 +126,15 @@ Nenurodyta
     tosios žemės ar nuo Rosės upės Ukrainos hirių pastip­
     rinti, skiriai ir sudargai sudarė savo liaudies ginkluotą­
     ' Valllant.
-  citata_rodoma: |
-    Esama
-    neabejotinų įrodymų, nes,
-    valdant
-    imperatoriui
-    Galui, apie 253 metus
-    jungtiniai finų,
-    galindų ir venedų būriai kariavo su imperatorium Valuzia-
-    nu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­
-    vino kaip vandalų, finų, galindų ir venedų nugalėto­
-    ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
-    nių medalių1. Šie numizmatiniai užrašai nemini gotų,
-    nes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­
-    sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
-    tuose2.
+  citata_rodoma: "Esama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­\nnių medalių1. Šie numizmatiniai užrašai nemini gotų,\nnes kalbama apie kitą karą ir vadinamąją sąjungą, kilu­\nsią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­\ntuose2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193009
+    - t-001
+
 - id: c-179244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -171,4 +155,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197562
+    - t-002

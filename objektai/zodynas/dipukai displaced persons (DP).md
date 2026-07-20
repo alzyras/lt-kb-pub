@@ -37,8 +37,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
 ## Teiginiai
 
 <a id="claim-t-101578"></a>
-- t-001
-  global_id: t-101578
+- t-003
   teiginys: "Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     - c-95099
 
 <a id="claim-t-101579"></a>
-- t-002
-  global_id: t-101579
+- t-001
   teiginys: "Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -84,15 +82,15 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
     Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
     (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
     įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
-  citata_rodoma: |
-    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
+  citata_rodoma: "Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101579
+    - t-001
+
 - id: c-95099
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,4 +109,4 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101578
+    - t-003

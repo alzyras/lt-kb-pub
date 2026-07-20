@@ -36,7 +36,6 @@ Dusburgietis teigia, kad kosman M.
 
 <a id="claim-t-61103"></a>
 - t-001
-  global_id: t-61103
   teiginys: "M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad kosman M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61103
+    - t-001

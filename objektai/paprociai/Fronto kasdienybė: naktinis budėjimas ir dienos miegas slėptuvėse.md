@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09588"></a>
-- t-001
-  global_id: t-09588
+- t-003
   teiginys: "Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-12342
 
 <a id="claim-t-09589"></a>
-- t-002
-  global_id: t-09589
+- t-004
   teiginys: "Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -99,14 +97,12 @@ Nenurodyta
     ninkų puolimą.
     „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
     jome, o dieną slėptuvėse miegojome.
-  citata_rodoma: |
-    „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
-    jome, o dieną slėptuvėse miegojome.
+  citata_rodoma: "„Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-\njome, o dieną slėptuvėse miegojome."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09588
-    - t-09589
+    - t-003
+    - t-004

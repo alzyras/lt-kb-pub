@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-19657"></a>
 - t-001
-  global_id: t-19657
   teiginys: "Įkūrus Baltijos Valstybių Tarybą, jos posėdžiuose rengta bendra užsienio politikos pozicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ media_all_json: |-
     Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
-  citata_rodoma: |
-    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
+  citata_rodoma: "sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19657
+    - t-001

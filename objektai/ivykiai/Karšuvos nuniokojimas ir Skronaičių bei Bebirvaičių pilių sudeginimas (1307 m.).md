@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-28824"></a>
 - t-001
-  global_id: t-28824
   teiginys: "1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28824
+    - t-001

@@ -31,7 +31,6 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
 
 <a id="claim-t-86793"></a>
 - t-001
-  global_id: t-86793
   teiginys: "Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86793
+    - t-001

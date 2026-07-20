@@ -31,7 +31,6 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
 
 <a id="claim-t-35714"></a>
 - t-001
-  global_id: t-35714
   teiginys: "Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,11 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
     kruoti vyskupai. Tada popiežius pasiskubino ir tam pavojui už­
     kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
     klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
-  citata_rodoma: |
-    Tada popiežius pasiskubino ir tam pavojui už­
-    kirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­
-    klausančiam Kulmijos vyskupui karūnuoti Vytautą^1 ).
+  citata_rodoma: "Tada popiežius pasiskubino ir tam pavojui už­\nkirsti kelią: jis uždraudė Lietuvos vyskupams ir Ordinui pri­\nklausančiam Kulmijos vyskupui karūnuoti Vytautą^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35714
+    - t-001

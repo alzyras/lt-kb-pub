@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192083"></a>
 - t-001
-  global_id: t-192083
   teiginys: "Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -84,18 +83,11 @@ Nenurodyta
     piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
     redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
-  citata_rodoma: |
-    Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
-    tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­
-    kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­
-    nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
-    piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“
-    redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
-    tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
+  citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­\ntai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­\nkalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­\nnys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią\npiešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“\nredaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir\ntikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192083
+    - t-001

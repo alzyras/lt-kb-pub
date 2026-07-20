@@ -38,7 +38,6 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 
 <a id="claim-t-88340"></a>
 - t-001
-  global_id: t-88340
   teiginys: "1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,26 +78,11 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m. Il t. Dar žr.
     III priedą prie II knygos.
-  citata_rodoma: |
-    Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m. Il t.
+  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m. Il t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88340
+    - t-001

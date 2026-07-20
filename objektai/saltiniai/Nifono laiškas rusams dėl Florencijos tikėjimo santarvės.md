@@ -30,7 +30,6 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
 
 <a id="claim-t-186342"></a>
 - t-001
-  global_id: t-186342
   teiginys: "Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186342
+    - t-001

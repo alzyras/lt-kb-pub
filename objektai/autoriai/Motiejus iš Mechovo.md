@@ -36,7 +36,6 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
 
 <a id="claim-t-190355"></a>
 - t-001
-  global_id: t-190355
   teiginys: "Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 1456-1523 m."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190355
+    - t-001

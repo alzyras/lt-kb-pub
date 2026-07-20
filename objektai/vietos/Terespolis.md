@@ -39,8 +39,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 ## Teiginiai
 
 <a id="claim-t-115026"></a>
-- t-001
-  global_id: t-115026
+- t-003
   teiginys: "Terespolis nebuvo Balinskių giminės paveldima nuosavybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     - c-106018
 
 <a id="claim-t-115027"></a>
-- t-002
-  global_id: t-115027
+- t-001
   teiginys: "Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     - c-106017
 
 <a id="claim-t-115028"></a>
-- t-003
-  global_id: t-115028
+- t-002
   teiginys: "Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 
 <a id="claim-t-183812"></a>
 - t-004
-  global_id: t-183812
   teiginys: "Didžiausias susidūrimas per lietuvių kariuomenės persekiojimą įvyko jau už Terespolio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -129,18 +125,15 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
-  citata_rodoma: |
-    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
-    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
-    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
-    mas"2.
+  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti \nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115028
+    - t-002
+
 - id: c-106017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,8 +156,9 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115027
-    - t-183812
+    - t-001
+    - t-004
+
 - id: c-106018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -181,4 +175,4 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115026
+    - t-003

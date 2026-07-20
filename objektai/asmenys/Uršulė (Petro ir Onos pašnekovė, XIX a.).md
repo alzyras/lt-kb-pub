@@ -44,7 +44,6 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
 
 <a id="claim-t-195556"></a>
 - t-001
-  global_id: t-195556
   teiginys: "Uršulė Petro paklausė, kada bus jo ir Onos vestuvės."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -61,16 +60,12 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    veiks rytoj.
-    Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestu­
-    vės?“ Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras —
-    Petras.
-  citata_rodoma: |
     Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestuvės?“
+  citata_rodoma: "Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestuvės?“"
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195556
+    - t-001

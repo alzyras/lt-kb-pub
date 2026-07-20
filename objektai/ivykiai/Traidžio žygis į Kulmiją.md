@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201346"></a>
 - t-001
-  global_id: t-201346
   teiginys: "Nes vos buvo ta gauja atsitolinusi, kaip tuoj aus Traidis, Žemaičių kunig., su 30 000 lietuvių ir žemaičių įgulė tenai, kursai, paskiedęs savo kariauną į tris dalis, vieną į Mozūriją, antrą į Pagezoniją išleido terioti, o su trečiąja pats Kulmijoj siaubė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184696
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Patsai Kulmas bandė smur-
     tybes lietuvių, vienok įgulė savo kantrybe išsitu­
@@ -79,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201346
+    - t-001

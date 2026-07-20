@@ -40,7 +40,6 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
 
 <a id="claim-t-60276"></a>
 - t-001
-  global_id: t-60276
   teiginys: "Folkvinas, antras Kristaus karių ordino magistras Livonijoje, šešerius metus ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60276
+    - t-001

@@ -42,7 +42,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 
 <a id="claim-t-87594"></a>
 - t-001
-  global_id: t-87594
   teiginys: "Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 
 <a id="claim-t-188652"></a>
 - t-002
-  global_id: t-188652
   teiginys: "Valdant Zigmantui III, jėzuitų pastangomis bažnyčia sugrįžo katalikams po laikotarpio, kai priklausė evangelikams reformatams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 
 <a id="claim-t-194247"></a>
 - t-003
-  global_id: t-194247
   teiginys: "Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini gėlių."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87594
+    - t-001
+
 - id: c-171541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -138,7 +136,8 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188652
+    - t-002
+
 - id: c-176843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,6 +159,7 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194247
+    - t-003
+
 ## Ryšiai
 - Zigmantas III buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika]]

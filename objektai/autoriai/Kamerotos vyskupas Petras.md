@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190304"></a>
-- t-001
-  global_id: t-190304
-  teiginys: 'Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas skyriaus ir puslapio triukšmas, paliktas aiškus teiginys apie Petro rankraštį. Nepridėta platesnio manicheizmo turinio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvių mitologija|Lietuvių mitologija]]; mentioned_person: [[objektai/asmenys/Fotijus|Fotijus]]'
-  pagrindžia:
-    - c-173187
-
-## Citatos
-
-- id: c-173187
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Kad gyvu­
     lių sielos tokios ir netobulos, apie tai pilna liaudies pasakoji­
@@ -67,10 +52,8 @@ Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė 
     Autorius pradeda nuo Rytų krikščionių, žinomų manichė-
     jų vardu, Agapijo mokymo sekėjų, nušviesdamas ereziją pa­
     gal Fotijaus aprašymą, plačiai svarsto apie tą sektą.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190304
+  statusas: verified

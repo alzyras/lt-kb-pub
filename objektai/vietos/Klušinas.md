@@ -36,7 +36,6 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 
 <a id="claim-t-41797"></a>
 - t-001
-  global_id: t-41797
   teiginys: "1610 m. lenkų kariuomenė sumušė rusus prie Klušino ir užėmė Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,18 +72,11 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
-  citata_rodoma: |
-    Lenkų ka-
-    riuomenė šios sumaišties metu 1610 m. su-
-
-    mušusi rusus prie Klušino, užėmė Maskvą.
-
-    Dalis Rusijos bojarinų naujuoju caru iš-
-    rinko Zigmanto Vazos sūnų Vladislovą.
+  citata_rodoma: "Lenkų ka-\nriuomenė šios sumaišties metu 1610 m. su-\n\nmušusi rusus prie Klušino, užėmė Maskvą.\n\nDalis Rusijos bojarinų naujuoju caru iš-\nrinko Zigmanto Vazos sūnų Vladislovą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41797
+    - t-001

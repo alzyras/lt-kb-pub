@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47814"></a>
-- t-001
-  global_id: t-47814
+- t-002
   teiginys: "Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-31009
 
 <a id="claim-t-47816"></a>
-- t-002
-  global_id: t-47816
+- t-001
   teiginys: "Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -124,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47816
+    - t-001
+
 - id: c-31009
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,15 +135,11 @@ Nenurodyta
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams.
-  citata_rodoma: |
-    Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
-    plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams.
+  citata_rodoma: "Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro\nplokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų\npapuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo\naudinių ir juostų raštams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47814
+    - t-002

@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192033"></a>
-- t-001
-  global_id: t-192033
+- t-003
   teiginys: "Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-174909
 
 <a id="claim-t-192034"></a>
-- t-002
-  global_id: t-192034
+- t-001
   teiginys: "Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,8 +82,7 @@ Nenurodyta
     - c-174909
 
 <a id="claim-t-192035"></a>
-- t-003
-  global_id: t-192035
+- t-002
   teiginys: "Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -120,23 +117,13 @@ Nenurodyta
     kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
     traukė baigiantis II krikščioniškosios eros amžiui4.
-  citata_rodoma: |
-    Maždaug to paties amžiaus pabaigoje švedų karalius Got'brodas irgi
-    sėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­
-    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
-    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
-    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
-    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
-    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
-    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
-    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
-    traukė baigiantis II krikščioniškosios eros amžiui4.
+  citata_rodoma: "Maždaug to paties amžiaus pabaigoje švedų karalius Got'brodas irgi\nsėkmingai kariavo Rusioje2. Gotbrodo įpėdinis Goteris žu­\nvo kovodamas su Bojumi, Otino sūnumi, rusų karalienės\nRindos vyru. Vienas suomių burtininkas išpranašavo šį\nliūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­\nnėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­\nlaidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­\nkapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192033
-    - t-192034
-    - t-192035
+    - t-003
+    - t-001
+    - t-002

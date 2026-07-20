@@ -31,7 +31,6 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
 <a id="claim-t-40674"></a>
 - t-001
-  global_id: t-40674
   teiginys: "Vidmantas Airini buvo vienas teksto „Alebardos“ autorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
 <a id="claim-t-40675"></a>
 - t-002
-  global_id: t-40675
   teiginys: "Vidmantas Airini buvo teksto „Rapyros“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,17 +72,15 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 
     p. 89, „DVIRANKIAI LANDSKNECHTŲ KALAVIJAI“, Paulius Bugys, Vidmantas Airini,
     Karolis Zikaras.
-  citata_rodoma: |
-    p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
-
-    p.
+  citata_rodoma: "p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40674
+    - t-001
+
 - id: c-44630
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -93,14 +89,11 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
     P. 93, „RAPYROS“, Vidmantas Airini.
 
     p. 101, „PISTOLETAS IR RATUKINE SPYNA‘, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: |
-    P. 93, „RAPYROS“, Vidmantas Airini.
-
-    p.
+  citata_rodoma: "P. 93, „RAPYROS“, Vidmantas Airini.\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40675
+    - t-002

@@ -40,8 +40,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 ## Teiginiai
 
 <a id="claim-t-82300"></a>
-- t-001
-  global_id: t-82300
+- t-005
   teiginys: "Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78783
 
 <a id="claim-t-82301"></a>
-- t-002
-  global_id: t-82301
+- t-004
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78779
 
 <a id="claim-t-82302"></a>
-- t-003
-  global_id: t-82302
+- t-001
   teiginys: "Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78780
 
 <a id="claim-t-82303"></a>
-- t-004
-  global_id: t-82303
+- t-003
   teiginys: "Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
     - c-78783
 
 <a id="claim-t-82304"></a>
-- t-005
-  global_id: t-82304
+- t-002
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius ir liepė Lietuvai rinkti atskirą metropolitą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +159,9 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82301
-    - t-82304
+    - t-004
+    - t-002
+
 - id: c-78780
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -185,7 +181,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82302
+    - t-001
+
 - id: c-78783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +211,8 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82300
-    - t-82303
+    - t-005
+    - t-003
+
 ## Ryšiai
 - Fotijus keliavo į [[objektai/vietos/Maskva]]

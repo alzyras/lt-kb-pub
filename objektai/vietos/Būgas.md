@@ -39,49 +39,8 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 
 ## Teiginiai
 
-<a id="claim-t-187176"></a>
-- t-001
-  global_id: t-187176
-  teiginys: "Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Būgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Būgas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170266
-    - c-001
-<a id="claim-t-192626"></a>
-- t-002
-  global_id: t-192626
-  teiginys: "Teodoras Narbutas senovinį Hipanio upės vardą tapatino su dabartiniu Būgu."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Būgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Būgas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175396
-    - c-002
 <a id="claim-t-192627"></a>
 - t-003
-  global_id: t-192627
   teiginys: "Būgas jau tuomet buvo Mazovijos ir rusų žemių riba."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -150,33 +109,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187176
-- c-002
-  santrauka: 'Teodoras Narbutas senovinį Hipanio upės vardą tapatino su dabartiniu Būgu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vadina­
-    si, būta skitų gerų—kapakasių genties, kažkokios skitų
-    kastos, kuri gyveno šiame miškingame krašte — visos
-    genties kapinėse.
-    35
-    Kitas skitų upes, nepaisant jų pavadinimų sugraikini-
-    mo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,
-    šiandien Dnestras, Hipanis, šiandien Būgas (pastaro­
-    sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),
-    Boristenis, šiandien Dnepras. Veltui kai kurie senovės
-    tyrinėtojai daug vargo stengdamiesi surasti šios garsios
-    upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
-    ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
-    1 Ibid.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192626
+
 ## Citatos
 
 - id: c-170266
@@ -184,49 +117,20 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Lietuvos didžiojo kunigaikščio Aleksandro maršalas
-    ponas Stanislovas Petravičius su visais žmonėmis, ku­
-    rie su juo buvo siųsti Į pagalbą karaliui Olbrachtui,
-    nesuspėjo laiku atvykti, nes bežygiuojančius keliu ir
-    persikėlusius per Dnestro upę pasitiko moldavai ir sto­
-    jo į mūšį su jais. Dievas gailestingas pakirto moldavus,
-    bet užtat nebespėjo ateiti į pagalbą karaliui, atėjo jau
-    po mūšio.
-    Moldavijos vaivada leidosi atgalios, o karalius Olb­
-    rachtas tuo metu sirgo, jo kariuomenė, apimta gilaus
-    liūdesio ir sielvarto, vis dar bijojo vijimosi. Kai kara­
-    lius išvydo savo brolio kariuomenę ateinant jam į pa­
-    galbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo
-    širdis37. Ir paskui žengė keliu be baimės, priėjo Ka-
-    menecą3*. o paskui Lvovą, ir vėl išsiskirstė kas sau.
-  citata_rodoma: |
     dove, jeigu tu neatskleisi mums savo minties ir tikslo,
     mes neisime už Bugo."
+  citata_rodoma: "dove, jeigu tu neatskleisi mums savo minties ir tikslo, \nmes neisime už Bugo.\""
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187176
 - id: c-175396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pantikapas, o
-    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
-    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
-    Skitijos geografijoje galėjo būti vadinama ne viena upė
-    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
-    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
-    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
-    ma upė buvo kitados graikų vadinta Pantikapu. Bet tarp
-    Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
-    ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
-    žemdirbiai, o už kito Pantikapo, Arklių Vandenų, į šiau­
-    rę — piemenys, pecuarii, arba nomadai.
-  citata_rodoma: |
     Vadina­
     si, būta skitų gerų—kapakasių genties, kažkokios skitų
     kastos, kuri gyveno šiame miškingame krašte — visos
@@ -241,13 +145,13 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
     upės pavadinimo ištakas, kurių dabar nepavyks paaiškin­
     ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
     1 Ibid.
+  citata_rodoma: "Vadina­\nsi, būta skitų gerų—kapakasių genties, kažkokios skitų\nkastos, kuri gyveno šiame miškingame krašte — visos\ngenties kapinėse.\n35\nKitas skitų upes, nepaisant jų pavadinimų sugraikini-\nmo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras,\nšiandien Dnestras, Hipanis, šiandien Būgas (pastaro­\nsios dvi tekėjo iš klajoklių mizonų gyvenamo krašto),\nBoristenis, šiandien Dnepras. Veltui kai kurie senovės\ntyrinėtojai daug vargo stengdamiesi surasti šios garsios\nupės pavadinimo ištakas, kurių dabar nepavyks paaiškin­\nti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­\n1 Ibid."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192626
 - id: c-175397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -271,4 +175,4 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192627
+    - t-003

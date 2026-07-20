@@ -8,10 +8,10 @@ datos:
   - '1652 m.'
 date_start: '1650'
 date_end: '1652'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-201937"></a>
 - t-001
-  global_id: t-201937
   teiginys: "Tokias nuostatas patvirtina kita vienalaikė jau minėta byla, nagrinėta 1650-1652 m. Jono Kazimiero siųsti komisarai, o paskui ir jis pats sprendė bendruomenės prisiekusiųjų miesto tarybai iškeltą bylą dėl nuolat pasikartojančio vengimo atsiskaityti už miesto."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,6 +56,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185284
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -78,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201937
+    - t-001

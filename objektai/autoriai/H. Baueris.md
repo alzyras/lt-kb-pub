@@ -30,7 +30,6 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
 
 <a id="claim-t-60605"></a>
 - t-001
-  global_id: t-60605
   teiginys: "H. Baueris XX a. ketvirtajame dešimtmetyje aptarė kai kuriuos Dusburgiečio kronikos klausimus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60605
+    - t-001

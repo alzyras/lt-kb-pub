@@ -30,9 +30,8 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61242"></a>
 - t-001
-  global_id: t-61242
   teiginys: "J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -44,20 +43,7 @@ Dusburgietis teigia, kad powierski J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61874
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61242
+
 ## Citatos
 
 - id: c-61874
@@ -65,14 +51,12 @@ Dusburgietis teigia, kad powierski J.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
-    Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky.
-  citata_rodoma: |
     Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371.
+  citata_rodoma: "Powierski J. Prusowie, Prusy.— SSS, t. 4, cz. 1, s. 368— 371."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61242
+    - t-001

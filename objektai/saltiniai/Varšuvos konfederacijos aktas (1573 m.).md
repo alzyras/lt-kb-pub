@@ -29,8 +29,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 ## Teiginiai
 
 <a id="claim-t-67555"></a>
-- t-001
-  global_id: t-67555
+- t-002
   teiginys: "1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,8 +38,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     - c-67418
 
 <a id="claim-t-67556"></a>
-- t-002
-  global_id: t-67556
+- t-001
   teiginys: "Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +60,15 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     katalikų tikėjimą. Renkamas karalium jis prisiekė laikytis 1573
     metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
     jimo niekas nebus persekiojamas.
-  citata_rodoma: |
-    Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
-    jimo niekas nebus persekiojamas.
+  citata_rodoma: "Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-\njimo niekas nebus persekiojamas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67555
+    - t-002
+
 - id: c-67419
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -86,17 +83,11 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
-  citata_rodoma: |
-    Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
-    o ypač uoliausius to meto kovotojus su protestantizmu — jė-
-    zuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
-    protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
-    racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
-    buvo iškeikęs visus tos konfederacijos gynėjus.
+  citata_rodoma: "Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,\no ypač uoliausius to meto kovotojus su protestantizmu — jė-\nzuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir\nprotestantams ir uoliai saugojo 1573 metų Varšuvos konfede-\nracijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas\nbuvo iškeikęs visus tos konfederacijos gynėjus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67556
+    - t-001

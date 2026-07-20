@@ -7,10 +7,10 @@ datos:
   - '1623 m.'
 date_start: '1623'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
 
 <a id="claim-t-201706"></a>
 - t-001
-  global_id: t-201706
   teiginys: "Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
 
 <a id="claim-t-201707"></a>
 - t-002
-  global_id: t-201707
   teiginys: "Joje Kauno miestiečiai galėjo pasigaminti statybinio miško ir kuro."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,7 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201706
+    - t-001
 
 - id: c-185054
   autorius: "Zigmantas Kiaupa"
@@ -91,4 +89,4 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201707
+    - t-002

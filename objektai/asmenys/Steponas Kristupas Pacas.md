@@ -28,7 +28,6 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
 
 <a id="claim-t-200862"></a>
 - t-001
-  global_id: t-200862
   teiginys: "Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karmelitams pastatydino Šv. Teresės bažnyčią Vilniuje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
 
 <a id="claim-t-200863"></a>
 - t-002
-  global_id: t-200863
   teiginys: "Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,7 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200862
+    - t-001
 
 - id: c-184208
   autorius: "Mikalojus Vorobjovas"
@@ -115,4 +113,4 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200863
+    - t-002

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-20262"></a>
 - t-001
-  global_id: t-20262
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
-  citata_rodoma: |
-    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
+  citata_rodoma: "tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20262
+    - t-001

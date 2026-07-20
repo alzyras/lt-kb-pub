@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-39419"></a>
-- t-001
-  global_id: t-39419
+- t-002
   teiginys: "1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-41223
 
 <a id="claim-t-39420"></a>
-- t-002
-  global_id: t-39420
+- t-001
   teiginys: "Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39419
+    - t-002
+
 - id: c-41224
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -125,6 +124,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39420
+    - t-001
+
 ## Ryšiai
 - Vytenis (Lietuvos karalius) puolė [[objektai/vietos/Semba]]

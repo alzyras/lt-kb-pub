@@ -37,8 +37,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 ## Teiginiai
 
 <a id="claim-t-41207"></a>
-- t-001
-  global_id: t-41207
+- t-002
   teiginys: "Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - c-44876
 
 <a id="claim-t-193737"></a>
-- t-002
-  global_id: t-193737
+- t-003
   teiginys: "Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - c-176403
 
 <a id="claim-t-193738"></a>
-- t-003
-  global_id: t-193738
+- t-004
   teiginys: "Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -107,7 +104,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193738
+    - t-004
+
 - id: c-44876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,24 +126,15 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     degino Linkmenų, Tauragnų, Utenos,
     Užpalių pilis, paėmė daug belaisvių, bet bi-
     jodami lietuvių kontrsmūgio, pasitraukė.
-  citata_rodoma: |
-    Ordinas, pirmiausia jo Livonijos šaka,
-    toliau liko Švitrigailos rėmėja, nes siekė,
-    kad pastarasis organizuotų platų piet-
-    ryčių frontą (su voluiniečiais, podolie-
-    čiais, totoriais) prieš Lenkiją, kuri su
-    husitais vakaruose rengėsi kovoti prieš
-    Ordiną. Livonijos ordinas ne visada paisė
-
-    susitarimų su Švitrigaila, veikė ir atski-
-    rai.
+  citata_rodoma: "Ordinas, pirmiausia jo Livonijos šaka,\ntoliau liko Švitrigailos rėmėja, nes siekė,\nkad pastarasis organizuotų platų piet-\nryčių frontą (su voluiniečiais, podolie-\nčiais, totoriais) prieš Lenkiją, kuri su\nhusitais vakaruose rengėsi kovoti prieš\nOrdiną. Livonijos ordinas ne visada paisė\n\nsusitarimų su Švitrigaila, veikė ir atski-\nrai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41207
+    - t-002
+
 - id: c-176403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -164,4 +153,4 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193737
+    - t-003

@@ -30,7 +30,6 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
 
 <a id="claim-t-191166"></a>
 - t-001
-  global_id: t-191166
   teiginys: "Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,9 +51,8 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
 
 <a id="claim-t-191167"></a>
 - t-002
-  global_id: t-191167
   teiginys: "Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,34 +68,11 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174049
-    - c-002
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
 - susijęs iš [[objektai/grupes/Skitai.md#claim-t-192461|Skitai]]: Narbutas rašė, kad Šiaurės tautų sagos skandinavų protėvių atvykimą siejo su Skitijos puse ir Odino vadovavimu.
 - susijęs iš [[objektai/grupes/Keltai.md#claim-t-192985|Keltai]]: Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192456|Skandinavai]]: Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-192459|Skandinavai]]: Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    85
-
-    ## Puslapis 83
-
-    rnėgio, juos derėtų vadinti pirmaisiais Siaurės didvyriais.
-    Turbūt jų šlovė keltų kartose pelnė jiems pravardę Goti,
-    o tai reiškia Dievą; tačiau iš pradžių jie turėjo vadintis
-    Wod, tai yra Vodino, arba Odino, bičiulis1. Jų karingu­
-    mas buvo taip susipynęs su žiaurumu, kad jų vardas tapo
-    pasaulio siaubu ir dangaus rykšte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191167
 ## Citatos
 
 - id: c-174048
@@ -121,25 +96,13 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191166
+    - t-001
+
 - id: c-174049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tacitas, vardy­
-    damas savo veikalo apie germanų papročius medžiagą,
-    kurią paėmė iš senovės rašytojų memuarų, kalba apie
-    gotus kaip tautą, nuo senų laikų gyvenančią kairiojoje
-    Vyslos žemupio pakrantėje. Atrodo, kad jie vien prekiavo
-    Baltijos jūros rytinės pakrantės produktais, ypač gintaru,
-    kurį galėjo nugabenti net į Britaniją ir tiesiog pardavinėti
-    jį kartaginiečiams. Bet vėliau, kai Viduržemio jūros pre­
-    kybininkai patys ėmė atplaukti net iki gintaringų vieto­
-    vių, kai, kaip reikia manyti, padaugėjo šiuo verslu užsi­
-    imančių žmonių, gotai labiau panoro plėšti turtų prikrau­
-    tus laivus ir turtingas pakrančių gyvenamąsias vietoves.
-  citata_rodoma: |
     85
 
     ## Puslapis 83
@@ -150,10 +113,11 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
     Wod, tai yra Vodino, arba Odino, bičiulis1. Jų karingu­
     mas buvo taip susipynęs su žiaurumu, kad jų vardas tapo
     pasaulio siaubu ir dangaus rykšte.
+  citata_rodoma: "85\n\n## Puslapis 83\n\nrnėgio, juos derėtų vadinti pirmaisiais Siaurės didvyriais.\nTurbūt jų šlovė keltų kartose pelnė jiems pravardę Goti,\no tai reiškia Dievą; tačiau iš pradžių jie turėjo vadintis\nWod, tai yra Vodino, arba Odino, bičiulis1. Jų karingu­\nmas buvo taip susipynęs su žiaurumu, kad jų vardas tapo\npasaulio siaubu ir dangaus rykšte."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191167
+    - t-002

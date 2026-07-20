@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-34572"></a>
 - t-001
-  global_id: t-34572
   teiginys: "Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-35797
 
 <a id="claim-t-192498"></a>
-- t-002
-  global_id: t-192498
+- t-003
   teiginys: "Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-175288
 
 <a id="claim-t-194870"></a>
-- t-003
-  global_id: t-194870
+- t-004
   teiginys: "180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/ Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Nenurodyta
     - c-177266
 
 <a id="claim-t-194945"></a>
-- t-004
-  global_id: t-194945
+- t-005
   teiginys: "Kiekvienas bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi minėmis; buvo suteikta teisė ir abipusėms vedyboms."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -125,8 +121,7 @@ Nenurodyta
     - c-177341
 
 <a id="claim-t-200761"></a>
-- t-005
-  global_id: t-200761
+- t-006
   teiginys: "Aprašomoje akmens kompozicijoje herbas išskirtas užtikrintu ir raiškiu kalto darbu."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -279,7 +274,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34572
+    - t-001
+
 - id: c-175288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -301,7 +297,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192498
+    - t-003
+
 - id: c-177266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -321,7 +318,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194870
+    - t-004
+
 - id: c-177341
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -341,7 +339,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194945
+    - t-005
+
 - id: c-184106
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -358,6 +357,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200761
+    - t-006
+
 ## Ryšiai
 - Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/vietos/Vilnius]]

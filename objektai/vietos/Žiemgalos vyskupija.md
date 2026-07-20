@@ -37,7 +37,6 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
 
 <a id="claim-t-32744"></a>
 - t-001
-  global_id: t-32744
   teiginys: "1254 m. Ordinas gavo žemių per Žiemgalos vyskupijos dalybas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
     pijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė
     tolimesnius ordino laimėjimus.
-  citata_rodoma: |
-    Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
-    pijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė
-    tolimesnius ordino laimėjimus.
+  citata_rodoma: "Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­\npijos dalybų (1254 m.)^139. Mindaugo užrašymai Žemaičiuose reiškė\ntolimesnius ordino laimėjimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32744
+    - t-001

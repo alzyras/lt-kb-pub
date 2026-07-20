@@ -31,7 +31,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 
 <a id="claim-t-40033"></a>
 - t-001
-  global_id: t-40033
   teiginys: "Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 
 <a id="claim-t-183728"></a>
 - t-002
-  global_id: t-183728
   teiginys: "Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,7 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Svoris be durtuvo - 4,20 kg
+    Bendras durtuvo ilgis — 502 mm. Svoris be durtuvo - 4,20 kg
 
     SAVANORIAI VERŽIASI Į KOVĄ
 
@@ -106,38 +104,15 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
     5
 
     .
-  citata_rodoma: |
-    Svoris be durtuvo - 4,20 kg
-
-    SAVANORIAI VERŽIASI Į KOVĄ
-
-    |
-
-    | Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, |
-    kaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos.
-
-    "
-    ai)
-    2
-
-    >
-
-    £
-
-    o
-
-    “
-
-    5
-
-    .
+  citata_rodoma: "Svoris be durtuvo - 4,20 kg\n\nSAVANORIAI VERŽIASI Į KOVĄ\n\n|\n\n| Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, |\nkaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos.\n\n\"\nai)\n2\n\n>\n\n£\n\no\n\n“\n\n5\n\n."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40033
+    - t-001
+
 - id: c-167116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -152,4 +127,4 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183728
+    - t-002

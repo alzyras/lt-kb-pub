@@ -33,7 +33,6 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 
 <a id="claim-t-09984"></a>
 - t-001
-  global_id: t-09984
   teiginys: "Rygos vyskupas Albertas nugalėjo Visvaldį."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -61,13 +60,11 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
     Jotvingiai aw MI Visvaldis buvo nugalėtas
     NY Rygos vyskupo Alberto.
     Teutonų ordiną padėti kar- Europos rytuose didelius
-  citata_rodoma: |
-    Jotvingiai aw MI Visvaldis buvo nugalėtas
-    NY Rygos vyskupo Alberto.
+  citata_rodoma: "Jotvingiai aw MI Visvaldis buvo nugalėtas\nNY Rygos vyskupo Alberto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09984
+    - t-001

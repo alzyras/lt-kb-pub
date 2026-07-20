@@ -6,10 +6,10 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'M'
+sukurta: ''
+atnaujinta: ''
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -34,7 +34,6 @@ Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gors
 
 <a id="claim-t-202075"></a>
 - t-001
-  global_id: t-202075
   teiginys: "Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gorskis (Matthias Gorski) Ankstyviausioje iš išlikusiųjų 1534 m. Žygimanto Senojo privilegijoje Kauno tarė jui Jokūbui Šukui teigiama, kad šis po Kauno miesto vaito Jurgio Ravos (Rabės)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gors
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202075
+    - t-001

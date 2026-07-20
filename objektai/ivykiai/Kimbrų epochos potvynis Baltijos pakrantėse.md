@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-191024"></a>
 - t-001
-  global_id: t-191024
   teiginys: "Narbutas, remdamasis Hartknochu, kimbrų epochos potvynį sieja su dideliais Baltijos jūros krantų reljefo ir pavidalo pokyčiais Prūsijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-191025"></a>
 - t-002
-  global_id: t-191025
   teiginys: "Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-197544"></a>
 - t-003
-  global_id: t-197544
   teiginys: "Hartknochas, remdamasis vietos pa davimais ir tiesioginiais vietovės tyrinėjimais, visiškai įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros potvyniai išilgai visos Prūsijos padarė nemažai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Nenurodyta
 
 <a id="claim-t-197545"></a>
 - t-004
-  global_id: t-197545
   teiginys: "Tačiau esama sunku mų nustatant datą, kada tai galėjo įvykti: kalbėdamas apie dalykus, susijusius su įvykiais, galėjusiais įvykti daugiau negu šimtmetis prieš naują erą, jis mini 1190 metus ir kalba apie tą potvynį, kuris, anot jo pasakoji mų, turėjęs būti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -148,8 +144,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191024
-    - t-197545
+    - t-001
+    - t-004
+
 - id: c-173907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -178,7 +175,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191025
+    - t-002
+
 - id: c-179239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -208,4 +206,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197544
+    - t-003

@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201340"></a>
 - t-001
-  global_id: t-201340
   teiginys: "Vos buvo tas įsakymas Natangijoj apskelbtas, kaip tuojau rūstybė ir įbingimas visame krašte ap sireiškė ir aitra trakumo ūkėsus apniko; visų nar sieji ir godingieji, tarp jų — Govina, Stanta, Trinta, Misinas ir Sabinis, kilties vyrai, susirinkę slapta, guodės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184690
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujautęs tą, mistras
     didžiai supyko ir ketėjo vėl pilį suardyti, bet vil­
@@ -88,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201340
+    - t-001

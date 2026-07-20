@@ -30,8 +30,7 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
 ## Teiginiai
 
 <a id="claim-t-186031"></a>
-- t-001
-  global_id: t-186031
+- t-002
   teiginys: "Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -49,12 +48,10 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
   pagrindžia:
     - c-169392
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185947|Ivanas (Maskvos valdovas)]]: Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
-## Citatos
-
-- id: c-169392
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas
@@ -72,7 +69,19 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169392
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Lietuvos istorija
     -737
 
@@ -94,10 +103,11 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
     maskvėnai pradėjo, nė nelau­
     kdami, kol pasibaigs paliau­
     bos.
+  citata_rodoma: "Lietuvos istorija\n-737\n\n## Puslapis 736\n\nV ė l p ra d e d a m a s\nras su M a sk v a\natmesti, nes nebuvo nė vieno reikalavimo, su kuriuo\njie galėjo sutikti. Kad jie galop patys suprastų, kokie\nneprotingi jų reikalavimai, karalius pažadėjo atiduoti\nAndrejų, bet tada, kai Ivanas savo ruožtu karaliui grą­\nžinsiąs kunigaikščius Lengvenaičius, Glinskius, Belskius,\nTrubeckojus, Odojevskius, Masalskius ir kitus su viso­\nmis jų šeimynomis ir\ntėvonijomis. Nieko nenuveikę,\npasiuntiniai patraukė atgal, ir\nka-\nštai vėl įsiplieskė karas, kurį\nmaskvėnai pradėjo, nė nelau­\nkdami, kol pasibaigs paliau­\nbos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186031
+    - t-002

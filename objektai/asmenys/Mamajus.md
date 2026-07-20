@@ -31,7 +31,6 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
 
 <a id="claim-t-191441"></a>
 - t-001
-  global_id: t-191441
   teiginys: "Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
 
 <a id="claim-t-197776"></a>
 - t-002
-  global_id: t-197776
   teiginys: "Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?"
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,6 +80,7 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174323
@@ -98,19 +97,12 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
     Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
     kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
     simus pateiks kiti tyrinėjimai.
-  citata_rodoma: |
-    Be to, kyla ir dar
-    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
-    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
-    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
-    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
-    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
-    simus pateiks kiti tyrinėjimai.
+  citata_rodoma: "Be to, kyla ir dar \nkitų klausimų: ar Charoboe ordos pečenegai, prisijungę \nprie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė \nten miesto ir nepavadino jo taip pat panašiai Belotzeba. \nIš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas, \nkurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­\nsimus pateiks kiti tyrinėjimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191441
-    - t-197776
+    - t-001
+    - t-002

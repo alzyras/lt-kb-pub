@@ -39,8 +39,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-178211"></a>
-- t-001
-  global_id: t-178211
+- t-003
   teiginys: "Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 <a id="claim-t-178212"></a>
 - t-002
-  global_id: t-178212
   teiginys: "Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-161978
 
 <a id="claim-t-178213"></a>
-- t-003
-  global_id: t-178213
+- t-001
   teiginys: "Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-161976
 
 <a id="claim-t-178215"></a>
-- t-004
-  global_id: t-178215
+- t-005
   teiginys: "1411 m. vasario 1 d. prie Torno pilies buvo sudaryta taika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +156,9 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178213
-    - t-178215
+    - t-001
+    - t-005
+
 - id: c-161978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -175,19 +172,15 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     kariuomenei.
     Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
     mokesčiai.
-  citata_rodoma: |
-    Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­
-    vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti
-    kariuomenei.
-    Taip maždaug atrodo Vytauto žemės ūkis ir jam mokami
-    mokesčiai.
+  citata_rodoma: "Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­\nvo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti\nkariuomenei.\nTaip maždaug atrodo Vytauto žemės ūkis ir jam mokami\nmokesčiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178212
+    - t-002
+
 - id: c-161979
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -201,15 +194,11 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
     prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
     aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
-  citata_rodoma: |
-    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
-    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
-    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
-    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
+  citata_rodoma: "Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties\n(1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio\nprekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,\naišku, kad nuoširdžių santykių su Vytautu negalėjo būti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178211
+    - t-003

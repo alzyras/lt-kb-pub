@@ -30,8 +30,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 ## Teiginiai
 
 <a id="claim-t-72513"></a>
-- t-001
-  global_id: t-72513
+- t-002
   teiginys: "Estijoje buvo keletas šimtų lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
     - c-70937
 
 <a id="claim-t-72514"></a>
-- t-002
-  global_id: t-72514
+- t-001
   teiginys: "Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 
 <a id="claim-t-193109"></a>
 - t-003
-  global_id: t-193109
   teiginys: "Tuose kraštuose lietuvių tarnavo įvairiose rusų valdžios įstaigose, bet po karo daugumas jų grįžo į Lietuvą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,8 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72513
+    - t-002
+
 - id: c-70938
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,7 +111,8 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72514
+    - t-001
+
 - id: c-175869
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -131,4 +130,4 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193109
+    - t-003

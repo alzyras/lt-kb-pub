@@ -39,7 +39,6 @@ Rolando pajėgas pasukti kairiau, Nėries link.
 
 <a id="claim-t-80732"></a>
 - t-001
-  global_id: t-80732
   teiginys: "Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -159,4 +158,4 @@ Rolando pajėgas pasukti kairiau, Nėries link.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80732
+    - t-001

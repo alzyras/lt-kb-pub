@@ -27,25 +27,11 @@ media_all_json: |-
 
 Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194130"></a>
-- t-001
-  global_id: t-194130
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleidžiau neaiškų įvardį į Vytautą pagal citatos kontekstą ir pašalinau fragmentišką formą. Chano skyrimą palikau kaip kronikos pasakojimą.'
-  pagrindžia:
-    - c-176743
-
-## Citatos
-
-- id: c-176743
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     186
 
@@ -61,10 +47,8 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
     ir gyvulius, bet pati neišsenka, taip ir šlovingasis val­
     dovas skiria Ordai daugybę chanų, o pas jį dar dau­
     giau lieka.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194130
+  statusas: verified

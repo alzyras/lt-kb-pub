@@ -7,12 +7,12 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho
 
 <a id="claim-t-202159"></a>
 - t-001
-  global_id: t-202159
   teiginys: "O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho, tik 1643 m. Kauno klebonas Bartlomėjus Ciešinskis reikalavo, kad jie prisidėtų prie cecho altoriaus Kauno parapinėje bažnyčioje išlaikymo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202159
+    - t-001

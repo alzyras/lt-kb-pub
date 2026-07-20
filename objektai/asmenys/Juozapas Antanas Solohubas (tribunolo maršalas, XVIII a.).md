@@ -30,7 +30,6 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
 
 <a id="claim-t-200492"></a>
 - t-001
-  global_id: t-200492
   teiginys: "Juozapas Antanas Solohubas buvo tribunolo maršalas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -64,22 +63,8 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Būdamas politinių ir visuomeninių įvykių centre, kanauninkas nuolat
-    turėjo dalyvauti pobūviuose su tribunolo vadovais, kitais bajorų grupuočių lyderiais.
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
-  citata_rodoma: |
-    Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti
-    į Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni
-    Sołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-
-    monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200492
+    - t-001

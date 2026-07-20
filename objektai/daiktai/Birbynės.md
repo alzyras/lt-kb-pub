@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-198530"></a>
 - t-001
-  global_id: t-198530
   teiginys: "Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -79,17 +78,11 @@ Nenurodyta
     pulkams žengti abiem perėjimais per upę.
     Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
     gė per upę.
-  citata_rodoma: |
-    Kunigaikš­
-    tis Mykolas !3, matydamas su didikais ir su visa kariuo­
-    mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
-    pulkams žengti abiem perėjimais per upę.
-    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
-    gė per upę.
+  citata_rodoma: "Kunigaikš­\ntis Mykolas !3, matydamas su didikais ir su visa kariuo­\nmene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems \npulkams žengti abiem perėjimais per upę.\nIr, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198530
+    - t-001

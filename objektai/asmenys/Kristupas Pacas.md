@@ -31,8 +31,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ## Teiginiai
 
 <a id="claim-t-79090"></a>
-- t-001
-  global_id: t-79090
+- t-004
   teiginys: "Kancleris Kristupas Pacas vadovavo Pacų šeimai ir Lietuvos politikai, taip pat pastatė Pažaislio vienuolyną prie Kauno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,8 +40,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     - c-76184
 
 <a id="claim-t-79091"></a>
-- t-002
-  global_id: t-79091
+- t-005
   teiginys: "Jonui Kazimierui atsisakant sosto, Kristupas Pacas buvo vienas iš Lietuvoje vadovavusių Pacų ir ėjo kanclerio pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,7 +50,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 
 <a id="claim-t-79092"></a>
 - t-003
-  global_id: t-79092
   teiginys: "Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,18 +80,15 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
     Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
     o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: |
-    Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
-      niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
-      Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
-      o penktas, Petras, — Žemaičių seniūnas.
+  citata_rodoma: "Vienas iš jų, Mykolas, buvo hetmonas ir Vil-\n  niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —\n  Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,\n  o penktas, Petras, — Žemaičių seniūnas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79091
+    - t-005
+
 - id: c-76183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,21 +101,15 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: |
-    kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
+  citata_rodoma: "kilo Žemaičių sukilimas, padaręs\nšvedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79092
+    - t-003
+
 - id: c-76184
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -136,16 +124,11 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
     kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
     ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-      buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
-      žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
-      kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
-      ir Povilo -bažnyčią Antakalny).
+  citata_rodoma: "Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,\n  buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-\n  žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-\n  kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro\n  ir Povilo -bažnyčią Antakalny)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79090
+    - t-004

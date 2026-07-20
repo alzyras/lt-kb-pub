@@ -39,7 +39,6 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
 
 <a id="claim-t-80745"></a>
 - t-001
-  global_id: t-80745
   teiginys: "Kovose su bolševikais pasižymėjo majoro V. Zeschau vadovaujamas 18-asis saksų pėstininkų pulkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80745
+    - t-001

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 
 <a id="claim-t-58943"></a>
 - t-001
-  global_id: t-58943
   teiginys: "Petras Dusburgietis 1326 m. užbaigė kroniką, kad būsimoms kartoms liktų šventojo žygio atminimas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58943
+    - t-001

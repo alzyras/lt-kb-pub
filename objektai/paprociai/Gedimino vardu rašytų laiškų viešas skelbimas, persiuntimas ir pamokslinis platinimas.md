@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87157"></a>
 - t-001
-  global_id: t-87157
   teiginys: "1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-87158"></a>
 - t-002
-  global_id: t-87158
   teiginys: "Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,36 +120,15 @@ Nenurodyta
     noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
     nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
     Sostui].
-  citata_rodoma: |
-    "
-    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
-    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
-    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
-    nas norėjęs krikštytis.
-    Epitomatorius  nurodo tiesiai: Cives Rigenses et
-    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
-    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
-    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
-    91
-
-    ## Puslapis 108
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
-    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
-    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
-    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
-    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
-    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
-    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
-    Sostui].
+  citata_rodoma: "\"\nTaigi Jerošinas puikiausiai žinojo, kad arkivyskupas \nir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­\ntams bei popiežiui ir platino melagingą žinią, jog Gedimi­\nnas norėjęs krikštytis.\nEpitomatorius  nurodo tiesiai: Cives Rigenses et \nArchiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo- \nnia dissidiantur et in omnibus civitatibus et locis maritimis notifi- \ncant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum\n91\n\n## Puslapis 108\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbaptisma et fidem libenter cum suis susciperent, sed fratres nollet \neos suscipere, et idem intimant litteris apostołko [Rygos mies­\ntiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje \nprieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir \nvietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius \nnoriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai \nnenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų \nSostui]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87158
+    - t-002
+
 - id: c-83137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,4 +152,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87157
+    - t-001

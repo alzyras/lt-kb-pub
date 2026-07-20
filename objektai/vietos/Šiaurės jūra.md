@@ -34,7 +34,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 
 <a id="claim-t-02923"></a>
 - t-001
-  global_id: t-02923
   teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,10 +50,9 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-166497
 
 <a id="claim-t-192790"></a>
-- t-002
-  global_id: t-192790
+- t-003
   teiginys: "Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,28 +68,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175560
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet turbūt
-    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
-    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
-    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
-    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
-    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
-    įteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę
-    laiko pasakų išmone, tačiau mes, spręsdami iš senovės
-    1 Lib.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192790
+
 ## Citatos
 
 - id: c-166497
@@ -114,29 +91,13 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02923
+    - t-001
+
 - id: c-175560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    skandinavų Aldėjaborgo tvirtovės, buvusios Nemuno pa­
-    krantėje1, o tai įrodysime vėliau, pavadinimo panašumo
-    su išlikusiu lietuvių kalbos žodžiu Aldeja, eldija, reiškian­
-    čiu valtį, įsitikiname teisingumu Herodoto pasakojimo, iš
-    kurio galima daryti išvadų, kad Nemuno upę boristenie-
-    čiai žinojo dabar minėtu pavadinimu; tai patvirtina pats
-    jos artumas prie Sembos ir susijungimas beveik nepertrau­
-    kiamu vandens keliu su Dnepro upės vandens baseinu,
-    įbaugintas boristeniečių pasakojimų apie Siaurės kraštų
-    nesvetingumą, atšiaurų klimatą ir nepaprastus meteoriti-
-    nius fenomenus, Herodotas negalėjo to pats patikrinti.
-    Tad šis garsus keliautojas ir objektyviausias rašytojas
-    buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­
-    vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
-    jis taip baigia savo pasakojimą: „Apie toliausias Europos
-    vietoves neturiu 'ką pasakyti.
-  citata_rodoma: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
     vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
@@ -146,10 +107,11 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     įteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę
     laiko pasakų išmone, tačiau mes, spręsdami iš senovės
     1 Lib.
+  citata_rodoma: "Bet turbūt\ndėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei\nvietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.\nKeliautojas tik sužinojo, kad jis renkamas prie Eridano\nupės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­\ngi kalba apie gintarą, randamą ten, kur Aldeskos upė\nįteka į Šiaurės jūrą3. Kai kurie senovės tyrinėtojai šią upę\nlaiko pasakų išmone, tačiau mes, spręsdami iš senovės\n1 Lib."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192790
+    - t-003

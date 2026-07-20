@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08282"></a>
-- t-001
-  global_id: t-08282
+- t-002
   teiginys: "Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -88,6 +87,21 @@ Nenurodyta
 
 ## Citatos
 
+- id: c-05198
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Husitų pasiuntinius 1424.IV.25 d. jis
+    priėmė anksti rytą prie Gardino, sėsdamas į balną, ir jiems nedrau­
+    giškai prikišo husitų nenorą taikytis su Roma^21.
+  citata_rodoma: "Husitų pasiuntinius 1424.IV.25 d. jis\npriėmė anksti rytą prie Gardino, sėsdamas į balną, ir jiems nedrau­\ngiškai prikišo husitų nenorą taikytis su Roma^21."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-10239
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -96,14 +110,11 @@ Nenurodyta
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
         gal regėti šiandien dar krievių ir lybiešių žemėj.
-  citata_rodoma: |
-    Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
-    vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
-    gal regėti šiandien dar krievių ir lybiešių žemėj.
+  citata_rodoma: "Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš\nvieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus\ngal regėti šiandien dar krievių ir lybiešių žemėj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08282
+    - t-002

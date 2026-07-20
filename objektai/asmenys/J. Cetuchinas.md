@@ -31,7 +31,6 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 
 <a id="claim-t-40154"></a>
 - t-001
-  global_id: t-40154
   teiginys: "J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,18 +60,11 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
     vaujamą grupę nuvedė pas bolševikus,
     liepęs nešaudyti, o vėliau tiesiog įsakyda-
     mas jiems pasiduoti.
-  citata_rodoma: |
-    “
-
-    Pirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų
-    kilmės karin. J. Cetuchinas savo vado-
-    vaujamą grupę nuvedė pas bolševikus,
-    liepęs nešaudyti, o vėliau tiesiog įsakyda-
-    mas jiems pasiduoti.
+  citata_rodoma: "“\n\nPirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų\nkilmės karin. J. Cetuchinas savo vado-\nvaujamą grupę nuvedė pas bolševikus,\nliepęs nešaudyti, o vėliau tiesiog įsakyda-\nmas jiems pasiduoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40154
+    - t-001

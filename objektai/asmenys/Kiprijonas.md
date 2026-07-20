@@ -42,7 +42,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 <a id="claim-t-63828"></a>
 - t-001
-  global_id: t-63828
   teiginys: "Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 <a id="claim-t-63829"></a>
 - t-002
-  global_id: t-63829
   teiginys: "Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,24 +102,15 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     pasiuntinius pas lietuvių didįjį kunigaikštį
     Vytautą, kad išduotų jam pabėgusį „carą“
     Tochtamišą, jo priešą.
-  citata_rodoma: |
-    Greičiausiai Vytauto
-    iniciatyva per Maskvos didįjį kunigaikštį
-    Vasilijų Konstantinopolio patriarchas ra-
-    gino Kijevo metropolitą Kiprijoną kviesti
-    tikinčiuosius į karą prieš totorius.
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą.
+  citata_rodoma: "Greičiausiai Vytauto\niniciatyva per Maskvos didįjį kunigaikštį\nVasilijų Konstantinopolio patriarchas ra-\ngino Kijevo metropolitą Kiprijoną kviesti\ntikinčiuosius į karą prieš totorius.\nBesirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63829
+    - t-002
+
 - id: c-64762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -139,4 +128,4 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63828
+    - t-001

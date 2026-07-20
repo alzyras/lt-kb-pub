@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-189626"></a>
 - t-001
-  global_id: t-189626
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis, liepęs iškirsti šventąjį mišką, pirmas kirviu nukirto vieną aukščiausių medžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-189627"></a>
 - t-002
-  global_id: t-189627
   teiginys: "Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189626
+    - t-001
+
 - id: c-172510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -133,4 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189627
+    - t-002

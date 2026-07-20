@@ -39,8 +39,7 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 ## Teiginiai
 
 <a id="claim-t-40632"></a>
-- t-001
-  global_id: t-40632
+- t-002
   teiginys: "Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     - c-42422
 
 <a id="claim-t-40634"></a>
-- t-002
-  global_id: t-40634
+- t-001
   teiginys: "Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 
 <a id="claim-t-183697"></a>
 - t-003
-  global_id: t-183697
   teiginys: "STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40632
+    - t-002
+
 - id: c-44612
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,24 +134,15 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     paprastai žmonių stribais vadinamų. Šis
     vardas yra verstinis iš rusiskojo — „istri-
     bitel“ - naikintojas.
-  citata_rodoma: |
-    STRIBAI
-
-    Juozas Daumantas pasakoja apie stri-
-    bus - sovietiniams okupantams talki-
-    nusius kolaborantus.
-
-    „Kovai su partizanais bolševikai dar
-    1944 metų rudenį mobilizavo dalinius va-
-    dinamųjų „liaudies gynėjų“ - istrebitelių,
-    paprastai žmonių stribais vadinamų.
+  citata_rodoma: "STRIBAI\n\nJuozas Daumantas pasakoja apie stri-\nbus - sovietiniams okupantams talki-\nnusius kolaborantus.\n\n„Kovai su partizanais bolševikai dar\n1944 metų rudenį mobilizavo dalinius va-\ndinamųjų „liaudies gynėjų“ - istrebitelių,\npaprastai žmonių stribais vadinamų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40634
+    - t-001
+
 - id: c-167087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -178,4 +167,4 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183697
+    - t-003

@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67583"></a>
-- t-001
-  global_id: t-67583
+- t-016
   teiginys: "Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-13863
 
 <a id="claim-t-67586"></a>
-- t-002
-  global_id: t-67586
+- t-015
   teiginys: "Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-13862
 
 <a id="claim-t-67589"></a>
-- t-003
-  global_id: t-67589
+- t-014
   teiginys: "Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -110,17 +107,15 @@ media_all_json: |-
     mūsų neatbaidė. Tuojau pasiskirstėme temas, aptarėme dar­
     bo pobūdį: laikytis vidurio tarp moksliško ir popu­
     liaraus veikalo, ir išsiskirstėm.
-  citata_rodoma: |
-    Tuojau pasiskirstėme temas, aptarėme dar­
-    bo pobūdį: laikytis vidurio tarp moksliško ir popu­
-    liaraus veikalo, ir išsiskirstėm.
+  citata_rodoma: "Tuojau pasiskirstėme temas, aptarėme dar­\nbo pobūdį: laikytis vidurio tarp moksliško ir popu­\nliaraus veikalo, ir išsiskirstėm."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67589
+    - t-014
+
 - id: c-13862
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -142,7 +137,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67586
+    - t-015
+
 - id: c-13863
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -157,16 +153,11 @@ media_all_json: |-
     siam naudingais patarimais šią monografiją rašant bei reda­
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: |
-    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
-    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
-    siam naudingais patarimais šią monografiją rašant bei reda­
-    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
-    ligos negalėjo parašyti šiai knygai įžangos žodžio.
+  citata_rodoma: "Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę\ndidelio dėkingumo gerb. prof. A. Aleknai mielai padėju­\nsiam naudingais patarimais šią monografiją rašant bei reda­\nguojant, ir kartu apgailestaujam, kad gerb, profesorius dėl\nligos negalėjo parašyti šiai knygai įžangos žodžio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67583
+    - t-016

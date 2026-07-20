@@ -30,10 +30,9 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
 ## Teiginiai
 
 <a id="claim-t-187278"></a>
-- t-001
-  global_id: t-187278
+- t-002
   teiginys: "Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "priklause -> Lenkija: 0.94"
@@ -48,12 +47,9 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
   pagrindžia:
     - c-170325
 - susijęs iš Šventasis Kryžius: Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
-## Citatos
-
-- id: c-170325
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     13). Kad jis dalyvavo
     Jogailos vainikavimo Iškilmėse, kiti šaltiniai nemini. Atrodo, kad
@@ -64,14 +60,27 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
     11 Jogaila su broliais Ir kitais palydovais iš Vilniaus išvyko
     vėliausiai 1385 m. gruodžio pabaigoje ar pirmosiomis 1386 m. die­
     nomis; 1386.1.11 buvo Volkovyske; j Krokuvą (važiavo 1386.11.12.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170325
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km
     j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės
     rytus nuo Krokuvos).
+  citata_rodoma: "Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km \nj vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės \nrytus nuo Krokuvos)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187278
+    - t-002

@@ -44,8 +44,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 ## Teiginiai
 
 <a id="claim-t-96076"></a>
-- t-001
-  global_id: t-96076
+- t-013
   teiginys: "Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90797
 
 <a id="claim-t-96077"></a>
-- t-002
-  global_id: t-96077
+- t-019
   teiginys: "Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-31042
 
 <a id="claim-t-96078"></a>
-- t-003
-  global_id: t-96078
+- t-010
   teiginys: "Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90794
 
 <a id="claim-t-96080"></a>
-- t-004
-  global_id: t-96080
+- t-008
   teiginys: "Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90799
 
 <a id="claim-t-96081"></a>
-- t-005
-  global_id: t-96081
+- t-011
   teiginys: "Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,8 +130,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90803
 
 <a id="claim-t-96083"></a>
-- t-006
-  global_id: t-96083
+- t-015
   teiginys: "XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -152,8 +146,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90796
 
 <a id="claim-t-96084"></a>
-- t-007
-  global_id: t-96084
+- t-012
   teiginys: "Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -169,8 +162,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90804
 
 <a id="claim-t-96085"></a>
-- t-008
-  global_id: t-96085
+- t-020
   teiginys: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,8 +178,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-31043
 
 <a id="claim-t-96086"></a>
-- t-009
-  global_id: t-96086
+- t-018
   teiginys: "Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,8 +195,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90800
 
 <a id="claim-t-96087"></a>
-- t-010
-  global_id: t-96087
+- t-009
   teiginys: "Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -220,10 +210,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   semantiniai_rysiai: "Baltai kariavo prieš Vokiečiai (0.84)"
   pagrindžia:
     - c-90795
-    - c-004
+
 <a id="claim-t-96088"></a>
-- t-011
-  global_id: t-96088
+- t-014
   teiginys: "Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -239,8 +228,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-90798
 
 <a id="claim-t-183122"></a>
-- t-012
-  global_id: t-183122
+- t-021
   teiginys: "Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -260,8 +248,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - c-166507
 
 <a id="claim-t-197490"></a>
-- t-013
-  global_id: t-197490
+- t-022
   teiginys: "Otono Freizingiškio kronikoje randame, jog Vakarų gotai turėjo garsią Balthorum giminę, antrą po Amalų, o žodis Bultha turėjo reikšti audax, narsus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -572,8 +559,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-96087
+
 ## Citatos
 
 - id: c-31042
@@ -591,24 +577,15 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
-  citata_rodoma: |
-    ) baltuose ir jų san­**
-        **tykiai su kaimynais**
-
-    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
-    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
-    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
-    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
-    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
-    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
-    amžiuje, baltai išlaikė ją aukštame laipsnyje.
+  citata_rodoma: ") baltuose ir jų san­**\n    **tykiai su kaimynais**\n\nĮsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui\n(pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos\nPripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje\nvyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi\nNemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­\nliai, be jokių lūžių vystydami savo kultūrą viduriniame geležies\namžiuje, baltai išlaikė ją aukštame laipsnyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96077
+    - t-019
+
 - id: c-31043
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -622,20 +599,15 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
-  citata_rodoma: |
-    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
-    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
-    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
-    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
-    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
-    Salys).
+  citata_rodoma: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,\nyra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų\nslavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų\nbendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra\nišriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.\nSalys)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96085
+    - t-020
+
 - id: c-90794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -646,44 +618,33 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
     akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
-  citata_rodoma: |
-    Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
-    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
+  citata_rodoma: "Mindaugas\nnorėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės\nbaltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač\nakivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96078
+    - t-010
+
 - id: c-90795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
-    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir
-    lietuviai29.
-    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
-    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30.
-  citata_rodoma: |
     Taigi Lietuvos
     pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
       Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+  citata_rodoma: "Taigi Lietuvos\npastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.\n  Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus\ntada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96087
+    - t-009
+
 - id: c-90796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -701,7 +662,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96083
+    - t-015
+
 - id: c-90797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -715,7 +677,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96076
+    - t-013
+
 - id: c-90798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -734,7 +697,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96088
+    - t-014
+
 - id: c-90799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -749,21 +713,15 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-  citata_rodoma: |
-    Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių.
+  citata_rodoma: "Prūsai ir Lietuva\n\n   Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos\nartimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos\nvientisumas.\n  Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96080
+    - t-008
+
 - id: c-90800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -788,7 +746,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96086
+    - t-018
+
 - id: c-90803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -812,7 +771,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96081
+    - t-011
+
 - id: c-90804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -834,7 +794,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96084
+    - t-012
+
 - id: c-166507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -852,7 +813,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183122
+    - t-021
+
 - id: c-179219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -872,7 +834,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197490
+    - t-022
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Sembai]]
 - Baltai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]], [[objektai/vietos/Okos baseinai]]

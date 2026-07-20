@@ -8,13 +8,13 @@ datos:
   - '1922 m.'
 date_start: '1914'
 date_end: '1922'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - socialinis-terminas
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,8 +37,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 ## Teiginiai
 
 <a id="claim-t-169934"></a>
-- t-001
-  global_id: t-169934
+- t-002
   teiginys: "Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     - c-166869
 
 <a id="claim-t-169935"></a>
-- t-002
-  global_id: t-169935
+- t-003
   teiginys: "Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     - c-154614
 
 <a id="claim-t-169936"></a>
-- t-003
-  global_id: t-169936
+- t-005
   teiginys: "Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     - c-154612
 
 <a id="claim-t-183475"></a>
-- t-004
-  global_id: t-183475
+- t-007
   teiginys: "Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -110,6 +106,23 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   pagrindžia:
     - c-166870
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
+    kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
+    nį skonį. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
+    Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
+    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
+    planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-154612
@@ -125,32 +138,20 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
     tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
     valstybinės tarnybos.
-  citata_rodoma: |
-    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
-    tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
-    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
-    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
-    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
-    valstybinės tarnybos.
+  citata_rodoma: "Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-\ntinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai \ntautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti \nsavo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-\ntuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė \nvalstybinės tarnybos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169936
+    - t-005
+
 - id: c-154614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
-    kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
-    nį skonį. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
-    Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
-    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
-    planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
-  citata_rodoma: |
     Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
     Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
     bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
@@ -160,13 +161,15 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     plikavosi. 1914 m. pradžioje dar niekas nemąstė, kad po kelerių metų teks
     imtis praktinės veiklos svajonėms įgyvendinti, kad netrukus reikės rinktis
     ne draugijas pagal kalbą, o Lenkijos arba Lietuvos piliečio pasą.
+  citata_rodoma: "Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano \nBaranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-\nbė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo \nplanuose lenkai numatė lietuviams tik tautinės mažumos statusą. Tarsi „at-\nsidėkodami“ už tai lietuviai savo vizijų Lietuvos valstybėje lenkiškai kal-\nbantiesiems taip pat numatė tik tautinės mažumos statusą. Dialogas kom-\nplikavosi. 1914 m. pradžioje dar niekas nemąstė, kad po kelerių metų teks \nimtis praktinės veiklos svajonėms įgyvendinti, kad netrukus reikės rinktis \nne draugijas pagal kalbą, o Lenkijos arba Lietuvos piliečio pasą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169935
+    - t-003
+
 - id: c-166869
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,7 +189,8 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169934
+    - t-002
+
 - id: c-166870
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -207,4 +211,4 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183475
+    - t-007

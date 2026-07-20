@@ -38,7 +38,6 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 
 <a id="claim-t-88058"></a>
 - t-001
-  global_id: t-88058
   teiginys: "Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,27 +80,11 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
     kuris redaguojamas mokslininko
     Mikalojaus Malinovskio, kadaise
     buvo leidžiamas Vilniuje.
-  citata_rodoma: |
-    Vyskupui buvo
-    10
-    Vladislovo Jogailos privilegija yra
-    Vilniaus kapitulos archyve: Actum in
-    Vilno die dominico proximo ante car­
-    nis privium anno D-ni 1387 [Aktuota
-    Vilniuje artimiausią sekmadienį
-    prieš Užgavėnes]. Tos dotacijos Vil­
-    niaus vyskupijai nuorašo vertimas
-    iš lotynų kalbos, atliktas kunigo Gri­
-    galiaus Kniaževičiaus, yra išspaus­
-    dintas periodiniame leidinyje: Dzieje
-    dobroczynności, 1822, N 32, p. 770,
-    kuris redaguojamas mokslininko
-    Mikalojaus Malinovskio, kadaise
-    buvo leidžiamas Vilniuje.
+  citata_rodoma: "Vyskupui buvo\n10\nVladislovo Jogailos privilegija yra \nVilniaus kapitulos archyve: Actum in \nVilno die dominico proximo ante car­\nnis privium anno D-ni 1387 [Aktuota \nVilniuje artimiausią sekmadienį \nprieš Užgavėnes]. Tos dotacijos Vil­\nniaus vyskupijai nuorašo vertimas \niš lotynų kalbos, atliktas kunigo Gri­\ngaliaus Kniaževičiaus, yra išspaus­\ndintas periodiniame leidinyje: Dzieje \ndobroczynności, 1822, N 32, p. 770, \nkuris redaguojamas mokslininko \nMikalojaus Malinovskio, kadaise \nbuvo leidžiamas Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88058
+    - t-001

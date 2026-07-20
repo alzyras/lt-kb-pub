@@ -31,9 +31,8 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
 
 <a id="claim-t-191650"></a>
 - t-001
-  global_id: t-191650
   teiginys: "Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žinias surinko inžinierius generolas Karolis Ojpermanas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,26 +48,7 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174532
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žinias surinko inžinierius generolas Karolis Ojpermanas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Aprašęs juodkalniečių savybes, T. Narbutas nu­
-    rodė ir savo žinių šaltinį, kuris, regis, susijęs su kai ku­
-    riais autobiografiniais paties istoriko gyvenimo momen­
-    tais. Jis rašė: „Teko laikyti rankose rankraščius, turin­
-    čius žinių apie juodkalniečius; jas surinko inžinierius ge­
-    nerolas Karolis Ojpermanas, buvęs tuose kraštuose Ru­
-    sijos imperatoriaus Povilo I žygio metu < ...> “2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191650
+
 ## Citatos
 
 - id: c-174532
@@ -76,17 +56,6 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Daugu­
-    mą šių „nukrypimų“, kurių ypač gausu antrame tome, ga­
-    lima paaiškinti vidine įtampa ir dvasinėmis kūrybinio
-    žmogaus kančiomis; įsitraukęs į Lietuvos praeities re­
-    konstravimo darbą, T. Narbutas suprato, jog vargu ar
-    tai vienam žmogui įgyvendinamas uždavinys. Taigi jau
-    cituotos J. I. Kraševskio rašinio mintys turėjo paliesti
-    pačius giliausius T. Narbuto išgyvenimus. Atkurti senųjų
-    amžių vaizdą, išlaikyti nepertraukiamą įvykių seką buvo
-    ypač sudėtingas uždavinys.
-  citata_rodoma: |
     Aprašęs juodkalniečių savybes, T. Narbutas nu­
     rodė ir savo žinių šaltinį, kuris, regis, susijęs su kai ku­
     riais autobiografiniais paties istoriko gyvenimo momen­
@@ -94,10 +63,11 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
     čius žinių apie juodkalniečius; jas surinko inžinierius ge­
     nerolas Karolis Ojpermanas, buvęs tuose kraštuose Ru­
     sijos imperatoriaus Povilo I žygio metu < ...> “2.
+  citata_rodoma: "Aprašęs juodkalniečių savybes, T. Narbutas nu­\nrodė ir savo žinių šaltinį, kuris, regis, susijęs su kai ku­\nriais autobiografiniais paties istoriko gyvenimo momen­\ntais. Jis rašė: „Teko laikyti rankose rankraščius, turin­\nčius žinių apie juodkalniečius; jas surinko inžinierius ge­\nnerolas Karolis Ojpermanas, buvęs tuose kraštuose Ru­\nsijos imperatoriaus Povilo I žygio metu < ...> “2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191650
+    - t-001

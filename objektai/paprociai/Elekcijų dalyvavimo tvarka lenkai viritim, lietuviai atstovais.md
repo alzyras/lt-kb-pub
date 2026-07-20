@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-01945"></a>
 - t-001
-  global_id: t-01945
   teiginys: "Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,14 +72,11 @@ Nenurodyta
     **Lietuviai Mykolo elekcijoje** nebuvo visiškai vieningi. Kaip
     paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
     atsiuntė tik atstovus.
-  citata_rodoma: |
-    Kaip
-    paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
-    atsiuntė tik atstovus.
+  citata_rodoma: "Kaip\npaprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai\natsiuntė tik atstovus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01945
+    - t-001

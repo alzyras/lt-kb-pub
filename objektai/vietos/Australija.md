@@ -37,7 +37,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 
 <a id="claim-t-26327"></a>
 - t-001
-  global_id: t-26327
   teiginys: "Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 
 <a id="claim-t-183584"></a>
 - t-002
-  global_id: t-183584
   teiginys: "Dalis lietuvių tremtinių ir pabėgėlių po Antrojo pasaulinio karo pasuko į Australiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,18 +91,15 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
     tugaliją išvyko į JAV.
-  citata_rodoma: |
-    Per trejus–ketverius metus į JAV pasisekė atvykti
-    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
-    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
-    1940 m.
+  citata_rodoma: "Per trejus–ketverius metus į JAV pasisekė atvykti \nvisiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie \n30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. \n1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26327
+    - t-001
+
 - id: c-166977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,6 +115,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183584
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

@@ -41,8 +41,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 ## Teiginiai
 
 <a id="claim-t-70264"></a>
-- t-001
-  global_id: t-70264
+- t-006
   teiginys: "1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - c-69319
 
 <a id="claim-t-70265"></a>
-- t-002
-  global_id: t-70265
+- t-007
   teiginys: "Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - c-44202
 
 <a id="claim-t-70268"></a>
-- t-003
-  global_id: t-70268
+- t-001
   teiginys: "Spalio 6 d. prasidėjo paliaubos, per kurias lenkai slapta pergrupavo ir papildė savo pajėgas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - c-44201
 
 <a id="claim-t-70269"></a>
-- t-004
-  global_id: t-70269
+- t-002
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - c-69320
 
 <a id="claim-t-184632"></a>
-- t-005
-  global_id: t-184632
+- t-009
   teiginys: "Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -134,8 +129,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - c-167993
 
 <a id="claim-t-193152"></a>
-- t-006
-  global_id: t-193152
+- t-010
   teiginys: "Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -208,20 +202,15 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     pavo savo pajėgas, gausiai jas papildė ir
     pasirengė pulti Lietuvą ties Seinais ir Kap-
     čiamiesčiu.
-  citata_rodoma: |
-    Spalio 6 d. prasideda paliaubos.
-
-    Lenkai per derybų laiką slapta pergru-
-    pavo savo pajėgas, gausiai jas papildė ir
-    pasirengė pulti Lietuvą ties Seinais ir Kap-
-    čiamiesčiu.
+  citata_rodoma: "Spalio 6 d. prasideda paliaubos.\n\nLenkai per derybų laiką slapta pergru-\npavo savo pajėgas, gausiai jas papildė ir\npasirengė pulti Lietuvą ties Seinais ir Kap-\nčiamiesčiu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70268
+    - t-001
+
 - id: c-44202
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,7 +226,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70265
+    - t-007
+
 - id: c-69319
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -253,7 +243,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70264
+    - t-006
+
 - id: c-69320
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -266,17 +257,15 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
     livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
     džiame Tanenbergo mūšyje.
-  citata_rodoma: |
-    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
-    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
-    džiame Tanenbergo mūšyje.
+  citata_rodoma: "Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su\nlivoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-\ndžiame Tanenbergo mūšyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70269
+    - t-002
+
 - id: c-167993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -299,7 +288,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184632
+    - t-009
+
 - id: c-175904
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -316,4 +306,4 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193152
+    - t-010

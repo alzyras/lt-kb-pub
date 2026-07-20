@@ -7,13 +7,13 @@ datos:
   - '1417 m.'
 date_start: '1417'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-įvykis
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185718"></a>
 - t-001
-  global_id: t-185718
   teiginys: "Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-185719"></a>
 - t-002
-  global_id: t-185719
   teiginys: "Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,19 +86,33 @@ Nenurodyta
   pagrindžia:
     - c-169080
 
-<a id="claim-t-196181"></a>
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius, padrąsintas Vytauto tylėjimo, nu­
+    mojo ranka į visokius nemalonumus, kurių ši santuoka
+    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
+    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
+    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
+    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
+    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
+    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
+    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
+    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
+    nuomonę paprastai remia slaptas aukščiausiojo spren­
+    dimas.
+    Numalšinęs siautėjančius Rusioje skitus, Vytautas
+    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
+    važiavime, norėdamas neatidėliojant padaryti, ką su­
+    važiavimas buvo nutaręs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - t-003
-  global_id: t-196181
-  teiginys: "Kojelavičiaus pasakojime Vytautas, numalšinęs Rusioje siautėjusius skitus, pasikvietė Konstancos suvažiavimo pasiuntinius."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-169080
 
 ## Citatos
 
@@ -136,29 +148,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185718
+    - t-001
+
 - id: c-169080
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Karalius, padrąsintas Vytauto tylėjimo, nu­
-    mojo ranka į visokius nemalonumus, kurių ši santuoka
-    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
-    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
-    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
-    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
-    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
-    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
-    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
-    ką atmetė lyg susitarę žmonės. Mat visuotinę žmonių
-    nuomonę paprastai remia slaptas aukščiausiojo spren­
-    dimas.
-    Numalšinęs siautėjančius Rusioje skitus, Vytautas
-    pasikvietė pasiuntinius, dalyvavusius bažnytiniame su­
-    važiavime, norėdamas neatidėliojant padaryti, ką su­
-    važiavimas buvo nutaręs.
-  citata_rodoma: |
     Be
     galo ryžtingas žmogus, jis
     nieko nedarė iš lėto, nepa­
@@ -189,11 +185,11 @@ Nenurodyta
 
     sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
     vimo nutarimą.
+  citata_rodoma: "Be\ngalo ryžtingas žmogus, jis\nnieko nedarė iš lėto, nepa­\nkęsdamas ir kitų delsimo;\ntiesą\nsakant,\nnegi\ngalima\nnesmerkti atidėliojimo, jei­\ngu rūpinamasi dievo gar­\nbinimo bei žmonių išganymo reikalais. Vytauto pa­\nkviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­\nkyrę naujuoju ganytoju Motiejų, lietuvį, teologijos\nmokslų magistrą, neseniai tapusį Vilniaus kanauninkų\nkolegijos vyresniuoju, spalio mėnesį deramai sutvarkė\npagal šventųjų įstatymų reikalavimus viską, ką ir turėjo\ni417 metai\nK o n sta n co s\ns u v a žia ­\nv im o  pasiuntiniai g a ­\nlutinai\nįsteigia\nŽ e ­\nm aičių v y s k u p y s tę\n305\n\n## Puslapis 394\n\nsutvarkyti kunigaikštystėje pagal bažnytinio suvažia­\nvimo nutarimą."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185719
-    - t-196181
+    - t-002

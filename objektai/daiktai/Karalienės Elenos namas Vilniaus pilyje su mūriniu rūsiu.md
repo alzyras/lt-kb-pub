@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87081"></a>
 - t-001
-  global_id: t-87081
   teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87081
+    - t-001

@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-102086"></a>
-- t-001
-  global_id: t-102086
+- t-014
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,7 @@ Nenurodyta
     - c-24553
 
 <a id="claim-t-102087"></a>
-- t-002
-  global_id: t-102087
+- t-013
   teiginys: "1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,9 +98,8 @@ Nenurodyta
   pagrindžia:
     - c-16576
 
-<a id="claim-t-102094"></a>
-- t-003
-  global_id: t-102094
+<a id="claim-t-102088"></a>
+- t-022
   teiginys: "1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +119,7 @@ Nenurodyta
     - c-16576
 
 <a id="claim-t-102090"></a>
-- t-004
-  global_id: t-102090
+- t-018
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,8 +138,7 @@ Nenurodyta
     - c-95449
 
 <a id="claim-t-102091"></a>
-- t-005
-  global_id: t-102091
+- t-020
   teiginys: "1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +159,7 @@ Nenurodyta
     - c-25427
 
 <a id="claim-t-102092"></a>
-- t-006
-  global_id: t-102092
+- t-017
   teiginys: "1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -184,8 +178,7 @@ Nenurodyta
     - c-25427
 
 <a id="claim-t-102093"></a>
-- t-007
-  global_id: t-102093
+- t-015
   teiginys: "Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -204,8 +197,7 @@ Nenurodyta
     - c-16575
 
 <a id="claim-t-102095"></a>
-- t-008
-  global_id: t-102095
+- t-021
   teiginys: "Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -252,18 +244,15 @@ Nenurodyta
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: |
-    Iš tikrųjų tai buvo lenkiška Lietuvos
-    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
-    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
-    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+  citata_rodoma: "Iš tikrųjų tai buvo lenkiška Lietuvos \nsamprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano \nŽeligovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-\ndurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102093
+    - t-015
+
 - id: c-16576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -281,21 +270,16 @@ Nenurodyta
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: |
-    Nors 1920 m.
-    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
-    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
-    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
-    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
-    (Litwa środkowa) sudarymą.
+  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102087
-    - t-102094
+    - t-013
+    - t-022
+
 - id: c-24553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -307,17 +291,16 @@ Nenurodyta
     tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“.
-  citata_rodoma: |
-    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
-    suformuota „Vidurinė Lietuva“.
+  citata_rodoma: "Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo\nsuformuota „Vidurinė Lietuva“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102086
-    - t-102095
+    - t-014
+    - t-021
+
 - id: c-25427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -331,18 +314,16 @@ Nenurodyta
     nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
     nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
     karo, nei taikos“ situacijoje.
-  citata_rodoma: |
-    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
-    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
-    karo, nei taikos“ situacijoje.
+  citata_rodoma: "1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-\nnėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei\nkaro, nei taikos“ situacijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102091
-    - t-102092
+    - t-020
+    - t-017
+
 - id: c-95449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -359,6 +340,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-102090
+    - t-018
+
 ## Ryšiai
 - Vidurinė Lietuva priklausė [[objektai/vietos/Lenkija]]

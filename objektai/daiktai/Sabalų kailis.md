@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202329"></a>
 - t-001
-  global_id: t-202329
   teiginys: "Lietuvoje sabalų kailiai buvo paklausūs ir dažnai dovanojami svetimšaliams kaip itin vertingos dovanos."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -55,24 +54,17 @@ Nenurodyta
   pagrindžia:
     - c-185676
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185676
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 63 (PDF 6)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 63 (PDF 6)."
-  citata_originali: |
-    Vilniaus pirklio Grigaliaus Zakarevi-
-    čiaus testamente įrašyti dveji šermuonėlio kailio pamušalai, kurių
-    kiekvienas kainavęs po 17 kapų grašių98.
-    Kaip ir kitose šalyse, Lietuvoje paklausūs buvo sabalų kai-
-    liai, neretai įteikiami svetimšaliams kaip itin vertingos dovanos.
-    Dėl brangumo jie dažnai naudoti tik apvadams ir ištaiginges-
-    nėms kepurėms.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202329
+    - t-001

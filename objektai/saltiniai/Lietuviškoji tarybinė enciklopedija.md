@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuviškoji tarybinė enciklopedija.— T.
 
 <a id="claim-t-61132"></a>
 - t-001
-  global_id: t-61132
   teiginys: "Trečiasis „Lietuviškosios tarybinės enciklopedijos“ tomas išleistas 1978 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad lietuviškoji tarybinė enciklopedija.— T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61132
+    - t-001

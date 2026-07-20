@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21829"></a>
 - t-001
-  global_id: t-21829
   teiginys: "Taškento konferencijų dalyviai sutarė stiprinti rusų kalbos mokymą SSRS mokymo įstaigose ir kelti rusų kalbos mokytojų kvalifikaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ media_all_json: |-
     bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
-  citata_rodoma: |
-    zuoti rusų kalbos kvalifikacijos tobulinimo kursus mokytojams, rajonuose
+  citata_rodoma: "zuoti rusų kalbos kvalifikacijos tobulinimo kursus mokytojams, rajonuose"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21829
+    - t-001

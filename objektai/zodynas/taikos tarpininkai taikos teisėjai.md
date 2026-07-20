@@ -31,7 +31,6 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 
 <a id="claim-t-104174"></a>
 - t-001
-  global_id: t-104174
   teiginys: "Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104174
+    - t-001

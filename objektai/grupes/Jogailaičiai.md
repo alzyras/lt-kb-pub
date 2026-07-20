@@ -42,8 +42,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ## Teiginiai
 
 <a id="claim-t-110661"></a>
-- t-001
-  global_id: t-110661
+- t-005
   teiginys: "1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - c-102463
 
 <a id="claim-t-110662"></a>
-- t-002
-  global_id: t-110662
+- t-003
   teiginys: "Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - c-102461
 
 <a id="claim-t-110663"></a>
-- t-003
-  global_id: t-110663
+- t-004
   teiginys: "Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - c-102461
 
 <a id="claim-t-110664"></a>
-- t-004
-  global_id: t-110664
+- t-001
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis."
   atnaujinta: "2026-06-13 15:44"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - c-22426
 
 <a id="claim-t-193537"></a>
-- t-005
-  global_id: t-193537
+- t-006
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - c-176217
 
 <a id="claim-t-200755"></a>
-- t-006
-  global_id: t-200755
+- t-007
   teiginys: "Vorobjovas paskutiniųjų Jogailaičių ryšius su Margarita Austrijiete Savojiete siejo su galimu Šv. Onos bažnyčios ryšiu su vėlyvąja Flandrijos gotika."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -198,15 +192,15 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: |
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+  citata_rodoma: "dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110664
+    - t-001
+
 - id: c-102461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,27 +220,16 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
-  citata_rodoma: |
-    Bet jau tokia būna geni­
-    jaus įtaka menkesniems protams, kad dažnai net nenoro­
-    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
-    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
-    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
-    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
-    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
-    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
-    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
-    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
-    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
-    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
+  citata_rodoma: "Bet jau tokia būna geni­\njaus įtaka menkesniems protams, kad dažnai net nenoro­\nmis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio, \ngarbina ir vykdo didvyrio sumanymus, kurių iš paprasto \nžmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas, \ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas \niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje, \npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti \ndar ir naujų, amžiui priderančių, laisvių dalyviu72."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110662
-    - t-110663
+    - t-003
+    - t-004
+
 - id: c-102463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -262,22 +245,15 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     diną ir Maskvą.
 
     1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
-  citata_rodoma: |
-    suvažiavimas Vienoje. Nors Habsburgai
-    dinastinėje kovoje su Jogailaičiais dėl įtakos
-    Čekijoje ir Vengrijoje turėjo neabejotinai
-    daugiau naudos, bet nustojo remti amžinus
-    Lietuvos ir Lenkijos priešus - Vokiečių or-
-    diną ir Maskvą.
-
-    1514 m.
+  citata_rodoma: "suvažiavimas Vienoje. Nors Habsburgai\ndinastinėje kovoje su Jogailaičiais dėl įtakos\nČekijoje ir Vengrijoje turėjo neabejotinai\ndaugiau naudos, bet nustojo remti amžinus\nLietuvos ir Lenkijos priešus - Vokiečių or-\ndiną ir Maskvą.\n\n1514 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-110661
+    - t-005
+
 - id: c-176217
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -297,7 +273,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193537
+    - t-006
+
 - id: c-184100
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -316,6 +293,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200755
+    - t-007
+
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Motiejus Huniadis]]

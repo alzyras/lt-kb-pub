@@ -30,9 +30,8 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
 
 <a id="claim-t-190554"></a>
 - t-001
-  global_id: t-190554
   teiginys: "Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,32 +47,7 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173437
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV
-    skyrius
-    APIE AUKAS
-    Šventieji gėrimai
-    Alus (Alus) senovės lietuviams visuomet buvo pirmutinis
-    ir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­
-    sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
-    kilme. Paryžiaus akademijos „Užrašų“ XVII tome plačiai dės­
-    tomi pastebėjimai šiuo klausimu. Jų turinys toks. Antika alaus
-    išradimą priskiria Cererai ir Oziriui, kai jiedu klaidžiojo po
-    žemę: pirmoji -  ieškodama savo vienatinės dukters Prozerpi­
-    nos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir
-    naudingų amatų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190554
+
 ## Citatos
 
 - id: c-173437
@@ -81,25 +55,6 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tam rycerze polegli na wojnach straszliwych
-    I cienie wiecznie žyją przyjaciolprawdziwych.
-    (Kad aš gyvenčiau turtingas ir kad savo darbais
-    nusipelnyčiau gyventi laimingoje šalyje,
-    kur geria baltą gėrimą iš aukso ragų kartu su dievais,
-    semdami jį iš švento kubilo.
-    Nemirtingos mergelės dainuoja girelėje,
-    laimės, palaimos, džiaugsmo joms teikia be galo.
-    Ten karžygiai, žuvę baisiuose karuose,
-    ir tikriĮ bičiulių vėlės amžinai gyvena)5.
-    Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
-    lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
-    sime toliau, antrajame tome, buvo mėgstamas senovės lietu­
-    vių gėrimas; arba tas Alus, galintis taip vadintis dėl šviesios
-    spalvos, arba pagaliau liepų midus, kadangi seniau lietuvių
-    kraštai visur garsėjo midumi; ypač liepinis buvo geras Kauno
-    apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
-    ištikusi suirutė.
-  citata_rodoma: |
     IV
     skyrius
     APIE AUKAS
@@ -113,10 +68,11 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
     žemę: pirmoji -  ieškodama savo vienatinės dukters Prozerpi­
     nos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir
     naudingų amatų.
+  citata_rodoma: "IV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme. Paryžiaus akademijos „Užrašų“ XVII tome plačiai dės­\ntomi pastebėjimai šiuo klausimu. Jų turinys toks. Antika alaus\nišradimą priskiria Cererai ir Oziriui, kai jiedu klaidžiojo po\nžemę: pirmoji -  ieškodama savo vienatinės dukters Prozerpi­\nnos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir\nnaudingų amatų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190554
+    - t-001

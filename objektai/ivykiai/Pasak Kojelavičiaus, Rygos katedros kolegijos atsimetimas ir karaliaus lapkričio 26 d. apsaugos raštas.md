@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185760"></a>
 - t-001
-  global_id: t-185760
   teiginys: "Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185760
+    - t-001

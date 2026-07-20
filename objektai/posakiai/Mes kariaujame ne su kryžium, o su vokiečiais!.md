@@ -43,7 +43,6 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 <a id="claim-t-67272"></a>
 - t-001
-  global_id: t-67272
   teiginys: "Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 <a id="claim-t-67273"></a>
 - t-002
-  global_id: t-67273
   teiginys: "Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,15 +91,12 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
     Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip
     minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­
     tvirtino, išleisdamas už tų kraštų valdovų savo dukteris.
-  citata_rodoma: |
-    Gediminas pirmas iš lie­
-    tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
-    vokiečiais!“
+  citata_rodoma: "Gediminas pirmas iš lie­\ntuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su\nvokiečiais!“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67272
-    - t-67273
+    - t-001
+    - t-002

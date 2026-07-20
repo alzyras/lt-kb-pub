@@ -36,7 +36,6 @@ Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 16
 
 <a id="claim-t-201448"></a>
 - t-001
-  global_id: t-201448
   teiginys: "Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 1645."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,9 @@ Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 16
 ## Citatos
 
 - id: c-184798
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daukša pamokslus, visam metui išgul­
     dęs, išspaudė metuose 1599. Chilinskis, išguldęs vėl
@@ -66,4 +66,4 @@ Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 16
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201448
+    - t-001

@@ -38,7 +38,6 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 <a id="claim-t-77783"></a>
 - t-001
-  global_id: t-77783
   teiginys: "Vilniaus Šv. Kazimiero bažnyčia paprastai laikoma barokinės architektūros manifestu Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
     Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
     architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
     čia.
-  citata_rodoma: |
-    Barokinė
-    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
-    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
-    čia.
+  citata_rodoma: "Barokinė \nNesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės \narchitektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-\nčia."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77783
+    - t-001

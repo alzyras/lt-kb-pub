@@ -50,8 +50,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 ## Teiginiai
 
 <a id="claim-t-70311"></a>
-- t-001
-  global_id: t-70311
+- t-005
   teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,9 +65,9 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   pagrindžia:
     - c-44217
     - c-44219
+
 <a id="claim-t-70312"></a>
-- t-002
-  global_id: t-70312
+- t-007
   teiginys: "Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +83,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     - c-44216
 
 <a id="claim-t-70314"></a>
-- t-003
-  global_id: t-70314
+- t-006
   teiginys: "Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -130,8 +128,9 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70312
-    - t-70314
+    - t-007
+    - t-006
+
 - id: c-44217
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -149,7 +148,8 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70311
+    - t-005
+
 - id: c-44219
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,13 +161,11 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
     Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
     | žirgų ir karių.
-  citata_rodoma: |
-    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
-    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
-    Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
-    | žirgų ir karių.
+  citata_rodoma: "Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus\npats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.\nKiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos\n| žirgų ir karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

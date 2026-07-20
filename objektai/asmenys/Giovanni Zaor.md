@@ -36,7 +36,6 @@ Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir 
 
 <a id="claim-t-200867"></a>
 - t-001
-  global_id: t-200867
   teiginys: "Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir Povilo bažnyčią ir ją užbaigė per aštuonerius metus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200867
+    - t-001

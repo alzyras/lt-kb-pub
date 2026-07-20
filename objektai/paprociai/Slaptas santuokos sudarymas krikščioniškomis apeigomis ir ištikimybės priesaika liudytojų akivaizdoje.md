@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-185891"></a>
 - t-001
-  global_id: t-185891
   teiginys: "Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -111,4 +110,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185891
+    - t-001

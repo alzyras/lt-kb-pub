@@ -31,7 +31,6 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 
 <a id="claim-t-41949"></a>
 - t-001
-  global_id: t-41949
   teiginys: "Frontas nusistovėjo Kernavės-Musninkų-Širvintų-Giedraičių-Dubingių-Švenčionėlių linijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,16 +63,11 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     Dubingių-Švenčionėlių linijoje.
 
     artilerijos baterija.
-  citata_rodoma: |
-    Frontas nusistovėjo Kernavės-
-    Musninkų-Širvintų- Giedraičių
-    Dubingių-Švenčionėlių linijoje.
-
-    artilerijos baterija.
+  citata_rodoma: "Frontas nusistovėjo Kernavės-\nMusninkų-Širvintų- Giedraičių\nDubingių-Švenčionėlių linijoje.\n\nartilerijos baterija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41949
+    - t-001

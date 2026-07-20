@@ -31,7 +31,6 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 
 <a id="claim-t-188960"></a>
 - t-001
-  global_id: t-188960
   teiginys: "Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 
 <a id="claim-t-188961"></a>
 - t-002
-  global_id: t-188961
   teiginys: "Narbutas rašo, kad šventyklos altanoje stovėjo medinis dievo stabas, atgabentas iš Palangos šventųjų miškų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188960
+    - t-001
+
 - id: c-171850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -111,4 +110,4 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188961
+    - t-002

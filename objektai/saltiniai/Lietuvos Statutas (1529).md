@@ -36,7 +36,6 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
 
 <a id="claim-t-31805"></a>
 - t-001
-  global_id: t-31805
   teiginys: "1529 m. Lietuvos Statute buvo nuostatų apie bites ir bitininkų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
     svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų
     teises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos
     taip pat medaus duoklės.
-  citata_rodoma: |
-    Kad bitininkystė dar ir vėliau buvo
-    svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų
-    teises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos
-    taip pat medaus duoklės.
+  citata_rodoma: "Kad bitininkystė dar ir vėliau buvo\nsvarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų\nteises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos\ntaip pat medaus duoklės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31805
+    - t-001

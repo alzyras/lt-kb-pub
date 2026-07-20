@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-55149"></a>
 - t-001
-  global_id: t-55149
   teiginys: "1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::events"
@@ -81,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-81836"></a>
 - t-002
-  global_id: t-81836
   teiginys: "1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -102,7 +100,6 @@ Nenurodyta
 
 <a id="claim-t-81837"></a>
 - t-003
-  global_id: t-81837
   teiginys: "Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -139,8 +136,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55149
-    - t-81836
+    - t-001
+    - t-002
+
 - id: c-78383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,4 +191,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81837
+    - t-003

@@ -44,8 +44,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 ## Teiginiai
 
 <a id="claim-t-75429"></a>
-- t-001
-  global_id: t-75429
+- t-023
   teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-73219
 
 <a id="claim-t-75430"></a>
-- t-002
-  global_id: t-75430
+- t-017
   teiginys: "Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   pagrindžia:
     - c-16805
 
-<a id="claim-t-75434"></a>
-- t-003
-  global_id: t-75434
+<a id="claim-t-75431"></a>
+- t-021
   teiginys: "Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,11 +91,11 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   temporaliniai_duomenys: "įvykio data: 1720-1797; įvykio data: 1797 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-22205
     - c-25419
+    - c-22205
+
 <a id="claim-t-75433"></a>
-- t-004
-  global_id: t-75433
+- t-016
   teiginys: "Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-22204
 
 <a id="claim-t-75435"></a>
-- t-005
-  global_id: t-75435
+- t-015
   teiginys: "Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -131,8 +127,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-22204
 
 <a id="claim-t-75436"></a>
-- t-006
-  global_id: t-75436
+- t-020
   teiginys: "Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -148,8 +143,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-73219
 
 <a id="claim-t-75437"></a>
-- t-007
-  global_id: t-75437
+- t-018
   teiginys: "Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -220,16 +214,15 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
     religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
     mokslinimui.
-  citata_rodoma: |
-    geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
-    mas ir komentavimas.
+  citata_rodoma: "geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-\nmas ir komentavimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75430
+    - t-017
+
 - id: c-22204
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,20 +235,16 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
-  citata_rodoma: |
-    Vil-
-    niaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus
-    esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo
-    plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
-    jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
+  citata_rodoma: "Vil-\nniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus\nesant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo\nplitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį\njo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75433
-    - t-75435
+    - t-016
+    - t-015
+
 - id: c-22205
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -269,21 +258,16 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
     poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
     sidizmo sustabdymo.
-  citata_rodoma: |
-    Gaonas ir „Šiaurės Jeruzalė“
-    Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas
-    Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-
-    bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
-    poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
-    sidizmo sustabdymo.
+  citata_rodoma: "Gaonas ir „Šiaurės Jeruzalė“\nVilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas\nElijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-\nbių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį\npoveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-\nsidizmo sustabdymo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75434
-    - t-75437
+    - t-021
+    - t-018
+
 - id: c-25419
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -304,7 +288,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75434
+    - t-021
+
 - id: c-73219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -325,5 +310,5 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75429
-    - t-75436
+    - t-023
+    - t-020

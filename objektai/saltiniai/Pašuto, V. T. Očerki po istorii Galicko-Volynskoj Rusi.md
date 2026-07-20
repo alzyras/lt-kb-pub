@@ -36,7 +36,6 @@ Pašuto, V.
 
 <a id="claim-t-31885"></a>
 - t-001
-  global_id: t-31885
   teiginys: "V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,17 +59,14 @@ Pašuto, V.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — Pašuto, V. T. : _Očerki
+    — (”) PaRL. — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
     Litovskogo gosudarstva,_ Izvestija Akad.
-  citata_rodoma: |
-    — Pašuto, V. T. : _Očerki
-    po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
-    Litovskogo gosudarstva,_ Izvestija Akad.
+  citata_rodoma: "— Pašuto, V. T. : _Očerki\npo istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii\nLitovskogo gosudarstva,_ Izvestija Akad."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31885
+    - t-001

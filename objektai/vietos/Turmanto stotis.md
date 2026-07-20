@@ -32,7 +32,6 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 
 <a id="claim-t-74015"></a>
 - t-001
-  global_id: t-74015
   teiginys: "Lietuvos ir Latvijos siena ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
     šiota gairėmis; tokia pat ji tebėra ir iki šiol.
     **3.
-  citata_rodoma: |
-    ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
-    puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
-    šiota gairėmis; tokia pat ji tebėra ir iki šiol.
-    **3.
+  citata_rodoma: "ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-\npuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-\nšiota gairėmis; tokia pat ji tebėra ir iki šiol.\n**3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74015
+    - t-001

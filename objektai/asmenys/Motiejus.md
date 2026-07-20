@@ -40,7 +40,6 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 
 <a id="claim-t-63987"></a>
 - t-001
-  global_id: t-63987
   teiginys: "Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,4 +111,4 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63987
+    - t-001

@@ -39,7 +39,6 @@ Urbonas.
 
 <a id="claim-t-19469"></a>
 - t-001
-  global_id: t-19469
   teiginys: "S. Urbonas buvo 2010 m. Vilniuje išleisto leidinio „Čiurlionis Vilniuje“ sudarytojas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Urbonas.
   citata_originali: |
     Vilnius,
     2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.
-  citata_rodoma: |
-    Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010;
+  citata_rodoma: "Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010;"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19469
+    - t-001

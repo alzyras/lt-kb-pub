@@ -38,7 +38,6 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
 
 <a id="claim-t-39436"></a>
 - t-001
-  global_id: t-39436
   teiginys: "Savanoris I. Drakša 1991 m. pagamino savadarbį 16,5 mm kalibro lygiavamzdį šautuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39436
+    - t-001

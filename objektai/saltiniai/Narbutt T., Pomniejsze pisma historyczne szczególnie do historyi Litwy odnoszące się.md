@@ -7,12 +7,12 @@ datos:
   - '1852 m.'
 date_start: '1852'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
 
 <a id="claim-t-191801"></a>
 - t-001
-  global_id: t-191801
   teiginys: "Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się“."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,27 +56,7 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174683
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vėliau T, Narbutas šią informaciją įdėjo j vadina­
-    muosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-
-    toryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.
-    491
 
-    ## Puslapis 501
-
-    S. 222—224).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191801
 ## Citatos
 
 - id: c-174683
@@ -93,19 +72,11 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
     ## Puslapis 501
 
     S. 222—224).
-  citata_rodoma: |
-    Vėliau T, Narbutas šią informaciją įdėjo j vadina­
-    muosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-
-    toryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.
-    491
-
-    ## Puslapis 501
-
-    S. 222—224).
+  citata_rodoma: "Vėliau T, Narbutas šią informaciją įdėjo j vadina­\nmuosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-\ntoryczne szczegolnie do historyi Litwy odnoszące się. Wilno, 1852.\n491\n\n## Puslapis 501\n\nS. 222—224)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191801
+    - t-001

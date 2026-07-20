@@ -32,7 +32,6 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 
 <a id="claim-t-192905"></a>
 - t-001
-  global_id: t-192905
   teiginys: "Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,6 +82,7 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192905
+    - t-001
+
 ## Ryšiai
 - Toloma priklausė [[objektai/vietos/Uždauguvis]]

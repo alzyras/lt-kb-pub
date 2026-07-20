@@ -37,7 +37,6 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 
 <a id="claim-t-03041"></a>
 - t-001
-  global_id: t-03041
   teiginys: "Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 
 <a id="claim-t-182953"></a>
 - t-002
-  global_id: t-182953
   teiginys: "Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -89,17 +87,15 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
     sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-
     montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
     dantūras ir ėmė vieni šeimininkauti.
-  citata_rodoma: |
-    Turėdami stiprią pajėgą, ber-
-    montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
-    dantūras ir ėmė vieni šeimininkauti.
+  citata_rodoma: "Turėdami stiprią pajėgą, ber-\nmontininkai nuginklavę išvaikė ten buvusias Lietuvos komen-\ndantūras ir ėmė vieni šeimininkauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03041
+    - t-001
+
 - id: c-166352
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,4 +116,4 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182953
+    - t-002

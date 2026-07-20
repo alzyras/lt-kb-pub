@@ -31,7 +31,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 
 <a id="claim-t-01344"></a>
 - t-001
-  global_id: t-01344
   teiginys: "Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 
 <a id="claim-t-193096"></a>
 - t-002
-  global_id: t-193096
   teiginys: "Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -78,16 +76,15 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     Fridriko Augusto atsto-
     vas. Tuomet daugumas,
     ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
-  citata_rodoma: |
-    Tuomet daugumas,
-    ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
+  citata_rodoma: "Tuomet daugumas,\nypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01344
+    - t-001
+
 - id: c-175859
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,4 +106,4 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193096
+    - t-002

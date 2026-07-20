@@ -31,7 +31,6 @@ Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios
 
 <a id="claim-t-189340"></a>
 - t-001
-  global_id: t-189340
   teiginys: "Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios iki nustatytų metų ir vėliau galėjusios ištekėti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189340
+    - t-001

@@ -36,9 +36,8 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 
 <a id="claim-t-191388"></a>
 - t-001
-  global_id: t-191388
   teiginys: "Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,10 +53,9 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174270
-    - c-001
+
 <a id="claim-t-191389"></a>
 - t-002
-  global_id: t-191389
   teiginys: "Džiovani Ramusio buvo 1482–1557 m. gyvenęs italų mokslininkas ir politikas, ilgalaikis pasiuntinys įvairiuose Europos karališkuosiuose dvaruose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,30 +77,6 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   pagrindžia:
     - c-174271
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    68
-
-    ## Puslapis 66
-
-    priklausomai nuo įvairaus kalbų tarimo ir išplitimo ap­
-    linkybių1. Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191388
 ## Citatos
 
 - id: c-174270
@@ -110,18 +84,6 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Šią garsią
-    upę Herodotas vadina Araksu5; šį pavadinimą vartojo ir
-    graikai, žinoję apie atėjimą indų-skitų, kurie, būdami
-    Pavolgio gyventojai, tikriausiai atnešė jai šį vardą iš
-    armėnų Arakso6. Kitaip buvo vadinama Rhoas7, tariama
-    Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­
-    dinimą. 1811 metais teko laikyti rankose vokiečių kalba
-    parašytą rankraštį su antrašte „Topografiniai ir statis­
-    tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
-    mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
-    ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
-  citata_rodoma: |
     68
 
     ## Puslapis 66
@@ -134,13 +96,15 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip
     apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
     Dauguvos, buvo 94 metais prieš Kristaus gimimą.
+  citata_rodoma: "68\n\n## Puslapis 66\n\npriklausomai nuo įvairaus kalbų tarimo ir išplitimo ap­\nlinkybių1. Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191388
+    - t-001
+
 - id: c-174271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -159,4 +123,4 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191389
+    - t-002

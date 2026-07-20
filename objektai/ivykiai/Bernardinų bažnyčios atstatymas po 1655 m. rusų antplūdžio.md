@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-200841"></a>
 - t-001
-  global_id: t-200841
   teiginys: "Po 1655 metų rusų antplūdžio apdaužytą Bernardinų bažnyčią padėjo atstatyti Vilniaus vaivada ir Didžiosios Kunigaikštystės etmonas Mykolas Pacas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200841
+    - t-001

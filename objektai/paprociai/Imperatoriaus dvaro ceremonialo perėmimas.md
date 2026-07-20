@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-28918"></a>
 - t-001
-  global_id: t-28918
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-184347"></a>
 - t-002
-  global_id: t-184347
   teiginys: "Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28918
+    - t-001
+
 - id: c-167717
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -137,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184347
+    - t-002

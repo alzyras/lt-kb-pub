@@ -42,8 +42,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 ## Teiginiai
 
 <a id="claim-t-82222"></a>
-- t-001
-  global_id: t-82222
+- t-006
   teiginys: "Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78718
 
 <a id="claim-t-82224"></a>
-- t-002
-  global_id: t-82224
+- t-001
   teiginys: "Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78719
 
 <a id="claim-t-82227"></a>
-- t-003
-  global_id: t-82227
+- t-005
   teiginys: "Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-78720
 
 <a id="claim-t-82228"></a>
-- t-004
-  global_id: t-82228
+- t-007
   teiginys: "Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82228
+    - t-007
+
 - id: c-78718
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -151,16 +148,15 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     greit mirė, ir stipriau-
     siais kandidatais liko
     keletas saviškių ponų.
-  citata_rodoma: |
-    Augustui **III** mirus, kandidatų į sostą atsirado
-      nemaža.
+  citata_rodoma: "Augustui **III** mirus, kandidatų į sostą atsirado\n  nemaža."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82222
+    - t-006
+
 - id: c-78719
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -179,7 +175,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82224
+    - t-001
+
 - id: c-78720
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -197,4 +194,4 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82227
+    - t-005

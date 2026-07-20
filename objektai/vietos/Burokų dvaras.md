@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-192867"></a>
 - t-001
-  global_id: t-192867
   teiginys: "1836 m. gegužę Burokų dvare, esančiame už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192867
+    - t-001

@@ -7,10 +7,10 @@ datos:
   - '1481 m.'
 date_start: '1481'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
 
 <a id="claim-t-201850"></a>
 - t-001
-  global_id: t-201850
   teiginys: "Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius nusikaltimus, bet negalėjo teisti kitos miesto savivaldos institucijos - tarybos arba magistrato - narių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
 
 <a id="claim-t-201851"></a>
 - t-002
-  global_id: t-201851
   teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -60,7 +58,6 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
 
 <a id="claim-t-201852"></a>
 - t-003
-  global_id: t-201852
   teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201850
+    - t-001
 
 - id: c-185198
   autorius: "Zigmantas Kiaupa"
@@ -107,7 +104,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201851
+    - t-002
 
 - id: c-185199
   autorius: "Zigmantas Kiaupa"
@@ -123,4 +120,4 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201852
+    - t-003

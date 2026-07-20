@@ -36,7 +36,6 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
 
 <a id="claim-t-191825"></a>
 - t-001
-  global_id: t-191825
   teiginys: "Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitlandijos kraštas, driekęsis rytine Vyslos pakrante."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191825
+    - t-001

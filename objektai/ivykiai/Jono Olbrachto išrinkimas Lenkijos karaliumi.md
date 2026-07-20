@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-186770"></a>
 - t-001
-  global_id: t-186770
   teiginys: "Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -81,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-186771"></a>
 - t-002
-  global_id: t-186771
   teiginys: "Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -104,7 +102,6 @@ Nenurodyta
 
 <a id="claim-t-193852"></a>
 - t-003
-  global_id: t-193852
   teiginys: "Jonas Olbrachtas 1492 m. liepos 27 d. Petrakavo seime buvo išrinktas Lenkijos karaliumi, o rugsėjo 23 d. vainikuotas Krokuvoje."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -125,15 +122,13 @@ Nenurodyta
   citata_originali: |
     1 Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
     vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
-  citata_rodoma: |
-    1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
-    vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
+  citata_rodoma: "1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka- \nvo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186770
-    - t-186771
-    - t-193852
+    - t-001
+    - t-002
+    - t-003

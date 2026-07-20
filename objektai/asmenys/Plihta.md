@@ -40,7 +40,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 
 <a id="claim-t-87833"></a>
 - t-001
-  global_id: t-87833
   teiginys: "1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,18 +77,11 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
     iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
     daug kitų riterių.
-  citata_rodoma: |
-    358-376).
-    1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
-    pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos
-    kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš
-    Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai
-    iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
-    daug kitų riterių.
+  citata_rodoma: "358-376).\n1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­\npedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos \nkunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš \nŠvabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai \niš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir \ndaug kitų riterių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87833
+    - t-001

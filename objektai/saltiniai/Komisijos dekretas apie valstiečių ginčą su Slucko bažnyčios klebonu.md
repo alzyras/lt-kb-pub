@@ -36,7 +36,6 @@ Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas
 
 <a id="claim-t-194855"></a>
 - t-001
-  global_id: t-194855
   teiginys: "Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir 18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios klebonu (Wizerunki Naukowe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194855
+    - t-001

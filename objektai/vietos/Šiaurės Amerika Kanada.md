@@ -31,9 +31,8 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
 
 <a id="claim-t-189103"></a>
 - t-001
-  global_id: t-189103
   teiginys: "Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,30 +49,7 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171991
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Mes gi apie tai nieko negalime pasakyti*.
-    362
 
-    ## Puslapis 362
-
-    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
-    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
-    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
-    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
-    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
-    je; verkia, priekaištauja, kam juos paliko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189103
 ## Citatos
 
 - id: c-171991
@@ -92,24 +68,14 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
     sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
     būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
     je; verkia, priekaištauja, kam juos paliko.
-  citata_rodoma: |
-    Mes gi apie tai nieko negalime pasakyti*.
-    362
-
-    ## Puslapis 362
-
-    Huronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
-    tos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,
-    šeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­
-    sius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad
-    būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
-    je; verkia, priekaištauja, kam juos paliko.
+  citata_rodoma: "Mes gi apie tai nieko negalime pasakyti*.\n362\n\n## Puslapis 362\n\nHuronų -  Šiaurės Amerikoje, Kanadoje, gyvenančios tau­\ntos -  yra labai panašios laidotuvių apeigos. Kam nors mirus,\nšeima ir kaimynai susirenka atsisveikinti: aprengia mirusiuo­\nsius, sako jiems kalbas, užgeria, dovanoja jiems dovanų, kad\nbūtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­\nje; verkia, priekaištauja, kam juos paliko."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189103
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Huronai]]

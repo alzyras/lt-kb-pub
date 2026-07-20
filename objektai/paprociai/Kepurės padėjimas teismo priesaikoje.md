@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - priesaika
   - paprotys
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,28 +52,19 @@ Nenurodyta
 
 <a id="claim-t-189780"></a>
 - t-001
-  global_id: t-189780
   teiginys: "Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Priesaika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kepurės padėjimas teismo priesaikoje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Priesaika: mention_match, thing, gap=101"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kepurės padėjimas teismo priesaikoje\" parinktas kaip owner_note_path. Targetas \"Priesaika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172663
-    - c-001
+    - c-172664
+
 <a id="claim-t-189781"></a>
 - t-002
-  global_id: t-189781
   teiginys: "Narbutas aprašė, kad išteisinimo priesaikoje kaltinamasis tardavo priesaikos žodžius ir į kepurę dėdavo piniginį užstatą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -92,30 +83,6 @@ Nenurodyta
   pagrindžia:
     - c-172664
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).
-    II. 93
-    321
-
-    ## Puslapis 321
-
-    lietuvių liudijimo būdas su užkeikimu arba priesaika.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189780
 ## Citatos
 
 - id: c-172663
@@ -123,18 +90,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
-    Lietuviai nuo seniausių amžių dalijo laiką į valandas
-    (lYahmda) , o jos skirstytos į dienos ir nakties.
-  citata_rodoma: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
     siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
@@ -147,13 +102,13 @@ Nenurodyta
     ## Puslapis 321
 
     lietuvių liudijimo būdas su užkeikimu arba priesaika.
+  citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189780
 - id: c-172664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -179,4 +134,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189781
+    - t-001
+    - t-002

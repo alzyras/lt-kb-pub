@@ -33,7 +33,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 <a id="claim-t-22335"></a>
 - t-001
-  global_id: t-22335
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,27 +48,18 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - c-25024
     - c-166875
+
 <a id="claim-t-22336"></a>
 - t-002
-  global_id: t-22336
   teiginys: "Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Voluinė: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Radvilos tiesiogiai minimi kaip čia įgiję valdas."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Radvilos valdė Voluinė (0.67); Chodkevičiai valdė Voluinė (0.67)"
   pagrindžia:
-    - c-25025
+    - c-166876
 
 <a id="claim-t-183482"></a>
-- t-003
-  global_id: t-183482
+- t-004
   teiginys: "Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,8 +79,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-166876
 
 <a id="claim-t-184639"></a>
-- t-004
-  global_id: t-184639
+- t-006
   teiginys: "Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,8 +98,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168000
 
 <a id="claim-t-184640"></a>
-- t-005
-  global_id: t-184640
+- t-007
   teiginys: "Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -129,10 +117,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-168001
 
 <a id="claim-t-187530"></a>
-- t-006
-  global_id: t-187530
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -161,6 +148,33 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
 - susijęs iš Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a: „Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73.
 - susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
+    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
+    rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
+    o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
+    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
+    gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
+    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
+    miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
+    girdo, kad esama žmonių — mužikų, gyvenančių be
+    valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­
+    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
+    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
+    nigaikščiu s.
+    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
+    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
+    gaikščiai išvaikyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-25024
@@ -175,15 +189,15 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
     lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
     Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.
-  citata_rodoma: |
-    Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
+  citata_rodoma: "Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22335
+    - t-001
+
 - id: c-25025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,15 +212,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: |
-    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+  citata_rodoma: "(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-22336
 - id: c-166875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,10 +233,12 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     vasalu.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-166876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,7 +263,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183482
+    - t-002
+    - t-004
+
 - id: c-168000
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -275,7 +291,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184639
+    - t-006
+
 - id: c-168001
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -308,29 +325,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184640
+    - t-007
+
 - id: c-170480
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Bevaldant Mantvilai, iškilo chanas Batu2; ir užpuo­
-    lė jis Rusų žemę, ir visą Rusų žemę užkariavo3, ir daug
-    rusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn,
-    o visos Rusų žemės sostinę, Kijevo miestą, pavertė de­
-    gėsiais L Kijevo didysis kunigaikštis Dimitrijus5, išsi­
-    gandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo
-    į Černigovo miestą6 ir paskui sužinojo, kad Kijevo
-    miestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­
-    girdo, kad esama žmonių — mužikų, gyvenančių be
-    valdovo, besivadinančių druckiečiais. Ir jis sušaukė ka­
-    rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
-    no Drucko miestą ir pasivadino Drucko didžiuoju ku­
-    nigaikščiu s.
-    O tuo laiku Žemaičių didysis kunigaikštis Mantvila
-    sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni­
-    gaikščiai išvaikyti.
-  citata_rodoma: |
     4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
     IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE
     O paskui 1  didysis kunigaikštis Kernius ir Gimbu­
@@ -345,10 +346,11 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
     susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
     čių žemėje daug žalos.
+  citata_rodoma: "4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ \nIR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE\nO paskui 1  didysis kunigaikštis Kernius ir Gimbu­\ntas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­\njėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link \nBreslaujos ir link Polocko, ir padarė daug žalos rusams, \njų žemę nuniokojo ir daugybę žmonių išsivarė ne­\nlaisvėn 2 .\nO tuo laiku, jam bebūnant Rusioje, kita gentis, va­\ndinama latviais, kurie gyveno jūros pakrantėje ir iš­\ngirdo, kad kunigaikščio Kerniaus nebėra Lietuvoje, \no didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi \nsusirinkę patraukė į Žemaičių žemę ir pridarė Žemai­\nčių žemėje daug žalos."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187530
+    - t-008

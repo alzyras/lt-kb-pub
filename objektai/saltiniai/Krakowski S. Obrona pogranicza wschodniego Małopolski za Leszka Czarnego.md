@@ -36,7 +36,6 @@ Dusburgietis teigia, kad krakowski S.
 
 <a id="claim-t-61105"></a>
 - t-001
-  global_id: t-61105
   teiginys: "S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad krakowski S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61105
+    - t-001

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189809"></a>
 - t-001
-  global_id: t-189809
   teiginys: "Narbutas rupūžę vadino garsiu fetišu ir rašė, kad rupūžės laikytos prie šventyklų bei kai kuriuose namuose ypač gerbtos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189809
+    - t-001

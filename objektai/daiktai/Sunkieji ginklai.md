@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87123"></a>
 - t-001
-  global_id: t-87123
   teiginys: "Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,23 +87,11 @@ Nenurodyta
     sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
     joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
     dami, kad sutiksią paklusti Ordinui.
-  citata_rodoma: |
-    Pakeliui viską versdama
-    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
-    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­
-    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
-    66
-
-    ## Puslapis 83
-
-    I  KNYGA
-    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
-    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
-    dami, kad sutiksią paklusti Ordinui.
+  citata_rodoma: "Pakeliui viską versdama \npelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­\nsiryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­\nla gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų\n66\n\n## Puslapis 83\n\nI  KNYGA\nsunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­\njoms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­\ndami, kad sutiksią paklusti Ordinui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87123
+    - t-001

@@ -31,7 +31,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 
 <a id="claim-t-191317"></a>
 - t-001
-  global_id: t-191317
   teiginys: "Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,10 +49,9 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174199
-    - c-001
+
 <a id="claim-t-191318"></a>
 - t-002
-  global_id: t-191318
   teiginys: "Narbutas pasakoja, kad Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 
 <a id="claim-t-191319"></a>
 - t-003
-  global_id: t-191319
   teiginys: "Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,29 +104,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - susijęs iš Danija: Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.
 - susijęs iš Danija: Skandinavų padavimuose Starkateras vaizduojamas kaip auklėtas Danijos karaliaus Haroldo rūmuose kartu su karalaičiu Vikaru.
 - susijęs iš Rusia: Narbutas pasakoja, kad Frotono III sūnus Fridleifas buvo auklėtas Rusioje pas motinos giminaičius ir jų padedamas susigrąžino Danijos sostą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    235
-    Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
-    pas motinos, karalaitės Chunigardijos, gimines; vieno iš
-    giminaičių — rusnėnų karaliuko — padedamas, jis susi­
-    grąžino iš jo tėvo atimtą Danijos sostą1.
-    236
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191317
 ## Citatos
 
 - id: c-174199
@@ -137,21 +111,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sklinda garsūs senoviniai skandinavų padavimai apie
-    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
-    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
-    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
-    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
-    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
-    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
-    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
-    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
-    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
-    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
-    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
-    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
-    nijos karalystei.
-  citata_rodoma: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
     pas motinos, karalaitės Chunigardijos, gimines; vieno iš
@@ -163,13 +122,15 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
     ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
     Haroldo rūmuose kartu su karalaičiu Vikaru.
+  citata_rodoma: "235\nFrotono III sūnus Fridleifas buvo auklėjamas Rusioje,\npas motinos, karalaitės Chunigardijos, gimines; vieno iš\ngiminaičių — rusnėnų karaliuko — padedamas, jis susi­\ngrąžino iš jo tėvo atimtą Danijos sostą1.\n236\nSklinda garsūs senoviniai skandinavų padavimai apie\ndidvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­\nniojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­\nringumo žmogus. Jis buvo auklėjamas Danijos karaliaus\nHaroldo rūmuose kartu su karalaičiu Vikaru."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191317
+    - t-001
+
 - id: c-174200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -189,7 +150,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191318
+    - t-002
+
 - id: c-174201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,6 +172,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191319
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sterverkas]]

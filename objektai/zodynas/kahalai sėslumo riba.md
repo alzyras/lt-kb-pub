@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-22176"></a>
-- t-001
-  global_id: t-22176
+- t-002
   teiginys: "1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-24865
 
 <a id="claim-t-22177"></a>
-- t-002
-  global_id: t-22177
+- t-001
   teiginys: "Žydams buvo įvesta sėslumo riba, draudusi keltis į abi Rusijos sostines, tačiau ji netaikyta kvalifikuotiems ir išsilavinusiems žydams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,15 @@ media_all_json: |-
     Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
     keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
     turintiems ir išsilavinusiems šios tautos atstovams.
-  citata_rodoma: |
-    keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
+  citata_rodoma: "keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22177
+    - t-001
+
 - id: c-24865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,12 +110,11 @@ media_all_json: |-
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: |
-    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
+  citata_rodoma: "ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22176
+    - t-002

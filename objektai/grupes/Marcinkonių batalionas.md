@@ -30,8 +30,7 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 ## Teiginiai
 
 <a id="claim-t-41086"></a>
-- t-001
-  global_id: t-41086
+- t-002
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,9 +46,9 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   pagrindžia:
     - c-42868
     - c-167054
+
 <a id="claim-t-41087"></a>
-- t-002
-  global_id: t-41087
+- t-001
   teiginys: "Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +91,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41086
+    - t-002
+
 - id: c-44816
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,21 +107,15 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     Mūšio padariniai
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
-  citata_rodoma: |
-    Marcinkonių bataliono vyrams buvo
-    nesmagu dėl savo pavėlavimo į kauty-
-    nes, todėl jie kitą, gruodžio 16 d. puolė
-    Perlojos stribų įgulą ir ją sunaikino.
-    Mūšio padariniai
-    Operacijos metu žuvo 4 partizanai ir 2 buvo
-    sužeisti.
+  citata_rodoma: "Marcinkonių bataliono vyrams buvo\nnesmagu dėl savo pavėlavimo į kauty-\nnes, todėl jie kitą, gruodžio 16 d. puolė\nPerlojos stribų įgulą ir ją sunaikino.\nMūšio padariniai\nOperacijos metu žuvo 4 partizanai ir 2 buvo\nsužeisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41087
+    - t-001
+
 - id: c-167054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,6 +134,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Marcinkonių batalionas puolė [[objektai/vietos/Perloja]]

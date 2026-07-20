@@ -35,7 +35,6 @@ Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuon
 
 <a id="claim-t-190250"></a>
 - t-001
-  global_id: t-190250
   teiginys: "Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuonių antspaudų su žalčiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190250
+    - t-001

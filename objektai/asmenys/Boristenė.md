@@ -32,7 +32,6 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
 
 <a id="claim-t-191379"></a>
 - t-001
-  global_id: t-191379
   teiginys: "Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupiterio sūnų ir pirmą tikrųjų skitų karalių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,6 +76,7 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191379
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Borėjas]]

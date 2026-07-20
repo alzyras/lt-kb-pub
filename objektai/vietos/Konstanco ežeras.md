@@ -32,7 +32,6 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
 
 <a id="claim-t-192880"></a>
 - t-001
-  global_id: t-192880
   teiginys: "Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas nurodo, kad Pomponijus Mela Konstanco ežerą vadino Venedų ežeru.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192880
+    - t-001

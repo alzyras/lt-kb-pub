@@ -31,7 +31,6 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 
 <a id="claim-t-58744"></a>
 - t-001
-  global_id: t-58744
   teiginys: "Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,14 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Wopławki)
-       Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
-      Varmė, u.
-  citata_rodoma: |
-    Wopławki)
-       Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
-      Varmė, u.
+    Vaplaukis (Woyploc, Woplaukin, dab. Wopławki)
+    Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
+    Varmė, u.
+  citata_rodoma: "Wopławki)\n   Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)\n  Varmė, u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58744
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-95964"></a>
 - t-001
-  global_id: t-95964
   teiginys: "Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95964
+    - t-001

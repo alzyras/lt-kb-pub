@@ -41,7 +41,6 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
 
 <a id="claim-t-201414"></a>
 - t-001
-  global_id: t-201414
   teiginys: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,9 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
 ## Citatos
 
 - id: c-184764
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vos buvo
     beketąs naujasis mistras Dumpeshagenas su pagal­
@@ -88,4 +88,4 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201414
+    - t-001

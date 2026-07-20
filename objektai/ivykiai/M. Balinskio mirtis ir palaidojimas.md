@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-86956"></a>
 - t-001
-  global_id: t-86956
   teiginys: "1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,13 +83,11 @@ Nenurodyta
     jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: |
-    1864 m. sausio 1 d.
-    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: "1864 m. sausio 1 d. \nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86956
+    - t-001

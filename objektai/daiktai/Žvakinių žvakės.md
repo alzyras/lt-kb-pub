@@ -45,9 +45,8 @@ Nenurodyta
 
 <a id="claim-t-189762"></a>
 - t-001
-  global_id: t-189762
   teiginys: "Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,28 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172645
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie juos
-    buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti
-    jį arba paleisti, kad pūstų.
-    Žvakiniai (Žwakones)
-    Šie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų
-    degimą bei dūmus kurdavo savo ateities pranašavimus.
-    Pūtikai (Pustones)
-    Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
-    timu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189762
+
 ## Citatos
 
 - id: c-172645
@@ -92,17 +70,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jas rink­
-    davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­
-    davo prie didžiųjų šventyklų ir deivės Praurimės žymiausių au­
-    kurų. Buvo ypatingos aukos, kurias atnašauti privalėjo vaidi­
-    lutės. Apskritai visa, kas religijos dalykuose tiesiogiai susiję su
-    moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
-    josi su gražiąja lytimi, buvo vaidilučių sritis. Neturime smul­
-    kesnių žinių apie jas nei iš padavimų, nei iš istorijos. Vis dėlto
-    reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos
-    ir iki nustatytų metų, o vėliau galėdavo ištekėti.
-  citata_rodoma: |
     Apie juos
     buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti
     jį arba paleisti, kad pūstų.
@@ -112,10 +79,11 @@ Nenurodyta
     Pūtikai (Pustones)
     Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
     timu.
+  citata_rodoma: "Apie juos\nbuvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti\njį arba paleisti, kad pūstų.\nŽvakiniai (Žwakones)\nŠie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų\ndegimą bei dūmus kurdavo savo ateities pranašavimus.\nPūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189762
+    - t-001

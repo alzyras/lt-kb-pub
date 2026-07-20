@@ -32,27 +32,11 @@ media_all_json: |-
 
 Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų kalba ant pergamento. Jo perteikimu, privilegija suteikė Rimvydui žemę prie Merkio ir buvo siejama su Merkinės valsčiaus valstiečių maišto nuslopinimu.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-188031"></a>
-- t-001
-  global_id: t-188031
-  teiginys: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kilmės ir simbolio aiškinimas paliktas kaip Narbuto interpretacija. Išlaikytas dokumento ir Rimvydo kontekstas, bet nepridėtos maišto detalės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Kilmės ir simbolio aiškinimas paliktas kaip Narbuto interpretacija. Išlaikytas dokumento ir Rimvydo kontekstas, bet nepridėtos maišto detalės.'
-  pagrindžia:
-    - c-170964
-
-## Citatos
-
-- id: c-170964
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Murgų, arba Tautų sambūrio, rūmai
     buvo pačioje toliausioje šiaurėje.
@@ -71,11 +55,8 @@ Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų 
     didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
     liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
     (Lietwii) ženklas.
-  citata_rodoma: "Murgų, arba Tautų sambūrio, rūmai\nbuvo pačioje toliausioje šiaurėje.\nĮrodymą, kad lietuviams katinas buvo Lietuvos simbolis,\nradau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­\nšytoje ant pergamento rusų kalba, kuria bajorui Rimvydui\n128\n\n## Puslapis 128\n\n(Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­\nje. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­\ntymais garantuojama, laisvės siekiančių Merkinės valsčiaus\nvalstiečių maišto nuslopinimą, taip pat už sugavimą maišti­\nninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo\ndidenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­\nliui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės\n(Lietwii) ženklas."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188031
+  statusas: verified

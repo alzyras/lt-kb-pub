@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185595"></a>
 - t-001
-  global_id: t-185595
   teiginys: "Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,27 +68,18 @@ Nenurodyta
 
 <a id="claim-t-185596"></a>
 - t-002
-  global_id: t-185596
   teiginys: "Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad kryžiuočiai užpuolė lietuvių pirklius."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168957
+    - c-168958
 
 <a id="claim-t-196186"></a>
-- t-003
-  global_id: t-196186
+- t-004
   teiginys: "Kryžiuočiai užgrobė Vysla gabentus grūdus, o karaliui pareikalavus nelaužyti susitarimo aiškino atėmę siuntą lietuviams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -102,8 +92,7 @@ Nenurodyta
     - c-168957
 
 <a id="claim-t-196187"></a>
-- t-004
-  global_id: t-196187
+- t-005
   teiginys: "Kojelavičiaus pasakojime kryžiuočiai, neva nepakęsdami ilgos ramybės ir atidėliojamo karo, Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -142,7 +131,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185595
+    - t-001
+
 - id: c-168957
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -170,8 +160,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185596
-    - t-196186
+    - t-004
+
 - id: c-168958
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -202,4 +192,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196187
+    - t-002
+    - t-005

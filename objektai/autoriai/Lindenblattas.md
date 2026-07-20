@@ -39,7 +39,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 
 <a id="claim-t-88074"></a>
 - t-001
-  global_id: t-88074
   teiginys: "Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88074
+    - t-001

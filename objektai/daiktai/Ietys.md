@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192064"></a>
 - t-001
-  global_id: t-192064
   teiginys: "Ietys kartu su kalavijais buvo pagrindiniai kariuomenės ginklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-192065"></a>
 - t-002
-  global_id: t-192065
   teiginys: "Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -86,8 +84,7 @@ Nenurodyta
     - c-174934
 
 <a id="claim-t-192066"></a>
-- t-003
-  global_id: t-192066
+- t-004
   teiginys: "Narbutas vaizduoja riterių rikiuotę, kurioje visiškai apsiginklavusių karių ietys žibėjo tankiai kaip tendrūnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -105,10 +102,9 @@ Nenurodyta
     - c-174937
 
 <a id="claim-t-192067"></a>
-- t-004
-  global_id: t-192067
+- t-003
   teiginys: "Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Ietis: 0.85"
@@ -122,10 +118,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174936
-    - c-003
+
 <a id="claim-t-192499"></a>
 - t-005
-  global_id: t-192499
   teiginys: "Vadas įsakė riteriams išeiti iš stovyklos visiškai apsiginklavus, o jų ietys rikiuotėje žibėjo tankiai kaip tendrūnas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -181,8 +176,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192067
+
 ## Citatos
 
 - id: c-174934
@@ -198,22 +192,15 @@ Nenurodyta
     dino didesnio savarankiško vaidmens, bet
     buvo įprastas atributas, kuris mūšio lauke
     vis dėlto praversdavo.
-  citata_rodoma: |
-    Šių dalinių kovinė vertė buvo
-    menkesnė, bet ir jie sugebėdavo pasireikšti
-    mūšio lauke. Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo.
+  citata_rodoma: "Šių dalinių kovinė vertė buvo\nmenkesnė, bet ir jie sugebėdavo pasireikšti\nmūšio lauke. Pagrindiniai tokios kariuome-\nnės ginklai buvo ietys ir kalavijai. Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192065
+    - t-002
+
 - id: c-174935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,67 +216,45 @@ Nenurodyta
     delę kovinę patirtį, ne visada patenkinamą
     discipliną) bandyta kompensuoti samdi-
     niais - kariais profesionalais.
-  citata_rodoma: |
-    Pagrindiniai tokios kariuome-
-    nės ginklai buvo ietys ir kalavijai. Artilerija
-    to meto Lietuvos kariuomenėje dar nevai-
-    dino didesnio savarankiško vaidmens, bet
-    buvo įprastas atributas, kuris mūšio lauke
-    vis dėlto praversdavo. Pašauktinės kariuo-
-    menės silpnąsias savybes (santykinai nedi-
-    delę kovinę patirtį, ne visada patenkinamą
-    discipliną) bandyta kompensuoti samdi-
-    niais - kariais profesionalais.
+  citata_rodoma: "Pagrindiniai tokios kariuome-\nnės ginklai buvo ietys ir kalavijai. Artilerija\nto meto Lietuvos kariuomenėje dar nevai-\ndino didesnio savarankiško vaidmens, bet\nbuvo įprastas atributas, kuris mūšio lauke\nvis dėlto praversdavo. Pašauktinės kariuo-\nmenės silpnąsias savybes (santykinai nedi-\ndelę kovinę patirtį, ne visada patenkinamą\ndiscipliną) bandyta kompensuoti samdi-\nniais - kariais profesionalais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192064
+    - t-001
+
 - id: c-174936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    mišką, bet vis dėlto neteko daug karių, o Fiodoras Dmitri-
-    jevičius, narsiai puolęs, buvo sužeistas ir mirė prie Narevo
-    upės. Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
-    nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,
-    tai teks pasigailėti ir savo šlovės, kurią mes esame pasiren­
-    gę pataikyti savo krauju". Taip ir įvyko: Danielius įsakė
-    savo riteriams paskubėti. Tai matydami, jotvingiai išsi­
-    gando, nes įsitikino rusų ir lenkų galia.
-  citata_rodoma: |
     Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas.
+  citata_rodoma: "Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192067
+    - t-003
+
 - id: c-174937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
-    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
-    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
-    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
-    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
-    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
-    liai su lankais, paruoštais smūgiui.
-  citata_rodoma: |
     Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
+  citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192066
+    - t-004
+
 - id: c-175289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -308,4 +273,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192499
+    - t-005

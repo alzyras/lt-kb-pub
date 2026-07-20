@@ -31,7 +31,6 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
 
 <a id="claim-t-21115"></a>
 - t-001
-  global_id: t-21115
   teiginys: "Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
-  citata_rodoma: |
-    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+  citata_rodoma: "K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21115
+    - t-001

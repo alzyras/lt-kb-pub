@@ -28,7 +28,6 @@ Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilinin
 
 <a id="claim-t-202124"></a>
 - t-001
-  global_id: t-202124
   teiginys: "Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilininko ir Valkininkų laikytojo Jopo Pretfuso nupirktas 47 statines sūdytos mėsos, paskui gavo iš valdovo iždo 16 kapų grašių už kalkių atgabenimą, bet įsipareigojimo neatliko."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilinin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202124
+    - t-001

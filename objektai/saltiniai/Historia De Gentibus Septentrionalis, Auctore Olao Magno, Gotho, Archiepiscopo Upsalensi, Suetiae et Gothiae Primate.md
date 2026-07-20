@@ -34,7 +34,6 @@ Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijo
 
 <a id="claim-t-200750"></a>
 - t-001
-  global_id: t-200750
   teiginys: "Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -60,13 +59,8 @@ Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijo
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 19"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 19."
-  citata_originali: |
-    Olaus Magnus 1555. Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo
-    Upsalensi, Suetiae et Gothiae Primate..., Antwerpia: Plantin.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200750
+    - t-001

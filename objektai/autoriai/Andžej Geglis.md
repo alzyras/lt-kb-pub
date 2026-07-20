@@ -39,8 +39,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 ## Teiginiai
 
 <a id="claim-t-71495"></a>
-- t-001
-  global_id: t-71495
+- t-009
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42395
 
 <a id="claim-t-71496"></a>
-- t-002
-  global_id: t-71496
+- t-003
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42396
 
 <a id="claim-t-71497"></a>
-- t-003
-  global_id: t-71497
+- t-005
   teiginys: "Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +73,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42391
 
 <a id="claim-t-71498"></a>
-- t-004
-  global_id: t-71498
+- t-007
   teiginys: "Andžej Geglis buvo teksto „Šautuvų raida XX a. pradžioje“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +82,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42393
 
 <a id="claim-t-71499"></a>
-- t-005
-  global_id: t-71499
+- t-006
   teiginys: "Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +98,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42392
 
 <a id="claim-t-71501"></a>
-- t-006
-  global_id: t-71501
+- t-004
   teiginys: "Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +107,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     - c-42390
 
 <a id="claim-t-71502"></a>
-- t-007
-  global_id: t-71502
+- t-008
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,7 +141,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71501
+    - t-004
+
 - id: c-42391
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -156,15 +150,15 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   citata_originali: |
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
     p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
-  citata_rodoma: |
-    p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
+  citata_rodoma: "p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71497
+    - t-005
+
 - id: c-42392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -179,7 +173,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71499
+    - t-006
+
 - id: c-42393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +187,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71498
+    - t-007
+
 - id: c-42395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,18 +198,16 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
 
     p. 232, „KULKOSVAIDŽIAI“, Andžej Geglis.
-  citata_rodoma: |
-    p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
-
-    p.
+  citata_rodoma: "p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71495
-    - t-71502
+    - t-009
+    - t-008
+
 - id: c-42396
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -225,17 +219,11 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     Andžej Geglis.
 
     P. 259, „MEDŽIOKLINIAI AT GYNĖJŲ ŠAUTUVAI“, Karolis Zikaras.
-  citata_rodoma: |
-    LIETUVOS ATSIKŪRIMAS
-
-    p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,
-    Andžej Geglis.
-
-    P.
+  citata_rodoma: "LIETUVOS ATSIKŪRIMAS\n\np. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,\nAndžej Geglis.\n\nP."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71496
+    - t-003

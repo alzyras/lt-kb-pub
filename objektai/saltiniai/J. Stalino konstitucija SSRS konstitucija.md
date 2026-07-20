@@ -37,8 +37,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 ## Teiginiai
 
 <a id="claim-t-21070"></a>
-- t-001
-  global_id: t-21070
+- t-002
   teiginys: "Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     - c-23785
 
 <a id="claim-t-21071"></a>
-- t-002
-  global_id: t-21071
+- t-001
   teiginys: "Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,15 +85,15 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     stengėsi elgtis kaip reikalauta ir gyveno dvigubą – viešą ir asmeninį – gy-
     venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
-  citata_rodoma: |
-    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+  citata_rodoma: "Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21071
+    - t-001
+
 - id: c-23785
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,12 +105,11 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
-  citata_rodoma: |
-    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+  citata_rodoma: "V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21070
+    - t-002

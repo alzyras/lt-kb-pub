@@ -55,7 +55,6 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
 
 <a id="claim-t-195624"></a>
 - t-001
-  global_id: t-195624
   teiginys: "Kraičvežiai šiame šaltinyje apibūdinami kaip pasirėdę svodbiškai."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -66,7 +65,6 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
 
 <a id="claim-t-195625"></a>
 - t-002
-  global_id: t-195625
   teiginys: "Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -91,34 +89,27 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
     Šneka užstalėje nesiklijuoja — nėra
     kas ją rūpintų, kaip kad piršlys „anoje šalyje“ . Šioje pusėje piršlys
     veikia kaip eilinis svodbininkas.
-  citata_rodoma: |
-    Šioje pusėje piršlys veikia kaip eilinis svodbininkas.
+  citata_rodoma: "Šioje pusėje piršlys veikia kaip eilinis svodbininkas."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195625
+    - t-002
+
 - id: c-178027
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 118 (PDF 116)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 118 (PDF 116)."
   citata_originali: |
-    Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudi­
-    nės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medi­
-    nėmis skiedromis.
-    Kariški antpečiai, mediniai kardai, šiaudiniai dir­
-    žai, visoki pasaitai, pentinai, vis išdabinti stučkomis, vis sudaro juo­
-    kingai išdidų vaizdą. Tam panaši ir jų kalba: esą plunksnų pirkliai,
-    perką kur geras plunksnas ir pūkus.
-  citata_rodoma: |
     Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudinės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medinėmis skiedromis.
+  citata_rodoma: "Kraičvežiai pasirėdę svodbiškai: ant kepurių pritaisytos šiaudinės karūnos, išdabintos dažytomis popierinėmis stučkomis arba medinėmis skiedromis."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195624
+    - t-001

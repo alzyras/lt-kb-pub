@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59693"></a>
 - t-001
-  global_id: t-59693
   teiginys: "Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59693
+    - t-001

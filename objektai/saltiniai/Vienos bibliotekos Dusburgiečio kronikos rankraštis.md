@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
 
 <a id="claim-t-91966"></a>
 - t-001
-  global_id: t-91966
   teiginys: "Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,14 +57,11 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: |
-    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
-    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: "viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos\nbibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91966
+    - t-001

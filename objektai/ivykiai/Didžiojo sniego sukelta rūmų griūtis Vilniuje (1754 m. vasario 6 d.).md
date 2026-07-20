@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-200602"></a>
 - t-001
-  global_id: t-200602
   teiginys: "1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -93,23 +92,8 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 8"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 8."
-  citata_originali: |
-    Pvz., 1751 m. jis minėjo, kad etmonas Mykolas Kazimieras Radvila Žuvelė laiške
-    ekonomui [greičiausiai Tomui Kaveckiui (Tomasz Kawecki)] liepė restauruoti Vilniaus
-    pilies vartus [13].
-    Paminėti ir stichinių nelaimių padariniai Vilniuje buvusių didikų namams. 1754 m.
-    jis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,
-    jog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems
-    namams, nes lauke ekstremaliai daug sniego [32].
-  citata_rodoma: |
-    Paminėti ir stichinių nelaimių padariniai Vilniuje buvusių didikų namams. 1754 m.
-    jis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,
-    jog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems
-    namams, nes lauke ekstremaliai daug sniego [32].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200602
+    - t-001

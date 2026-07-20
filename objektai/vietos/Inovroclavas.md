@@ -31,7 +31,6 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 
 <a id="claim-t-86190"></a>
 - t-001
-  global_id: t-86190
   teiginys: "Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,24 +83,11 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     ko Valerijono parašu, su prikabintu
     Lietuvos Didžiosios Kunigaikštystės
     antspaudu.
-  citata_rodoma: |
-    Dailieji menai, architektūra, tapyba ir skulptūra, mažai
-    pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
-    vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti. Trys į
-    Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
-    tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­
-    nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas
-    34
-    Privilegija, duota Paleckiui steigti šią
-    liejyklą, yra rašyta slavų kalba, su lo­
-    tynišku karaliaus ir rusišku raštinin­
-    ko Valerijono parašu, su prikabintu
-    Lietuvos Didžiosios Kunigaikštystės
-    antspaudu.
+  citata_rodoma: "Dailieji menai, architektūra, tapyba ir skulptūra, mažai \npažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­\nvyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti. Trys į \nVilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­\ntiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­\nnanės, o du architektai ir raižytojai - Jonas Marija ir Jonas\n34\nPrivilegija, duota Paleckiui steigti šią \nliejyklą, yra rašyta slavų kalba, su lo­\ntynišku karaliaus ir rusišku raštinin­\nko Valerijono parašu, su prikabintu \nLietuvos Didžiosios Kunigaikštystės \nantspaudu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86190
+    - t-001

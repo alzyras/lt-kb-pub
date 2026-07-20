@@ -39,7 +39,6 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 
 <a id="claim-t-40509"></a>
 - t-001
-  global_id: t-40509
   teiginys: "1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 
 <a id="claim-t-40510"></a>
 - t-002
-  global_id: t-40510
   teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40510
+    - t-002
+
 - id: c-44560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -119,18 +118,11 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
     kur ėmė užiminėti pa-
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
-  citata_rodoma: |
-    1919 m. liepos 26 d. į
-    Kuršėnus įžengė pirmieji
-    bermontininkai, vado-
-    vaujami plk. Virgoličiaus,
-    kur ėmė užiminėti pa-
-    talpas, plėšti gyvento-
-    jus ir kitaip savivaliauti.
+  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40509
+    - t-001

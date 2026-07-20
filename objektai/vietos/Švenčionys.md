@@ -39,7 +39,6 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 
 <a id="claim-t-183644"></a>
 - t-001
-  global_id: t-183644
   teiginys: "1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183644
+    - t-001

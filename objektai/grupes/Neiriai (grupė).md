@@ -33,7 +33,6 @@ Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir ski
 
 <a id="claim-t-201252"></a>
 - t-001
-  global_id: t-201252
   teiginys: "Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir skitų kalba, už tų budinu juo dar į šiaurę, beje, apy gardose Vilniaus, neiriai; regis, upė Neris ir kalnai to krašto Paneriai nuo tų gyventojų yra praminti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir ski
 ## Citatos
 
 - id: c-184602
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Už tų tyragetų
     juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
@@ -67,4 +67,4 @@ Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201252
+    - t-001

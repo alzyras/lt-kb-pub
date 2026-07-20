@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-80694"></a>
 - t-001
-  global_id: t-80694
   teiginys: "Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80694
+    - t-001

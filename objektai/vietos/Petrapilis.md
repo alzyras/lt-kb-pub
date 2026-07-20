@@ -39,8 +39,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Teiginiai
 
 <a id="claim-t-68917"></a>
-- t-001
-  global_id: t-68917
+- t-003
   teiginys: "Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-68373
 
 <a id="claim-t-68918"></a>
-- t-002
-  global_id: t-68918
+- t-001
   teiginys: "1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-32322
 
 <a id="claim-t-183072"></a>
-- t-003
-  global_id: t-183072
+- t-004
   teiginys: "Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -124,7 +121,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68918
+    - t-001
+
 - id: c-68373
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -137,19 +135,15 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
-  citata_rodoma: |
-    Tuo metu Čartoriskiai pasiun-
-    tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
-    niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
-    siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
-    net į labai intimius santykius.
+  citata_rodoma: "Tuo metu Čartoriskiai pasiun-\ntė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-\nniatauską. Gavęs Saksonijos atstovo titulą, šis greit su-\nsiartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo\nnet į labai intimius santykius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68917
+    - t-003
+
 - id: c-166463
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -166,6 +160,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183072
+    - t-004
+
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/grupes/Čartoriskiai]]

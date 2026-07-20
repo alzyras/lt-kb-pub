@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,10 +44,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 ## Teiginiai
 
 <a id="claim-t-121908"></a>
-- t-001
-  global_id: t-121908
+- t-011
   teiginys: "1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,12 +61,12 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs."
   pagrindžia:
     - c-37520
+    - c-182380
 
-<a id="claim-t-121912"></a>
-- t-002
-  global_id: t-121912
+<a id="claim-t-121909"></a>
+- t-008
   teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Haličas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,12 +82,12 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-111634
+    - c-182385
 
 <a id="claim-t-121910"></a>
-- t-003
-  global_id: t-121910
+- t-010
   teiginys: "Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Gniezno: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -102,10 +101,10 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-111632
+    - c-182383
 
 <a id="claim-t-185036"></a>
-- t-004
-  global_id: t-185036
+- t-014
   teiginys: "Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -125,10 +124,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-168397
 
 <a id="claim-t-193211"></a>
-- t-005
-  global_id: t-193211
+- t-016
   teiginys: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -136,10 +134,10 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175955
+    - c-182386
 
 <a id="claim-t-199596"></a>
-- t-006
-  global_id: t-199596
+- t-005
   teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -151,8 +149,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182381
 
 <a id="claim-t-199603"></a>
-- t-007
-  global_id: t-199603
+- t-001
   teiginys: "Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -174,8 +171,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182384
 
 <a id="claim-t-199604"></a>
-- t-008
-  global_id: t-199604
+- t-009
   teiginys: "Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -200,8 +196,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-182377
 
 <a id="claim-t-199605"></a>
-- t-009
-  global_id: t-199605
+- t-002
   teiginys: "Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos."
   atnaujinta: "2026-07-12 23:03"
   sprendimo_priezastis: "auto"
@@ -224,7 +219,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182379
-    - c-170552
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
@@ -278,6 +272,20 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
+## Reikšmingi paminėjimai
+- c-007
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1—3)
+    35 Visos šios past ra i Įlos chronologija netiksli.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-37520
@@ -292,20 +300,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: |
-    Dar
-    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
-    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
-    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
-    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
-    prieš jo pretenzijas į Lucką^1 ).
+  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121908
+    - t-011
+
 - id: c-111632
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -325,7 +328,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121910
+    - t-010
+
 - id: c-111634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,7 +351,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121912
+    - t-008
+
 - id: c-168397
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -381,7 +386,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185036
+    - t-014
+
 - id: c-175955
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -401,7 +407,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193211
+    - t-016
+
 - id: c-182377
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -418,7 +425,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199604
+    - t-009
+
 - id: c-182379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -426,21 +434,18 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 303."
   citata_originali: |
     34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
-    buvo ten tarp spalio II Ir 25 d., o toliau Iki 1485 m. pabaigos
-    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1—3)
-    35 Visos šios past ra i Įlos chronologija netiksli.
-  citata_rodoma: |
-    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
     buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
     buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
     35 Visos šios past ra i Įlo s chronologija netiksli.
+  citata_rodoma: "34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir \nbuvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos \nbuvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)\n35 Visos šios past ra i Įlo s chronologija netiksli."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199605
+    - t-002
+
 - id: c-182380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -453,19 +458,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
-  citata_rodoma: |
-    Dar
-    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
-    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
-    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
-    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
-    prieš jo pretenzijas į Lucką^1 ).
+  citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-182381
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -478,20 +479,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
     Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
     Lietuvos vėliau nuvyko ir pats Jogaila.
-  citata_rodoma: |
-    Tuo metu,
-    kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai
-    įvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų
-    daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip
-    Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš
-    Lietuvos vėliau nuvyko ir pats Jogaila.
+  citata_rodoma: "Tuo metu,\nkai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai\nįvažiavo į Lvovą ir suteikė tam miestui privilegiją. Kaip lenkų\ndaliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip\nLietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš\nLietuvos vėliau nuvyko ir pats Jogaila."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199596
+    - t-005
+
 - id: c-182383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -507,10 +503,12 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     rimo.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-182384
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -530,7 +528,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199603
+    - t-001
+
 - id: c-182385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -548,10 +547,12 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     zacijos požiūriu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-182386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -570,18 +571,5 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-- id: c-170552
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
-    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
-    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
-    35 Visos šios past ra i Įlo s chronologija netiksli.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-199605
+    - t-016

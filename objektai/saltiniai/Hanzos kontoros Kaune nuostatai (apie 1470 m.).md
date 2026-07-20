@@ -12,10 +12,10 @@ datos:
   - '1492 m.'
 date_start: '1468'
 date_end: '1492'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-202272"></a>
 - t-001
-  global_id: t-202272
   teiginys: "1468 m. Kazimieras Jogailaitis paskyrė susiėjimą Trakuose, apie 1470 m. suteikė nuostatus Hanzos kontorai Kaune, 1480 m. Kaunui nurodė laikytis savo teisės, 1481 m., paskui kelis kartus 1483, 1488 ir 1492 m., Kauno ir Dancigo ginčą sprendė kartu su Lietuvos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202272
+    - t-001

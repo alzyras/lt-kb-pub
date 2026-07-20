@@ -30,7 +30,6 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 
 <a id="claim-t-191424"></a>
 - t-001
-  global_id: t-191424
   teiginys: "Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191424
+    - t-001
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Targitas]]

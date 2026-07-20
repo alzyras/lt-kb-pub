@@ -33,7 +33,6 @@ Tai buvo duonos kepėjai ir pyragiai (bandelių ar pyragų kepėjai ir kepėjos,
 
 <a id="claim-t-201813"></a>
 - t-001
-  global_id: t-201813
   teiginys: "Tai buvo duonos kepėjai ir pyragiai (bandelių ar pyragų kepėjai ir kepėjos, pirognikie), kruopininkai (krupinikas, krupnik), skerdikai, mėsininkai, raugaliai (?, kwaszelnik, quaszelnykas, raugintų maisto produktų gamintojai ir prekiautojai jais)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Tai buvo duonos kepėjai ir pyragiai (bandelių ar pyragų kepėjai ir kepėjos,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201813
+    - t-001

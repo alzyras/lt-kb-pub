@@ -37,7 +37,6 @@ Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino k
 
 <a id="claim-t-189321"></a>
 - t-001
-  global_id: t-189321
   teiginys: "Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino kaip senojo miško pavadinimo Petionka kilmę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189321
+    - t-001

@@ -33,7 +33,6 @@ Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas
 
 <a id="claim-t-201176"></a>
 - t-001
-  global_id: t-201176
   teiginys: "Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas
 ## Citatos
 
 - id: c-184526
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kalavijonys, nujautę žemaičių nesant namie, ta­
     rės tuo pragumu žemgalius sudrausią; to dėjęsi, su- 128j
@@ -67,4 +67,4 @@ Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201176
+    - t-001

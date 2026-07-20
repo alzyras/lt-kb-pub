@@ -36,7 +36,6 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
 
 <a id="claim-t-202415"></a>
 - t-001
-  global_id: t-202415
   teiginys: "Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -61,13 +60,8 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 15"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 15."
-  citata_originali: |
-    21 Tai Jonas Kazimieras Rudamina, Breslaujos pavieto žemės raštininkas,
-    žr.: Województwo wileńskie 1690 r., s. 275; taip pat šio dienoraščio 09 30 įrašą.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202415
+    - t-001

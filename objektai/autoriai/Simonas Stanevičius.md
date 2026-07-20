@@ -41,8 +41,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ## Teiginiai
 
 <a id="claim-t-169894"></a>
-- t-001
-  global_id: t-169894
+- t-008
   teiginys: "Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     - c-154578
 
 <a id="claim-t-183347"></a>
-- t-002
-  global_id: t-183347
+- t-009
   teiginys: "Vilniaus universiteto aplinkoje Simonas Stanevičius ir kiti iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,32 +80,23 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 
 <a id="claim-t-188475"></a>
 - t-003
-  global_id: t-188475
   teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švėkšna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Stanevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Švėkšna: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Stanevičius\" parinktas kaip owner_note_path. Targetas \"Švėkšna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1836 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas laiško autorius, adresatas, data ir liudijimo objektas. Nepridėta papildomų teiginių apie monetų kilmę ar lobio sudėtį."
   pagrindžia:
-    - c-171365
-    - c-003
+    - c-171366
+
 <a id="claim-t-188476"></a>
 - t-004
-  global_id: t-188476
   teiginys: "Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -122,10 +111,9 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171366
-    - c-004
+
 <a id="claim-t-197337"></a>
-- t-005
-  global_id: t-197337
+- t-010
   teiginys: "Simonas Stanevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -167,24 +155,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188475
-- c-004
-  santrauka: 'Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
-    damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
-    lima spėti, kad šio laiško autorius, tai yra Raseinių
-    korespondentas, galėjo būti ir Simonas Stanevičius
-    (1799-1848).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188476
+
 ## Citatos
 
 - id: c-154578
@@ -204,24 +175,15 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
     plito nuorašais.
-  citata_rodoma: |
-    Ši grupelė ir lai-
-    koma etninių lietuvių tautinio
-    kultūrinio sąjūdžio pradininkais.
-    Parašytas ir išleistas tiems lai-
-    kams novatoriškas elementorius
-    lietuvių kalba (žemaičių tarme),
-    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
-    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
-    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
-    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+  citata_rodoma: "Ši grupelė ir lai-\nkoma etninių lietuvių tautinio \nkultūrinio sąjūdžio pradininkais. \nParašytas ir išleistas tiems lai-\nkams novatoriškas elementorius \nlietuvių kalba (žemaičių tarme), \npoetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje \nbuvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis \nmanifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-\nvyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169894
+    - t-008
+
 - id: c-166738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -250,7 +212,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183347
+    - t-009
+
 - id: c-171365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -274,32 +237,24 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188475
-    - t-197337
+    - t-010
+
 - id: c-171366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - Bruns-
-    berga, 1604.
-    P. 238** - Turimi omenyje straipsniai: Portret na blaszce ry-
-    towany teologa Pomorskiego Jakóba Fabriciusza,
-    zachowujacy sic w zbiorze zabytków starozytnosci
-    Litewskich Pana Dyonizego Paszkiewicza. Tudziez,
-    wzmianka o pracach i badaniach profesora Króle-
-    wieckiego Pana Rhesa w przedmiocie starozytnosci
-    Litewskich // Dziennik Wileñski.
-  citata_rodoma: |
     Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
     damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­
     lima spėti, kad šio laiško autorius, tai yra Raseinių
     korespondentas, galėjo būti ir Simonas Stanevičius
     (1799-1848).
+  citata_rodoma: "Tekstas, kuriuo T. Narbutas papildė skyrių, reng­\ndamas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­\nlima spėti, kad šio laiško autorius, tai yra Raseinių\nkorespondentas, galėjo būti ir Simonas Stanevičius\n(1799-1848)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188476
+    - t-003
+    - t-004

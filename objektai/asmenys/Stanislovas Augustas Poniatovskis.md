@@ -42,8 +42,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 ## Teiginiai
 
 <a id="claim-t-170087"></a>
-- t-001
-  global_id: t-170087
+- t-035
   teiginys: "1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 <a id="claim-t-170088"></a>
 - t-002
-  global_id: t-170088
   teiginys: "Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154771
 
 <a id="claim-t-170089"></a>
-- t-003
-  global_id: t-170089
+- t-040
   teiginys: "Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154773
 
 <a id="claim-t-170092"></a>
-- t-004
-  global_id: t-170092
+- t-037
   teiginys: "Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154776
 
 <a id="claim-t-170093"></a>
-- t-005
-  global_id: t-170093
+- t-038
   teiginys: "Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,8 +135,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154772
 
 <a id="claim-t-170094"></a>
-- t-006
-  global_id: t-170094
+- t-039
   teiginys: "Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +154,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154770
 
 <a id="claim-t-170095"></a>
-- t-007
-  global_id: t-170095
+- t-036
   teiginys: "Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,19 +199,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: |
-    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
-    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
-    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
-    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
-    21 dieną iš Jekaterinos II gautą notą.
+  citata_rodoma: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas \nStanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-\nkijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad \nRusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos \n21 dieną iš Jekaterinos II gautą notą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170087
+    - t-035
+
 - id: c-154770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,22 +223,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
-  citata_rodoma: |
-    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
-    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
-    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
-    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
-    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
-    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
-    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
-    ikikonstitucinę „auksinių laisvių“ santvarką.
+  citata_rodoma: "Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-\nmame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170094
+    - t-039
+
 - id: c-154771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -260,19 +242,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
     ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
     nijos ir sunaikinimo epocha.
-  citata_rodoma: |
-    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
-    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
-    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
-    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
-    nijos ir sunaikinimo epocha.
+  citata_rodoma: "LLV valdovu buvo išrinktas Stanislo-\nvas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos\nvyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai\nir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-\nnijos ir sunaikinimo epocha."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170088
+    - t-002
+
 - id: c-154772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -292,7 +270,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170093
+    - t-038
+
 - id: c-154773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -306,19 +285,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: |
-    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
-    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
-    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
-    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
-    mo) aktas.
+  citata_rodoma: "1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-\nburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos \nvalstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo \npridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-\nmo) aktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170089
+    - t-040
+
 - id: c-154774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -333,17 +308,15 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     pusės maršalas K. N. Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
-  citata_rodoma: |
-    Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo
-    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
-    kare su Rusija toli gražu nebuvo išsemtos.
+  citata_rodoma: "Sapiega. Istorija pasmerkė susitaikėlišką Stanislovo \nAugusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos \nkare su Rusija toli gražu nebuvo išsemtos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170095
+    - t-036
+
 - id: c-154776
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -354,16 +327,14 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
     taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
     mavo miestiečių milicijos. Neabejotina, kad 1792 m.
-  citata_rodoma: |
-    O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
-    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
-    mavo miestiečių milicijos. Neabejotina, kad 1792 m.
+  citata_rodoma: "O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris \ntaip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-\nmavo miestiečių milicijos. Neabejotina, kad 1792 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170092
+    - t-037
+
 ## Ryšiai
 - Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

@@ -31,9 +31,8 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
 
 <a id="claim-t-189134"></a>
 - t-001
-  global_id: t-189134
   teiginys: "Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir degtinės varytojų dievą, kitaip vadintą Bubilu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172022
-    - c-001
+
 <a id="claim-t-189135"></a>
 - t-002
-  global_id: t-189135
   teiginys: "Narbutas nurodo, kad kronikininkai skyrė Ragutį nuo Bubilo: Ragutį laikė rūgšties, o Bubilą saldumynų šeimininku."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,27 +62,6 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   pagrindžia:
     - c-172023
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir degtinės varytojų dievą, kitaip vadintą Bubilu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    98
-
-    ## Puslapis 98
-
-    Ragutis (Ragutis)
-    Midaus darytojų, bartininkų, aludarių, degtinės varytojų
-    dievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip
-    vadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­
-    sai lenkėsi tam dievui, vadindami Zosim.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189134
 ## Citatos
 
 - id: c-172022
@@ -92,13 +69,6 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
-    veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
-    dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
-    eina Bubbulis - paims, pagriebs“. Jį taip pat vadino Tiimpus,
-    lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
-    buvo paprastas girtuoklių globėjo epitetas.
-  citata_rodoma: |
     98
 
     ## Puslapis 98
@@ -108,13 +78,15 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
     dievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip
     vadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­
     sai lenkėsi tam dievui, vadindami Zosim.
+  citata_rodoma: "98\n\n## Puslapis 98\n\nRagutis (Ragutis)\nMidaus darytojų, bartininkų, aludarių, degtinės varytojų\ndievas, kurį ypač garbino puotautojai, įkaitę nuo gėrimų. Kitaip\nvadintas Bubilu (Bublos, Bubilos). Lasickis pasakoja, kad ru­\nsai lenkėsi tam dievui, vadindami Zosim."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189134
+    - t-001
+
 - id: c-172023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -132,4 +104,4 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189135
+    - t-002

@@ -32,7 +32,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 
 <a id="claim-t-190310"></a>
 - t-001
-  global_id: t-190310
   teiginys: "Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -44,9 +43,9 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   pagrindžia:
     - c-173193
     - c-173194
+
 <a id="claim-t-190312"></a>
-- t-002
-  global_id: t-190312
+- t-003
   teiginys: "Narbutas Henenbergerį kartu su Škicu, Hartknochu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius dėl tariamo ligonių mirties greitinimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173195
 
 <a id="claim-t-190313"></a>
-- t-003
-  global_id: t-190313
+- t-004
   teiginys: "Pasak Henenbergerio tyrimų, turtingųjų namuose gedulas trukdavo keturias savaites be pasilinksminimų, o samdytos raudotojos apraudodavo mirusįjį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,10 +85,9 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173196
 
 <a id="claim-t-190314"></a>
-- t-004
-  global_id: t-190314
+- t-005
   teiginys: "Narbutas rašė, kad Henenbergeris tyrimuose rėmėsi ne tik vyskupo Kristijono kronika, bet ir kitais ankstesniais už Dusburgietį šaltiniais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,7 +106,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 
 <a id="claim-t-190700"></a>
 - t-006
-  global_id: t-190700
   teiginys: "Henenbergeris, Narbuto teigimu, nurodė daugiau jo laikais jau nebeegzistavusių Nemuno šakų, tarp jų Akmenę, Szyrwinde ir Alt-Russe."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     - c-173582
 
 <a id="claim-t-190701"></a>
-- t-005
-  global_id: t-190701
+- t-007
   teiginys: "Henenbergeris, Narbuto teigimu, patvirtino, kad buvo sudinų gentis arba taip vadinta giminė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -151,7 +146,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 
 <a id="claim-t-197591"></a>
 - t-008
-  global_id: t-197591
   teiginys: "XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -184,6 +178,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-173193
@@ -204,7 +199,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190310
+    - t-001
+
 - id: c-173194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -218,10 +214,12 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     dievas. Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -244,7 +242,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190312
+    - t-003
+
 - id: c-173196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -266,27 +265,13 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190313
+    - t-004
+
 - id: c-173197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    lietuviai naudojosi tomis raidėmis. Gali būti, kad kam nors
-    pasitaikys rasti pinigą arba metalo gabaliuką su užrašu to rai­
-    dyno raidėmis; man net pasakojo, kad Lietuvoje kai kur yra
-    akmenų su iškaltomis nežinomo pavidalo raidėmis, o tos galė­
-    tų pasirodyti esančios biarmiškos. Vieną iš tokių užrašų, per­
-    pieštą Žemaitijoje nuo akmens, turėjau rankose; jame buvo
-    deramai išbrėžtos kelios biarmiškos raidės, tačiau, matyt, ne­
-    mokšiškai kopijuojant, kiti ženklai buvo sugadinti, neįmano­
-    ma buvo padaryti kokią nors išvadą, nebent įrodymą, kad gali
-    pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
-    nas buvo plačiau pažįstamas. Tiesa, ši nuomonė gali atrodyti
-    nauja, kadangi Rusijos rašytojai tą raidyną laiko XI amžiaus
-    kūriniu, tačiau mums reikėtų turėti daugiau tyrimų, o tuomet
-    galbūt įtikintume savo naudai.
-  citata_rodoma: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
     Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
@@ -300,13 +285,15 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
     rokai išsamesniais paaiškinimais negu Simonas Grunau17.
     2.
+  citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190314
+    - t-005
+
 - id: c-173582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -328,26 +315,16 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
     galop susilieja su Tavos upe, kuri taip pat yra Gilijos ša­
     ka, ir įteka į Kuršių marias, dar padariusi Subelės ir Ver-
     gelės šakas.
-  citata_rodoma: |
-    XV am­
-    žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­
-    giau šiandien jau neegzistuojančių šakų: Akmenės, Szyr-
-    winde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm,
-    Kallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai
-    lietuvių kalboje turi prasmę ir teikia didelių galimybių
-    etimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­
-    šakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai
-    reiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į
-    dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota;
-    jos tik prie Dreiškių kaimo vėl susilieja į vieną.
+  citata_rodoma: "XV am­\nžiaus prūsų kronikininkas Henenbergeris nurodo dar dau­\ngiau šiandien jau neegzistuojančių šakų: Akmenės, Szyr- \nwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, \nKallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai \nlietuvių kalboje turi prasmę ir teikia didelių galimybių \netimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­\nšakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai \nreiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į \ndvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota; \njos tik prie Dreiškių kaimo vėl susilieja į vieną."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190700
-    - t-197591
+    - t-006
+    - t-008
+
 - id: c-173583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -366,4 +343,4 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190701
+    - t-007

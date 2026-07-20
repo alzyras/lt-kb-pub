@@ -40,7 +40,6 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 
 <a id="claim-t-30698"></a>
 - t-001
-  global_id: t-30698
   teiginys: "J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,13 +73,11 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: |
-    — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
-    425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
+  citata_rodoma: "— Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,\n425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30698
+    - t-001

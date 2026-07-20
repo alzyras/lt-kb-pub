@@ -38,7 +38,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
 
 <a id="claim-t-194978"></a>
 - t-001
-  global_id: t-194978
   teiginys: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
 
 <a id="claim-t-194979"></a>
 - t-002
-  global_id: t-194979
   teiginys: "Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194978
+    - t-001
+
 - id: c-177365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -105,4 +104,4 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194979
+    - t-002

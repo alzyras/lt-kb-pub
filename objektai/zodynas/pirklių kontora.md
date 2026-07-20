@@ -31,7 +31,6 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
 
 <a id="claim-t-03119"></a>
 - t-001
-  global_id: t-03119
   teiginys: "Hanzos agentūros buvo vadinamos pirklių kontoromis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
 
 <a id="claim-t-182970"></a>
 - t-002
-  global_id: t-182970
   teiginys: "Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -79,16 +77,15 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     iškilo didelis prekybos centras Polockas, o prie Nemuno
     — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė
     savo agentūras (vadinamąsias pirklių kontoras).
-  citata_rodoma: |
-    Abiejuose tuose centruose Hanza veikiai įsteigė
-    savo agentūras (vadinamąsias pirklių kontoras).
+  citata_rodoma: "Abiejuose tuose centruose Hanza veikiai įsteigė\nsavo agentūras (vadinamąsias pirklių kontoras)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03119
+    - t-001
+
 - id: c-166368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -106,4 +103,4 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182970
+    - t-002

@@ -33,7 +33,6 @@ Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į gi
 
 <a id="claim-t-201222"></a>
 - t-001
-  global_id: t-201222
   teiginys: "Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į ginklą pratinos, nuo to gi ir kraštas apie pilį vadinos apykarta."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į gi
 ## Citatos
 
 - id: c-184572
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Dirbo jas tarp vers­
     mių ir balų, idant neprieteliai negalėtų prisiartinti.
@@ -63,4 +63,4 @@ Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į gi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201222
+    - t-001

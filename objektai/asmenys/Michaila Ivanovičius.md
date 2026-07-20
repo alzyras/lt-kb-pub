@@ -31,7 +31,6 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
 
 <a id="claim-t-186238"></a>
 - t-001
-  global_id: t-186238
   teiginys: "Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186238
+    - t-001

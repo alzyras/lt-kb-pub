@@ -38,8 +38,7 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 ## Teiginiai
 
 <a id="claim-t-64650"></a>
-- t-001
-  global_id: t-64650
+- t-003
   teiginys: "J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
     1940.
     ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
     1938.
-  citata_rodoma: |
-    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
-    1938.
+  citata_rodoma: "ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas\n1938."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64650
+    - t-003

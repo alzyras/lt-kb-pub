@@ -41,8 +41,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 ## Teiginiai
 
 <a id="claim-t-174212"></a>
-- t-001
-  global_id: t-174212
+- t-008
   teiginys: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158412
 
 <a id="claim-t-174214"></a>
-- t-002
-  global_id: t-174214
+- t-006
   teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158408
 
 <a id="claim-t-174216"></a>
-- t-003
-  global_id: t-174216
+- t-001
   teiginys: "Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158418
 
 <a id="claim-t-174217"></a>
-- t-004
-  global_id: t-174217
+- t-009
   teiginys: "Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158415
 
 <a id="claim-t-174218"></a>
-- t-005
-  global_id: t-174218
+- t-003
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +126,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158407
 
 <a id="claim-t-174219"></a>
-- t-006
-  global_id: t-174219
+- t-007
   teiginys: "Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158419
 
 <a id="claim-t-174220"></a>
-- t-007
-  global_id: t-174220
+- t-013
   teiginys: "Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,8 +161,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158414
 
 <a id="claim-t-174221"></a>
-- t-008
-  global_id: t-174221
+- t-002
   teiginys: "Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158409
 
 <a id="claim-t-174222"></a>
-- t-009
-  global_id: t-174222
+- t-010
   teiginys: "Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -202,8 +193,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158417
 
 <a id="claim-t-174223"></a>
-- t-010
-  global_id: t-174223
+- t-011
   teiginys: "Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -219,8 +209,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158413
 
 <a id="claim-t-174224"></a>
-- t-011
-  global_id: t-174224
+- t-005
   teiginys: "1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -239,8 +228,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     - c-158411
 
 <a id="claim-t-194267"></a>
-- t-012
-  global_id: t-194267
+- t-015
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -300,21 +288,15 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
-  citata_rodoma: |
-    Kivirčai tarp brolių da­
-    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
-    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
-    valdos sostinės, turėjęs geriausių galimybių stebėti visus
-    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
-    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
-    nigaikščio buveinę.
+  citata_rodoma: "Kivirčai tarp brolių da­\nvė pradžią slaptoms, bet sumaniai parengtoms sutartims \nsiekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174218
+    - t-003
+
 - id: c-158408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -348,7 +330,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174214
+    - t-006
+
 - id: c-158409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -368,7 +351,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174221
+    - t-002
+
 - id: c-158411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -389,26 +373,15 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     III KNYGA
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
-  citata_rodoma: |
-    Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
-    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
-    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
-    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
-    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
-    232
-
-    ## Puslapis 249
-
-    III KNYGA
-    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
-    veinei*.
+  citata_rodoma: "Jų pabūgę miestiečiai, raginami ir remiami Vilniaus \nvyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­\nlimu, išmetę medinius statinius. Atrodo, kad tais metais bu­\nvo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­\nkrypusios ir suskilusios, be to, išaugo panašūs ir erdvūs\n232\n\n## Puslapis 249\n\nIII KNYGA\nmediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­\nveinei*."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174224
+    - t-005
+
 - id: c-158412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -425,21 +398,15 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
     puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
     ežerų apsuptai Trakų piliai.
-  citata_rodoma: |
-    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
-    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
-    jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą
-    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
-    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
-    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
-    ežerų apsuptai Trakų piliai.
+  citata_rodoma: "Trumpas Aleksandro valdymas, gana nesėkmingas Lie­\ntuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių, \njos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą \namžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­\nnėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­\npuolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai, \nežerų apsuptai Trakų piliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174212
+    - t-008
+
 - id: c-158413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -461,7 +428,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174223
+    - t-011
+
 - id: c-158414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -490,7 +458,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174220
+    - t-013
+
 - id: c-158415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -507,24 +476,15 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     35 36
     G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą.
     ropejskiej, vert.
-  citata_rodoma: |
-    Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
-    čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
-    pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties
-    vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo
-    užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581
-    metais, tad gal būtų galima manyti, jog Žemutinės pilies te­
-    ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv.
-    Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę
-    35 36
-    G w a g n i n i Kronika Sarmacyi Em- Žr.
+  citata_rodoma: "Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­\nčios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus \npilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties \nvardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo \nužbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 \nmetais, tad gal būtų galima manyti, jog Žemutinės pilies te­\nritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv. \nOnos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę\n35 36\nG w a g n i n i Kronika Sarmacyi Em- Žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174217
+    - t-009
+
 - id: c-158417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -551,7 +511,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174222
+    - t-010
+
 - id: c-158418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -586,7 +547,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174216
+    - t-001
+
 - id: c-158419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -606,25 +568,15 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
     jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
     greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
     dėl pavojingos Glinskio puikybės.
-  citata_rodoma: |
-    paskui, sugrįžęs į Krokuvą, vėl bu-
-    234
-
-    ## Puslapis 251
-
-    III KNYGA
-    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
-    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
-    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
-    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
-    dėl pavojingos Glinskio puikybės.
+  citata_rodoma: "paskui, sugrįžęs į Krokuvą, vėl bu-\n234\n\n## Puslapis 251\n\nIII KNYGA\nlėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­\ntinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o \njo palaikai iškart buvo palaidoti koplyčioje, prie katedros, \ngreta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą \ndėl pavojingos Glinskio puikybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174219
+    - t-007
+
 - id: c-176860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -660,6 +612,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194267
+    - t-015
+
 ## Ryšiai
 - Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

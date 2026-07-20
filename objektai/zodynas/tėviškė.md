@@ -37,7 +37,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 
 <a id="claim-t-36844"></a>
 - t-001
-  global_id: t-36844
   teiginys: "1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 
 <a id="claim-t-184250"></a>
 - t-002
-  global_id: t-184250
   teiginys: "Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -100,18 +98,15 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
     jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
     la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
     Jo santykiai su tauta pasikeitė.
-  citata_rodoma: |
-    1392 metai Vytauto gyvenime yra persilaužimo metai —
-    jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
-    la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
-    Jo santykiai su tauta pasikeitė.
+  citata_rodoma: "1392 metai Vytauto gyvenime yra persilaužimo metai —\njis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­\nla ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.\nJo santykiai su tauta pasikeitė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36844
+    - t-001
+
 - id: c-167634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,4 +125,4 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184250
+    - t-002

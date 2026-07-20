@@ -31,7 +31,6 @@ Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaiči
 
 <a id="claim-t-35483"></a>
 - t-001
-  global_id: t-35483
   teiginys: "V. Putinas-Mykolaitis parašė istorinę šešių veiksmų dramą „Valdovas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaiči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35483
+    - t-001

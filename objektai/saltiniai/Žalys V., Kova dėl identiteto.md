@@ -38,7 +38,6 @@ Kova dėl identiteto.
 
 <a id="claim-t-18070"></a>
 - t-001
-  global_id: t-18070
   teiginys: "V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Kova dėl identiteto.
     Žalys V. Kova dėl identiteto. Kodėl Lietuvai nesisekė Klaipėdoje tarp 1923–
     1939 m. / Ringen um Identitat. Warum Litauen zwischen 1923 und 1939 im Me-
     melgebiet keinen Erfolg hatte/. Lueneburg, 1993.
-  citata_rodoma: |
-    Žalys V. Kova dėl identiteto. Kodėl Lietuvai nesisekė Klaipėdoje tarp 1923–
-    1939 m. / Ringen um Identitat. Warum Litauen zwischen 1923 und 1939 im Me-
-    melgebiet keinen Erfolg hatte/. Lueneburg, 1993.
+  citata_rodoma: "Žalys V. Kova dėl identiteto. Kodėl Lietuvai nesisekė Klaipėdoje tarp 1923–\n1939 m. / Ringen um Identitat. Warum Litauen zwischen 1923 und 1939 im Me-\nmelgebiet keinen Erfolg hatte/. Lueneburg, 1993."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18070
+    - t-001

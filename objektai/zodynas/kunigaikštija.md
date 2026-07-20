@@ -43,11 +43,10 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 
 ## Teiginiai
 
-<a id="claim-t-36802"></a>
-- t-001
-  global_id: t-36802
+<a id="claim-t-36801"></a>
+- t-005
   teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,12 +57,11 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-38744
-    - c-38745
     - c-38747
+    - c-38744
+
 <a id="claim-t-36803"></a>
-- t-002
-  global_id: t-36803
+- t-004
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -140,16 +138,15 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
     nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
     krašto viduje savarankiškumą.
-  citata_rodoma: |
-    Tuo pat metu, kaip ži­
-    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
-    krašto viduje savarankiškumą.
+  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-38745
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -162,11 +159,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
     torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
     naujinimas.
-  citata_rodoma: |
-    Todėl ir nenuostabu, kad po Ostrovos sutarties,
-    t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
-    torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
-    naujinimas.
+  citata_rodoma: "Todėl ir nenuostabu, kad po Ostrovos sutarties,\nt. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­\ntorijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­\nnaujinimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
@@ -187,18 +180,15 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
     ir jo palikuonys.
-  citata_rodoma: |
-    Vyguntas, būdamas
-    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
-    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
-    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
+  citata_rodoma: "Vyguntas, būdamas\nVladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos\ngalvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­\nkia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36803
+    - t-004
+
 - id: c-38747
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -211,16 +201,11 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
     rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
     Maskvos įtakon.
-  citata_rodoma: |
-    Tuo pat metu, kaip ži­
-    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
-    krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
-    rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
-    Maskvos įtakon.
+  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti\nrytuose, nes naminio karo metu Rusijos kraštai buvo patekę\nMaskvos įtakon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36802
+    - t-005

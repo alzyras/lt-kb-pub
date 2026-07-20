@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-35904"></a>
 - t-001
-  global_id: t-35904
   teiginys: "Vorsklos katastrofoje žuvo Vytauto kariuomenė, o jo valstybę užplūdę totoriai pasiekė net Kijevą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +81,11 @@ Nenurodyta
     Kijevą^3 ).
     Bet totorių žemės iš savo akių Vytautas neišleido ir po to,
     tik veikė jau daug atsargiau ir ne taip greit.
-  citata_rodoma: |
-    Kaip visur, taip ir čia Vytautas veikė labai energingai ir drą­
-    siai, bet pirmos pastangos pasibaigė Vorsklos katastrofa, kur
-    žuvo visa jo armija, o jo valstybę užplūdę totoriai pasiekė net
-    Kijevą^3 ).
-    Bet totorių žemės iš savo akių Vytautas neišleido ir po to,
-    tik veikė jau daug atsargiau ir ne taip greit.
+  citata_rodoma: "Kaip visur, taip ir čia Vytautas veikė labai energingai ir drą­\nsiai, bet pirmos pastangos pasibaigė Vorsklos katastrofa, kur\nžuvo visa jo armija, o jo valstybę užplūdę totoriai pasiekė net\nKijevą^3 ).\nBet totorių žemės iš savo akių Vytautas neišleido ir po to,\ntik veikė jau daug atsargiau ir ne taip greit."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35904
+    - t-001

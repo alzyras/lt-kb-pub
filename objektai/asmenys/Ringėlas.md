@@ -31,7 +31,6 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 
 <a id="claim-t-60425"></a>
 - t-001
-  global_id: t-60425
   teiginys: "Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,8 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60425
+    - t-001
+
 - id: c-167507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -91,6 +91,8 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gedūnas]]

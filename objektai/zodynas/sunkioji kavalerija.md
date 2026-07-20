@@ -31,7 +31,6 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 
 <a id="claim-t-42513"></a>
 - t-001
-  global_id: t-42513
   teiginys: "Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,11 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
     Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
     lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
     bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai.
-  citata_rodoma: |
-    Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
-    lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
-    bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai.
+  citata_rodoma: "Tautinio autoramento pagrindu buvo formuojama sunkioji kava-\nlerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai\nbei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42513
+    - t-001

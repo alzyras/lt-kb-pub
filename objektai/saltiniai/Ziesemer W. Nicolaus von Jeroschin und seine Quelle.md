@@ -9,13 +9,13 @@ datos:
   - '1906 m.'
 date_start: '1801'
 date_end: '1906'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Dusburgietis teigia, kad ziesemer W.
 
 <a id="claim-t-61383"></a>
 - t-001
-  global_id: t-61383
   teiginys: "W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad ziesemer W.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62015
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61383
+
 ## Citatos
 
 - id: c-62015
@@ -74,14 +60,12 @@ Dusburgietis teigia, kad ziesemer W.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    В. 2. — М 1955.
-    Рыбаков Б. А. Киевская Русь и русские княжества XII— XIII вв.
-  citata_rodoma: |
     Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
+  citata_rodoma: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61383
+    - t-001

@@ -30,7 +30,6 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
 
 <a id="claim-t-191590"></a>
 - t-001
-  global_id: t-191590
   teiginys: "Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose nubraižytu žemėlapiu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -41,26 +40,7 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174472
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose nubraižytu žemėlapiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai pasakoja Amia-
-    nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­
-    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
-    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
-    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
-    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
-    ir Geniui, neva net atsikėlusi iš Chijo salos2.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191590
+
 ## Citatos
 
 - id: c-174472
@@ -68,20 +48,6 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galėjo
-    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
-    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
-    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
-    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
-    novės Kijevą. Nestoras irgi nusirašė visa tai. Esmė ta,
-    kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
-    daugiausia netvarkingai surašytų ir sukompiliuotų iš
-    įvairių šaltinių, kuriuos naudojo šis geografas, daugybė­
-    je jam ne sykį atsitikdavo, kad, paėmęs du vienos tau­
-    tos pavadinimus iš įvairių epochų ir autorių, pateikė juos
-    atskirai ir padarė dvi tautas, kiek panašiai pavadinęs,
-    nes ne visuomet buvo įmanoma patikrinti.
-  citata_rodoma: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -89,10 +55,11 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
     joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
     ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
     ir Geniui, neva net atsikėlusi iš Chijo salos2.
+  citata_rodoma: "Tai pasakoja Amia-\nnas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191590
+    - t-001

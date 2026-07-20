@@ -41,7 +41,6 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 <a id="claim-t-72598"></a>
 - t-001
-  global_id: t-72598
   teiginys: "Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 <a id="claim-t-193116"></a>
 - t-002
-  global_id: t-193116
   teiginys: "1559 m. Lietuvos seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas Augustas apsiėmė ginti Livoniją; jam už tai buvo atiduotos 5 ordino ir 2 arkivyskupo pilys, kurias po karo šie galėjo išsipirkti, — magistras už 600.000, o arkivyskupas už 100.000."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72598
+    - t-001
+
 - id: c-175876
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,4 +110,4 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193116
+    - t-002

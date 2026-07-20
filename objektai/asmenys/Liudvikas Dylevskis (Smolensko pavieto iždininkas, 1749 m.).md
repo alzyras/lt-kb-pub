@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200481"></a>
-- t-002
-  global_id: t-200481
+- t-001
   teiginys: "Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša."
   atnaujinta: "2026-07-14 13:22"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -55,19 +54,6 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo."
   vertinimo_atnaujinta: "2026-07-14T10:22:35Z"
-  pagrindžia:
-    - c-183851
-
-<a id="claim-t-200481"></a>
-- t-001
-  global_id: t-900527853
-  teiginys: '1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozapas Anupras Kulieša (Smolensko pateisėjas, 1750 m.)|Juozapas Anupras Kulieša (Smolensko pateisėjas, 1750 m.)]]; mentioned_person: [[objektai/asmenys/Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)|Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)]]; mentioned_person: [[objektai/asmenys/Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)|Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)]]; mentioned_person: [[objektai/asmenys/Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)|Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)]]; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1749 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutrumpinta perteklinė atribucija ir palikta citatoje matoma alternatyva. Nepridėta sprendimo, kuris asmuo pareigas tikrai ėjo.'
   pagrindžia:
     - c-183851
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
@@ -97,25 +83,8 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
-    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
-    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9].
-  citata_rodoma: |
-    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
-    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
-    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
-    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
-    Karolis Piotrovskis (Karol Piotrowski) [9].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200481
     - t-001

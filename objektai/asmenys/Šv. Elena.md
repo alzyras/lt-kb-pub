@@ -38,7 +38,6 @@ Elenos skulptūros ant katedros frontono.
 
 <a id="claim-t-19354"></a>
 - t-001
-  global_id: t-19354
   teiginys: "Šv. Elenos skulptūra buvo ant katedros frontono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Elenos skulptūros ant katedros frontono.
 
 <a id="claim-t-183578"></a>
 - t-002
-  global_id: t-183578
   teiginys: "1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,5 +92,5 @@ Elenos skulptūros ant katedros frontono.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19354
-    - t-183578
+    - t-001
+    - t-002

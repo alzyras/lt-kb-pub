@@ -32,6 +32,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Napoleonas Bonapartas
 
 ## Santrauka
@@ -40,29 +41,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 
 ## Teiginiai
 
-<a id="claim-t-19167"></a>
-- t-001
-  global_id: t-19167
-  teiginys: "Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Napoleonas Bonapartas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Napoleonas Bonapartas\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įkūrimo data: iki 1806 m.; įkūrimo data: 1795 m.; įkūrimo data: 1806 m.; įkūrimo data: 1815 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus ir citata jį tiesiogiai patvirtina."
-  pagrindžia:
-    - c-21912
-
 <a id="claim-t-19168"></a>
-- t-002
-  global_id: t-19168
+- t-003
   teiginys: "1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +61,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     - c-21914
 
 <a id="claim-t-19169"></a>
-- t-003
-  global_id: t-19169
+- t-002
   teiginys: "Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,15 +93,13 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
     ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
     1815 m.
-  citata_rodoma: |
-    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+  citata_rodoma: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-19167
 - id: c-21913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +109,15 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
     Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
     Bonaparto įkurtai Varšuvos kunigaikštystei.
-  citata_rodoma: |
-    Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
+  citata_rodoma: "Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19169
+    - t-002
+
 - id: c-21914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,12 +133,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
     siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
     gaikštystės pulkai).
-  citata_rodoma: |
-    dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
+  citata_rodoma: "dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19168
+    - t-003

@@ -31,7 +31,6 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 
 <a id="claim-t-63359"></a>
 - t-001
-  global_id: t-63359
   teiginys: "Vytautas Petkevičius buvo tarp garsių visuomenės veikėjų, parėmusių LPS tautinio atgimimo idėjas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -66,16 +65,11 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
     teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
     visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
     apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą.
-  citata_rodoma: |
-    Kadangi iniciatyvinę
-    grupę sudarė visoje šalyje žinomi in-
-    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
-    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
-    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą.
+  citata_rodoma: "Kadangi iniciatyvinę\ngrupę sudarė visoje šalyje žinomi in-\nteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių\nvisuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia\napie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63359
+    - t-001

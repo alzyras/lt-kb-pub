@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185875"></a>
 - t-001
-  global_id: t-185875
   teiginys: "Algirdo ir Maskvos valdovo amžinąją taiką turėjo sutvirtinti abiejų tautų priesaika."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-193481"></a>
 - t-002
-  global_id: t-193481
   teiginys: "Kojelavičiaus pasakojime Algirdas ir Dimitrijus sutarė taiką sutvirtinti abiejų tautų priesaika."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -112,5 +110,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185875
-    - t-193481
+    - t-001
+    - t-002

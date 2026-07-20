@@ -31,7 +31,6 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
 
 <a id="claim-t-22301"></a>
 - t-001
-  global_id: t-22301
   teiginys: "Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
     eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
     propagandos su menu.
-  citata_rodoma: |
-    eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
+  citata_rodoma: "eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22301
+    - t-001

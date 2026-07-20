@@ -31,7 +31,6 @@ Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesai
 
 <a id="claim-t-189582"></a>
 - t-001
-  global_id: t-189582
   teiginys: "Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesaiką, kuria dievai šaukiami būti liudytojais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189582
+    - t-001

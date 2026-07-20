@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-200816"></a>
 - t-001
-  global_id: t-200816
   teiginys: "Šv. Petro ir Povilo bažnyčioje kupolo šviesa sujungia gausius glaistytinius papuošalus į tapybišką visumą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200816
+    - t-001

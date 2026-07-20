@@ -39,8 +39,7 @@ Jakštas, J.
 ## Teiginiai
 
 <a id="claim-t-71515"></a>
-- t-001
-  global_id: t-71515
+- t-004
   teiginys: "J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Jakštas, J.
     - c-70086
 
 <a id="claim-t-71516"></a>
-- t-002
-  global_id: t-71516
+- t-001
   teiginys: "J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Jakštas, J.
 
 <a id="claim-t-71517"></a>
 - t-003
-  global_id: t-71517
   teiginys: "J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Jakštas, J.
     - c-70085
 
 <a id="claim-t-71518"></a>
-- t-004
-  global_id: t-71518
+- t-002
   teiginys: "J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Jakštas, J.
     - c-70084
 
 <a id="claim-t-71519"></a>
-- t-005
-  global_id: t-71519
+- t-006
   teiginys: "J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,9 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71516
-    - t-71519
+    - t-001
+    - t-006
+
 - id: c-70084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -163,7 +159,8 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71518
+    - t-002
+
 - id: c-70085
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -184,7 +181,8 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71517
+    - t-003
+
 - id: c-70086
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -204,4 +202,4 @@ Jakštas, J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71515
+    - t-004

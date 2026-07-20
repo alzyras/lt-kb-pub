@@ -41,25 +41,16 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-104181"></a>
-- t-001
-  global_id: t-104181
+- t-002
   teiginys: "Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-97141
+    - c-166792
 
 <a id="claim-t-104182"></a>
-- t-002
-  global_id: t-104182
+- t-001
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +69,7 @@ media_all_json: |-
     - c-97140
 
 <a id="claim-t-183398"></a>
-- t-003
-  global_id: t-183398
+- t-004
   teiginys: "Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -118,7 +108,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-104182
+    - t-001
+
 - id: c-97141
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,15 +123,13 @@ media_all_json: |-
     rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
     Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
     vadus ar net rusų žemių kunigaikščius.
-  citata_rodoma: |
-    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+  citata_rodoma: "Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-104181
 - id: c-166792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,4 +149,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183398
+    - t-002
+    - t-004

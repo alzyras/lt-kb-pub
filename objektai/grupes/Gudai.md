@@ -32,7 +32,6 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 
 <a id="claim-t-193303"></a>
 - t-001
-  global_id: t-193303
   teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 
 <a id="claim-t-200921"></a>
 - t-002
-  global_id: t-200921
   teiginys: "Gudai patys, skaugėdami vokyčiams prekybos, buvo sukilę ant jų ir su jais kariavo."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -78,10 +76,12 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193303
+    - t-001
+
 - id: c-184271
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nuo vokyčių kunigų diduomenės nė to tiek nebga­
     lėjo beviltis, kuri, skaugėdama vyresnybės, peikė
@@ -103,4 +103,4 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200921
+    - t-002

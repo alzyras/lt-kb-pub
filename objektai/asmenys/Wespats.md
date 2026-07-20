@@ -31,7 +31,6 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
 
 <a id="claim-t-191486"></a>
 - t-001
-  global_id: t-191486
   teiginys: "Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174368
-    - c-001
+
 <a id="claim-t-197844"></a>
 - t-002
-  global_id: t-197844
   teiginys: "Wespats sudarė su juo sąjungą ir vedė jo dukrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,28 +61,6 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   pagrindžia:
     - c-179360
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Rusų karvedys, vardu
-    Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
-    Danijos karaliaus valdžion. Netrukus antrą kito Rusnės
-    pono, vadinamo \Vespats, Viešpačiu1, sostinę užėmė tie
-    patys priešai, pavadinę Pelltsz, Peltišu ar gal Piltene
-    vieną seniausių miestų šiame lietuviškų žemių krašte.
-    Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
-    nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
-    su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
-    juo sąjungą ir vedė jo dukrą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191486
 ## Citatos
 
 - id: c-174368
@@ -92,18 +68,6 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
-    nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
-    su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
-    juo sąjungą ir vedė jo dukrą. Taip ir baigėsi tą sykį dvie­
-    jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
-    tarpusavyje, kuriais metais pradėjo valdyti Protonas I;
-    tačiau iš chronologinių apskaičiavimų aišku, kad jis buvęs
-    beveik Romos imperatoriaus Oktaviano Augusto amžinin­
-    kas, tik kiek jaunesnis. Vadinasi, šis istorinis įvykis tu­
-    rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­
-    sėje.
-  citata_rodoma: |
     Rusų karvedys, vardu
     Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
     Danijos karaliaus valdžion. Netrukus antrą kito Rusnės
@@ -114,13 +78,15 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
     nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
     su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
     juo sąjungą ir vedė jo dukrą.
+  citata_rodoma: "Rusų karvedys, vardu\nRanonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo\nDanijos karaliaus valdžion. Netrukus antrą kito Rusnės\npono, vadinamo \\Vespats, Viešpačiu1, sostinę užėmė tie\npatys priešai, pavadinę Pelltsz, Peltišu ar gal Piltene\nvieną seniausių miestų šiame lietuviškų žemių krašte.\nBet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo\nnugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,\nsu kuriuo susidoroti buvo ne taip lengva; jis sudarė su\njuo sąjungą ir vedė jo dukrą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191486
+    - t-001
+
 - id: c-179360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -141,4 +107,4 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197844
+    - t-002

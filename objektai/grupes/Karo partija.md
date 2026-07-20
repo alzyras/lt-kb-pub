@@ -31,7 +31,6 @@ Iš to susidarė dvi partijos: karo ir taikos.
 
 <a id="claim-t-34355"></a>
 - t-001
-  global_id: t-34355
   teiginys: "Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Iš to susidarė dvi partijos: karo ir taikos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34355
+    - t-001

@@ -30,7 +30,6 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūn
 
 <a id="claim-t-191772"></a>
 - t-001
-  global_id: t-191772
   teiginys: "Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“, kuriame nagrinėjo Darijaus žygį prieš skitus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191772
+    - t-001

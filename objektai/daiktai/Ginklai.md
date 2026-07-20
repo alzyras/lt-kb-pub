@@ -44,8 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185851"></a>
-- t-001
-  global_id: t-185851
+- t-002
   teiginys: "Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -419,4 +418,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185851
+    - t-002

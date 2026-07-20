@@ -7,13 +7,13 @@ datos:
   - '1384 m.'
 date_start: '1384'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,8 +36,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 ## Teiginiai
 
 <a id="claim-t-60930"></a>
-- t-001
-  global_id: t-60930
+- t-005
   teiginys: "Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,10 +52,9 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - c-61562
 
 <a id="claim-t-60931"></a>
-- t-002
-  global_id: t-60931
+- t-003
   teiginys: "XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,10 +66,9 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61564
-    - c-002
+
 <a id="claim-t-60932"></a>
-- t-003
-  global_id: t-60932
+- t-001
   teiginys: "1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - c-61565
 
 <a id="claim-t-60933"></a>
-- t-004
-  global_id: t-60933
+- t-002
   teiginys: "Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,22 +102,6 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   pagrindžia:
     - c-61566
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
-    aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
-    Dusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo
-    žemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60931
 ## Citatos
 
 - id: c-61562
@@ -141,31 +121,26 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60930
+    - t-005
+
 - id: c-61564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie daugybės pagudėnų išžudymą
-    Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
-    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams. Brolis
-    476  1277 m. sukilime dalyvavo ir kai kurie bartai, vienas jų gal net buvo sukilimo vadas
-    (plg. D. III, 223). Sukilimas galėjo vykti vienu metu su Lietuvos—jotvingių įsiveržimu
-    (D. III, 192) į vakarines Ordino valdas (Töppen M.— SRP, 1, p. 136).
-  citata_rodoma: |
     Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą
     aprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad
     Dusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo
     žemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540).
+  citata_rodoma: "Kadangi  kair. Jūros intakas Sešuvis XIV a. pabaigoje kryžiuočių kelių   į Lietuvą\naprašymuose vadinamas Sessow, Sassow ir pan. (Weg. 6, 15, 27), daryta prielaida, kad\nDusburgiečio paminėta pilis buvusi prie Sešuvies (Mortensen G., Beitrage..., p. 27), jo\nžemupio kair. krante (SZM, p. 289, žemėlapis; Salys A., Skalva, p. 538, 540)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60931
+    - t-003
+
 - id: c-61565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -177,18 +152,15 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,
     o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų
     vėlesnę Katinavą bei D. Catthow.
-  citata_rodoma: |
-    1384 m.
-    kelio iš Įsruties  į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,
-    o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų
-    vėlesnę Katinavą bei D. Catthow.
+  citata_rodoma: "1384 m.\nkelio iš Įsruties  į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten,\no toliau minimas kelias czu Kattow (SRP, 2, p. 683). Pastarasis vietovardis atitiktų\nvėlesnę Katinavą bei D. Catthow."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60932
+    - t-001
+
 - id: c-61566
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,4 +175,4 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60933
+    - t-002

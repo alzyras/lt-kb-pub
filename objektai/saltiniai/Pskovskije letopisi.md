@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31898"></a>
 - t-001
-  global_id: t-31898
   teiginys: "Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ media_all_json: |-
     « Pskoviečiai liovėsi bučiuoti kryžių (priesaikai) Novgorodui, pasi­
     sodino iš lietuvių rankos («iz Litovskia ruki ») kunigaikštį Alek­
     sandrą »^5.
-  citata_rodoma: |
-    **
-    (^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**
-
-
-    Sandras (Mykolo sūnus).
+  citata_rodoma: "**\n(^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**\n\n\nSandras (Mykolo sūnus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31898
+    - t-001

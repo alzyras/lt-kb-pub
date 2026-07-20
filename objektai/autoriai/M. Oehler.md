@@ -36,7 +36,6 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
 
 <a id="claim-t-30844"></a>
 - t-001
-  global_id: t-30844
   teiginys: "M. Oehleris 1910 m. Elbinge paskelbė darbą apie vokiečių ir Lenkijos-Lietuvos karą 1409-1411 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +65,11 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
     421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
     t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
     Tanneuberg 1410.
-  citata_rodoma: |
-    — Oehler, M. : _Der Krieg zwischen den
-    Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :
-    _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
-    421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,
-    t. 17, 1910, 1-378 p.
+  citata_rodoma: "— Oehler, M. : _Der Krieg zwischen den\nDeutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :\n_Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-\n421 p. — (”) _Rok 1410. Przyczyny wojny_ , Roczn. Tow. Nauk w Toruniu,\nt. 17, 1910, 1-378 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30844
+    - t-001

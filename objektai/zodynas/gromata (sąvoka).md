@@ -39,7 +39,6 @@ Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes
 
 <a id="claim-t-201217"></a>
 - t-001
-  global_id: t-201217
   teiginys: "Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes skelbiam ir gėdinam šioje gromatoj kaipo sukčių teisybės, prietelių velnio ir neprietelių tikybos, kaipo atskalūnį, melagį ir begėdį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes
 ## Citatos
 
 - id: c-184567
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jei kas tą žymę neklausęs su­
     laužys ir per piktybę priešingaus, tokį mes skelbiam
@@ -70,4 +70,4 @@ Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201217
+    - t-001

@@ -28,7 +28,6 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
 
 <a id="claim-t-201451"></a>
 - t-001
-  global_id: t-201451
   teiginys: "Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t k i e , Dziej."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
 ## Citatos
 
 - id: c-184801
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi kol pa-
     marionys buvo pagonimis, tol Lietuvos giminės juos
@@ -54,4 +54,4 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201451
+    - t-001

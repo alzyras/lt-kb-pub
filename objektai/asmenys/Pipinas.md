@@ -38,8 +38,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 ## Teiginiai
 
 <a id="claim-t-59996"></a>
-- t-001
-  global_id: t-59996
+- t-003
   teiginys: "Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - c-60631
 
 <a id="claim-t-59998"></a>
-- t-002
-  global_id: t-59998
+- t-004
   teiginys: "Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - c-60628
 
 <a id="claim-t-59999"></a>
-- t-003
-  global_id: t-59999
+- t-001
   teiginys: "Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -127,20 +124,15 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
-  citata_rodoma: |
-    Neilgai trukus  jis išdavė
-    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
-    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
-    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
-    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
-    Kristaus tikėjimą222.
+  citata_rodoma: "Neilgai trukus  jis išdavė\nsavo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės\nir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;\nkiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo\nuolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė\nKristaus tikėjimą222."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59998
+    - t-004
+
 - id: c-60630
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -156,21 +148,15 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
     išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
-  citata_rodoma: |
-    Aprašydamas vieno
-    iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
-    jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
-    medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,
-    ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:
-    išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
-    buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
+  citata_rodoma: "Aprašydamas vieno\niš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,\njog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po\nmedžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,\nir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas:\nišpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,\nbuvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59999
+    - t-001
+
 - id: c-60631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,18 +170,15 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     išvengti mirties, perdavė jiems savo pilį, o vėliau, kai kitos pilies pilėnai po gėrynių
     gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
     vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais.
-  citata_rodoma: |
-    vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
-    plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę
-    arba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,
-    o šis — iš esančios per patį vidurį.
+  citata_rodoma: "vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis\nplėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę\narba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,\no šis — iš esančios per patį vidurį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59996
+    - t-003
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mata]]
 - Pipinas mirė [[objektai/vietos/Torunė]]

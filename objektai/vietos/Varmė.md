@@ -40,8 +40,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 ## Teiginiai
 
 <a id="claim-t-91423"></a>
-- t-001
-  global_id: t-91423
+- t-007
   teiginys: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87139
 
 <a id="claim-t-91424"></a>
-- t-002
-  global_id: t-91424
+- t-009
   teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87137
 
 <a id="claim-t-91426"></a>
-- t-003
-  global_id: t-91426
+- t-008
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 
 <a id="claim-t-91427"></a>
 - t-004
-  global_id: t-91427
   teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +105,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87139
 
 <a id="claim-t-91428"></a>
-- t-005
-  global_id: t-91428
+- t-003
   teiginys: "XIV a. buvo įkurti beveik visi Varmės miestai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +121,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-91429"></a>
-- t-006
-  global_id: t-91429
+- t-005
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87133
 
 <a id="claim-t-91430"></a>
-- t-007
-  global_id: t-91430
+- t-006
   teiginys: "XIV amžiuje buvo įkurti beveik visi Varmės miestai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -160,8 +153,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-196750"></a>
-- t-008
-  global_id: t-196750
+- t-010
   teiginys: "Kojelavičiaus pasakojime Vytenis balandžio mėnesį su keturiais tūkstančiais rinktinių karių užpuolė Varmės žemę ir ją siaubingai nuniokojo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -368,8 +360,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91426
-    - t-91429
+    - t-008
+    - t-005
+
 - id: c-87135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -391,8 +384,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91428
-    - t-91430
+    - t-003
+    - t-006
+
 - id: c-87137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -406,19 +400,15 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
-  citata_rodoma: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,\natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91424
+    - t-009
+
 - id: c-87139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -444,32 +434,16 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
-  citata_rodoma: |
-    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
-    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
-    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
-    gal to priežastis buvo naujesnės žinios iš Prūsijos.
-    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
-    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
-    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
-    miręs), kartu su savo diecezijos klebonais Elblionge bemat
-    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
-    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
-    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
-    visiems Livonijos bei Estijos didikams ir vasalams, daly­
-    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
-    esant velnio žabangomis, visam krikščioniškajam pasau­
-    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
-    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
-    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: "Nors popiežiaus buvo primygtinai prašoma, kad savo ga­\nnytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­\ngi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, \ngal to priežastis buvo naujesnės žinios iš Prūsijos.\nVos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­\npas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­\nkupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo \nmiręs), kartu su savo diecezijos klebonais Elblionge bemat \nsurengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­\ngos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­\ngistrui ir visam Ordinui, Danijos karaliaus vietininkui ir \nvisiems Livonijos bei Estijos didikams ir vasalams, daly­\nvavusiems taikos sutartį sudarant, ir paskelbė tą sutartį \nesant velnio žabangomis, visam krikščioniškajam pasau­\nliui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­\nmyniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­\ntybėmis klastingai sandėriais taikosi jus ir mus pražudytip."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91423
-    - t-91427
+    - t-007
+    - t-004
+
 - id: c-178889
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -495,7 +469,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196750
+    - t-010
+
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Gubučiai]]

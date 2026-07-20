@@ -45,29 +45,11 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189635"></a>
-- t-001
-  global_id: t-189635
-  teiginys: 'Jeronimą Prahiškį sudegino gyvą Konstancoje 1416 m. birželio 21 d.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų faktinį sakinį apie note objektą ir jo baigtį. Neįtraukti ginčo dėl Viklifo mokymo paaiškinimai.'
-  susije_objektai: 'mentioned_place: Konstanca; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1416 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į aiškų faktinį sakinį apie note objektą ir jo baigtį. Neįtraukti ginčo dėl Viklifo mokymo paaiškinimai.'
-  pagrindžia:
-    - c-172518
-
-## Citatos
-
-- id: c-172518
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Jeronimą Prahiškį sudegino gyvą Konstancoje 1416 m. birželio 21 d.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     O Konstancos susirinkime klausimas, kodėl Lenki­
     joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
@@ -87,10 +69,8 @@ Nenurodyta
     ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
     čioje. Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189635
+  statusas: verified

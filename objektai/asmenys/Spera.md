@@ -32,7 +32,6 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 
 <a id="claim-t-186163"></a>
 - t-001
-  global_id: t-186163
   teiginys: "Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 
 <a id="claim-t-193987"></a>
 - t-002
-  global_id: t-193987
   teiginys: "Lietuvos metraštis Sperą vaizduoja kaip ilgai valdžiusį, valdiniams gerą valdovą, kuris mirė nepalikęs įpėdinių."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 
 <a id="claim-t-196592"></a>
 - t-003
-  global_id: t-196592
   teiginys: "Apie Speros paminėtinus darbus vėlesnės kartos, Kojelavičiaus teigimu, nežinojo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186163
+    - t-001
+
 - id: c-176612
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -117,7 +115,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193987
+    - t-002
+
 - id: c-178784
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -136,4 +135,4 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196592
+    - t-003

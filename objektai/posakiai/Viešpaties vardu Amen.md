@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-86878"></a>
 - t-001
-  global_id: t-86878
   teiginys: "Formule „Viešpaties vardu Amen“ prasideda Žygimanto Senojo raštas, kuriuo patvirtinta Trakų žydų privilegija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86878
+    - t-001

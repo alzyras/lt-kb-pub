@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-08337"></a>
 - t-001
-  global_id: t-08337
   teiginys: "Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -90,12 +89,11 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
-  citata_rodoma: |
-    Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
+  citata_rodoma: "Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08337
+    - t-001

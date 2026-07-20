@@ -7,13 +7,13 @@ datos:
   - '1530 m.'
 date_start: '1530'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - etninė-grupė
   - grupe
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,28 +37,20 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 
 <a id="claim-t-189461"></a>
 - t-001
-  global_id: t-189461
   teiginys: "Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsijos lietuviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172348
-    - c-001
+    - c-176981
+    - c-176982
+
 <a id="claim-t-194582"></a>
 - t-002
-  global_id: t-194582
   teiginys: "O dėl Saulės vedybų su Mėnesiu, tai turime išlikusią Prū sijos lietuvių dainą, kurioje yra senųjų padavimų pėdsakų, ne tik mitologinių, bet ir astronominių: Menu saulužę wede, Piima Pawasareli."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +64,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 
 <a id="claim-t-194583"></a>
 - t-003
-  global_id: t-194583
   teiginys: "Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,25 +85,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
 - susijęs iš Prūsijos žemės kronika: Narbutas rašė, kad Pretorijus Dusburgiečio kronikos vietoje minimą žynio lazdą vadino krivūle.
 - susijęs iš [[objektai/zodynas/Pergrubė Grubytė Grubios.md#claim-t-189132|Pergrubė Grubytė Grubios]]: Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
-    čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
-    gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
-    ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
-    čios Agenda.
-    Milda (Milda)
-    Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189461
 ## Citatos
 
 - id: c-172348
@@ -120,19 +92,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šiose laimingose Nem uno ir Neries pakrantėse gyvena
-    iki šiol linksmiausi Lietuvoje ir maloniausių papročių žm o­
-    nės; jų dainos beveik visuom et apie m eile, pulsuoja iš tiesų
-    kiteriška jausmų jėga; iš jų ne viena apdainuoja deivės Mildos
-    grožį. Bet kai kas painioja šią patrauklią dievybę su deive Lie­
-    tuva.
-    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
-    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­
-    teto architektūros profesorius ponas Šulcas tarp mirusio ar­
-    chitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­
-    tinantį šį padavimą.
-  citata_rodoma: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
     gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
@@ -140,13 +99,13 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
     čios Agenda.
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota).
+  citata_rodoma: "Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­\ngų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­\nronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­\nčios Agenda.\nMilda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189461
 - id: c-176981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -167,7 +126,9 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194582
+    - t-001
+    - t-002
+
 - id: c-176982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -186,4 +147,5 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194583
+    - t-001
+    - t-003

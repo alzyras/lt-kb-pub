@@ -37,7 +37,6 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
 
 <a id="claim-t-186318"></a>
 - t-001
-  global_id: t-186318
   teiginys: "Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186318
+    - t-001

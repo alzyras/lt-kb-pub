@@ -37,7 +37,6 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 
 <a id="claim-t-02652"></a>
 - t-001
-  global_id: t-02652
   teiginys: "Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
     gubernijos kaimai.
-  citata_rodoma: |
-    Tik Palangos pajūris (nuo Šven-
-    tosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios
-    Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
-    pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
-    gubernijos kaimai.
+  citata_rodoma: "Tik Palangos pajūris (nuo Šven-\ntosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios\nKuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos\npasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno\ngubernijos kaimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02652
+    - t-001

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01875"></a>
-- t-001
-  global_id: t-01875
+- t-002
   teiginys: "Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-02114
 
 <a id="claim-t-01876"></a>
-- t-002
-  global_id: t-01876
+- t-004
   teiginys: "Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-01877"></a>
 - t-003
-  global_id: t-01877
   teiginys: "Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-02115
 
 <a id="claim-t-01879"></a>
-- t-004
-  global_id: t-01879
+- t-001
   teiginys: "Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01875
+    - t-002
+
 - id: c-02115
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,7 +161,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01877
+    - t-003
+
 - id: c-02116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -178,21 +176,15 @@ Nenurodyta
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-  citata_rodoma: |
-    Iš visų čia suminėtų sri-
-    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
-    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
-    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
-    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
-    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
-    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
+  citata_rodoma: "Iš visų čia suminėtų sri-\nčių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji\niš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,\nji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-\nkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-\ntauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-\ntauto tiesioginei valdžiai atiteko tik rytinė jos dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01876
+    - t-004
+
 - id: c-02117
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -204,15 +196,11 @@ Nenurodyta
     nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
     iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
     bajorai.
-  citata_rodoma: |
-    Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
-    nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
-    iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
-    bajorai.
+  citata_rodoma: "Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi\nnepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti\niš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai\nbajorai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01879
+    - t-001

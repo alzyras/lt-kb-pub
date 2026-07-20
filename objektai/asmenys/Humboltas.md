@@ -31,7 +31,6 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 
 <a id="claim-t-191499"></a>
 - t-001
-  global_id: t-191499
   teiginys: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -42,7 +41,6 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174381
-    - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191242|Aleksandras Humboltas]]: Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis.
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191243|Aleksandras Humboltas]]: Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191244|Aleksandras Humboltas]]: Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos.
@@ -74,8 +72,7 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191499
+
 ## Citatos
 
 - id: c-174381
@@ -95,21 +92,11 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
     juostas.
     Apsiribokime spėlionėmis apie senovės kūrinį, kuris
     leidžia mums pažinti tik savo žaismo fragmentus.
-  citata_rodoma: |
-    Todėl viskas prasidėjo nuo Siaurės, nes prie
-    pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat
-    sutampa su žymiojo tyrinėtojo pono Humbolto aiškini­
-    mais; jis teigia, kad tropikų augalija vėsėjusi senovės
-    Šiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­
-    lumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o
-    lai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­
-    dė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o
-    tik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro
-    juostas.
+  citata_rodoma: "Todėl viskas prasidėjo nuo Siaurės, nes prie\npusiaujo dėl karščio niekas negalėjo augti. Tai taip pat\nsutampa su žymiojo tyrinėtojo pono Humbolto aiškini­\nmais; jis teigia, kad tropikų augalija vėsėjusi senovės\nŠiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­\nlumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o\nlai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­\ndė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o\ntik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro\njuostas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191499
+    - t-001

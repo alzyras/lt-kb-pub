@@ -39,7 +39,6 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
 
 <a id="claim-t-99915"></a>
 - t-001
-  global_id: t-99915
   teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +74,7 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99915
+    - t-001
+
 ## Ryšiai
 - Užėmė Toropiec: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

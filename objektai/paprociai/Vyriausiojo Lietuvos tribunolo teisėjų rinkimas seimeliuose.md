@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-02046"></a>
 - t-001
-  global_id: t-02046
   teiginys: "Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-02047"></a>
 - t-002
-  global_id: t-02047
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,7 +111,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02047
+    - t-002
+
 - id: c-02286
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02046
+    - t-001

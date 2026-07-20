@@ -11,14 +11,14 @@ datos:
   - '1421 m.'
 date_start: '1413'
 date_end: '1421'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - karalius
   - tauta
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50766"></a>
-- t-001
-  global_id: t-50766
+- t-002
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ media_all_json: |-
   pagrindžia:
     - c-36971
     - c-167612
+
 <a id="claim-t-50767"></a>
-- t-002
-  global_id: t-50767
+- t-001
   teiginys: "Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-50768"></a>
 - t-003
-  global_id: t-50768
   teiginys: "1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ media_all_json: |-
 
 <a id="claim-t-50769"></a>
 - t-004
-  global_id: t-50769
   teiginys: "Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ media_all_json: |-
     - c-36974
 
 <a id="claim-t-184590"></a>
-- t-005
-  global_id: t-184590
+- t-007
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ media_all_json: |-
     - c-167951
 
 <a id="claim-t-196128"></a>
-- t-006
-  global_id: t-196128
+- t-008
   teiginys: "Kojelavičiaus pasakojime, kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš karalių ir ieškojo kaimynų paramos prieš imperatorių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -141,8 +136,7 @@ media_all_json: |-
     - c-178547
 
 <a id="claim-t-196129"></a>
-- t-007
-  global_id: t-196129
+- t-009
   teiginys: "Kojelavičiaus pasakojime čekai, po Jogailos ir Vytauto atsisakymo, toliau siekė juos palenkti, manydami, kad karaliaus vainiko troškimas įveiks atkaklumą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -281,110 +275,10 @@ media_all_json: |-
 - susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilys: Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
-## Citatos
-
-- id: c-36970
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
-    gai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.
-    Vienas čekų kunigas buvo Vilniaus kapituloje. Vytauto dvare
-    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
-    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-50767
-- id: c-36971
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
-    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
-    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
-    mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
-    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
-    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-50766
-- id: c-36973
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Čekai, nenustoję vilties, vėl išsiuntė
-    savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
-    priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­
-    lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą.
-    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
-    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
-    sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
-    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
-    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-50768
-- id: c-36974
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Pamatęs, kad jo jė­
-    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
-    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
-    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
-    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti. Pastebė­
-    jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
-    sisakydamas tuo nuo savo vyriausiųjų uždavinių.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-50769
-- id: c-167612
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Vytauto dvare
-    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
-    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
-    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
-    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
-    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
-    mūšyje.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-- id: c-167951
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jogaila
     1419 m e ta i
@@ -410,20 +304,138 @@ media_all_json: |-
     tino kaimynus čekus, atsikra­
     čius teisėto valdovo valdžios,
     pasisiūlyti į valdinius.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-36970
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
+    gai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.
+    Vienas čekų kunigas buvo Vilniaus kapituloje. Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-36971
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
+    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
+    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-36973
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Čekai, nenustoję vilties, vėl išsiuntė
+    savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu
+    priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­
+    lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą.
+    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
+    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
+    sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
+    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
+    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-36974
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pamatęs, kad jo jė­
+    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
+    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
+    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
+    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti. Pastebė­
+    jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
+    sisakydamas tuo nuo savo vyriausiųjų uždavinių.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-167612
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-167951
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Panašų atsakymą gavo jie ir iš
     Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
     manydami, jog troškimas gauti karaliaus vainiką įveiks
     kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
     gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
     dis.
+  citata_rodoma: "Panašų atsakymą gavo jie ir iš\nVytauto. Tačiau čekai neišsižadėjo savo sumanymo,\nmanydami, jog troškimas gauti karaliaus vainiką įveiks\nkiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­\ngūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­\ndis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184590
+    - t-007
+
 - id: c-178547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -456,7 +468,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196128
+    - t-008
+
 - id: c-178548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -484,4 +497,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196129
+    - t-009

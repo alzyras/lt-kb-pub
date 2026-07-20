@@ -39,7 +39,6 @@ Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio
 
 <a id="claim-t-193826"></a>
 - t-001
-  global_id: t-193826
   teiginys: "Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193826
+    - t-001

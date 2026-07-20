@@ -7,12 +7,12 @@ datos:
   - '1627 m.'
 date_start: '1627'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su 
 
 <a id="claim-t-202077"></a>
 - t-001
-  global_id: t-202077
   teiginys: "Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su žmona ir vaikais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202077
+    - t-001

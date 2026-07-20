@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189655"></a>
 - t-001
-  global_id: t-189655
   teiginys: "Narbutas dievo Atrimpo stabą aprašo kaip spirale susivyniojusį žaltį, stovėjusį Romovės šventykloje į dešinę nuo Perkūno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-194611"></a>
 - t-002
-  global_id: t-194611
   teiginys: "Narbutas teigia, kad taip pat kronikos liudija, jog šio dievo stabas, spirale susi raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-197236"></a>
 - t-003
-  global_id: t-197236
   teiginys: "Narbutas teigia, kad dievo Patelo stabas buvo toje pačioje šventykloje ir stovėjo į dešinę nuo Perkūno, bet koks buvo jo atvaizdas - nežinome."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189655
-    - t-197236
+    - t-001
+    - t-003
+
 - id: c-177010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -130,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194611
+    - t-002

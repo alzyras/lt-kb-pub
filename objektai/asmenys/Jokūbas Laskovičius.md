@@ -31,7 +31,6 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
 
 <a id="claim-t-190102"></a>
 - t-001
-  global_id: t-190102
   teiginys: "Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovičius jam pasakojo apie Žemaičiuose garbintus kitus dievus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190102
+    - t-001

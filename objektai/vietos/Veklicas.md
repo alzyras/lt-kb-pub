@@ -32,7 +32,6 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
 
 <a id="claim-t-58746"></a>
 - t-001
-  global_id: t-58746
   teiginys: "Veklico pilis stovėjo prie Ragavos upės ir po ilgo puolimo buvo sudeginta, o jos gynėjai paimti į nelaisvę arba nukauti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,20 +63,11 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
     Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
     pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
     170 (165).
-  citata_rodoma: |
-    Po to,
-    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
-    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
-    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
-
-
-
-
-        170 (165).
+  citata_rodoma: "Po to,\nmatydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie\nRagavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,\npilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.\n\n\n\n\n    170 (165)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58746
+    - t-001

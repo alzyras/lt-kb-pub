@@ -31,9 +31,8 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
 
 <a id="claim-t-189088"></a>
 - t-001
-  global_id: t-189088
   teiginys: "Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,24 +48,7 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171976
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet kai kas painioja šią patrauklią dievybę su deive Lie­
-    tuva.
-    Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
-    de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
-    jusi Mildos šventykla arba koplyčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189088
+
 ## Citatos
 
 - id: c-171976
@@ -74,22 +56,16 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitaip vadi­
-    nosi Kri uninie -Pradžių Warpu arba Brandžiu - Warpu. Sunku
-    paraidžiui išversti šiuos mitologijos terminus, bet apytikriai
-    reikštų: ašakoti javai, Krūminės varpos. Pats pavadinimas, iš­
-    reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
-    kovskis, o deivei.
-  citata_rodoma: |
     Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.
     Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­
     de, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­
     jusi Mildos šventykla arba koplyčia.
+  citata_rodoma: "Bet kai kas painioja šią patrauklią dievybę su deive Lie­\ntuva.\nEsama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189088
+    - t-001

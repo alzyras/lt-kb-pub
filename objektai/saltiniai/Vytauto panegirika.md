@@ -37,7 +37,6 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
 
 <a id="claim-t-34941"></a>
 - t-001
-  global_id: t-34941
   teiginys: "„Vytauto panegirikoje“ teigiama, kad nuo 1411 m. įsiviešpatavus Dželad-Eddinui totoriai nedrįso priešintis Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
 
 <a id="claim-t-184240"></a>
 - t-002
-  global_id: t-184240
   teiginys: "„Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -98,5 +96,5 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34941
-    - t-184240
+    - t-001
+    - t-002

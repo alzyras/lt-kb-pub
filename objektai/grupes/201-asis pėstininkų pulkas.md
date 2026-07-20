@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-40824"></a>
 - t-001
-  global_id: t-40824
   teiginys: "201-asis pėstininkų pulkas kovose prieš lietuvius šiame ruože patyrė nuostolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,18 +64,11 @@ media_all_json: |-
     pėstininkų pulkai pa-
 
     tyrė nuostolių.
-  citata_rodoma: |
-    Šiame ruože (
-    prieš lietuvius 4 ©
-    kovoję 13-asis y
-    ulony ir 201-asis
-    pėstininkų pulkai pa-
-
-    tyrė nuostolių.
+  citata_rodoma: "Šiame ruože (\nprieš lietuvius 4 ©\nkovoję 13-asis y\nulony ir 201-asis\npėstininkų pulkai pa-\n\ntyrė nuostolių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40824
+    - t-001

@@ -30,9 +30,8 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
 
 <a id="claim-t-192990"></a>
 - t-001
-  global_id: t-192990
   teiginys: "Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuose ir jų pavadinimą siejo su Styrės upe."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,29 +47,7 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175760
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuose ir jų pavadinimą siejo su Styrės upe.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Nei pa­
-    sakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į
-    bent vienos tautos tikrąją gyvenamąją vietą.
-    91
-    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
-    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
-    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
-    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
-    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
-    Brunas2, Styrės upė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192990
+
 ## Citatos
 
 - id: c-175760
@@ -78,16 +55,6 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tarp šių dviejų tautų bas­
-    tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
-    sios kitokių būstų, o tik klajokliškas palapines, ištiestas
-    ant vežimų. Tai buvo miškinė gyvulių augintojų gentis.
-    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
-    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
-    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
-    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
-    gų bruožų.
-  citata_rodoma: |
     Nei pa­
     sakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į
     bent vienos tautos tikrąją gyvenamąją vietą.
@@ -98,10 +65,11 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
     pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
     Brunas2, Styrės upė.
+  citata_rodoma: "Nei pa­\nsakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į\nbent vienos tautos tikrąją gyvenamąją vietą.\n91\nTačiau, atsižvelgdami j didžiausią tikimybę, pasirin­\nkime iš šio sąrašo kaimynines venedų tautas, nepriklau­\nsančias lietuvių kartoms. Toliausiai į pietryčius gyveno\nstūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų\npavadinimą išsaugojo, kaip teisingai pastebėjo Malte-\nBrunas2, Styrės upė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192990
+    - t-001

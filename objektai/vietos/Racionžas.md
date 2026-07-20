@@ -40,7 +40,6 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 
 <a id="claim-t-178158"></a>
 - t-001
-  global_id: t-178158
   teiginys: "1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178158
+    - t-001

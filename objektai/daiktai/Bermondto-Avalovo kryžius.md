@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40696"></a>
 - t-001
-  global_id: t-40696
   teiginys: "Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ Nenurodyta
     http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg
 
     p. 190, Lenkijos kariuomenės 1-ojo ulonų pulko krūtininis ženklas, VDKM.
-  citata_rodoma: |
-    p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.
-    http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg
-
-    p.
+  citata_rodoma: "p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.\nhttp://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40696
+    - t-001

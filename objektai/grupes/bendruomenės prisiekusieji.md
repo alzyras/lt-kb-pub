@@ -28,7 +28,6 @@ JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/
 
 <a id="claim-t-201880"></a>
 - t-001
-  global_id: t-201880
   teiginys: "JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/rata)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201880
+    - t-001

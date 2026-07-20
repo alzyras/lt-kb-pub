@@ -8,10 +8,10 @@ datos:
   - '1415 m.'
 date_start: '1408'
 date_end: '1415'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
 
 <a id="claim-t-202260"></a>
 - t-001
-  global_id: t-202260
   teiginys: "Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas, akivaizdu, kad šių sutarčių prekybos straipsniai tiesiogiai buvo susiję su miesto ir jo pirklių būkle ir reikalais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
 
 <a id="claim-t-202261"></a>
 - t-002
-  global_id: t-202261
   teiginys: "1408 m. Vytautas atidavė Kauno miestui didelius žemės plotus kairiajame Nemuno krante."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,7 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202260
+    - t-001
 
 - id: c-185608
   autorius: "Zigmantas Kiaupa"
@@ -93,4 +91,4 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202261
+    - t-002

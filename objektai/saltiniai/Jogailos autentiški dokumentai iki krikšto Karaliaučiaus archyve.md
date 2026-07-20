@@ -31,7 +31,6 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
 
 <a id="claim-t-88431"></a>
 - t-001
-  global_id: t-88431
   teiginys: "Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88431
+    - t-001

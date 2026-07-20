@@ -43,8 +43,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 ## Teiginiai
 
 <a id="claim-t-182877"></a>
-- t-001
-  global_id: t-182877
+- t-016
   teiginys: "Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 
 <a id="claim-t-183068"></a>
 - t-002
-  global_id: t-183068
   teiginys: "Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 
 <a id="claim-t-188797"></a>
 - t-003
-  global_id: t-188797
   teiginys: "1247 m. Pamario kunigaikščio Sviatopelko remiamos kovos, Narbuto aiškinimu, trukdė kryžiuočiams tvarkyti Pamedę ir įtvirtinti krikščionybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -105,10 +102,9 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - c-171686
 
 <a id="claim-t-192714"></a>
-- t-004
-  global_id: t-192714
+- t-017
   teiginys: "Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -125,10 +121,9 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175484
-    - c-004
+
 <a id="claim-t-194743"></a>
-- t-005
-  global_id: t-194743
+- t-018
   teiginys: "Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -139,10 +134,9 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177139
-    - c-005
+
 <a id="claim-t-201097"></a>
-- t-006
-  global_id: t-201097
+- t-019
   teiginys: "Pasaka skelbia, jog parusnių dievai buvę iš Gu dijos, rasi Pamario, pargabenti, jei tas būt tiesa esąs, tuo kartu vardai dievų būt esą gudiški, vienok yra yni lietuviški, kurių vardus alvienas lietuvis šian dien dar permano."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -158,37 +152,45 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   santrauka: 'Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tai buvo miškinė gyvulių augintojų gentis.
-    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
-    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
-    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
-    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
-    gų bruožų.
+    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
+    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
+    vadinimo panašumu su chionitais. Šie buvo Padneprės
+    emporiumų graikų kolonistai, susigiminiavę su skitais ir
+    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
+    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
+    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
+    prie Volgos vidurupio, imperatorius Julijonas, taip pat
+    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
+    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
+    po to keliavo toliau per alanų kraštą.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192714
+  statusas: verified
 - c-005
   santrauka: 'Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Sako, kad lietuviai kaimiečiai
-    šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
-    se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
-    senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje
-    tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
-    sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
-    dą, kad tai buvo deivės Velionos aukurai.
+    Tam nėra reikalo ieš­
+    koti įrodymų, pakanka žvilgtelėti į suprantamai nupieštus hie­
+    roglifus, tarp kurių yra susegta apyrankė - žaltys, laikantis nas­
+    ruose uodegą. Pagaliau, aiškindami apskritimo su kryžiumi,
+    arba mitologinio rakto, reikšmę, pažymėsime, kad senovės ty­
+    rėjai randa jį įvairių mitologinių asmenų rankose ir įvairiuose
+    paminkluose, o pagal tai aiškinama jo prasmė. Orfėjo him­
+    nuose pasaulio raktą rankoje laiko Kupidonas, o paskui - He-
+    katė ir Protirėja; Hadas, arba Plutonas, turi raktą nuo pože­
+    mio pasaulio; Protėjas - jūros raktą; Jenijas laiko liūdesio ir
+    džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
+    dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
+    nuo vietos, kurioje pavaizduotas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194743
+  statusas: verified
+
 ## Citatos
 
 - id: c-166280
@@ -205,7 +207,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182877
+    - t-016
+
 - id: c-166459
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -224,7 +227,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183068
+    - t-002
+
 - id: c-171686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,56 +249,33 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188797
+    - t-003
+
 - id: c-175484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Galima tik daryti gana tikėtiną prielaidą, kuri remia­
-    si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
-    vadinimo panašumu su chionitais. Šie buvo Padneprės
-    emporiumų graikų kolonistai, susigiminiavę su skitais ir
-    gyvenę dešiniojoje Dnepro pakrantėje, kur yra Kijevas;
-    kitapus Dnepro jų kaimynai buvo alanai. Turime istorinių
-    padavimų, jog, kai persų karalius Saporas žiemojo kažkur
-    prie Volgos vidurupio, imperatorius Julijonas, taip pat
-    buvęs prie Dunojaus vidurupio, siuntė pas jį žygūnus,
-    kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
-    po to keliavo toliau per alanų kraštą.
-  citata_rodoma: |
     Tai buvo miškinė gyvulių augintojų gentis.
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
     tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
     kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
     kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
     gų bruožų.
+  citata_rodoma: "Tai buvo miškinė gyvulių augintojų gentis.\nČia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­\ntinių kašubų protėviai. Neabejotina, kad ji susiliejo su\nkažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­\nkūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­\ngų bruožų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192714
+    - t-017
+
 - id: c-177139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tam nėra reikalo ieš­
-    koti įrodymų, pakanka žvilgtelėti į suprantamai nupieštus hie­
-    roglifus, tarp kurių yra susegta apyrankė - žaltys, laikantis nas­
-    ruose uodegą. Pagaliau, aiškindami apskritimo su kryžiumi,
-    arba mitologinio rakto, reikšmę, pažymėsime, kad senovės ty­
-    rėjai randa jį įvairių mitologinių asmenų rankose ir įvairiuose
-    paminkluose, o pagal tai aiškinama jo prasmė. Orfėjo him­
-    nuose pasaulio raktą rankoje laiko Kupidonas, o paskui - He-
-    katė ir Protirėja; Hadas, arba Plutonas, turi raktą nuo pože­
-    mio pasaulio; Protėjas - jūros raktą; Jenijas laiko liūdesio ir
-    džiaugsmo raktą, tad jo reikšmė aiški, nes raktas kiekvieno
-    dievo rankoje nusako jo valdžią, o pats raktas įgauna reikšmę
-    nuo vietos, kurioje pavaizduotas.
-  citata_rodoma: |
     Sako, kad lietuviai kaimiečiai
     šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
     se. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių
@@ -302,16 +283,19 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­
     sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
     dą, kad tai buvo deivės Velionos aukurai.
+  citata_rodoma: "Sako, kad lietuviai kaimiečiai\nšitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­\nse. Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių\nsenovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje\ntikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak­\nsonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­\ndą, kad tai buvo deivės Velionos aukurai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194743
+    - t-018
+
 - id: c-184447
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žinoma taip pat yra, jog
     nejaukioji tauta ima nuo išmintingosios įstatymus,
@@ -334,4 +318,4 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201097
+    - t-019

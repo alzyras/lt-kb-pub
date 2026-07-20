@@ -36,8 +36,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 ## Teiginiai
 
 <a id="claim-t-77207"></a>
-- t-001
-  global_id: t-77207
+- t-002
   teiginys: "1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - c-74638
 
 <a id="claim-t-77208"></a>
-- t-002
-  global_id: t-77208
+- t-001
   teiginys: "1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,6 +73,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   pagrindžia:
     - c-74640
     - c-167014
+
 ## Citatos
 
 - id: c-74638
@@ -91,15 +90,15 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     kaliniai ir prižiūrėtojai
     Kauno gyventojai sveikina įžengusį vermachtą 1941 m.
     (R. Mičiūno reprodukcija)
-  citata_rodoma: |
-    1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio
+  citata_rodoma: "1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77207
+    - t-002
+
 - id: c-74640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,15 +111,15 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
     tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse,
     o iš viso nužudyta apie 700 asmenų.
-  citata_rodoma: |
-    kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
+  citata_rodoma: "kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77208
+    - t-001
+
 - id: c-167014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,3 +136,5 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -36,7 +36,6 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
 
 <a id="claim-t-191768"></a>
 - t-001
-  global_id: t-191768
   teiginys: "Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų versti sąjungininkų kariuomenės gailėtis žygio į Italiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
 
 <a id="claim-t-191769"></a>
 - t-002
-  global_id: t-191769
   teiginys: "Narbuto išnašoje Carlo Deninos „Delle Rivoluzioni d’Italia“ nurodytas kaip 1784 m. Venecijoje išleistas šios temos pagrindo šaltinis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191768
+    - t-001
+
 - id: c-174651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -114,4 +113,4 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191769
+    - t-002

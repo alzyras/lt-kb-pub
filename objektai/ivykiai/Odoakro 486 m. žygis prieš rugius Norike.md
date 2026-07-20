@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191069"></a>
 - t-001
-  global_id: t-191069
   teiginys: "Narbutas pasakoja, kad 486 m. Odoakras, Norike engiamų sąjungininkų paprašytas pagalbos, nugalėjo rugius, o jų karalius Febanas žuvo kautynėse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191069
+    - t-001

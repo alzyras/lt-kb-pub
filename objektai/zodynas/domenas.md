@@ -31,7 +31,6 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
 
 <a id="claim-t-02980"></a>
 - t-001
-  global_id: t-02980
   teiginys: "Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
     tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
     lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
     dvarų (domenų).
-  citata_rodoma: |
-    Tačiau pajamų iš Lie-
-    tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
-    lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
-    dvarų (domenų).
+  citata_rodoma: "Tačiau pajamų iš Lie-\ntuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-\nlystės žemių, nes joje buvo daugybė didžiojo kunigaikščio\ndvarų (domenų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02980
+    - t-001

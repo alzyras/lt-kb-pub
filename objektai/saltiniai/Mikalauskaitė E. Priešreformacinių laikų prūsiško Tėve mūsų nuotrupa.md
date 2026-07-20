@@ -7,12 +7,12 @@ datos:
   - '1938 m.'
 date_start: '1938'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad mikalauskaitė E.
 
 <a id="claim-t-61181"></a>
 - t-001
-  global_id: t-61181
   teiginys: "E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1938 m."
@@ -46,22 +45,7 @@ Dusburgietis teigia, kad mikalauskaitė E.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia publikavimo vietą ir metus."
   pagrindžia:
     - c-61813
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
 
-    philologicum, K., 1938, kn. 7, p. 102— 106.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61181
 ## Citatos
 
 - id: c-61813
@@ -72,14 +56,11 @@ Dusburgietis teigia, kad mikalauskaitė E.
     Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
 
     philologicum, K., 1938, kn. 7, p. 102— 106.
-  citata_rodoma: |
-    Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
-
-    philologicum, K., 1938, kn. 7, p. 102— 106.
+  citata_rodoma: "Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum\n\nphilologicum, K., 1938, kn. 7, p. 102— 106."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61181
+    - t-001

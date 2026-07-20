@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66514"></a>
 - t-001
-  global_id: t-66514
   teiginys: "Po bevaikio Teodoro mirties 1597 m. caru pasiskelbė Godunovas, o po šešerių metų Lenkijoje atsirado Dimitrijumi pasivadinęs jaunikaitis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66517"></a>
 - t-002
-  global_id: t-66517
   teiginys: "Didžioji Maskvos suirutė (1597–1613 m.): lenkų ponų padedamas, jis 1605 m. užėmė Maskvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-66518"></a>
 - t-003
-  global_id: t-66518
   teiginys: "Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,16 +84,15 @@ Nenurodyta
     net pasiskubino išleisti už jo savo dukterį Mariną. Karalius
     Zigmantas taip pat jį maloniai priėmė. Lenkų ponų padedamas,
     jis 1605 m. užėmė Maskvą.
-  citata_rodoma: |
-    Lenkų ponų padedamas,
-    jis 1605 m. užėmė Maskvą.
+  citata_rodoma: "Lenkų ponų padedamas,\njis 1605 m. užėmė Maskvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66517
+    - t-002
+
 - id: c-66729
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -106,16 +102,15 @@ Nenurodyta
     buvo paskelbtas bajoras Vasylius Šuiskis. Tačiau
     Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
     kilimai, ir atsirado antras apsimetėlis Dimitrijas.
-  citata_rodoma: |
-    Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
-    kilimai, ir atsirado antras apsimetėlis Dimitrijas.
+  citata_rodoma: "Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-\nkilimai, ir atsirado antras apsimetėlis Dimitrijas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66518
+    - t-003
+
 - id: c-66730
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66514
+    - t-001

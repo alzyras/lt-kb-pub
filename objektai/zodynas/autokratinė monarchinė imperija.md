@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45782"></a>
-- t-001
-  global_id: t-45782
+- t-002
   teiginys: "Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-24748
 
 <a id="claim-t-45784"></a>
-- t-002
-  global_id: t-45784
+- t-001
   teiginys: "1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-24747
 
 <a id="claim-t-45785"></a>
-- t-003
-  global_id: t-45785
+- t-004
   teiginys: "LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,24 +119,15 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: |
-    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
-    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
-    Immanuel Kant (1724–1804)
-    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
-     vokiečių–lietuvių kalbų žodyno“ pratarmės
-    Š
-    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
-    priklausė autokratinei Rusijos imperijai (išskyrus pus-
-    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
-    liudą“).
+  citata_rodoma: "Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai\ngebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“\nImmanuel Kant (1724–1804)\nIš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir\n vokiečių–lietuvių kalbų žodyno“ pratarmės\nŠ\niuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)\npriklausė autokratinei Rusijos imperijai (išskyrus pus-\nmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-\nliudą“)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45784
+    - t-001
+
 - id: c-24748
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -158,17 +146,15 @@ media_all_json: |-
     ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų.
-  citata_rodoma: |
-    Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
-    riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
-    iš centro arba kitų gubernijų.
+  citata_rodoma: "Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-\nriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas\niš centro arba kitų gubernijų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45782
+    - t-002
+
 - id: c-48466
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -190,4 +176,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45785
+    - t-004

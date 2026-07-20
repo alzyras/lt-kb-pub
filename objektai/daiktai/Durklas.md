@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-59683"></a>
 - t-001
-  global_id: t-59683
   teiginys: "Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59683
+    - t-001

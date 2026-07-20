@@ -9,14 +9,14 @@ datos:
   - '1401 m.'
 date_start: '1379'
 date_end: '1401'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-terminas
   - sąvoka
-amziai:
-  - 'XIV'
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +39,7 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
 ## Teiginiai
 
 <a id="claim-t-11684"></a>
-- t-001
-  global_id: t-11684
+- t-004
   teiginys: "Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -60,8 +59,7 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
     - c-14603
 
 <a id="claim-t-11685"></a>
-- t-002
-  global_id: t-11685
+- t-003
   teiginys: "Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,13 +77,9 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   pagrindžia:
     - c-14604
 
-## Citatos
-
-- id: c-14603
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo­
     gaila išsikėlė į Lenkiją? Teigiame, kad, nors Trakų kunigaikš­
@@ -96,7 +90,35 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
     Jogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa­
     sakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano
     Kutrzeba, 1401 m. Vilniaus unijos aktu.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
+    džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
+    tiktai supremus dux (aukščiausias kunigaikštis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-14603
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
     Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo-
     gaila išsikėlė į Lenkiją? Teigiame, kad, nors Trakų kunigaikš-
     tija ir nebebuvo atstatyta, Lietuva ir toliau pasiliko valdoma
@@ -106,34 +128,29 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
     Jogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa-
     sakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano
     Kutrzeba, 1401 m. Vilniaus unijos aktu.
+  citata_rodoma: "Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo-\ngaila išsikėlė į Lenkiją? Teigiame, kad, nors Trakų kunigaikš-\ntija ir nebebuvo atstatyta, Lietuva ir toliau pasiliko valdoma\ndviejų kunigaikščių ir net tada, kada Jogaila nuėjo į Lenkiją ir\nkarūnavosi jos karalium, nes jis pagal Krėvės aktą, atsižvel-\ngiant į Vytautą, liko supremus dux, o Vytautas, atsižvelgiant\nJogailos buvo magnus dux (didysis kunigaikštis), nors, tiesą pa-\nsakius, pradžioj to titulo ir neturėjo — jį gavo, kaip mano\nKutrzeba, 1401 m. Vilniaus unijos aktu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11684
+    - t-004
+
 - id: c-14604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
-    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
-    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
-    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
-    (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
-    džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
-    tiktai supremus dux (aukščiausias kunigaikštis).
-  citata_rodoma: |
     Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren-
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
+  citata_rodoma: "Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren-\ndžiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo\ntiktai supremus dux (aukščiausias kunigaikštis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11685
+    - t-003

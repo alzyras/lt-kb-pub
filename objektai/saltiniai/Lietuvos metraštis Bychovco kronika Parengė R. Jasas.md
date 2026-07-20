@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuvos metraštis: Bychovco kronika / Parengė R.
 
 <a id="claim-t-61140"></a>
 - t-001
-  global_id: t-61140
   teiginys: "R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad lietuvos metraštis: Bychovco kronika / Parengė R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61140
+    - t-001

@@ -8,12 +8,12 @@ datos:
   - '1637 m.'
 date_start: '1626'
 date_end: '1637'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202188"></a>
 - t-001
-  global_id: t-202188
   teiginys: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais padarytų išlaidų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202188
+    - t-001

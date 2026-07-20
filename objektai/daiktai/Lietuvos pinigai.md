@@ -14,14 +14,14 @@ datos:
   - '1922 m.'
 date_start: '1387'
 date_end: '1922'
+amziai:
+  - 'XIV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
   - daiktas
-amziai:
-  - 'XIV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,8 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10727"></a>
-- t-001
-  global_id: t-10727
+- t-020
   teiginys: "Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,8 +83,7 @@ Nenurodyta
     - c-00210
 
 <a id="claim-t-10728"></a>
-- t-002
-  global_id: t-10728
+- t-021
   teiginys: "Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -104,8 +102,7 @@ Nenurodyta
     - c-00211
 
 <a id="claim-t-10729"></a>
-- t-003
-  global_id: t-10729
+- t-022
   teiginys: "Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -125,8 +122,7 @@ Nenurodyta
     - c-00212
 
 <a id="claim-t-10731"></a>
-- t-004
-  global_id: t-10731
+- t-023
   teiginys: "Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -139,11 +135,10 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pinigai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-00212
+    - c-00214
 
 <a id="claim-t-12316"></a>
-- t-005
-  global_id: t-12316
+- t-015
   teiginys: "Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -159,8 +154,7 @@ Nenurodyta
     - c-14327
 
 <a id="claim-t-12318"></a>
-- t-006
-  global_id: t-12318
+- t-017
   teiginys: "Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -176,8 +170,7 @@ Nenurodyta
     - c-14329
 
 <a id="claim-t-12319"></a>
-- t-007
-  global_id: t-12319
+- t-018
   teiginys: "Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -196,8 +189,7 @@ Nenurodyta
     - c-14330
 
 <a id="claim-t-12320"></a>
-- t-008
-  global_id: t-12320
+- t-019
   teiginys: "Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -217,27 +209,19 @@ Nenurodyta
 
 <a id="claim-t-12874"></a>
 - t-009
-  global_id: t-12874
   teiginys: "Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine."
-  atnaujinta: "2026-06-11 12:47"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vengrija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas vyko į Vengriją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vengrija (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kezmarkas (0.90)"
   temporaliniai_duomenys: "įvykio data: 1565 m.; įvykio data: apie 1565 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
-    - c-15954
+    - c-14329
+    - c-14331
+    - c-96649
 
 <a id="claim-t-103465"></a>
-- t-010
-  global_id: t-103465
+- t-001
   teiginys: "Lietuvoje tebekursavusias ostmarkes Lietuvos valdžia pavadino auksinais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -254,8 +238,7 @@ Nenurodyta
     - c-96647
 
 <a id="claim-t-103466"></a>
-- t-011
-  global_id: t-103466
+- t-024
   teiginys: "Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,8 +254,7 @@ Nenurodyta
     - c-96649
 
 <a id="claim-t-103467"></a>
-- t-012
-  global_id: t-103467
+- t-002
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -291,8 +273,7 @@ Nenurodyta
     - c-96646
 
 <a id="claim-t-103468"></a>
-- t-013
-  global_id: t-103468
+- t-003
   teiginys: "Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -312,8 +293,7 @@ Nenurodyta
     - c-96645
 
 <a id="claim-t-103469"></a>
-- t-014
-  global_id: t-103469
+- t-004
   teiginys: "Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -328,6 +308,22 @@ Nenurodyta
   pagrindžia:
     - c-96648
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
+## Reikšmingi paminėjimai
+- c-011
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-00210
@@ -343,19 +339,15 @@ Nenurodyta
     įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių. Apie jas nėra jokių ra-
     šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
     yra minimas), tad visokios išvados gali būti daromos tik iš radinių.
-  citata_rodoma: |
-    1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
-    tam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių
-
-    (kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su
-    įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių.
+  citata_rodoma: "1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro\ntam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių\n\n(kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su\nįkirtimais ir be įkirtimų, sunkesnių ir lengvesnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10727
+    - t-020
+
 - id: c-00211
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -374,7 +366,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10728
+    - t-021
+
 - id: c-00212
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -387,21 +380,15 @@ Nenurodyta
     Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
-  citata_rodoma: |
-    4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
-    10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_
-    5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —
-    Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
-    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
-    iš savo kunigaikštijų).
+  citata_rodoma: "4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;\n10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_\n5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —\nKijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo\npinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti\niš savo kunigaikštijų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10729
-    - t-10731
+    - t-022
+
 - id: c-00214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -411,15 +398,15 @@ Nenurodyta
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: |
-    **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
-    (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
+  citata_rodoma: "**Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_\n(skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-023
+
 - id: c-14327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -432,17 +419,15 @@ Nenurodyta
     tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
     tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
     se.
-  citata_rodoma: |
-    Šis pareikalavo, kad totoriai pripažintų jį savo
-    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
-    se.
+  citata_rodoma: "Šis pareikalavo, kad totoriai pripažintų jį savo\ntėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­\nse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12316
+    - t-015
+
 - id: c-14329
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -463,7 +448,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12318
+    - t-017
+    - t-009
+
 - id: c-14330
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -486,7 +473,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12319
+    - t-018
+
 - id: c-14331
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -506,7 +494,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12320
+    - t-019
+    - t-009
+
 - id: c-15954
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -518,17 +508,13 @@ Nenurodyta
     susitiko su Vengrijos karalium Zigmantu. Zigmantas, anks­
     čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
     ištikus jis laikysiąs Ordino pusę.
-  citata_rodoma: |
-    Zigmantas, anks­
-    čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
-    ištikus jis laikysiąs Ordino pusę.
+  citata_rodoma: "Zigmantas, anks­\nčiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui\ništikus jis laikysiąs Ordino pusę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12874
 - id: c-96645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -540,41 +526,33 @@ Nenurodyta
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
-  citata_rodoma: |
-    Per visą nepriklausomos Lie-
-    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
-    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
-    sienio valstybėse.
+  citata_rodoma: "Per visą nepriklausomos Lie-\ntuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais \npopieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-\nsienio valstybėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103468
+    - t-003
+
 - id: c-96646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
-    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
-    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
-    auksu paremtas litas, kurį sudaro 100 centų.
-  citata_rodoma: |
     Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
     įvestas litas.
+  citata_rodoma: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-\nniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra \nauksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje \nįvestas litas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103467
+    - t-002
+
 - id: c-96647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -587,18 +565,15 @@ Nenurodyta
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
     ieškoti sprendimo.
-  citata_rodoma: |
-    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
-    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
-    ieškoti sprendimo.
+  citata_rodoma: "Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-\nnais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-\ntuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią \nieškoti sprendimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103465
+    - t-001
+
 - id: c-96648
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -616,7 +591,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103469
+    - t-004
+
 - id: c-96649
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -637,4 +613,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103466
+    - t-009
+    - t-024

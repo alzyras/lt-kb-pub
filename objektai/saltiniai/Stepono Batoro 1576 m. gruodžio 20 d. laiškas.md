@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-88337"></a>
 - t-001
-  global_id: t-88337
   teiginys: "Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,18 +107,11 @@ media_all_json: |-
     - 7) Vilniaus vyskupo ir kardinolo ku­
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
-  citata_rodoma: |
-    448
-    6) Stepono Batoro parašas iš laiško,
-    rašyto 1576 m. gruodžio 20 d. /
-    p. 448
-    - 7) Vilniaus vyskupo ir kardinolo ku­
-    nigaikščio Jurgio Radvilos pa­
-    rašas - Jerzij C ard.
+  citata_rodoma: "448\n6) Stepono Batoro parašas iš laiško, \nrašyto 1576 m. gruodžio 20 d. / \np. 448\n- 7) Vilniaus vyskupo ir kardinolo ku­\nnigaikščio Jurgio Radvilos pa­\nrašas - Jerzij C ard."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88337
+    - t-001

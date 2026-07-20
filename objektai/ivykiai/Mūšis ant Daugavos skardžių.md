@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201295"></a>
 - t-001
-  global_id: t-201295
   teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-201296"></a>
 - t-002
-  global_id: t-201296
   teiginys: "Nustoję gudai taip kantraus savo karvedžio tuojau kurs kaip beįmanė tas muko šalin, bet lietuvių vyresnieji taip bukliai buvo savo kareivius sustatę, jog skriejan čius gudus visus į verpetus Daugavos sugrūdo, kuri būk burgėjusi per kamšą kūnų it per purvyną."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184645
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Darin
     lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182
@@ -91,11 +90,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201295
+    - t-001
 
 - id: c-184646
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nustoję
     gudai taip kantraus savo karvedžio tuojau kurs kaip
@@ -122,4 +122,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201296
+    - t-002

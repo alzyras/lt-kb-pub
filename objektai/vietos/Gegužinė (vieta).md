@@ -12,10 +12,10 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinė
 
 <a id="claim-t-201718"></a>
 - t-001
-  global_id: t-201718
   teiginys: "Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinės dvaro prie Neries savininku Motiejumi Voderackiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201718
+    - t-001

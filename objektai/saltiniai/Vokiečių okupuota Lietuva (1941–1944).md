@@ -38,7 +38,6 @@ Vokiečių okupuota Lietuva (1941–1944).
 
 <a id="claim-t-18069"></a>
 - t-001
-  global_id: t-18069
   teiginys: "A. Bubnio veikalas „Vokiečių okupuota Lietuva (1941–1944)“ išleistas Vilniuje 1998 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Vokiečių okupuota Lietuva (1941–1944).
   citata_originali: |
     Vilnius, 1996.
     Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
-  citata_rodoma: |
-    Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
+  citata_rodoma: "Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18069
+    - t-001

@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75278"></a>
-- t-001
-  global_id: t-75278
+- t-002
   teiginys: "Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-23218
 
 <a id="claim-t-75279"></a>
-- t-002
-  global_id: t-75279
+- t-003
   teiginys: "Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-73109
 
 <a id="claim-t-183275"></a>
-- t-003
-  global_id: t-183275
+- t-004
   teiginys: "Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -137,21 +134,15 @@ Nenurodyta
     prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
-  citata_rodoma: |
-    Represinės instituci-
-    jos, slopindamos parti-
-    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
-    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
-    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
-    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
-    čia užkasdavo pelkėse ar šiukšlynuose.
+  citata_rodoma: "Represinės instituci-\njos, slopindamos parti-\nzaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių\nšeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę\nprievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse\nmiestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-\nčia užkasdavo pelkėse ar šiukšlynuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75278
+    - t-002
+
 - id: c-73109
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -177,7 +168,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75279
+    - t-003
+
 - id: c-166664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,4 +191,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183275
+    - t-004

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-26412"></a>
 - t-001
-  global_id: t-26412
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią religinę ir tautinę dvasią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,6 +85,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26412
+    - t-001
+
 ## Ryšiai
 - Prisikėlimo bažnyčia Kaune priklausė [[objektai/vietos/Kaunas]]

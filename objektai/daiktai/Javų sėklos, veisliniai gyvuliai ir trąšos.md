@@ -67,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-23286"></a>
 - t-001
-  global_id: t-23286
   teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-23287"></a>
 - t-002
-  global_id: t-23287
   teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -110,5 +108,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23286
-    - t-23287
+    - t-001
+    - t-002

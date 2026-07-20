@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201391"></a>
 - t-001
-  global_id: t-201391
   teiginys: "Yra doba Žemaičiuose, tolesniai sako, visus lavo nus deginti, jei kokį numirėlį nedegintą rastų, tada didžiai sunkiai kankinami buvo tie, kurie turėjo jį deginti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184741
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ir taip ko nepragėrė jo gentys budėdami, tuo-
     mi svetimi pasidalijo.
@@ -75,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201391
+    - t-001

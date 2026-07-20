@@ -31,7 +31,6 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 
 <a id="claim-t-41198"></a>
 - t-001
-  global_id: t-41198
   teiginys: "Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,21 +71,14 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
     sio 8 d. nusileido daugiau kaip 30 transpor-
     tinių lėktuvų 11-76, kurių vienas talpina iki
     145 desantininkų.
-  citata_rodoma: |
-    Yra duomenų, kad šios ir Vitebsko gvar-
-    dijos 103-iosios oro desanto divizijos, taip
-    pat 400 kareivių iš Kaliningrado srities,
-    kaip ir nežinomas skaičius kitų kariuome-
-    nės padalinių buvo perdislokuoti į Lietuvą
-    sausio 8-11 d. Apie apytikslį kiekį galima
-    spręsti ir pagal tai, kad Šiauliuose sau-
-    sio 8 d.
+  citata_rodoma: "Yra duomenų, kad šios ir Vitebsko gvar-\ndijos 103-iosios oro desanto divizijos, taip\npat 400 kareivių iš Kaliningrado srities,\nkaip ir nežinomas skaičius kitų kariuome-\nnės padalinių buvo perdislokuoti į Lietuvą\nsausio 8-11 d. Apie apytikslį kiekį galima\nspręsti ir pagal tai, kad Šiauliuose sau-\nsio 8 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41198
+    - t-001
+
 ## Ryšiai
 - Vitebsko gvardijos 103-ioji oro desanto divizija siuntė į [[objektai/vietos/Lietuva]]

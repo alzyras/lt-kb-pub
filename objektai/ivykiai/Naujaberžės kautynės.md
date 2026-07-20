@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-41331"></a>
 - t-001
-  global_id: t-41331
   teiginys: "Kovo 27 d. ties Surviliškio valsčiaus Naujaberžės kaimu A. Mackevičiaus sukilėliai atlaikė barono Dellingsgauzeno vadovaujamo dalinio puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,17 +76,11 @@ Nenurodyta
     kyti Narvos pėstininkų pulko vado barono
     Dellingsgauzeno vadovaujamo dalinio
     puolimą.
-  citata_rodoma: |
-    Kovo 27 d. ties
-    Surviliškio valsčiaus Naujaberžės kaimu
-    A. Mackevičiaus sukilėliams pavyko atlai-
-    kyti Narvos pėstininkų pulko vado barono
-    Dellingsgauzeno vadovaujamo dalinio
-    puolimą.
+  citata_rodoma: "Kovo 27 d. ties\nSurviliškio valsčiaus Naujaberžės kaimu\nA. Mackevičiaus sukilėliams pavyko atlai-\nkyti Narvos pėstininkų pulko vado barono\nDellingsgauzeno vadovaujamo dalinio\npuolimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41331
+    - t-001

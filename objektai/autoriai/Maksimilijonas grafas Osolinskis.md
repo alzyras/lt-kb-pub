@@ -30,7 +30,6 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
 
 <a id="claim-t-194885"></a>
 - t-001
-  global_id: t-194885
   teiginys: "Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senovės tyrinėtojai, kurie nagrinėjo He rodoto geografiją ir vietoje susipažino su įvairiomis geo 1 Lelewel, Rzut oka na dawnosc Narodow Litew."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194885
+    - t-001

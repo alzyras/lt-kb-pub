@@ -42,8 +42,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 ## Teiginiai
 
 <a id="claim-t-176558"></a>
-- t-001
-  global_id: t-176558
+- t-002
   teiginys: "Lietuviškai pramokęs Mykolas Küchmeisteris turėjo sostinę ir krašto administracijos centrą prie Dubysos žiočių."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     - c-160559
 
 <a id="claim-t-176559"></a>
-- t-002
-  global_id: t-176559
+- t-001
   teiginys: "Mykolas Küchmeisteris buvo ordino vietininkas vaitas, įsikūręs 1400 m. arti Dubysos pastatytoje Friedeburgo pilyje."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 
 <a id="claim-t-176560"></a>
 - t-003
-  global_id: t-176560
   teiginys: "Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 
 <a id="claim-t-184376"></a>
 - t-004
-  global_id: t-184376
   teiginys: "Mykolas Küchmeisteris įsikūrė Friedeburgo pilyje prie Dubysos kaip Ordino vietininkas vaitas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -137,7 +133,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176559
+    - t-001
+
 - id: c-160559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -156,7 +153,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176558
+    - t-002
+
 - id: c-160560
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -173,22 +171,15 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
     rui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą
     Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
     visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
-  citata_rodoma: |
-    Po to Kauno
-    saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,
-    (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
-    Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
-    lenkų bajorai, Ordino riteriai. Ordino pasiuntinys įteikė Mak­
-    rui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą
-    Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
-    visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
+  citata_rodoma: "Po to Kauno\nsaloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas,\n(1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar\nJogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir\nlenkų bajorai, Ordino riteriai. Ordino pasiuntinys įteikė Mak­\nrui reikalavimą, kad jis priverstų Vytautą sugriauti atnaujintą\nVeliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams\nvisas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176560
+    - t-003
+
 - id: c-167745
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -205,4 +196,4 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184376
+    - t-004

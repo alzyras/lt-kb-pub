@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-66951"></a>
 - t-001
-  global_id: t-66951
   teiginys: "Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-66952"></a>
 - t-002
-  global_id: t-66952
   teiginys: "270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +105,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66952
+    - t-002
+
 - id: c-67042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66951
+    - t-001

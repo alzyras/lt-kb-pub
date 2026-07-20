@@ -31,7 +31,6 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
 
 <a id="claim-t-190450"></a>
 - t-001
-  global_id: t-190450
   teiginys: "Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190450
+    - t-001

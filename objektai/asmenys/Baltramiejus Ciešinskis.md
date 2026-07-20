@@ -8,12 +8,12 @@ datos:
   - '1631 m.'
 date_start: '1609'
 date_end: '1631'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko
 
 <a id="claim-t-202092"></a>
 - t-001
-  global_id: t-202092
   teiginys: "Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko praleisdavo Vilniuje."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202092
+    - t-001

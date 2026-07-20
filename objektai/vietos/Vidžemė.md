@@ -39,8 +39,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Teiginiai
 
 <a id="claim-t-69563"></a>
-- t-001
-  global_id: t-69563
+- t-002
   teiginys: "XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     - c-32522
 
 <a id="claim-t-69564"></a>
-- t-002
-  global_id: t-69564
+- t-001
   teiginys: "Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -103,21 +101,15 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
-  citata_rodoma: |
-    XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
-    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
-    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
-    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
-    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
-    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
-    kranto ruožą.
+  citata_rodoma: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,\nkurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,\napimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­\nkrauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­\nveno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos\nžemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos\nkranto ruožą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69563
+    - t-002
+
 - id: c-68866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -131,18 +123,14 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: |
-    Tuomet, iš vienos pusės, turėdamas savo ka-
-    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
-    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
-    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
-    džios.
+  citata_rodoma: "Tuomet, iš vienos pusės, turėdamas savo ka-\nriuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,\nnuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau\nsuvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-\ndžios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69564
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]]

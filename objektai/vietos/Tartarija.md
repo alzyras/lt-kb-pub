@@ -31,7 +31,6 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
 
 <a id="claim-t-192902"></a>
 - t-001
-  global_id: t-192902
   teiginys: "Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius Tartarijos kraštus ir per Roksolaniją pateko į Livoniją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192902
+    - t-001

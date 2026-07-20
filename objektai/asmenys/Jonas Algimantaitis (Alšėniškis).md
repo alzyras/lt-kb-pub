@@ -32,7 +32,6 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
 
 <a id="claim-t-53956"></a>
 - t-001
-  global_id: t-53956
   teiginys: "Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
 
 <a id="claim-t-196495"></a>
 - t-002
-  global_id: t-196495
   teiginys: "Kojelavičius pasakoja, kad Jonas Algimantaitis neilgai džiaugėsi naujomis valdomis, nes jo džiaugsmą nutraukė kito žmogaus nedorumas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -73,17 +71,15 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
     Taip
     pav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku
     ten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 ).
-  citata_rodoma: |
-    Taip
-    pav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku
-    ten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 ).
+  citata_rodoma: "Taip\npav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku\nten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-53956
+    - t-001
+
 - id: c-178729
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -108,4 +104,4 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196495
+    - t-002

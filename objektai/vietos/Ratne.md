@@ -38,7 +38,6 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
 
 <a id="claim-t-28532"></a>
 - t-001
-  global_id: t-28532
   teiginys: "Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28532
+    - t-001

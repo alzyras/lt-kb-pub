@@ -43,8 +43,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 ## Teiginiai
 
 <a id="claim-t-69126"></a>
-- t-001
-  global_id: t-69126
+- t-005
   teiginys: "Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 <a id="claim-t-69127"></a>
 - t-002
-  global_id: t-69127
   teiginys: "Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,6 +127,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-37684
@@ -147,7 +146,8 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69127
+    - t-002
+
 - id: c-68541
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,19 +161,15 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
-  citata_rodoma: |
-    Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu.
+  citata_rodoma: "Vytauto ir Lietuvos bajorų\ndokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-\nvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-\nrašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus\nRadomo susitarimu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69126
+    - t-005
+
 - id: c-167691
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -187,10 +183,11 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Apgulė Radomą: [[objektai/grupes/Rusai]]

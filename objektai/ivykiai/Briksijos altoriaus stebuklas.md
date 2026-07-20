@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-62218"></a>
 - t-001
-  global_id: t-62218
   teiginys: "Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Altorius: 0.85"
@@ -62,23 +61,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62706
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
 
-      Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
-    prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62218
 ## Citatos
 
 - id: c-62706
@@ -86,19 +69,15 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
+    6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
 
       Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
     prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
-  citata_rodoma: |
-    Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
-
-      Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu
-    prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
+  citata_rodoma: "6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu\n\n  Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu\nprie šventojo altoriaus (Ptol. 21,4; Mart. p. 395)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62218
+    - t-001

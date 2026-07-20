@@ -31,7 +31,6 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 
 <a id="claim-t-64676"></a>
 - t-001
-  global_id: t-64676
   teiginys: "K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
     Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: |
-    Tik didieji mūsų kalbininkai Jaunius su
-    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
-    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
-    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
+  citata_rodoma: "Tik didieji mūsų kalbininkai Jaunius su\nBūga visas tas gimines vadino aisčiais, argumentuodami tuo, kad\ntaip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,\nyra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64676
+    - t-001

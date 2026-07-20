@@ -31,7 +31,6 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 
 <a id="claim-t-191227"></a>
 - t-001
-  global_id: t-191227
   teiginys: "Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės palydovų žuvimo fenomeną, siejamą su senaisiais padavimais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -44,10 +43,9 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     - c-174109
 
 <a id="claim-t-191974"></a>
-- t-003
-  global_id: t-191974
+- t-004
   teiginys: "Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +61,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174856
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
@@ -92,30 +90,9 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     nodamas, kam gi vis dėlto atiduoti pirmenybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-003
-  santrauka: 'Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
-    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
-    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
-    nes giesmes.
-    157
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
-    studijuoti Eridano upę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191974
 ## Citatos
 
 - id: c-174109
@@ -141,7 +118,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191227
+    - t-001
+
 - id: c-174856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -156,20 +134,11 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
     padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
     studijuoti Eridano upę.
-  citata_rodoma: |
-    Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
-    delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­
-    kiodamas po Eridano ežerą, niūniavo gražias priešmirti­
-    nes giesmes.
-    157
-    Šio mito turinys sutampa su pono Radlofo požiūriu,
-    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
-    padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
-    studijuoti Eridano upę.
+  citata_rodoma: "Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius. Dabar reikia tik pa­\nstudijuoti Eridano upę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191974
+    - t-004

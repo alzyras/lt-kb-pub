@@ -31,7 +31,6 @@ Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.
 
 <a id="claim-t-74036"></a>
 - t-001
-  global_id: t-74036
   teiginys: "Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Tai romėniškajai kilmei paremti ir buvo sudaryta ištisa teorija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74036
+    - t-001

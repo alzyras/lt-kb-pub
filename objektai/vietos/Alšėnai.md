@@ -9,13 +9,13 @@ datos:
   - '1553 m.'
 date_start: '1536'
 date_end: '1553'
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - kaimas
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Alšėnai
 
 ## Santrauka
@@ -37,27 +38,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 
 ## Teiginiai
 
-<a id="claim-t-86058"></a>
-- t-001
-  global_id: t-86058
-  teiginys: "Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alšėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alšėnai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-82037
-
 <a id="claim-t-187563"></a>
 - t-002
-  global_id: t-187563
   teiginys: "Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -71,12 +53,11 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
   ryšio_targeto_parinkimas: "Alšėnai: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Alšėnai (0.91)"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Alšėnai (0.91)"
   pagrindžia:
     - c-170513
-    - c-002
 - susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
 - susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184744|Julijona (Vytauto žmona)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
@@ -155,29 +136,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70167|kapitula]]: Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/oratorija.md#claim-t-86602|oratorija]]: Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę oratoriją, arba koplyčią, pranciškonų kankinių palaidojimo vietoje.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis
-    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
-    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
-    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
-    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
-    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
-    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
-    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
-    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
-    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
-    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187563
 ## Citatos
 
 - id: c-82037
@@ -193,36 +151,15 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     Gregorovičiui, Alšėnų kunigaikščiui ir Kijevo...................
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-86058
 - id: c-170513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O paskui didysis kunigaikštis Kazimieras atvyko
-    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
-    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
-    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis.
-  citata_rodoma: |
     Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
     atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
@@ -234,12 +171,11 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
     Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
+  citata_rodoma: "Didysis \nkunigaikštis Žygimantas rašė ir jam, kad skirtu laiku \natvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­\nlenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje \npas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­\nsisvečiuoti pas Voložino kunigaikščius, ir Voložine at­\nėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, \nir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį \nSimonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša \nVilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir \nMikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187563
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+    - t-002

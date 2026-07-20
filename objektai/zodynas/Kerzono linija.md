@@ -39,9 +39,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 
-<a id="claim-t-44060"></a>
-- t-001
-  global_id: t-44060
+<a id="claim-t-44059"></a>
+- t-003
   teiginys: "Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-47221
 
 <a id="claim-t-44061"></a>
-- t-002
-  global_id: t-44061
+- t-001
   teiginys: "Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-47220
 
 <a id="claim-t-193148"></a>
-- t-003
-  global_id: t-193148
+- t-004
   teiginys: "2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -106,21 +103,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: |
-    Tada Aukš-
-    čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
-    vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
-    tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už
-    vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
-    čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
-    duoti Lietuvai (liepos 10 d.).
+  citata_rodoma: "Tada Aukš-\nčiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-\nvietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-\ntely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už\nvadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-\nčiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-\nduoti Lietuvai (liepos 10 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44061
+    - t-001
+
 - id: c-47221
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -137,18 +128,12 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
     kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: |
-    Lietuvos siena
-    eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta
-    Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
-    — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
-    toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
-    kijos su Sovietų Rusija nustatytų sienų.
+  citata_rodoma: "Lietuvos siena\neina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta\nSuvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui\n— Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,\ntoliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-\nkijos su Sovietų Rusija nustatytų sienų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-44060
-    - t-193148
+    - t-003
+    - t-004

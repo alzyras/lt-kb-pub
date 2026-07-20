@@ -31,7 +31,6 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 
 <a id="claim-t-35152"></a>
 - t-001
-  global_id: t-35152
   teiginys: "Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,14 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
     apie ką jis pats gyrėsi Zigmantui. Turkų sultonas Muradas II
     siuntė Vytautui į Smolenską dovanų.
-  citata_rodoma: |
-    Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­
-    gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono
-    Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­
-    tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
-    apie ką jis pats gyrėsi Zigmantui. Turkų sultonas Muradas II
-    siuntė Vytautui į Smolenską dovanų.
+  citata_rodoma: "Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­\ngerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono\nPaleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­\ntytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,\napie ką jis pats gyrėsi Zigmantui. Turkų sultonas Muradas II\nsiuntė Vytautui į Smolenską dovanų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35152
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Manuelis]]

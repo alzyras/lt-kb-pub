@@ -9,15 +9,15 @@ datos:
   - '1275 m.'
 date_start: '1275'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 <a id="claim-t-40404"></a>
 - t-001
-  global_id: t-40404
   teiginys: "Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 <a id="claim-t-193403"></a>
 - t-002
-  global_id: t-193403
   teiginys: "Kunigaikštis Romanas Kojelavičiaus pasakojime kartu su Stanislovu paskatino karius sprukti iš kovos lauko."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 <a id="claim-t-193974"></a>
 - t-003
-  global_id: t-193974
   teiginys: "O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 <a id="claim-t-196587"></a>
 - t-004
-  global_id: t-196587
   teiginys: "Kilus pavojui Kijevui, kunigaikštis Romanas pakilo į kovą prieš Gedimino vadovaujamus lietuvius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -112,6 +108,25 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - susijęs iš [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines.md#claim-t-97133|Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]: Pačios karūnavimo apeigos skaitėsi sakramentu.
 - susijęs iš Gedimino laiškas popiežiui Jonui XXII (1323 m.): Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.
 - susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir suspindo žvaigždės kaip naktį, ir
+    švietė tris valandas:.
+    Štai kas nutiko po šito dangaus ženklo didžiajam
+    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
+    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
+    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
+    prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
+    verskiečius, atėmė iš jų du bebrus ir tris statines me-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-44496
@@ -127,20 +142,15 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
     prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
-  citata_rodoma: |
-    Taigi Lietuvos antpuolyje su toto-
-    riais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo
-    sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo
-    metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
-    prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
-    Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
+  citata_rodoma: "Taigi Lietuvos antpuolyje su toto-\nriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo\nsūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo\nmetu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje\nprieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,\nVladimiro, taip pat Pinsko, Turovo - kunigaikščiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40404
+    - t-001
+
 - id: c-176125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -164,52 +174,34 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     rų, galinčių valdyti ginklą, be to, gynėjų gretas pa­
     pildė ten pabėgę kariai, kuriems pasisekė išvengti žū­
     ties.
-  citata_rodoma: |
-    Kova
-    įsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­
-    liniai, vedami Perejeslavlio kunigaikščio Olego ir Luc­
-    ko kunigaikščio Levo, tačiau šie kunigaikščiai, per
-    neatsargumą įsiveržę tarp susigrūdusių karių, pragaišo
-    maišatyje, leisdami tuo lietuviams neabejoti pergale.
-    Netekusios vadų pagalbinės jėgos ėmė kovoti atvan­
-    giau ir padrikai, vidurinės eilės, anksčiau išstumtos iš
-    vietos, pradėjo trauktis, galop kunigaikščiai Stanis­
-    lovas ir Romanas paskatino savo pavyzdžiu kitus ka­
-    rius sprukti iš kovos lauko. Bėgančiųjų žudynes su­
-    stabdė naktis.
+  citata_rodoma: "Kova\nįsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­\nliniai, vedami Perejeslavlio kunigaikščio Olego ir Luc­\nko kunigaikščio Levo, tačiau šie kunigaikščiai, per\nneatsargumą įsiveržę tarp susigrūdusių karių, pragaišo\nmaišatyje, leisdami tuo lietuviams neabejoti pergale.\nNetekusios vadų pagalbinės jėgos ėmė kovoti atvan­\ngiau ir padrikai, vidurinės eilės, anksčiau išstumtos iš\nvietos, pradėjo trauktis, galop kunigaikščiai Stanis­\nlovas ir Romanas paskatino savo pavyzdžiu kitus ka­\nrius sprukti iš kovos lauko. Bėgančiųjų žudynes su­\nstabdė naktis."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193403
+    - t-002
+
 - id: c-176599
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir suspindo žvaigždės kaip naktį, ir
-    švietė tris valandas:.
-    Štai kas nutiko po šito dangaus ženklo didžiajam
-    kunigaikščiui Vytautui, draugiškai sugyvenusiam su
-    savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi
-    Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
-    prie Tykiosios Sosnos 3 užpuolė Vytauto valdinius se-
-    verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: |
     Bet kunigaikštis Jurijus susisiekė su smo-
     lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
     O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto
     paskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­
     kus paleido.
+  citata_rodoma: "Bet kunigaikštis Jurijus susisiekė su smo- \nlenskiečiais, tie priėmė jį ir atidarė jam miesto vartus. \nO čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto \npaskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­\nkus paleido."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193974
+    - t-003
+
 - id: c-178781
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -240,6 +232,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196587
+    - t-004
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Olegas (Romano sūnus)]]

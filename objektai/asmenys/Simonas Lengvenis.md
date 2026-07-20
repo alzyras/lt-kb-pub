@@ -9,16 +9,16 @@ datos:
   - '1348 m.'
 date_start: '1348'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 ## Teiginiai
 
 <a id="claim-t-82662"></a>
-- t-001
-  global_id: t-82662
+- t-002
   teiginys: "Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     - c-79125
 
 <a id="claim-t-82663"></a>
-- t-002
-  global_id: t-82663
+- t-001
   teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,9 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   pagrindžia:
     - c-79124
     - c-167149
+
 <a id="claim-t-82664"></a>
 - t-003
-  global_id: t-82664
   teiginys: "Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 
 <a id="claim-t-184825"></a>
 - t-005
-  global_id: t-184825
   teiginys: "Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -118,40 +115,12 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) keliavo į Mstislavlis (0.84)"
   pagrindžia:
     - c-168186
-    - c-004
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Po šios per­
-    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
-    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
-    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
-    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
-    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
-    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
-    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
-    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
-    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
-    Su m u ša
-    S via to sla vą ,
-    S m o le n sk o  k u n ig a ik ­
-    štį
-    ti į puolantį priešą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184825
 ## Citatos
 
 - id: c-79124
@@ -177,7 +146,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82663
+    - t-001
+
 - id: c-79125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -199,23 +169,16 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     Lengvenis, Lietuvos kunigaikštis,
     Algirdo sūnus: žr. D a n i L, Kronika
     Ruška pr 206.
-  citata_rodoma: |
-    ; o po jo ten val­
-    džią perėmęs jo sūnus Patrikas, ar­
-    ba Patricijus; po pastarojo tapo val­
-    dovu, arba Žečpospolitos vaivada,
-    ir Rusios bei Ladogos kunigaikštis
-    Simonas Lungvinas, arba tiksliau
-    Lengvenis, Lietuvos kunigaikštis,
-    Algirdo sūnus: žr.
+  citata_rodoma: "; o po jo ten val­\ndžią perėmęs jo sūnus Patrikas, ar­\nba Patricijus; po pastarojo tapo val­\ndovu, arba Žečpospolitos vaivada,\nir Rusios bei Ladogos kunigaikštis\nSimonas Lungvinas, arba tiksliau\nLengvenis, Lietuvos kunigaikštis,\nAlgirdo sūnus: žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82662
-    - t-82664
+    - t-002
+    - t-003
+
 - id: c-167149
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -236,29 +199,17 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     ir ginkluote buvo panaši į kryžiuočių.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-168186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Priešų palikta stovykla atiteko nu­
-    galėtojams; Sviatoslavo sūnus Jurijus po atkaklios ko­
-    vos, kurią kėlė apie save, sužeistas pakliuvo į nuga­
-    lėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada
-    būti ištikimas ir klusnus Jogailai bei Lietuvos didie­
-    siems kunigaikščiams, jis atgavo tėvoniją. Po šios per­
-    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
-    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
-    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
-    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
-    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
-    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
-    Severską — Dimitras Kaributas.
-  citata_rodoma: |
     Po šios per­
     to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
     nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
@@ -274,13 +225,15 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
     S m o le n sk o  k u n ig a ik ­
     štį
     ti į puolantį priešą.
+  citata_rodoma: "Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo\ntos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas\nŠvitrigaila su nemaža įgula pasiliko Polocke, kitą ka­\nriuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­\ngaila į Trakus, Simonas Lengvenis į Mstislavlį, o į\nSeverską — Dimitras Kaributas. Jogaila, atsikratęs šio\nkaro rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­\nsiuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi\nSu m u ša\nS via to sla vą ,\nS m o le n sk o  k u n ig a ik ­\nštį\nti į puolantį priešą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184825
+    - t-005
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Simonas Lengvenis (valdovas, XIV a.) puolė [[objektai/vietos/Riazanė]]

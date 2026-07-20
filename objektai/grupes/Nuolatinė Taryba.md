@@ -32,7 +32,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 <a id="claim-t-65961"></a>
 - t-001
-  global_id: t-65961
   teiginys: "Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - c-66300
 
 <a id="claim-t-65962"></a>
-- t-002
-  global_id: t-65962
+- t-003
   teiginys: "Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +50,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - c-66302
 
 <a id="claim-t-65964"></a>
-- t-003
-  global_id: t-65964
+- t-002
   teiginys: "Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,7 +61,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 <a id="claim-t-182912"></a>
 - t-004
-  global_id: t-182912
   teiginys: "Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,7 +80,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 <a id="claim-t-182913"></a>
 - t-005
-  global_id: t-182913
   teiginys: "Nuolatinė Taryba ir karo bei iždo komisijos buvo atgaivintos grąžinus po I padalinimo buvusią santvarką."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -114,16 +109,15 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     m. Respublika turėjo teisę laikyti tik 24.000 kariuomenės). Tuo
     pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
     džios organas, pavadintas Nuolatine Taryba.
-  citata_rodoma: |
-    Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
-    džios organas, pavadintas Nuolatine Taryba.
+  citata_rodoma: "Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-\ndžios organas, pavadintas Nuolatine Taryba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65961
+    - t-001
+
 - id: c-66302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -141,7 +135,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65962
+    - t-003
+
 - id: c-66305
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,7 +159,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65964
+    - t-002
+
 - id: c-166315
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -182,7 +178,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182912
+    - t-004
+
 - id: c-166316
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -199,4 +196,4 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182913
+    - t-005

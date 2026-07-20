@@ -37,8 +37,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 ## Teiginiai
 
 <a id="claim-t-48788"></a>
-- t-001
-  global_id: t-48788
+- t-003
   teiginys: "1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 
 <a id="claim-t-48789"></a>
 - t-002
-  global_id: t-48789
   teiginys: "Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-50925
 
 <a id="claim-t-48790"></a>
-- t-003
-  global_id: t-48790
+- t-001
   teiginys: "Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-50923
 
 <a id="claim-t-48791"></a>
-- t-004
-  global_id: t-48791
+- t-006
   teiginys: "Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,7 +107,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 
 <a id="claim-t-48792"></a>
 - t-005
-  global_id: t-48792
   teiginys: "Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -127,8 +122,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-32562
 
 <a id="claim-t-48793"></a>
-- t-006
-  global_id: t-48793
+- t-004
   teiginys: "Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -177,19 +171,16 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus.
-  citata_rodoma: |
-    Po kietų kovų su
-    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
-    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
-    sodino iš pirmųjų vedybų savo sūnus.
+  citata_rodoma: "Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.\nRytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­\nsodino iš pirmųjų vedybų savo sūnus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-48791
-    - t-48792
+    - t-006
+    - t-005
+
 - id: c-50923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -209,7 +200,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-48790
+    - t-001
+
 - id: c-50924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -227,7 +219,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-48793
+    - t-004
+
 - id: c-50925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -245,7 +238,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-48789
+    - t-002
+
 - id: c-50926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -265,4 +259,4 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-48788
+    - t-003

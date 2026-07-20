@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01571"></a>
 - t-001
-  global_id: t-01571
   teiginys: "1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,16 +81,11 @@ Nenurodyta
     kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
     kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
     somą Lietuvos valstybę.
-  citata_rodoma: |
-    Tais pat metais kovo mėn.
-    13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,
-    kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
-    kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
-    somą Lietuvos valstybę.
+  citata_rodoma: "Tais pat metais kovo mėn.\n13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas,\nkuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-\nkos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-\nsomą Lietuvos valstybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01571
+    - t-001

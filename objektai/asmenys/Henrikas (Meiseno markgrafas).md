@@ -39,8 +39,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 ## Teiginiai
 
 <a id="claim-t-63616"></a>
-- t-001
-  global_id: t-63616
+- t-002
   teiginys: "Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - c-64618
 
 <a id="claim-t-63617"></a>
-- t-002
-  global_id: t-63617
+- t-001
   teiginys: "Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - c-64619
 
 <a id="claim-t-184076"></a>
-- t-003
-  global_id: t-184076
+- t-004
   teiginys: "Meiseno markgrafas Henrikas ryžosi naikinti netikėlius ir plėsti krikščionių žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - c-64618
 
 <a id="claim-t-194486"></a>
-- t-004
-  global_id: t-194486
+- t-005
   teiginys: "Apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -134,9 +130,10 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63616
-    - t-184076
-    - t-194486
+    - t-002
+    - t-004
+    - t-005
+
 - id: c-64619
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -163,7 +160,8 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63617
+    - t-001
+
 ## Ryšiai
 - Henrikas (Meiseno markgrafas) keliavo į [[objektai/vietos/Prūsija]]
 - Henrikas (Meiseno markgrafas) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
 
 <a id="claim-t-58864"></a>
 - t-001
-  global_id: t-58864
   teiginys: "Prūsijoje žemiausias teritorinio padalijimo vienetas vadintas pulka arba polka, o Dusburgietis jį perteikė lotynišku campus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58864
+    - t-001

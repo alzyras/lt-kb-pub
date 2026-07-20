@@ -40,7 +40,6 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 
 <a id="claim-t-30544"></a>
 - t-001
-  global_id: t-30544
   teiginys: "A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,16 +75,11 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
     95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
     t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
     rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-  citata_rodoma: |
-    A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
-    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
-    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
-    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
-    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
+  citata_rodoma: "A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje\n(AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,\n95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,\nt. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),\nrašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30544
+    - t-001

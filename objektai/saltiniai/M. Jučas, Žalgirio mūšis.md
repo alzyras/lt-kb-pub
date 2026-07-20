@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-31835"></a>
 - t-001
-  global_id: t-31835
   teiginys: "M. Jučo „Žalgirio mūšis“ buvo išleistas Vilniuje 1959 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ media_all_json: |-
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
     Grunwald) 15 July 1410,_ Chicago 1961.
-  citata_rodoma: |
-    — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
-    mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
-    Grunwald) 15 July 1410,_ Chicago 1961.
+  citata_rodoma: "— Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio\nmūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-\nGrunwald) 15 July 1410,_ Chicago 1961."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31835
+    - t-001

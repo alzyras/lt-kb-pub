@@ -41,8 +41,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-183544"></a>
-- t-001
-  global_id: t-183544
+- t-003
   teiginys: "Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183544
+    - t-003

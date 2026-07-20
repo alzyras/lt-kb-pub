@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-115024"></a>
 - t-001
-  global_id: t-115024
   teiginys: "1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-115025"></a>
 - t-002
-  global_id: t-115025
   teiginys: "Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115024
+    - t-001
+
 - id: c-106015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -132,4 +131,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-115025
+    - t-002

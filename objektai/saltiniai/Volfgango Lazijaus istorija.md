@@ -30,7 +30,6 @@ Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenbu
 
 <a id="claim-t-190565"></a>
 - t-001
-  global_id: t-190565
   teiginys: "Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenburgo istorijos“ paimtą Dievo maldos užrašą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenbu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190565
+    - t-001

@@ -54,8 +54,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 ## Teiginiai
 
 <a id="claim-t-97279"></a>
-- t-001
-  global_id: t-97279
+- t-005
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -71,8 +70,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     - c-32641
 
 <a id="claim-t-97280"></a>
-- t-002
-  global_id: t-97280
+- t-004
   teiginys: "Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -89,7 +87,6 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 
 <a id="claim-t-97281"></a>
 - t-003
-  global_id: t-97281
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas būtų civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebūtinas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -125,22 +122,13 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
     vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
     jis pats.
-  citata_rodoma: |
-    **
-
-
-    (^374) III skyrius: valstybės suklestėjimas
-    buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
-    bažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,
-    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
-    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
-    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.
+  citata_rodoma: "**\n\n\n(^374) III skyrius: valstybės suklestėjimas\nbuvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip\nbažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97279
-    - t-97280
-    - t-97281
+    - t-005
+    - t-004
+    - t-003

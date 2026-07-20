@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-193284"></a>
 - t-001
-  global_id: t-193284
   teiginys: "Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193284
+    - t-001

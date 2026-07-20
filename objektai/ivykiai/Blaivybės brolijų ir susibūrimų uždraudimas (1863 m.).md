@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01594"></a>
-- t-001
-  global_id: t-01594
+- t-002
   teiginys: "Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-01833
 
 <a id="claim-t-01595"></a>
-- t-002
-  global_id: t-01595
+- t-001
   teiginys: "Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-01596"></a>
 - t-003
-  global_id: t-01596
   teiginys: "Blaivybės brolijų panaikinimas nutraukė tautos blaivinimo darbą ir ilgam paliko Lietuvą be organizacijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,18 +110,15 @@ Nenurodyta
     bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
     tada buvo uždraustos visos draugijos. Tačiau vyskupas nemetė
     savo gražaus darbo.
-  citata_rodoma: |
-    Jau iš pat pradžių Vilniaus
-    generalgubernatorius ir Kauno gubernatorius buvo pradėję ka-
-    bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
-    tada buvo uždraustos visos draugijos.
+  citata_rodoma: "Jau iš pat pradžių Vilniaus\ngeneralgubernatorius ir Kauno gubernatorius buvo pradėję ka-\nbintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes\ntada buvo uždraustos visos draugijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01595
+    - t-001
+
 - id: c-01833
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -140,18 +134,15 @@ Nenurodyta
     1863 m. sukilimo, kada Mu-
     ravjovas uždraudė visokius
     susibūrimus.
-  citata_rodoma: |
-    Šitaip buvo iki pat
-    1863 m. sukilimo, kada Mu-
-    ravjovas uždraudė visokius
-    susibūrimus.
+  citata_rodoma: "Šitaip buvo iki pat\n1863 m. sukilimo, kada Mu-\nravjovas uždraudė visokius\nsusibūrimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01594
+    - t-002
+
 - id: c-01834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -170,4 +161,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01596
+    - t-003

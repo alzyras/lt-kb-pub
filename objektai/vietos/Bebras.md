@@ -31,14 +31,12 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 
 <a id="claim-t-58687"></a>
 - t-001
-  global_id: t-58687
   teiginys: "Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59319
-    - c-001
 - susijęs iš Lukas: Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
@@ -52,20 +50,6 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185741|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: 1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
 - susijęs iš [[objektai/posakiai/Vargas mums, nes mūsų laukia nesėkmė.md#claim-t-59166|Vargas mums, nes mūsų laukia nesėkmė]]: Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Bebirvytis (2-sis)
-      Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58687
 ## Citatos
 
 - id: c-59319
@@ -73,27 +57,13 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kulmas, vyskupystė
-    Culmen, Culmense (prie Neries)
-    Kulmena (Kulmenas, Kulmė), u.
-    Kulmenai
-    Kulmenzė (Culmense, Colmense, Colmenzehe, Kulmssee, dab. Chelmža)
-    Kulmežeris
-    Kulmkulkei, Kulminai
-    Kulva (Kolva, Colwe, Coluwa, Кулвы)
-    Culwen, Kulwen
-    Kumelionys
-    Kumėnai (Kumehnen)
-    Kuncenas
-    Kurija (Romos popiežiaus)
-    Kuršas
-  citata_rodoma: |
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
+  citata_rodoma: "Bebirvytis (2-sis)\n  Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58687
+    - t-001

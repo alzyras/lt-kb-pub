@@ -32,7 +32,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 
 <a id="claim-t-72599"></a>
 - t-001
-  global_id: t-72599
   teiginys: "Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 
 <a id="claim-t-193121"></a>
 - t-002
-  global_id: t-193121
   teiginys: "Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72599
+    - t-001
+
 - id: c-175881
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,4 +99,4 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193121
+    - t-002

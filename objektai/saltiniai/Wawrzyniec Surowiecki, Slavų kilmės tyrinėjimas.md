@@ -30,7 +30,6 @@ Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senų
 
 <a id="claim-t-191818"></a>
 - t-001
-  global_id: t-191818
   teiginys: "Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senųjų slavų gyvenamąsias vietas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191818
+    - t-001

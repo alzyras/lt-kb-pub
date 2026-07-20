@@ -31,7 +31,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 <a id="claim-t-20902"></a>
 - t-001
-  global_id: t-20902
   teiginys: "Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,12 +57,11 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
     kur anksčiau degė pagonių amžinoji ugnis.
-  citata_rodoma: |
-    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+  citata_rodoma: "švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20902
+    - t-001

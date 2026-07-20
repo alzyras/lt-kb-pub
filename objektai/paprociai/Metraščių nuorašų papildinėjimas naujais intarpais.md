@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-194071"></a>
 - t-001
-  global_id: t-194071
   teiginys: "Daugelyje Platesniojo sąvado nuorašų buvo papildymų: paminėjimų užrašų ir ilgesnių pasakojimų apie XV a. pabaigos bei XVI a. pirmosios pusės įvykius."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194071
+    - t-001

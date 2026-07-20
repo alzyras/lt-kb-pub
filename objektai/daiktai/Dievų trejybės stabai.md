@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-59681"></a>
 - t-001
-  global_id: t-59681
   teiginys: "S. Grunau rašė, kad Romovės ąžuolo uoksuose stovėjo dievų trejybės stabai: Perkūnas, Patulas ir Patrimpas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59681
+    - t-001

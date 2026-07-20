@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-41246"></a>
 - t-001
-  global_id: t-41246
   teiginys: "Per visą Augustavo-Suvalkų operaciją Lietuvos pajėgos nukautaisiais, sužeistaisiais ir patekusiais į nelaisvę prarado daugiau nei 2 000 karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,18 +82,11 @@ Nenurodyta
     Vieną reikšmingiausių nesėkmių Lietuvos
     karo istorijoje nulėmė daugelis aplinky-
     bių.
-  citata_rodoma: |
-    Bendrai nukautaisiais, sužeistai-
-    siais, patekusiais į nelaisvę Lietuvos pajė-
-    gos visos Augustavo-Suvalkų operacijos
-    metu prarado daugiau nei 2 000 karių.
-    Vieną reikšmingiausių nesėkmių Lietuvos
-    karo istorijoje nulėmė daugelis aplinky-
-    bių.
+  citata_rodoma: "Bendrai nukautaisiais, sužeistai-\nsiais, patekusiais į nelaisvę Lietuvos pajė-\ngos visos Augustavo-Suvalkų operacijos\nmetu prarado daugiau nei 2 000 karių.\nVieną reikšmingiausių nesėkmių Lietuvos\nkaro istorijoje nulėmė daugelis aplinky-\nbių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41246
+    - t-001

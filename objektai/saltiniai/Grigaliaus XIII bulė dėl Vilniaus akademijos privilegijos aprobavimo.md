@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-88422"></a>
 - t-001
-  global_id: t-88422
   teiginys: "1578 m. Steponas Batoras funduotoms mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88422
+    - t-001

@@ -40,8 +40,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 ## Teiginiai
 
 <a id="claim-t-70011"></a>
-- t-001
-  global_id: t-70011
+- t-006
   teiginys: "Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -50,19 +49,16 @@ Vartojamos formos: `kūrėjų kūrėjo`.
     - c-09697
 
 <a id="claim-t-70012"></a>
-- t-002
-  global_id: t-70012
+- t-004
   teiginys: "`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-09696
     - c-09697
 
 <a id="claim-t-70013"></a>
-- t-003
-  global_id: t-70013
+- t-005
   teiginys: "Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -91,8 +87,8 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70012
-    - t-70013
+    - t-005
+
 - id: c-09697
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -105,5 +101,5 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70011
-    - t-70012
+    - t-006
+    - t-004

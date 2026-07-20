@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189663"></a>
 - t-001
-  global_id: t-189663
   teiginys: "Teodoras Narbutas, rengdamas spaudai antrąjį LTI IV tomo leidimą, tekstą papildė epigrafo autografu iš I. Krasickio „Pieśni Ossjana“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,28 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172546
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas, rengdamas spaudai antrąjį LTI IV tomo leidimą, tekstą papildė epigrafo autografu iš I. Krasickio „Pieśni Ossjana“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,
-    rengdamas spaudai antrąjį LTIIV tomo leidimą
-    Na piešni Bardow myšl czula rzežwieje:
-    Milo nam sfyszeč ojcow naszych dzieje.
-    Te sercom czufym tak są mile, wdzięczne,
-    Jak rosa ranna, promienie miesięczne.
-    L Krasicki. Piesni Ossjana
-    (Kai giesmės bardų aidi, svajos bunda:
-    Žygius mums miela protėvių girdėti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189663
+
 ## Citatos
 
 - id: c-172546
@@ -102,20 +80,11 @@ Nenurodyta
     L Krasicki. Piesni Ossjana
     (Kai giesmės bardų aidi, svajos bunda:
     Žygius mums miela protėvių girdėti.
-  citata_rodoma: |
-    Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,
-    rengdamas spaudai antrąjį LTIIV tomo leidimą
-    Na piešni Bardow myšl czula rzežwieje:
-    Milo nam sfyszeč ojcow naszych dzieje.
-    Te sercom czufym tak są mile, wdzięczne,
-    Jak rosa ranna, promienie miesięczne.
-    L Krasicki. Piesni Ossjana
-    (Kai giesmės bardų aidi, svajos bunda:
-    Žygius mums miela protėvių girdėti.
+  citata_rodoma: "Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,\nrengdamas spaudai antrąjį LTIIV tomo leidimą\nNa piešni Bardow myšl czula rzežwieje:\nMilo nam sfyszeč ojcow naszych dzieje.\nTe sercom czufym tak są mile, wdzięczne,\nJak rosa ranna, promienie miesięczne.\nL Krasicki. Piesni Ossjana\n(Kai giesmės bardų aidi, svajos bunda:\nŽygius mums miela protėvių girdėti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189663
+    - t-001

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-86966"></a>
 - t-001
-  global_id: t-86966
   teiginys: "Olesnickio atsakymas privertė Vytautą sudvejoti dėl karūnacijos sumanymo, o praradęs viltį gauti karūną jis sunkiai susirgo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86966
+    - t-001

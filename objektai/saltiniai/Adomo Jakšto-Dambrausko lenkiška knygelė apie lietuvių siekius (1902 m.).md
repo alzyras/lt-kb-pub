@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-20995"></a>
 - t-001
-  global_id: t-20995
   teiginys: "Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ media_all_json: |-
     lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,
     rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
     mės druska.
-  citata_rodoma: |
-    Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
+  citata_rodoma: "Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20995
+    - t-001

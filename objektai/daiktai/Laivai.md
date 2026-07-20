@@ -15,10 +15,6 @@ datos:
   - '1383 m.'
 date_start: '1160'
 date_end: '1383'
-variantai:
-  - 'Sieliai'
-aliases:
-  - 'objektai/daiktai/Sieliai'
 amziai:
   - 'XII'
   - 'XIV'
@@ -70,8 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12313"></a>
-- t-001
-  global_id: t-12313
+- t-005
   teiginys: "1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,8 +86,7 @@ Nenurodyta
     - c-163179
 
 <a id="claim-t-12314"></a>
-- t-002
-  global_id: t-12314
+- t-006
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -111,8 +105,7 @@ Nenurodyta
     - c-163180
 
 <a id="claim-t-179482"></a>
-- t-003
-  global_id: t-179482
+- t-007
   teiginys: "Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +121,7 @@ Nenurodyta
     - c-163187
 
 <a id="claim-t-179483"></a>
-- t-004
-  global_id: t-179483
+- t-009
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,8 +137,7 @@ Nenurodyta
     - c-163186
 
 <a id="claim-t-179484"></a>
-- t-005
-  global_id: t-179484
+- t-003
   teiginys: "1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -166,8 +157,7 @@ Nenurodyta
     - c-163181
 
 <a id="claim-t-179485"></a>
-- t-006
-  global_id: t-179485
+- t-002
   teiginys: "1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -187,10 +177,9 @@ Nenurodyta
     - c-163181
 
 <a id="claim-t-179486"></a>
-- t-007
-  global_id: t-179486
+- t-004
   teiginys: "Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -202,11 +191,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05231
-    - c-163185
 
 <a id="claim-t-179487"></a>
-- t-008
-  global_id: t-179487
+- t-010
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -225,8 +212,7 @@ Nenurodyta
     - c-163180
 
 <a id="claim-t-179488"></a>
-- t-009
-  global_id: t-179488
+- t-008
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -242,8 +228,7 @@ Nenurodyta
     - c-163178
 
 <a id="claim-t-179490"></a>
-- t-010
-  global_id: t-179490
+- t-017
   teiginys: "Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -259,10 +244,9 @@ Nenurodyta
     - c-163183
 
 <a id="claim-t-192502"></a>
-- t-011
-  global_id: t-192502
+- t-018
   teiginys: "Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -278,10 +262,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175292
-    - c-010
+
 <a id="claim-t-194182"></a>
-- t-012
-  global_id: t-194182
+- t-019
   teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -293,8 +276,7 @@ Nenurodyta
     - c-176792
 
 <a id="claim-t-200941"></a>
-- t-013
-  global_id: t-200941
+- t-020
   teiginys: "To dėjęsi, piktadėjai teutonų, paskui nuo žemai čių vokyčiais pramanyti, vadinami saksonys, vestfalionys, frizionys, apsiginklavę ir penu apsiveizėję, kėlės į Padaugavį eiti, kurių būrį Bertoldas vysku pas, Liubeko mieste surinkęs, leidos laivais jūra pagal."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -517,20 +499,24 @@ Nenurodyta
   santrauka: 'Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Šie, susirinkę labai daug savo valčių, stojo
-    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
-    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
-    rusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,
+    Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
+    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192502
+  statusas: verified
+
 ## Citatos
 
 - id: c-05231
@@ -546,7 +532,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179486
+    - t-004
+
 - id: c-163178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -580,7 +567,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179488
+    - t-008
+
 - id: c-163179
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -594,18 +582,15 @@ Nenurodyta
     užtrukus, Kęstutis išgirdo, kad galingas Jogailos šalininkas Di­
     mitras Kaributas, Novgorodo Sieversko valdytojas, atsisakė jo
     klausyti ir mokėti duoklę didžiojo kunigaikščio iždui.
-  citata_rodoma: |
-    Jis darė 1382 m. sausio mėn. žygius į jo
-    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
-    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
-    sustojo ties Jurbarku.
+  citata_rodoma: "Jis darė 1382 m. sausio mėn. žygius į jo\nžemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­\nmotomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir\nsustojo ties Jurbarku."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12313
+    - t-005
+
 - id: c-163180
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -620,20 +605,16 @@ Nenurodyta
     no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
-  citata_rodoma: |
-    Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+  citata_rodoma: "Gavęs Jogai­\nlos apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­\npos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­\nlos ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­\nno seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12314
-    - t-179487
+    - t-006
+    - t-010
+
 - id: c-163181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -646,20 +627,16 @@ Nenurodyta
     atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
     lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
-  citata_rodoma: |
-    Kai 1313 m. kry­
-    žiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »
-    atplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,
-    lietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su
-    100 laivų, kurie priešą nuvijo, o laivą sudegino^21.
+  citata_rodoma: "Kai 1313 m. kry­\nžiuočiai, pasistatę «karo laivą su sienomis ir daug kitų laivų »\natplaukė pulti Junigėdos, «išgirdęs apie to laivo sukeltą garsą,\nlietuvių karalius » Vytenis atsiuntė narsų kilmingąjį Surminą su\n100 laivų, kurie priešą nuvijo, o laivą sudegino^21."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179484
-    - t-179485
+    - t-003
+    - t-002
+
 - id: c-163183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -673,18 +650,15 @@ Nenurodyta
     dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
     nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
     jie bus turėję ir laivų.
-  citata_rodoma: |
-    Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
-    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
-    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
-    jie bus turėję ir laivų.
+  citata_rodoma: "Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai\ndažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-\nnijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi\njie bus turėję ir laivų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179490
+    - t-017
+
 - id: c-163185
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -695,16 +669,13 @@ Nenurodyta
     lietuviai skaudžiai pralaimėjo. Prie ano meto didžių skaičių pamė­
     gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
     rygiečių^35.
-  citata_rodoma: |
-    Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
-    lietuviai skaudžiai pralaimėjo.
+  citata_rodoma: "Su rygiečiais atvykę laivais griauti Neuermühleno pilies,\nlietuviai skaudžiai pralaimėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179486
 - id: c-163186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -721,25 +692,15 @@ Nenurodyta
     įplaukė į Nemuną. Mūsų istorikai
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
-  citata_rodoma: |
-    9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
+  citata_rodoma: "9 4 .\n52\nTas žygis buvo paskubomis ir slap­\nta suruoštas, ir todėl didysis magist­\nras tuokart mažai teturėjo svetimša­\nlių, juk nesigarsino po visą Europą, \no slapčia iš Marienburgo išplaukė \nVysla laivais, paskui jūros įlanka \nįplaukė į Nemuną. Mūsų istorikai \nbendrais bruožais ir ne taip išsamiai \napie šitai pasakoja."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179483
+    - t-009
+
 - id: c-163187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -765,25 +726,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179482
+    - t-007
+
 - id: c-175292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis sutriuškinimas buvęs toks ¡baisus,
-    jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
-    veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
-    riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
-    Toji įlanka gal buvo senovės Rusnia, šiandien Kuršių ma­
-    rios, turėjusi prie Rasytės susisiekimą su jūra. Pasakoji­
-    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
-    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
-    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
-    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
-    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
-    Onevu, perėjimą į priešo pusę.
-  citata_rodoma: |
     Šie, susirinkę labai daug savo valčių, stojo
     į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
     nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
@@ -791,13 +740,15 @@ Nenurodyta
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
     veik iš naujo grumtis su sudužusiomis valtimis ir plūdu­
     riuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką.
+  citata_rodoma: "Šie, susirinkę labai daug savo valčių, stojo\nį mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su\nnedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas\nrusų jūros pajėgas. Sis sutriuškinimas buvęs toks ¡baisus,\njog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­\nveik iš naujo grumtis su sudužusiomis valtimis ir plūdu­\nriuojančiais lavonais, kurie ¡buvo tarsi užkloję visą įlanką."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192502
+    - t-018
+
 - id: c-176792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -829,10 +780,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194182
+    - t-019
+
 - id: c-184291
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsi, piktadėjai teutonų, paskui nuo žemai­
     čių vokyčiais pramanyti, vadinami saksonys, vest-
@@ -854,7 +807,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200941
+    - t-020
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
 - Laivai priklausė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -43,9 +43,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 <a id="claim-t-89794"></a>
 - t-001
-  global_id: t-89794
   teiginys: "Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Kulmenzė: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -58,10 +57,9 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   semantiniai_rysiai: "Helmerichas buvo palaidotas Kulmenzė (0.95)"
   pagrindžia:
     - c-85730
-    - c-001
+
 <a id="claim-t-89795"></a>
 - t-002
-  global_id: t-89795
   teiginys: "Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 <a id="claim-t-89796"></a>
 - t-003
-  global_id: t-89796
   teiginys: "Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 <a id="claim-t-196467"></a>
 - t-004
-  global_id: t-196467
   teiginys: "Helmerichas užpuolė Sandomiro kraš- 1265 m e ta i tą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -110,7 +106,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 <a id="claim-t-197089"></a>
 - t-005
-  global_id: t-197089
   teiginys: "Helmerichas deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89794
+
 ## Citatos
 
 - id: c-85730
@@ -148,28 +142,20 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tą pačią dieną jie norėjo užkariauti sembų kuorus
-    [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
-    nes vargu ar per likusias valandas tą dieną būtų baigę šias smarkias kautynes. Išaušus,
-    kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
-    nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią. Šitai sužinojęs, Julicho
-    grafas irgi pasitraukė su savo kariuomene, nė nenujausdamas, jog jam paspęsti spąstai.
-    Brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
-    vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
-    atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.
-  citata_rodoma: |
     Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
 
        Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
     palaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
     įgudęs kariauti ir Kristui atsidavęs vyras.
+  citata_rodoma: "Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais\n\n   Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o\npalaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,\nįgudęs kariauti ir Kristui atsidavęs vyras."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89794
+    - t-001
+
 - id: c-85731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -193,9 +179,10 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89795
-    - t-89796
-    - t-197089
+    - t-002
+    - t-003
+    - t-005
+
 - id: c-178707
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -217,7 +204,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196467
+    - t-004
+
 ## Ryšiai
-- Helmerichas mirė [[objektai/vietos/Lubava]]
-- Helmerichas buvo palaidotas [[objektai/vietos/Kulmenzė]]
+- Helmerichas mirė Lubava
+- Helmerichas buvo palaidotas Kulmenzė

@@ -44,25 +44,11 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194063"></a>
-- t-001
-  global_id: t-194063
-  teiginys: 'Lietuvos metraštis pasakoja, kad po Algirdo mirties Jogaila išaukštino Vaidilą ir ištekino už jo savo seserį Mariją, kas supykdė Kęstutį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis į Vaidilą ir palikta kronikos pasakojimo atribucija. Nepridėta daugiau apie Jogailos susitarimą su vokiečiais, nes citata to dar nepateikia.'
-  pagrindžia:
-    - c-176676
-
-## Citatos
-
-- id: c-176676
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad po Algirdo mirties Jogaila išaukštino Vaidilą ir ištekino už jo savo seserį Mariją, kas supykdė Kęstutį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
     do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
@@ -78,10 +64,8 @@ Nenurodyta
     pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
     sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
     delę galią pas didįjį kunigaikštį Jogailą.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194063
+  statusas: not_found

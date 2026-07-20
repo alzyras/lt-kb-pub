@@ -7,12 +7,12 @@ datos:
   - '1645 m.'
 date_start: '1645'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202084"></a>
 - t-001
-  global_id: t-202084
   teiginys: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją giminaičiui Jonui Jasudavičiui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202084
+    - t-001

@@ -8,10 +8,10 @@ datos:
   - '1589 m.'
 date_start: '1586'
 date_end: '1589'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ media_all_json: |-
 
 <a id="claim-t-201882"></a>
 - t-001
-  global_id: t-201882
   teiginys: "1586 m. jau minimi audėjų cecho seniūnai, o privilegija išliko vėlesnė - 1589 m. Zigmanto Vazos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201882
+    - t-001

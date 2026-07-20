@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47802"></a>
-- t-001
-  global_id: t-47802
+- t-002
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-30986
 
 <a id="claim-t-47803"></a>
-- t-002
-  global_id: t-47803
+- t-001
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -106,17 +104,12 @@ Nenurodyta
     Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
     (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
     mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
-  citata_rodoma: |
-    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
-    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
-    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
-    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
-    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
+  citata_rodoma: "Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­\nsisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,\nJonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »\n(Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­\nmą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47802
-    - t-47803
+    - t-002
+    - t-001

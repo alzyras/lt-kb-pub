@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196216"></a>
-- t-001
-  global_id: t-196216
+- t-002
   teiginys: "Kojelavičiaus pasakojime karalius atmetė maskvėnų skundus ir laiškuose uždraudė minėti Maskvos caro bei Livonijos valdovo titulus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Nenurodyta
     - c-178580
 
 <a id="claim-t-196217"></a>
-- t-002
-  global_id: t-196217
+- t-003
   teiginys: "Kojelavičiaus pasakojime Ketleris ir Livonijos luomų atstovai nutarė, kad Livonija sueina į sąjungą su Lietuva ir pereina į Žygimanto Augusto globą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196216
+    - t-002
+
 - id: c-178581
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -134,4 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196217
+    - t-003

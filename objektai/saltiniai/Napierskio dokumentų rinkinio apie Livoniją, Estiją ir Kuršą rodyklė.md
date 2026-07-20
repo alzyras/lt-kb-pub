@@ -31,7 +31,6 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
 
 <a id="claim-t-88456"></a>
 - t-001
-  global_id: t-88456
   teiginys: "Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88456
+    - t-001

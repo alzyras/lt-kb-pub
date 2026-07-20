@@ -30,9 +30,8 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
 
 <a id="claim-t-190428"></a>
 - t-001
-  global_id: t-190428
   teiginys: "Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracijaus veikalu „Historia Gottorum“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,26 +47,7 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173311
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracijaus veikalu „Historia Gottorum“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aiškiai matyti, kad
-    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
-    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
-    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
-    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
-    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
-    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190428
+
 ## Citatos
 
 - id: c-173311
@@ -82,18 +62,11 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
     tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
     Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
     buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
-  citata_rodoma: |
-    Aiškiai matyti, kad
-    jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­
-    kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
-    jo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas
-    tuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina
-    Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
-    buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
+  citata_rodoma: "Aiškiai matyti, kad\njam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­\nkankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi\njo nobilior beveik nieko daugiau nepasako. Tačiau Jerošinas\ntuo klausimu, matyt, turėjo jau daugiau žinių, nes krivį vadina\nObriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir\nbuvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190428
+    - t-001

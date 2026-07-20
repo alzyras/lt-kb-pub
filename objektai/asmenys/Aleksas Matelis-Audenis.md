@@ -39,7 +39,6 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
 
 <a id="claim-t-39481"></a>
 - t-001
-  global_id: t-39481
   teiginys: "1949 m. Aleksas Matelis-Audenis buvo Algimanto apygardos organizacinio skyriaus viršininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39481
+    - t-001

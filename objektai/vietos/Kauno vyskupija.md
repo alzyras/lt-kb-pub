@@ -37,7 +37,6 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 
 <a id="claim-t-32236"></a>
 - t-001
-  global_id: t-32236
   teiginys: "Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
     ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
     kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
     čius » (1923) 81a.
-  citata_rodoma: |
-    Plačiai pasiremdamas Kauno vyskupijos
-    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
-    čius » (1923) 81a.
+  citata_rodoma: "Plačiai pasiremdamas Kauno vyskupijos\nkurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­\nčius » (1923) 81a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32236
+    - t-001

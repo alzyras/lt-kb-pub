@@ -31,9 +31,8 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
 
 <a id="claim-t-191290"></a>
 - t-001
-  global_id: t-191290
   teiginys: "Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose kartu su žymesniais ponais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,28 +48,7 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174172
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose kartu su žymesniais ponais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    135
 
-    ## Puslapis 133
-
-    kurio laime labai tikėjo, negu gėdingas grandines. Jų
-    vadas Kotiaih ar Komnat, Iyomotas, krito su ginklu ran­
-    kose, o drauge su juo visi žymesni ponai. Lenkų ¡grobiu
-    tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
-    lėjo ¡prieš jų valių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191290
 ## Citatos
 
 - id: c-174172
@@ -87,20 +65,11 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
     kose, o drauge su juo visi žymesni ponai. Lenkų ¡grobiu
     tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
     lėjo ¡prieš jų valių.
-  citata_rodoma: |
-    135
-
-    ## Puslapis 133
-
-    kurio laime labai tikėjo, negu gėdingas grandines. Jų
-    vadas Kotiaih ar Komnat, Iyomotas, krito su ginklu ran­
-    kose, o drauge su juo visi žymesni ponai. Lenkų ¡grobiu
-    tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
-    lėjo ¡prieš jų valių.
+  citata_rodoma: "135\n\n## Puslapis 133\n\nkurio laime labai tikėjo, negu gėdingas grandines. Jų\nvadas Kotiaih ar Komnat, Iyomotas, krito su ginklu ran­\nkose, o drauge su juo visi žymesni ponai. Lenkų ¡grobiu\ntapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­\nlėjo ¡prieš jų valių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191290
+    - t-001

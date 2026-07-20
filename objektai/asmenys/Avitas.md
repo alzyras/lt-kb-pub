@@ -31,7 +31,6 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
 
 <a id="claim-t-191371"></a>
 - t-001
-  global_id: t-191371
   teiginys: "Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
 
 <a id="claim-t-197714"></a>
 - t-002
-  global_id: t-197714
   teiginys: "Einanti savo politinio gyvenimo saulė lydžio link galinga Cezarių valstybė 457 metais, kai aukščiausias svebų samdytas karvedys Ricimeras, pa ėmęs valdžią į savo rankas, pademonstravo ypatingą silpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs Avitas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,5 +87,5 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191371
-    - t-197714
+    - t-001
+    - t-002

@@ -30,7 +30,6 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
 
 <a id="claim-t-191749"></a>
 - t-001
-  global_id: t-191749
   teiginys: "Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įlanka ir to paties pavadinimo miestelis prie Boristenio ir Bugo žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174631
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įlanka ir to paties pavadinimo miestelis prie Boristenio ir Bugo žiočių.'
@@ -71,8 +70,7 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191749
+
 ## Citatos
 
 - id: c-174631
@@ -98,23 +96,11 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
     įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
-  citata_rodoma: |
-    Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
-    ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
-    ir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­
-    ristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­
-    bant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­
-    pinynas, negalima atmesti prielaidos, kad buvę ir kitų
-    vietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­
-    tais pavadinimais; tuo atveju, jei šis žymus geografas
-    nesuklydo remdamasis žiniomis, surinktomis iš pernelyg
-    įvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai
-    nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
-    pavadinimo miestui.
+  citata_rodoma: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­\nga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine\nir to p.aties pavadinimo miestelis, esantis prie žiočių Bo­\nristenio ir Bugo, šio autoriaus vadinto Btigus2. Bet, kal­\nbant apie Gero upę, o ypač apie kraštą, kur yra skitų ka­\npinynas, negalima atmesti prielaidos, kad buvę ir kitų\nvietų su panašiais, anksčiau ar vėliau Plinijaus užrašy­\ntais pavadinimais; tuo atveju, jei šis žymus geografas\nnesuklydo remdamasis žiniomis, surinktomis iš pernelyg\nįvairių šaltinių, nes senovės Skitijos žemėlapių leidėjai\nnemokėjo rasti vietos jo Carcinites** įlankai ir to paties\npavadinimo miestui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191749
+    - t-001

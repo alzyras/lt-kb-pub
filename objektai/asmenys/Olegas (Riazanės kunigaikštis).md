@@ -32,7 +32,6 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 
 <a id="claim-t-87808"></a>
 - t-001
-  global_id: t-87808
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,30 +73,14 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
     VILNIAUS MIESTO ISTORIJA / TOMAS
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
-  citata_rodoma: |
-    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
-    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
-    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
-    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
-    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
-    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
-    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
-    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
-    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
-    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
-    139
-
-    ## Puslapis 156
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
-    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+  citata_rodoma: "Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­\nventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- \njaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam \nnepanorus mokėti nuo Seversko duoklės kaipo viršesniam \nvaldovui, sumušęs pradinėse kautynėse prie Nedokudo- \nvo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs \npatį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­\ngaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur \ngana ilgai buvo saugomas sargybos, kol, atkakliai prašant \nir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo\n139\n\n## Puslapis 156\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npaleistas ir iš Seversko valstybės, jau prijungtos prie Lie­\ntuvos, perkeltas į Volumes ir Podolės didžiules vaidas55."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87808
+    - t-001
+
 ## Ryšiai
 - Olegas (Riazanės kunigaikštis) rėmė [[objektai/asmenys/Dmitrijus Kaributas]]

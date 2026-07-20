@@ -60,8 +60,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 ## Teiginiai
 
 <a id="claim-t-47944"></a>
-- t-001
-  global_id: t-47944
+- t-003
   teiginys: "Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -77,8 +76,7 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     - c-32689
 
 <a id="claim-t-47945"></a>
-- t-002
-  global_id: t-47945
+- t-004
   teiginys: "Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -115,7 +113,8 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47945
+    - t-004
+
 - id: c-32689
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -130,17 +129,11 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
     Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
     dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
-  citata_rodoma: |
-    Stryjkovskis ne­
-    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
-    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
-    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
-    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
-    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
+  citata_rodoma: "Stryjkovskis ne­\ngalėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri\nteišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose\npas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris\nStryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­\ndotas »^20 nuoširdžiai persiėmė Lietuvos reikalais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47944
+    - t-003

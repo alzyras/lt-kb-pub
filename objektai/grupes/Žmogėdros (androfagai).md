@@ -31,9 +31,8 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
 
 <a id="claim-t-189507"></a>
 - t-001
-  global_id: t-189507
   teiginys: "Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vakarų lietuvių kraštus puldinėjusią grėsmę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,27 +48,7 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172395
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vakarų lietuvių kraštus puldinėjusią grėsmę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasak mūsų šiaurės is­
-    torijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių
-    dangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­
-    gėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo
-    lietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė
-    naikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­
-    rės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­
-    mides savo dievų garbei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189507
+
 ## Citatos
 
 - id: c-172395
@@ -77,17 +56,6 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
-    tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
-    vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
-    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota.
-  citata_rodoma: |
     Pasak mūsų šiaurės is­
     torijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių
     dangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­
@@ -96,10 +64,11 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
     naikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­
     rės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­
     mides savo dievų garbei.
+  citata_rodoma: "Pasak mūsų šiaurės is­\ntorijos, Lietuvos kraštai senovės laikais kentėjo nuo panašių\ndangaus rykščių. Tarp kitų, mažiau įsimintinų, pasirodė žmo­\ngėdrų (androfagų) tauta, kuri iš šiaurės ir vakarų * užpuldavo\nlietuvių kraštus. Kiekvienas tos laukinės tautos žingsnis reiškė\nnaikinimą: jie imdavo žmones į nelaisvę ir, nusivarę prie šiau­\nrės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­\nmides savo dievų garbei."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189507
+    - t-001

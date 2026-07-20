@@ -31,7 +31,6 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
 
 <a id="claim-t-194862"></a>
 - t-001
-  global_id: t-194862
   teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194862
+    - t-001

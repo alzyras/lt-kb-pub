@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40695"></a>
 - t-001
-  global_id: t-40695
   teiginys: "Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ Nenurodyta
     http://sammler.ru/uploads/post-622-1333798270.jpg
 
     p. 190, Vokiečių kariai, Alvydo Tamošiūno nuotr.
-  citata_rodoma: |
-    p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.
-    http://sammler.ru/uploads/post-622-1333798270.jpg
-
-    p.
+  citata_rodoma: "p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.\nhttp://sammler.ru/uploads/post-622-1333798270.jpg\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40695
+    - t-001

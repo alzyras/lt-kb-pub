@@ -37,7 +37,6 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 
 <a id="claim-t-42349"></a>
 - t-001
-  global_id: t-42349
   teiginys: "1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,18 +70,11 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
     šias Aukso ordai buvusias paval-
     džias žemes prijungdamas prie LDK.
     1396 m.
-  citata_rodoma: |
-    Tų metų ru-
-    denį Vytauto nurodymu Skirgaila,
-    žygiuodamas iš Kijevo į pietus,
-    paėmė Čerkasus ir Zvenigorodą,
-    šias Aukso ordai buvusias paval-
-    džias žemes prijungdamas prie LDK.
-    1396 m.
+  citata_rodoma: "Tų metų ru-\ndenį Vytauto nurodymu Skirgaila,\nžygiuodamas iš Kijevo į pietus,\npaėmė Čerkasus ir Zvenigorodą,\nšias Aukso ordai buvusias paval-\ndžias žemes prijungdamas prie LDK.\n1396 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42349
+    - t-001

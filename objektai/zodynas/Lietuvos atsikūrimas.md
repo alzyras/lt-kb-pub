@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-38725"></a>
 - t-001
-  global_id: t-38725
   teiginys: "1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +87,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38725
+    - t-001
+
 - id: c-167104
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,3 +102,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

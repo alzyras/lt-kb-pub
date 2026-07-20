@@ -33,7 +33,6 @@ Vorobjovas Žydmiestį apibūdino kaip Vilniaus vietą su skylėmis, pereinamais
 
 <a id="claim-t-200813"></a>
 - t-001
-  global_id: t-200813
   teiginys: "Vorobjovas Žydmiestį apibūdino kaip Vilniaus vietą su skylėmis, pereinamais kiemais, užkaboriais, purvu ir smarve."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Vorobjovas Žydmiestį apibūdino kaip Vilniaus vietą su skylėmis, pereinamais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200813
+    - t-001

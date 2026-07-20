@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-77906"></a>
 - t-001
-  global_id: t-77906
   teiginys: "1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77906
+    - t-001

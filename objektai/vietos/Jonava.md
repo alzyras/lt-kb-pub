@@ -31,7 +31,6 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 
 <a id="claim-t-02477"></a>
 - t-001
-  global_id: t-02477
   teiginys: "Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
     Tuo tarpu rusai atsiėmė
     Ukmergę, Jonavą ir Šiau-
     lius.
-  citata_rodoma: |
-    Tuo tarpu rusai atsiėmė
-    Ukmergę, Jonavą ir Šiau-
-    lius.
+  citata_rodoma: "Tuo tarpu rusai atsiėmė\nUkmergę, Jonavą ir Šiau-\nlius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02477
+    - t-001

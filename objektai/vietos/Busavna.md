@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-192868"></a>
 - t-001
-  global_id: t-192868
   teiginys: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192868
+    - t-001

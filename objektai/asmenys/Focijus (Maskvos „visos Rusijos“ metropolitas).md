@@ -39,8 +39,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
 ## Teiginiai
 
 <a id="claim-t-93198"></a>
-- t-001
-  global_id: t-93198
+- t-002
   teiginys: "Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-88598
 
 <a id="claim-t-93199"></a>
-- t-002
-  global_id: t-93199
+- t-010
   teiginys: "Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   pagrindžia:
     - c-88598
 
-<a id="claim-t-93203"></a>
-- t-003
-  global_id: t-93203
+<a id="claim-t-93200"></a>
+- t-009
   teiginys: "1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,11 +92,11 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia aiškų faktą apie Focijų, o pradinis teiginys yra apie platesnį kontekstą."
   pagrindžia:
-    - c-36288
     - c-88595
+    - c-36288
+
 <a id="claim-t-93201"></a>
-- t-004
-  global_id: t-93201
+- t-005
   teiginys: "Po Cemblako mirties Vytautas susitaikė su Maskvos „visos Rusijos“ metropolitu Focijumi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -115,8 +112,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-36293
 
 <a id="claim-t-93202"></a>
-- t-005
-  global_id: t-93202
+- t-003
   teiginys: "Focijus siuntė Lietuvos stačiatikiams raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -133,7 +129,6 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
 
 <a id="claim-t-93204"></a>
 - t-006
-  global_id: t-93204
   teiginys: "Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,8 +144,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-36291
 
 <a id="claim-t-93205"></a>
-- t-007
-  global_id: t-93205
+- t-004
   teiginys: "1421 m. Vytautas pripažino Maskvos Focijų Kijevo metropolitu."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -169,8 +163,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-167642
 
 <a id="claim-t-93206"></a>
-- t-008
-  global_id: t-93206
+- t-007
   teiginys: "Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,8 +182,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-167642
 
 <a id="claim-t-93207"></a>
-- t-009
-  global_id: t-93207
+- t-008
   teiginys: "Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -227,10 +219,12 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     Maskvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-36291
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -245,22 +239,16 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
     čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
     Cemblaką, o kiti — Focijų.
-  citata_rodoma: |
-    Lietuvos stačiatikiams Focijus bu­
-    vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo
-    Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­
-    tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą
-    Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
-    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
-    Cemblaką, o kiti — Focijų.
+  citata_rodoma: "Lietuvos stačiatikiams Focijus bu­\nvo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo\nRytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­\ntremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą\nMaskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­\nčiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų\nCemblaką, o kiti — Focijų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93202
-    - t-93204
+    - t-003
+    - t-006
+
 - id: c-36293
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -273,20 +261,16 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     tropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia
     titano planams užstojo kelią apystovos, amžiais augusios tra­
     dicijos.
-  citata_rodoma: |
-    Jam mirus, Vytautas susitaikino su
-    Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­
-    tropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia
-    titano planams užstojo kelią apystovos, amžiais augusios tra­
-    dicijos.
+  citata_rodoma: "Jam mirus, Vytautas susitaikino su\nMaskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­\ntropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia\ntitano planams užstojo kelią apystovos, amžiais augusios tra­\ndicijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93201
-    - t-93207
+    - t-005
+    - t-008
+
 - id: c-88595
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -304,24 +288,15 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų
     (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos
     Rusijos ir Lietuvos stačiatikių reikalai.
-  citata_rodoma: |
-    Teodozijų, kaipo kan­
-    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
-    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
-    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
-    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
-    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas. Jo
-    vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs
-    rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų
-    (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos
-    Rusijos ir Lietuvos stačiatikių reikalai.
+  citata_rodoma: "Teodozijų, kaipo kan­\ndidatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo\npainformavę apie Vytauto sumanymus atitraukti Lietuvos sta­\nčiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­\ntuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­\nse kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas. Jo\nvieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs\nrusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų\n(1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos\nRusijos ir Lietuvos stačiatikių reikalai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93203
+    - t-009
+
 - id: c-88598
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -338,25 +313,16 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     tus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­
     jus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,
     bet, atvykus jam 1414 m. į Lietuvą, Vytautas jo nepriėmė.
-  citata_rodoma: |
-    Tad Vytautas pastatė Focijui sąlygą, kad apsigy­
-    ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­
-    vos valstybę retai kada teužsukdamas. Lietuvos stačiatikiai vys­
-    kupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas,
-    kad Focijus išveža į Maskvą bažnytinius turtus. Remdamasis
-    skundu, Vytautas užgynė Focijui lankyti Lietuvos stačiatikių
-    bažnyčias, rinkti mokesčius, gabenti Maskvon bažnytinius daik­
-    tus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­
-    jus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,
-    bet, atvykus jam 1414 m.
+  citata_rodoma: "Tad Vytautas pastatė Focijui sąlygą, kad apsigy­\nventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­\nvos valstybę retai kada teužsukdamas. Lietuvos stačiatikiai vys­\nkupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas,\nkad Focijus išveža į Maskvą bažnytinius turtus. Remdamasis\nskundu, Vytautas užgynė Focijui lankyti Lietuvos stačiatikių\nbažnyčias, rinkti mokesčius, gabenti Maskvon bažnytinius daik­\ntus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­\njus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,\nbet, atvykus jam 1414 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93198
-    - t-93199
+    - t-002
+    - t-010
+
 - id: c-167642
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -379,5 +345,5 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93205
-    - t-93206
+    - t-004
+    - t-007

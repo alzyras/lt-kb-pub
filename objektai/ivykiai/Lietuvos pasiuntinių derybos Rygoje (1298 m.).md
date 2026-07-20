@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31447"></a>
 - t-001
-  global_id: t-31447
   teiginys: "1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,15 +83,11 @@ Nenurodyta
     1298 atvykę Rygon sutarties reikalu, pareiškė, jog lietuviai, Min­
     daugo pavyzdžiu, norį jungtis su krikščionimis ir krikštytis. Savo
     pažadus jie dar patvirtino pagoniško papročio priesaika^32.
-  citata_rodoma: |
-    Tad Rygos arkivyskupo paraginti, Lietuvos pasiuntiniai,
-    1298 atvykę Rygon sutarties reikalu, pareiškė, jog lietuviai, Min­
-    daugo pavyzdžiu, norį jungtis su krikščionimis ir krikštytis. Savo
-    pažadus jie dar patvirtino pagoniško papročio priesaika^32.
+  citata_rodoma: "Tad Rygos arkivyskupo paraginti, Lietuvos pasiuntiniai,\n1298 atvykę Rygon sutarties reikalu, pareiškė, jog lietuviai, Min­\ndaugo pavyzdžiu, norį jungtis su krikščionimis ir krikštytis. Savo\npažadus jie dar patvirtino pagoniško papročio priesaika^32."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31447
+    - t-001

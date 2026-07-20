@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189867"></a>
 - t-001
-  global_id: t-189867
   teiginys: "Narbuto aprašyme laidotuvėse svarbiausios buvo raudotojos, nes manyta, kad jų raudos nuramina vėles."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-189868"></a>
 - t-002
-  global_id: t-189868
   teiginys: "Narbutas raudotojas aprašė kaip jaunas stiprių plaučių moteris, kurios nuo mirties iki kūno nuleidimo į kapą be perstojo klykia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Nenurodyta
 
 <a id="claim-t-189869"></a>
 - t-003
-  global_id: t-189869
   teiginys: "Narbutas rašė, kad net neturtingų žmonių laidotuvėse kuri nors moteris iš dievobaimingumo turėjo paklykauti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189867
+    - t-001
+
 - id: c-172751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,7 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189868
+    - t-002
+
 - id: c-172752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -164,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189869
+    - t-003

@@ -31,9 +31,8 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
 
 <a id="claim-t-191295"></a>
 - t-001
-  global_id: t-191295
   teiginys: "Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo kariuomenėje kovėsi jotvingiai, mozūrai ir prūsai."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,32 +49,10 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174177
-    - c-001
 - susijęs iš [[objektai/asmenys/Kadlubekas.md#claim-t-191348|Kadlubekas]]: Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje prieš Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
 - susijęs iš [[objektai/asmenys/Vincentas Kadlubekas.md#claim-t-191251|Vincentas Kadlubekas]]: Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
 - susijęs iš [[objektai/autoriai/Kadlubekas.md#claim-t-191580|Kadlubekas]]: Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų.
 - susijęs iš [[objektai/autoriai/Vincentas Kadlubekas.md#claim-t-190817|Vincentas Kadlubekas]]: Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo kariuomenėje kovėsi jotvingiai, mozūrai ir prūsai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Lais­
-    vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­
-    lesėje.
-    109
-    Tų įvykių senumą ir istorinį tikroviškumą patvirtina
-    mūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­
-    rašė, kaip Maslavas kariavo su lenkų karalium Kazimie­
-    ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
-    prūsų. Tą patį sako ir Bogufalas*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191295
 ## Citatos
 
 - id: c-174177
@@ -83,19 +60,6 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vadinasi, iš­
-    plėtoję Naruševičiaus nuomonę, pateiksime dar vieną jo
-    teiginį: jis . aptinka senovės frankų istorijos rašytojo Jo­
-    no Jurgio Ekarto** žinių apie vieną gentį, kurią sudaro
-    miškų gyventojai Syluicolae\ ši gentis buvusi jazigai. Ne­
-    paisant to, jog šis istorikas daro klaidingas išvadas apie
-    čekų kilmę, iš jazigų, raštijoje liko jo iš kitų kronikų pa­
-    sisemtas pėdsakas, kad iš tikrųjų nuo seno jazigai gyve­
-    no nuošaliose ir miškingose mūsų kraštų vietovėse. Tie
-    Ekarto Jazygae Sylvicolae, be kita ko, visiškai sutampa
-    su mūsų istorikų poleksėnais, o kartu neneigia, jog jie
-    nuo seno gyvenę Polesėje.
-  citata_rodoma: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­
     lesėje.
@@ -105,10 +69,11 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
     rašė, kaip Maslavas kariavo su lenkų karalium Kazimie­
     ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
     prūsų. Tą patį sako ir Bogufalas*.
+  citata_rodoma: "Lais­\nvų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­\nlesėje.\n109\nTų įvykių senumą ir istorinį tikroviškumą patvirtina\nmūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­\nrašė, kaip Maslavas kariavo su lenkų karalium Kazimie­\nru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir\nprūsų. Tą patį sako ir Bogufalas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191295
+    - t-001

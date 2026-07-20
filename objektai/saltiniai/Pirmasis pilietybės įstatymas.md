@@ -30,7 +30,6 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
 
 <a id="claim-t-02265"></a>
 - t-001
-  global_id: t-02265
   teiginys: "Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
     lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
     žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
     yra sumokėję.
-  citata_rodoma: |
-    Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,
-    kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj ko-
-    lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
-    žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
-    yra sumokėję.
+  citata_rodoma: "Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį,\nkuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj ko-\nlonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-\nžada grąžinti kolonistams pinigus, kiek jie patys už tą žemę\nyra sumokėję."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02265
+    - t-001

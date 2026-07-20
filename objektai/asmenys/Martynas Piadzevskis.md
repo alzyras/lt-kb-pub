@@ -7,12 +7,12 @@ datos:
   - '1625 m.'
 date_start: '1625'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
 
 <a id="claim-t-202127"></a>
 - t-001
-  global_id: t-202127
   teiginys: "Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202127
+    - t-001

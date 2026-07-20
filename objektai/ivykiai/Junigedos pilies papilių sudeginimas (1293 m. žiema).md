@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62301"></a>
 - t-001
-  global_id: t-62301
   teiginys: "1293 m. žiemą magistras su kariuomene užpuolė Junigedos pilį, išžudė daug žmonių ir sudegino du jos papilius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-62840
 
 <a id="claim-t-194390"></a>
-- t-002
-  global_id: t-194390
+- t-003
   teiginys: "Apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,24 +97,12 @@ Nenurodyta
     ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
     — ant kalno, kitą — slėnyje.
     253 (246).
-  citata_rodoma: |
-    Apie Junigedos pilies papilių sudeginimą
-
-      1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
-    nevengdamas nei  didelių rūpesčių, nei gausių  išlaidų, visados pasiryžęs  aukštinti
-    tikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir
-    ją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną
-    — ant kalno, kitą — slėnyje.
-
-
-
-
-                     253 (246).
+  citata_rodoma: "Apie Junigedos pilies papilių sudeginimą\n\n  1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,\nnevengdamas nei  didelių rūpesčių, nei gausių  išlaidų, visados pasiryžęs  aukštinti\ntikėjimą ir tikinčiuosius, sutelkė visą savo kariuomenę, patraukė prie Junigedos pilies ir\nją smarkiai užpuolė. Daug žmonių išžudęs, pavertė pelenais du šios pilies papilius, vieną\n— ant kalno, kitą — slėnyje.\n\n\n\n\n                 253 (246)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62301
-    - t-194390
+    - t-001
+    - t-003

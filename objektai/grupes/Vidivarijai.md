@@ -31,7 +31,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 
 <a id="claim-t-194304"></a>
 - t-001
-  global_id: t-194304
   teiginys: "Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194304
+    - t-001

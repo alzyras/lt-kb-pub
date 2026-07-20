@@ -39,7 +39,6 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
 
 <a id="claim-t-30905"></a>
 - t-001
-  global_id: t-30905
   teiginys: "P. Kulikauskas parašė darbą „Kurmaičių (Kretingos raj.) plokštinio kapinyno tyrinėjimai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
     — Kiparski, V. : _Baltische Völker und Sprachen,_ Baltische Lande, I,
     1939, 48-59 p. — Kulikauskas, P. : _Kurmaičių (Kretingos raj.) plokštinio
     kapinyno tyrinėjimai,_ Lietuvos Istorijos instituto Darbai, 1951, 315-365p.
-  citata_rodoma: |
-    — Kulikauskas, P. : _Kurmaičių (Kretingos raj.) plokštinio
-    kapinyno tyrinėjimai,_ Lietuvos Istorijos instituto Darbai, 1951, 315-365p.
+  citata_rodoma: "— Kulikauskas, P. : _Kurmaičių (Kretingos raj.) plokštinio\nkapinyno tyrinėjimai,_ Lietuvos Istorijos instituto Darbai, 1951, 315-365p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30905
+    - t-001

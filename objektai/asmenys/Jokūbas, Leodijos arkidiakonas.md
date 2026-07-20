@@ -39,7 +39,6 @@ Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos
 
 <a id="claim-t-190163"></a>
 - t-001
-  global_id: t-190163
   teiginys: "Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos arkidiakono Jokūbo, 1249 metais prūsams duotos privilegijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190163
+    - t-001

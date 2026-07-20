@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-38549"></a>
 - t-001
-  global_id: t-38549
   teiginys: "1945 m. gegužės 14 d. NKVD duomenimis, Seminiškių miško rajone slėpėsi iki 70 rankiniais ir sunkiaisiais kulkosvaidžiais, automatais ir šautuvais ginkluotų partizanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38549
+    - t-001

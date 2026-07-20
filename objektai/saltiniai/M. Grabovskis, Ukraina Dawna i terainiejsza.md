@@ -36,7 +36,6 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
 
 <a id="claim-t-191793"></a>
 - t-001
-  global_id: t-191793
   teiginys: "M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto nuorodoje siejamas su 1850 m. leidimu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
 
 <a id="claim-t-197681"></a>
 - t-002
-  global_id: t-197681
   teiginys: "Ponas Adomas Kirkoras kasinėjo Lydos apskri tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka 1 Ukraina Dawna i terainiejsza."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,5 +89,5 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191793
-    - t-197681
+    - t-001
+    - t-002

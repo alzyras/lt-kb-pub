@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86242"></a>
 - t-001
-  global_id: t-86242
   teiginys: "Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86242
+    - t-001

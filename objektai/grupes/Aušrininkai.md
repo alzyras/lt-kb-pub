@@ -31,8 +31,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 ## Teiginiai
 
 <a id="claim-t-05242"></a>
-- t-001
-  global_id: t-05242
+- t-002
   teiginys: "Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77430
 
 <a id="claim-t-80793"></a>
-- t-002
-  global_id: t-80793
+- t-006
   teiginys: "Aušrininkai plačiai naudojosi M. Balinskio ir J. I. Kraševskio kūrybiniu palikimu apie Vilniaus ir urbanistinės Lietuvos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77432
 
 <a id="claim-t-80794"></a>
-- t-003
-  global_id: t-80794
+- t-005
   teiginys: "Aušrininkai plačiai naudojo Vilniaus ir urbanistinės Lietuvos istorijos ištakose stovėjusių asmenybių kūrybinį palikimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77432
 
 <a id="claim-t-80795"></a>
-- t-004
-  global_id: t-80795
+- t-003
   teiginys: "Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -99,8 +95,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-77430
 
 <a id="claim-t-80796"></a>
-- t-005
-  global_id: t-80796
+- t-004
   teiginys: "Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -138,21 +133,17 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
     šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
     kai ir jų tautinio palikimo tęsėjai.
-  citata_rodoma: |
-    Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
-    ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
-    kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo
-    šūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­
-    kai ir jų tautinio palikimo tęsėjai.
+  citata_rodoma: "Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis\nir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­\nkantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo\nšūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­\nkai ir jų tautinio palikimo tęsėjai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05242
-    - t-80795
-    - t-80796
+    - t-002
+    - t-003
+    - t-004
+
 - id: c-77432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,19 +159,12 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     linskis pasisakė už bendrą Lenkijos ir istorinės Lietuvos politi­
     nę ateitį, bet jis pripažino LDK istorinį savarankiškumą ir net
     panaudojo jį gindamas savo politines pažiūras.
-  citata_rodoma: |
-    Kraševskio Vilniaus
-    istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­
-    ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
-    torinio-geografinio, o ne nacionalinio, tautos supratimo". Ap­
-    skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės
-    Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo
-    lietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M.
+  citata_rodoma: "Kraševskio Vilniaus \nistorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­\nne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is- \ntorinio-geografinio, o ne nacionalinio, tautos supratimo\". Ap­\nskritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės \nLietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo \nlietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80793
-    - t-80794
+    - t-006
+    - t-005

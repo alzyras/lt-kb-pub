@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-39147"></a>
 - t-001
-  global_id: t-39147
   teiginys: "1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39147
+    - t-001

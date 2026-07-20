@@ -31,7 +31,6 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 
 <a id="claim-t-42174"></a>
 - t-001
-  global_id: t-42174
   teiginys: "Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,23 +80,14 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     niais išskubėjo Svėdasų kryptimi.
 
     suteikdama jam pulkininko laipsnį.
-  citata_rodoma: |
-    Norėdamas atitraukti
-    rusų kariuomenės dėmėsi nuo pagrin-
-    dinių sukilėlių dalinių, Z. Sierakauskas
-    išsiuntė Kasperą Maleckį su 150 karių
-    ardyti geležinkelio komunikacijas
-    ir rinkti duomenis apie priešo judė-
-    jimą, o pats su savo pagrindiniais dali-
-    niais išskubėjo Svėdasų kryptimi.
-
-    suteikdama jam pulkininko laipsnį.
+  citata_rodoma: "Norėdamas atitraukti\nrusų kariuomenės dėmėsi nuo pagrin-\ndinių sukilėlių dalinių, Z. Sierakauskas\nišsiuntė Kasperą Maleckį su 150 karių\nardyti geležinkelio komunikacijas\nir rinkti duomenis apie priešo judė-\njimą, o pats su savo pagrindiniais dali-\nniais išskubėjo Svėdasų kryptimi.\n\nsuteikdama jam pulkininko laipsnį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42174
+    - t-001
+
 ## Ryšiai
 - Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad mickevičius J.
 
 <a id="claim-t-61179"></a>
 - t-001
-  global_id: t-61179
   teiginys: "J. Mickevičiaus „Šilalės rajono senovė“ buvo 1968 m. parengtas mašinraštis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad mickevičius J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61179
+    - t-001

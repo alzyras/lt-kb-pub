@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66493"></a>
-- t-001
-  global_id: t-66493
+- t-004
   teiginys: "1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-66708
 
 <a id="claim-t-66494"></a>
-- t-002
-  global_id: t-66494
+- t-003
   teiginys: "1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-43039
 
 <a id="claim-t-66496"></a>
-- t-003
-  global_id: t-66496
+- t-001
   teiginys: "Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,21 +128,15 @@ Nenurodyta
     kur ėmė užiminėti pa-
     talpas, plėšti gyvento-
     jus ir kitaip savivaliauti.
-  citata_rodoma: |
-    1919 m. liepos 26 d. į
-    Kuršėnus įžengė pirmieji
-    bermontininkai, vado-
-    vaujami plk. Virgoličiaus,
-    kur ėmė užiminėti pa-
-    talpas, plėšti gyvento-
-    jus ir kitaip savivaliauti.
+  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66494
+    - t-003
+
 - id: c-43040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -164,7 +155,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66496
+    - t-001
+
 - id: c-66708
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -181,4 +173,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66493
+    - t-004

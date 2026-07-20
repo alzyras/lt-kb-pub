@@ -39,8 +39,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ## Teiginiai
 
 <a id="claim-t-87598"></a>
-- t-001
-  global_id: t-87598
+- t-002
   teiginys: "Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     - c-83577
 
 <a id="claim-t-87599"></a>
-- t-002
-  global_id: t-87599
+- t-001
   teiginys: "Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    IX priedą.
+    Žr. IX priedą.
     72
     299
 
@@ -100,30 +98,15 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
     SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
     a) Iki Unijos
     1. Jachna Laurinavičius žinomas nuo - 1485 m.
-  citata_rodoma: |
-    IX priedą.
-    72
-    299
-
-    ## Puslapis 316
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    PRIEDAI
-    PRIE
-    VILNIAUS MIESTO ISTORIJOS
-    KETVIRTOSIOS KNYGOS
-    I
-    VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ
-    SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
-    a) Iki Unijos
-    1. Jachna Laurinavičius žinomas nuo - 1485 m.
+  citata_rodoma: "IX priedą.\n72\n299\n\n## Puslapis 316\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nPRIEDAI\nPRIE\nVILNIAUS MIESTO ISTORIJOS  \nKETVIRTOSIOS KNYGOS\nI\nVILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ  \nSĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ\na) Iki Unijos\n1. Jachna Laurinavičius žinomas nuo - 1485 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87598
+    - t-002
+
 - id: c-83578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -150,4 +133,4 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87599
+    - t-001

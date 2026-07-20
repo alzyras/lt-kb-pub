@@ -11,15 +11,15 @@ datos:
   - '1221 m.'
 date_start: '1221'
 date_end: ''
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-190126"></a>
 - t-001
-  global_id: t-190126
   teiginys: "Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-190993"></a>
 - t-002
-  global_id: t-190993
   teiginys: "Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-193999"></a>
 - t-003
-  global_id: t-193999
   teiginys: "APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -100,9 +97,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-194724"></a>
 - t-004
-  global_id: t-194724
   teiginys: "Narbutas teigia, kad jo, kaip dievo, garbinimą tenai įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -113,7 +109,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-196610"></a>
 - t-005
-  global_id: t-196610
   teiginys: "Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją ir pasiuntė lietuvius pulti Livonijos riterių žemių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -127,7 +122,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 
 <a id="claim-t-201041"></a>
 - t-006
-  global_id: t-201041
   teiginys: "Utenis, Žemaičių kunigaik., sukėlęs savo karėjus, ėjo prieš."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -140,6 +134,68 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-184391
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 - susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    To­
+    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
+    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
+    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
+    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais. Kunigaikš­
+    čiai Rožinskiai savo herbe pavaizdavo kryžius, kabančius ant me­
+    džio kamieno, o kiti, dar prieš Lenkijos ir Lietuvos uniją, savo
+    herbams panaudojo senuosius bajoriškus ženklus, arba, savuosius
+    užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
+    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
+    niekur jie nebuvo žinomi, pasakė nesąmonę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir dėl
+    to prie jų dėdavo tuos nagus, su kuriais jie turėsią
+    įkopti į tą kalną ir stoti dievo teisman.
+    Nors jie buvo pagonys, bet visuomet taip įsivaiz­
+    duodavo ir tikėjo vieną dievą, kad būsianti (paskuti­
+    niojo! teismo diena, ir tikėjo mirusiųjų prisikėlimą ir
+    vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
+    Paskui valdė didysis kunigaikštis Skirmantas, paliko
+    du sūnus — Trobių6 ir Giliginą7.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Narbutas teigia, kad jo, kaip dievo, garbinimą tenai įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Greta
+    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
+    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
+    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
+    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
+    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
+    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
+    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
+    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
+    bešališkumu. Viso šio dėstymo trūkumai priskirtini mūsų ne­
+    sugebėjimui, nes patys esame įsitikinę, jog talentingesnis rašy­
+    tojas, tobulesniu metodu aiškindamas šią istorijos dalį, malo­
+    1 Lettische Grammatik.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-173009
@@ -161,24 +217,13 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190126
+    - t-001
+
 - id: c-173875
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    To­
-    liau sako: „Narimantas buvo pirmasis, kuris Hipokentaurą pakeitė
-    Vytimi, Giedraitis — Rože, Daumantas — Stumbro galva; Ge­
-    diminas vietoj vieno Stulpo naudojo tris, Kaributas iš pradžių
-    turėjo Erelį su Vytimi, o vėliau — Mėnulį su Kryžiais. Kunigaikš­
-    čiai Rožinskiai savo herbe pavaizdavo kryžius, kabančius ant me­
-    džio kamieno, o kiti, dar prieš Lenkijos ir Lietuvos uniją, savo
-    herbams panaudojo senuosius bajoriškus ženklus, arba, savuosius
-    užleidę, ėmė vartoti naujus“. Tas, kuris mums išsakė priekaištą,
-    jog mes lietuvius apdovanojome herbais jau tais laikais, kai dar
-    niekur jie nebuvo žinomi, pasakė nesąmonę.
-  citata_rodoma: |
     Be to, pas Henenbergerj
     yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
     nimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo
@@ -187,28 +232,20 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     kryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­
     teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­
     liotekos.
+  citata_rodoma: "Be to, pas Henenbergerj\nyra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­\nnimą, padarytą pono Tado Volianskio, bus kalbama šio veikalo\ntrečiame tome). Tinkamai perskaičius, paaiškėja, jog tai buvo\nLietuvos kunigaikščio Utenio, kuris padėjo prūsams kovoti su\nkryžiuočiais ir kuris buvo pramintas Zupanu, vėliava. Čia gi pa­\nteikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­\nliotekos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190993
+    - t-002
+
 - id: c-176624
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir dėl
-    to prie jų dėdavo tuos nagus, su kuriais jie turėsią
-    įkopti į tą kalną ir stoti dievo teisman.
-    Nors jie buvo pagonys, bet visuomet taip įsivaiz­
-    duodavo ir tikėjo vieną dievą, kad būsianti (paskuti­
-    niojo! teismo diena, ir tikėjo mirusiųjų prisikėlimą ir
-    vieną dievą, ateisiantį gyvųjų ir mirusiųjų teisti.
-    Paskui valdė didysis kunigaikštis Skirmantas, paliko
-    du sūnus — Trobių6 ir Giliginą7.
-  citata_rodoma: |
     ## Puslapis 55
 
     12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO
@@ -219,32 +256,20 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     Šventaragiui neilgai pabuvus Naugarduko bei Rusų
     miestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­
     vos ir Žemaičių didysis kunigaikštis 3 .
+  citata_rodoma: "## Puslapis 55\n\n12. APIE KENTAURO HERBO VALDOVUS -  ŠVENTARAGĮ IR JO \nŠONŲ SKIRMANTĄ\nPonai gedėjo savo gimtojo valdovo ir išsirinko val­\ndovu ŠventaragįK entauro herbo, Lietuvos ir Žemai­\nčių kunigaikščio Utenio sūnų.\nŠventaragiui neilgai pabuvus Naugarduko bei Rusų \nmiestų kunigaikščiu, pasimirė jo tėvas Utenis2 , Lietu­\nvos ir Žemaičių didysis kunigaikštis 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193999
+    - t-003
+
 - id: c-177120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Greta
-    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
-    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
-    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
-    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
-    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
-    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
-    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
-    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
-    bešališkumu. Viso šio dėstymo trūkumai priskirtini mūsų ne­
-    sugebėjimui, nes patys esame įsitikinę, jog talentingesnis rašy­
-    tojas, tobulesniu metodu aiškindamas šią istorijos dalį, malo­
-    1 Lettische Grammatik.
-  citata_rodoma: |
     221
 
     ## Puslapis 221
@@ -256,13 +281,15 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
     Žmonės, su dėkingumu prisimindami geradarystes, patirtas
     jam gyvam esant, jį dar labiau garbino.
+  citata_rodoma: "221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.\nŽmonės, su dėkingumu prisimindami geradarystes, patirtas\njam gyvam esant, jį dar labiau garbino."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194724
+    - t-004
+
 - id: c-178796
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -295,10 +322,12 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196610
+    - t-005
+
 - id: c-184391
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Užvis kalavijonys, regėdami vykstant kryžėjams
     Paysly, tarės taip' pat laimėsią Padaugavy, todėl,
@@ -312,6 +341,7 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201041
+    - t-006
+
 ## Ryšiai
 - Utenis rėmė [[objektai/grupes/Prūsai]]

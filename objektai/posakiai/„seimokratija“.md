@@ -37,7 +37,6 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 
 <a id="claim-t-20941"></a>
 - t-001
-  global_id: t-20941
   teiginys: "1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: |
-    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+  citata_rodoma: "gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20941
+    - t-001

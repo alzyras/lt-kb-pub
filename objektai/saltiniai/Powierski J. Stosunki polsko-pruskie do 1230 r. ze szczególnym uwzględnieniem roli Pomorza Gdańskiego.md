@@ -38,7 +38,6 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61246"></a>
 - t-001
-  global_id: t-61246
   teiginys: "J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,7 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą bibliografinį faktą apie leidinį."
   pagrindžia:
     - c-61878
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m.'
@@ -68,8 +67,7 @@ Dusburgietis teigia, kad powierski J.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61246
+
 ## Citatos
 
 - id: c-61878
@@ -80,13 +78,11 @@ Dusburgietis teigia, kad powierski J.
     81—83.
     Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli
     Pomorza Gdańskiego.—Toruń, 1968.
-  citata_rodoma: |
-    Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli
-    Pomorza Gdańskiego.—Toruń, 1968.
+  citata_rodoma: "Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli\nPomorza Gdańskiego.—Toruń, 1968."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61246
+    - t-001

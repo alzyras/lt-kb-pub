@@ -7,13 +7,13 @@ datos:
   - '1757 m.'
 date_start: '1757'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - teisinis-terminas
   - sąvoka
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,54 +33,7 @@ media_all_json: |-
 
 Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose. Narbutas rašė, kad liudytojas dėdavo kepurę ant stalo prieš teisėją ir taip laiduodavo savo liudijimo sąžiningumą.
 
-## Teiginiai
-
-<a id="claim-t-189124"></a>
-- t-001
-  global_id: t-189124
-  teiginys: "Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Priesaika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dėti kepurę: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Priesaika: mention_match, thing, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dėti kepurę\" parinktas kaip owner_note_path. Targetas \"Priesaika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172012
-    - c-001
-- susijęs iš [[objektai/posakiai/Tas, kuris vežime turi pasikinkęs šešis arklius.md#claim-t-187840|Tas, kuris vežime turi pasikinkęs šešis arklius]]: Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).
-    II. 93
-    321
-
-    ## Puslapis 321
-
-    lietuvių liudijimo būdas su užkeikimu arba priesaika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189124
 - c-002
   santrauka: 'Narbutas rašė, kad liudytojas dėdavo kepurę ant stalo prieš teisėją ir taip laiduodavo savo liudijimo sąžiningumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -100,10 +53,9 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
     dytojo sąžiningumas buvo ne žaislas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 ## Citatos
 
 - id: c-172012
@@ -111,18 +63,6 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hartknochas, mėgstantis viską pritempti prie germaniš­
-    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
-    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
-    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
-    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
-    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
-    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
-    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
-    vuose išlikę duomenys iš XIII amžiaus.
-    Lietuviai nuo seniausių amžių dalijo laiką į valandas
-    (lYahmda) , o jos skirstytos į dienos ir nakties.
-  citata_rodoma: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
     siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
@@ -135,10 +75,13 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
     ## Puslapis 321
 
     lietuvių liudijimo būdas su užkeikimu arba priesaika.
+  citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189124
+## Teiginiai
+
+- susijęs iš [[objektai/posakiai/Tas, kuris vežime turi pasikinkęs šešis arklius.md#claim-t-187840|Tas, kuris vežime turi pasikinkęs šešis arklius]]: Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų.

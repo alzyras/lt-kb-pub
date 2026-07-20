@@ -48,9 +48,8 @@ Nenurodyta
 
 <a id="claim-t-189854"></a>
 - t-001
-  global_id: t-189854
   teiginys: "Narbutas požemio dievams skirtos aukos esmę apibūdino kaip apeiginį aukojamųjų dalykų užkasimą giliai žemėje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,23 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172737
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas požemio dievams skirtos aukos esmę apibūdino kaip apeiginį aukojamųjų dalykų užkasimą giliai žemėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
-    tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
-    po žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų
-    apeiginis užkasimas giliai žemėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189854
+
 ## Citatos
 
 - id: c-172737
@@ -90,23 +73,15 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Dėl savo interesų jie laikė žmones baimėje ir, da­
-    rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą
-    baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas
-    prisidėjo prie daugelio apgavysčių. Beje, baisiausia buvo Po­
-    klių pamatyti kieno nors namuose - tai reiškė aiškią dievų rūs­
-    tybę. Tokiu atveju namų savininkas tikriausiai ne su tuščiomis
-    rankomis skubėdavo pas artimiausią žynį, kuris atnašaudavo
-    permaldavimo auką.
-  citata_rodoma: |
     6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
     tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
     po žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų
     apeiginis užkasimas giliai žemėje.
+  citata_rodoma: "6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­\ntukams, genijams ir visoms mitinėms būtybėms, gyvenančioms\npo žeme. Aukojimo esmė buvo tam tikrų aukojamųjų dalykų\napeiginis užkasimas giliai žemėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189854
+    - t-001

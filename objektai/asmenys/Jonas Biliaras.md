@@ -8,12 +8,12 @@ datos:
   - '1461 m.'
 date_start: '1430'
 date_end: '1461'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp).
 
 <a id="claim-t-202093"></a>
 - t-001
-  global_id: t-202093
   teiginys: "Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp)."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202093
+    - t-001

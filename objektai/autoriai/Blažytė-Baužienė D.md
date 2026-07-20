@@ -31,7 +31,6 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
 
 <a id="claim-t-19385"></a>
 - t-001
-  global_id: t-19385
   teiginys: "D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska parašė veikalą „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,12 +56,11 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
     nius, 2005.
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia.
-  citata_rodoma: |
-    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
+  citata_rodoma: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19385
+    - t-001

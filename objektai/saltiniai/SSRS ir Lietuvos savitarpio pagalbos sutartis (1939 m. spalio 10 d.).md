@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67530"></a>
-- t-001
-  global_id: t-67530
+- t-002
   teiginys: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-23951
 
 <a id="claim-t-67531"></a>
-- t-002
-  global_id: t-67531
+- t-001
   teiginys: "1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ media_all_json: |-
 
 <a id="claim-t-183382"></a>
 - t-003
-  global_id: t-183382
   teiginys: "Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,16 +114,15 @@ media_all_json: |-
     Vokietijos už 7,5 mln. aukso dolerių).
     Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
     va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: |
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto.
+  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67530
+    - t-002
+
 - id: c-67400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,15 +136,15 @@ media_all_json: |-
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
-  citata_rodoma: |
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67531
+    - t-001
+
 - id: c-166775
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,4 +165,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183382
+    - t-003

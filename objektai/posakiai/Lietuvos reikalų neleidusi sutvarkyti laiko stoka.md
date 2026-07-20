@@ -37,7 +37,6 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 
 <a id="claim-t-67270"></a>
 - t-001
-  global_id: t-67270
   teiginys: "Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 
 <a id="claim-t-67271"></a>
 - t-002
-  global_id: t-67271
   teiginys: "Pasiteisinimas laiko stoka buvo diplomatiškas atsikalbėjimas, skirtas nesugriauti Lietuvos bajorijos vilčių."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -91,18 +89,15 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
     kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
     sutvarkyti laiko stoka.
-  citata_rodoma: |
-    Po triukšmingų puotų jis išvyko iš Vilniaus,
-    tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
-    kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
-    sutvarkyti laiko stoka.
+  citata_rodoma: "Po triukšmingų puotų jis išvyko iš Vilniaus,\ntik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-\nkindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi\nsutvarkyti laiko stoka."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67270
+    - t-001
+
 - id: c-67247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -117,15 +112,11 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: |
-    Bet tai tebuvo tik diplomatiškas atsi-
-    kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
-    kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
-    mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
+  citata_rodoma: "Bet tai tebuvo tik diplomatiškas atsi-\nkalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,\nkad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-\nmene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67271
+    - t-002

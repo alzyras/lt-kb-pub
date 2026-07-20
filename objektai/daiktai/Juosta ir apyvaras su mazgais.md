@@ -50,9 +50,8 @@ Nenurodyta
 
 <a id="claim-t-59686"></a>
 - t-001
-  global_id: t-59686
   teiginys: "Sudarę sandėrį ar sutartį, žmonės dienas iki susitarimo vykdymo žymėdavo įkirtomis medyje arba mazgais apyvaruose ar juostoje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,25 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60318
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Sudarę sandėrį ar sutartį, žmonės dienas iki susitarimo vykdymo žymėdavo įkirtomis medyje arba mazgais apyvaruose ar juostoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
-    ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
-    pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
-    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
-    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
-    pirties tiesiog kęste nekenčia.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59686
+
 ## Citatos
 
 - id: c-60318
@@ -90,24 +71,17 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
-    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
-    211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
-    tėvui, t. y. išpirktų žmoną. Galėjo tai būti praktikuojama ir XIII a., nes paprotys buvo
-    žinomas ir vėliau. XVI—XVIII a. dokumentai rodo, kad, imdamas į žmoną valstietę,
-    jaunikis turėjęs mokėti jaunosios feodalui tam tikrą mokestį, kuris buvęs vadinamas
-    kriena resp. krienu.
-  citata_rodoma: |
     Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
     ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,
     pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą
     dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
     tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
     pirties tiesiog kęste nekenčia.
+  citata_rodoma: "Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį\nar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,\npirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje. Kitą\ndieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia\ntesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti\npirties tiesiog kęste nekenčia."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59686
+    - t-001

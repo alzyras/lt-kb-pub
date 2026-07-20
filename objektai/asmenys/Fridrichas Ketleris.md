@@ -31,7 +31,6 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 
 <a id="claim-t-40109"></a>
 - t-001
-  global_id: t-40109
   teiginys: "Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 
 <a id="claim-t-40110"></a>
 - t-002
-  global_id: t-40110
   teiginys: "Lietuvos kariuomenės vadovybės vaizde Fridrichas Ketleris nurodytas J. K. Chodkevičiui iš kairės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,8 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40110
+    - t-002
+
 - id: c-44330
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -94,18 +93,11 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
     gai perplaukė upę ir prisistatė didžiajam
     etmonui. Ši akimirka labai pakėlė Lietuvos
     karių nuotaiką.
-  citata_rodoma: |
-    Kairiajame Dauguvos krante buvęs
-    Kuršo kunigaikštis Fridrichas Ketleris, ma-
-    tydamas besirikiuojančius lietuvius, savo
-    300 raitelių įsakė persikelti į dešinįjį krantą.
-    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
-    gai perplaukė upę ir prisistatė didžiajam
-    etmonui.
+  citata_rodoma: "Kairiajame Dauguvos krante buvęs\nKuršo kunigaikštis Fridrichas Ketleris, ma-\ntydamas besirikiuojančius lietuvius, savo\n300 raitelių įsakė persikelti į dešinįjį krantą.\nKuršiečiai, kartu su kunigaikščiu, sėkmin-\ngai perplaukė upę ir prisistatė didžiajam\netmonui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40109
+    - t-001

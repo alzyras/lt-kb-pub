@@ -39,8 +39,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 ## Teiginiai
 
 <a id="claim-t-11662"></a>
-- t-001
-  global_id: t-11662
+- t-002
   teiginys: "Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -56,8 +55,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     - c-14581
 
 <a id="claim-t-194946"></a>
-- t-002
-  global_id: t-194946
+- t-003
   teiginys: "O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa kalbis."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -68,13 +66,9 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   pagrindžia:
     - c-177342
 
-## Citatos
-
-- id: c-14581
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
     dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
@@ -88,19 +82,34 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: vertinimas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-14581
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
     dažnai griebdavosi sąmojaus ir lakoniškumo. O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
+  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. O kai vėl kartą jo akyse\nkažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­\nrė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­\nkalbis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11662
+    - t-002
+
 - id: c-177342
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -122,4 +131,4 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194946
+    - t-003

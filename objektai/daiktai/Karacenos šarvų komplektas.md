@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-40724"></a>
 - t-001
-  global_id: t-40724
   teiginys: "Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,13 +75,11 @@ Nenurodyta
     p. 136, XVII a. pabaigos -xvIII a. pradžios kavalerijos palašas. vDKM, Artūro Užgalio nuotr.
     p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio
     nuotr.
-  citata_rodoma: |
-    p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio
-    nuotr.
+  citata_rodoma: "p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio\nnuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40724
+    - t-001

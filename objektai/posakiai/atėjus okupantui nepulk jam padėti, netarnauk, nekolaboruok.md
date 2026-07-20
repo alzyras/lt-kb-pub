@@ -38,7 +38,6 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
 
 <a id="claim-t-77842"></a>
 - t-001
-  global_id: t-77842
   teiginys: "Po 1940–1990 m. okupacijų lietuvių visuomenė posakį „atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok“ suvokė kaip moralinę istorijos pamoką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,20 +75,11 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
     no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
     Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
     klausimai.
-  citata_rodoma: |
-    Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų
-    okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sun-
-    kią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti,
-    netarnauk, nekolaboruok – tave gali panaudoti nekilniam ar gėdingam
-    darbui, tada užsitrauksi bėdą ne tik sau, bet ir tautai, bus gėda, kai Lietuva
-    vėl išsikovos laisvę. Visuomenėje virė diskusijos dėl tų, kurie uoliai talki-
-    no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
-    Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
-    klausimai.
+  citata_rodoma: "Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų \nokupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sun-\nkią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti, \nnetarnauk, nekolaboruok – tave gali panaudoti nekilniam ar gėdingam \ndarbui, tada užsitrauksi bėdą ne tik sau, bet ir tautai, bus gėda, kai Lietuva \nvėl išsikovos laisvę. Visuomenėje virė diskusijos dėl tų, kurie uoliai talki-\nno naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į \nSibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos \nklausimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77842
+    - t-001

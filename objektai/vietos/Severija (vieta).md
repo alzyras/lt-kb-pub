@@ -33,7 +33,6 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
 
 <a id="claim-t-201153"></a>
 - t-001
-  global_id: t-201153
   teiginys: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
 ## Citatos
 
 - id: c-184503
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veltui
     nori šiandien tūli neprieteliai Lietuvos ir Žemaičių
@@ -83,4 +83,4 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201153
+    - t-001

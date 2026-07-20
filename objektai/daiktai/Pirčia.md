@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08314"></a>
 - t-001
-  global_id: t-08314
   teiginys: "Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08314
+    - t-001

@@ -7,14 +7,14 @@ datos:
   - '1430 m.'
 date_start: '1430'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,9 +38,8 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
 
 <a id="claim-t-186270"></a>
 - t-001
-  global_id: t-186270
   teiginys: "Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,25 +58,10 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
   pagrindžia:
     - c-169631
 
-<a id="claim-t-196655"></a>
-- t-002
-  global_id: t-196655
-  teiginys: "Zigmantas Rotas nepatvirtintas jokia priesaika."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169631
-
-## Citatos
-
-- id: c-169631
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Senosios draugystės pastovumui laiduoti visiškai
     užtenka ankstesnio susitarimo, nepaisant to, kad jis
@@ -95,7 +79,20 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
     to vainikavimo sukelti didžiuliai sąmyšiai iš pamatų su-
     krės krikščioniškąją valstybę, paragino Zigmantą bei
     Vytautą atsisakyti savo sumanymo.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-169631
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Viskam
     vadovauti paskyrė Joną Čar-
     nkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,
@@ -119,11 +116,11 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
     ## Puslapis 423
 
     piežiaus sutikimo ir žinios pakelti ką į karalius.
+  citata_rodoma: "Viskam\nvadovauti paskyrė Joną Čar-\nnkovskį. Šis ryžtingai įvykdė, kas jam buvo patikėta,\nsuėmė Cigalą iš Vienos bei vokietį Zigmantą Rotą;\niškratė jų nešulius ir atėmė imperatoriaus laišką, pa­\nleido juos laisvėn. Laiške štai kas buvo rašoma: ,,Be rei­\nkalo Vytautas abejoja, ar imperatorius turi galią be po-\n1430 m e ta i\nL en kai u žsto ja  keliu s,\nsu im a pa siu n tin iu s ii\na tim a  la išk u s\nP o p iežia u s\np a d e d a ­\nm as, J o g a ila  su tru k ­\nd o\nV y ta u tu i\nv a in i­\nk u o tis\n424\n\n## Puslapis 423\n\npiežiaus sutikimo ir žinios pakelti ką į karalius."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186270
-    - t-196655
+    - t-001

@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Fridrichas (riteris)
 
 ## Santrauka
@@ -29,29 +30,8 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
 
 ## Teiginiai
 
-<a id="claim-t-186203"></a>
-- t-001
-  global_id: t-186203
-  teiginys: "Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Fridrichas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridrichas (riteris): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Fridrichas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas (riteris)\" parinktas kaip owner_note_path. Targetas \"Fridrichas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169564
-
 <a id="claim-t-196451"></a>
 - t-002
-  global_id: t-196451
   teiginys: "Galustalės puotoje greta austrų riterio Kinodijaus sėdėjo Fridrichas, Meiseno markgrafas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,5 +65,4 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186203
-    - t-196451
+    - t-002

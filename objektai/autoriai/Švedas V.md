@@ -38,7 +38,6 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
 
 <a id="claim-t-39873"></a>
 - t-001
-  global_id: t-39873
   teiginys: "V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39873
+    - t-001

@@ -11,15 +11,15 @@ datos:
   - '1815 m.'
 date_start: '1342'
 date_end: '1815'
+amziai:
+  - 'XIV'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kariuomenė
   - bajorija
   - grupe
-amziai:
-  - 'XIV'
-  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +43,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 
 <a id="claim-t-193666"></a>
 - t-001
-  global_id: t-193666
   teiginys: "Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 
 <a id="claim-t-193667"></a>
 - t-002
-  global_id: t-193667
   teiginys: "Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 
 <a id="claim-t-193668"></a>
 - t-003
-  global_id: t-193668
   teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -82,9 +79,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 
 <a id="claim-t-193833"></a>
 - t-004
-  global_id: t-193833
   teiginys: "Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau savo tikėjimą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,8 +90,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176477
 
 <a id="claim-t-193835"></a>
-- t-005
-  global_id: t-193835
+- t-006
   teiginys: "Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -107,8 +102,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176479
 
 <a id="claim-t-196780"></a>
-- t-006
-  global_id: t-196780
+- t-008
   teiginys: "Miechovitos Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina lios."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -120,8 +114,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176478
 
 <a id="claim-t-196781"></a>
-- t-007
-  global_id: t-196781
+- t-009
   teiginys: "Bychovco kronikos autorius vietoj pasakojimo apie Podolės patekimą Lenkijos valdžion pateikė savą konflikto dėl Podolės versiją."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -132,6 +125,45 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178903
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau savo tikėjimą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai šlovingasis val­
+    dovas Vytautas užpykdavo ant kurios nors šalies ir pa­
+    norėdavo kurią nors šalį nubausti, karalius Vladislovas
+    visuomet suteikdavo jam pagalbą, Įo kai kada pats
+    vykdavo jam į pagalbą).
+    Tarnavo jam ir kiti Rytų valdovai. Taip pat ir Mask­
+    vos didysis kunigaikštis gyveno su juo didelėje meilėje.
+    Ir kiti Vokietijos didieji kunigaikščiai tarnavo jam su
+    visais savo miestais ir su žemėmis. O tie Vokietijos di­
+    dieji kunigaikščiai vokiečių kalba vadinosi magistrai3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Atskirus šio maišto epizodus pla­
+    čiau aprašo J. Dlugošas ir rusų metraščiai |PSRL, t. IV, p. 92—93;
+    V, p. 239; VIII, p. 51; XV, p. 443).
+    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
+    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
+    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
+    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira
+    valstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
+    Livonijos ordinui kaip pastarojo vasalas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -154,7 +186,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193666
+    - t-001
+
 - id: c-176336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,7 +211,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193667
+    - t-002
+
 - id: c-176337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -196,23 +230,13 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193668
+    - t-003
+
 - id: c-176477
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir kai šlovingasis val­
-    dovas Vytautas užpykdavo ant kurios nors šalies ir pa­
-    norėdavo kurią nors šalį nubausti, karalius Vladislovas
-    visuomet suteikdavo jam pagalbą, Įo kai kada pats
-    vykdavo jam į pagalbą).
-    Tarnavo jam ir kiti Rytų valdovai. Taip pat ir Mask­
-    vos didysis kunigaikštis gyveno su juo didelėje meilėje.
-    Ir kiti Vokietijos didieji kunigaikščiai tarnavo jam su
-    visais savo miestais ir su žemėmis. O tie Vokietijos di­
-    dieji kunigaikščiai vokiečių kalba vadinosi magistrai3.
-  citata_rodoma: |
     Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
     kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
@@ -221,13 +245,15 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
     tikėjimo.
+  citata_rodoma: "Ir aš prieš savo norą, jų valią vyk­\ndydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­\nkiau tai viešai žmonėms, o sykiu slaptai laikiausi savo \ntikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­\njimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir \nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau \nsavo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių \ntikėjimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193833
+    - t-004
+
 - id: c-176478
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -252,34 +278,27 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196780
+    - t-008
+
 - id: c-176479
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Atskirus šio maišto epizodus pla­
-    čiau aprašo J. Dlugošas ir rusų metraščiai |PSRL, t. IV, p. 92—93;
-    V, p. 239; VIII, p. 51; XV, p. 443).
-    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
-    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
-    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
-    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira
-    valstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
-    Livonijos ordinui kaip pastarojo vasalas.
-  citata_rodoma: |
     1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­
     kęs vyriškos lyties įpėdinių. Jo  vietą 1370—1382 m. užėmė Veng­
     rijos karalius (1342—1382| Liudvikas Didysis iš Anžū (Anjou) di­
     nastijos. Pats Liudvikas gyveno Vengrijoje, o Lenkiją valdė per
     savo motiną Elžbietą ir Opolės kunigaikšti Vladislovą.
+  citata_rodoma: "1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­\nkęs vyriškos lyties įpėdinių. Jo  vietą 1370—1382 m. užėmė Veng­\nrijos karalius (1342—1382| Liudvikas Didysis iš Anžū (Anjou) di­\nnastijos. Pats Liudvikas gyveno Vengrijoje, o Lenkiją valdė per \nsavo motiną Elžbietą ir Opolės kunigaikšti Vladislovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193835
+    - t-006
+
 - id: c-178903
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -305,4 +324,4 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196781
+    - t-009

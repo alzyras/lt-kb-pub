@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-19973"></a>
 - t-001
-  global_id: t-19973
   teiginys: "„Raudonieji“ buvo prodemokratiškas bajorų jaunimas, 1862 m. Kongresinėje Lenkijoje ir Lietuvoje rengęs sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-193559"></a>
 - t-002
-  global_id: t-193559
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -85,15 +83,15 @@ media_all_json: |-
     ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
     bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, ku-
     riuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.
-  citata_rodoma: |
-    ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
+  citata_rodoma: "ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19973
+    - t-001
+
 - id: c-176239
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,4 +112,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193559
+    - t-002

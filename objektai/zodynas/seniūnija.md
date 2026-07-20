@@ -31,7 +31,6 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 
 <a id="claim-t-03169"></a>
 - t-001
-  global_id: t-03169
   teiginys: "Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 
 <a id="claim-t-182976"></a>
 - t-002
-  global_id: t-182976
   teiginys: "Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,5 +73,5 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03169
-    - t-182976
+    - t-001
+    - t-002

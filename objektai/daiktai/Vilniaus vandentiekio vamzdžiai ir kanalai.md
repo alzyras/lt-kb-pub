@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87040"></a>
 - t-001
-  global_id: t-87040
   teiginys: "Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87040
+    - t-001

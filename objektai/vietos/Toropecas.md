@@ -40,8 +40,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 ## Teiginiai
 
 <a id="claim-t-42189"></a>
-- t-001
-  global_id: t-42189
+- t-003
   teiginys: "Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 
 <a id="claim-t-42190"></a>
 - t-002
-  global_id: t-42190
   teiginys: "Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-45361
 
 <a id="claim-t-42191"></a>
-- t-003
-  global_id: t-42191
+- t-001
   teiginys: "K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,26 +116,15 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     tystėje, prie Ilmenio ežero esančio
 
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
-  citata_rodoma: |
-    Rugsėjo 9 d. jie
-    dar kartą susirėmė su
-    Toropeco įgula, nukovė
-    200 rusų šaulių. Vėliau
-    Radvilos pajėgos nusiaubė
-    Dubno apylinkes, užėmė
-    Cholmą, iš ten, palei
-    Lovatės upę, lietuviai nusi-
-    gavo iki Novgorodo kunigaikš-
-    tystėje, prie Ilmenio ežero esančio
-
-    94 K.
+  citata_rodoma: "Rugsėjo 9 d. jie\ndar kartą susirėmė su\nToropeco įgula, nukovė\n200 rusų šaulių. Vėliau\nRadvilos pajėgos nusiaubė\nDubno apylinkes, užėmė\nCholmą, iš ten, palei\nLovatės upę, lietuviai nusi-\ngavo iki Novgorodo kunigaikš-\ntystėje, prie Ilmenio ežero esančio\n\n94 K."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42189
+    - t-003
+
 - id: c-45360
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -157,21 +143,15 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     buvo duotas leidimas, susiklosčius palan-
     kioms aplinkybėms, veržtis giliau į priešo
     teritoriją.
-  citata_rodoma: |
-    Jis turėjo žygiuoti Veližo link,
-    iš ten pulti Toropeco ir Bialos pilių apy-
-    linkes, kai pagrindinės pajėgos įsiverš
-    į Rusijos teritoriją šiauriau. K. Radvilai
-    buvo duotas leidimas, susiklosčius palan-
-    kioms aplinkybėms, veržtis giliau į priešo
-    teritoriją.
+  citata_rodoma: "Jis turėjo žygiuoti Veližo link,\niš ten pulti Toropeco ir Bialos pilių apy-\nlinkes, kai pagrindinės pajėgos įsiverš\nį Rusijos teritoriją šiauriau. K. Radvilai\nbuvo duotas leidimas, susiklosčius palan-\nkioms aplinkybėms, veržtis giliau į priešo\nteritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42191
+    - t-001
+
 - id: c-45361
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,15 +163,11 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     galbą savo valdovui skubėjusia apie 1000
     karių Toropeco įgula. Rusai buvo sumušti,
     apie 300 jų žuvo.
-  citata_rodoma: |
-    Rugpjūčio 29 d. lietuviai susikovė su į pa-
-    galbą savo valdovui skubėjusia apie 1000
-    karių Toropeco įgula. Rusai buvo sumušti,
-    apie 300 jų žuvo.
+  citata_rodoma: "Rugpjūčio 29 d. lietuviai susikovė su į pa-\ngalbą savo valdovui skubėjusia apie 1000\nkarių Toropeco įgula. Rusai buvo sumušti,\napie 300 jų žuvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42190
+    - t-002

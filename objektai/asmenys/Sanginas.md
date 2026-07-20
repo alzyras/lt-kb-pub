@@ -31,7 +31,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 
 <a id="claim-t-80743"></a>
 - t-001
-  global_id: t-80743
   teiginys: "Karininko Sangino vadovaujama antroji šešiolikos vyrų grupė turėjo pulti dvaro klojimą, kuriame miegojo dvi bolševikų kuopos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80743
+    - t-001

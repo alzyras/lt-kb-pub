@@ -37,7 +37,6 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
 
 <a id="claim-t-20946"></a>
 - t-001
-  global_id: t-20946
   teiginys: "1994 m. Lietuvos ir Lenkijos sutarties preambulėje abi valstybės patvirtino dabartinių teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
 
 <a id="claim-t-183507"></a>
 - t-002
-  global_id: t-183507
   teiginys: "1994 m. balandžio 26 d. Lietuvos ir Lenkijos sutartyje patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -104,5 +102,5 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20946
-    - t-183507
+    - t-001
+    - t-002

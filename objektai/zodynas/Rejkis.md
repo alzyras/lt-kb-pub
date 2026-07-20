@@ -47,8 +47,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
 ## Teiginiai
 
 <a id="claim-t-192266"></a>
-- t-001
-  global_id: t-192266
+- t-002
   teiginys: "Narbuto aiškinimu, Rejkis buvo provincijas valdžiusių karaliukų pavadinimas, o ne vieno konkretaus asmens vardas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -57,10 +56,9 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175096
-    - c-001
+
 <a id="claim-t-192267"></a>
-- t-002
-  global_id: t-192267
+- t-001
   teiginys: "Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -69,10 +67,9 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175096
-    - c-001
+
 <a id="claim-t-192571"></a>
-- t-003
-  global_id: t-192571
+- t-005
   teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175348
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -110,9 +107,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192266
-    - t-192267
+- t-192267
 - c-002
   santrauka: 'Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -130,8 +125,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192571
+
 ## Citatos
 
 - id: c-175096
@@ -151,20 +145,16 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     turėjo vergiškai klusnių valdinių, o patys buvo priklau­
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
-  citata_rodoma: |
-    Jie, gyvenę savo pilaitėse, įsa­
-    kinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,
-    turėjo vergiškai klusnių valdinių, o patys buvo priklau­
-    somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
-    valdė provincijas.
+  citata_rodoma: "Jie, gyvenę savo pilaitėse, įsa­\nkinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,\nturėjo vergiškai klusnių valdinių, o patys buvo priklau­\nsomi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie\nvaldė provincijas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192266
-    - t-192267
+    - t-002
+    - t-001
+
 - id: c-175348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -180,19 +170,11 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
     somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
     valdė provincijas.
     Tokie kilmingų giminių ponai gyveno Pamedėje.
-  citata_rodoma: |
-    Vadinasi, krašto ba­
-    jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­
-    skirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­
-    kinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,
-    turėjo vergiškai klusnių valdinių, o patys buvo priklau­
-    somi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie
-    valdė provincijas.
-    Tokie kilmingų giminių ponai gyveno Pamedėje.
+  citata_rodoma: "Vadinasi, krašto ba­\njorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­\nskirų apskričių savininkai. Jie, gyvenę savo pilaitėse, įsa­\nkinėjo skurdesnėms jų protekcijoje gyvenusioms klasėms,\nturėjo vergiškai klusnių valdinių, o patys buvo priklau­\nsomi nuo karaliukų, vadinamų Rejkis, Kunigas, kurie\nvaldė provincijas.\nTokie kilmingų giminių ponai gyveno Pamedėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192571
+    - t-005

@@ -39,7 +39,6 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
 
 <a id="claim-t-87781"></a>
 - t-001
-  global_id: t-87781
   teiginys: "1410 m. Vilniaus vyskupas Mikalojus buvo kanonų teisės daktaras ir menų magistras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87781
+    - t-001

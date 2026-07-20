@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202328"></a>
 - t-001
-  global_id: t-202328
   teiginys: "Rokiškio krašto muziejuje saugomu spaudu būdavo marginami audiniai ir galbūt pasiūtų drabužių elementai."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -54,23 +53,17 @@ Nenurodyta
   pagrindžia:
     - c-185675
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185675
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 61 (PDF 4)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
-  citata_originali: |
-    Rokiškio krašto muziejuje saugomu spaudu būdavo margi-
-    nami audiniai ir galbūt pasiūtų drabužių elementai. Šioje me-
-    džio plokštėje dekoro motyvai sukomponuoti iš siaurų lanks-
-    tytos skardos juostelių ir smulkių strypelių, leidusių išgauti
-    taškelių raštą. Tokia marginimo technika dar XX a. ketvirtame
-    dešimtmetyje naudota Lietuvos kaime71.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202328
+    - t-001

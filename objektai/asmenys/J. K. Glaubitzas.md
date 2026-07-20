@@ -35,7 +35,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 <a id="claim-t-22423"></a>
 - t-001
-  global_id: t-22423
   teiginys: "J. K. Glaubitzas buvo garsiausias Vilniaus baroko mokyklos architektas, sukūręs Basųjų karmelitų bažnyčią Mstislavlyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,12 +52,9 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   pagrindžia:
     - c-25068
 
-## Citatos
-
-- id: c-25068
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
     1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
@@ -70,16 +66,29 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
     ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
     Basųjų karmelitų bažnyčia Mstislavlyje.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-25068
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
     O toliau – ištisa plejada modernaus meno, literatūros, architektūros
     kūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-
     Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
     ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
     Basųjų karmelitų bažnyčia Mstislavlyje. A. Bumblausko nuotr.
+  citata_rodoma: "O toliau – ištisa plejada modernaus meno, literatūros, architektūros \nkūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-\nRyčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos \nir garsiausio jos architekto J. K. Glaubitzo kūrinys –  \nBasųjų karmelitų bažnyčia Mstislavlyje. A. Bumblausko nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22423
+    - t-001

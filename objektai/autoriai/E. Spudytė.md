@@ -40,7 +40,6 @@ Spudytė.
 
 <a id="claim-t-78082"></a>
 - t-001
-  global_id: t-78082
   teiginys: "E. Spudytė sudarė 2007 m. Vilniuje išleistą leidinį „Žemaičių muziejus Alka“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Spudytė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78082
+    - t-001

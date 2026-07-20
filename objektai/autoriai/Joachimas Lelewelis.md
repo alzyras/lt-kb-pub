@@ -28,7 +28,6 @@ Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukant
 
 <a id="claim-t-201430"></a>
 - t-001
-  global_id: t-201430
   teiginys: "Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukanto profesorių, nei tuometiniuose Joachimo Lelewelio veikaluose, kuriuose liaudis taip pat laikoma istorijos subjektu."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukant
 ## Citatos
 
 - id: c-184780
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Diduomenė, nutautusi bajorija, kuri bo­
     disi gimtosios ir savosios liaudies, valstiečių, Dau­
@@ -62,4 +62,4 @@ Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201430
+    - t-001

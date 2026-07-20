@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-31516"></a>
 - t-001
-  global_id: t-31516
   teiginys: "Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,15 +80,11 @@ Nenurodyta
     klausęs mišių ir norėjęs taikytis^23. Matyti, sąjungininkai stengėsi
     puolimo iniciatyvą palikti ordino kariuomenei, kad ji butų išviliota
     iš savo gerų pozicijų^24.
-  citata_rodoma: |
-    Anot Dlugošo, Jogaila delsęs, buvęs neryžtingas, meldęsis —
-    klausęs mišių ir norėjęs taikytis^23. Matyti, sąjungininkai stengėsi
-    puolimo iniciatyvą palikti ordino kariuomenei, kad ji butų išviliota
-    iš savo gerų pozicijų^24.
+  citata_rodoma: "Anot Dlugošo, Jogaila delsęs, buvęs neryžtingas, meldęsis —\nklausęs mišių ir norėjęs taikytis^23. Matyti, sąjungininkai stengėsi\npuolimo iniciatyvą palikti ordino kariuomenei, kad ji butų išviliota\niš savo gerų pozicijų^24."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31516
+    - t-001

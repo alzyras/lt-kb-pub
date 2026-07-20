@@ -31,7 +31,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 
 <a id="claim-t-191139"></a>
 - t-001
-  global_id: t-191139
   teiginys: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -42,10 +41,9 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174021
-    - c-001
+
 <a id="claim-t-197722"></a>
 - t-002
-  global_id: t-197722
   teiginys: "1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -58,7 +56,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 
 <a id="claim-t-197723"></a>
 - t-003
-  global_id: t-197723
   teiginys: "Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,7 +68,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 
 <a id="claim-t-200980"></a>
 - t-004
-  global_id: t-200980
   teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +80,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 
 <a id="claim-t-200981"></a>
 - t-005
-  global_id: t-200981
   teiginys: "Divonis palikinąs tyrus grobį, gyvolius ir im tinius su didesne dalia savo kariaunos pirma pa leido, o pats su rinktiniais paskui grįžo namo į Barti ją."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -109,34 +104,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   santrauka: 'Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Vyrai turi po tris žmonas, bendrauja su jo­
-    mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose
-    dalykuose jie neturi gėdos, bendrauja su žmonomis bend­
-    rai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,
-    ir, nors daug turi moterų, vaikų augina mažai.
-    171
-
-    ## Puslapis 169
-
-    172
-    Bitinijos keliautojai turėjo daug laiko visa tai sužinoti,
-    nes juos tame krašte užklupo labai sunki žiema; čia jiems
-    reikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,
-    išskyrus vieną, vardu Divonis1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191139
-## Citatos
-
-- id: c-174021
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
     Apie keliautoją Divonį ponas Tadas Volianskis paliko mums
     tokius aprašymus: „Tai, ką vyskupas Kristijonas perpasakoja iš Ploc-
     ko kanauninko Jaroslavo kronikos apie Bitinijos keliauninką Dimonas,
@@ -146,7 +113,19 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
     dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
     Dyvaonys, paskutinį kartą Dymonis.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Vyrai turi po tris žmonas, bendrauja su jo­
     mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose
     dalykuose jie neturi gėdos, bendrauja su žmonomis bend­
@@ -161,13 +140,15 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     nes juos tame krašte užklupo labai sunki žiema; čia jiems
     reikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,
     išskyrus vieną, vardu Divonis1.
+  citata_rodoma: "Vyrai turi po tris žmonas, bendrauja su jo­\nmis kada ir kur nori nesigėdydami pašalinių, nes tokiuose\ndalykuose jie neturi gėdos, bendrauja su žmonomis bend­\nrai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,\nir, nors daug turi moterų, vaikų augina mažai.\n171\n\n## Puslapis 169\n\n172\nBitinijos keliautojai turėjo daug laiko visa tai sužinoti,\nnes juos tame krašte užklupo labai sunki žiema; čia jiems\nreikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,\nišskyrus vieną, vardu Divonis1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191139
+    - t-001
+
 - id: c-179307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -185,7 +166,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197722
+    - t-002
+
 - id: c-179308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -208,10 +190,12 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197723
+    - t-003
+
 - id: c-184330
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -233,10 +217,12 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200980
+    - t-004
+
 - id: c-184331
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Divonis palikinąs tyrus grobį, gyvolius ir im­
     tinius su didesne dalia savo kariaunos pirma pa­
@@ -253,4 +239,4 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200981
+    - t-005

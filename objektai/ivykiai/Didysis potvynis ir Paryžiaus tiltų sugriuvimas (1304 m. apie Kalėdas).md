@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62236"></a>
 - t-001
-  global_id: t-62236
   teiginys: "1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-62735
 
 <a id="claim-t-194381"></a>
-- t-002
-  global_id: t-194381
+- t-003
   teiginys: "Apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,21 +98,12 @@ Nenurodyta
 
 
                      98.
-  citata_rodoma: |
-    Apie potvynį
-
-      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
-    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
-    patyrė baisybę nuostolių.
-
-
-
-                     98.
+  citata_rodoma: "Apie potvynį\n\n  1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią\nnuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi\npatyrė baisybę nuostolių.\n\n\n\n                 98."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62236
-    - t-194381
+    - t-001
+    - t-003

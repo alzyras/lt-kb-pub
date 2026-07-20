@@ -36,9 +36,7 @@ Nadra aiškinama kaip vieta už drabužio ligi juostos, o ši frazė pateikiama 
   citata_originali: |
     Nadra lenkiškai reiškia antį, vietą už drabužio ligi juostos.
     Dažnai sakoma: „schowai za nadrę“, t. y. paslėpė į antį.
-  citata_rodoma: |
-    Nadra lenkiškai reiškia antį, vietą už drabužio ligi juostos.
-      Dažnai sakoma: „schowai za nadrę“, t. y. paslėpė į antį.
+  citata_rodoma: "Nadra lenkiškai reiškia antį, vietą už drabužio ligi juostos.\n  Dažnai sakoma: „schowai za nadrę“, t. y. paslėpė į antį."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

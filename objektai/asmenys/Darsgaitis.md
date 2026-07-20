@@ -54,13 +54,46 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
 
 - Pamedės provincijos krivis
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Seno­
+    vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-170895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
+    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
+    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
+  citata_rodoma: "Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227\nmetais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­\nmenę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 ## Teiginiai
 
 <a id="claim-t-187915"></a>
-- t-001
-  global_id: t-187915
+- t-002
   teiginys: "Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
@@ -77,54 +110,3 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170895
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Seno­
-    vės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
-    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
-    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187915
-## Citatos
-
-- id: c-170895
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
-    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
-    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
-    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
-    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
-    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
-    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
-    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
-    minti jį apreiškus dievų valią. Svarbiausios jų funkcijos buvo
-    tokios: privalėjo uoliai stebėti saulės ir mėnulio judėjimą, idant
-    galėtų prideramai suskirstyti laiką ir pažymėti švenčių dienas,
-    suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
-    ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
-    reikėdavo paskelbti kokius nors dalykus dievų vardu. Vaidilos
-    dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
-    simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
-  citata_rodoma: |
-    Senovės prūsų Pamedėsprovincijos krivis, vardu Darsgaitis (Darsgajto), 1227
-    metais kartu su kitais svarbiais žmonėmis atvyko į kryžiuočių kariuo­
-    menę tartis dėl taikos (Luc. Dav. -  B. II. -  S. 74)*.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187915

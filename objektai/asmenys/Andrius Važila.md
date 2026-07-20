@@ -41,7 +41,6 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 
 <a id="claim-t-87385"></a>
 - t-001
-  global_id: t-87385
   teiginys: "Vyskupas Andrius Važila gavo popiežiaus patvirtinimą perimti Vilniaus vyskupiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     - c-83365
 
 <a id="claim-t-87386"></a>
-- t-002
-  global_id: t-87386
+- t-003
   teiginys: "1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87386
+    - t-003
+
 - id: c-83365
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -119,18 +118,11 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
     Visą tą pasakojimą perteikėme pa­
     gal vieną aprašymą, kuris yra S1 a p t.
     arch. fol.
-  citata_rodoma: |
-    Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
-    kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­
-    reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
-    piją20. Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
-    19
-    Visą tą pasakojimą perteikėme pa­
-    gal vieną aprašymą, kuris yra S1 a p t.
+  citata_rodoma: "Stanislovo garbei, iškilmingai pripažinta katedra. O vys­\nkupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­\nreigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­\npiją20. Vytautas, žlugus viltims, vėl buvo priverstas ieškoti\n19\nVisą tą pasakojimą perteikėme pa­\ngal vieną aprašymą, kuris yra S1 a p t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87385
+    - t-001

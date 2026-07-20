@@ -37,8 +37,7 @@ Pilviškių vis. Pilviškių vls.
 ## Teiginiai
 
 <a id="claim-t-42027"></a>
-- t-001
-  global_id: t-42027
+- t-002
   teiginys: "1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Pilviškių vis. Pilviškių vls.
     - c-45275
 
 <a id="claim-t-42028"></a>
-- t-002
-  global_id: t-42028
+- t-001
   teiginys: "1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,25 +93,22 @@ Pilviškių vis. Pilviškių vls.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42028
+    - t-001
+
 - id: c-45275
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    ŽIŪRŲ-GUDELIŲ KAUTYNĖS
+    X. ŽIŪRŲ-GUDELIŲ KAUTYNĖS
 
     1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB
     353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę.
-  citata_rodoma: |
-    ŽIŪRŲ-GUDELIŲ KAUTYNĖS
-
-    1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB
-    353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę.
+  citata_rodoma: "ŽIŪRŲ-GUDELIŲ KAUTYNĖS\n\n1950 m. birželio 22-23 d. Vilkaviškio aps. Pilviškių vls. Žiūrų-Gudelių k. apylinkėse MGB\n353-iojo šaulių pulko 70 kareivių ir 30 stribų puolė Tauro apygardos partizanų grupę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42027
+    - t-002

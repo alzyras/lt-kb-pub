@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-86494"></a>
 - t-001
-  global_id: t-86494
   teiginys: "Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-82474
 
 <a id="claim-t-86495"></a>
-- t-002
-  global_id: t-86495
+- t-003
   teiginys: "Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ media_all_json: |-
     - c-82475
 
 <a id="claim-t-86496"></a>
-- t-003
-  global_id: t-86496
+- t-002
   teiginys: "Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86496
+    - t-002
+
 - id: c-82474
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,7 +140,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86494
+    - t-001
+
 - id: c-82475
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,4 +172,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86495
+    - t-003

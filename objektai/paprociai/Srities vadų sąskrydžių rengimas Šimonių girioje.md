@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09606"></a>
-- t-001
-  global_id: t-09606
+- t-004
   teiginys: "Šimonių girioje būdavo rengiami srities vadų sąskrydžiai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-12355
 
 <a id="claim-t-09607"></a>
-- t-002
-  global_id: t-09607
+- t-003
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -93,17 +91,12 @@ Nenurodyta
     leido laikraštį „Partizanų kova“. Algimanto
     apygardai vadovavo Antanas Slučka-Ša-
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
-  citata_rodoma: |
-    Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo ren-
-    giami srities vadų sąskrydžiai. Apygarda
-    leido laikraštį „Partizanų kova“. Algimanto
-    apygardai vadovavo Antanas Slučka-Ša-
-    rūnas (1947 m. gegužė - 1948 m. spalis) ir
+  citata_rodoma: "Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo ren-\ngiami srities vadų sąskrydžiai. Apygarda\nleido laikraštį „Partizanų kova“. Algimanto\napygardai vadovavo Antanas Slučka-Ša-\nrūnas (1947 m. gegužė - 1948 m. spalis) ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09606
-    - t-09607
+    - t-004
+    - t-003

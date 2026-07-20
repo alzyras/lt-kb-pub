@@ -8,12 +8,12 @@ datos:
   - '1859 m.'
 date_start: '1856'
 date_end: '1859'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,9 +37,8 @@ media_all_json: |-
 
 <a id="claim-t-191866"></a>
 - t-001
-  global_id: t-191866
   teiginys: "„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,29 +50,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174748
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Trečia (o tai yra įdomiausia ir nau-
-    joviškiausia), čia yra tiek mažai autentiškumo, jog vė­
-    lesnis istorikas, norėdamas pasinaudoti pono Nįarbuto]
-    darbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“5.
-    Recenzentas, pagyręs „Mitologijos“ autoriaus nuoširdu­
-    mą, vis dėlto manė, jog tai nesudaro preteksto tikėti vis­
-    1 Listy z nad brzegow Kroženty // Gazeta Warsza\vska. 1856—
-    1859
-    (list
-    1—X).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191866
+
 ## Citatos
 
 - id: c-174748
@@ -91,21 +68,11 @@ media_all_json: |-
     1859
     (list
     1—X).
-  citata_rodoma: |
-    Trečia (o tai yra įdomiausia ir nau-
-    joviškiausia), čia yra tiek mažai autentiškumo, jog vė­
-    lesnis istorikas, norėdamas pasinaudoti pono Nįarbuto]
-    darbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“5.
-    Recenzentas, pagyręs „Mitologijos“ autoriaus nuoširdu­
-    mą, vis dėlto manė, jog tai nesudaro preteksto tikėti vis­
-    1 Listy z nad brzegow Kroženty // Gazeta Warsza\vska. 1856—
-    1859
-    (list
-    1—X).
+  citata_rodoma: "Trečia (o tai yra įdomiausia ir nau-\njoviškiausia), čia yra tiek mažai autentiškumo, jog vė­\nlesnis istorikas, norėdamas pasinaudoti pono Nįarbuto]\ndarbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“5.\nRecenzentas, pagyręs „Mitologijos“ autoriaus nuoširdu­\nmą, vis dėlto manė, jog tai nesudaro preteksto tikėti vis­\n1 Listy z nad brzegow Kroženty // Gazeta Warsza\\vska. 1856—\n1859\n(list\n1—X)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191866
+    - t-001

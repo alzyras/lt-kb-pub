@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62775"></a>
 - t-001
-  global_id: t-62775
   teiginys: "1316 m. vasarą Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-196939"></a>
 - t-002
-  global_id: t-196939
   teiginys: "Apie Junigedos papilio sudeginimą Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių, palikę arklius, pėsčiomis po brolių vėliava per."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,6 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-63568
@@ -112,17 +111,6 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    sugužėję netikėliai pro jį ne kartą praėjo, bet jo nepamatė nelyginant dievo apakinti.
-    Galop nusikamavę jie liovėsi ieškoję, po to šis krikščionis su visais savo ginklais atėjo į
-    Ragainę, įėjęs į bažnyčią, parpuolė ant kelių ir padėkojo dievui bei švenčiausiajai mergelei
-    už jam suteiktą šitokią malonę.
-    334 (327). Apie Junigedos papilio sudeginimą
-    Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su
-    didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių,
-    palikę arklius, pėsčiomis po brolių vėliava per ėjo mišką, vardu Vintas578; apyaušryje,
-    kai ryžosi slaptai priartėti prie Junigedos pilies ir ją paimti, įspėti pilėnai užkūrė ugnį ir
-    dūmais pranešė kaimyniniams stabmeldžiams, kad čia pat brolių kariuomenė.
-  citata_rodoma: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
       Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su
@@ -131,11 +119,12 @@ Nenurodyta
     moteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami
     200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
     pasileido bėgti ir šitaip išsigelbėjo.
+  citata_rodoma: "330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais\n\n  Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su\naštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje\nvietoje pasalą, įsiveržė  [į  jį] su savo kariais; sudeginę du kaimus, išžudę vyrus, o\nmoteris ir vaikus paėmę  į nelaisvę, jie paskubomis pasitraukė, smarkiai persekiojami\n200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie\npasileido bėgti ir šitaip išsigelbėjo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62775
-    - t-196939
+    - t-001
+    - t-002

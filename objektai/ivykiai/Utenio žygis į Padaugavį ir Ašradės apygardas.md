@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201348"></a>
 - t-001
-  global_id: t-201348
   teiginys: "Tą išgirdęs, mistras Volkvinas, pa likęs Eželio saloj kuresarus, turėjo grįžti apent į Padaugavį žemaičių grėsti nuo terionių, kursai, pa ilsinęs truputį savo kariauną, puolė į Žemgalius ir tenai su žemaičiais smarkiose skardmūšose grūmės, kurių vienoj vietoj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184698
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą išgirdęs, mistras Volkvinas, pa­
     likęs Eželio saloj kuresarus, turėjo grįžti apent į
@@ -93,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201348
+    - t-001

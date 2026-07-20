@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-87094"></a>
 - t-001
-  global_id: t-87094
   teiginys: "Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87094
+    - t-001

@@ -30,8 +30,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 ## Teiginiai
 
 <a id="claim-t-40082"></a>
-- t-001
-  global_id: t-40082
+- t-002
   teiginys: "Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
     - c-41887
 
 <a id="claim-t-40083"></a>
-- t-002
-  global_id: t-40083
+- t-003
   teiginys: "Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
     - c-41888
 
 <a id="claim-t-40084"></a>
-- t-003
-  global_id: t-40084
+- t-001
   teiginys: "Generolas leitenantas baronas D. Osten-Sakenas laikinai perėmė vadovavimą iš leitenanto grafo D. Kurutos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40082
+    - t-002
+
 - id: c-41888
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -130,7 +128,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40083
+    - t-003
+
 - id: c-44317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -159,22 +158,11 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
     Žiaurus likimas juos vertė
     kautis prieš tautiečius brol-
     žudiškose kautynėse.
-  citata_rodoma: |
-    Pabūklo vamzdis
-
-    Granata ir parako užtaisas sujungti į vientisą „šovinį“
-
-    ## Puslapis 157
-
-    leitenantas grafas D. Kuruta,
-    bet pastarasis vadovavimą
-    (laikinai) perdavė gabiam
-    generolui leitenantui baro-
-    nui D. Osten-Sakenui.
+  citata_rodoma: "Pabūklo vamzdis\n\nGranata ir parako užtaisas sujungti į vientisą „šovinį“\n\n## Puslapis 157\n\nleitenantas grafas D. Kuruta,\nbet pastarasis vadovavimą\n(laikinai) perdavė gabiam\ngenerolui leitenantui baro-\nnui D. Osten-Sakenui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40084
+    - t-001

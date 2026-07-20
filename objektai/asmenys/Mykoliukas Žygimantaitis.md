@@ -30,10 +30,9 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
 ## Teiginiai
 
 <a id="claim-t-194117"></a>
-- t-001
-  global_id: t-194117
+- t-002
   teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,12 +41,10 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
   pagrindžia:
     - c-176730
 
-## Citatos
-
-- id: c-176730
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     šaukia į Petrakavą visuotinį lenki) seimą 5 spręsti vals­
     tybės reikalų. O lame seime visi lenkų ponai, slėpda­
@@ -59,17 +56,30 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
     padaryti, kaip seniau buvo padarę Peremišlio rusų po­
     nams: pakvietė juos tartis ir ten pat išpiovė, o Pere-
     mišlį užgrobė.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176730
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.
     Ir, bebūnant viename vienuolyne ir klausant mišių, įgu-
     menas, kuris jo nemėgo, davė jam su komunija baisių,
     mirtinų nuodų. Kai tik jis priėmė ir nurijo, tuoj pat
     krito negyvas.
+  citata_rodoma: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­\nriuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.  \nIr, bebūnant viename vienuolyne ir klausant mišių, įgu- \nmenas, kuris jo nemėgo, davė jam su komunija baisių, \nmirtinų nuodų. Kai tik jis priėmė ir nurijo, tuoj pat \nkrito negyvas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194117
+    - t-002

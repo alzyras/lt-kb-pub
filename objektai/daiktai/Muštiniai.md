@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06753"></a>
-- t-001
-  global_id: t-06753
+- t-003
   teiginys: "Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-00224
 
 <a id="claim-t-06754"></a>
-- t-002
-  global_id: t-06754
+- t-004
   teiginys: "Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -95,18 +93,12 @@ Nenurodyta
     mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
     niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
     giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
-  citata_rodoma: |
-    Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais
-    pinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais
-    laikais buvo vartojami specialūs pailgi sidabro gabalai su pažy-
-    mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
-    niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
-    giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
+  citata_rodoma: "Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais\npinigais arba paprastais aukso ar sidabro gabalais. Vėlesniaisiais\nlaikais buvo vartojami specialūs pailgi sidabro gabalai su pažy-\nmėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-\nniau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-\ngiuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06753
-    - t-06754
+    - t-003
+    - t-004

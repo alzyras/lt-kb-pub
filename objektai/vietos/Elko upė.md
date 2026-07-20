@@ -31,7 +31,6 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 
 <a id="claim-t-41711"></a>
 - t-001
-  global_id: t-41711
   teiginys: "Spalio 8 d. kariuomenės ties Prostkais suartėjo prie jas skyrusios Elko upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,20 +63,11 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
     krantą. Tuo tarpu G. Valdekas gavo žinią,
     kad šiauriau Prostkų per upę keliasi toto-
     riai.
-  citata_rodoma: |
-    Mūšis
-    Spalio 8 d. kariuomenės suartėjo ties
-    Prostkais skiriamos Elko upės. Lietuviai
-
-    E gf
-
-    apgaulingu atsitraukimo manevru išvi-
-    liojo brandenburgiečius persikelti į kita
-    krantą.
+  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41711
+    - t-001

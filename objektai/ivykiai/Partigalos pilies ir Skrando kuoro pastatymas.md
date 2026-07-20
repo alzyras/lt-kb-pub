@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-91917"></a>
 - t-001
-  global_id: t-91917
   teiginys: "Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91917
+    - t-001

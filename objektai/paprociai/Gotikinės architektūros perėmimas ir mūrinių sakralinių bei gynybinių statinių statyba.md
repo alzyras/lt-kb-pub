@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-77935"></a>
 - t-001
-  global_id: t-77935
   teiginys: "Valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa paskatino gotikinės architektūros plitimą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,19 +77,12 @@ Nenurodyta
 
     1 skyrius •  S E N O J I  L I E T U VA
     55
-    dangų bažnyčios, Kaune Šv.
-  citata_rodoma: |
-    Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
-    ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa
-    (Vilniuje katedra, Šv. Jonų, pranciškonų Švč. Mergelės Marijos Ėmimo į
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    55
-    dangų bažnyčios, Kaune Šv.
+    dangų bažnyčios, Kaune Šv. apaštalų Petro ir Povilo, Šv.
+  citata_rodoma: "Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas \nir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa \n(Vilniuje katedra, Šv. Jonų, pranciškonų Švč. Mergelės Marijos Ėmimo į\n\n1 skyrius •  S E N O J I  L I E T U VA\n55\ndangų bažnyčios, Kaune Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77935
+    - t-001

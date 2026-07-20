@@ -37,8 +37,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 ## Teiginiai
 
 <a id="claim-t-34251"></a>
-- t-001
-  global_id: t-34251
+- t-003
   teiginys: "Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     - c-35478
 
 <a id="claim-t-34252"></a>
-- t-002
-  global_id: t-34252
+- t-001
   teiginys: "„Rakštys“ buvo satyrų ir juokų knyga su aštriomis to meto satyromis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +55,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     - c-35477
 
 <a id="claim-t-34253"></a>
-- t-003
-  global_id: t-34253
+- t-002
   teiginys: "Knygelėje pateikta satyriška 1926–1930 m. Lietuvos gyvenimo apžvalga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,8 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34253
+    - t-002
+
 - id: c-35477
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -109,7 +107,8 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34252
+    - t-001
+
 - id: c-35478
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,4 +128,4 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34251
+    - t-003

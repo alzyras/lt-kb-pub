@@ -8,11 +8,11 @@ datos:
   - '1617 m.'
 date_start: '1579'
 date_end: '1617'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kau
 
 <a id="claim-t-201862"></a>
 - t-001
-  global_id: t-201862
   teiginys: "Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kauno laivavedžius."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201862
+    - t-001

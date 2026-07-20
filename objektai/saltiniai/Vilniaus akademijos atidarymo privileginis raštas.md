@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21303"></a>
 - t-001
-  global_id: t-21303
   teiginys: "1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu, vadintu Academia et Universitas Vilnensis Societatis Iesu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,12 +66,11 @@ media_all_json: |-
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
     versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: |
-    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+  citata_rodoma: "Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21303
+    - t-001

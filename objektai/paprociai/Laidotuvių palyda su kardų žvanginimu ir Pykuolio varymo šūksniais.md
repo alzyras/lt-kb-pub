@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189925"></a>
 - t-001
-  global_id: t-189925
   teiginys: "Narbutas aprašo laidotuvių paprotį, kai mirusįjį lydintys raiti giminaičiai ir bičiuliai žvangindavo kardais ir šūksniais vydavo Pykuolį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-197257"></a>
 - t-002
-  global_id: t-197257
   teiginys: "Ant laidotuvių laužo su miru siojo kūnu būdavo kraunama viskas, kas velionio gyvenime buvo malonaus arba reikalingo ar buvo jo puošmena."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-197258"></a>
 - t-003
-  global_id: t-197258
   teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189925
-    - t-197257
+    - t-001
+    - t-002
+
 - id: c-179089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -135,4 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197258
+    - t-003

@@ -31,7 +31,6 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
 
 <a id="claim-t-40257"></a>
 - t-001
-  global_id: t-40257
   teiginys: "Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,22 +70,11 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
     galimai ispaniški, bet
     pasitaiko vokiečių bei
     italų ginklininkų darbo.
-  citata_rodoma: |
-    Rugsėjo 15 d. turkų kariuomenė, vado-
-    vaujama Budos pašos Karakašo dar kartą
-    bandė pulti, bet mūšio metu turkų vadui
-    į galvą pataikė kulka ir jo kariuomenė
-    pasitraukė.
-
-    i
-
-    | Ispaniškojo tipo rapyra
-
-    XVII a.
+  citata_rodoma: "Rugsėjo 15 d. turkų kariuomenė, vado-\nvaujama Budos pašos Karakašo dar kartą\nbandė pulti, bet mūšio metu turkų vadui\nį galvą pataikė kulka ir jo kariuomenė\npasitraukė.\n\ni\n\n| Ispaniškojo tipo rapyra\n\nXVII a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40257
+    - t-001

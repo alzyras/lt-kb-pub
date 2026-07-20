@@ -28,31 +28,8 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
 
 ## Teiginiai
 
-<a id="claim-t-191477"></a>
-- t-001
-  global_id: t-191477
-  teiginys: "Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Odoakras: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Telanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sakinys tiesiogiai nurodo, kad Telanas buvo Odoakro sūnus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Telanas buvo sūnus Odoakras (0.96)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-174359
-
 <a id="claim-t-197824"></a>
 - t-002
-  global_id: t-197824
   teiginys: "Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,6 +58,7 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174359
@@ -99,21 +77,14 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
     dieną.
-  citata_rodoma: |
-    Bet jis, trokšdamas vienvaldystės ir kupi­
-    nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
-    sudarymo pažeisti svetingumo taisykles: jis savo ranko­
-    mis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai
-    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
-    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
-    dieną.
+  citata_rodoma: "Bet jis, trokšdamas vienvaldystės ir kupi­\nnas juodo pavydo, nepasibjaurėjo netrukus po paliaubų \nsudarymo pažeisti svetingumo taisykles: jis savo ranko­\nmis nužudė jo rūmuose puotavusį Odoakrą. Netikėtai \ngotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­\nna daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5 \ndieną."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191477
-    - t-197824
+    - t-002
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Odoakras]]

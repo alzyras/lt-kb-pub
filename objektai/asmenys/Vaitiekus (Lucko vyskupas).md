@@ -3,20 +3,22 @@ tipas: asmuo
 pavadinimas: 'Vaitiekus (Lucko vyskupas)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1507 m.'
+  - '1550 m.'
 date_start: '1507'
-date_end: ''
+date_end: '1550'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - vyskupas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-87931"></a>
 - t-001
-  global_id: t-87931
   teiginys: "1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,6 +58,18 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginyje buvo OCR triukšmo, o citata aiškiai nurodo Vaitiekų kaip Lucko vyskupą ir dalyvį."
   pagrindžia:
     - c-83910
+
+<a id="claim-t-201547"></a>
+- t-002
+  teiginys: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184894
 - susijęs iš [[objektai/autoriai/Gaudencijus.md#claim-t-191606|Gaudencijus]]: Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis, rašė 997-1006 metais.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07572|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07573|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.
@@ -110,42 +123,29 @@ media_all_json: |-
     sų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­
     miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
     ka, kuriam šis reikalas buvo pavestas.
-  citata_rodoma: |
-    Ir taip
-    mes minėtų mūsų valdinių žydų Trakuose reikalui visas jų
-    nuosavybes, paliaubas ir sprendimus maloningai palaikyda­
-    mi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­
-    somybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,
-    ginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­
-    riname ir giname, žiūrėdami, kad ši galia ir šis raštas am­
-    žiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui
-    ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­
-    vo ir vyko Melnike pirmadienį prieš Tris Karalius metais
-    nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­
-    siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko
-    [Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­
-    kų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­
-    džiosios Kunigaikštystės didžiajam maršalkai ir Gardino
-    seniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­
-    nigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­
-    vadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,
-    Vaitiekui Janavičiui - karališkajam rūmininkui ir Kauno
-    seniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­
-    šalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •
-    • --
-    199
-
-    ## Puslapis 216
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    maršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­
-    sų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­
-    miems, surašyta Petro Opalinskio, Poznanės kustodo, ran­
-    ka, kuriam šis reikalas buvo pavestas.
+  citata_rodoma: "Ir taip \nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų \nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti, \nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui \nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais \nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko \n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino \nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui, \nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno \nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• -- \n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87931
+    - t-001
+
+- id: c-184894
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1550 m. Kauno pirklys Se-
+    verinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už
+    4,5 kapos grašių ir jau buvo davęs 3 kapas grašių. Bet Vaitiekus per tą laiką tik vieną kartą
+    nuplaukęs į Gdanską. Kauno vaito sprendimu Vaitiekus turėjo grąžinti pirkliui 2 kapas
+    grašių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -32,9 +32,8 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
 
 <a id="claim-t-189035"></a>
 - t-001
-  global_id: t-189035
   teiginys: "Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,23 +49,7 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171924
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šventų ežerų yra taip pat Nemuno kairiajame krante,
-    kur ir miestelis [Šventežeris] turi tokį vardą.
-    3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
-    komas dievu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189035
+
 ## Citatos
 
 - id: c-171924
@@ -74,21 +57,15 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nora, Rusijos Kalugos gubernijos upė įteka į Oką. Pietų Ame­
-    rikoje, Naujojoje Grenadoje, Nare įteka į šv. Magdalenos upę
-    Hondoje. Mažoji ir Didžioji Naretvos (Naretwa) - Bosnijoje te­
-    kančios upės, kurios susiliejusios sudaro Dalmatijos upę Naren-
-    tą, arba Naroną, įtekančią į Adrijos jūrą ties Šventuoju Opusu
-    (Opus).
-  citata_rodoma: |
     Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.
     3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
     komas dievu.
+  citata_rodoma: "Šventų ežerų yra taip pat Nemuno kairiajame krante,\nkur ir miestelis [Šventežeris] turi tokį vardą.\n3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­\nkomas dievu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189035
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
 
 <a id="claim-t-61279"></a>
 - t-001
-  global_id: t-61279
   teiginys: "A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61279
+    - t-001

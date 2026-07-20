@@ -38,7 +38,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 
 <a id="claim-t-41823"></a>
 - t-001
-  global_id: t-41823
   teiginys: "1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,19 +76,14 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     pasiuntė 2400 karių, kurie turėjo prista-
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis.
-  citata_rodoma: |
-    Mūšio išvakarėse
-
-    1601 m. balandžio 1 d. Švedijos kariuomenė
-    šturmu užėmė Kuoknesės miestą ir apsupo
-    pilį, bet joje esanti lietuvių įgula nepasi-
-    davė.
+  citata_rodoma: "Mūšio išvakarėse\n\n1601 m. balandžio 1 d. Švedijos kariuomenė\nšturmu užėmė Kuoknesės miestą ir apsupo\npilį, bet joje esanti lietuvių įgula nepasi-\ndavė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41823
+    - t-001
+
 ## Ryšiai
 - Apgulė Kuoknesės pilį (pilis): [[objektai/grupes/Švedijos kariuomenė]]

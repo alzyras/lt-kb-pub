@@ -39,7 +39,6 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 
 <a id="claim-t-60257"></a>
 - t-001
-  global_id: t-60257
   teiginys: "Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,22 +74,15 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 
 
 
-                            78.
-  citata_rodoma: |
-    Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
-    patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią
-    buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė
-    šventąją žemę, kurią tas buvo nuniokojęs.
-
-
-
-                            78.
+                            78. Apie šventosios žemės reikalus
+  citata_rodoma: "Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus\npatraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią\nbuvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė\nšventąją žemę, kurią tas buvo nuniokojęs.\n\n\n\n                        78."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60257
+    - t-001
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Heraklijus]]

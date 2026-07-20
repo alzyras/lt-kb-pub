@@ -8,13 +8,13 @@ datos:
   - '1300 m.'
 date_start: '1299'
 date_end: '1300'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185555"></a>
 - t-001
-  global_id: t-185555
   teiginys: "1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-168916
 
 <a id="claim-t-185557"></a>
-- t-002
-  global_id: t-185557
+- t-003
   teiginys: "Lietuviai per žvalgus sužinojo apie Kunono pasalas, pasislėpė miškuose ir po jo kariuomenės paleidimo nuniokojo kraštą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-168918
 
 <a id="claim-t-196137"></a>
-- t-003
-  global_id: t-196137
+- t-004
   teiginys: "Per Nemuno laivų grumtynes šeši šimtai raitelių įsiveržė į Prūsiją, nuniokojo pakeliui buvusius kaimus ir sukėlė baimę aplinkinėse žemėse."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Nenurodyta
     - c-168917
 
 <a id="claim-t-196138"></a>
-- t-004
-  global_id: t-196138
+- t-005
   teiginys: "Kojelavičiaus pasakojime lietuviai, išėję iš slėpynių, pasklido po laukus ir pradėjo niokoti kraštą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -119,12 +115,10 @@ Nenurodyta
   pagrindžia:
     - c-168918
 
-## Citatos
-
-- id: c-168916
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kanonas,
     1299 m e ta i
@@ -143,7 +137,19 @@ Nenurodyta
     braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
     biai patraukė su būriu į šalį ir, parinkęs gerą vietą
     pasaloms, pradėjo laukti jų pasirodant.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168916
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
     178
 
@@ -160,13 +166,15 @@ Nenurodyta
     menę stipriu Ragainės būriu, nugabeno ją laivais į
     krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
     tik vieną saviškį, privertė priešą pasukti atgal.
+  citata_rodoma: "Kur kas didesnės sėkmės kitais metais susilaukė šeši\n178\n\n## Puslapis 177\n\nšimtai\nraitelių.\nKanonas,\n1299 m e ta i\nBrandenburgo komtūras, su\nnemaža kariuomene įsibro­\nvęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos\nbei Pieštvės papilyse namus, o po to, papildęs kariuo­\nmenę stipriu Ragainės būriu, nugabeno ją laivais į\nkrašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę\ntik vieną saviškį, privertė priešą pasukti atgal."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185555
+    - t-001
+
 - id: c-168917
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,7 +200,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196137
+    - t-004
+
 - id: c-168918
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -219,22 +228,12 @@ Nenurodyta
     skerdynių vos trejetas vyrų
     paspruko pranešti apie pra­
     laimėjimą.
-  citata_rodoma: |
-    Be abejonės,
-    lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­
-    mi, būtų patekę į šias pasalas, tačiau, laiku sužinoję
-    per žvalgus apie klastą, tol tūnojo nesirodydami miš­
-    kų tankmėse, kol Kunonas, pamanęs, jog jie jau bus
-    pasitraukę ir aplink visur saugu, paleido kariuomenę.
-    Tik tada lietuviai, išėję iš slėpynių, saugiai pasklido
-    po laukus ir pradėjo visą kraštą baisiai niokoti. Jie
-    išžudė daugybę žmonių, prisiplėšė visokio grobio, bet
-    tik du šimtus dvidešimt žmonių išsivedė į vergovę.
+  citata_rodoma: "Be abejonės,\nlietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­\nmi, būtų patekę į šias pasalas, tačiau, laiku sužinoję\nper žvalgus apie klastą, tol tūnojo nesirodydami miš­\nkų tankmėse, kol Kunonas, pamanęs, jog jie jau bus\npasitraukę ir aplink visur saugu, paleido kariuomenę.\nTik tada lietuviai, išėję iš slėpynių, saugiai pasklido\npo laukus ir pradėjo visą kraštą baisiai niokoti. Jie\nišžudė daugybę žmonių, prisiplėšė visokio grobio, bet\ntik du šimtus dvidešimt žmonių išsivedė į vergovę."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185557
-    - t-196138
+    - t-003
+    - t-005

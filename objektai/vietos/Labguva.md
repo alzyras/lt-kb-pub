@@ -12,9 +12,8 @@ datos:
 date_start: '1276'
 date_end: '1966'
 amziai:
-  - 'XV'
-  - 'XX'
   - 'XIII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -41,19 +40,17 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68384"></a>
-- t-001
-  global_id: t-68384
+- t-002
   teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-67974
-    - c-001
+
 <a id="claim-t-201078"></a>
-- t-002
-  global_id: t-201078
+- t-003
   teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -84,15 +81,15 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   santrauka: 'Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
-    185—189.
+    114—120.
+    Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
+    Л., 1963, с.
   citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-68384
+  statusas: verified
+
 ## Citatos
 
 - id: c-67974
@@ -100,22 +97,21 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    114—120.
-    Мажюлис В. Заметки по прусскому вокализму. — Вопросы теории и истории языка,
-    Л., 1963, с.
-  citata_rodoma: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
     185—189.
+  citata_rodoma: "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.\n185—189."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68384
+    - t-002
+
 - id: c-184428
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tam pavykus, Lidelau ap-'
     sidrąsinęs persikėlė į antrą pusę Nemuno ir tenai
@@ -136,7 +132,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201078
+    - t-003
+
 ## Ryšiai
 - Užėmė Labguvą: [[objektai/grupes/Skalviai]]
 - Buvo žygio kryptis: [[objektai/grupes/Skalviai]]

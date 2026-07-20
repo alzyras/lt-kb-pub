@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-36478"></a>
 - t-001
-  global_id: t-36478
   teiginys: "Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ media_all_json: |-
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
     kunigaikštijos^2 ).
-  citata_rodoma: |
-    Tuo pat metu jis praplėtė savo valdžią Okos
-    aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
-    Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
-    kunigaikštijos^2 ).
+  citata_rodoma: "Tuo pat metu jis praplėtė savo valdžią Okos\naukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,\nMcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.\nkunigaikštijos^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36478
+    - t-001

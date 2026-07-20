@@ -31,7 +31,6 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 
 <a id="claim-t-42474"></a>
 - t-001
-  global_id: t-42474
   teiginys: "Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,17 +56,12 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 
     Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.
-  citata_rodoma: |
-    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
-
-    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
-    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
+  citata_rodoma: "Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.\n\nValstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja\nkaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-\njomis rezervą ypatinguoju laikotarpiu ar karo metu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42474
+    - t-001

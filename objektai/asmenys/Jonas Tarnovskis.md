@@ -33,8 +33,7 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
 ## Teiginiai
 
 <a id="claim-t-63736"></a>
-- t-001
-  global_id: t-63736
+- t-002
   teiginys: "Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
     - c-42029
 
 <a id="claim-t-63737"></a>
-- t-002
-  global_id: t-63737
+- t-001
   teiginys: "Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63737
+    - t-001
+
 - id: c-42029
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,21 +101,11 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
     vių ir lenkų kariuomenę, senųjų šaltinių
     duomenimis, sudarė 30000 (ar 35000)
     karių.
-  citata_rodoma: |
-    Juos papildė Lenkijos karalystės pini-
-    gais suverbuoti žmonės ir lenkų riteriai
-    savanoriai (10 vėliavų), vadovaujami
-    Jono Tarnovskio (būsimo Lenkijos di-
-    džiojo etmono), visų pirma - karaliaus
-    dvarionys, kuriems vadovavo Albertas
-    (Vaitiekus) Sampolinskis. Jungtinę lietu-
-    vių ir lenkų kariuomenę, senųjų šaltinių
-    duomenimis, sudarė 30000 (ar 35000)
-    karių.
+  citata_rodoma: "Juos papildė Lenkijos karalystės pini-\ngais suverbuoti žmonės ir lenkų riteriai\nsavanoriai (10 vėliavų), vadovaujami\nJono Tarnovskio (būsimo Lenkijos di-\ndžiojo etmono), visų pirma - karaliaus\ndvarionys, kuriems vadovavo Albertas\n(Vaitiekus) Sampolinskis. Jungtinę lietu-\nvių ir lenkų kariuomenę, senųjų šaltinių\nduomenimis, sudarė 30000 (ar 35000)\nkarių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63736
+    - t-002

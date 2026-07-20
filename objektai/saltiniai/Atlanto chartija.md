@@ -37,7 +37,6 @@ Iš visų trijų Baltijos valstybių L I E T U V O S I S T O R I J A 210 pasipri
 
 <a id="claim-t-26484"></a>
 - t-001
-  global_id: t-26484
   teiginys: "Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,19 +73,11 @@ Iš visų trijų Baltijos valstybių L I E T U V O S I S T O R I J A 210 pasipri
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
-  citata_rodoma: |
-    Iš visų trijų Baltijos valstybių
-
-    L I E T U V O S  I S T O R I J A
-    210
-    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
-    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
-    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
-    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
+  citata_rodoma: "Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26484
+    - t-001

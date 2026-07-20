@@ -31,7 +31,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 
 <a id="claim-t-87615"></a>
 - t-001
-  global_id: t-87615
   teiginys: "Aleksandras Baltramiejevičius buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę bažnyčiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87615
+    - t-001

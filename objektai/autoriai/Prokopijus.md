@@ -33,7 +33,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 
 <a id="claim-t-186291"></a>
 - t-001
-  global_id: t-186291
   teiginys: "Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 
 <a id="claim-t-190787"></a>
 - t-002
-  global_id: t-190787
   teiginys: "Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 
 <a id="claim-t-190788"></a>
 - t-003
-  global_id: t-190788
   teiginys: "Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,10 +93,9 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173670
-    - c-003
+
 <a id="claim-t-197638"></a>
 - t-004
-  global_id: t-197638
   teiginys: "Prokopijus net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -112,7 +108,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 
 <a id="claim-t-197639"></a>
 - t-005
-  global_id: t-197639
   teiginys: "Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -123,28 +118,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   pagrindžia:
     - c-179274
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-    290
-    Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
-    ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
-    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
-    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
-    pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190788
 ## Citatos
 
 - id: c-169652
@@ -177,7 +150,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186291
+    - t-001
+
 - id: c-173669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -198,7 +172,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190787
+    - t-002
+
 - id: c-173670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -214,24 +189,15 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
     jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
     pateiktas žinias apie skirius ir sudargus, apie hirius jau
     nematome jokių užuominų.
-  citata_rodoma: |
-    Bet, nenorėdami pažeisti mūsų pasakojimų chro­
-    nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
-    lietuvių gentį, iškeliavusią kartu su gotais į Rytus.
-    290
-    Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
-    ir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­
-    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
-    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
-    pateiktas žinias apie skirius ir sudargus, apie hirius jau
-    nematome jokių užuominų.
+  citata_rodoma: "Bet, nenorėdami pažeisti mūsų pasakojimų chro­\nnologinės tvarkos, turime atkreipti dėmesį dar ir į trečią\nlietuvių gentį, iškeliavusią kartu su gotais į Rytus.\n290\nIstorijoje esama aiškių įrodymų, kad tarp gotų buvę\nir hirių, tų pačių, apie kuriuos jau daug rašėme. Jorda­\nnas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­\njimą kaip ir Prokopijus; kai girdime tų pačių istorikų\npateiktas žinias apie skirius ir sudargus, apie hirius jau\nnematome jokių užuominų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190788
+    - t-003
+
 - id: c-179273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -254,7 +220,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197638
+    - t-004
+
 - id: c-179274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -275,4 +242,4 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197639
+    - t-005

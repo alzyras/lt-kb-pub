@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-54730"></a>
 - t-001
-  global_id: t-54730
   teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::items"
@@ -110,19 +109,11 @@ Nenurodyta
     Kad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.
     Kad trukdo skųstis karaliui.
     Už visa tai karalius baudžia šimto kapų grašių bauda.
-  citata_rodoma: |
-    Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
-    rika, XVI, 80, karalius priekaištavo Vilniaus magistratui:
-    Kad nesutaria su bendruomene.
-    Kad neišperka iš Vilniaus vaivados privilegijos už ben­
-    drus pinigus.
-    Kad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.
-    Kad trukdo skųstis karaliui.
-    Už visa tai karalius baudžia šimto kapų grašių bauda.
+  citata_rodoma: "Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­\nrika, XVI, 80, karalius priekaištavo Vilniaus magistratui: \nKad nesutaria su bendruomene.\nKad neišperka iš Vilniaus vaivados privilegijos už ben­\ndrus pinigus.\nKad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių. \nKad trukdo skųstis karaliui.\nUž visa tai karalius baudžia šimto kapų grašių bauda."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54730
+    - t-001

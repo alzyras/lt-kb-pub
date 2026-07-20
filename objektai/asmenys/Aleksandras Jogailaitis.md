@@ -7,11 +7,17 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1461 m.'
   - '1536 m.'
 date_start: '1461'
 date_end: '1536'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,11 +25,6 @@ tags:
   - kunigaikštis
   - valdovas
   - asmuo
-amziai:
-  - 'XV'
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '3'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg'
@@ -78,7 +79,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-54935"></a>
 - t-001
-  global_id: t-54935
   teiginys: "1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -97,7 +97,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-54936"></a>
 - t-002
-  global_id: t-54936
   teiginys: "Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -117,7 +116,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-54937"></a>
 - t-003
-  global_id: t-54937
   teiginys: "Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -137,7 +135,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-54938"></a>
 - t-004
-  global_id: t-54938
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -157,7 +154,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-54939"></a>
 - t-005
-  global_id: t-54939
   teiginys: "Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -176,8 +172,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-55310
 
 <a id="claim-t-54940"></a>
-- t-006
-  global_id: t-54940
+- t-007
   teiginys: "Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -193,8 +188,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-55311
 
 <a id="claim-t-54941"></a>
-- t-007
-  global_id: t-54941
+- t-009
   teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -214,8 +208,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78667
 
 <a id="claim-t-54942"></a>
-- t-008
-  global_id: t-54942
+- t-010
   teiginys: "Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -232,8 +225,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-55313
 
 <a id="claim-t-82170"></a>
-- t-009
-  global_id: t-82170
+- t-013
   teiginys: "Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -249,8 +241,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78661
 
 <a id="claim-t-82171"></a>
-- t-010
-  global_id: t-82171
+- t-020
   teiginys: "Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -266,8 +257,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78657
 
 <a id="claim-t-82172"></a>
-- t-011
-  global_id: t-82172
+- t-018
   teiginys: "Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -284,7 +274,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-82173"></a>
 - t-012
-  global_id: t-82173
   teiginys: "Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -304,8 +293,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78658
 
 <a id="claim-t-82174"></a>
-- t-013
-  global_id: t-82174
+- t-023
   teiginys: "Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -322,8 +310,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78670
 
 <a id="claim-t-82175"></a>
-- t-014
-  global_id: t-82175
+- t-024
   teiginys: "Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -339,8 +326,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78663
 
 <a id="claim-t-82176"></a>
-- t-015
-  global_id: t-82176
+- t-022
   teiginys: "Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -358,7 +344,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 
 <a id="claim-t-82177"></a>
 - t-016
-  global_id: t-82177
   teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -375,8 +360,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78667
 
 <a id="claim-t-82178"></a>
-- t-017
-  global_id: t-82178
+- t-019
   teiginys: "Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -392,8 +376,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78669
 
 <a id="claim-t-82179"></a>
-- t-018
-  global_id: t-82179
+- t-021
   teiginys: "Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -410,8 +393,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78664
 
 <a id="claim-t-82180"></a>
-- t-019
-  global_id: t-82180
+- t-017
   teiginys: "Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -428,8 +410,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78666
 
 <a id="claim-t-82181"></a>
-- t-020
-  global_id: t-82181
+- t-014
   teiginys: "Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -446,8 +427,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78662
 
 <a id="claim-t-82182"></a>
-- t-021
-  global_id: t-82182
+- t-015
   teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -466,8 +446,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78665
 
 <a id="claim-t-82183"></a>
-- t-022
-  global_id: t-82183
+- t-011
   teiginys: "Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -486,8 +465,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78659
 
 <a id="claim-t-184657"></a>
-- t-023
-  global_id: t-184657
+- t-025
   teiginys: "Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -506,8 +484,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168018
 
 <a id="claim-t-184658"></a>
-- t-024
-  global_id: t-184658
+- t-026
   teiginys: "Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -519,8 +496,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168019
 
 <a id="claim-t-184659"></a>
-- t-025
-  global_id: t-184659
+- t-027
   teiginys: "Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -539,10 +515,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168020
 
 <a id="claim-t-184660"></a>
-- t-026
-  global_id: t-184660
+- t-028
   teiginys: "Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -550,10 +525,10 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168021
+    - c-178667
 
 <a id="claim-t-184661"></a>
-- t-027
-  global_id: t-184661
+- t-029
   teiginys: "Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -573,8 +548,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168022
 
 <a id="claim-t-184662"></a>
-- t-028
-  global_id: t-184662
+- t-030
   teiginys: "Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -593,10 +567,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168023
 
 <a id="claim-t-188510"></a>
-- t-029
-  global_id: t-188510
+- t-006
   teiginys: "Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -613,10 +586,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-171400
 
 <a id="claim-t-190845"></a>
-- t-030
-  global_id: t-190845
+- t-031
   teiginys: "Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -634,8 +606,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-173727
 
 <a id="claim-t-193887"></a>
-- t-031
-  global_id: t-193887
+- t-033
   teiginys: "Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -647,8 +618,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-176512
 
 <a id="claim-t-193888"></a>
-- t-032
-  global_id: t-193888
+- t-034
   teiginys: "Aleksandras Jogailaitis gimė 1461 m. rugpjūčio 5 d. Krokuvoje ir buvo ketvirtasis Kazimiero bei Elžbietos sūnus."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -661,8 +631,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-176513
 
 <a id="claim-t-193889"></a>
-- t-033
-  global_id: t-193889
+- t-035
   teiginys: "Lietuvos metraštis Aleksandrą Jogailaitį vadina Lietuvos didžiuoju kunigaikščiu, kurį 1492 m. liepos 18 d. Vilniuje patvirtino visų LDK žemių seimas."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -675,8 +644,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-176514
 
 <a id="claim-t-196409"></a>
-- t-034
-  global_id: t-196409
+- t-036
   teiginys: "Iš karo stovyklos Aleksandras Jogailaitis leidosi į Krokuvą, gavęs žinią, kad Elžbieta susilaukė antrojo sūnaus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -689,8 +657,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-178666
 
 <a id="claim-t-196410"></a>
-- t-035
-  global_id: t-196410
+- t-037
   teiginys: "Albertas Vijūkas-Kojelavičius vaizduoja Aleksandrą Jogailaitį tik užprotestavus per pasiuntinį Vaitiekų Kiočką dėl Seversko kunigaikščių atsiskyrimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -703,8 +670,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-168018
 
 <a id="claim-t-196411"></a>
-- t-036
-  global_id: t-196411
+- t-038
   teiginys: "Apie pralaimėjimą prie Bobro upės sužinojęs Aleksandras Jogailaitis įrengė karo stovyklą Obolcuose, kad sustabdytų priešo žygį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -717,8 +683,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-178667
 
 <a id="claim-t-196807"></a>
-- t-037
-  global_id: t-196807
+- t-040
   teiginys: "O pas kui didysis kunigaikštis Aleksandras sugrįžo į Lietu vą 39."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -728,6 +693,42 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176512
+
+<a id="claim-t-201511"></a>
+- t-041
+  teiginys: "1494 m. Aleksandras Jogailaitis rėmė kauniečius, reikalaudamas kauniečiams laisvos laivybos Vysla ir grasindamas Priisų miestų pirkliams represijomis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184858
+
+<a id="claim-t-201512"></a>
+- t-042
+  teiginys: "Kitą kartą Aleksandras Jogailaitis suteikė parapinei bažnyčiai 2 kapas grašių iš vadinamųjų karčemų pinigų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184859
+
+<a id="claim-t-201513"></a>
+- t-043
+  teiginys: "Miestiečių pasiuntiniai pateikė teismui pluoštą Aleksandro Jogailaičio valdymo laikų dokumentų, įrodančių miesto nuosavybės į ginčijamus objektus teises."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184860
 - susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
@@ -814,8 +815,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54935
-    - t-54936
+    - t-001
+    - t-002
+
 - id: c-55309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -836,7 +838,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54938
+    - t-004
+
 - id: c-55310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -857,7 +860,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54939
+    - t-005
+
 - id: c-55311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -878,7 +882,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54940
+    - t-007
+
 - id: c-55313
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -898,7 +903,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54942
+    - t-010
+
 - id: c-78657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -920,7 +926,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82171
+    - t-020
+
 - id: c-78658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -940,25 +947,16 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: |
-    229
-
-    ## Puslapis 246
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.
+  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54937
-    - t-82173
+    - t-003
+    - t-012
+
 - id: c-78659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -977,26 +975,15 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
-  citata_rodoma: |
-    ), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
-    kymu, buvo kuo rūpestingiausiai garantuojama laisva
-    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
-    niaus miestiečių laivams su prekėmis, o keliantis perkėla
-    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
-    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
-    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
-    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82183
+    - t-011
+
 - id: c-78660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1043,7 +1030,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82176
+    - t-022
+
 - id: c-78661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1069,7 +1057,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82170
+    - t-013
+
 - id: c-78662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1134,7 +1123,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82181
+    - t-014
+
 - id: c-78663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1154,28 +1144,15 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     besiverčiantiems auksakalystės menu nesilaikant civilinės
     teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
     rams numatytos bausmės.
-  citata_rodoma: |
-    Šiuo raštu skel­
-    biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
-    ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems
-    senjorams* ir visam mūsų Vilniaus miesto auksakalių ce­
-    chui, buvo pakviestas garsusis Steponas Genseris, auksaka­
-    lys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį
-    turėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip
-    pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro,
-    mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­
-    to auksakalių cechui duotai ir mūsų patvirtintai privilegi­
-    jai, nebijodamas toje pačioje privilegijoje nedrausmingiems,
-    besiverčiantiems auksakalystės menu nesilaikant civilinės
-    teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
-    rams numatytos bausmės.
+  citata_rodoma: "Šiuo raštu skel­\nbiame visiems ir kiekvienam, kam dera žinoti, kad pas mus \nir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems \nsenjorams* ir visam mūsų Vilniaus miesto auksakalių ce­\nchui, buvo pakviestas garsusis Steponas Genseris, auksaka­\nlys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį \nturėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip \npat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, \nmūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­\nto auksakalių cechui duotai ir mūsų patvirtintai privilegi­\njai, nebijodamas toje pačioje privilegijoje nedrausmingiems, \nbesiverčiantiems auksakalystės menu nesilaikant civilinės \nteisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­\nrams numatytos bausmės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82175
+    - t-024
+
 - id: c-78664
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1201,7 +1178,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82179
+    - t-021
+
 - id: c-78665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1237,7 +1215,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82182
+    - t-015
+
 - id: c-78666
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1258,7 +1237,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82180
+    - t-017
+
 - id: c-78667
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1278,26 +1258,16 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
     greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
     dėl pavojingos Glinskio puikybės.
-  citata_rodoma: |
-    paskui, sugrįžęs į Krokuvą, vėl bu-
-    234
-
-    ## Puslapis 251
-
-    III KNYGA
-    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
-    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
-    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
-    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
-    dėl pavojingos Glinskio puikybės.
+  citata_rodoma: "paskui, sugrįžęs į Krokuvą, vėl bu-\n234\n\n## Puslapis 251\n\nIII KNYGA\nlėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­\ntinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o \njo palaikai iškart buvo palaidoti koplyčioje, prie katedros, \ngreta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą \ndėl pavojingos Glinskio puikybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54941
-    - t-82177
+    - t-009
+    - t-016
+
 - id: c-78668
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1318,7 +1288,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82172
+    - t-018
+
 - id: c-78669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1346,7 +1317,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82178
+    - t-019
+
 - id: c-78670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1381,7 +1353,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82174
+    - t-023
+
 - id: c-168018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1411,59 +1384,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
     damas ginkluota jėga jam atkeršyti už Olbrachto pra­
     laimėjimą kaip už savo paties pažeminimą.
-  citata_rodoma: |
-    Dėl šių priežasčių Severs­
-    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
-    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
-    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
-    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
-    tuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.
-    53S
-
-    Tiesa, žadėjo karalius patraukti su visomis jėgomis ir
-    atkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs
-    laišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra-
-    chtas Vengrijoje sumuštas brolio Vladislovo ir su nu­
-    galėtoju sudaręs santarvę, padarydamas Lietuvai daug
-    žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
-    damas ginkluota jėga jam atkeršyti už Olbrachto pra­
-    laimėjimą kaip už savo paties pažeminimą.
+  citata_rodoma: "Dėl šių priežasčių Severs­\nko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos, \nišdavė valstybę ir v isas savo valdas prijungė prie Mas­\nkvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių, \ntačiau jis nieko kito nesugebėjo padaryti, tik užprotes­\ntuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.\n53S\n\nTiesa, žadėjo karalius patraukti su visomis jėgomis ir \natkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs \nlaišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra- \nchtas Vengrijoje sumuštas brolio Vladislovo ir su nu­\ngalėtoju sudaręs santarvę, padarydamas Lietuvai daug \nžalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­\ndamas ginkluota jėga jam atkeršyti už Olbrachto pra­\nlaimėjimą kaip už savo paties pažeminimą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184657
-    - t-196410
+    - t-025
+    - t-037
+
 - id: c-168019
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Garsėjo šis val­
-    dovas ir savo šlovingu vardu, ir savo garbingais žy­
-    giais. Vidutinio ūgio, plikakaktis, pailgo ir prakaulaus
-    5 40
-
-    veido, kalbėdamas šiek tiek švepliavo; būdamas labai
-    kantrus ir kūnu, ir dvasia, nebijojo nei darbų, nei var­
-    gų. Gerdavo tiktai šaltą vandenį, o elgėsi ir rengėsi
-    paprastai ir kukliai kaip ir Jogaila. Didžiausias palaido
-    sanguliavimo priešas, ištiki-
-    Š v ie sio jo
-    V iln ia u s
-    miausias teisėtos žmonos vy-
-    v y s k u p o
-    A n d ria u s
-    ras, nepaprastai mėgo me-
-    m irtis
-    džioti, o draugams buvo la­
-    bai dosnus. Keliais mėnesiais
-    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
-    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
-    bei proto aštrumu.
-  citata_rodoma: |
     Gerokai nesutarė tie, kurie, visaip meilin-
     damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
     atvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus
@@ -1475,31 +1410,20 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     ramų savybių, žadino viltį, jog per savo gabumus susi­
     lauks tokios pat sėkmės, kokios iš pradžių buvo susi­
     laukęs jo tėvas.
+  citata_rodoma: "Gerokai nesutarė tie, kurie, visaip meilin-\ndamiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie\natvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus\nsutramdė dar tebegyva jų širdyse Kazimiero įtaka ir\npagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­\nsandro, kurį paskutinę gyvenimo valandą Kazimieras\npriešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,\nir pats Aleksandras, jaunikaitis, kupinas valdovui de­\nramų savybių, žadino viltį, jog per savo gabumus susi­\nlauks tokios pat sėkmės, kokios iš pradžių buvo susi­\nlaukęs jo tėvas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184658
+    - t-026
+
 - id: c-168020
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Akivaizdus ir nepaprastas tautos pritarimas
-    ju k u n ig a ik ščiu
-    susirinko į Vilniaus seimą. At­
-    vyko ir tokie žymūs vyrai,
-    5 4 2
-
-    neleido atidėlioti vainikavimo
-    P a k ėlim a s į so stą
-    dienos: iš tos vietos, kur po­
-    sėdžiavo seimas, valdovo ap­
-    daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
-    katedrą ir pasodino į tėvo sostą.
-  citata_rodoma: |
     Akivaizdus ir nepaprastas tautos pritarimas
     ju  k u n ig a ik ščiu
     susirinko į Vilniaus seimą. At­
@@ -1514,29 +1438,20 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     sėdžiavo seimas, valdovo ap­
     daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
     katedrą ir pasodino į tėvo sostą.
+  citata_rodoma: "Akivaizdus ir nepaprastas tautos pritarimas\nju  k u n ig a ik ščiu\nsusirinko į Vilniaus seimą. At­\nvyko ir tokie žymūs vyrai,\n5 4 2\n\n## Puslapis 541\n\nneleido atidėlioti vainikavimo\nP a k ėlim a s į so stą\ndienos: iš tos vietos, kur po­\nsėdžiavo seimas, valdovo ap­\ndaru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo\nkatedrą ir pasodino į tėvo sostą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184659
+    - t-027
+
 - id: c-168021
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to visi it vienas pa­
-    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
-    kariuomenė, vargais negalais nužygiavusi dvi mylias,
-    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
-    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
-    sitraukė iš atviro lauko į stovyklą. Besitraukiantiems
-    ant kulnų lipo Konstantinas, tačiau, perdaug karštai
-    siekdamas pergalės, susilaukė pralaimėjimo: visiems
-    pulkams pasklidus atviroje lygumoje, parodė priešams,
-    kaip mažai teturi kariuomenės.
-  citata_rodoma: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
     kinimus: ne tik kojas jam it vergui surakino grandinė­
@@ -1547,34 +1462,20 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     se. Kodėl vėliau Aleksandras su kariuomene patraukė
     link Polocko, nei kur parašyta radau, nei pats atspėti
     galėjau.
+  citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184660
+    - t-028
+
 - id: c-168022
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Visiems buvo
-    aišku, kad nepaprastą valdovo rūstį sukurstė ne jo pri­
-    gimtis, bet nuolatiniai Glinskio įkalbinėjimai, štai to­
-    dėl tie, kurie patyrė karaliaus pyktį, dabar, sutelkę
-    jėgas, ėmėsi priemonių jį nuversti. Žmonėse sklido ne­
-    žinia kieno paleisti gandai, kad Mykolas Glinskis taiks­
-    tosi, susidorojęs su lietuvių kilmės didikais, užgrobti
-    Lietuvos kunigaikštystę ir kad dėl šių jo užmačių Alek­
-    sandro gyvybei gresia pavojus. Sunku pasakyti, ar tai
-    buvo paskalos, ar teisybė, bet daugelis tuo patikėjo:
-    taip jau esti, kad apie visas žymiąsias šeimas daugiau­
-    sia ir sklinda visokiausių šnekų. Pats Glinskis, pasiti­
-    kėdamas valdovo palankumu, nekreipė dėmesio į
-    žmonių kalbas, nors savo ruožtu visaip stengėsi pra­
-    žudyti gandų skleidėjus.
-  citata_rodoma: |
     Neatsispyręs kas dieną girdimiems Glinskio
     klastingiems
     raginimams,
@@ -1595,13 +1496,15 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     mi apie karaliaus sumanymus, į seimą kaip paprastai
     suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
     Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+  citata_rodoma: "Neatsispyręs kas dieną girdimiems Glinskio\nklastingiems\nraginimams,\nKaralius\npasmerkia\nAleksandras pasmerkė mir-\nmirčiai\nžymiausius\nčiai Žemaitijos seniūną Sta-\nLietuvos didikus\nnislovą Žarnovskį, Smolens­\nko vietininką Stanislovą Kiš­\nką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos\nmaršalą Joną Zaberezinskį ir kitus to paties luomo ir\ntos pačios minties žmones. Jis sušaukė Breste seimą,\nketindamas kokia nors dingstimi sukviesti ten žymiau­\nsius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­\nmi apie karaliaus sumanymus, į seimą kaip paprastai\nsuvažiavo gausybė bajorų, tačiau, karalystės kanclerio\nJono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184661
+    - t-029
+
 - id: c-168023
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1626,23 +1529,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184662
+    - t-030
+
 - id: c-171400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
-    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
-    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
-    niavos. Visokios pastabos ir istorijos liudijimai teikia žinių, kad
-    lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
-    nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
-    dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
-    mu deramai pateisindavo nuomonę apie juos. Kiekvienas žy­
-    nys ar vaidilutė privalėjo likti viengungiai, laikytis nepriekaiš­
-    tingos skaistybės, būti nepapeikiamų papročių.
-  citata_rodoma: |
     Tai tikriausiai pati seniausia šventovė Že­
     maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
     Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
@@ -1650,27 +1543,20 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     toje buvo pastatyta filija .
     Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
     vių, kurios priklausė ugnies šventovėms piratėjoms.
+  citata_rodoma: "Tai tikriausiai pati seniausia šventovė Že­\nmaitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,\nVilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­\ndant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­\ntoje buvo pastatyta filija .\nLietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188510
+    - t-006
+
 - id: c-173727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    L. 158).
-    1,2 /Ten pat, 1 pastraipos 9 eilutės sakinio minties tęsinys/
-    Toji šventykla turėjo būti su kariniais įtvirtinimais, nes senovi­
-    niuose XVI amžiaus dokumentuose minima senovinė piliavietė ir
-    būtent šioje vietoje kadaise stovėję įtvirtinimai17“.
-    17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
-    Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-
-    vas.
-  citata_rodoma: |
     Tai tik­
     riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
     joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
@@ -1682,13 +1568,15 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     jo
     įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
     ,9a Ludwik z Pokiewia.
+  citata_rodoma: "Tai tik­\nriausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­\njoje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero\nir Zurblio (2urblis)\npievos.\nValdant\nkaraliui\nAleksandrui,\njo\nįsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.\n,9a Ludwik z Pokiewia."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190845
+    - t-031
+
 - id: c-176512
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1711,34 +1599,27 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193887
-    - t-196807
+    - t-033
+    - t-040
+
 - id: c-176513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    5 Trisdešimt
-    vienerių
-    metų
-    Aleksandras
-    (gimė
-    Krokuvoje
-    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos imperatoriaus
-    Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
-    vo n e Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
-  citata_rodoma: |
     5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
     1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
     Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
     vo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
+  citata_rodoma: "5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje \n1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus \nAlbrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­\nvo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193888
+    - t-034
+
 - id: c-176514
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1752,7 +1633,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193889
+    - t-035
+
 - id: c-178666
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1773,7 +1655,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196409
+    - t-036
+
 - id: c-178667
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1798,7 +1681,62 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196411
+    - t-028
+    - t-038
+
+- id: c-184858
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kaunas grasino Tomui, esą jei jis trukdys kauniečiams laivybą Vysla, Kaunas
+    neleis Torno laivų į Nemuną. 1494 m. Aleksandras Jogailaitis rėmė kauniečius, reika-
+    laudamas kauniečiams laisvos laivybos Vysla ir grasindamas Priisų miestų pirkliams
+    represijomis.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-184859
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Klebonas,
+    tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją Didžiojoje gatvėje.
+    Kitą kartą Aleksandras Jogailaitis suteikė parapinei bažnyčiai 2 kapas grašių iš va-
+    dinamųjų karčemų pinigų. Šiuos pinigus klebonui turėjo išmokėti Kauno pilininkas.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
+- id: c-184860
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Miestas skundėsi, kad seniūnas užgrobė miestui priklausan-
+    čias ganyklas Raginėje ir malūną ant Jiesios. Miestiečių pasiuntiniai pateikė teismui
+    pluoštą Aleksandro Jogailaičio valdymo laikų dokumentų, įrodančių miesto nuo-
+    savybės į ginčijamus objektus teises. Seniūnas neneigė, kad ginčijamos ganyklos ir
+    malūnas kadaise priklausę miestui, bet jie jam atitekę su seniūnija, taigi seniūnai jau
+    anksčiau jais disponavę.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

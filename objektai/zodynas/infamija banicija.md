@@ -32,7 +32,6 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
 
 <a id="claim-t-74030"></a>
 - t-001
-  global_id: t-74030
   teiginys: "Lietuvoje teismo sprendimas dėl infamijos ar banicijos negaliojo, kol jo nepatvirtindavo kancleris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74030
+    - t-001

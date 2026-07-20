@@ -40,7 +40,6 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
 
 <a id="claim-t-30971"></a>
 - t-001
-  global_id: t-30971
   teiginys: "S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
     pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
     vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
     1965, 169-183 p.).
-  citata_rodoma: |
-    Apie Vilniaus amatų pramonę, dar­
-    bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.
-    pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
-    vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
-    1965, 169-183 p.).
+  citata_rodoma: "Apie Vilniaus amatų pramonę, dar­\nbininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.\npradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­\nvičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,\n1965, 169-183 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30971
+    - t-001

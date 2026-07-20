@@ -44,7 +44,6 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
 
 <a id="claim-t-192193"></a>
 - t-001
-  global_id: t-192193
   teiginys: "Teodoro Narbuto aiškinimu, Wespats lietuvių kalba reiškia poną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -62,8 +61,7 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
     - c-175059
 
 <a id="claim-t-192194"></a>
-- t-002
-  global_id: t-192194
+- t-003
   teiginys: "Teodoro Narbuto aiškinimu, Wespats, vartojamas su kitu žodžiu, reiškia patvaldystę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -81,8 +79,7 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
     - c-175059
 
 <a id="claim-t-192195"></a>
-- t-003
-  global_id: t-192195
+- t-002
   teiginys: "Teodoro Narbuto perteikimu, Sirvydo žodyne Wespats tiksliau aiškinamas kaip visagalis ponas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -112,16 +109,13 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
     2 Svetimšalių rašytojų iškraipytas vardas, tačiau atrodo, jog bu­
     vęs lietuviškos kilmės, nes turi šaknį Gan, iš kurios kilęs žodis Ga­
     nau, taip pat prieveiksmis Gana.
-  citata_rodoma: |
-    Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)
-    rašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas
-    sujungtas su kitu, reiškia patvaldystę.
+  citata_rodoma: "Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)\nrašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas\nsujungtas su kitu, reiškia patvaldystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192193
-    - t-192194
-    - t-192195
+    - t-001
+    - t-003
+    - t-002

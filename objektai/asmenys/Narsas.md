@@ -31,7 +31,6 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
 
 <a id="claim-t-191298"></a>
 - t-001
-  global_id: t-191298
   teiginys: "Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisidėjo prie jų išvarymo iš Italijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191298
+    - t-001

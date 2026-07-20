@@ -31,7 +31,6 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 
 <a id="claim-t-188918"></a>
 - t-001
-  global_id: t-188918
   teiginys: "Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prūsuose vieta, kur degė nuolat kurstoma ugnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 
 <a id="claim-t-188919"></a>
 - t-002
-  global_id: t-188919
   teiginys: "Narbutas rašo, kad Šventamiestyje, vėlesniame Heiligenbeilyje, augo žiemą ir vasarą žalias nepaprasto storumo ąžuolas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,45 +72,17 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 
 <a id="claim-t-188920"></a>
 - t-003
-  global_id: t-188920
   teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Heiligenbeilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Heiligenbeilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad šventasis ąžuolas augo šventyklos aptvare Heiligenbeilyje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171809
-    - c-003
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įėjimas -  tai priekiniai vartai, į dešinę
-    nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
-    arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
-    rėk VII lentelėje).
-    Kita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­
-    klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
-    7141-asis puslapis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188920
+    - c-171808
+
 ## Citatos
 
 - id: c-171807
@@ -132,7 +102,8 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188918
+    - t-001
+
 - id: c-171808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,23 +126,14 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188919
+    - t-002
+    - t-003
+
 - id: c-171809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai
-    XVII amžiaus pabaigoje jėzuitai atsikraustė į Kauną, lai iš pra­
-    džių įsigijo tik du pastatus: viename palys apsigyveno, o kitą per­
-    statė į bažnyčią. Tai ir buvo toji šventykla, vėliau paversta svirnu,
-    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
-    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
-    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
-    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
-    ponas Laurinavičius - garbingasis Kauno mokyklos profesorius
-    ir prefektas)*.
-  citata_rodoma: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
     arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
@@ -179,10 +141,9 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
     Kita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­
     klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
     7141-asis puslapis.
+  citata_rodoma: "Įėjimas -  tai priekiniai vartai, į dešinę\nnuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,\narba svečių namas (šios šventyklos ir viso miesto piešinį žiū­\nrėk VII lentelėje).\nKita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­\nklį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-\n7141-asis puslapis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188920

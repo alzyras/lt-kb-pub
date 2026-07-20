@@ -40,7 +40,6 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
 
 <a id="claim-t-36135"></a>
 - t-001
-  global_id: t-36135
   teiginys: "J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
     Berlin, 1906.
     Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
     Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
-  citata_rodoma: |
-    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
-    Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
+  citata_rodoma: "Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,\nVilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36135
+    - t-001

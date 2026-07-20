@@ -30,7 +30,6 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
 
 <a id="claim-t-88443"></a>
 - t-001
-  global_id: t-88443
   teiginys: "Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88443
+    - t-001

@@ -31,7 +31,6 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
 
 <a id="claim-t-192872"></a>
 - t-001
-  global_id: t-192872
   teiginys: "Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kadaise stovėjusia pilimi ir netoliese buvusia šventa giria bei šventove."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,7 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175642
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kadaise stovėjusia pilimi ir netoliese buvusia šventa giria bei šventove.'
@@ -69,8 +68,7 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192872
+
 ## Citatos
 
 - id: c-175642
@@ -90,20 +88,11 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
     vietą primena Heiligenmalde, esanti į pietus nuo Christ­
     burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
     vietinis Krivis.
-  citata_rodoma: |
-    Belichovo pilis, kilmingojo Jono
-    buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-
-    lochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat
-    Mokrau kaimo. Ant Grevožos kalno, kur dabar stūkso
-    Christburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­
-    liese buvusią šventą girią ir šventovę; šiandien tą Šventą
-    vietą primena Heiligenmalde, esanti į pietus nuo Christ­
-    burgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs
-    vietinis Krivis.
+  citata_rodoma: "Belichovo pilis, kilmingojo Jono\nbuveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-\nlochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat\nMokrau kaimo. Ant Grevožos kalno, kur dabar stūkso\nChristburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­\nliese buvusią šventą girią ir šventovę; šiandien tą Šventą\nvietą primena Heiligenmalde, esanti į pietus nuo Christ­\nburgo. Netgi teigiama, kad Grevožos tvirtovėje gyvenęs\nvietinis Krivis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192872
+    - t-001

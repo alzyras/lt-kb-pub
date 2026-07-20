@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-187470"></a>
 - t-001
-  global_id: t-187470
   teiginys: "Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "gap::events"
@@ -84,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-187471"></a>
 - t-002
-  global_id: t-187471
   teiginys: "Žygimanto Kęstutaičio nužudymas datuojamas 1440 m."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "gap::events"
@@ -118,19 +116,12 @@ Nenurodyta
     sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
-  citata_rodoma: |
-    Bychovco kronikos rankraštį prieš 1830 m. Alek­
-    sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
-    niaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl
-    dalyvavimo 1831 m. sukilime turėdamas emigruoti į už­
-    sienį, jis tespėjo paskelbti dramatiškiausią Bychovco
-    kronikos fragmentą — pasakojimą apie Vytauto brolio
-    Žygimanto Kęstutaičio nužudymą 1440 m.
+  citata_rodoma: "Bychovco kronikos rankraštį prieš 1830 m. Alek­\nsandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­\nniaus gimnazijos mokytojas Ipolitas Klimaševskis. Dėl\ndalyvavimo 1831 m. sukilime turėdamas emigruoti į už­\nsienį, jis tespėjo paskelbti dramatiškiausią Bychovco\nkronikos fragmentą — pasakojimą apie Vytauto brolio\nŽygimanto Kęstutaičio nužudymą 1440 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187470
-    - t-187471
+    - t-001
+    - t-002

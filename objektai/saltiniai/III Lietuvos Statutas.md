@@ -7,10 +7,10 @@ datos:
   - '1588 m.'
 date_start: '1588'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
 
 <a id="claim-t-202275"></a>
 - t-001
-  global_id: t-202275
   teiginys: "II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir valdovui paskelbus visuotinį šaukimą organizuoti jį paviete."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202275
+    - t-001

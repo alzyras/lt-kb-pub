@@ -39,7 +39,6 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
 
 <a id="claim-t-77810"></a>
 - t-001
-  global_id: t-77810
   teiginys: "Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77810
+    - t-001

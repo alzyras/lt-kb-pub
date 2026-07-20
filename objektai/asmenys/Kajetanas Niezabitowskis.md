@@ -7,15 +7,15 @@ datos:
   - '1823 m.'
 date_start: '1823'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
 
 <a id="claim-t-191349"></a>
 - t-001
-  global_id: t-191349
   teiginys: "Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,24 +59,7 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174231
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    T. Narbutas turėjo omenyje straipsnj:
-    Krotki spis niektorych starožytnych zabytkow, znajdujących się w
-    zbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza
-    pisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-
-    go // Dziennik Wilenski. 1823. T. II. S. 157—161.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191349
+
 ## Citatos
 
 - id: c-174231
@@ -85,23 +67,16 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L. 229—230). Apie papildymo genezę žr. 146
-    paaiškinimą.
-    162 /Ten pat, 2 pastraipos 1 sakinio minties tęsinys — nauja išnaša/
-    3 Generolo grafo Kosakovskio senienų rinkinyje yra stiklinis
-    tuščiaviduris rutuliukas, kuris buvo atkastas netoli Lukoinių dva­
-    ro (Kauno apskrityje) greta skeleto, apjuosto sidabro grandine.
-  citata_rodoma: |
     T. Narbutas turėjo omenyje straipsnj:
     Krotki spis niektorych starožytnych zabytkow, znajdujących się w
     zbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza
     pisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-
     go // Dziennik Wilenski. 1823. T. II. S. 157—161.
+  citata_rodoma: "T. Narbutas turėjo omenyje straipsnj:\nKrotki spis niektorych starožytnych zabytkow, znajdujących się w\nzbiorze obywatela prowincyi Zmudzkiej Dionizego Paszkiewicza\npisarza ziem. ptu Rosienskiego, przez Kajetana Niezabitowskie-\ngo // Dziennik Wilenski. 1823. T. II. S. 157—161."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191349
+    - t-001

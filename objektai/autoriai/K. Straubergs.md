@@ -39,7 +39,6 @@ Straubergs, K.
 
 <a id="claim-t-30752"></a>
 - t-001
-  global_id: t-30752
   teiginys: "K. Straubergs 1948 m. paskelbė darbą „Latvju sakrālā pasaule“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,12 @@ Straubergs, K.
     — Straubergs, K. : _Latvju sakrālā
     pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
     *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
-    University, nr.
-  citata_rodoma: |
-    — Straubergs, K. : _Latvju sakrālā
-    pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
-    *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
-    University, nr.
+    University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
+  citata_rodoma: "— Straubergs, K. : _Latvju sakrālā\npasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga\n*1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic\nUniversity, nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30752
+    - t-001

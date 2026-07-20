@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35569"></a>
-- t-001
-  global_id: t-35569
+- t-005
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-38231
 
 <a id="claim-t-35570"></a>
-- t-002
-  global_id: t-35570
+- t-007
   teiginys: "Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-38233
 
 <a id="claim-t-35571"></a>
-- t-003
-  global_id: t-35571
+- t-006
   teiginys: "Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -114,7 +111,6 @@ Nenurodyta
 
 <a id="claim-t-35572"></a>
 - t-004
-  global_id: t-35572
   teiginys: "1420 m. husitai pasiūlė Jogailai Šv. Vaclovo karūną."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -150,7 +146,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35572
+    - t-004
+
 - id: c-38231
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -164,18 +161,15 @@ Nenurodyta
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
-  citata_rodoma: |
-    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
-    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
-    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
-    linkybėms, Vytautas nuo to sumanymo atsisakė.
+  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35569
+    - t-005
+
 - id: c-38232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -191,19 +185,15 @@ Nenurodyta
     taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
     lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
     mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
-  citata_rodoma: |
-    Pamatęs, kad jo jė­
-    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
-    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
-    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
-    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
+  citata_rodoma: "Pamatęs, kad jo jė­\ngos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:\ntaip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­\nlėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos\nmėginimu, kai paaiškėjo, kad ją sunku įgyvendinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35571
+    - t-006
+
 - id: c-38233
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -214,13 +204,11 @@ Nenurodyta
     kad šiuo metu Vytauto reikšmė lietuvių lenkų sąjungoj iškilo į
     pirmą vietą. Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
     kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
-  citata_rodoma: |
-    Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
-    kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
+  citata_rodoma: "Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­\nkalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35570
+    - t-007

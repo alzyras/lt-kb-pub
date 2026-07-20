@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21074"></a>
 - t-001
-  global_id: t-21074
   teiginys: "1792 m. liepos 23 d. Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir priimti Jekaterinos II notą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ media_all_json: |-
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: |
-    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+  citata_rodoma: "Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21074
+    - t-001

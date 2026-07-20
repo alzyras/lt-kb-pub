@@ -40,8 +40,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Teiginiai
 
 <a id="claim-t-26555"></a>
-- t-001
-  global_id: t-26555
+- t-005
   teiginys: "XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - c-26783
 
 <a id="claim-t-26556"></a>
-- t-002
-  global_id: t-26556
+- t-006
   teiginys: "Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,17 +87,15 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: |
-    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
-    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
-    po poros dešimtmečių sukūrę Lietuvos Respubliką.
+  citata_rodoma: "Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-\nviams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,\npo poros dešimtmečių sukūrę Lietuvos Respubliką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26555
+    - t-005
+
 - id: c-26784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,15 +107,11 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
     arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
     tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
-  citata_rodoma: |
-    Tiesa,
-    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
-    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
-    tautą, o Lietuvą laikė Lenkijos dalimi.
+  citata_rodoma: "Tiesa,\nnutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“\narba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų\ntautą, o Lietuvą laikė Lenkijos dalimi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26556
+    - t-006

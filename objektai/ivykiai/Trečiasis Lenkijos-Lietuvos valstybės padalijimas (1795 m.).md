@@ -59,8 +59,7 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
 ## Teiginiai
 
 <a id="claim-t-187973"></a>
-- t-001
-  global_id: t-187973
+- t-004
   teiginys: "Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -80,8 +79,7 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
     - c-170973
 
 <a id="claim-t-187974"></a>
-- t-002
-  global_id: t-187974
+- t-003
   teiginys: "Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -124,20 +122,12 @@ Data: 1795 m.
     jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
     su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
     Lenkijos ir Lietuvos nepriklausomybę.
-  citata_rodoma: |
-    Šie Europoje vykstantys audringi socialinio, politinio ir kul­
-    tūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­
-    tuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai
-    neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
-    rijos imperijoms. Naujų socialinių ekonominių santykių, nau­
-    jo gyvenimo būdo, naujos kultūros formavimasis čia sutapo
-    su tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už
-    Lenkijos ir Lietuvos nepriklausomybę.
+  citata_rodoma: "Šie Europoje vykstantys audringi socialinio, politinio ir kul­\ntūrinio gyvenimo procesai negalėjo neveikti ir Lenkijos-Lie­\ntuvos valstybės, kuri po trečiojo padalijimo (1795 m.) visiškai\nneteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­\nrijos imperijoms. Naujų socialinių ekonominių santykių, nau­\njo gyvenimo būdo, naujos kultūros formavimasis čia sutapo\nsu tautinio išsivaduojamojo judėjimo stiprėjimu, su kova už\nLenkijos ir Lietuvos nepriklausomybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187973
-    - t-187974
+    - t-004
+    - t-003

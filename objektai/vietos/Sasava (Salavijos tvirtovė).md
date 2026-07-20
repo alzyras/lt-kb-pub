@@ -31,7 +31,6 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 
 <a id="claim-t-192852"></a>
 - t-001
-  global_id: t-192852
   teiginys: "Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175622
-    - c-001
+
 <a id="claim-t-197925"></a>
 - t-002
-  global_id: t-197925
   teiginys: "Gar siausia šios provincijos tvirtovė buvo Sasava, stovėjusi kažkokios upės pakrantėje, bet tai tiksliai nenustatyta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,29 +67,6 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 - susijęs iš Lubava: Narbutas rašo, kad mažosios Lubavos ir Sasavos žemės ribojosi prie senosios sienos tarp Kulmo krašto ir senovės Prūsijos.
 - susijęs iš Kulmas: Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą.
 - susijęs iš Kulmas: Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ne Sarkės, o Šar­
-    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
-    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
-    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-
-    ## Puslapis 370
-
-    dos turėjo būti vadinama Cyse arba Sussa.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192852
 ## Citatos
 
 - id: c-175622
@@ -99,17 +74,6 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Antra šalaviečių pilis,
-    stovėjusi Lietuvos pasienyje, buvo vadinama Sarkais; čia
-    gyveno galingas ir narsus karžygis Šarkis, galbūt tai
-    šiandienė Sarkė, esanti netoli Selenų. Ne Sarkės, o Šar­
-    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
-    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
-    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
-    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
-    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
-    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
-  citata_rodoma: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
     dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
@@ -121,13 +85,15 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
     ## Puslapis 370
 
     dos turėjo būti vadinama Cyse arba Sussa.
+  citata_rodoma: "Ne Sarkės, o Šar­\nkučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­\ndos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-\nkutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­\nsiausia šios provincijos tvirtovė buvo Sasava, stovėjusi\nkažkokios upės pakrantėje, bet tai tiksliai nenustatyta.\nPretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­\n\n## Puslapis 370\n\ndos turėjo būti vadinama Cyse arba Sussa."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192852
+    - t-001
+
 - id: c-179402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -148,6 +114,7 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197925
+    - t-002
+
 ## Ryšiai
 - Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]]

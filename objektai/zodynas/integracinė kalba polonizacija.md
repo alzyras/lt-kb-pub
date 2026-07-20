@@ -31,8 +31,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 ## Teiginiai
 
 <a id="claim-t-22165"></a>
-- t-001
-  global_id: t-22165
+- t-002
   teiginys: "Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - c-24852
 
 <a id="claim-t-22166"></a>
-- t-002
-  global_id: t-22166
+- t-001
   teiginys: "Lenkų kalba LDK bajorijai tapo integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,15 +76,15 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
-  citata_rodoma: |
-    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
+  citata_rodoma: "tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22166
+    - t-001
+
 - id: c-24852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -96,12 +94,11 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
     buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
     menės pasirinkimas, o ne polonizacija.
-  citata_rodoma: |
-    statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
+  citata_rodoma: "statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22165
+    - t-002

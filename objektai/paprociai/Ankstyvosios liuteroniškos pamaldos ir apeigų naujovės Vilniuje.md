@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-185859"></a>
 - t-001
-  global_id: t-185859
   teiginys: "Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,28 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169220
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Nauji tikybiniai įsitikinimai laisvai plito po didikų
-    bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
-    kėlė galvą per puotas ir gėrynes, tačiau kelias į baž­
-    nyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­
-    vam tebesant vyskupui Povilui, kažkoks Viklifo pase­
-    kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­
-    dimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus
-    vokiečių kilmės žmonėms, amatininkams ir pirkliams,
-    ir ten pat laikyti pamaldas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185859
+
 ## Citatos
 
 - id: c-169220
@@ -92,26 +70,6 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    1555 m e ta i
-    Vis dėlto Augustas išsiuntė į
-    Š ešerių m e tų paliau -
-    Maskvą įgaliotus legatus tar-
-    b o s su m a sk v ė n a is
-    tis dėl taikos: Zbaražo ku­
-    nigaikštį Steponą,
-    Polocko
-    vaivadą maršalą Joną Šimkovičių, Lietuvos raštininką
-    Vaclovą Mikalojaitį bei Povilą Sokolinksį, Drucko
-    kunigaikštį. Kai po įprastinių pasiuntinių sutikimo
-    iškilmių jie pasisakė esą atsiųsti tartis dėl taikos, mask-
-    vėnai jiems štai ką pareiškė. Esą didysis kunigaikštis
-    Ivanas nieko ligi šiol nėra taip troškęs kaip taikos,
-    tačiau karaliaus pasiuntiniai, atkakliai nenorėję pripa­
-    žinti jam teisėtai priklausančio titulo, trukdę susitarti
-    šiuo reikalu. Dabar prisidėjusi dar viena svarbi aplin­
-    kybė, didžiai kliudanti santarvei, mat karalius sukurs­
-    tęs prieš Maskvos kunigaikštystę skitus.
-  citata_rodoma: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
     bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
     kėlė galvą per puotas ir gėrynes, tačiau kelias į baž­
@@ -121,10 +79,11 @@ Nenurodyta
     dimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus
     vokiečių kilmės žmonėms, amatininkams ir pirkliams,
     ir ten pat laikyti pamaldas.
+  citata_rodoma: "Nauji tikybiniai įsitikinimai laisvai plito po didikų\nbei bajorų dvarus, nuolatos pripilamų taurių kurstomi,\nkėlė galvą per puotas ir gėrynes, tačiau kelias į baž­\nnyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­\nvam tebesant vyskupui Povilui, kažkoks Viklifo pase­\nkėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­\ndimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus\nvokiečių kilmės žmonėms, amatininkams ir pirkliams,\nir ten pat laikyti pamaldas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185859
+    - t-001

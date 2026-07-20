@@ -40,7 +40,6 @@ Prochaska, A.
 
 <a id="claim-t-31597"></a>
 - t-001
-  global_id: t-31597
   teiginys: "A. Prochaskos „Dzieje Witolda w. księcia Litwy“ buvo išleista Vilniuje 1914 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Prochaska, A.
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)
     _Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_
     nes, A. : _Zur Kritik des XI.
-  citata_rodoma: |
-    —
-    Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)
-    _Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_
-    nes, A.
+  citata_rodoma: "—\nProchaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914. — (”)\n_Znaczenie niedoszłej koronacji Witolda_ , AW, I, 1923, 337-351 p. — Sar _­_\nnes, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31597
+    - t-001

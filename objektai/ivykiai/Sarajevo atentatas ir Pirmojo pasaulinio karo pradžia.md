@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-66872"></a>
 - t-001
-  global_id: t-66872
   teiginys: "1914 m. birželio 28 d. Sarajeve pasikėsinimas į Pranciškų Ferdinandą paskatino Europos koalicijas pereiti į karo padėtį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,29 +103,11 @@ Nenurodyta
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    129
-    Teritorija, apie kurią lietuvių svajota: „Lituania Propria“
-    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
-    (Paryžius, 1920))
-
-    L I E T U V O S  I S T O R I J A
-    130
-    KOVA DĖL NEPRIKLAUSOMYBĖS
-    Lietuvos planai: nuo autonomijos
-    iki nepriklausomybės
-    N
-    aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
-    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
-    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
-    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
-    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę.
+  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n129\nTeritorija, apie kurią lietuvių svajota: „Lituania Propria“  \n(žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ \n(Paryžius, 1920))\n\nL I E T U V O S  I S T O R I J A\n130\nKOVA DĖL NEPRIKLAUSOMYBĖS\nLietuvos planai: nuo autonomijos  \niki nepriklausomybės\nN\naują impulsą savo veiklai Europos šalių tautiniai są-\njūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-\ndėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą \n(Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-\nkietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-\ncūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66872
+    - t-001

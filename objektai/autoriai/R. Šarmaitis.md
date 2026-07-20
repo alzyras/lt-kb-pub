@@ -9,15 +9,15 @@ datos:
   - '1971 m.'
 date_start: '1963'
 date_end: '1971'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - redaktorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-186448"></a>
 - t-001
-  global_id: t-186448
   teiginys: "R. Šarmaitis 1963 m. žurnale „Komunistas“ paskelbė straipsnį „Iš marksistinių-lenininių pozicijų“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
@@ -59,9 +58,8 @@ media_all_json: |-
   pagrindžia:
     - c-169803
 
-<a id="claim-t-186450"></a>
-- t-002
-  global_id: t-186450
+<a id="claim-t-186449"></a>
+- t-003
   teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
@@ -79,23 +77,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
   pagrindžia:
     - c-169800
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186450
+
 ## Citatos
 
 - id: c-169800
@@ -103,27 +85,20 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
     MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
     *
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+  citata_rodoma: "REDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,  \nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186450
+    - t-003
+
 - id: c-169803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -135,17 +110,11 @@ media_all_json: |-
     _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
     pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
     _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
-  citata_rodoma: |
-    — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
-    rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
-    lenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :
-    _Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­
-    pa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :
-    _Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.).
+  citata_rodoma: "— Sideravičius, K. : _Marksistinė Lietuvos TSR isto­\nrija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-\nlenininių pozicijų,_ Komunistas, 1963, nr. 10, 42-47 p. — Trumpa, V. :\n_Lietuvos istorikų darbai ir dienos,_ Aidai, 1960, nr. 6, 258-263 p. — Trum­\npa, V. : _Istoriniai laikai,_ LE, t. 9, 124-125 p. — Varakauskas, R. :\n_Lietuvos valstybės susidarymo klausimu_ (IstV, t. 10, 1969, 169-180 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186448
+    - t-001

@@ -32,7 +32,6 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
 
 <a id="claim-t-192863"></a>
 - t-001
-  global_id: t-192863
   teiginys: "Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir Juodąja jūromis, Dunojumi ir šiaurine 52-osios lygiagretės linija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192863
+    - t-001

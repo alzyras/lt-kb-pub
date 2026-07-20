@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-75618"></a>
 - t-001
-  global_id: t-75618
   teiginys: "Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-75619"></a>
 - t-002
-  global_id: t-75619
   teiginys: "Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,19 +91,12 @@ media_all_json: |-
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: |
-    Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
+  citata_rodoma: "Stasys Raštikis ėmėsi moder-\nnizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo \nstrategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus\n\nL I E T U V O S  I S T O R I J A\n178\nvivendi su Lenkija yra būtina nepriklausomybės sąlyga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75618
-    - t-75619
+    - t-001
+    - t-002

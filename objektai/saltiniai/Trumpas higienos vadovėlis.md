@@ -36,7 +36,6 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
 
 <a id="claim-t-96073"></a>
 - t-001
-  global_id: t-96073
   teiginys: "J. Maciūno „Trumpas higienos vadovėlis“ buvo sudarytas pagal Švietimo ministerijos programą ir išleistas 1929 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96073
+    - t-001

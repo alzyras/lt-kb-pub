@@ -48,9 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-Nenurodyta
-
 ## Citatos
 
 - id: c-174964
@@ -64,10 +61,7 @@ Nenurodyta
     Prūsijoje prie Kuršių marių, kurios pavadintos jų vardu,
     nes tenykščiai žvejai buvo vadinami kuršiais“.
     * * *
-  citata_rodoma: |
-    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
-    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
-    tik vokiečių, bet ir latvių kalbomis;
+  citata_rodoma: "Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose\nŽeimelio ir Biržų parapijose, kur pamaldos vyksta ne\ntik vokiečių, bet ir latvių kalbomis;"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

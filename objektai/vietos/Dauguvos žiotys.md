@@ -38,7 +38,6 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
 
 <a id="claim-t-77780"></a>
 - t-001
-  global_id: t-77780
   teiginys: "1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77780
+    - t-001

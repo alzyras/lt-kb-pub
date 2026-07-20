@@ -31,7 +31,6 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
 
 <a id="claim-t-86841"></a>
 - t-001
-  global_id: t-86841
   teiginys: "Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,6 +72,7 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86841
+    - t-001
+
 ## Ryšiai
 - Šv. Bazilijaus ordinas gyveno [[objektai/vietos/Vilnius]]

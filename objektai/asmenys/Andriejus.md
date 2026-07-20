@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-35028"></a>
 - t-001
-  global_id: t-35028
   teiginys: "Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     1385 mt. rugpiūčio 14 d. Krėvės pilyje buvo pasirašytas aktas,
     nurodąs sąlygas, kuriomis Jogaila, vesdamas karalaitę Jad­
     vygą, sutiko užimti Lenkijos sostą.
-  citata_rodoma: |
-    Prieš jį
-    rengė koaliciją vyriausias brolis Andriejus. Žmogus plataus maš­
-    tabo norų, bet netinkąs kurti bei vykinti planams, Jogaila grie­
-    bėsi mažlenkių ponų pakištos minties kaip išganymo.
-    1385 mt.
+  citata_rodoma: "Prieš jį\nrengė koaliciją vyriausias brolis Andriejus. Žmogus plataus maš­\ntabo norų, bet netinkąs kurti bei vykinti planams, Jogaila grie­\nbėsi mažlenkių ponų pakištos minties kaip išganymo.\n1385 mt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35028
+    - t-001

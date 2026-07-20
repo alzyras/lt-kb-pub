@@ -30,8 +30,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Teiginiai
 
 <a id="claim-t-58662"></a>
-- t-001
-  global_id: t-58662
+- t-002
   teiginys: "Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
     - c-59294
 
 <a id="claim-t-58663"></a>
-- t-002
-  global_id: t-58663
+- t-001
   teiginys: "Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,18 +76,15 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
     252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos
     pasitraukti (SRP, 5, p. 598; PKD, p. 96). Dusburgietis čia pakiliai tekalba apie į pagalbą
     atvykusius Vokietijos „maldininkus“.
-  citata_rodoma: |
-    251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D. III, 23 minimų
-    prūsų įtvirtinimų Parteiniuose ir Skrando kalne.
-      252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos
-    pasitraukti (SRP, 5, p.
+  citata_rodoma: "251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D. III, 23 minimų\nprūsų įtvirtinimų Parteiniuose ir Skrando kalne.\n  252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos\npasitraukti (SRP, 5, p."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58662
+    - t-002
+
 - id: c-59295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -106,22 +101,11 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 
 
                         25.
-  citata_rodoma: |
-    Apie Šnikenbergo pilies pastatymą
-
-      Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti
-    tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje
-    daug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus
-    vyrus, kurie trukdė netikėliams įsibrauti.
-
-
-
-
-                        25.
+  citata_rodoma: "Apie Šnikenbergo pilies pastatymą\n\n  Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti\ntiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje\ndaug brolių ir vieną kilmingą vyrą Hertvigą, Hertvigo iš Pokarvių tėvą, bei kitus karingus\nvyrus, kurie trukdė netikėliams įsibrauti.\n\n\n\n\n                    25."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58663
+    - t-001

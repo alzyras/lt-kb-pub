@@ -43,7 +43,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 
 <a id="claim-t-60333"></a>
 - t-001
-  global_id: t-60333
   teiginys: "1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 
 <a id="claim-t-197104"></a>
 - t-002
-  global_id: t-197104
   teiginys: "Inocentas IV apaštališkojo sosto vardu įsakė skelbti kryžiaus karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 
 <a id="claim-t-200997"></a>
 - t-003
-  global_id: t-200997
   teiginys: "Inocentas IV popiežius buvo jau jutęs apie ka res Sviatopelko su kryžėjais, kurie, lūgodami jo teisybės, jam guodės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -119,11 +116,13 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60333
-    - t-197104
+    - t-001
+    - t-002
+
 - id: c-184347
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, liepė visų pirma me­
     džiagą jai patiekti, paskui, sutraukęs visus mel-
@@ -144,6 +143,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200997
+    - t-003
+
 ## Ryšiai
 - Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

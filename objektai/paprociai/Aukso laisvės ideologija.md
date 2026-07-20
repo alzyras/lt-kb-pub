@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-67043"></a>
 - t-001
-  global_id: t-67043
   teiginys: "Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,17 +76,11 @@ Nenurodyta
     netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
     nesirūpinti.
-  citata_rodoma: |
-    Kiek vėliau įėjo
-    į madą posakis: „Respublika laikosi netvarka"
-    (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
-    netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas
-    nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
-    nesirūpinti.
+  citata_rodoma: "Kiek vėliau įėjo\nį madą posakis: „Respublika laikosi netvarka\"\n(t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti\nnetvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas\nnepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo\nnesirūpinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67043
+    - t-001

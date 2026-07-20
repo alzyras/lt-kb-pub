@@ -36,7 +36,6 @@ Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
 
 <a id="claim-t-31723"></a>
 - t-001
-  global_id: t-31723
   teiginys: "J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,16 +64,11 @@ Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
     (^9) **SRP, III, 236-237 p.**
     (^10) **SRP, III, 238 p.; CEV, 961-963 p. — Plg. J. Voigt :** **_Geschichte Preus-
     sens,_** **VI, 187-188 p.**
-  citata_rodoma: |
-    **
-    (^8) **SRP, III, 226, 228 p. —- Apie visus įvykius po 1398 taikos žr. R.
-    Krumbholtz : KrSO, 121 sqq. — J. Jakštas:** **_Jogailos ir Vytauto kovos su
-    vokiečių ordinu,_** **rink. JoŠ, 139 sqq.**
-    (^9) **SRP, III, 236-237 p.
+  citata_rodoma: "**\n(^8) **SRP, III, 226, 228 p. —- Apie visus įvykius po 1398 taikos žr. R.\nKrumbholtz : KrSO, 121 sqq. — J. Jakštas:** **_Jogailos ir Vytauto kovos su\nvokiečių ordinu,_** **rink. JoŠ, 139 sqq.**\n(^9) **SRP, III, 236-237 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31723
+    - t-001

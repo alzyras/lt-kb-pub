@@ -37,7 +37,6 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
 
 <a id="claim-t-100004"></a>
 - t-001
-  global_id: t-100004
   teiginys: "Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100004
+    - t-001

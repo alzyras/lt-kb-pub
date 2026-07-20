@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41353"></a>
-- t-001
-  global_id: t-41353
+- t-002
   teiginys: "1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-44926
 
 <a id="claim-t-41354"></a>
-- t-002
-  global_id: t-41354
+- t-001
   teiginys: "1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41354
+    - t-001
+
 - id: c-44926
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -159,44 +158,11 @@ Nenurodyta
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
-  citata_rodoma: |
-    ŠKLOVO MUSIS 125
-
-    v
-    Vl
-    o
-    =
-    -
-    >
-    c
-    a)
-    >
-    o
-    peri
-    i
-    >
-    r
-
-    ## Puslapis 128
-
-    TVANAS
-
-    Lietuvos kariuomenė padėjo lenkams numalšinti 1648 m. kilusį
-    Bogdano Chmelnickio vadovaujamą Ukrainos kazokų sukilimą,
-    1649 m. didysis etmonas Jonušas Radvila sumušė į Lietuvą įsi-
-    veržusias sukilėlių pajėgas, 0 1651 m. užėmė ir sudegino Kijevą.
-    Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
-    iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
-    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
+  citata_rodoma: "ŠKLOVO MUSIS 125\n\nv\nVl\no\n=\n-\n>\nc\na)\n>\no\nperi\ni\n>\nr\n\n## Puslapis 128\n\nTVANAS\n\nLietuvos kariuomenė padėjo lenkams numalšinti 1648 m. kilusį\nBogdano Chmelnickio vadovaujamą Ukrainos kazokų sukilimą,\n1649 m. didysis etmonas Jonušas Radvila sumušė į Lietuvą įsi-\nveržusias sukilėlių pajėgas, 0 1651 m. užėmė ir sudegino Kijevą.\nKazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti\niš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-\nčiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas\nužėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41353
+    - t-002

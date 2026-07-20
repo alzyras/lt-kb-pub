@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-75441"></a>
 - t-001
-  global_id: t-75441
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-75442"></a>
 - t-002
-  global_id: t-75442
   teiginys: "Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,19 +93,12 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
+  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras\nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios\ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką\npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips\ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad\nSSRS nutrauktų terorą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75441
-    - t-75442
+    - t-001
+    - t-002

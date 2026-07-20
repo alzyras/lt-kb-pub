@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185922"></a>
 - t-001
-  global_id: t-185922
   teiginys: "Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti kuo puikiausias šermenis Žygimantui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185922
+    - t-001

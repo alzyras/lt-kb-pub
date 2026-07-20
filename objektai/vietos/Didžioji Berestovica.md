@@ -30,8 +30,7 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
 ## Teiginiai
 
 <a id="claim-t-187222"></a>
-- t-001
-  global_id: t-187222
+- t-002
   teiginys: "Didžioji Berestovica minima kaip vieta, kur kunigaikščių Zaslavskių dvare buvo Bychovco kronikos variantas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -49,8 +48,7 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
     - c-170288
 
 <a id="claim-t-187223"></a>
-- t-002
-  global_id: t-187223
+- t-001
   teiginys: "Didžiosios Berestovicos dvare, priklausiusiame kunigaikščiams Zaslavskiams, buvo panašus Bychovco kronikos variantas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -84,15 +82,12 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
     originalo kalba, bet tie leidiniai, kaip ir jos vertimas
     į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
     mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: |
-    nikos („rusiško metraščio") variantą tame pačiame
-    Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
-    Didžiosios Berestovicos dvare.
+  citata_rodoma: "nikos („rusiško metraščio\") variantą tame pačiame \nGardino-Volkovysko krašte, kunigaikščių Zaslavskių \nDidžiosios Berestovicos dvare."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187222
-    - t-187223
+    - t-002
+    - t-001

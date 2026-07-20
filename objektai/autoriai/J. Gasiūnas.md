@@ -31,7 +31,6 @@ Gasiūnas, Vysk.
 
 <a id="claim-t-30670"></a>
 - t-001
-  global_id: t-30670
   teiginys: "J. Gasiūnas rengė spaudai veikalą „Vysk. K. Paltaroko gyvenimas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,13 +56,11 @@ Gasiūnas, Vysk.
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.
     J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama
     ruošti spaudai.
-  citata_rodoma: |
-    J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama
-    ruošti spaudai.
+  citata_rodoma: "J. Gasiūnas, Vysk. K. Paltaroko gyvenimas, baigiama\nruošti spaudai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30670
+    - t-001

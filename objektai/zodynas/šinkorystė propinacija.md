@@ -31,7 +31,6 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
 
 <a id="claim-t-86561"></a>
 - t-001
-  global_id: t-86561
   teiginys: "Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86561
+    - t-001

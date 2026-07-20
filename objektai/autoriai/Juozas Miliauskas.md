@@ -31,7 +31,6 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 
 <a id="claim-t-39830"></a>
 - t-001
-  global_id: t-39830
   teiginys: "Juozas Miliauskas prisiminimuose aprašė Švėkšnos apylinkių miškuose rusų pajėgų užpultą sukilėlių stovyklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39830
+    - t-001

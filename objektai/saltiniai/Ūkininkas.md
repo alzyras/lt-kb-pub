@@ -30,7 +30,6 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
 
 <a id="claim-t-78144"></a>
 - t-001
-  global_id: t-78144
   teiginys: "„Varpo“ redakcija leido kaimiečiams skirtą laikraštį „Ūkininkas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78144
+    - t-001

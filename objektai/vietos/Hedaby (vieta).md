@@ -33,7 +33,6 @@ Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, 
 
 <a id="claim-t-201164"></a>
 - t-001
-  global_id: t-201164
   teiginys: "Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, į įtaką Yslos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, 
 ## Citatos
 
 - id: c-184514
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di­
     džiojo anglų viešpaties, arba karaliaus, į Žemaičius
@@ -65,4 +65,4 @@ Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201164
+    - t-001

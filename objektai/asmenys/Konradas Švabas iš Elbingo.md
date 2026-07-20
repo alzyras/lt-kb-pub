@@ -31,7 +31,6 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 
 <a id="claim-t-60369"></a>
 - t-001
-  global_id: t-60369
   teiginys: "Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60369
+    - t-001

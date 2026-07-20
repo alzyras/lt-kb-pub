@@ -32,7 +32,6 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
 
 <a id="claim-t-39722"></a>
 - t-001
-  global_id: t-39722
   teiginys: "Pulkininkas E. Doterivas ir generolas D. Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39722
+    - t-001

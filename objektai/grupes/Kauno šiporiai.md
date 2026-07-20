@@ -28,7 +28,6 @@ Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomen
 
 <a id="claim-t-201890"></a>
 - t-001
-  global_id: t-201890
   teiginys: "Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų upeivių pareigų ir prekybos operacijų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201890
+    - t-001

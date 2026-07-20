@@ -33,7 +33,6 @@ Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skat
 
 <a id="claim-t-201216"></a>
 - t-001
-  global_id: t-201216
   teiginys: "Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skatikas, nauda, manta, arba pi ningai, kiekvienas regi, jog žodžiai nauda, graižis, muštinis, skatikas yra ne svetimi, bet lietuviški."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skat
 ## Citatos
 
 - id: c-184566
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veizint į žodžius Lietuvos kalbos: graižis, arba
     graižinys, muštinis, skatikas, nauda, manta, arba pi­
@@ -69,4 +69,4 @@ Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201216
+    - t-001

@@ -31,7 +31,6 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
 
 <a id="claim-t-194796"></a>
 - t-001
-  global_id: t-194796
   teiginys: "Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194796
+    - t-001

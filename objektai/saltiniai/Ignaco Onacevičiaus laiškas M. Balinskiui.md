@@ -31,7 +31,6 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
 
 <a id="claim-t-88427"></a>
 - t-001
-  global_id: t-88427
   teiginys: "Ignas Onacevičius iš Karaliaučiaus parašė M. Balinskiui laišką apie liūdną istorijos mokslo būklę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88427
+    - t-001

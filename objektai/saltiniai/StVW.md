@@ -30,7 +30,6 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
 
 <a id="claim-t-31931"></a>
 - t-001
-  global_id: t-31931
   teiginys: "Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
 
     (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.;** **_Deutsche Reichstags­
     akten_** **, hgg.
-  citata_rodoma: |
-    Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­
-    ną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš
-
-    (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.
+  citata_rodoma: "Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­\nną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš\n\n(^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31931
+    - t-001

@@ -31,9 +31,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 
 <a id="claim-t-60678"></a>
 - t-001
-  global_id: t-60678
   teiginys: "V. Biržiška parašė darbą „Kryžiuočių keliai“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,21 +44,7 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61310
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
-    žmonės, p. 7—41.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60678
+
 ## Citatos
 
 - id: c-61310
@@ -67,19 +52,13 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Netikslumai, tendencija
-    Petro iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz., pilių
-    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
-    apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
-    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
-  citata_rodoma: |
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
     žmonės, p. 7—41.
+  citata_rodoma: "135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir\nžmonės, p. 7—41."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60678
+    - t-001

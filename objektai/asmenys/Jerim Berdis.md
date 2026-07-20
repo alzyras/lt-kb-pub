@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-186046"></a>
 - t-001
-  global_id: t-186046
   teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186046
+    - t-001
+
 ## Ryšiai
 - Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
 - Jerim Berdis keliavo į [[objektai/vietos/Skitija]]

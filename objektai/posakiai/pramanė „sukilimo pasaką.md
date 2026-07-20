@@ -31,7 +31,6 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 
 <a id="claim-t-67306"></a>
 - t-001
-  global_id: t-67306
   teiginys: "Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 
 <a id="claim-t-67307"></a>
 - t-002
-  global_id: t-67307
   teiginys: "Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,8 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67306
+    - t-001
+
 - id: c-67264
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -84,16 +83,11 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
     teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
     savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
     kalavimų klausančios Lenkų vyriausybės.
-  citata_rodoma: |
-    Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų
-    daug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau
-    teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
-    savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
-    kalavimų klausančios Lenkų vyriausybės.
+  citata_rodoma: "Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų\ndaug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau\nteisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos\nsavo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-\nkalavimų klausančios Lenkų vyriausybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67307
+    - t-002

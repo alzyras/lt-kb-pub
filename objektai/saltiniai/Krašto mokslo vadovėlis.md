@@ -30,7 +30,6 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
 
 <a id="claim-t-96069"></a>
 - t-001
-  global_id: t-96069
   teiginys: "A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96069
+    - t-001

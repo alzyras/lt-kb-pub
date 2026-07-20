@@ -12,14 +12,14 @@ datos:
   - '1946 m.'
 date_start: '1663'
 date_end: '1946'
-amziai:
-  - 'XVII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - regionas
   - vieta
+amziai:
+  - 'XVII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 ## Teiginiai
 
 <a id="claim-t-42222"></a>
-- t-001
-  global_id: t-42222
+- t-002
   teiginys: "Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     - c-45377
 
 <a id="claim-t-42223"></a>
-- t-002
-  global_id: t-42223
+- t-001
   teiginys: "1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     - c-43936
 
 <a id="claim-t-192766"></a>
-- t-003
-  global_id: t-192766
+- t-004
   teiginys: "Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -101,10 +98,9 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175536
-    - c-004
+
 <a id="claim-t-192767"></a>
-- t-004
-  global_id: t-192767
+- t-005
   teiginys: "Ukmergės pilkapį 1838 m. atkasė Karolis Kozakovskis, o kasinėjimai parodė po juo buvusią pelenų ir apdegusių daiktų duobę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -127,27 +123,31 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     - c-175537
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbuto teigimu, Peipaus ežero estai žodžiu „Litalain“ vadino Lietuvos dalį, kuri jo laiku sudarė Ukmergės apskritį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-003
+  santrauka: 'Narbutas iš Ukmergės apskrities gautą dainelę laikė įrodymu, kad Dauguvos pavadinimas kilo iš „Dewine Upes“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Sutiksime net
-    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
-    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
-    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
-    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
-    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
-    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
-    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
-    gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui.
+    1663)*.
+    456
+
+    ## Puslapis 456
+
+    VIII priedas
+    Daug buvo ištyrinėta šaltinių, norint išsiaiškinti Dauguvos
+    upės pavadinimo kilmę. Mums iš Ukmergės apskrities pavyko
+    gauti dainelę, kuri rodo, kad šis pavadinimas atsirado nuo „ De­
+    wine Upes“: dainininkas sako, jog pasikinkys į roges žirgelius ir
+    važiuos grobio:
+    Založym do san koniki,
+    Osiadlamy wrone žrebie,
+    Pojedziem wojowac,
+    Wojnę toczyč w Ryški kraj,
+    O žeby tylko wody zamarzly.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192766
+  statusas: verified
 ## Citatos
 
 - id: c-43936
@@ -165,7 +165,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42223
+    - t-001
+
 - id: c-45377
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -178,36 +179,20 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
 
     1946 m.
-  citata_rodoma: |
-    Misiūnas, apygarda pavadinta Didžiosios
-    kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
-
-    1946 m.
+  citata_rodoma: "Misiūnas, apygarda pavadinta Didžiosios\nkovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).\n\n1946 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42222
+    - t-002
+
 - id: c-175536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet iš viso to nega­
-    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
-    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
-    gyventa anksčiau, negu atvykėliai alanai davė pradžią
-    šių lydinių susidarymui. Juk šiandien negalima nieko įro­
-    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
-    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
-    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
-    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
-    dyną, kuriame nerandame nieko, ką galima būtų vadinti
-    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
-    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
-  citata_rodoma: |
     Sutiksime net
     ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
     alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
@@ -218,13 +203,15 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
     jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
     gyventa anksčiau, negu atvykėliai alanai davė pradžią
     šių lydinių susidarymui.
+  citata_rodoma: "Sutiksime net\nir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-\nalanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,\ngyvenantys prie Peipaus ežero, dar ir šiandien lietuvius\nvadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­\nri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­\nlima daryti jokios kitos išvados, o tik tą, kurią jau minė­\njome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse\ngyventa anksčiau, negu atvykėliai alanai davė pradžią\nšių lydinių susidarymui."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192766
+    - t-004
+
 - id: c-175537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,4 +230,4 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192767
+    - t-005

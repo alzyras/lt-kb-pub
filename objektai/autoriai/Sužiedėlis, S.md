@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-31007"></a>
 - t-001
-  global_id: t-31007
   teiginys: "S. Sužiedėlis 1930 m. paskelbė publikaciją „Vytautas Didysis ir Lietuvos christianizacija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ media_all_json: |-
     483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
-  citata_rodoma: |
-    — Sužiedėlis, S. :
-    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
-    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
-    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p.
+  citata_rodoma: "— Sužiedėlis, S. :\nVytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-\n483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.\n— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31007
+    - t-001

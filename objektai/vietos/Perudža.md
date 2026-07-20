@@ -38,8 +38,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 ## Teiginiai
 
 <a id="claim-t-58612"></a>
-- t-001
-  global_id: t-58612
+- t-002
   teiginys: "1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
     - c-59244
 
 <a id="claim-t-58613"></a>
-- t-002
-  global_id: t-58613
+- t-001
   teiginys: "1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,13 +99,14 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58612
+    - t-002
+
 - id: c-59245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie šventos Elžbietos kanonizavimą
+    25. Apie šventos Elžbietos kanonizavimą
 
       1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
     brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
@@ -115,19 +114,11 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 
 
                        26.
-  citata_rodoma: |
-    Apie šventos Elžbietos kanonizavimą
-
-      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
-    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
-
-
-
-                       26.
+  citata_rodoma: "Apie šventos Elžbietos kanonizavimą\n\n  1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,\nbrolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.\n\n\n\n                   26."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58613
+    - t-001

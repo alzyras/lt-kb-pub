@@ -33,7 +33,6 @@ Lietuvos urėdininkai, išrenkami iš ukėsų, arba obyvatelių, pareigas ėjo n
 
 <a id="claim-t-200901"></a>
 - t-001
-  global_id: t-200901
   teiginys: "Lietuvos urėdininkai, išrenkami iš ukėsų, arba obyvatelių, pareigas ėjo nepriklausomai nuo Lenkijos provincijų tvarkos ir papročių."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Lietuvos urėdininkai, išrenkami iš ukėsų, arba obyvatelių, pareigas ėjo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200901
+    - t-001

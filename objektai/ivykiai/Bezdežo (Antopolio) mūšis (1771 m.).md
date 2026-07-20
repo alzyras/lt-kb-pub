@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09821"></a>
-- t-001
-  global_id: t-09821
+- t-003
   teiginys: "Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -86,22 +85,11 @@ Nenurodyta
     tikslų atsikratyti svetimų šalių įtakos.
     Konfederatams nepavyko sutrukdyti
     1772 m. įvykusio pirmajo ATR padalijimo.
-  citata_rodoma: |
-    Šios pergalės išvystyti nepavyko. Po ga-
-    limos išdavystės M. K. Oginskio pajėgos
-    netrukus buvo sumuštos prie Stalovičių
-    ir išblaškytos tuo metu dar pulkininko,
-    vėliau tapusio rusų generalisimu Alek-
-    sandro Suvorovo pajėgų.
-
-    Baro konfederacija nepasiekė savo
-    tikslų atsikratyti svetimų šalių įtakos.
-    Konfederatams nepavyko sutrukdyti
-    1772 m. įvykusio pirmajo ATR padalijimo.
+  citata_rodoma: "Šios pergalės išvystyti nepavyko. Po ga-\nlimos išdavystės M. K. Oginskio pajėgos\nnetrukus buvo sumuštos prie Stalovičių\nir išblaškytos tuo metu dar pulkininko,\nvėliau tapusio rusų generalisimu Alek-\nsandro Suvorovo pajėgų.\n\nBaro konfederacija nepasiekė savo\ntikslų atsikratyti svetimų šalių įtakos.\nKonfederatams nepavyko sutrukdyti\n1772 m. įvykusio pirmajo ATR padalijimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09821
+    - t-003

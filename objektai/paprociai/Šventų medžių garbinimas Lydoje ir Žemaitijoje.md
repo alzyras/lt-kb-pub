@@ -47,9 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-Nenurodyta
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -72,15 +69,8 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visi mano jas esant labai senas, jų kamienai nepa­
-    prastai stori, bet ne aukšti, o šakos sudaro savotišką baldakimą,
-    kuris yra tokiame pat aukštyje kaip ir ilgo pylimo nuokalnė. Kai
-    kurie gamtininkai, nuodugniai apžiūrėję tuos medžius, priskyrė
-    juos tam tikrai mūsų krašte jau išnykusiai pušų rūšiai. Kažkoks
-    svetimšalis botanikas, kuris rinko sėklas, pravažiuodamas pro Ly­
-    dą, stabtelėjo norėdamas tą rūšį įveisti savo sode.
-  citata_rodoma: |
     Žemaičiuose šventas medis buvo šermukšnis17“.
+  citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas

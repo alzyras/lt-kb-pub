@@ -8,13 +8,13 @@ datos:
   - '1998 m.'
 date_start: '1835'
 date_end: '1998'
-amziai:
-  - 'XIX'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,8 +50,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 ## Teiginiai
 
 <a id="claim-t-188037"></a>
-- t-001
-  global_id: t-188037
+- t-006
   teiginys: "Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -67,12 +66,11 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170731
-    - c-001
+
 <a id="claim-t-188038"></a>
-- t-002
-  global_id: t-188038
+- t-005
   teiginys: "Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Norbertas Vėlius: 0.85"
@@ -86,10 +84,9 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170733
-    - c-003
+
 <a id="claim-t-188039"></a>
-- t-003
-  global_id: t-188039
+- t-004
   teiginys: "1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -108,79 +105,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170732
-    - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    TEODORAS NARBUTAS IR JO
-    „LIETUVIŲ TAUTOS ISTORIJA“
-    Yra asmenybių, kurių gyvenime atsispindi visuomenės he­
-    roizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti
-    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
-    tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
-    minklu ir lietuvių tautos kultūriniu palikimu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188037
-- c-002
-  santrauka: '1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    UDK
-    947.45
-    Na-162
-    Versta iš:
-    Dzicjc starožytne narodu
-    Litcwskiego przcz
-    Teodora Narbutta.
-    Tom picrwszy:
-    Mitologia Litcwska
-    z o.šmią rycinami.
-    Wilno, naktadem i drukiem
-    A. Marcinowskicgo, 1835.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188039
-- c-003
-  santrauka: 'Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Wilno, naktadem i drukiem
-    A. Marcinowskicgo, 1835.
-    R edaktorių kolegija:
-    E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,
-    A. TYLA] N. VĖLIUS,! V. VISOCKAS
-    Dailininkas ALFONSAS ŽVILIUS
-    Iš lenkų ir lotynų kalbų vertė RIMANTAS JASAS
-    Specialioji redaktorė REDA GRIŠKAITĖ
-    ISBN 5-417-00765-Х
-    ISBN 5-417-00766-8
-    Vertimas, Rimantas Jasas, 1992, 1998
-    Įvedamasis straipsnis,
-    Vytautas Berenis, 1992, 1998
-    Įvedamasis straipsnis,
-    Norbertas Vėlius, 1992, 1998
-    Įvedamasis straipsnis, paaiškinimai,
-    papildymų vertimas, Reda Griškaitė,
-    1997
-    Dailininkas Alfonsas Zvilius, 1992,
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188038
+
 ## Citatos
 
 - id: c-170731
@@ -188,16 +113,6 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas. XVI-XVIII a. lietuvis - tai bajoras,
-    stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
-    tuvos statuto suteiktomis teisėmis.
-    XIX amžius teisėtai vadinamas istorizmo šimtmečiu. Ro­
-    mantizmas pagimdė naują individo sąmonės formų struktūrą,
-    kuri skiriasi nuo švietėjiškos asmenybės proto diktato.
-  citata_rodoma: |
     TEODORAS NARBUTAS IR JO
     „LIETUVIŲ TAUTOS ISTORIJA“
     Yra asmenybių, kurių gyvenime atsispindi visuomenės he­
@@ -205,26 +120,20 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
     tautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­
     minklu ir lietuvių tautos kultūriniu palikimu.
+  citata_rodoma: "TEODORAS NARBUTAS IR JO\n„LIETUVIŲ TAUTOS ISTORIJA“\nYra asmenybių, kurių gyvenime atsispindi visuomenės he­\nroizmas, lūkesčiai ir ydos. Prie tokių žmonių galima priskirti\nTeodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių\ntautos istorija“ (toliau -  LTI) tapo Lietuvos istoriografijos pa­\nminklu ir lietuvių tautos kultūriniu palikimu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188037
+    - t-006
+
 - id: c-170732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Prie tokių žmonių galima priskirti
-    Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
-    tautos istorija“ (toliau - LTI) tapo Lietuvos istoriografijos pa­
-    minklu ir lietuvių tautos kultūriniu palikimu. Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-  citata_rodoma: |
     UDK
     947.45
     Na-162
@@ -237,31 +146,20 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     z o.šmią rycinami.
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
+  citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188039
+    - t-004
+
 - id: c-170733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Įsigalėjęs neigia­
-    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
-    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
-    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
-    Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
-    trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
-    tuvos palikimą. Juk Lietuvos istorija - tai ne vien pagoniškas
-    tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
-    jorų kultūrinis sąjūdis bei Vasario 16-osios signatarai. Istorinė
-    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
-    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
-    tūrinio paveldo arealas.
-  citata_rodoma: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
     R edaktorių kolegija:
@@ -281,10 +179,11 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
     papildymų vertimas, Reda Griškaitė,
     1997
     Dailininkas Alfonsas Zvilius, 1992,
+  citata_rodoma: "Wilno, naktadem i drukiem\nA. Marcinowskicgo, 1835.\nR edaktorių kolegija:\nE. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,\nA. TYLA] N. VĖLIUS,! V. VISOCKAS\nDailininkas ALFONSAS ŽVILIUS\nIš lenkų ir lotynų kalbų vertė RIMANTAS JASAS\nSpecialioji redaktorė REDA GRIŠKAITĖ\nISBN 5-417-00765-Х\nISBN 5-417-00766-8\nVertimas, Rimantas Jasas, 1992, 1998\nĮvedamasis straipsnis,\nVytautas Berenis, 1992, 1998\nĮvedamasis straipsnis,\nNorbertas Vėlius, 1992, 1998\nĮvedamasis straipsnis, paaiškinimai,\npapildymų vertimas, Reda Griškaitė,\n1997\nDailininkas Alfonsas Zvilius, 1992,"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188038
+    - t-005

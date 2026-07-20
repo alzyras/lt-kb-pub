@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31902"></a>
 - t-001
-  global_id: t-31902
   teiginys: "H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,15 +75,11 @@ media_all_json: |-
     complectens),_ Varsaviae 1930 (visi senieji tekstai ir nurodyti jų šaltiniai).
     — Pobłocki, L. : _Kritische Beiträge zur ältesten Geschichte Litauens,_ atsp.
     iš AM, XVII, 1870.
-  citata_rodoma: |
-    —Pasz­
-    kiewicz, H. : _Regesta Lithnaniae,_ I _(ab origine usque ad annum 1315
-    complectens),_ Varsaviae 1930 (visi senieji tekstai ir nurodyti jų šaltiniai).
-    — Pobłocki, L.
+  citata_rodoma: "—Pasz­\nkiewicz, H. : _Regesta Lithnaniae,_ I _(ab origine usque ad annum 1315\ncomplectens),_ Varsaviae 1930 (visi senieji tekstai ir nurodyti jų šaltiniai).\n— Pobłocki, L."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31902
+    - t-001

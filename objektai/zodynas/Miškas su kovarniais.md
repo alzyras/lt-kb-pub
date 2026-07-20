@@ -30,7 +30,6 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
 
 <a id="claim-t-189313"></a>
 - t-001
-  global_id: t-189313
   teiginys: "Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189313
+    - t-001

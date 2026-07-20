@@ -33,7 +33,6 @@ Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą pa
 
 <a id="claim-t-201203"></a>
 - t-001
-  global_id: t-201203
   teiginys: "Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą pa
 ## Citatos
 
 - id: c-184553
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet
     pagal nuomonę tų amžių krikščionys turėjo netikė­
@@ -67,4 +67,4 @@ Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201203
+    - t-001

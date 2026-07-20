@@ -26,26 +26,11 @@ media_all_json: |-
 
 Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenburgo apylinkėmis, o kitoje kronikoje vadinama Lentzinburg.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191753"></a>
-- t-001
-  global_id: t-191753
-  teiginys: 'Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenburgo apylinkėmis, o kitoje kronikoje vadinama Lentzinburg.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Dusburgo kronikos vietovės identifikavimą. Atribucija Narbuto aiškinimui palikta, nes vietovės tapatinimas yra interpretacinis.'
-  susije_objektai: 'mentioned_place: Brandenburgas; mentioned_place: Lukas; mentioned_place: Natangija; mentioned_place: Viena'
-  pagrindžia:
-    - c-174635
-
-## Citatos
-
-- id: c-174635
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenburgo apylinkėmis, o kitoje kronikoje vadinama Lentzinburg.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Linden-
     bergas netoli Baigos, be to, priklausąs senovės Varmijai,
@@ -58,10 +43,8 @@ Dusburgo kronikos vietovė Lencenbergas Narbuto aiškinime siejama su Brandenbur
 
     das (t. IV. P. 36) — Lenzenburg, nors šis Lenzenburgas
     yra ne Varmijoje, o jau Natangijoje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191753
+  statusas: verified

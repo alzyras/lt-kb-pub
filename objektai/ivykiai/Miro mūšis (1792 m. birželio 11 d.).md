@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-41325"></a>
 - t-001
-  global_id: t-41325
   teiginys: "1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,15 +88,11 @@ Nenurodyta
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: |
-    Pirmasis didelis mūšis įvyko bir-
-    želio 11 d. prie Miro. Čia Lietuvos
-    kariuomenė patyrė pirmąją nesė-
-    kmę.
+  citata_rodoma: "Pirmasis didelis mūšis įvyko bir-\nželio 11 d. prie Miro. Čia Lietuvos\nkariuomenė patyrė pirmąją nesė-\nkmę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41325
+    - t-001

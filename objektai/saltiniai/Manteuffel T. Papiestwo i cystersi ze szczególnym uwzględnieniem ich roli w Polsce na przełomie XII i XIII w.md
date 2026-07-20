@@ -36,7 +36,6 @@ Dusburgietis teigia, kad manteuffel T.
 
 <a id="claim-t-61156"></a>
 - t-001
-  global_id: t-61156
   teiginys: "T. Manteuffelio „Papiestwo i cystersi“ išleista Varšuvoje 1955 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad manteuffel T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61156
+    - t-001

@@ -31,7 +31,6 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 
 <a id="claim-t-02981"></a>
 - t-001
-  global_id: t-02981
   teiginys: "Dvarų milicija buvo didikų atsivesta samdyta kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 
 <a id="claim-t-182942"></a>
 - t-002
-  global_id: t-182942
   teiginys: "Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,16 +79,15 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
     Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
-  citata_rodoma: |
-    Jie kiekvienas irgi atsivedė
-    samdytos kariuomenės — savo dvarų milicijos.
+  citata_rodoma: "Jie kiekvienas irgi atsivedė\nsamdytos kariuomenės — savo dvarų milicijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02981
+    - t-001
+
 - id: c-166342
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,4 +105,4 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182942
+    - t-002

@@ -39,7 +39,6 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
 <a id="claim-t-40982"></a>
 - t-001
-  global_id: t-40982
   teiginys: "Leibgvardijos kazokų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
 <a id="claim-t-183658"></a>
 - t-002
-  global_id: t-183658
   teiginys: "Leibgvardijos kazokų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,37 +105,15 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
     1831 m. sukilimo periodu Rusijos artilerija naudojo „jedinorog“, („vienaragio“) tipo pa-
     būklus.
-  citata_rodoma: |
-    Kautynėms paruoštą Rusijos kariuome-
-    nės pagrindą sudarė: Leibgvardijos lie-
-    tuviškasis pėstininkų pulkas (pagrindinė
-    pulko dalis slopino sukilimą Lenkijoje,
-    prie Vilniaus buvo jo atsarginės dalys),
-    Leibgvardijos Voluinės pėstininkų pulkas,
-    6-asis karabinierių pulkas, Leibgvardijos
-    grafo Arakčejevo grenadierių pulkas, 9-asis
-    jėgerių pulkas, 48-ojo (lietuviškojo) jėgerių
-    pulko kuopos, 96-ojo Vilniaus pėstininkų
-    pulko kuopos, Leibgvardijos Podolės ki-
-    rasyrų pulkas, Liebgvardijos Jo Didenybės
-    ulonų pulkas, Novomirogrado ulonų pul-
-
-    kas, Orenburgo ulonų pulkas,
-    = Leibgvardijos kazokų pulkas. Iš
-    viso: 17 000 karių ir 58 artileri-
-    jos pabūklai. Visai rusų gynybai
-    turėjo vadovauti pagyvenęs generolas
-
-    „VIENARAGIS“
-
-    1831 m.
+  citata_rodoma: "Kautynėms paruoštą Rusijos kariuome-\nnės pagrindą sudarė: Leibgvardijos lie-\ntuviškasis pėstininkų pulkas (pagrindinė\npulko dalis slopino sukilimą Lenkijoje,\nprie Vilniaus buvo jo atsarginės dalys),\nLeibgvardijos Voluinės pėstininkų pulkas,\n6-asis karabinierių pulkas, Leibgvardijos\ngrafo Arakčejevo grenadierių pulkas, 9-asis\njėgerių pulkas, 48-ojo (lietuviškojo) jėgerių\npulko kuopos, 96-ojo Vilniaus pėstininkų\npulko kuopos, Leibgvardijos Podolės ki-\nrasyrų pulkas, Liebgvardijos Jo Didenybės\nulonų pulkas, Novomirogrado ulonų pul-\n\nkas, Orenburgo ulonų pulkas,\n= Leibgvardijos kazokų pulkas. Iš\nviso: 17 000 karių ir 58 artileri-\njos pabūklai. Visai rusų gynybai\nturėjo vadovauti pagyvenęs generolas\n\n„VIENARAGIS“\n\n1831 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40982
+    - t-001
+
 - id: c-167050
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -172,4 +148,4 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183658
+    - t-002

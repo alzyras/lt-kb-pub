@@ -49,7 +49,6 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 
 <a id="claim-t-54684"></a>
 - t-001
-  global_id: t-54684
   teiginys: "Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::sources"
@@ -70,7 +69,6 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 
 <a id="claim-t-54685"></a>
 - t-002
-  global_id: t-54685
   teiginys: "Analų pasakojime minima 1341 m. gegužės 24 d. Vilniuje nužudytų 36 pranciškonų versija."
   atnaujinta: "2026-05-27 05:39"
   sprendimo_priezastis: "gap::sources"
@@ -107,23 +105,15 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
     vaivadystės, esą apsivilkęs pranciš­
     kono abitą, o vėliau netgi tapęs pir­
     muoju Vilniaus vyskupu.
-  citata_rodoma: |
-    To­
-    liau rašoma, jog, remiantis Baroni-
-    j a u s nuomone, 36 kiti pranciško­
-    nai 1341 metų gegužės 24 dieną bu­
-    vę Vilniuje nužudyti, tarp jų ir pats
-    Petras Goštautas, kuris, atsisakęs
-    vaivadystės, esą apsivilkęs pranciš­
-    kono abitą, o vėliau netgi tapęs pir­
-    muoju Vilniaus vyskupu.
+  citata_rodoma: "To­\nliau rašoma, jog, remiantis Baroni- \nj a u s nuomone, 36 kiti pranciško­\nnai 1341 metų gegužės 24 dieną bu­\nvę Vilniuje nužudyti, tarp jų ir pats \nPetras Goštautas, kuris, atsisakęs \nvaivadystės, esą apsivilkęs pranciš­\nkono abitą, o vėliau netgi tapęs pir­\nmuoju Vilniaus vyskupu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54685
+    - t-002
+
 - id: c-55617
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -144,26 +134,11 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
     tų, ir apgyvendino juos prie Šv. Kry­
     žiaus bažnyčios, sodyboje, vėliau ta­
     pusioje Vyskupo rūmais.
-  citata_rodoma: |
-    Waddyngas,  Mažesniųjų brolių
-    ordino istorijos autorius, ir jo komen­
-    tatorius Antoni Melissanius
-    de Macro pasakoja, kad dar 1333
-    metais (prieš Gedimino mirtį) Pet­
-    ras Goštautas, būdamas Podolės vai­
-    vada, iš Rusios ir Podolės atkvietęs
-    į Vilnių keturiolika Šv. Pranciškaus
-    regulos vienuolių vietoje anksčiau,
-    1325 metais, atvykusių su popie­
-    žiaus pasiuntinybe ir jau mirusių ar
-    įvairiais laikais pagonių nukankin­
-    tų, ir apgyvendino juos prie Šv. Kry­
-    žiaus bažnyčios, sodyboje, vėliau ta­
-    pusioje Vyskupo rūmais.
+  citata_rodoma: "Waddyngas,  Mažesniųjų brolių \nordino istorijos autorius, ir jo komen­\ntatorius Antoni Melissanius \nde Macro pasakoja, kad dar 1333 \nmetais (prieš Gedimino mirtį) Pet­\nras Goštautas, būdamas Podolės vai­\nvada, iš Rusios ir Podolės atkvietęs \nį Vilnių keturiolika Šv. Pranciškaus \nregulos vienuolių vietoje anksčiau, \n1325 metais, atvykusių su popie­\nžiaus pasiuntinybe ir jau mirusių ar \nįvairiais laikais pagonių nukankin­\ntų, ir apgyvendino juos prie Šv. Kry­\nžiaus bažnyčios, sodyboje, vėliau ta­\npusioje Vyskupo rūmais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54684
+    - t-001

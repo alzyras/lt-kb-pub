@@ -42,8 +42,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 ## Teiginiai
 
 <a id="claim-t-79842"></a>
-- t-001
-  global_id: t-79842
+- t-002
   teiginys: "1432 m. Švitrigaila sustiprino ryšius su Mozūrija, Naugardu, Pskovu, Odojevo ir Tverės kunigaikščiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-76766
 
 <a id="claim-t-79843"></a>
-- t-002
-  global_id: t-79843
+- t-004
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Mozūrija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-76766
 
 <a id="claim-t-79845"></a>
-- t-003
-  global_id: t-79845
+- t-001
   teiginys: "Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-76765
 
 <a id="claim-t-201083"></a>
-- t-004
-  global_id: t-201083
+- t-005
   teiginys: "Kaipogi lietuviai, įpuolę į Mozūriją, ugnia ir karda nuteriojo visą kraštą, pilis sugriovė, svieto ir gyvolių neapregimas gaujas na mo parvarė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-184433
 
 <a id="claim-t-201084"></a>
-- t-005
-  global_id: t-201084
+- t-006
   teiginys: "Taip išnaikinę pamezonys, sūdaujai, parusnėnai visą Boleslovo kariauną nuteriojo dar baisiai, įkan din jį vydami, Kulmiją ir Mozūriją."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -130,8 +125,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-184434
 
 <a id="claim-t-201085"></a>
-- t-006
-  global_id: t-201085
+- t-007
   teiginys: "Neišliko nuo jų narsybės nė pati Mozūrija, kurią tą patį metą kiti pulkai, atėję iš gilumo Lietuvos, didžiai baisiai, užvis apygardas Plocko, nuteriojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - c-184435
 
 <a id="claim-t-201086"></a>
-- t-007
-  global_id: t-201086
+- t-008
   teiginys: "Kelias pas mus yra atdaras ir liuosas per Mozūriją be muito ir mokesnio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -232,7 +225,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79845
+    - t-001
+
 - id: c-76766
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -249,26 +243,20 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     Naugardu, Pskovu, Mozūrija, Odojevo ir
     Tverės kunigaikščiais. Tuo tarpu Jogailos
     Lenkijos santykiai su Ordinu aštrėjo.
-  citata_rodoma: |
-    Gegužės 15 d.
-
-    Skirsnemunėje Švitrigaila ir Ordinas
-    patvirtino prieš metus pasirašytą sutartį,
-    taip pat Švitrigaila sustiprino ryšius su
-    Naugardu, Pskovu, Mozūrija, Odojevo ir
-    Tverės kunigaikščiais. Tuo tarpu Jogailos
-    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: "Gegužės 15 d.\n\nSkirsnemunėje Švitrigaila ir Ordinas\npatvirtino prieš metus pasirašytą sutartį,\ntaip pat Švitrigaila sustiprino ryšius su\nNaugardu, Pskovu, Mozūrija, Odojevo ir\nTverės kunigaikščiais. Tuo tarpu Jogailos\nLenkijos santykiai su Ordinu aštrėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79842
-    - t-79843
+    - t-002
+    - t-004
+
 - id: c-184433
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą padarius, traukė
     naujasis kunigaikštis su surinktu svietu, kutindamas
@@ -286,10 +274,12 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201083
+    - t-005
+
 - id: c-184434
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lenkai negalėjo per amžius to nuopuolio užmiršti, o
     lietuviai, įgiję tą pergalę, dievus savo maldė, dėka-
@@ -308,10 +298,12 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201084
+    - t-006
+
 - id: c-184435
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą 1244 apent sugrįžo te­
     nai su rimtesniais pulkais ir, kas kame nuo ugnies
@@ -338,10 +330,12 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201085
+    - t-007
+
 - id: c-184436
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Šį patį metą aš laukiu keturių kunigų,
     mokančių lenkiškai, žemgališkai, lietuviškai ir pa-
@@ -361,6 +355,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201086
+    - t-008
+
 ## Ryšiai
 - Puolė Mozūriją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

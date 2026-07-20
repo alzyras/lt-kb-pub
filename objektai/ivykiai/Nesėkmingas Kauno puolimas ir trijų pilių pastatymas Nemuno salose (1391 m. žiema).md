@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185626"></a>
 - t-001
-  global_id: t-185626
   teiginys: "1391 m. žiemą Vytautas, tikėdamasis paimti Kauną, tyliai priėjo miškais ir netikėtai pasirodė su kariuomene prie pylimo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -70,8 +69,7 @@ Nenurodyta
     - c-168987
 
 <a id="claim-t-193362"></a>
-- t-002
-  global_id: t-193362
+- t-003
   teiginys: "Nemuno salose pastatytose Nojerverderio ir Ritersverderio pilyse kryžiuočiai paliko įgulas, o Marienburge Vytautas įkurdino savo karius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Nenurodyta
     - c-176089
 
 <a id="claim-t-196231"></a>
-- t-003
-  global_id: t-196231
+- t-004
   teiginys: "Atėjus žiemai Vytautas ir toliau rengė išpuolius iš žiemos stovyklos, todėl lietuviams ji nebuvo ramesnė už vasarą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Nenurodyta
     - c-168987
 
 <a id="claim-t-196232"></a>
-- t-004
-  global_id: t-196232
+- t-005
   teiginys: "Kojelavičiaus aiškinimu, Vytautas, netekęs vilties užimti Kauną ir nenorėdamas atrodyti nieko nenuveikęs, pastatė naujas pilis Nemuno salose."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -150,8 +146,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185626
-    - t-196231
+    - t-001
+    - t-004
+
 - id: c-176089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -172,26 +169,12 @@ Nenurodyta
     čiojoje, vadinamoje Marien­
     burgu, įkurdino savo karius
     Vytautas.
-  citata_rodoma: |
-    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
-    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
-    kai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­
-    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
-    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
-    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
-    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
-    riu ir Ritersverderiu, kryžiuo-
-    Stato L ie tu v o je паи-
-    čiai paliko savo įgulą, o tre­
-    jas pilis
-    čiojoje, vadinamoje Marien­
-    burgu, įkurdino savo karius
-    Vytautas.
+  citata_rodoma: "Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­\nstumti, ypač nepaprastą narsumą rodė lenkų pėstinin­\nkai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­\ndamas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­\nko nenuveikė, jis pasitraukė į Nemuno salas, esančias \nuž vienos mylios, ir pastatė čia naujas pilis. Dviejose \nsalose, Naujojoje ir Riterių, pavadintose Nojerverde-\nriu ir Ritersverderiu, kryžiuo- \nStato L ie tu v o je паи- \nčiai paliko savo įgulą, o tre­\njas pilis \nčiojoje, vadinamoje Marien­\nburgu, įkurdino savo karius \nVytautas."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193362
-    - t-196232
+    - t-003
+    - t-005

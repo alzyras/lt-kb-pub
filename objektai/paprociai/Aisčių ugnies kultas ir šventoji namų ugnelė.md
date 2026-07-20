@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10815"></a>
-- t-001
-  global_id: t-10815
+- t-006
   teiginys: "Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-00233
 
 <a id="claim-t-10816"></a>
-- t-002
-  global_id: t-10816
+- t-007
   teiginys: "Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-12421"></a>
 - t-003
-  global_id: t-12421
   teiginys: "Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Nenurodyta
 
 <a id="claim-t-12422"></a>
 - t-004
-  global_id: t-12422
   teiginys: "Svetimšaliams labiausiai į akis krito lietuvių ugnies kultas, su kuriuo buvo siejami medžiai, ištisi miškai ir kai kurie gyvuliai, pavyzdžiui, žalčiai, petrelės ir Dievo karvytės."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -121,7 +117,6 @@ Nenurodyta
 
 <a id="claim-t-93015"></a>
 - t-005
-  global_id: t-93015
   teiginys: "Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,7 +149,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10815
+    - t-006
+
 - id: c-00234
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,18 +160,15 @@ Nenurodyta
     gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
     bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
     šventoji namų ugnelė, arba gabija.
-  citata_rodoma: |
-    Ugnis buvo
-    gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
-    bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
-    šventoji namų ugnelė, arba gabija.
+  citata_rodoma: "Ugnis buvo\ngerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,\nbent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji\nšventoji namų ugnelė, arba gabija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10816
+    - t-007
+
 - id: c-14481
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -190,19 +183,16 @@ Nenurodyta
     būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
     stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
     nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
-  citata_rodoma: |
-    Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
-    būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
-    stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
-    nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
+  citata_rodoma: "Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje\nbūtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­\nstogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo\nnepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12421
-    - t-93015
+    - t-003
+    - t-005
+
 - id: c-14482
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -220,4 +210,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12422
+    - t-004

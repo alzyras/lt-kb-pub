@@ -30,9 +30,8 @@ Hugo Grotius.
 
 <a id="claim-t-194896"></a>
 - t-001
-  global_id: t-194896
   teiginys: "Hugo Grotius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,20 +40,7 @@ Hugo Grotius.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177292
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Hugo Grotius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194896
+
 ## Citatos
 
 - id: c-177292
@@ -62,15 +48,12 @@ Hugo Grotius.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    dų“'. Rytuose ji ribojosi su Sudargija, pietuose — su
-    Barta, vakaruose — su Natangija ir Sambija, o šiaurė­
-    je — su Salavija.
-  citata_rodoma: |
     3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi.
+  citata_rodoma: "3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194896
+    - t-001

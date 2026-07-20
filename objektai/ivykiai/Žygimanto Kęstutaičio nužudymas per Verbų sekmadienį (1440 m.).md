@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185685"></a>
 - t-001
-  global_id: t-185685
   teiginys: "Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185685
+    - t-001

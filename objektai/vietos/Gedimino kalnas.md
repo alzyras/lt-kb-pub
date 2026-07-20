@@ -31,7 +31,6 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
 
 <a id="claim-t-36238"></a>
 - t-001
-  global_id: t-36238
   teiginys: "Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,14 +55,12 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Šv. Martyno bažnyčią Jogaila pastatė Aukš.
-    Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
-  citata_rodoma: |
-    Šv. Martyno bažnyčią Jogaila pastatė Aukš.
-    Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
+    Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž. Šv.
+  citata_rodoma: "Šv. Martyno bažnyčią Jogaila pastatė Aukš.\nPilyje (Gedimino kalne), kur ji išbuvo iki XV amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36238
+    - t-001

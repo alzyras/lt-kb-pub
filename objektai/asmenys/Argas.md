@@ -30,7 +30,6 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
 
 <a id="claim-t-191368"></a>
 - t-001
-  global_id: t-191368
   teiginys: "Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąja jūra, tuomet vadinta Pontos-Axenos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191368
+    - t-001

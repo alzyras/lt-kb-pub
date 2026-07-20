@@ -31,7 +31,6 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
 
 <a id="claim-t-28721"></a>
 - t-001
-  global_id: t-28721
   teiginys: "„Trojos gudrumu“ vadintas planas netikėtai užimti Vilnių buvo išduotas ir sostinėje įsitvirtinti nepavyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
 
 <a id="claim-t-184362"></a>
 - t-002
-  global_id: t-184362
   teiginys: "Vytauto planas „Trojos gudrumu“ netikėtai užimti Vilnių buvo išduotas, todėl sostinėje įsitvirtinti nepavyko."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,8 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28721
+    - t-001
+
 - id: c-167732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -98,4 +97,4 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184362
+    - t-002

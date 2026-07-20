@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87074"></a>
-- t-001
-  global_id: t-87074
+- t-002
   teiginys: "Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-83053
 
 <a id="claim-t-87075"></a>
-- t-002
-  global_id: t-87075
+- t-001
   teiginys: "Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,27 +99,16 @@ Nenurodyta
     apie Sudimantą nėra užsiminta.
     20
     Vilniaus kapitulos archy­
-    vas: MSS, vad.
-  citata_rodoma: |
-    Jogaila tam pasipriešino,
-    tad šia dingstimi negalima buvo į
-    Vilnių vykti. Tie patys metraštinin­
-    kai pasakoja, kad 300 vežimų, įvai­
-    rios žvėrienos prikrauti, atvažiavę į
-    miestą ir kad Vytauto bajorai suva­
-    žiavę į miestą iš įvairių pusių, bet
-    vienas jų, matyt, išdavęs paslaptį, o
-    apie Sudimantą nėra užsiminta.
-    20
-    Vilniaus kapitulos archy­
-    vas: MSS, vad.
+    vas: MSS, vad. Acta, tai yra*
+  citata_rodoma: "Jogaila tam pasipriešino, \ntad šia dingstimi negalima buvo į \nVilnių vykti. Tie patys metraštinin­\nkai pasakoja, kad 300 vežimų, įvai­\nrios žvėrienos prikrauti, atvažiavę į \nmiestą ir kad Vytauto bajorai suva­\nžiavę į miestą iš įvairių pusių, bet \nvienas jų, matyt, išdavęs paslaptį, o \napie Sudimantą nėra užsiminta.\n20\nVilniaus kapitulos archy­\nvas: MSS, vad."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87074
+    - t-002
+
 - id: c-83054
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87075
+    - t-001

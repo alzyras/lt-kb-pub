@@ -31,7 +31,6 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
 
 <a id="claim-t-190212"></a>
 - t-001
-  global_id: t-190212
   teiginys: "Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190212
+    - t-001

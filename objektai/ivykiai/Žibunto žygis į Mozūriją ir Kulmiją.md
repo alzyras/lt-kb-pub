@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201354"></a>
 - t-001
-  global_id: t-201354
   teiginys: "Lygia dalia Žibuntas, arba Žibinąs, kunigaikštis lietuvių, su savo pulkais saulėlydy taip pat garbę lietuvių platino: kaipogi, perlėkęs žiebų veikumu visą Mozūriją, savo smarkybe ir narsybe visas šalis nugandino, kursai, gieždamas dar apmaudą už se nų dienų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184704
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lygia dalia Žibuntas, arba Žibinąs, kunigaikštis
     lietuvių, su savo pulkais saulėlydy taip pat garbę
@@ -84,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201354
+    - t-001

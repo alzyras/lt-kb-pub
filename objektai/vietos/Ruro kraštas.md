@@ -31,7 +31,6 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
 
 <a id="claim-t-21761"></a>
 - t-001
-  global_id: t-21761
   teiginys: "Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,6 +46,7 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   pagrindžia:
     - c-24440
     - c-167021
+
 ## Citatos
 
 - id: c-24440
@@ -61,15 +61,15 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     stengtis nukauti kuo mažiau prancūzų. Akcija pradėta laiku: Vakaruose
     vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
     linių įvedimo į Ruro kraštą.
-  citata_rodoma: |
-    vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
+  citata_rodoma: "vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21761
+    - t-001
+
 - id: c-167021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -86,3 +86,5 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

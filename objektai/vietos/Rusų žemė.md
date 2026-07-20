@@ -8,6 +8,8 @@ datos:
   - '1496 m.'
 date_start: '1495'
 date_end: '1496'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,8 +17,6 @@ tags:
   - vieta
   - pilis
   - regionas
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,10 +39,9 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 ## Teiginiai
 
 <a id="claim-t-187312"></a>
-- t-001
-  global_id: t-187312
+- t-003
   teiginys: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "valde_teritorija -> Rusų žemė: 0.76"
@@ -58,10 +57,9 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     - c-170349
 
 <a id="claim-t-194035"></a>
-- t-002
-  global_id: t-194035
+- t-006
   teiginys: "Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,9 +68,8 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   pagrindžia:
     - c-176655
 
-<a id="claim-t-187312"></a>
-- t-003
-  global_id: t-905856634
+<a id="claim-t-194036"></a>
+- t-007
   teiginys: "Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -83,12 +80,10 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
   pagrindžia:
     - c-170349
 
-## Citatos
-
-- id: c-170349
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O tie Vokietijos di­
     dieji kunigaikščiai vokiečių kalba vadinosi magistrai3.
@@ -108,23 +103,16 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 
     vanodami ir didelę duoklę duodami jam ne tik kiek­
     vienais melais, bet ir kiekvieną dieną.
-  citata_rodoma: |
-    Ir aš prašiau kunigaikštį Jogailą raštų bei
-    privilegijų dėl tų žemių, kurias jis man buvo davęs,
-    dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" ,
-    kad aš ją galėčiau pasilaikyti.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187312
-    - t-003
-- id: c-176655
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  statusas: verified
+- t-003
+
+- c-002
+  santrauka: 'Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir aš prašiau kunigaikštį Jogailą raštų bei
     privilegijų dėl tų žemių, kurias jis man buvo davęs,
@@ -139,7 +127,38 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     Dar daugiau: jie suėmė mano bajorus be mano sutiki­
     mo, kankino juos vandeniu, apkalė geležimis ir metė
     juos į požemius, ir visa tai prieš mano valią.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170349
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir aš prašiau kunigaikštį Jogailą raštų bei
+    privilegijų dėl tų žemių, kurias jis man buvo davęs,
+    dėl rusų žemės7 , kuri buvo priklausiusi Liubartui" ,
+    kad aš ją galėčiau pasilaikyti.
+  citata_rodoma: "Ir aš prašiau kunigaikštį Jogailą raštų bei\nprivilegijų dėl tų žemių, kurias jis man buvo davęs,\ndėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" ,\nkad aš ją galėčiau pasilaikyti."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-007
+
+- id: c-176655
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Paskui atvyko kunigaikštis Algirdas prie Vilniaus
     pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,
     kadangi jis (Algirdas) buvo jo vyriausias brolis, atida­
@@ -150,10 +169,11 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
     veno vienas su kitu labai sutardami.
     Ir po to mūsų dėdė kunigaikštis Algirdas mirė, o
     kunigaikštis Jogaila tebebuvo jaunas.
+  citata_rodoma: "Paskui atvyko kunigaikštis Algirdas prie Vilniaus \npas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių, \nkadangi jis (Algirdas) buvo jo vyriausias brolis, atida­\nvė jam valdyti Vilnių, o kitas žemes ir pilis pasidalijo \njie viską pusiau, pasižadėdami vienas kitam, ką įsigys \nkitose žemėse, visa dalytis pusiau. Kai Rusų žemėje pa­\nėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy­\nveno vienas su kitu labai sutardami.\nIr po to mūsų dėdė kunigaikštis Algirdas mirė, o \nkunigaikštis Jogaila tebebuvo jaunas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194035
+    - t-006

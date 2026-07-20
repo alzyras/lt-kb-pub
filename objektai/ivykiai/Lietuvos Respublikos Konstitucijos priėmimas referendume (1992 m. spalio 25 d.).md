@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75194"></a>
-- t-001
-  global_id: t-75194
+- t-003
   teiginys: "1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-75195"></a>
 - t-002
-  global_id: t-75195
   teiginys: "Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-23017
 
 <a id="claim-t-75196"></a>
-- t-003
-  global_id: t-75196
+- t-001
   teiginys: "1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,6 @@ Nenurodyta
 
 <a id="claim-t-183257"></a>
 - t-004
-  global_id: t-183257
   teiginys: "1992 m. spalio 25 d. referendume priimtos Konstitucijos preambulėje įtvirtinti pilietinės visuomenės ir teisinės valstybės principai."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -146,16 +142,15 @@ Nenurodyta
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
     daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
     lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
-  citata_rodoma: |
-    1992 m. spa-
-    lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
+  citata_rodoma: "1992 m. spa-\nlio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75196
+    - t-001
+
 - id: c-23017
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -173,20 +168,15 @@ Nenurodyta
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: |
-    Pagrindinės Konstitucijos nuostatos skelbė,
-    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
-    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
-    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
-    Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
-    valdžios galias riboja konstitucija.
+  citata_rodoma: "Pagrindinės Konstitucijos nuostatos skelbė,\nkad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,\nsuverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo\ntiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią\nLietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,\nvaldžios galias riboja konstitucija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75195
+    - t-002
+
 - id: c-73071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -210,7 +200,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75194
+    - t-003
+
 - id: c-166645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,4 +220,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183257
+    - t-004

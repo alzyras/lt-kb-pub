@@ -31,8 +31,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 ## Teiginiai
 
 <a id="claim-t-175237"></a>
-- t-001
-  global_id: t-175237
+- t-003
   teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,8 +40,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159384
 
 <a id="claim-t-175238"></a>
-- t-002
-  global_id: t-175238
+- t-004
   teiginys: "Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,8 +57,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159382
 
 <a id="claim-t-175239"></a>
-- t-003
-  global_id: t-175239
+- t-002
   teiginys: "Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,8 +74,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - c-159381
 
 <a id="claim-t-197109"></a>
-- t-004
-  global_id: t-197109
+- t-005
   teiginys: "Dusburgietis teigia, kad judas Makabėjus kaip Dovydas įsivedė kunigystę ir kas dieną šlovina dievo didybę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -110,20 +106,15 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
     pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
-  citata_rodoma: |
-    Nedera, be to,
-    užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
-    nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
-    nugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
-    pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
-    remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
+  citata_rodoma: "Nedera, be to,\nužmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,\nnes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,\nnugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi\npripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo\nremiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175239
+    - t-002
+
 - id: c-159382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -144,23 +135,15 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 
 
     Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
-  citata_rodoma: |
-    Apie Judą Makabėjų
-    pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
-    kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
-    kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
-    bėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,
-    kuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:
-
-                     Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
-                   Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
+  citata_rodoma: "Apie Judą Makabėjų\npasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,\nkai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai\nkovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo\nbėgti. (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė laimėti kovą, būtent kantrybė,\nkuri padėjusi Kristaus kankiniams išsaugoti tyras savo sielas, apie ją ir poetas sako:\n\n                 Pergalės būdas tikriausias — kantrybė, tas kovą laimi,\n               Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175238
+    - t-004
+
 - id: c-159384
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,18 +155,15 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
     kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
     (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.
-  citata_rodoma: |
-    Juk čia ne
-    jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
-    kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
-    (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo.
+  citata_rodoma: "Juk čia ne\njūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas\nkartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius\n(1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175237
+    - t-003
+
 - id: c-179028
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,6 +181,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197109
+    - t-005
+
 ## Ryšiai
 - Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

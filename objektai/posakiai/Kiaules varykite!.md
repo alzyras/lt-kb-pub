@@ -49,7 +49,6 @@ Ganymo šūksnis.
 
 <a id="claim-t-195423"></a>
 - t-001
-  global_id: t-195423
   teiginys: "Piemenys kartu rėkia „Kiaules varykite!“."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -70,14 +69,11 @@ Ganymo šūksnis.
     Juodu eidamu
     gatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­
     bais šaukia į kovą šunis.
-  citata_rodoma: |
-    Juodu eidamu
-    gatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­
-    bais šaukia į kovą šunis.
+  citata_rodoma: "Juodu eidamu\ngatve iš viso vieko rėkia kartu: „Kiaules varykite!“ , o paukšindami rim­\nbais šaukia į kovą šunis."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195423
+    - t-001

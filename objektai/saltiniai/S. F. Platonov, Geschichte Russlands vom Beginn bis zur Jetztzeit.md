@@ -36,7 +36,6 @@ Platonov, S.
 
 <a id="claim-t-31912"></a>
 - t-001
-  global_id: t-31912
   teiginys: "S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ Platonov, S.
     wielki książę Litwy_ , Vilnius 1930. — PfiW. — Platonov, S. F. : _Geschich­
     te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: |
-    — Platonov, S. F. : _Geschich­
-    te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
-    Prochaska, A.
+  citata_rodoma: "— Platonov, S. F. : _Geschich­\nte Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—\nProchaska, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31912
+    - t-001

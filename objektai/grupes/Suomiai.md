@@ -31,7 +31,6 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 
 <a id="claim-t-01485"></a>
 - t-001
-  global_id: t-01485
   teiginys: "Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,14 +120,11 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
     Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
     pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
     ir suomiai.
-  citata_rodoma: |
-    Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
-    pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
-    ir suomiai.
+  citata_rodoma: "Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai\npažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai\nir suomiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01485
+    - t-001

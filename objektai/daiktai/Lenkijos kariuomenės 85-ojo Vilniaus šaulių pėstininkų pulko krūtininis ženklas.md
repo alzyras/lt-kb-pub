@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-40736"></a>
 - t-001
-  global_id: t-40736
   teiginys: "Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininiame ženkle buvo užrašas „NIE DAMY“ ir Aušros vartų Dievo Motina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,17 +91,11 @@ Nenurodyta
     truoja Lenkijos ambicijas į Lietuvos sostinę Vilnių
 
     1920 m. lapkričio 19 d. ŠIRVINTŲ KAUTYNĖS 205
-  citata_rodoma: |
-    Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininis ženklas. Ant jo
-
-    esantis užrašas „NIE DAMY (NEDUOSIM)" ir centre pavaizduota Aušros vartų Dievo motina ilius-
-    truoja Lenkijos ambicijas į Lietuvos sostinę Vilnių
-
-    1920 m.
+  citata_rodoma: "Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininis ženklas. Ant jo\n\nesantis užrašas „NIE DAMY (NEDUOSIM)\" ir centre pavaizduota Aušros vartų Dievo motina ilius-\ntruoja Lenkijos ambicijas į Lietuvos sostinę Vilnių\n\n1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40736
+    - t-001

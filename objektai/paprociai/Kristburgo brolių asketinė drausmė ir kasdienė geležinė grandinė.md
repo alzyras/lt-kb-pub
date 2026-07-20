@@ -51,10 +51,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62687"></a>
-- t-001
-  global_id: t-62687
+- t-002
   teiginys: "Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
@@ -67,10 +66,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63435
-    - c-001
+
 <a id="claim-t-196986"></a>
-- t-002
-  global_id: t-196986
+- t-003
   teiginys: "Šiuos visus užpuolė broliai ir kovoje išžudė, o vežimus bei ketverinius kinkinius nusivarė į pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Nenurodyta
     - c-178994
 
 <a id="claim-t-196987"></a>
-- t-003
-  global_id: t-196987
+- t-004
   teiginys: "Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji prigėrė Vysloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,23 +91,6 @@ Nenurodyta
   pagrindžia:
     - c-178995
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
-    menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
-    sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
-
-                   65 (64).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62687
 ## Citatos
 
 - id: c-63435
@@ -118,13 +98,6 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kristburgo broliai šiuos karius užpuolė
-    ir daug jų išžudė, o kiti, balsu šaukdami, leidosi bėgti link savo valdovo Sventopelko
-    kariuomenės. Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
-    Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji
-    prigėrė Vysloje. Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
-    pasprukdamas laivu.
-  citata_rodoma: |
     Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
     menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
     sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
@@ -133,13 +106,15 @@ Nenurodyta
 
 
                    65 (64).
+  citata_rodoma: "Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį\nmenką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo\nsunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.\n\n\n\n\n               65 (64)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62687
+    - t-002
+
 - id: c-178994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +132,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196986
+    - t-003
+
 - id: c-178995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -173,4 +149,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196987
+    - t-004

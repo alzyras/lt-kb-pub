@@ -31,7 +31,6 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 
 <a id="claim-t-42478"></a>
 - t-001
-  global_id: t-42478
   teiginys: "Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,18 +72,11 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
     totorių raiteliai galėdavo judėti taip spar-
     čiai, jog anaiptol ne visada žinia apie toto-
     rių reidą galėdavo užbėgti jiems už akių.
-  citata_rodoma: |
-    Taktinį
-    pranašumą sąlygojo jų lengvoji kavalerija.
-    Kiekvienas raitelis su savimi vesdavosi po
-    tris atsarginius žirgus, kuriuos keičiant
-    totorių raiteliai galėdavo judėti taip spar-
-    čiai, jog anaiptol ne visada žinia apie toto-
-    rių reidą galėdavo užbėgti jiems už akių.
+  citata_rodoma: "Taktinį\npranašumą sąlygojo jų lengvoji kavalerija.\nKiekvienas raitelis su savimi vesdavosi po\ntris atsarginius žirgus, kuriuos keičiant\ntotorių raiteliai galėdavo judėti taip spar-\nčiai, jog anaiptol ne visada žinia apie toto-\nrių reidą galėdavo užbėgti jiems už akių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42478
+    - t-001

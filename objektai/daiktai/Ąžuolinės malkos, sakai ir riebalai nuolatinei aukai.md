@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189767"></a>
 - t-001
-  global_id: t-189767
   teiginys: "Narbutas nuolatinei aukai priskyrė ąžuolines malkas iš šventų miškelių, sakus ir riebalus, degintus negęstančiai ugniai kurstyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189767
+    - t-001

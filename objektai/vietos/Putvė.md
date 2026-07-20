@@ -31,8 +31,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 ## Teiginiai
 
 <a id="claim-t-32490"></a>
-- t-001
-  global_id: t-32490
+- t-002
   teiginys: "Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     - c-32368
 
 <a id="claim-t-32491"></a>
-- t-002
-  global_id: t-32491
+- t-001
   teiginys: "Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32490
+    - t-002
+
 - id: c-34017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -100,18 +99,14 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
     tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
     gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
     lietuvių pilių gynėjų išdavimas.
-  citata_rodoma: |
-    Po du — tris kartus buvo teriota
-    Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­
-    tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
-    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
-    lietuvių pilių gynėjų išdavimas.
+  citata_rodoma: "Po du — tris kartus buvo teriota\nPograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­\ntenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę\ngynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks\nlietuvių pilių gynėjų išdavimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32491
+    - t-001
+
 ## Ryšiai
 - Putvė priklausė [[objektai/vietos/Karšuva]]

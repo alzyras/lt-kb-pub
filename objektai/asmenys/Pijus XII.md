@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-19194"></a>
 - t-001
-  global_id: t-19194
   teiginys: "Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
+  citata_rodoma: "popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19194
+    - t-001

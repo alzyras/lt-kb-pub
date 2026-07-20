@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 
 <a id="claim-t-60379"></a>
 - t-001
-  global_id: t-60379
   teiginys: "Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas; citata remia pareigas, trukmę ir palaidojimo vietą."
   pagrindžia:
     - c-61011
-    - c-001
 - susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,8 +72,7 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60379
+
 ## Citatos
 
 - id: c-61011
@@ -83,14 +80,6 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai
-    nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge
-    turėjome keliauti ten, kur amžinos linksmybės“. Nors jis ir nesirgo jokia kita liga, o tik
-    ta, kurią esu paminėjęs, vis dėlto, pasiprašęs kunigo ir priėmęs bažnyčios sakramentus,
-    tą pačią dieną laimingai atidavė viešpačiui sielą.
-    279 (272). Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
-    Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus.
-  citata_rodoma: |
     Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 
        Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
@@ -100,12 +89,14 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 
 
       273 (266).
+  citata_rodoma: "Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą\n\n   Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus\nmetus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.\n\n\n\n\n  273 (266)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60379
+    - t-001
+
 ## Ryšiai
 - Liudvikas iš Šipeno buvo palaidotas [[objektai/vietos/Chełmža]]

@@ -31,7 +31,6 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
 
 <a id="claim-t-77782"></a>
 - t-001
-  global_id: t-77782
   teiginys: "Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77782
+    - t-001

@@ -7,10 +7,10 @@ datos:
   - '1523 m.'
 date_start: '1523'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-202252"></a>
 - t-001
-  global_id: t-202252
   teiginys: "1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-202253"></a>
 - t-002
-  global_id: t-202253
   teiginys: "Mikalojus Husovianas poemoje De statura, feritate ae venatione bisontis carmen (Giesmė apie stumbro išvaizdq, žiaurumq ir medžioklę) didžiausią dėmesį skyrė medžioklei Lietuvos giriose, bet matė ir kitokią didžiulę naudą, kurią teikė girios: Nors ši tauta ir."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202252
+    - t-001
 
 - id: c-185600
   autorius: "Zigmantas Kiaupa"
@@ -99,4 +97,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202253
+    - t-002

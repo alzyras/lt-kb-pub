@@ -32,7 +32,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 
 <a id="claim-t-192935"></a>
 - t-001
-  global_id: t-192935
   teiginys: "Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,10 +50,9 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175705
-    - c-001
+
 <a id="claim-t-192936"></a>
 - t-002
-  global_id: t-192936
   teiginys: "Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 
 <a id="claim-t-192937"></a>
 - t-003
-  global_id: t-192937
   teiginys: "476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,10 +91,9 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175707
-    - c-003
+
 <a id="claim-t-197518"></a>
 - t-004
-  global_id: t-197518
   teiginys: "Tas pats istorikas Jorda nas, pasakodamas apie gotų kivirčus, pirmiausia mini skirius, iš pradžių taikiai gyvenusius su kitomis gotų gentimis; jie labiau linko į žemdirbystę ir namų verslus negu į kariavimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -134,56 +130,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - susijęs iš [[objektai/grupes/Hiriai.md#claim-t-192926|Hiriai]]: Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais.
 - susijęs iš [[objektai/grupes/Sudargai.md#claim-t-192930|Sudargai]]: Narbutas rašo, kad skiriai su sudargais po gotų žygių kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandakoso.
 - susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191017|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    282
-
-    ## Puslapis 293
-
-    klausiusių d akų; 245 metais gotai pradėjo grobuoniškus
-    žygius į Romos imperijos kraštus ir miestus'. Būtent po
-    šių laikų ir skiriat su sudargais pradėjo kurtis mažojoje
-    Skitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­
-    tinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­
-    jami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-
-    sas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
-    iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
-    varginti, beveik be paliovos puldinėję imperijos žemes,
-    ėmė mąstyti apie įsikūrimą vienoje vietoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192935
-- c-003
-  santrauka: '476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
-    šios temos pagrindą.
-    303
-
-    ## Puslapis 314
-
-    317
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192937
 ## Citatos
 
 - id: c-175705
@@ -191,23 +137,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Būtent po
-    šių laikų ir skiriat su sudargais pradėjo kurtis mažojoje
-    Skitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­
-    tinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­
-    jami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-
-    sas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
-    iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
-    varginti, beveik be paliovos puldinėję imperijos žemes,
-    ėmė mąstyti apie įsikūrimą vienoje vietoje. Šių karingų
-    plėšikų būriai, savaime suprantama, negalėjo ilgai gy­
-    venti taikiai ir, kai kaimynystėje nebuvo ko plėšti, ėmė
-    vaidytis ir kariauti tarpusavyje. Tas pats istorikas Jorda­
-    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
-    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
-    gentimis; jie labiau linko į žemdirbystę ir namų verslus
-    negu į kariavimą.
-  citata_rodoma: |
     282
 
     ## Puslapis 293
@@ -222,13 +151,15 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
     varginti, beveik be paliovos puldinėję imperijos žemes,
     ėmė mąstyti apie įsikūrimą vienoje vietoje.
+  citata_rodoma: "282\n\n## Puslapis 293\n\nklausiusių d akų; 245 metais gotai pradėjo grobuoniškus\nžygius į Romos imperijos kraštus ir miestus'. Būtent po\nšių laikų ir skiriat su sudargais pradėjo kurtis mažojoje\nSkitijoje, arba dešiniojoje Dnestro pakrantėje, ir žemu­\ntinėje Mezijoje, arba arčiau Dunojaus žemupio, vadovau­\njami, gotų pavyzdžiu, vado ar karaliuko, vardu Kandak-\nsas1 2. Tai vyko jau tuo metu, kai, IV amžiaus pradžioje\niki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­\nvarginti, beveik be paliovos puldinėję imperijos žemes,\nėmė mąstyti apie įsikūrimą vienoje vietoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192935
+    - t-001
+
 - id: c-175706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -256,24 +187,14 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192936
-    - t-197518
+    - t-002
+    - t-004
+
 - id: c-175707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Karingoms, nesvetingų italų pavydo ir Oresto griež­
-    tumo išgąsdintoms gentims nieko daugiau nereikėjo; 476
-    metų pradžioje visi alanai, turcilingai, gepidai, skiriai,
-    herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
-    naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
-    mas gausius būrius. Orestas, nedrįsęs atvirai pasiprie­
-    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
-    laikoma Italijos sostine. Odoakro kariuomenės apgultas
-    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
-    tas; Orestas žuvo.
-  citata_rodoma: |
     1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
     šios temos pagrindą.
     303
@@ -287,13 +208,15 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     herulai paskelbė Odoakrą savo vadu jr karaliumi. Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
     mas gausius būrius.
+  citata_rodoma: "1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro\nšios temos pagrindą.\n303\n\n## Puslapis 314\n\n317\nKaringoms, nesvetingų italų pavydo ir Oresto griež­\ntumo išgąsdintoms gentims nieko daugiau nereikėjo; 476\nmetų pradžioje visi alanai, turcilingai, gepidai, skiriai,\nherulai paskelbė Odoakrą savo vadu jr karaliumi. Sis\nnaujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­\nmas gausius būrius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192937
+    - t-003
+
 ## Ryšiai
 - Skiriai puolė [[objektai/grupes/Gotai]]
 - Skiriai paskyrė [[objektai/asmenys/Odoakras]]

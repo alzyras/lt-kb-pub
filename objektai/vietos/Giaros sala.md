@@ -31,7 +31,6 @@ Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Ne
 
 <a id="claim-t-192838"></a>
 - t-001
-  global_id: t-192838
   teiginys: "Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192838
+    - t-001

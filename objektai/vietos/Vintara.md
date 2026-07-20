@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-42305"></a>
 - t-001
-  global_id: t-42305
   teiginys: "Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ media_all_json: |-
     Gelvonų link Švitrigailos - Ordino ka-
     riuomenė, ar buvo perėjusi Žirnajos upę
     (kaip teigiama istoriografijoje), nėra aišku.
-  citata_rodoma: |
-    Šią kariuomenių išsidėstymo
-    situaciją natūroje atitinka ne Žirnajos (kaip
-    įprasta istoriografijoje), bet jos dešiniojo
-    intako Vintaros, tekančios per dabartinį
-    Pabaisko miestelį, padėtis.
-
-    Kokiose pozicijose buvo sustojusi kelyje
-    Gelvonų link Švitrigailos - Ordino ka-
-    riuomenė, ar buvo perėjusi Žirnajos upę
-    (kaip teigiama istoriografijoje), nėra aišku.
+  citata_rodoma: "Šią kariuomenių išsidėstymo\nsituaciją natūroje atitinka ne Žirnajos (kaip\nįprasta istoriografijoje), bet jos dešiniojo\nintako Vintaros, tekančios per dabartinį\nPabaisko miestelį, padėtis.\n\nKokiose pozicijose buvo sustojusi kelyje\nGelvonų link Švitrigailos - Ordino ka-\nriuomenė, ar buvo perėjusi Žirnajos upę\n(kaip teigiama istoriografijoje), nėra aišku."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42305
+    - t-001

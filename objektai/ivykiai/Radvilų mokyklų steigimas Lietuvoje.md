@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-200881"></a>
 - t-001
-  global_id: t-200881
   teiginys: "Basanavičiaus teigimu, Radvilos Juodasis ir Rudasis XVII a. antroje pusėje Lietuvoje įsteigė kelias mokyklas, kuriose mokyta ir lietuvių kalbos."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200881
+    - t-001

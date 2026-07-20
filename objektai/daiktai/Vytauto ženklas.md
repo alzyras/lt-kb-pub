@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182858"></a>
-- t-001
-  global_id: t-182858
+- t-021
   teiginys: "Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-166261
 
 <a id="claim-t-183690"></a>
-- t-002
-  global_id: t-183690
+- t-022
   teiginys: "Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-42571
 
 <a id="claim-t-183691"></a>
-- t-003
-  global_id: t-183691
+- t-023
   teiginys: "Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -140,7 +137,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183690
+    - t-022
+
 - id: c-166261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -152,18 +150,15 @@ Nenurodyta
     jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
     tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
     vado Edigos dalinių.
-  citata_rodoma: |
-    Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių.
+  citata_rodoma: "Esą Vytautas reikalavęs chaną\njam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras\ntačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo\nvado Edigos dalinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182858
+    - t-021
+
 - id: c-167081
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -185,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183691
+    - t-023

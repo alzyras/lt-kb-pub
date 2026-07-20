@@ -39,7 +39,6 @@ Huizinga) yra labai platus objektas.
 
 <a id="claim-t-100126"></a>
 - t-001
-  global_id: t-100126
   teiginys: "J. Huizingos sąvoka „vidurinių amžių ruduo“ citatoje siejama su Europos vidurinių amžių pabaiga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ Huizinga) yra labai platus objektas.
     idealistą stud. Algirdą Stankų.
     Lietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių
     amžių rudens » Europoje (J. Huizinga) yra labai platus objektas.
-  citata_rodoma: |
-    Algirdą Stankų.
-    Lietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių
-    amžių rudens » Europoje (J. Huizinga) yra labai platus objektas.
+  citata_rodoma: "Algirdą Stankų.\nLietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių\namžių rudens » Europoje (J. Huizinga) yra labai platus objektas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100126
+    - t-001

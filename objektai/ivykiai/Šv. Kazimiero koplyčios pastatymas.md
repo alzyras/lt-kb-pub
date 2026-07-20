@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-200846"></a>
 - t-001
-  global_id: t-200846
   teiginys: "Šv. Kazimiero koplyčia Katedroje pastatyta 1620–1630 metais šventojo palaikams saugoti."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200846
+    - t-001

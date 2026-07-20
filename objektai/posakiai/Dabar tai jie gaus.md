@@ -34,8 +34,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09656"></a>
-- t-001
-  global_id: t-09656
+- t-004
   teiginys: "„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -51,8 +50,7 @@ media_all_json: |-
     - c-12473
 
 <a id="claim-t-09657"></a>
-- t-002
-  global_id: t-09657
+- t-003
   teiginys: "„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -77,15 +75,12 @@ media_all_json: |-
     Tada pro rinktinę pravažiavo keturios vokiečių
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
     tą patį kartojo: „Dabar tai jie gaus“.
-  citata_rodoma: |
-    Tada pro rinktinę pravažiavo keturios vokiečių
-    patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
-    tą patį kartojo: „Dabar tai jie gaus“.
+  citata_rodoma: "Tada pro rinktinę pravažiavo keturios vokiečių\npatrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos\ntą patį kartojo: „Dabar tai jie gaus“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09656
-    - t-09657
+    - t-004
+    - t-003

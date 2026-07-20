@@ -36,7 +36,6 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
 
 <a id="claim-t-31780"></a>
 - t-001
-  global_id: t-31780
   teiginys: "L. Arbusowo „Römischer Arbeitsbericht“ 1928 m. išėjo „Acta Universitatis Latviensis“ leidinyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
     (^11) **LUB, VI, 479 p.**
     (^12) **K. Forstreuter :** **_Die Bekehrung des Litauerkönigs Gedimin,_** **(žr.
     bibliogr.) 157 p.**
-  citata_rodoma: |
-    **
-    (^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)
-    1928, 386 p. Plg. Paszkiewicz : PaJM, 257 p.
+  citata_rodoma: "**\n(^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)\n1928, 386 p. Plg. Paszkiewicz : PaJM, 257 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31780
+    - t-001

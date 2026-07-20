@@ -38,7 +38,6 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
 
 <a id="claim-t-41948"></a>
 - t-001
-  global_id: t-41948
   teiginys: "Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,30 +82,11 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
     uniforma
 
     144 LIETUVOS BRASTOS MŪŠIS 1792 m. liepos 23 d.
-  citata_rodoma: |
-    Inži-
-    nerijos pulkininkui Jokūbui Jasinskui
-    vadovaujant pradėtas statyti antras til-
-
-    tas per Bugą, turėjęs užtikrinti atsitrau-
-    kimą, esant kritiškai situacijai, užverstos
-    dvi brastos Senajame Muchavece, prieš
-    tiltą per Muchaveco upę supiltas pyli-
-    mas, nuo kurio pabūklai galėjo apšaudyti
-    miesto prieigas. Miesto centre dalis gatvių
-
-    LDK 6-ojo Didžiosios
-    buožės pėstininkų
-    regimento karininkas
-    su Ketverių metų seimo
-    periodo pavyzdžio
-    uniforma
-
-    144 LIETUVOS BRASTOS MŪŠIS 1792 m.
+  citata_rodoma: "Inži-\nnerijos pulkininkui Jokūbui Jasinskui\nvadovaujant pradėtas statyti antras til-\n\ntas per Bugą, turėjęs užtikrinti atsitrau-\nkimą, esant kritiškai situacijai, užverstos\ndvi brastos Senajame Muchavece, prieš\ntiltą per Muchaveco upę supiltas pyli-\nmas, nuo kurio pabūklai galėjo apšaudyti\nmiesto prieigas. Miesto centre dalis gatvių\n\nLDK 6-ojo Didžiosios\nbuožės pėstininkų\nregimento karininkas\nsu Ketverių metų seimo\nperiodo pavyzdžio\nuniforma\n\n144 LIETUVOS BRASTOS MŪŠIS 1792 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41948
+    - t-001

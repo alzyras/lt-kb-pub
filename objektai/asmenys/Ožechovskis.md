@@ -32,7 +32,6 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 
 <a id="claim-t-194836"></a>
 - t-001
-  global_id: t-194836
   teiginys: "Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį krikštijimą ir."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194836
+    - t-001

@@ -43,9 +43,8 @@ Nenurodyta
 
 <a id="claim-t-185815"></a>
 - t-001
-  global_id: t-185815
   teiginys: "Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,12 +60,10 @@ Nenurodyta
   pagrindžia:
     - c-169176
 
-## Citatos
-
-- id: c-169176
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kernu-
     sijui, arba Kerniui, atidavė valdyti Lietuvos žemes
@@ -84,7 +81,19 @@ Nenurodyta
     labiau stiprino. Galop jie iš-
     K u n igaikščiai: v ie n a s
     drįso netgi pulti kaimynus.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169176
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Toje pačioje vietoje pa­
     garbiai užkasus pelenus, pastatė nelyginant atminimo
     statulą, kuri palikuonių buvo laikoma šventenybe, kaip,
@@ -94,10 +103,11 @@ Nenurodyta
     gentį ėmė puldinėti lenkų karalius Boleslovas Narsu­
     sis. Šiaip Speros valdymo metais viešpatavo ramybė
     ir viduje, ir kaimynuose.
+  citata_rodoma: "Toje pačioje vietoje pa­\ngarbiai užkasus pelenus, pastatė nelyginant atminimo\nstatulą, kuri palikuonių buvo laikoma šventenybe, kaip,\nbeje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­\nvo atiduodama dieviškoji pagarba. Vėliau keletą kartų\nsiuntė ginkluotą pagalbą kaimyninei Prūsijai, kai šią\ngentį ėmė puldinėti lenkų karalius Boleslovas Narsu­\nsis. Šiaip Speros valdymo metais viešpatavo ramybė\nir viduje, ir kaimynuose."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185815
+    - t-001

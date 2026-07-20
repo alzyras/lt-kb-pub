@@ -30,7 +30,6 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 <a id="claim-t-95917"></a>
 - t-001
-  global_id: t-95917
   teiginys: "Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
     tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
     gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
     link.
-  citata_rodoma: |
-    Magistras tada atsakė, kad ginčą
-    tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­
-    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
-    link.
+  citata_rodoma: "Magistras tada atsakė, kad ginčą\ntarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95917
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-41212"></a>
 - t-001
-  global_id: t-41212
   teiginys: "1946 m. rugpjūčio 20 d. J. Žemaitis tapo Šerno rinktinės vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ media_all_json: |-
     tapo šios rinktinės štabo viršininku. 1946 m. rug-
     pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
     1945 m. Žebenkšties rinktinės štabo viršininku.
-  citata_rodoma: |
-    1946 m. rug-
-    pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
-    1945 m. Žebenkšties rinktinės štabo viršininku.
+  citata_rodoma: "1946 m. rug-\npjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo\n1945 m. Žebenkšties rinktinės štabo viršininku."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41212
+    - t-001

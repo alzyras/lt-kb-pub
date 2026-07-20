@@ -37,7 +37,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 
 <a id="claim-t-86449"></a>
 - t-001
-  global_id: t-86449
   teiginys: "Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 
 <a id="claim-t-86451"></a>
 - t-002
-  global_id: t-86451
   teiginys: "Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 
 <a id="claim-t-86452"></a>
 - t-003
-  global_id: t-86452
   teiginys: "Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,7 +85,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 
 <a id="claim-t-194219"></a>
 - t-004
-  global_id: t-194219
   teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -123,30 +119,15 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
     tos, buvo pačioje Lietuvoje, prie
     Kauno, ant Nevėžio kranto, .būtent
     toj vietoj, kur dabar Romainiai.
-  citata_rodoma: |
-    Prie viso
-    to reikia pridurti, kad graikų apei­
-    gų tikėjimo plitimas tuo metu lietu­
-    vių kalbai sudavė galutinį smūgį.
-    8
-    Lietuvos istorijoje yra žinomos šven­
-    tos vietovės, senovės lietuvių vadin­
-    tos Romuvomis [ramovėmis], kur
-    vidur šventų girių būdavo garbina­
-    mas Perkūnas ir kur gyveno vyriau­
-    siasis jų vaidila Krivių Krivaitis. Tas
-    Romuvas sunaikino kryžiuočiai, už­
-    ėmę Prūsiją; tačiau nežinia, ar kitos,
-    ar tos pačios iš anos žemės perkel­
-    tos, buvo pačioje Lietuvoje, prie
-    Kauno, ant Nevėžio kranto, .
+  citata_rodoma: "Prie viso\nto reikia pridurti, kad graikų apei­\ngų tikėjimo plitimas tuo metu lietu­\nvių kalbai sudavė galutinį smūgį.\n8\nLietuvos istorijoje yra žinomos šven­\ntos vietovės, senovės lietuvių vadin­\ntos Romuvomis [ramovėmis], kur \nvidur šventų girių būdavo garbina­\nmas Perkūnas ir kur gyveno vyriau­\nsiasis jų vaidila Krivių Krivaitis. Tas \nRomuvas sunaikino kryžiuočiai, už­\nėmę Prūsiją; tačiau nežinia, ar kitos, \nar tos pačios iš anos žemės perkel­\ntos, buvo pačioje Lietuvoje, prie \nKauno, ant Nevėžio kranto, ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86452
+    - t-003
+
 - id: c-82430
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,7 +154,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86451
+    - t-002
+
 - id: c-82431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -198,7 +180,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86449
+    - t-001
+
 - id: c-176820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -235,4 +218,4 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194219
+    - t-004

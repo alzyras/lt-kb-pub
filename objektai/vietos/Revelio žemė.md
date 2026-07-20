@@ -38,8 +38,7 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 ## Teiginiai
 
 <a id="claim-t-86101"></a>
-- t-001
-  global_id: t-86101
+- t-002
   teiginys: "1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     - c-82081
 
 <a id="claim-t-86102"></a>
-- t-002
-  global_id: t-86102
+- t-001
   teiginys: "Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,23 +95,15 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
     C
     Taigi J e r o s c h i n, c.
-  citata_rodoma: |
-    Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
-    papročiu nesiliovė ir tais metais. Energingas Garteno (Gar­
-    dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
-    jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­
-    ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė
-    miestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug
-    kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
-    C
-    Taigi J e r o s c h i n, c.
+  citata_rodoma: "Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu \npapročiu nesiliovė ir tais metais. Energingas Garteno (Gar­\ndino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, \njas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­\nką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė \nmiestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug \nkaimyninių naujakrikščiams priklausiusių sodybų6, didelių\nC\nTaigi J e r o s c h i n, c."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86102
+    - t-001
+
 - id: c-82081
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,29 +129,14 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     niais sakramentais sudegino ir kt.],
     e
     D u s b. c.
-  citata_rodoma: |
-    destruxerunt oc­
-    cidentes et capientes quatuor millia ho­
-    minum sexus promiscui et quingentas
-    duas parochiales ecclesias cum sacra­
-    mentis ecclesie comburentes etc. [Taip
-    pat pagonys lietuviai Viešpaties me­
-    tais 1323-iais per Užgavėnes įsiver­
-    žė į Danijos karalystės Revelio že­
-    mę Livonijos srityse ir net Dorpato
-    vyskupiją, kurias piešdami ir degin­
-    dami iki pamatų sugriovę sunaiki­
-    no ir pagrobė 4 000 vyrų ir moterų
-    ir 42 parapijų bažnyčias su bažnyti­
-    niais sakramentais sudegino ir kt.],
-    e
-    D u s b.
+  citata_rodoma: "destruxerunt oc­\ncidentes et capientes quatuor millia ho­\nminum sexus promiscui et quingentas\nduas parochiales ecclesias cum sacra­\nmentis ecclesie comburentes etc. [Taip \npat pagonys lietuviai Viešpaties me­\ntais 1323-iais per Užgavėnes įsiver­\nžė į Danijos karalystės Revelio že­\nmę Livonijos srityse ir net Dorpato \nvyskupiją, kurias piešdami ir degin­\ndami iki pamatų sugriovę sunaiki­\nno ir pagrobė 4 000 vyrų ir moterų \nir 42 parapijų bažnyčias su bažnyti­\nniais sakramentais sudegino ir kt.], \ne\nD u s b."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86101
+    - t-002
+
 ## Ryšiai
 - Puolė Revelio žemę: [[objektai/grupes/Lietuviai]]

@@ -37,7 +37,6 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
 
 <a id="claim-t-189361"></a>
 - t-001
-  global_id: t-189361
   teiginys: "Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus, su kuriais siejo Petionkos pavadinimo kilmę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189361
+    - t-001

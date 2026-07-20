@@ -7,14 +7,14 @@ datos:
   - '1530 m.'
 date_start: '1530'
 date_end: ''
-amziai:
-  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - šventė
   - garbinimas
   - paprotys
+amziai:
+  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,9 +53,8 @@ Nenurodyta
 
 <a id="claim-t-194629"></a>
 - t-002
-  global_id: t-194629
   teiginys: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama pavasarį, kai tik nutirpsta sniegas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177027
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.'
@@ -87,26 +86,9 @@ Nenurodyta
     čios Agenda.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-002
-  santrauka: 'Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama pavasarį, kai tik nutirpsta sniegas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
-    pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
-    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
-    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
-    kas panašaus, aišku, buvo ir Pergrubė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194629
 ## Citatos
 
 - id: c-177027
@@ -114,23 +96,16 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
-    deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
-    to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
-    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
-    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
-    kais (Mildawnikas).
-  citata_rodoma: |
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
     vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
     kas panašaus, aišku, buvo ir Pergrubė.
+  citata_rodoma: "Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama\npavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194629
+    - t-002

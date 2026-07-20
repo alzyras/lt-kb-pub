@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66650"></a>
 - t-001
-  global_id: t-66650
   teiginys: "1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-66651"></a>
 - t-002
-  global_id: t-66651
   teiginys: "Tyrėjų manymu, Kulmo pilis ir miestas buvo įkurti Starogrude, kur senajame piliakalnyje stovėjo penkiakampis konvento pastatas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66651
+    - t-002
+
 - id: c-66848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66650
+    - t-001

@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-201859"></a>
 - t-001
-  global_id: t-201859
   teiginys: "Šie teismai buvo pavieto bajorų savivaldos institucijos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201859
+    - t-001

@@ -12,16 +12,16 @@ datos:
   - '1385 m.'
 date_start: '1340'
 date_end: '1385'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '20'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Lubart._%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82_%281366%2C_1930%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALubart._%D0%9B%D1%8E%D0%B1%D0%B0%D1%80%D1%82_%281366%2C_1930%29.jpg'
@@ -45,8 +45,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 ## Teiginiai
 
 <a id="claim-t-05195"></a>
-- t-001
-  global_id: t-05195
+- t-005
   teiginys: "Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-06238
 
 <a id="claim-t-05197"></a>
-- t-002
-  global_id: t-05197
+- t-007
   teiginys: "Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -82,10 +80,9 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-06239
 
 <a id="claim-t-12192"></a>
-- t-003
-  global_id: t-12192
+- t-009
   teiginys: "Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -98,11 +95,9 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
   pagrindžia:
     - c-15266
-    - c-15267
 
 <a id="claim-t-12193"></a>
-- t-004
-  global_id: t-12193
+- t-010
   teiginys: "1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -120,8 +115,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-15267
 
 <a id="claim-t-93458"></a>
-- t-005
-  global_id: t-93458
+- t-011
   teiginys: "Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +131,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-15266
 
 <a id="claim-t-93460"></a>
-- t-006
-  global_id: t-93460
+- t-017
   teiginys: "Liubartas per kovas su lenkais atlaikė Voluinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -155,8 +148,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-88823
 
 <a id="claim-t-93461"></a>
-- t-007
-  global_id: t-93461
+- t-019
   teiginys: "Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +164,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-88825
 
 <a id="claim-t-93463"></a>
-- t-008
-  global_id: t-93463
+- t-012
   teiginys: "1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -192,8 +183,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-15267
 
 <a id="claim-t-184773"></a>
-- t-009
-  global_id: t-184773
+- t-013
   teiginys: "Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -212,8 +202,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168134
 
 <a id="claim-t-184774"></a>
-- t-010
-  global_id: t-184774
+- t-014
   teiginys: "Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -232,8 +221,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168135
 
 <a id="claim-t-184775"></a>
-- t-011
-  global_id: t-184775
+- t-015
   teiginys: "Algirdo brolis Liubartas valdė Lvovą Rusioje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -252,8 +240,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168136
 
 <a id="claim-t-184777"></a>
-- t-012
-  global_id: t-184777
+- t-001
   teiginys: "Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -273,8 +260,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168138
 
 <a id="claim-t-184778"></a>
-- t-013
-  global_id: t-184778
+- t-018
   teiginys: "Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -294,8 +280,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168139
 
 <a id="claim-t-196546"></a>
-- t-014
-  global_id: t-196546
+- t-021
   teiginys: "Liubartas, Algirdo brolis, Kojelavičiaus aprašyme valdė Lvovą Rusioje."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -308,8 +293,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168136
 
 <a id="claim-t-196547"></a>
-- t-015
-  global_id: t-196547
+- t-022
   teiginys: "Liubartas be kovos atgavo iš jo atimtą tėvoniją, sutvirtino senąją medinę pilį ir liepė iš pamatų sugriauti naują plytinę pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -322,8 +306,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-168139
 
 <a id="claim-t-201010"></a>
-- t-016
-  global_id: t-201010
+- t-023
   teiginys: "Treniota, urėdas Naujapilio (Nowogrodek), tą nujautęs, sukėlė savo brolius Pryšmantą ir Liubartą, urėdus juodųjų gudų, vie nok galybe vienų lietuvių nedrįsdamas su totoriais grumtis, kaipogi Utenis, kaip sakiau, su žemaičiais kariavo kalavijonis Padaugavy ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -335,8 +318,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-184360
 
 <a id="claim-t-201011"></a>
-- t-017
-  global_id: t-201011
+- t-024
   teiginys: "Taip graudinant toj pusėj lenkus, antroj pusėj Algirdas, susinėręs su totoriais, ištrėmė juos iš Pa daliju, valakus trakuojančius sudraudė ir jiems urėdu, arba gaspadorium, sūnų Liubartą perdėjo, ant galo nusiaubęs visą kraštą tarp Dunojaus ir Dnestro."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -385,31 +367,23 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - susijęs iš Volinija: Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.
 - susijęs iš Volinija: Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-## Citatos
-
-- id: c-06238
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O pats Lietuvos valdovas nebuvo joks
     krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
     pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
     rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
     čiatikių srityse, priėmė jų tikėjimą.
-  citata_rodoma: |
-    Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05195
-- id: c-06239
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
     Kazimieras taikstėsi užimti Haličą-Voliniją. Lenkams rūpėjo, be
@@ -417,15 +391,44 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
     bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
     (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
-  citata_rodoma: |
-    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-06238
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą.
+  citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05197
+    - t-005
+
+- id: c-06239
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
+  citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-15266
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -437,18 +440,16 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
     pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
     ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
-  citata_rodoma: |
-    Taip
-    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
-    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: "Taip\npat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­\nris vedė vienturtę Volynijos kunigaikščio įpėdinę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12192
-    - t-93458
+    - t-009
+    - t-011
+
 - id: c-15267
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -465,22 +466,16 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
     mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
     nigaikščio vienturtę dukterį^4 ).
-  citata_rodoma: |
-    1340 met.
-    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
-    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
-    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
-    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
-    nigaikščio vienturtę dukterį
+  citata_rodoma: "1340 met.\npasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo\nir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir\nGedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­\nmine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­\nnigaikščio vienturtę dukterį"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12192
-    - t-12193
-    - t-93463
+    - t-010
+    - t-012
+
 - id: c-88823
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -492,15 +487,15 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     ir broliai. Buvo ne kartą ten nuvykęs ir Algirdas, bet dažniausiai
     nuvykdavo Kęstutis.
     Voluinę Liubartas vis dėlto atlaikė.
-  citata_rodoma: |
-    Voluinę Liubartas vis dėlto atlaikė.
+  citata_rodoma: "Voluinę Liubartas vis dėlto atlaikė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93460
+    - t-017
+
 - id: c-88825
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -513,17 +508,15 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: |
-    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\ngaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\nvedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93461
+    - t-019
+
 - id: c-168134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -545,7 +538,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184773
+    - t-013
+
 - id: c-168135
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -564,7 +558,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184774
+    - t-014
+
 - id: c-168136
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -580,23 +575,16 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     turėjo vengti karo su lietuviais, antraip galėjo palūžti
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
-  citata_rodoma: |
-    Tad šis, norėdamas apginti savo teises į Ru­
-    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
-    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
-    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
-    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
-    turėjo vengti karo su lietuviais, antraip galėjo palūžti
-    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
-    bių.
+  citata_rodoma: "Tad šis, norėdamas apginti savo teises į Ru­\nsią, nutarė, jog pirmiausia būtina kariauti su lietuviais.\nMat Rusią valdė Algirdo broliai: Liubartas — Lvovą,\nKęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-\nmantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai\nturėjo vengti karo su lietuviais, antraip galėjo palūžti\niš karto susidūrę su daugybe kliūčių ir karo sunkeny­\nbių."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184775
-    - t-196546
+    - t-015
+    - t-021
+
 - id: c-168138
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -627,7 +615,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184777
+    - t-001
+
 - id: c-168139
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -659,39 +648,20 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     kymu dvejus metus statytą iš degtų plytų ir pareika­
     lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
     Po to sutelktas jėgas nuvedė į Lenkiją ir smarkiai nu-
-  citata_rodoma: |
-    Į tą pusę dabar
-    L ie tu v ių
-    ka ra s
-    Ru-
-    ir patraukė visos jėgos. Tuo
-    š io je p rie š len k u s
-    metu Aleksandras buvo iš­
-    vykęs į Krokuvą, kur derė­
-    josi su lenkais; iškeliavusį valdovą Vladimire pava­
-    davo lenkų riteris Petras Turskis; pilis turėjo pakan­
-    kamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau
-    pilies viršininkas visai prarado narsą, kai pasirodė
-    ginkluoti būriai; jis iš niekur nesitikėjo paramos, to­
-    dėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir
-    neliestų turtų, bemat pasidavė, šitaip išvengdamas ka­
-    muojančios apgulos. Liubartas be kovos ir be didesnių
-    pastangų atgavo neseniai iš jo atimtą tėvoniją, seno­
-    je medinėje pilyje įrengė visokių gynybinių įtvirtini­
-    mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­
-    kymu dvejus metus statytą iš degtų plytų ir pareika­
-    lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
+  citata_rodoma: "Į tą pusę dabar \nL ie tu v ių \nka ra s \nRu- \nir patraukė visos jėgos. Tuo \nš io je p rie š len k u s \nmetu Aleksandras buvo iš­\nvykęs į Krokuvą, kur derė­\njosi su lenkais; iškeliavusį valdovą Vladimire pava­\ndavo lenkų riteris Petras Turskis; pilis turėjo pakan­\nkamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau \npilies viršininkas visai prarado narsą, kai pasirodė \nginkluoti būriai; jis iš niekur nesitikėjo paramos, to­\ndėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir \nneliestų turtų, bemat pasidavė, šitaip išvengdamas ka­\nmuojančios apgulos. Liubartas be kovos ir be didesnių \npastangų atgavo neseniai iš jo atimtą tėvoniją, seno­\nje medinėje pilyje įrengė visokių gynybinių įtvirtini­\nmų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­\nkymu dvejus metus statytą iš degtų plytų ir pareika­\nlavusią didelių išlaidų, paliepė iš pamatų sugriauti."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184778
-    - t-196547
+    - t-018
+    - t-022
+
 - id: c-184360
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Totoriai, nuveikę gudus, vis geidė ir Lietuvą
     nukariauti, todėl ir tuo laiku Kurdas chanas, įsi­
@@ -717,10 +687,12 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201010
+    - t-023
+
 - id: c-184361
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ir įkandin iš tų pačių pilių, kurias buvo lie­
     tuviai atėmę, pradėjo sarioti išpuldamies lenkų
@@ -744,6 +716,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201011
+    - t-024
+
 ## Ryšiai
 - Liubartas valdė [[objektai/vietos/Karačevas]]

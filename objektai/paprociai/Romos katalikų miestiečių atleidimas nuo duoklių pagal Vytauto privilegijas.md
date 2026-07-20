@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87222"></a>
-- t-001
-  global_id: t-87222
+- t-002
   teiginys: "1424 m. Vytauto Vilniui suteiktomis privilegijomis nuo įvairių duoklių buvo atleidžiami tik Romos katalikai miestiečiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-83202
 
 <a id="claim-t-87223"></a>
-- t-002
-  global_id: t-87223
+- t-001
   teiginys: "Vytauto 1424 m. Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,5 +137,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87222
-    - t-87223
+    - t-002
+    - t-001

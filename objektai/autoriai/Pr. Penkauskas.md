@@ -39,8 +39,7 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 ## Teiginiai
 
 <a id="claim-t-30931"></a>
-- t-001
-  global_id: t-30931
+- t-002
   teiginys: "Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     - c-33110
 
 <a id="claim-t-30932"></a>
-- t-002
-  global_id: t-30932
+- t-001
   teiginys: "Pr. Penkauskas 1931 m. Athenaeum paskelbė darbą apie Vytauto Didžiojo nuopelnus dvasinės kultūros srityje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,17 +79,15 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     (^14) **CEV, 879-885 ir 885-886 p.**
     (^15) **Pvz., CEV, 814-815, 836-838, 918-919, 921, 935 p.**
     (^16) **Plg. KolLJ, I, 158-159 p.**
-  citata_rodoma: |
-    (^13) **Žr. Pr. Penkauskas :** **_Vytautas Didysis ir jo Čekijos politika Venceliui
-    mirus,_** **atsp. iš Židinio, 1930.**
-    (^14) **CEV, 879-885 ir 885-886 p.
+  citata_rodoma: "(^13) **Žr. Pr. Penkauskas :** **_Vytautas Didysis ir jo Čekijos politika Venceliui\nmirus,_** **atsp. iš Židinio, 1930.**\n(^14) **CEV, 879-885 ir 885-886 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30931
+    - t-002
+
 - id: c-33111
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -102,14 +98,11 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
     II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
     Slavische Forschungen, Heft 2, 1938.
-  citata_rodoma: |
-    — Penkaus-
-    kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
-    II, nr. 1, 1931, 1-36 p.
+  citata_rodoma: "— Penkaus-\nkas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,\nII, nr. 1, 1931, 1-36 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30932
+    - t-001

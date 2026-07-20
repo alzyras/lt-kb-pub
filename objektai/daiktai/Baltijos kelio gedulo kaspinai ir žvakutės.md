@@ -65,8 +65,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13281"></a>
-- t-001
-  global_id: t-13281
+- t-006
   teiginys: "Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -85,8 +84,7 @@ Nenurodyta
     - c-16415
 
 <a id="claim-t-13282"></a>
-- t-002
-  global_id: t-13282
+- t-005
   teiginys: "Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -126,14 +124,12 @@ Nenurodyta
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: |
-    Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
-    rios priminė aukas ir didelių netekčių skausmą.
+  citata_rodoma: "Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-\nrios priminė aukas ir didelių netekčių skausmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13281
-    - t-13282
+    - t-006
+    - t-005

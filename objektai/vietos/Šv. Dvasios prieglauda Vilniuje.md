@@ -32,7 +32,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 
 <a id="claim-t-85851"></a>
 - t-001
-  global_id: t-85851
   teiginys: "Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81834
 
 <a id="claim-t-85852"></a>
-- t-002
-  global_id: t-85852
+- t-005
   teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81838
 
 <a id="claim-t-85853"></a>
-- t-003
-  global_id: t-85853
+- t-004
   teiginys: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81833
 
 <a id="claim-t-85854"></a>
-- t-004
-  global_id: t-85854
+- t-003
   teiginys: "Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +96,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81837
 
 <a id="claim-t-85855"></a>
-- t-005
-  global_id: t-85855
+- t-006
   teiginys: "Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +112,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81835
 
 <a id="claim-t-85856"></a>
-- t-006
-  global_id: t-85856
+- t-002
   teiginys: "Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,7 +148,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85853
+    - t-004
+
 - id: c-81834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -185,7 +180,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85851
+    - t-001
+
 - id: c-81835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -209,31 +205,15 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     VILNIAUS MIESTO ISTORIJA// TOMAS
     jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
     bei administravimu bei jai skirtomis pajamomis.
-  citata_rodoma: |
-    Taip pat
-    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
-    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
-    pačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad
-    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
-    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
-    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
-    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
-    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
-    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
-    391
-
-    ## Puslapis 408
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
-    bei administravimu bei jai skirtomis pajamomis.
+  citata_rodoma: "Taip pat \njie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai \nprieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos \npačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad \ntvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos \naprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­\ndymas ištikimai ir deramai būtų išlaikomas, globą ir vado­\nvavimą minėtos administracijos šviesiausiajam Kristuje tė­\nvui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat \nir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad\n391\n\n## Puslapis 408\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\njie visiškai rūpintųsi geru tos pačios prieglaudos valdymu \nbei administravimu bei jai skirtomis pajamomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85855
+    - t-006
+
 - id: c-81836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -261,7 +241,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85856
+    - t-002
+
 - id: c-81837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -283,7 +264,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85854
+    - t-003
+
 - id: c-81838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -316,4 +298,4 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85852
+    - t-005

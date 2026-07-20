@@ -31,7 +31,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-32815"></a>
 - t-001
-  global_id: t-32815
   teiginys: "Variagų laikotarpiu Dniepro baseine lietuviai plėtojo prekybinius santykius rytų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių.
-  citata_rodoma: |
-    Kai Dniepro baseine
-    prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos
-    kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
-    santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
+  citata_rodoma: "Kai Dniepro baseine\nprasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos\nkariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius\nsantykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32815
+    - t-001

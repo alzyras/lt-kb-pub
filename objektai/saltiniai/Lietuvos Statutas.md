@@ -36,8 +36,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 ## Teiginiai
 
 <a id="claim-t-67448"></a>
-- t-001
-  global_id: t-67448
+- t-003
   teiginys: "Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67348
 
 <a id="claim-t-67449"></a>
-- t-002
-  global_id: t-67449
+- t-004
   teiginys: "Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +55,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67347
 
 <a id="claim-t-67451"></a>
-- t-003
-  global_id: t-67451
+- t-002
   teiginys: "Antroji Lietuvos Statuto laida buvo naujai perredaguota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +64,7 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67350
 
 <a id="claim-t-67453"></a>
-- t-004
-  global_id: t-67453
+- t-001
   teiginys: "Į Lietuvos Statutą buvo įtraukti nuostatai, kad Lietuvos urėdais negali būti skiriami svetimšaliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +74,6 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 
 <a id="claim-t-196356"></a>
 - t-005
-  global_id: t-196356
   teiginys: "Kojelavičiaus pasakojime Lietuvos Statutas kartu su unijos aktais sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą suverenu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,18 +99,15 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
     kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
     pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
-  citata_rodoma: |
-    Į jį buvo įtraukti ir senieji nuostatai, kad
-    Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
-    kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
-    pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
+  citata_rodoma: "Į jį buvo įtraukti ir senieji nuostatai, kad\nLietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-\nkams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad\npagal senuosius aktus jie negalį būti laikomi svetimšaliais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67453
+    - t-001
+
 - id: c-67347
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -136,7 +128,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67449
+    - t-004
+
 - id: c-67348
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -149,18 +142,15 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
     lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
     bandymui gauti vietą Lietuvoje.
-  citata_rodoma: |
-    aug kartų reika-
-    lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
-    lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
-    bandymui gauti vietą Lietuvoje.
+  citata_rodoma: "aug kartų reika-\nlavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet\nlietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų\nbandymui gauti vietą Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67448
+    - t-003
+
 - id: c-67350
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -171,16 +161,15 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     Po šitų reformų Lietuvos valstybės aparatas pasidarė jau
     toks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-
     sės buvo visiškai sulygintos su Lenkijos bajorų teisėmis.
-  citata_rodoma: |
-    Visa tai buvo patvirtinta naujai perredaguotoje ant-
-    rojoje statuto laidoje.
+  citata_rodoma: "Visa tai buvo patvirtinta naujai perredaguotoje ant-\nrojoje statuto laidoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67451
+    - t-002
+
 - id: c-178646
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -206,4 +195,4 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196356
+    - t-005

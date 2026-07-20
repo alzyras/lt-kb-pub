@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-77963"></a>
 - t-001
-  global_id: t-77963
   teiginys: "Po Lenkijos ultimatumo Lietuva turėjo liautis minėti spalio 9-ąją kaip Vilniaus praradimo dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77963
+    - t-001

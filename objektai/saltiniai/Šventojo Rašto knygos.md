@@ -30,7 +30,6 @@ Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istorij�
 
 <a id="claim-t-191821"></a>
 - t-001
-  global_id: t-191821
   teiginys: "Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istoriją laikė patvirtinama bešališkų tyrimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istorij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191821
+    - t-001

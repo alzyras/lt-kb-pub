@@ -7,10 +7,10 @@ datos:
   - '1618 m.'
 date_start: '1618'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201919"></a>
 - t-001
-  global_id: t-201919
   teiginys: "1618 m. Zigmantas Vaza sprendė bylą, kurioje Kauno katalikiškoji dvasininkija kaltino liuteronus, kad šie, nepaisydami 2 draudžiamųjų raštų (šie raštai neišliko, tai galėjo būti katalikų išgauti valdovų raštai), įsirengė bažnyčią, mokyklą, špitolę."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-201920"></a>
 - t-002
-  global_id: t-201920
   teiginys: "Zigmantas Vaza nusprendė, kad liuteronai privalo nugriauti savo bažnyčią, mokyklą, špitolę, jiems iš viso buvo uždrausta atlikinėti savo tikėjimo apeigas, be to, už sprendimo nevykdymą grėsė 10000 kapų grašių bauda."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -69,6 +67,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185267
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -89,7 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201919
+    - t-001
 
 - id: c-185267
   autorius: "Zigmantas Kiaupa"
@@ -107,4 +108,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201920
+    - t-002

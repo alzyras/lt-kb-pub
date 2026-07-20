@@ -43,10 +43,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 ## Teiginiai
 
 <a id="claim-t-90458"></a>
-- t-001
-  global_id: t-90458
+- t-008
   teiginys: "1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Ispanija: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -62,30 +61,21 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Pašalinta antraštė ir nutrūkusi šaltinio nuoroda."
   pagrindžia:
     - c-86293
-    - c-004
+
 <a id="claim-t-90459"></a>
-- t-002
-  global_id: t-90459
+- t-005
   teiginys: "Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ispanija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ispanija\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1588 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją."
   pagrindžia:
-    - c-24142
+    - c-24141
 
 <a id="claim-t-90460"></a>
-- t-003
-  global_id: t-90460
+- t-001
   teiginys: "XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -101,8 +91,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - c-24141
 
 <a id="claim-t-90461"></a>
-- t-004
-  global_id: t-90461
+- t-003
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -118,10 +107,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - c-24143
 
 <a id="claim-t-90463"></a>
-- t-005
-  global_id: t-90463
+- t-006
   teiginys: "1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Maljorka: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -137,10 +125,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata."
   pagrindžia:
     - c-86294
-    - c-005
+
 <a id="claim-t-90464"></a>
-- t-006
-  global_id: t-90464
+- t-002
   teiginys: "1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -159,9 +146,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 
 <a id="claim-t-90465"></a>
 - t-007
-  global_id: t-90465
   teiginys: "1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Ispanija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -177,7 +163,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu."
   pagrindžia:
     - c-86295
-    - c-006
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
 - susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
@@ -234,40 +219,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90458
-- c-005
-  santrauka: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    20. Apie Maljorkos ir Menorkos salų užėmimą
 
-      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
-    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90463
-- c-006
-  santrauka: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
-
-      1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
-    akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
-    lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
-    Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90465
 ## Citatos
 
 - id: c-24141
@@ -280,18 +232,16 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
     XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
     panijos valdose nenusileisdavo saulė.
-  citata_rodoma: |
-    O kas nutiko didžiųjų ge-
-    ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
-    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
-    panijos valdose nenusileisdavo saulė.
+  citata_rodoma: "O kas nutiko didžiųjų ge-\nografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir\nXVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-\npanijos valdose nenusileisdavo saulė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90460
+    - t-005
+    - t-001
+
 - id: c-24142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -303,18 +253,15 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     mikos. Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
     sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.
-  citata_rodoma: |
-    Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
-    sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
-    žygio Ispanija nekartojo.
+  citata_rodoma: "Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-\nsėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,\nžygio Ispanija nekartojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90459
-    - t-90464
+    - t-002
+
 - id: c-24143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -328,96 +275,71 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
     dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
     teris Paulius Rubensas).
-  citata_rodoma: |
-    Katalikybė buvo prielaida Italijos ir Is-
-    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
-    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
-    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
-    teris Paulius Rubensas).
+  citata_rodoma: "Katalikybė buvo prielaida Italijos ir Is-\npanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-\ncūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų\ndvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-\nteris Paulius Rubensas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90461
+    - t-003
+
 - id: c-86293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tais metais, vasario mėnesį, pagavo jūrų žuvį, panašią į liūtą, tame paplūdimyje, kuris
-    yra prieš Montaltą, ir nunešė prie Orvjeto, kur sugužėjo gausybė popiežiaus rūmininkų
-    pasižiūrėti šios pabaisos, nes jos oda buvo apžėlusi plaukais, kojos trumpos, uodega —
-    kaip liūto, galva — kaip liūto, be to, ausys, nasrai, dantys ir liežuvis irgi atrodė beveik
-    nelyginant liūto. Pasakojo, kad pagauta baisiai raudojusi, todėl daug žmonių iš to ir suvokė,
-    kokia būsianti ateitis. Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti
-    baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius
-    prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
-    sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol.
-  citata_rodoma: |
     Apie tai, kaip saracėnai nusiaubė Ispaniją
 
       1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis
     dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408).
+  citata_rodoma: "Apie tai, kaip saracėnai nusiaubė Ispaniją\n\n  1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis\ndėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90458
+    - t-008
+
 - id: c-86294
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
-    savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis
-    kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
-    bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
-    Mikalojaus koplyčią Gladbache, tikėdamasis, jog ten dievas patarsiąs, ką daryti.
-    Aukščiausiojo ten įkvėptas, su keliais iš savo šeimynos jis kreipėsi į jo šventenybę
-    popiežių, kuriam ir išpažino visas savo nuodėmes.
-  citata_rodoma: |
     20. Apie Maljorkos ir Menorkos salų užėmimą
 
       1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
     Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
+  citata_rodoma: "20. Apie Maljorkos ir Menorkos salų užėmimą\n\n  1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir\nMenorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90463
+    - t-006
+
 - id: c-86295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo metu, kai šitai
-    dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
-    traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
-    dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką. Šitai
-    išgirdęs, sielvarto pagautas riteris suprato, jog dievas jį šitaip nubaudęs už tai, kad jis
-    grobikišku antpuoliu trukdęs savo valdovui landgrafui tesėti savo šventą sumanymą.
-    Grąžinęs tad grobį tiems, iš kurių buvo paėmęs, jis kreipėsi į savo valdovą, prašydamasis
-    dovanojamas už nusikaltimą.
-  citata_rodoma: |
     24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 
       1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
     akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
     lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
     Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes.
+  citata_rodoma: "24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga\n\n  1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą\nakmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir\nlotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo\nAdomo ligi Antikristo, iškeldamas aikštėn žmonių savybes."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90465
+    - t-007
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Almimolinas]]
 - Buvo užkariauta: [[objektai/grupes/Saracėnai]]

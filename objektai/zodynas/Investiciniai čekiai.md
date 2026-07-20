@@ -31,7 +31,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 
 <a id="claim-t-193660"></a>
 - t-001
-  global_id: t-193660
   teiginys: "Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirktas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lėšos."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -44,7 +43,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 
 <a id="claim-t-193661"></a>
 - t-002
-  global_id: t-193661
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -57,7 +55,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 
 <a id="claim-t-193662"></a>
 - t-003
-  global_id: t-193662
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193660
+    - t-001
+
 - id: c-176330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,7 +105,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193661
+    - t-002
+
 - id: c-176331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,4 +126,4 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193662
+    - t-003

@@ -42,7 +42,6 @@ Nenurodyta
 
 <a id="claim-t-185570"></a>
 - t-001
-  global_id: t-185570
   teiginys: "Kojelavičius svarstė, kad žmonės galėjo palikti Italiją apie 908 m., bėgdami nuo karų ir ieškodami saugesnių žemių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -61,70 +60,10 @@ Nenurodyta
   pagrindžia:
     - c-168931
 
-<a id="claim-t-193355"></a>
-- t-002
-  global_id: t-193355
-  teiginys: "Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-176083
-
-## Citatos
-
-- id: c-168931
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
-  citata_originali: |
-    Dėl to be perstojo kildavo karas po
-    karo. Taigi iš tiesų galėjo ši-
-    908 m e ta i
-    taip įvykti, kad kurie ne
-    kurie žmonės, matydami ši­
-    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
-    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
-    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
-    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
-    priešų buvo paskelbti už įstatymo ribų; nieku būdu
-    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
-    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų.
-  citata_rodoma: |
-    Taigi iš tiesų galėjo ši-
-    908 m e ta i
-    taip įvykti, kad kurie ne
-    kurie žmonės, matydami ši­
-    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
-    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
-    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
-    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
-    priešų buvo paskelbti už įstatymo ribų; nieku būdu
-    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
-    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
-    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
-    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
-    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
-    buvo tinkamiausios įsikurti ir neniokojamos karų.
-  statusas: verified
-  atnaujinta: "2026-07-13 01:17"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185570
-- id: c-176083
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš tiesų ne be
     pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
@@ -154,7 +93,49 @@ Nenurodyta
     įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
     žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
     Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168931
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Dėl to be perstojo kildavo karas po
+    karo. Taigi iš tiesų galėjo ši-
+    908 m e ta i
+    taip įvykti, kad kurie ne
+    kurie žmonės, matydami ši­
+    tokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti
+    tėvynę ir, išsaugoję sveikas galvas, leistis į kelionę.
+    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
+    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
+    priešų buvo paskelbti už įstatymo ribų; nieku būdu
+    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
+    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų.
+  citata_rodoma: "Taigi iš tiesų galėjo ši- \n908 m e ta i \ntaip įvykti, kad kurie ne\nkurie žmonės, matydami ši­\ntokias blogybes ir bjaurėdamiesi jomis, ryžosi palikti \ntėvynę ir, išsaugoję sveikas galvas, leistis į kelionę. \nGal, palikę Italiją, šia kryptimi pasuko tie, kurie no­\nrėjo išvengti savo likimo, o gal tie, kurie nugalėjusių \npriešų buvo paskelbti už įstatymo ribų; nieku būdu \nnegaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­\nklydėliai. Galimas daiktas, alanai, arba herulai (kurie, \nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie \npasitraukė iš tėvynės ir pasuko į tas žemes, kurios \nbuvo tinkamiausios įsikurti ir neniokojamos karų."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-176083
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
     istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
     ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
@@ -176,10 +157,9 @@ Nenurodyta
     giminės herbas Kentauras, Prosperas Cezarinas — her­
     bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
     Rožynas.
+  citata_rodoma: "Galimas daiktas, alanai, arba herulai (kurie,\nistorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­\nro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie\npasitraukė iš tėvynės ir pasuko į tas žemes, kurios\nbuvo tinkamiausios įsikurti ir neniokojamos karų. Pa­\ngaliau nesvarbu, dėl kokios dingsties, reikalo ar būti­\nnybės jie leidosi į tokį tolimą kelią, vieną dalyką se­\nnoliai atkakliai tvirtina: ateivių italų esą buvę penki\nšimtai kilmingųjų. Pagal kilmę bei karinius nuopelnus\nbuvo vardijami vadai: Palemonas, arba Publijus Libo-\nnas, herbo Stulpai,\nJulijonas\nDausprungas;,\nkurio\n59\n\n## Puslapis 58\n\ngiminės herbas Kentauras, Prosperas Cezarinas — her­\nbo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba\nRožynas."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193355

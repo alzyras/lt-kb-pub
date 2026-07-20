@@ -41,7 +41,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 <a id="claim-t-43827"></a>
 - t-001
-  global_id: t-43827
   teiginys: "Piltene vadintos buvusios Kuršo vyskupystės žemės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -86,15 +85,14 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: |
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę.
+  citata_rodoma: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43827
+    - t-001
+
 ## Ryšiai
 - Puolė Piltenę: [[objektai/grupes/Lietuviai]]

@@ -37,8 +37,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 ## Teiginiai
 
 <a id="claim-t-74624"></a>
-- t-001
-  global_id: t-74624
+- t-002
   teiginys: "Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     - c-72673
 
 <a id="claim-t-74625"></a>
-- t-002
-  global_id: t-74625
+- t-001
   teiginys: "Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -100,23 +98,12 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
     do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
     Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
     politines jėgas.
-  citata_rodoma: |
-    (to meto atvirukas)
-
-    L I E T U V O S  I S T O R I J A
-    204
-    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
-    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
-    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
-    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
-    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
-    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
-    do pogrindinius leidinius. 1943–1944 m.
+  citata_rodoma: "(to meto atvirukas)\n\nL I E T U V O S  I S T O R I J A\n204\nantinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius \ndalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių, \nišsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus. \nKrikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė \nį Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę \ntautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-\ndo pogrindinius leidinius. 1943–1944 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74624
-    - t-74625
+    - t-002
+    - t-001

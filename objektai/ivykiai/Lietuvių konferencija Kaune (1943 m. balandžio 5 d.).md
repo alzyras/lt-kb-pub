@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75127"></a>
-- t-001
-  global_id: t-75127
+- t-003
   teiginys: "Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-73039
 
 <a id="claim-t-75128"></a>
-- t-002
-  global_id: t-75128
+- t-001
   teiginys: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-23001
 
 <a id="claim-t-75129"></a>
-- t-003
-  global_id: t-75129
+- t-002
   teiginys: "1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -124,17 +121,15 @@ Nenurodyta
     Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
     poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
     namąją Lietuvių konferenciją.
-  citata_rodoma: |
-    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
-    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
-    namąją Lietuvių konferenciją.
+  citata_rodoma: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo\npoziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-\nnamąją Lietuvių konferenciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75128
+    - t-001
+
 - id: c-23002
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -150,19 +145,15 @@ Nenurodyta
     imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
     darbo ir karo tarnybų struktūrose.
-  citata_rodoma: |
-    Nors
-    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
-    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
-    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
-    darbo ir karo tarnybų struktūrose.
+  citata_rodoma: "Nors\nkonferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-\nimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės\norientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos\ndarbo ir karo tarnybų struktūrose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75129
+    - t-002
+
 - id: c-73039
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75127
+    - t-003

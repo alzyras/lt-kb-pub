@@ -38,7 +38,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 <a id="claim-t-86459"></a>
 - t-001
-  global_id: t-86459
   teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 
 <a id="claim-t-86460"></a>
 - t-002
-  global_id: t-86460
   teiginys: "Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,8 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86459
+    - t-001
+
 - id: c-82439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -136,22 +135,11 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
     Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
     daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
     rinų vaikų.
-  citata_rodoma: |
-    amžinos taikos sutartį su caru pasirašė Lie­
-    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
-    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
-    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
-    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų.
+  citata_rodoma: "amžinos taikos sutartį su caru pasirašė Lie­\ntuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­\nlovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­\nkė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje. \nO tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­\nterį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­\ntų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­\nsarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, \nMykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei \ndaugybės kitų dvariškių, kambarinių, arklininkų ir boja­\nrinų vaikų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86460
+    - t-002

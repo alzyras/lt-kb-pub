@@ -36,8 +36,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 ## Teiginiai
 
 <a id="claim-t-75547"></a>
-- t-001
-  global_id: t-75547
+- t-002
   teiginys: "1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     - c-73296
 
 <a id="claim-t-75548"></a>
-- t-002
-  global_id: t-75548
+- t-003
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     - c-73296
 
 <a id="claim-t-75549"></a>
-- t-003
-  global_id: t-75549
+- t-001
   teiginys: "Generaliniai tarėjai prižiūrėjo lietuvių administraciją ir buvo pavaldūs generaliniam tarėjui Petrui Kubiliūnui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 
 <a id="claim-t-183426"></a>
 - t-004
-  global_id: t-183426
   teiginys: "Vokiečių valdžia vietoje Laikinosios vyriausybės ministrų lietuvių administracijos vadovais paskyrė generalinius tarėjus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -139,20 +135,16 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
     tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
-  citata_rodoma: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    205
-    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
-    moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
+  citata_rodoma: "5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n205\n1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-\nmoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio \norganizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75547
-    - t-75548
+    - t-002
+    - t-003
+
 - id: c-166820
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -177,5 +169,5 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75549
-    - t-183426
+    - t-001
+    - t-004

@@ -30,8 +30,7 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 ## Teiginiai
 
 <a id="claim-t-70414"></a>
-- t-001
-  global_id: t-70414
+- t-002
   teiginys: "Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
     - c-69433
 
 <a id="claim-t-183486"></a>
-- t-002
-  global_id: t-183486
+- t-003
   teiginys: "Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -91,15 +89,15 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
     „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
     ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
     pa).
-  citata_rodoma: |
-    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+  citata_rodoma: "iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70414
+    - t-002
+
 - id: c-166880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -123,4 +121,4 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183486
+    - t-003

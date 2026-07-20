@@ -40,7 +40,6 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
 
 <a id="claim-t-31042"></a>
 - t-001
-  global_id: t-31042
   teiginys: "V. Pisani parašė darbą „Il paganesimo balto-slavo“, paskelbtą leidinyje „Storia delle religioni“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,14 +72,11 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
     kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.
     — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
     und Werden der Religion, 1930.
-  citata_rodoma: |
-    — Pisani, V.: _II paganesimo balto-slavo,_ Storia delle
-    religioni, red. G. Castellani, vol. II, Torino 1965, 807-857 p. — Sadaus­
-    kaitė, I.
+  citata_rodoma: "— Pisani, V.: _II paganesimo balto-slavo,_ Storia delle\nreligioni, red. G. Castellani, vol. II, Torino 1965, 807-857 p. — Sadaus­\nkaitė, I."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31042
+    - t-001

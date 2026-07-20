@@ -33,7 +33,6 @@ Ištiko į aiškią mūšą ties pilė Embūte.
 
 <a id="claim-t-201158"></a>
 - t-001
-  global_id: t-201158
   teiginys: "Ištiko į aiškią mūšą ties pilė Embūte."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Ištiko į aiškią mūšą ties pilė Embūte.
 ## Citatos
 
 - id: c-184508
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mintautas, paklausęs siuntinių, sukėlė stiprią ka­
     riauną ir traukė ant kalavijonų, lėbaujančių Žem­
@@ -64,4 +64,4 @@ Ištiko į aiškią mūšą ties pilė Embūte.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201158
+    - t-001

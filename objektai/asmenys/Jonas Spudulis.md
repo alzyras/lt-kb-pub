@@ -43,8 +43,7 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 ## Teiginiai
 
 <a id="claim-t-188041"></a>
-- t-001
-  global_id: t-188041
+- t-002
   teiginys: "Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -79,20 +78,11 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
     gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
     tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
     tai būtų padarę rašydami savotiškoje kalboje“15.
-  citata_rodoma: |
-    Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
-    do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­
-    vos bajorų lenkiška romantinės pakraipos kūryba aušrininkams
-    buvo labai artima ir suprantama. Jonas Spudulis rašė Adomui
-    Dambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,
-    ir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­
-    gimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo
-    tėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip
-    tai būtų padarę rašydami savotiškoje kalboje“15.
+  citata_rodoma: "Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­\ndo „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­\nvos bajorų lenkiška romantinės pakraipos kūryba aušrininkams\nbuvo labai artima ir suprantama. Jonas Spudulis rašė Adomui\nDambrauskui-Jakštui: „Bet juk žinai, kad ne tik pas lietuvius,\nir pas kitas tautas buvo tokie pat vyrai, kurie nerašė savo pri­\ngimtoje „motinos“ kalboje, vienok pagarbino ir pakėlė savo\ntėvynę ir atnešė jai nemažą naudą, nors ir ne taip gausią, kaip\ntai būtų padarę rašydami savotiškoje kalboje“15."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188041
+    - t-002

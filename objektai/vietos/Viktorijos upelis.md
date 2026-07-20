@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86112"></a>
 - t-001
-  global_id: t-86112
   teiginys: "Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-86113"></a>
 - t-002
-  global_id: t-86113
   teiginys: "Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,26 +84,15 @@ media_all_json: |-
     netgi gana graži. Žemė derlinga,
     Viktorijos upelis, nors mažas, bet
     vertas gražaus vardo.
-  citata_rodoma: |
-    Kai
-    kurie gyventojai, kad gimtosioms
-    apylinkėms suteiktų daugiau soli­
-    dumo, dargi įrodinėja, neišmanyda­
-    mi istorijos, kad anuomet ties Pa­
-    baisku galvą padėjęs čekų karalius
-    Vaclovas ir pan. Pabaisko vietovė
-    kalvota, tačiau atvira, o ten, kur da­
-    bar iškilusi nauja mūrinė bažnyčia,
-    netgi gana graži. Žemė derlinga,
-    Viktorijos upelis, nors mažas, bet
-    vertas gražaus vardo.
+  citata_rodoma: "Kai \nkurie gyventojai, kad gimtosioms \napylinkėms suteiktų daugiau soli­\ndumo, dargi įrodinėja, neišmanyda­\nmi istorijos, kad anuomet ties Pa­\nbaisku galvą padėjęs čekų karalius \nVaclovas ir pan. Pabaisko vietovė \nkalvota, tačiau atvira, o ten, kur da­\nbar iškilusi nauja mūrinė bažnyčia, \nnetgi gana graži. Žemė derlinga, \nViktorijos upelis, nors mažas, bet \nvertas gražaus vardo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86113
+    - t-002
+
 - id: c-82092
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -126,4 +113,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86112
+    - t-001

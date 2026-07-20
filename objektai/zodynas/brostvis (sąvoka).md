@@ -33,7 +33,6 @@ Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo
 
 <a id="claim-t-201209"></a>
 - t-001
-  global_id: t-201209
   teiginys: "Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo
 ## Citatos
 
 - id: c-184559
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėjęs marčelga pas taborių Sviato­
     pelko puolė ant vienos dalies jo kariaunos, kuri,
@@ -74,4 +74,4 @@ Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201209
+    - t-001

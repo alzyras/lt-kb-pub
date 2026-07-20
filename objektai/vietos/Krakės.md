@@ -47,7 +47,6 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
 
 <a id="claim-t-195493"></a>
 - t-001
-  global_id: t-195493
   teiginys: "Iš Krakių parvežta žinia, kad krautuvėse atsirado visokios geležies."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -64,20 +63,12 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
   puslapiai: "p. 64 (PDF 62)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 64 (PDF 62)."
   citata_originali: |
-    Menkiausią daiktą, kad ir vinį, rei­
-    kėjo iš štobos dirbti. Taigi geležiniai dirbiniai buvo sunkiai prieinami,
-    juos dirbdavos tik būtinam, reikalui.
-    Vieną sykį tėvas, parvažiavęs iš
-    Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:
-    tekiniams, pasagoms, vinims,
-    grandims, net kubilams lankų, vis
-    kitokia geležis.
-  citata_rodoma: |
     „Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“
+  citata_rodoma: "„Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195493
+    - t-001

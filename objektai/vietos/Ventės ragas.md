@@ -37,7 +37,6 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 
 <a id="claim-t-80308"></a>
 - t-001
-  global_id: t-80308
   teiginys: "Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 
 <a id="claim-t-80309"></a>
 - t-002
-  global_id: t-80309
   teiginys: "1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,23 +92,15 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
     riuomenė, su talkininkais iš Vokietijos
     atplaukusi laivais, puolė Veliuonos pilį,
     padarė jai daug žalos.
-  citata_rodoma: |
-    1360 m.
-    kryžiuočiai toliau tvirtinosi pačiame Ne-
-    muno žemupyje, statė naują pilį Skalvos
-    žemėje (netoli Tilžės), o kitą prie Nemuno
-    žiočių — Ventės rage (Vindenburgą). Tais
-    metais maršalo vadovaujama Ordino ka-
-    riuomenė, su talkininkais iš Vokietijos
-    atplaukusi laivais, puolė Veliuonos pilį,
-    padarė jai daug žalos.
+  citata_rodoma: "1360 m.\nkryžiuočiai toliau tvirtinosi pačiame Ne-\nmuno žemupyje, statė naują pilį Skalvos\nžemėje (netoli Tilžės), o kitą prie Nemuno\nžiočių — Ventės rage (Vindenburgą). Tais\nmetais maršalo vadovaujama Ordino ka-\nriuomenė, su talkininkais iš Vokietijos\natplaukusi laivais, puolė Veliuonos pilį,\npadarė jai daug žalos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80308
-    - t-80309
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

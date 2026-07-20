@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185824"></a>
 - t-001
-  global_id: t-185824
   teiginys: "Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-196242"></a>
 - t-002
-  global_id: t-196242
   teiginys: "Piotrkovo seimas dėl Podolės grąžinimo išsiskirstė nieko nenutaręs ir, Kojelavičiaus vertinimu, dar labiau sustiprino abipusį nepakantumą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,5 +107,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185824
-    - t-196242
+    - t-001
+    - t-002

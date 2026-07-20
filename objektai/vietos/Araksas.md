@@ -32,7 +32,6 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
 
 <a id="claim-t-188976"></a>
 - t-001
-  global_id: t-188976
   teiginys: "Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171865
-    - c-001
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
 - susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
@@ -74,25 +72,32 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192148|pecuarii ir nomadai]]: Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros.
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+- c-002
+  santrauka: 'Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Ar tas var­
-    das yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis
-    pavadinimas -  nežinome. Tikras dalykas yra tik tai, kad Arak-
-    so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip
-    tik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­
-    cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
-    sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
-    sas.
+    73
+
+    ## Puslapis 71
+
+    miausių senovės tyrinėtojų1 Skitijos studijas, pasak ku­
+    rių skitai VII amžiuje prieš Kristaus eros pradžią išsis­
+    klaidė arba išėjo iš krašto, esančio tarp Juodosios ir Kas­
+    pijos jūrų j pietus nuo šiaurės platumos 40 laipsnių ly­
+    giagretės2.
+    56
+    Iš istorijos aiškiai matome, kad tik minėtoje epochoje
+    didėjančios persų galybės slegiamos skitų kartos galop
+    buvo nustumtos nuo armėnų Arakso ir patraukė prie Vol­
+    gos žemupio. Taigi netrukus išėjusi iš gimtosios žemės
+    skitų karta, arba kasta, kurią laikome budinais, perkopė
+    Kaukazą ir įsikūrė Volgos ar kažkurios jos gausių šakų
+    žemupyje.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188976
+  statusas: verified
 ## Citatos
 
 - id: c-171865
@@ -100,19 +105,6 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Į Zaraso (Jeziorosy) ežerą įteka panašiai vadina­
-    ma upė, kuri tekėjo per Neromos tautos žemę. Kituose Lietu­
-    vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
-    tikriausiai irgi buvo upių tokiais vardais arba dar ir dabar jos
-    tebėra žinomos; aptikti jų mums nepasitaikė. Net Vokietijoje,
-    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
-    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
-    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
-    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
-    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
-    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
-    sų gatve.
-  citata_rodoma: |
     Ar tas var­
     das yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis
     pavadinimas -  nežinome. Tikras dalykas yra tik tai, kad Arak-
@@ -121,12 +113,14 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
     cijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­
     sigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-
     sas.
+  citata_rodoma: "Ar tas var­\ndas yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis\npavadinimas -  nežinome. Tikras dalykas yra tik tai, kad Arak-\nso upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip\ntik tada, kai prie jos gyveno budinai. Jie, kokios nors revoliu­\ncijos nustumti nuo Armėnijos Arakso, leidosi į vakarus ir ap­\nsigyveno prie Volgos žemupio, kuris taip pat vadinosi Arak-\nsas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188976
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

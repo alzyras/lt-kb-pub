@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189891"></a>
 - t-001
-  global_id: t-189891
   teiginys: "Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,10 +63,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172774
-    - c-001
+
 <a id="claim-t-189892"></a>
 - t-002
-  global_id: t-189892
   teiginys: "Narbutas rašo, kad lietuvių genties tautų kraštuose vietomis matoma aukštų pilkapių, o Lietuvoje jie randami labai retai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,6 @@ Nenurodyta
 
 <a id="claim-t-197262"></a>
 - t-003
-  global_id: t-197262
   teiginys: "Paga liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja ma apie vietas šeimos nariams, mirsiantiems vėliau6."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -99,23 +96,6 @@ Nenurodyta
   pagrindžia:
     - c-179092
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vis dėlto iki šiol ypač garbinami pilka­
-    piai, supilti ant žymių žmonių pelenų.
-    Šitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­
-    mas daugeliui antikinių tautų. Homeras mini jį kaip bendrą
-    graikams ir trojėnams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189891
 ## Citatos
 
 - id: c-172774
@@ -123,25 +103,20 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žymiausius laidojo ant kalnelių, greta jų namų. Net
-    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
-    aukštomis pareigomis. Aplink visą pilkapį ratu eina didokų
-    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
-    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
-    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
-  citata_rodoma: |
     Vis dėlto iki šiol ypač garbinami pilka­
     piai, supilti ant žymių žmonių pelenų.
     Šitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­
     mas daugeliui antikinių tautų. Homeras mini jį kaip bendrą
     graikams ir trojėnams.
+  citata_rodoma: "Vis dėlto iki šiol ypač garbinami pilka­\npiai, supilti ant žymių žmonių pelenų.\nŠitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­\nmas daugeliui antikinių tautų. Homeras mini jį kaip bendrą\ngraikams ir trojėnams."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189891
+    - t-001
+
 - id: c-172775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -160,7 +135,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189892
+    - t-002
+
 - id: c-179092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -182,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197262
+    - t-003

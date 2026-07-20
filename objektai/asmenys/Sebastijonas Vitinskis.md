@@ -39,7 +39,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 
 <a id="claim-t-87849"></a>
 - t-001
-  global_id: t-87849
   teiginys: "1547 m. Sebastijonui Vitinskiui atiteko Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87849
+    - t-001

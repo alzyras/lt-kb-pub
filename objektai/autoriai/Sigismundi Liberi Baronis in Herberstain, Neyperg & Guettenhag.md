@@ -39,7 +39,6 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 
 <a id="claim-t-39871"></a>
 - t-001
-  global_id: t-39871
   teiginys: "Sigismundo Herbersteino „Rerum Moscoviticarum Commentarii“ cituojamas leidinio skyriuje „Lemtinga arogancija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39871
+    - t-001

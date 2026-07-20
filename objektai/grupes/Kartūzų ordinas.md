@@ -38,7 +38,6 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
 
 <a id="claim-t-63007"></a>
 - t-001
-  global_id: t-63007
   teiginys: "Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
     Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
     Cistersų ordinas — 1097 viešpaties metais.
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
-  citata_rodoma: |
-    Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
-      Cistersų ordinas — 1097 viešpaties metais.
-      Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+  citata_rodoma: "Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).\n  Cistersų ordinas — 1097 viešpaties metais.\n  Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63007
+    - t-001

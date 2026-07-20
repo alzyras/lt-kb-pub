@@ -40,28 +40,18 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 
 <a id="claim-t-05941"></a>
 - t-001
-  global_id: t-05941
   teiginys: "H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> I. Lappo: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "H. Lowmiański: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "I. Lappo: mention_match, author, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"H. Lowmiański\" parinktas kaip owner_note_path. Targetas \"I. Lappo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1931-1932; įvykio data: 1932 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių."
   pagrindžia:
-    - c-03980
     - c-03981
 
 <a id="claim-t-05942"></a>
-- t-002
-  global_id: t-05942
+- t-003
   teiginys: "H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,8 +70,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     - c-03984
 
 <a id="claim-t-05943"></a>
-- t-003
-  global_id: t-05943
+- t-002
   teiginys: "H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -110,16 +99,13 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     kaja Istoričeskaja Biblioteka, t. 27), Petrapilis 1910.
     LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
     państwa litewskiego, t. 1-2, Vilnius 1931-32.
-  citata_rodoma: |
-    LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
-    państwa litewskiego, t. 1-2, Vilnius 1931-32.
+  citata_rodoma: "LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i\npaństwa litewskiego, t. 1-2, Vilnius 1931-32."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05941
 - id: c-03981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -130,16 +116,15 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
     VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­
     czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
-  citata_rodoma: |
-    Lowmiański, H. : _Studja nad początkami społe­
-    czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
+  citata_rodoma: "Lowmiański, H. : _Studja nad początkami społe­\nczeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05941
+    - t-001
+
 - id: c-03982
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -152,18 +137,15 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
     mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
     menės ir valstybės pradžią (LowStud).
-  citata_rodoma: |
-    H. Lovmianskis, kuris
-    iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
-    mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
-    menės ir valstybės pradžią (LowStud).
+  citata_rodoma: "H. Lovmianskis, kuris\niki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­\nmečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­\nmenės ir valstybės pradžią (LowStud)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05943
+    - t-002
+
 - id: c-03984
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -176,13 +158,11 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     ir vėlesnių Lietuvos ploto duomenų, prieš pat valstybės susidarymą
     yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
     gyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio
-  citata_rodoma: |
-    yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
-    gyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio
+  citata_rodoma: "yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių\ngyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05942
+    - t-003

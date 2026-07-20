@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74109"></a>
-- t-001
-  global_id: t-74109
+- t-007
   teiginys: "Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-22391
 
 <a id="claim-t-74110"></a>
-- t-002
-  global_id: t-74110
+- t-005
   teiginys: "Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ media_all_json: |-
 
 <a id="claim-t-74111"></a>
 - t-003
-  global_id: t-74111
   teiginys: "2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ media_all_json: |-
     - c-22387
 
 <a id="claim-t-74112"></a>
-- t-004
-  global_id: t-74112
+- t-002
   teiginys: "Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ media_all_json: |-
     - c-22386
 
 <a id="claim-t-74113"></a>
-- t-005
-  global_id: t-74113
+- t-004
   teiginys: "Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ media_all_json: |-
     - c-22388
 
 <a id="claim-t-74114"></a>
-- t-006
-  global_id: t-74114
+- t-001
   teiginys: "2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ media_all_json: |-
     - c-22385
 
 <a id="claim-t-74115"></a>
-- t-007
-  global_id: t-74115
+- t-006
   teiginys: "Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,8 +167,7 @@ media_all_json: |-
     - c-22390
 
 <a id="claim-t-74116"></a>
-- t-008
-  global_id: t-74116
+- t-009
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,8 +186,7 @@ media_all_json: |-
     - c-72177
 
 <a id="claim-t-74117"></a>
-- t-009
-  global_id: t-74117
+- t-008
   teiginys: "2004 m. Lietuva tapo Europos Sąjungos ir NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -215,8 +206,7 @@ media_all_json: |-
     - c-72176
 
 <a id="claim-t-183127"></a>
-- t-010
-  global_id: t-183127
+- t-011
   teiginys: "2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -240,8 +230,7 @@ media_all_json: |-
     - c-166512
 
 <a id="claim-t-193534"></a>
-- t-011
-  global_id: t-193534
+- t-012
   teiginys: "Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -267,18 +256,15 @@ media_all_json: |-
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: |
-    1990 m. kovo 11 d. atkūrusi nepriklausomybę,
-    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
-    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
-    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+  citata_rodoma: "1990 m. kovo 11 d. atkūrusi nepriklausomybę, \n2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, \n2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-\njungai – laisvų ir demokratinių Europos valstybių susivienijimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74114
+    - t-001
+
 - id: c-22386
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -290,16 +276,15 @@ media_all_json: |-
     mokymo turinys ir kokybė, jaunimui atsivėrė galimybės siekti aukštojo
     išsilavinimo ne tik Lietuvoje, bet ir kitose pasaulio valstybėse. Sparčiai
     išsiplėtė knygų, periodinės spaudos leidyba, šalies bibliotekų tinklas.
-  citata_rodoma: |
-    klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų
-    programose.
+  citata_rodoma: "klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų \nprogramose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74112
+    - t-002
+
 - id: c-22387
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -315,20 +300,15 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: |
-    1991 m. rugsėjo 17 d. Lietuva priimta
-    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
-    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
-    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
-    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
-    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
+  citata_rodoma: "1991 m. rugsėjo 17 d. Lietuva priimta \nį Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-\ntas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO \n(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą \n(ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto \nsutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74111
+    - t-003
+
 - id: c-22388
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -346,19 +326,15 @@ media_all_json: |-
     šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: |
-    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
-    rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
-    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
-    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
-    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
+  citata_rodoma: "Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-\nrusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos \nšalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-\nnominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę \nir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74113
+    - t-004
+
 - id: c-22389
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -371,17 +347,15 @@ media_all_json: |-
     pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
     tapti ES narėmis.
-  citata_rodoma: |
-    Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
-    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
-    tapti ES narėmis.
+  citata_rodoma: "Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos \n(asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą \ntapti ES narėmis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74110
+    - t-005
+
 - id: c-22390
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -390,16 +364,15 @@ media_all_json: |-
     Šiuo atveju didžiausią naudą gauna vartotojai.
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
-  citata_rodoma: |
-    Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
-    ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
+  citata_rodoma: "Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-\nventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74115
+    - t-006
+
 - id: c-22391
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -413,17 +386,15 @@ media_all_json: |-
     niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
-  citata_rodoma: |
-    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
-    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
-    mente – 12 europarlamentarų.
+  citata_rodoma: "Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-\nsimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-\nmente – 12 europarlamentarų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74109
+    - t-007
+
 - id: c-72176
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -440,7 +411,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74117
+    - t-008
+
 - id: c-72177
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -463,7 +435,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74116
+    - t-009
+
 - id: c-166512
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -481,7 +454,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183127
+    - t-011
+
 - id: c-176214
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -500,6 +474,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193534
+    - t-012
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

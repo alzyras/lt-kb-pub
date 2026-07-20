@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-176229"></a>
-- t-001
-  global_id: t-176229
+- t-003
   teiginys: "Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-160252
 
 <a id="claim-t-176231"></a>
-- t-002
-  global_id: t-176231
+- t-001
   teiginys: "Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,19 +106,15 @@ Nenurodyta
     versti duoti priesaika patvirtintus raštus, kad amžinai būsią
     ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
     šaukti tuojau atvyksią į Lenkiją.
-  citata_rodoma: |
-    Pirmučiausia šitam reikalui iš Krokuvos
-    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
-    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
-    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
-    šaukti tuojau atvyksią į Lenkiją.
+  citata_rodoma: "Pirmučiausia šitam reikalui iš Krokuvos\nbuvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-\nversti duoti priesaika patvirtintus raštus, kad amžinai būsią\ništikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-\nšaukti tuojau atvyksią į Lenkiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176229
+    - t-003
+
 - id: c-160253
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -132,16 +126,11 @@ Nenurodyta
     Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ).
-  citata_rodoma: |
-    Tokią ištikimybės prie­
-    saiką tuo laiku iš viso buvo padarytos trys^2 ).
-    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
-    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
-    stojo savo galios^3 ).
+  citata_rodoma: "Tokią ištikimybės prie­\nsaiką tuo laiku iš viso buvo padarytos trys^2 ).\nProchaska yra tos nuomonės, kad aukščiau minėtu priesai­\nkos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­\nstojo savo galios^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176231
+    - t-001

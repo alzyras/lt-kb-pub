@@ -30,7 +30,6 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 
 <a id="claim-t-60708"></a>
 - t-001
-  global_id: t-60708
   teiginys: "R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60708
+    - t-001

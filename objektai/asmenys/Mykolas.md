@@ -31,7 +31,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 
 <a id="claim-t-64008"></a>
 - t-001
-  global_id: t-64008
   teiginys: "Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,26 +157,14 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     ir toliau keliu Gelvonų link, einančiu
     per dabartinį Pabaiską, vakarine Žirnajų
     ežero pakrante.
-  citata_rodoma: |
-    Ji buvo daug
-    svarbesnė pilių apgulose
-
-    vadovauti pavedė savo sūnui kunigaikščiui
-    Mykolui, kuris „su lietuviais ir lenkais“ žy-
-    giavo pasitikti priešo.
-
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante.
+  citata_rodoma: "Ji buvo daug\nsvarbesnė pilių apgulose\n\nvadovauti pavedė savo sūnui kunigaikščiui\nMykolui, kuris „su lietuviais ir lenkais“ žy-\ngiavo pasitikti priešo.\n\nSprendžiant iš pagrindinių istorinių\nšaltinių, Švitrigailos ir Ordino pajėgos iš\nVilkmergės patraukė į pietus pro Pašilę\nir toliau keliu Gelvonų link, einančiu\nper dabartinį Pabaiską, vakarine Žirnajų\nežero pakrante."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64008
+    - t-001
+
 ## Ryšiai
 - Mykolas puolė [[objektai/grupes/Totoriai]]

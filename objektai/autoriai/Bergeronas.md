@@ -30,7 +30,6 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
 
 <a id="claim-t-190415"></a>
 - t-001
-  global_id: t-190415
   teiginys: "Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietuviška apeigų muzika."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190415
+    - t-001

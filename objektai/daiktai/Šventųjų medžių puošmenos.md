@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189760"></a>
 - t-001
-  global_id: t-189760
   teiginys: "Narbutas rašė, kad šventuosius medžius buvo įprasta puošti trofėjais, gėlių girliandomis ir degančiais žibintais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189760
+    - t-001

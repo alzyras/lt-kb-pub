@@ -30,7 +30,6 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
 
 <a id="claim-t-35972"></a>
 - t-001
-  global_id: t-35972
   teiginys: "Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
     mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
     tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
     nuspręsite, bus ir įvykdyta^2 ).
-  citata_rodoma: |
-    Tą
-    mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
-    tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
-    nuspręsite, bus ir įvykdyta^2 ).
+  citata_rodoma: "Tą\nmes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­\ntu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje\nnuspręsite, bus ir įvykdyta^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35972
+    - t-001

@@ -31,7 +31,6 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
 
 <a id="claim-t-40237"></a>
 - t-001
-  global_id: t-40237
   teiginys: "Šarūno rinktinės adjutantas Juozas Lapienis-Darius po nelygios kovos su okupantų kariuomene nusišovė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,11 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
     naikinti daugelis Rytų Lietuvos partizanų;
     ten pat suimta Elena Velavičiūtė-Nida iš-
     davė 30 partizanų.
-  citata_rodoma: |
-    Po nelygios kovos su okupantų
-    kariuomene nusišovė LLKS vadovybės spec.
-    atstovas RL sričiai Henrikas Danilevičius-
-    Vidmantas, Aloyzas Žilys-Žirnis ir Šarūno
-    rinkt. adjutantas Juozas Lapienis-Darius,
-    pasidavė rinktinės vadas Stasys Gimbutas-
-    Tarzanas ir 4 partizanai; S.
+  citata_rodoma: "Po nelygios kovos su okupantų\nkariuomene nusišovė LLKS vadovybės spec.\natstovas RL sričiai Henrikas Danilevičius-\nVidmantas, Aloyzas Žilys-Žirnis ir Šarūno\nrinkt. adjutantas Juozas Lapienis-Darius,\npasidavė rinktinės vadas Stasys Gimbutas-\nTarzanas ir 4 partizanai; S."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40237
+    - t-001

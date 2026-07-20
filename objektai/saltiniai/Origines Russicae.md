@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-191850"></a>
 - t-001
-  global_id: t-191850
   teiginys: "„Origines Russicae“ 1768 m. perspausdino Gerardo Fridriko Milerio kalbą „Rusų tautos ir vardo kilmė“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191850
+    - t-001

@@ -30,9 +30,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-78939"></a>
-- t-001
-  global_id: t-78939
+<a id="claim-t-78938"></a>
+- t-002
   teiginys: "Aleksandras Podemanskas-Šarūnas talkino Jono Neifalto-Lakūno vadovaujamam partizanų koviniam vienetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,19 +64,11 @@ media_all_json: |-
     Neifalto- Lakūno ir jam talkinančio
 
     Aleksandro Podemansko - Šarūno.
-  citata_rodoma: |
-    Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
-    akis galimas partizanų negailestingas sankcijas.“
-
-    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
-    kariuomenės ulonų puskarininkio Jono
-    Neifalto- Lakūno ir jam talkinančio
-
-    Aleksandro Podemansko - Šarūno.
+  citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78939
+    - t-002

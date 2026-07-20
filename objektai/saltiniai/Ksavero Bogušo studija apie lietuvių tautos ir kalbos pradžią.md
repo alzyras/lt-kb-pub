@@ -30,7 +30,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 
 <a id="claim-t-190492"></a>
 - t-001
-  global_id: t-190492
   teiginys: "Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą laiko bandymu kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 
 <a id="claim-t-190493"></a>
 - t-002
-  global_id: t-190493
   teiginys: "Narbutas rašo, kad pirmą kartą paėmęs Ksavero Bogušo studiją į rankas ypač susidomėjo joje pateiktomis eilėmis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 
 <a id="claim-t-197350"></a>
 - t-003
-  global_id: t-197350
   teiginys: "Lietuvių kalba, šiandien vartojama Žemaitijoje; imta iš Ksavero Bogušo (p. 109): Tawié musu, kuris esi Dangosié; szweskis wardas tawa; atèik karaliste tawa; buk walia tawa, keip dangoj, teip ir ant žeme."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190492
+    - t-001
+
 - id: c-173376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -123,7 +121,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190493
+    - t-002
+
 - id: c-179145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -146,4 +145,4 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197350
+    - t-003

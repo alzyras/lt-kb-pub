@@ -7,12 +7,12 @@ datos:
   - '1858 m.'
 date_start: '1858'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
 
 <a id="claim-t-190516"></a>
 - t-001
-  global_id: t-190516
   teiginys: "M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszawska“ 1858 m. trečiame tome, p. 192-195."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,21 +49,7 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173399
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszawska“ 1858 m. trečiame tome, p. 192-195.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
-    zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190516
+
 ## Citatos
 
 - id: c-173399
@@ -72,23 +57,13 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    S. Stanevičius abejoja T. Nar­
-    buto Vilniaus senosios šventyklos altoriaus aprašymu, iš viso
-    netiki Kauno Perkūno šventyklos buvimu, dievų Pramžimo,
-    Kovo tikrumu, o pasakojimą apie Vytolfą laiko panašiu į tuos,
-    „kurie yra veikale „Tūkstantis ir viena naktis“28 29. S. Stanevi­
-    čius tiesiogiai nekaltina T. Narbuto, kad jis nekritiškai vertina
-    senuosius rašytinius šaltinius. Tačiau, ko gero, visą savo „Aiš­
-    kinimą“ jis parašė norėdamas parodyti, kiek daug T. Narbuto
-    naudotuose šaltiniuose yra neteisingų, iškraipytų faktų ir kaip
-    iš tiesų reikia vertinti lietuvių mitologiją.
-  citata_rodoma: |
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
+  citata_rodoma: "25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-\nzawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190516
+    - t-001

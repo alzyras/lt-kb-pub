@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201293"></a>
 - t-001
-  global_id: t-201293
   teiginys: "Susirėmęs tenai Mingaila su po.- lockionimis pergalėjo juos ir vijo mušdamas visą dieną iki paties Polocko, kurį netrukdamas įgijo į savo valdžią."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184643
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Susirėmęs tenai Mingaila su po.-
     lockionimis pergalėjo juos ir vijo mušdamas visą
@@ -68,4 +68,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201293
+    - t-001

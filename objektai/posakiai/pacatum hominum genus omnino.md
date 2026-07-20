@@ -31,7 +31,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 <a id="claim-t-31565"></a>
 - t-001
-  global_id: t-31565
   teiginys: "Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
-  citata_rodoma: |
-    Padarydamas santrauką vėliau dingusios
-    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
-    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
-    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
-    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
-    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
-    375 m.
+  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31565
+    - t-001

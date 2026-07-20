@@ -31,7 +31,6 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 
 <a id="claim-t-32781"></a>
 - t-001
-  global_id: t-32781
   teiginys: "Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
     apraiškų.
     Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
     nebuvo tikslus šaltinių atžvilgiu.
-  citata_rodoma: |
-    Nors Stryjkovskio istorija « neatitiko visiems moks­
-    liniams bei literatūriniams humanistinės istoriografijos kriteri­
-    jams »^17 , ir Lietuvoje dabar jo veikale randama renesanso kultūros
-    apraiškų.
-    Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
-    nebuvo tikslus šaltinių atžvilgiu.
+  citata_rodoma: "Nors Stryjkovskio istorija « neatitiko visiems moks­\nliniams bei literatūriniams humanistinės istoriografijos kriteri­\njams »^17 , ir Lietuvoje dabar jo veikale randama renesanso kultūros\napraiškų.\nJau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis\nnebuvo tikslus šaltinių atžvilgiu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32781
+    - t-001

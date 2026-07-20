@@ -31,7 +31,6 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 
 <a id="claim-t-40966"></a>
 - t-001
-  global_id: t-40966
   teiginys: "Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 
 <a id="claim-t-40967"></a>
 - t-002
-  global_id: t-40967
   teiginys: "Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40966
+    - t-001
+
 - id: c-44775
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -100,16 +99,11 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
     kelios kuršiečių reitarų kuopos. Pralaužus
     pirmąsias švedų eiles, už jų stovėjo kitos ir
     buvo vis sunkiau veržtis į priekį.
-  citata_rodoma: |
-    Rotmistro A.Vainos
-    husarams buvo pasiųstas pastiprinimas —
-    kelios kuršiečių reitarų kuopos. Pralaužus
-    pirmąsias švedų eiles, už jų stovėjo kitos ir
-    buvo vis sunkiau veržtis į priekį.
+  citata_rodoma: "Rotmistro A.Vainos\nhusarams buvo pasiųstas pastiprinimas —\nkelios kuršiečių reitarų kuopos. Pralaužus\npirmąsias švedų eiles, už jų stovėjo kitos ir\nbuvo vis sunkiau veržtis į priekį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40967
+    - t-002

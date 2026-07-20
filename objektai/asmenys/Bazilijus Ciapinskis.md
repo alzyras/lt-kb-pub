@@ -30,7 +30,6 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 
 <a id="claim-t-18848"></a>
 - t-001
-  global_id: t-18848
   teiginys: "Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,12 +57,11 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
     Aiškiai ją skyrė amžininkai. Rusėnų / baltarusių spaustuvininkas Bazilijus
     Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
     viename viena kalba, kitame – kita.
-  citata_rodoma: |
-    Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:
+  citata_rodoma: "Ciapinskis antrojoje XVI a. pusėje netgi spausdino raštus dviem stulpeliais:"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18848
+    - t-001

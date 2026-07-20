@@ -33,29 +33,11 @@ media_all_json: |-
 
 Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-188956"></a>
-- t-001
-  global_id: t-188956
-  teiginys: 'Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Fragmentas sutvarkytas į sakinį apie Merkinės valsčių ir privilegijos turinį. Motyvų bei simbolikos aiškinimai neplėsti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Merkinė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Fragmentas sutvarkytas į sakinį apie Merkinės valsčių ir privilegijos turinį. Motyvų bei simbolikos aiškinimai neplėsti.'
-  pagrindžia:
-    - c-171845
-
-## Citatos
-
-- id: c-171845
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
@@ -75,10 +57,8 @@ Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valst
     Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
     dodavo laisvės deivės simboliu.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188956
+  statusas: verified

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-191373"></a>
 - t-001
-  global_id: t-191373
   teiginys: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191373
+    - t-001

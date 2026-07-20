@@ -53,8 +53,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 ## Teiginiai
 
 <a id="claim-t-195626"></a>
-- t-001
-  global_id: t-195626
+- t-002
   teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -64,15 +63,14 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     - c-178028
 
 <a id="claim-t-195627"></a>
-- t-002
-  global_id: t-195627
+- t-001
   teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-19 19:43"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-178029
+    - c-178028
 - susijęs iš [[objektai/zodynas/Plunksnų pirkliai.md#claim-t-195628|Plunksnų pirkliai]]: Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais.
 ## Citatos
 
@@ -89,15 +87,16 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     Paskui vežimą joja jaunosios įpra­
     šytas brolis; jam reikės nuvažiavus išvaduoti svirne kraičiui vietą.
     Jaunikio namuose kraitį iškelia iš ratų ir pastato kieme.
-  citata_rodoma: |
-    Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį.
+  citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195626
+    - t-002
+    - t-001
+
 - id: c-178029
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -111,12 +110,9 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     prieš išvažiuojant į
     „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm —
     tai kraičvežiai.
-  citata_rodoma: |
-    Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai.
+  citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195627

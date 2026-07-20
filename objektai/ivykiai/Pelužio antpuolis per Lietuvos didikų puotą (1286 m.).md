@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185761"></a>
 - t-001
-  global_id: t-185761
   teiginys: "Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-196237"></a>
 - t-002
-  global_id: t-196237
   teiginys: "Kojelavičiaus pasakojime Pelužio žygio planas buvo slepiamas nuo paprastų karių, kad lietuviai nebūtų įspėti apie rengiamas skerdynes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-196238"></a>
 - t-003
-  global_id: t-196238
   teiginys: "Per Pelužio antpuolį, be daugelio žemesnės padėties žmonių, žuvo septyniasdešimt kunigaikščių ir didikų, o jaunikiai ir moterys išgabenti į Karaliaučių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -128,8 +125,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185761
-    - t-196238
+    - t-001
+    - t-003
+
 - id: c-178591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -153,4 +151,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196237
+    - t-002

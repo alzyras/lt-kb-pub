@@ -37,8 +37,7 @@ Kochanowski, J.
 ## Teiginiai
 
 <a id="claim-t-54129"></a>
-- t-001
-  global_id: t-54129
+- t-002
   teiginys: "J. Kochanowskis parašė veikalą „Witold, w. książę litewski“, išleistą Lvove 1900 m."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kochanowski, J.
     - c-55075
 
 <a id="claim-t-54130"></a>
-- t-002
-  global_id: t-54130
+- t-001
   teiginys: "J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -87,18 +85,12 @@ Kochanowski, J.
     został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,
     K. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—
     Łowmiański, H. : Witold, wielki książę litewski, Vilnius 1930.
-  citata_rodoma: |
-    : Vytauto šeimyna, Praeitis,
-    t. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :
-    Witold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold
-    został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,
-    K. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—
-    Łowmiański, H. : Witold, wielki książę litewski, Vilnius 1930.
+  citata_rodoma: ": Vytauto šeimyna, Praeitis,\nt. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :\nWitold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold\nzostał wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,\nK. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—\nŁowmiański, H. : Witold, wielki książę litewski, Vilnius 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54129
-    - t-54130
+    - t-002
+    - t-001

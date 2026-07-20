@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87303"></a>
 - t-001
-  global_id: t-87303
   teiginys: "Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87303
+    - t-001

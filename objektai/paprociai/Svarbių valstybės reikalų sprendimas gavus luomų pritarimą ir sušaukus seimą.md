@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185893"></a>
-- t-001
-  global_id: t-185893
+- t-002
   teiginys: "Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-169254
 
 <a id="claim-t-196318"></a>
-- t-002
-  global_id: t-196318
+- t-003
   teiginys: "Lenkų didikai, karaliaus patarėjai, primygtinai reikalavo atiduoti Žemaitiją kryžiuočiams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185893
-    - t-196318
+    - t-002
+    - t-003

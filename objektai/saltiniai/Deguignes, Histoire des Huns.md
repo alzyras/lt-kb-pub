@@ -37,7 +37,6 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
 
 <a id="claim-t-194321"></a>
 - t-001
-  global_id: t-194321
   teiginys: "Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194321
+    - t-001

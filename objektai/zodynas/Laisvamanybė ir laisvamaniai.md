@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10883"></a>
-- t-001
-  global_id: t-10883
+- t-003
   teiginys: "Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-00276
 
 <a id="claim-t-10884"></a>
-- t-002
-  global_id: t-10884
+- t-004
   teiginys: "Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -90,17 +88,15 @@ Nenurodyta
     vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės.
-  citata_rodoma: |
-    Dr. Šliūpas visą
-    gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
-    sipratimo ir dėl laisvamanybės.
+  citata_rodoma: "Dr. Šliūpas visą\ngyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-\nsipratimo ir dėl laisvamanybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10883
+    - t-003
+
 - id: c-00277
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,13 +107,11 @@ Nenurodyta
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
-  citata_rodoma: |
-    Todėl apie jį susibūrė griežtes-
-    nieji tautininkai ir laisvamaniai.
+  citata_rodoma: "Todėl apie jį susibūrė griežtes-\nnieji tautininkai ir laisvamaniai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10884
+    - t-004

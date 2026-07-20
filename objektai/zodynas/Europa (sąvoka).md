@@ -33,7 +33,6 @@ Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Euro
 
 <a id="claim-t-200828"></a>
 - t-001
-  global_id: t-200828
   teiginys: "Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Europos stilių istoriją nuo gotikos iki empiro."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Vorobjovas Vilnių apibūdino kaip gyvų vaizdų knygą, atskleidžiančią Euro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200828
+    - t-001

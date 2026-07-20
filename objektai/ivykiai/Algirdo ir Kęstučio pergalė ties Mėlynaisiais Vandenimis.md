@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201274"></a>
 - t-001
-  global_id: t-201274
   teiginys: "Lie tuviai, atėję ties Mėlynaisiais Vandenimis, pamatė totorius taboriuose stovinčius, kurių trys karvedžiai: Katlubachas, Girėjus ir Dimeiteris stipriai pasirėdę vedė tuojau nesuskaitomas gaujas į mūšą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-201275"></a>
 - t-002
-  global_id: t-201275
   teiginys: "Pirmajame susirėmime totoriai ga lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi totoriai sulenkta eila pagal savo būdą nebgalėjo be kariauti, radęsi staiga nuo lietuvių apsiaustais; kai pogi totoriai, išmetę savo vylyčias į tuščias vietas, susirėmė su."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184624
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Todėl karvedžiu lie­
     tuvių ir žemaičių Algirdas ir Kęstutis, atilsinusįu
@@ -87,11 +86,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201274
+    - t-001
 
 - id: c-184625
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pirmajame susirėmime totoriai ga­
     lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi
@@ -117,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201275
+    - t-002

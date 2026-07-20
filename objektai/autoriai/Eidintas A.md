@@ -41,7 +41,6 @@ Eidintas A. Eidintas A., Senn A.
 
 <a id="claim-t-19391"></a>
 - t-001
-  global_id: t-19391
   teiginys: "A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Eidintas A. Eidintas A., Senn A.
 
 <a id="claim-t-19392"></a>
 - t-002
-  global_id: t-19392
   teiginys: "A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Eidintas A. Eidintas A., Senn A.
 
 <a id="claim-t-183342"></a>
 - t-003
-  global_id: t-183342
   teiginys: "A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -92,15 +89,15 @@ Eidintas A. Eidintas A., Senn A.
     1 t., Vil-
     nius, 1999.
     Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
-  citata_rodoma: |
-    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
+  citata_rodoma: "Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19391
+    - t-001
+
 - id: c-166733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,5 +111,5 @@ Eidintas A. Eidintas A., Senn A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19392
-    - t-183342
+    - t-002
+    - t-003

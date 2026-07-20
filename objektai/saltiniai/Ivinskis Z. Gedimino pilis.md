@@ -9,14 +9,14 @@ datos:
   - '1940 m.'
 date_start: '1139'
 date_end: '1940'
-amziai:
-  - 'XII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - žemėlapis
+amziai:
+  - 'XII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +39,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 ## Teiginiai
 
 <a id="claim-t-60981"></a>
-- t-001
-  global_id: t-60981
+- t-002
   teiginys: "Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,10 +58,9 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
     - c-61614
 
 <a id="claim-t-60982"></a>
-- t-002
-  global_id: t-60982
+- t-001
   teiginys: "Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,23 +72,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61613
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Patikimesni atrodo bandymai ją
-    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
-    (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
-    pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60982
+
 ## Citatos
 
 - id: c-61613
@@ -98,26 +80,19 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Daug netikėlių šiose kautynėse buvo mirtinai sužeista, daug jų
-    krito nukautų. Sužeidė ir dvylika mūsų brolių bei trisdešimt karių, o broliui Hartmanui iš
-    Elsterbergo strėlė pervėrė kaklą, dėl to jis netrukus ir atidavė dievui sielą.
-    294 (287). Apie vieną stebuklą
-    Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso,
-    kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
-    sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
-    laisvę.
-  citata_rodoma: |
     Patikimesni atrodo bandymai ją
     lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
     (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
     pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
+  citata_rodoma: "Patikimesni atrodo bandymai ją\nlokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante\n(Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino\npilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60982
+    - t-001
+
 - id: c-61614
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,4 +105,4 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60981
+    - t-002

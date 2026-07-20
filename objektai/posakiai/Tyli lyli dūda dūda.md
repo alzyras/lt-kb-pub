@@ -53,7 +53,6 @@ Dainos refreno formulė.
 
 <a id="claim-t-195422"></a>
 - t-001
-  global_id: t-195422
   teiginys: "Kerdžius gieda su refrenu „Tyli lyli dūda dūda“."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -77,13 +76,11 @@ Dainos refreno formulė.
     dojo:
     „Pats Trumpa kiaules varė,
     O Trumpienė alų darė.
-  citata_rodoma: |
-    „Pats šeštošis ašį tašė, šeštošienė vištą pešė.
-    Tyli lyli dūda dūda, tyli lyli dūda...“
+  citata_rodoma: "„Pats šeštošis ašį tašė, šeštošienė vištą pešė.\nTyli lyli dūda dūda, tyli lyli dūda...“"
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195422
+    - t-001

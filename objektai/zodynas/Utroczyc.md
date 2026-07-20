@@ -31,7 +31,6 @@ Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“,
 
 <a id="claim-t-189338"></a>
 - t-001
-  global_id: t-189338
   teiginys: "Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“, reiškiančiu prie balno tvirtinamus diržus žvėrienai pririšti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189338
+    - t-001

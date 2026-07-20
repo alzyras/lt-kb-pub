@@ -31,7 +31,6 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
 
 <a id="claim-t-185312"></a>
 - t-001
-  global_id: t-185312
   teiginys: "Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
 
 <a id="claim-t-196746"></a>
 - t-002
-  global_id: t-196746
   teiginys: "Kojelavičiaus pasakojime Prūsijos magistras su pagalbininkais nusiaubė Vėluvos ir Tapiavos kraštą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -88,5 +86,5 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185312
-    - t-196746
+    - t-001
+    - t-002

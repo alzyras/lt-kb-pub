@@ -39,7 +39,6 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
 
 <a id="claim-t-201167"></a>
 - t-001
-  global_id: t-201167
   teiginys: "Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai me tuose 1099 vadinamą Gotfridą de Bouillon, visų vy riausią savo karvedį, Jeruzolimos mieste gelžies ka rūna apkarūnavo j o ir karalium Žemės Šventos pa kėlė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
 ## Citatos
 
 - id: c-184517
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas begalėjo nuo tokių gau­
     jų svieto beatsiturėti? Kaipogi vienu žygiu perga­
@@ -72,4 +72,4 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201167
+    - t-001

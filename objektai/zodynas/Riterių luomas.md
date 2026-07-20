@@ -43,7 +43,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 
 <a id="claim-t-55269"></a>
 - t-001
-  global_id: t-55269
   teiginys: "Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::vocabulary"
@@ -60,7 +59,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 
 <a id="claim-t-55270"></a>
 - t-002
-  global_id: t-55270
   teiginys: "Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -77,7 +75,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 
 <a id="claim-t-82096"></a>
 - t-003
-  global_id: t-82096
   teiginys: "Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::vocabulary"
@@ -117,8 +114,9 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55269
-    - t-55270
+    - t-001
+    - t-002
+
 - id: c-78590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -138,4 +136,4 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82096
+    - t-003

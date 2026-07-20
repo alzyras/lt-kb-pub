@@ -30,7 +30,6 @@ Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir ai
 
 <a id="claim-t-189350"></a>
 - t-001
-  global_id: t-189350
   teiginys: "Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir aiškina jį kaip „Žemaičių moneta“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189350
+    - t-001

@@ -32,7 +32,6 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
 
 <a id="claim-t-191603"></a>
 - t-001
-  global_id: t-191603
   teiginys: "Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perteikimu, buvo galima atsekti mažiausiai 5 tūkstančius dialektų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191603
+    - t-001

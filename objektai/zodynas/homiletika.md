@@ -31,7 +31,6 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 
 <a id="claim-t-193286"></a>
 - t-001
-  global_id: t-193286
   teiginys: "Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193286
+    - t-001

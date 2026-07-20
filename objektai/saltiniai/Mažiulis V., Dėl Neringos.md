@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 
 <a id="claim-t-61175"></a>
 - t-001
-  global_id: t-61175
   teiginys: "Vidurio Ordino dokumentuose atsiranda lytis Neringe."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61175
+    - t-001

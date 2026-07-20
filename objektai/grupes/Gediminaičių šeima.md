@@ -31,7 +31,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 
 <a id="claim-t-01323"></a>
 - t-001
-  global_id: t-01323
   teiginys: "Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 
 <a id="claim-t-193090"></a>
 - t-002
-  global_id: t-193090
   teiginys: "Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -71,17 +69,15 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
     Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
     nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
-  citata_rodoma: |
-    Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
-    Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
-    nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
+  citata_rodoma: "Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug\nGedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę\nnuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01323
+    - t-001
+
 - id: c-175854
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -107,4 +103,4 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193090
+    - t-002

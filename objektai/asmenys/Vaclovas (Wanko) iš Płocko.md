@@ -38,7 +38,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 
 <a id="claim-t-100079"></a>
 - t-001
-  global_id: t-100079
   teiginys: "Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
-  citata_rodoma: |
-    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
-    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
-    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
-    rekomendavo kelią per Mozūriją. Jo 1325 m.
+  citata_rodoma: "Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su\nMozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas\nir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams\nrekomendavo kelią per Mozūriją. Jo 1325 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100079
+    - t-001

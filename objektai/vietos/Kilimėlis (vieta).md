@@ -33,7 +33,6 @@ Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamend
 
 <a id="claim-t-201169"></a>
 - t-001
-  global_id: t-201169
   teiginys: "Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamend
 ## Citatos
 
 - id: c-184519
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Toms audroms verčiant Padaugavy, didysis mis­
     tras kryžėjų Foichtvangenas, atkeliavęs į Parusnį,
@@ -72,4 +72,4 @@ Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamend
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201169
+    - t-001

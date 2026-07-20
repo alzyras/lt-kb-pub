@@ -62,9 +62,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 <a id="claim-t-05588"></a>
 - t-001
-  global_id: t-05588
   teiginys: "Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,44 +79,26 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 <a id="claim-t-05589"></a>
 - t-002
-  global_id: t-05589
   teiginys: "Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-06406
+    - c-91764
 
 <a id="claim-t-05590"></a>
 - t-003
-  global_id: t-05590
   teiginys: "Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jonas XXII (arkivyskupas, XIV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Jonas XXII (arkivyskupas, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-91762
-    - c-91766
+    - c-06406
 
 <a id="claim-t-05591"></a>
 - t-004
-  global_id: t-05591
   teiginys: "Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -134,7 +115,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 <a id="claim-t-05592"></a>
 - t-005
-  global_id: t-05592
   teiginys: "Naujakrikštų valdovų apostazijos buvo žinomos ir kitose tautose, kai valdovų nuovoka apie naująjį tikėjimą dar būdavo grubi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -151,7 +131,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 <a id="claim-t-97278"></a>
 - t-006
-  global_id: t-97278
   teiginys: "J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,25 +165,18 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
     išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
     goji nuomonė »^21.
-  citata_rodoma: |
-    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
-    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
-    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
-    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
-    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
-    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
-    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
-    goji nuomonė »^21.
+  citata_rodoma: "Didelės svarbos yra penktoji problema, dėl kurios daug kas sau\nyra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­\nčionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­\nkowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė\nnuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­\nšyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu\nišlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­\ngoji nuomonė »^21."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05588
-    - t-05589
-    - t-05591
-    - t-97278
+    - t-001
+    - t-003
+    - t-004
+    - t-006
+
 - id: c-91762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -222,11 +194,10 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     klaidą » 199 200.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05590
 - id: c-91763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -245,7 +216,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05592
+    - t-005
+
 - id: c-91764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -268,7 +240,9 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05588
+    - t-001
+    - t-002
+
 - id: c-91766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -289,5 +263,3 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05590

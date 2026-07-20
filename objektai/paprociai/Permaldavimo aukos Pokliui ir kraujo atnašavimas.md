@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-189771"></a>
 - t-001
-  global_id: t-189771
   teiginys: "Narbutas permaldavimo auką siejo su žyniais, kurie, jo vertinimu, dėl interesų laikė žmones baimėje ir pasitelkdavo Poklių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-189772"></a>
 - t-002
-  global_id: t-189772
   teiginys: "Narbutas teigė, kad Pokliaus pasirodymas namuose reiškė dievų rūstybę, todėl namų savininkas kreipdavosi į žynį dėl permaldavimo aukos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,6 @@ Nenurodyta
 
 <a id="claim-t-189773"></a>
 - t-003
-  global_id: t-189773
   teiginys: "Narbutas rašė, kad dvigubai baisesnis Pokliaus apsireiškimas skatino kreiptis į krivį, kuris nurodydavo, kieno kraujas turi būti paaukotas dievams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Nenurodyta
 
 <a id="claim-t-189774"></a>
 - t-004
-  global_id: t-189774
   teiginys: "Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -141,7 +137,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189771
+    - t-001
+
 - id: c-172655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -161,7 +158,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189772
+    - t-002
+
 - id: c-172656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -182,7 +180,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189773
+    - t-003
+
 - id: c-172657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -204,4 +203,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189774
+    - t-004

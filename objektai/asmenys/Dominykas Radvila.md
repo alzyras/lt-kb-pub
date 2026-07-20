@@ -39,7 +39,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 
 <a id="claim-t-87655"></a>
 - t-001
-  global_id: t-87655
   teiginys: "Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87655
+    - t-001

@@ -40,8 +40,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 ## Teiginiai
 
 <a id="claim-t-46320"></a>
-- t-001
-  global_id: t-46320
+- t-003
   teiginys: "Po Lenkijos ultimatumo priėmimo Vladas Mironas atleido Stasį Lozoraitį, kurio politinė linija pralaimėjo."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21996
 
 <a id="claim-t-46321"></a>
-- t-002
-  global_id: t-46321
+- t-005
   teiginys: "LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-48907
 
 <a id="claim-t-46322"></a>
-- t-003
-  global_id: t-46322
+- t-001
   teiginys: "Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21994
 
 <a id="claim-t-46323"></a>
-- t-004
-  global_id: t-46323
+- t-002
   teiginys: "Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -117,8 +113,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     - c-21995
 
 <a id="claim-t-46324"></a>
-- t-005
-  global_id: t-46324
+- t-004
   teiginys: "Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -164,20 +159,15 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
     menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
     toriją visam pasauliui.
-  citata_rodoma: |
-    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
-    kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
-    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
-    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
-    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
-    dailininkų drobėse.
+  citata_rodoma: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-\nkos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo\nir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-\nrių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį\nsvarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų\ndailininkų drobėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46322
+    - t-001
+
 - id: c-21995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,18 +178,15 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-  citata_rodoma: |
-    Keturiasdešimtmečiai užsienio reikalų ministras
-    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
-    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
-    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+  citata_rodoma: "Keturiasdešimtmečiai užsienio reikalų ministras\nStasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-\nnizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo\nstrategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46323
+    - t-002
+
 - id: c-21996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,18 +199,15 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: |
-    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
-    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
-    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
-    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
+  citata_rodoma: "Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-\nnetas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas\nMironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos\nvaldžia stengėsi parodyti, kad iš esmės nieko neįvyko."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46320
+    - t-003
+
 - id: c-21997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -238,18 +222,15 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     plomatijos šefui, tas pareigas ėjo diplomatai
     Stasys Lozoraitis (1940–1983 m.) ir Stasys
     Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: |
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.) ir Stasys
-    Antanas Bačkis (1983–1991 m.).
+  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai\nStasys Lozoraitis (1940–1983 m.) ir Stasys\nAntanas Bačkis (1983–1991 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46324
+    - t-004
+
 - id: c-48907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,18 +246,11 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
     diplomatijos šefo pareigas interpretavo kaip
     primus inter pares (pirmas tarp lygiųjų) tarp
     visų pasiuntinių.
-  citata_rodoma: |
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.) ir Stasys
-    Antanas Bačkis (1983–1991 m.). S. Lozoraitis
-    diplomatijos šefo pareigas interpretavo kaip
-    primus inter pares (pirmas tarp lygiųjų) tarp
-    visų pasiuntinių.
+  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m.) ir Stasys \nAntanas Bačkis (1983–1991 m.). S. Lozoraitis \ndiplomatijos šefo pareigas interpretavo kaip \nprimus inter pares (pirmas tarp lygiųjų) tarp \nvisų pasiuntinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46321
+    - t-005

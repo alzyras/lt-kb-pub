@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201386"></a>
 - t-001
-  global_id: t-201386
   teiginys: "Gereimantas, palaidojęs savo tėvą, tuojau pagal jo įsakymą įkūrė Vilniuj žinyčių godon Perūno die vo, kurioje amžina ugnis kūrinos, kurią ugnasargės kunigės kurstė, kurios aprašą viršiaus regėjom. Ąžuolyną tarp upių Vyliaus (Vilenkos) ir Neries (Vilijos)."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184736
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra rašytojų, kurie sako Šventaragį buvus di­
     džiuoju Lietuvos kunigaikščiu, bet aš, nerasdamas
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201386
+    - t-001

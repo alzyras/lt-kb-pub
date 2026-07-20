@@ -40,7 +40,6 @@ Gosievskio pajėgas.
 
 <a id="claim-t-39819"></a>
 - t-001
-  global_id: t-39819
   teiginys: "V. Gosievskio pajėgas Vilniuje sumušė J. Čerkaskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Gosievskio pajėgas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39819
+    - t-001

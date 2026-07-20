@@ -69,8 +69,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08355"></a>
-- t-001
-  global_id: t-08355
+- t-004
   teiginys: "Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -86,8 +85,7 @@ Nenurodyta
     - c-10308
 
 <a id="claim-t-08356"></a>
-- t-002
-  global_id: t-08356
+- t-005
   teiginys: "Prie karūžojo buvo laikoma karės vėliava tos apykartos."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ Nenurodyta
     - c-10309
 
 <a id="claim-t-08357"></a>
-- t-003
-  global_id: t-08357
+- t-006
   teiginys: "Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Nenurodyta
     - c-10310
 
 <a id="claim-t-10166"></a>
-- t-004
-  global_id: t-10166
+- t-007
   teiginys: "1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -141,8 +137,7 @@ Nenurodyta
     - c-160238
 
 <a id="claim-t-10167"></a>
-- t-005
-  global_id: t-10167
+- t-008
   teiginys: "Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -159,8 +154,7 @@ Nenurodyta
     - c-42581
 
 <a id="claim-t-10168"></a>
-- t-006
-  global_id: t-10168
+- t-009
   teiginys: "Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -176,8 +170,7 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-12340"></a>
-- t-007
-  global_id: t-12340
+- t-010
   teiginys: "Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -193,25 +186,16 @@ Nenurodyta
     - c-14345
 
 <a id="claim-t-12341"></a>
-- t-008
-  global_id: t-12341
+- t-011
   teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-36751
+    - c-160245
 
 <a id="claim-t-12343"></a>
-- t-009
-  global_id: t-12343
+- t-013
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -227,8 +211,7 @@ Nenurodyta
     - c-160236
 
 <a id="claim-t-12344"></a>
-- t-010
-  global_id: t-12344
+- t-014
   teiginys: "Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava."
   atnaujinta: "2026-05-31 14:15"
   sprendimo_priezastis: "auto"
@@ -244,8 +227,7 @@ Nenurodyta
     - c-14349
 
 <a id="claim-t-176206"></a>
-- t-011
-  global_id: t-176206
+- t-023
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -261,8 +243,7 @@ Nenurodyta
     - c-160240
 
 <a id="claim-t-176207"></a>
-- t-012
-  global_id: t-176207
+- t-002
   teiginys: "Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -278,8 +259,7 @@ Nenurodyta
     - c-160241
 
 <a id="claim-t-176209"></a>
-- t-013
-  global_id: t-176209
+- t-019
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -295,8 +275,7 @@ Nenurodyta
     - c-160245
 
 <a id="claim-t-176210"></a>
-- t-014
-  global_id: t-176210
+- t-001
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -311,9 +290,9 @@ Nenurodyta
   pagrindžia:
     - c-160234
     - c-167714
+
 <a id="claim-t-176211"></a>
-- t-015
-  global_id: t-176211
+- t-018
   teiginys: "Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -329,8 +308,7 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-176212"></a>
-- t-016
-  global_id: t-176212
+- t-020
   teiginys: "Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -346,8 +324,7 @@ Nenurodyta
     - c-36751
 
 <a id="claim-t-176213"></a>
-- t-017
-  global_id: t-176213
+- t-003
   teiginys: "1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -366,8 +343,7 @@ Nenurodyta
     - c-160235
 
 <a id="claim-t-176214"></a>
-- t-018
-  global_id: t-176214
+- t-022
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -383,8 +359,7 @@ Nenurodyta
     - c-160237
 
 <a id="claim-t-176215"></a>
-- t-019
-  global_id: t-176215
+- t-016
   teiginys: "XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -404,8 +379,7 @@ Nenurodyta
     - c-160246
 
 <a id="claim-t-176216"></a>
-- t-020
-  global_id: t-176216
+- t-017
   teiginys: "Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -422,8 +396,7 @@ Nenurodyta
     - c-160239
 
 <a id="claim-t-176217"></a>
-- t-021
-  global_id: t-176217
+- t-015
   teiginys: "Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -443,8 +416,7 @@ Nenurodyta
     - c-160238
 
 <a id="claim-t-192507"></a>
-- t-023
-  global_id: t-192507
+- t-026
   teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -563,6 +535,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-10308
@@ -579,7 +552,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08355
+    - t-004
+
 - id: c-10309
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -599,7 +573,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08356
+    - t-005
+
 - id: c-10310
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -616,7 +591,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08357
+    - t-006
+
 - id: c-14345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -634,7 +610,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12340
+    - t-010
+
 - id: c-14349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -649,7 +626,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12344
+    - t-014
+
 - id: c-36751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -663,20 +641,15 @@ Nenurodyta
     vadovybė atiteko Vytautui.
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku.
-  citata_rodoma: |
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
-    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
-    niku.
+  citata_rodoma: "Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie\nvyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės\nvadovybė atiteko Vytautui.\nKitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­\nniku."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12341
-    - t-176212
+    - t-020
+
 - id: c-42581
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -696,7 +669,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10167
+    - t-008
+
 - id: c-42582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -709,21 +683,16 @@ Nenurodyta
     Kryžiuočiai, pamanę, jog mūšis laimė-
     tas, užtraukė pergalės giesmę „Kristus
     prisikėlė“.
-  citata_rodoma: |
-    Lenkai patyrė didelį spaudimą tiek
-    centre, tiek dešinėje, neatlaikiusi spau-
-    dimo net krito didžioji Krokuvos vėliava.
-    Kryžiuočiai, pamanę, jog mūšis laimė-
-    tas, užtraukė pergalės giesmę „Kristus
-    prisikėlė“.
+  citata_rodoma: "Lenkai patyrė didelį spaudimą tiek\ncentre, tiek dešinėje, neatlaikiusi spau-\ndimo net krito didžioji Krokuvos vėliava.\nKryžiuočiai, pamanę, jog mūšis laimė-\ntas, užtraukė pergalės giesmę „Kristus\nprisikėlė“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10168
-    - t-176211
+    - t-009
+    - t-018
+
 - id: c-160234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -732,15 +701,15 @@ Nenurodyta
     Tuo lemtingu momentu Jungingenas į kautynes
     dar pasiuntė 16 rezerve stovėjusių pulkų. Sąjungininkų eilės su­
     svyravo. Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-  citata_rodoma: |
-    Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+  citata_rodoma: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176210
+    - t-001
+
 - id: c-160235
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -751,17 +720,15 @@ Nenurodyta
     popiežius ir imperatorius vis buvo kryžiuočių pusėje. Pvz., Zig­
     manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
     Lenkiją su 10 vėliavų^38.
-  citata_rodoma: |
-    Pvz., Zig­
-    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
-    Lenkiją su 10 vėliavų^38.
+  citata_rodoma: "Pvz., Zig­\nmanto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė\nLenkiją su 10 vėliavų^38."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176213
+    - t-003
+
 - id: c-160236
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -773,16 +740,15 @@ Nenurodyta
     iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
     jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
     vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
-  citata_rodoma: |
-    Jį saugojo kunigaikščio Kaributo
-    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+  citata_rodoma: "Jį saugojo kunigaikščio Kaributo\nvėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12343
+    - t-013
+
 - id: c-160237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -802,7 +768,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176214
+    - t-022
+
 - id: c-160238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -826,29 +793,16 @@ Nenurodyta
     plotas gynybai, užsidarė Kremliuje, o kartu
     su juo ir metropolitas, kunigaikščiai bei
     bajorai.
-  citata_rodoma: |
-    pavasarį).
-
-    Kai ryte po pamaldų „Maskvos kuni-
-    gaikštis su bajorais ir su kunigaikščiais
-    išeina iš cerkvės, Algirdas su visomis savo
-    pajėgomis, išskleidęs savo vėliavas, pasi-
-    rodė ant Pasveikinimo kalno (Paklonaja
-    gara)“ prie Maskvos. Maskvos didysis
-
-    kunigaikštis, įsakęs aplink sudeginti visą
-    priemiestį („posadą“), kad būtų atviras
-    plotas gynybai, užsidarė Kremliuje, o kartu
-    su juo ir metropolitas, kunigaikščiai bei
-    bajorai.
+  citata_rodoma: "pavasarį).\n\nKai ryte po pamaldų „Maskvos kuni-\ngaikštis su bajorais ir su kunigaikščiais\nišeina iš cerkvės, Algirdas su visomis savo\npajėgomis, išskleidęs savo vėliavas, pasi-\nrodė ant Pasveikinimo kalno (Paklonaja\ngara)“ prie Maskvos. Maskvos didysis\n\nkunigaikštis, įsakęs aplink sudeginti visą\npriemiestį („posadą“), kad būtų atviras\nplotas gynybai, užsidarė Kremliuje, o kartu\nsu juo ir metropolitas, kunigaikščiai bei\nbajorai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10166
-    - t-176217
+    - t-007
+    - t-015
+
 - id: c-160239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -871,7 +825,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176216
+    - t-017
+
 - id: c-160240
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -887,7 +842,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176206
+    - t-023
+
 - id: c-160241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -897,17 +853,15 @@ Nenurodyta
     šas pakriks. Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
     Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
     sugrįžo į kovos lauką.
-  citata_rodoma: |
-    Vytauto vadovaujami
-    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
-    sugrįžo į kovos lauką.
+  citata_rodoma: "Vytauto vadovaujami\nLietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,\nsugrįžo į kovos lauką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176207
+    - t-002
+
 - id: c-160245
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -926,7 +880,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176209
+    - t-011
+    - t-019
+
 - id: c-160246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -942,24 +898,15 @@ Nenurodyta
     ~
 
     52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
-  citata_rodoma: |
-    Pagal istorinę tradiciją Vytautas
-
-    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
-    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
-    Jo tunika puošia valdovo heraldinė simbolika -
-    Gediminaičių stulpai
-
-    ~
-
-    52 VORSKLOS MUSIS 1399 m.
+  citata_rodoma: "Pagal istorinę tradiciją Vytautas\n\nXIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis\nkarys tarnauja Lietuvos valdovo asmeninėje vėliavoje.\nJo tunika puošia valdovo heraldinė simbolika -\nGediminaičių stulpai\n\n~\n\n52 VORSKLOS MUSIS 1399 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176215
+    - t-016
+
 - id: c-167714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -971,10 +918,12 @@ Nenurodyta
     « Christ ist erstanden ».
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-175297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -991,4 +940,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192507
+    - t-026

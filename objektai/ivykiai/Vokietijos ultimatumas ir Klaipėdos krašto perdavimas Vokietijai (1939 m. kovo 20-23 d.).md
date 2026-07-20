@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75307"></a>
-- t-001
-  global_id: t-75307
+- t-004
   teiginys: "1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-75308"></a>
 - t-002
-  global_id: t-75308
   teiginys: "1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-75309"></a>
 - t-003
-  global_id: t-75309
   teiginys: "Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Nenurodyta
     - c-73127
 
 <a id="claim-t-75310"></a>
-- t-004
-  global_id: t-75310
+- t-005
   teiginys: "1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,22 +142,16 @@ Nenurodyta
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     183
     deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: |
-    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
+  citata_rodoma: "Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos \nAdolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – \njį sveikina vietos vokiečių nacių simpatikai ir SA smogikai\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n183\ndeleguotas ministras turėjo vykdyti jo užduotis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75307
-    - t-75310
+    - t-004
+    - t-005
+
 - id: c-73127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,15 +162,15 @@ Nenurodyta
     didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
     šalies eksporto ėjo per Klaipėdą.
-  citata_rodoma: |
-    didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
+  citata_rodoma: "didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75309
+    - t-003
+
 - id: c-73129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,12 +184,11 @@ Nenurodyta
     Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos
     perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
     balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
-  citata_rodoma: |
-    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
+  citata_rodoma: "perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75308
+    - t-002

@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07824"></a>
-- t-001
-  global_id: t-07824
+- t-002
   teiginys: "Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -76,14 +75,11 @@ Nenurodyta
     „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
         krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
         nesumaitotų.“
-  citata_rodoma: |
-    „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
-    krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
-    nesumaitotų.“
+  citata_rodoma: "„Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis\nkrikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir\nnesumaitotų.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07824
+    - t-002

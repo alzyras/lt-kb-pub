@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-19579"></a>
 - t-001
-  global_id: t-19579
   teiginys: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,12 +92,11 @@ Nenurodyta
     vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
-  citata_rodoma: |
-    vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi
+  citata_rodoma: "vę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19579
+    - t-001

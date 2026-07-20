@@ -60,8 +60,7 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
 ## Teiginiai
 
 <a id="claim-t-187970"></a>
-- t-001
-  global_id: t-187970
+- t-004
   teiginys: "Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::events"
@@ -100,19 +99,11 @@ Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T
     natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
-  citata_rodoma: |
-    Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­
-    ti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­
-    ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
-    rėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia
-    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
-    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
-    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
-    ir rankraščius išgabenti.
+  citata_rodoma: "Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­\nti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­\nciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­\nrėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia\nSaurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­\nnatus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­\nma, už rublio mokestį sargas leisdavo ten saugomą biblioteką\nir rankraščius išgabenti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187970
+    - t-004

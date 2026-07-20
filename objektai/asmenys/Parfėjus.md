@@ -32,7 +32,6 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 
 <a id="claim-t-87925"></a>
 - t-001
-  global_id: t-87925
   teiginys: "Pskoviečiai pasiuntė valdovo vietininką Parfėjų pas Vytautą tartis dėl belaisvių išpirkimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87925
+    - t-001

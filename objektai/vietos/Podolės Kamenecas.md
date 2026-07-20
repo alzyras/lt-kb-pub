@@ -8,15 +8,15 @@ datos:
   - '1971 m.'
 date_start: '1062'
 date_end: '1971'
+amziai:
+  - 'XI'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - sostinė
   - miestas
-amziai:
-  - 'XI'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +39,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 ## Teiginiai
 
 <a id="claim-t-187289"></a>
-- t-001
-  global_id: t-187289
+- t-002
   teiginys: "Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -62,8 +61,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - c-170333
 
 <a id="claim-t-187290"></a>
-- t-002
-  global_id: t-187290
+- t-004
   teiginys: "XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -85,7 +83,6 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 
 <a id="claim-t-187291"></a>
 - t-003
-  global_id: t-187291
   teiginys: "Podolės Kamenecas istoriniuose šaltiniuose minimas jau 1062 m."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -106,8 +103,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - c-170333
 
 <a id="claim-t-187292"></a>
-- t-004
-  global_id: t-187292
+- t-001
   teiginys: "1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -127,35 +123,10 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   pagrindžia:
     - c-170334
 
-## Citatos
-
-- id: c-170333
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
-    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
-    Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m. XIV a.
-    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
-  citata_rodoma: |
-    Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
-    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
-    Karijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a.
-    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187289
-    - t-187290
-    - t-187291
-- id: c-170334
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Pagal B. N. Florią kronika atsiradusi ne tik Slucko ku­
     nigaikščių Olelkaičių, bet ir lietuvių didikų Goštautų
@@ -167,15 +138,48 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
     sį jauno didžiojo kunigaikščio Kazimiero globėją bei
     patarėją.
-  citata_rodoma: |
-    Goštautų iniciatyva XV a. vi­
-    dury sukurtas Trumpojo sąvado perdirbinys, papildy­
-    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
-    no etmoną, Podolės Kameneco ir Vilniaus vaivadą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170333
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
+    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
+    Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m. XIV a.
+    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
+  citata_rodoma: "Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.) \nmiestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne \nKarijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a. \nantrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187292
+    - t-002
+    - t-004
+    - t-003
+
+- id: c-170334
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Goštautų iniciatyva XV a. vi­
+    dury sukurtas Trumpojo sąvado perdirbinys, papildy­
+    tas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­
+    no etmoną, Podolės Kameneco ir Vilniaus vaivadą.
+  citata_rodoma: "Goštautų iniciatyva XV a. vi­\ndury sukurtas Trumpojo sąvado perdirbinys, papildy­\ntas pasakojimais apie XIV a. Petrą Goštautą, Gedimi­\nno etmoną, Podolės Kameneco ir Vilniaus vaivadą."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

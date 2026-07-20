@@ -30,9 +30,8 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
 
 <a id="claim-t-191276"></a>
 - t-001
-  global_id: t-191276
   teiginys: "Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,10 +47,9 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174158
-    - c-001
+
 <a id="claim-t-197736"></a>
 - t-002
-  global_id: t-197736
   teiginys: "Hamilkaras pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -62,24 +60,6 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   pagrindžia:
     - c-179317
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Antras keliautojas, kurio pavardė
-    Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­
-    suko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio
-    vakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono
-    ir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai
-    turtingas švino ir alavo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191276
 ## Citatos
 
 - id: c-174158
@@ -87,28 +67,21 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Išstūmus iš žemyno pakrančių senovės
-    lygus, šiuos kraštus užėmė užkariautojai keltai. Plaukioti
-    šiuo sąsiauriu buvo nelengva, jūra buvo sekli, pakrantės
-    prižėlusios meldų, pilna jūros pabaisų, oras šaltas, ūka­
-    notas, diena nedaug šviesesnė už naktį. O dar šiauriau
-    buvo gintaringos salos, ten tikrai turėjo būti žiotys Aldes-
-    ko, arba Tanajo šiaurinės šakos, arba to paties Eridano,
-    garsėjusio pasakiškumu, ¡bet lig tol dar neištirto krašto1.
-  citata_rodoma: |
     Antras keliautojas, kurio pavardė
     Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­
     suko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio
     vakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono
     ir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai
     turtingas švino ir alavo.
+  citata_rodoma: "Antras keliautojas, kurio pavardė\nHamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­\nsuko šv. Vincento kyšulį, apiplaukė Estremidų sąsiaurio\nvakarinę pakrantę ir jos šiaurinėje pusėje atrado Albiono\nir šv. Jernos salas, arba Britaniją ir Airiją, neapsakomai\nturtingas švino ir alavo."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191276
+    - t-001
+
 - id: c-179317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -125,4 +98,4 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197736
+    - t-002

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87260"></a>
 - t-001
-  global_id: t-87260
   teiginys: "Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87260
+    - t-001

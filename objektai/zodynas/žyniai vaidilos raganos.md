@@ -31,24 +31,15 @@ media_all_json: |-
 
 <a id="claim-t-22357"></a>
 - t-001
-  global_id: t-22357
   teiginys: "Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žyniai vaidilos raganos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žyniai vaidilos raganos\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-25047
+    - c-166881
 
 <a id="claim-t-183487"></a>
 - t-002
-  global_id: t-183487
   teiginys: "„Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,15 +69,13 @@ media_all_json: |-
     pilna Laumės ar Laimės vardų. Šias „pirmines“ šventvietes turėjo sergėti
     žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
     ganos („regėti“).
-  citata_rodoma: |
-    žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-
+  citata_rodoma: "žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar ra-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-22357
 - id: c-166881
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -106,4 +95,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183487
+    - t-001
+    - t-002

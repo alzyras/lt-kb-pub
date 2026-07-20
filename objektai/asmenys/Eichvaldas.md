@@ -31,7 +31,6 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
 
 <a id="claim-t-191390"></a>
 - t-001
-  global_id: t-191390
   teiginys: "Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191390
+    - t-001

@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-113963"></a>
 - t-001
-  global_id: t-113963
   teiginys: "Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-113964"></a>
 - t-002
-  global_id: t-113964
   teiginys: "Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,7 +131,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113963
+    - t-001
+
 - id: c-105140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,25 +158,14 @@ media_all_json: |-
     Maskvos didžiojo kunigaikščio ir
     Tverės kunigaikščio atvykimą į Lie­
     tuvą rugpjūčio 8-ą.
-  citata_rodoma: |
-    84
-    Kryžiuočių Slaptajame
-    Archyve, Karaliaučiuje, yra Vy­
-    tauto laiškų, rašytų magistrui Rus-
-    dorfui (pasak Karamzino, V, p. 145)
-    derybų dėl Lietuvos karūnos Vytau­
-    tui dingstimi, kur viename iš jų, da­
-    tuotame 1430 m. rugpjūčio mėn.,
-    didžiajam magistrui praneša apie
-    Maskvos didžiojo kunigaikščio ir
-    Tverės kunigaikščio atvykimą į Lie­
-    tuvą rugpjūčio 8-ą.
+  citata_rodoma: "84\nKryžiuočių Slaptajame \nArchyve, Karaliaučiuje, yra Vy­\ntauto laiškų, rašytų magistrui Rus- \ndorfui (pasak Karamzino, V, p. 145) \nderybų dėl Lietuvos karūnos Vytau­\ntui dingstimi, kur viename iš jų, da­\ntuotame 1430 m. rugpjūčio mėn., \ndidžiajam magistrui praneša apie \nMaskvos didžiojo kunigaikščio ir \nTverės kunigaikščio atvykimą į Lie­\ntuvą rugpjūčio 8-ą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113964
+    - t-002
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vladislovas Varnietis]]

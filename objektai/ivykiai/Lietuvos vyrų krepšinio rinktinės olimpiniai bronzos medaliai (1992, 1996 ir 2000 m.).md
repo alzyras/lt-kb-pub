@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-75211"></a>
 - t-001
-  global_id: t-75211
   teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -84,15 +83,11 @@ Nenurodyta
     vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
     šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
     nėse iškovojo bronzos medalius.
-  citata_rodoma: |
-    Barselonos olimpinėse žaidynėse iško-
-    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
-    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
-    nėse iškovojo bronzos medalius.
+  citata_rodoma: "Barselonos olimpinėse žaidynėse iško-\nvojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-\nšininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-\nnėse iškovojo bronzos medalius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75211
+    - t-001

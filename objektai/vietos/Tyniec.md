@@ -31,7 +31,6 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
 
 <a id="claim-t-32617"></a>
 - t-001
-  global_id: t-32617
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
     jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: |
-    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
-    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
-    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
+  citata_rodoma: "Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­\njęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio\nvaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas\njuos iš Maž. Lenkijos (Tynieco)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32617
+    - t-001

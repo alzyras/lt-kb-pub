@@ -31,7 +31,6 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
 
 <a id="claim-t-41461"></a>
 - t-001
-  global_id: t-41461
   teiginys: "Zikaras pasididžiavimą praeitimi, siejamą su darbu ir tinkamomis priemonėmis, vertina kaip lietuvių stiprybę ir privalumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,18 +64,11 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
     eiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su
     sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-
     prybė ir privalumas.
-  citata_rodoma: |
-    Taip jau atsitiko, kad Lietuvos ilga praeitis gerokai lenkia šian-
-    dieninį valstybės dydį ir svarbą Europos ir pasaulio mastu, todėl
-    šiandieniams lietuviams reikia dar daug nuveikti, norint savo
-    darbais prilygti protėviams, o Lietuvos kariuomenei dar teks nu-
-    eiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su
-    sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-
-    prybė ir privalumas.
+  citata_rodoma: "Taip jau atsitiko, kad Lietuvos ilga praeitis gerokai lenkia šian-\ndieninį valstybės dydį ir svarbą Europos ir pasaulio mastu, todėl\nšiandieniams lietuviams reikia dar daug nuveikti, norint savo\ndarbais prilygti protėviams, o Lietuvos kariuomenei dar teks nu-\neiti tolimą kelią. Vis dėlto pasididžiavimas praeitimi, susietas su\nsunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų sti-\nprybė ir privalumas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41461
+    - t-001

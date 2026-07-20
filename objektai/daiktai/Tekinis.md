@@ -47,20 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195351"></a>
-- t-001
-  global_id: t-195351
-  teiginys: "Prie pavažos pritvirtintas ratas, verčiantis įtaisą svyruoti ir suktis."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177759
-    - c-177758
-- susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -77,17 +63,13 @@ Nenurodyta
     Traukiant pavažą už
     virvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę,
     turi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant.
-  citata_rodoma: |
-    Traukiant pavažą už
-    virvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę,
-    turi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant.
+  citata_rodoma: "Traukiant pavažą už \nvirvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę, \nturi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195351
 - id: c-177759
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -97,14 +79,13 @@ Nenurodyta
     Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis.
     Tekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia
     žemę. Taip visas sustatymas palieka pasviręs.
-  citata_rodoma: |
-    Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis.
-    Tekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia
-    žemę. Taip visas sustatymas palieka pasviręs.
+  citata_rodoma: "Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis. \nTekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia \nžemę. Taip visas sustatymas palieka pasviręs."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195351
+## Teiginiai
+
+- susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.

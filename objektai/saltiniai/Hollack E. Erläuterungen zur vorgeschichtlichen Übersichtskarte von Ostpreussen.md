@@ -40,7 +40,6 @@ Dusburgietis teigia, kad hollack E.
 
 <a id="claim-t-61081"></a>
 - t-001
-  global_id: t-61081
   teiginys: "E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ Dusburgietis teigia, kad hollack E.
     Glogau—Berlin, 1908.
     [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
     ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
-  citata_rodoma: |
-    Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—
-    Glogau—Berlin, 1908.
+  citata_rodoma: "Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—\nGlogau—Berlin, 1908."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61081
+    - t-001

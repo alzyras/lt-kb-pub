@@ -31,7 +31,6 @@ Balzeris.
 
 <a id="claim-t-30875"></a>
 - t-001
-  global_id: t-30875
   teiginys: "O. Balzeris buvo teisės istorikas ir svarbių šaltinių, tarp jų „Corpus iuris polonici“, leidėjas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Balzeris.
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
     teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
     ir kt.) leidėjas O. Balzeris.
-  citata_rodoma: |
-    Juos tyrinėjo
-    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
-    ir kt.) leidėjas O. Balzeris.
+  citata_rodoma: "Juos tyrinėjo\nteisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici\nir kt.) leidėjas O. Balzeris."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30875
+    - t-001

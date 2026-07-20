@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186688"></a>
-- t-002
-  global_id: t-186688
+- t-004
   teiginys: "Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-169928
 
 <a id="claim-t-186690"></a>
-- t-004
-  global_id: t-186690
+- t-003
   teiginys: "Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -97,24 +95,6 @@ Nenurodyta
   pagrindžia:
     - c-169928
 
-<a id="claim-t-186687"></a>
-- t-001
-  global_id: t-186687
-  teiginys: 'Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata tiesiogiai remia Mozyriaus įtakos bei prijungimo chronologiją. Vertinamoji formuluotė neišplečiama.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Kijevas; llm_object: Lietuva'
-  pagrindžia:
-    - c-001
-<a id="claim-t-186689"></a>
-- t-003
-  global_id: t-186689
-  teiginys: 'Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Mozyriaus prijungimo datavimo problemą. Nieko nepridėta už citatoje esančio nežinomumo.'
-  susije_objektai: 'mentioned_place: Mozyrius; mentioned_place: Kijevas; mentioned_place: Lietuva'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -128,12 +108,11 @@ Nenurodyta
     “ Okunlovkos upėvardis yra išnykęs.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186687
-    - t-186689
+  statusas: verified
+- t-001
+
 ## Citatos
 
 - id: c-169928
@@ -146,15 +125,12 @@ Nenurodyta
     ' Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
     Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
     paremtas kokiu nors vretos padavimu.
-  citata_rodoma: |
-    '  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
-    Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
-    paremtas kokiu nors vretos padavimu.
+  citata_rodoma: "'  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano \nKurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti \nparemtas kokiu nors vretos padavimu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186688
-    - t-186690
+    - t-004
+    - t-003

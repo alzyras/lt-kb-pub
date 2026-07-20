@@ -6,13 +6,13 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+amziai:
+  - 'M'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dvasininkas
   - autorius
-amziai:
-  - 'M'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -37,9 +37,8 @@ media_all_json: |-
 
 <a id="claim-t-194843"></a>
 - t-001
-  global_id: t-194843
   teiginys: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,12 +48,10 @@ media_all_json: |-
   pagrindžia:
     - c-177239
 - susijęs iš Historia De Gentibus Septentrionalis, Auctore Olao Magno, Gotho, Archiepiscopo Upsalensi, Suetiae et Gothiae Primate: Olauso Magnuso veikalas „Historia De Gentibus Septentrionalis“ bibliografijoje nurodomas kaip 1555 m. Plantino leidinys Antverpene.
-## Citatos
-
-- id: c-177239
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     - Lubecae, 1760.
     Pirmajame LTI leidime T. Narbutas Jono Lasickio
@@ -63,15 +60,28 @@ media_all_json: |-
     lis, Siričius, Dvargantis, Klamals ir Prigirditis. Reng­
     damas antrąjį leidimą, autorius nutarė jį spausdin­
     ti abėcėlės tvarka (PE.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-177239
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
     P. 183*- Turima omenyje Olafo Monsono (1490-1558)
     „Šiaurės tautų istorija“ (Olaus Magnus. Gentium
     septentrionalium historiae. -  1652 // [Narbutt T]
     Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
+  citata_rodoma: "P. 183*- Turima omenyje Olafo Monsono (1490-1558)\n„Šiaurės tautų istorija“ (Olaus Magnus. Gentium\nseptentrionalium historiae. -  1652 // [Narbutt T]\nSpisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194843
+    - t-001

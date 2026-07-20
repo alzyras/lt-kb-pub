@@ -36,7 +36,6 @@ Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama
 
 <a id="claim-t-200433"></a>
 - t-001
-  global_id: t-200433
   teiginys: "Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama kaip pagrindinis šaltinis jo mintims ir siekiams pažinti."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -94,19 +93,8 @@ Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 2"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 2."
-  citata_originali: |
-    Apie vėlesnę minėtojo dvasininko pastoracinę bei ūkinę-ekonominę veiklą yra ži-
-    noma daugiau, apie tai rašyta, tačiau domintų ir ankstyvesnis šio dvasininko gyvenimo
-    etapas – tarnystės Vilniuje kapituloje metai. Tai buvo laikotarpis, nulėmęs tolimesnę
-    šios asmenybės karjerą. Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia
-    gausi jo asmeninė korespondencija.
-  citata_rodoma: |
-    Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia
-    gausi jo asmeninė korespondencija.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200433
+    - t-001

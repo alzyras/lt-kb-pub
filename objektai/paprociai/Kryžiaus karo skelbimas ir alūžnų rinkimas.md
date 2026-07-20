@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201384"></a>
 - t-001
-  global_id: t-201384
   teiginys: "Kaipogi tą metą sausy mėnesy liepė skelbti kunigams kryžiaus karę ant lietuvių ir žemaičių, įsakė vyskupams, jog, su ėjus meldžionims į Parusnį, kitas niekas jų nerėdy tų ir į kares nevestų, kaip patsai mistras ir kamendotai kryžėjų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184734
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip įdavęs popiežius kraugeriams gyvybą ir
     turtą lietuvių ir žemaičių Parusny neliovės dar di­
@@ -84,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201384
+    - t-001

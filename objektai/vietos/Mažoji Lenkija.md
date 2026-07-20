@@ -40,7 +40,6 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 
 <a id="claim-t-73261"></a>
 - t-001
-  global_id: t-73261
   teiginys: "Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73261
+    - t-001

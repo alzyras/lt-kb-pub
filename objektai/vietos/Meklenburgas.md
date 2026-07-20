@@ -31,7 +31,6 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
 
 <a id="claim-t-192824"></a>
 - t-001
-  global_id: t-192824
   teiginys: "Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų būti kaimiečių, mokančių herulų kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
 
 <a id="claim-t-197898"></a>
 - t-002
-  global_id: t-197898
   teiginys: "To je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių, mokančių herulų kalbą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,5 +83,5 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192824
-    - t-197898
+    - t-001
+    - t-002

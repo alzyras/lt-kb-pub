@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93001"></a>
-- t-001
-  global_id: t-93001
+- t-009
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-14342
 
 <a id="claim-t-93002"></a>
-- t-002
-  global_id: t-93002
+- t-006
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną vežimą maisto šešioms savaitėms."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-14342
 
 <a id="claim-t-93003"></a>
-- t-003
-  global_id: t-93003
+- t-008
   teiginys: "Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -188,7 +185,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93003
+    - t-008
+
 - id: c-14342
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -199,15 +197,12 @@ Nenurodyta
     ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
     riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
     po vieną vežimą maisto šešioms savaitėms.
-  citata_rodoma: |
-    Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
-    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
-    po vieną vežimą maisto šešioms savaitėms.
+  citata_rodoma: "Jogaila nuvyko Krokuvon ir įsakė šaukti ka­\nriuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir\npo vieną vežimą maisto šešioms savaitėms."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93001
-    - t-93002
+    - t-009
+    - t-006

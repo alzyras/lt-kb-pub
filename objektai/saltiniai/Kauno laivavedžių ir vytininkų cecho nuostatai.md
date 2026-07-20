@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-202240"></a>
 - t-001
-  global_id: t-202240
   teiginys: "Į broliją susibūrę laivavedžiai prašė magistrato parengti jų cecho nuostatus, reikalingus ne tik jiems, bet ir pirkliams, kurių prekės gabenamos kauniečių laivais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-202241"></a>
 - t-002
-  global_id: t-202241
   teiginys: "Juose aptariama cecho vidaus tvarka, ypač 3 metinių susirinkimų metu, daug dėmesio skiriama sielovadiniams reikalams, reglamentuojama pagalbos į bėdą pakliuvusiems cecho nariams teikimo tvarka."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202240
+    - t-001
 
 - id: c-185588
   autorius: "Zigmantas Kiaupa"
@@ -93,4 +91,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202241
+    - t-002

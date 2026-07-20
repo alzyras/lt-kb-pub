@@ -31,7 +31,6 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
 
 <a id="claim-t-193300"></a>
 - t-001
-  global_id: t-193300
   teiginys: "Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193300
+    - t-001

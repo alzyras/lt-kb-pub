@@ -7,15 +7,15 @@ datos:
   - '1936 m.'
 date_start: '1936'
 date_end: ''
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Dusburgietis teigia, kad mannhardt M.
 
 <a id="claim-t-62644"></a>
 - t-001
-  global_id: t-62644
   teiginys: "M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -50,21 +49,7 @@ Dusburgietis teigia, kad mannhardt M.
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus darbą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-63371
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
-      Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62644
+
 ## Citatos
 
 - id: c-63371
@@ -72,30 +57,13 @@ Dusburgietis teigia, kad mannhardt M.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    iš Gilberštetės, Saksas
-
-    iš Hibelino
-
-    iš Liuksemburgo
-
-    iš Magdeburgo
-
-    iš Španheimo
-
-    iš Vienos
-
-    kancleris
-
-    (D.— Jonis, Jer.— Jon), Sarginio s.
-
-    Krikštytojas, šv.
-  citata_rodoma: |
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
       Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.
+  citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.\n  Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62644
+    - t-001

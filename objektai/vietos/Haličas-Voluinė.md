@@ -31,7 +31,6 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
 
 <a id="claim-t-193802"></a>
 - t-001
-  global_id: t-193802
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193802
+    - t-001

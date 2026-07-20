@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88002"></a>
-- t-001
-  global_id: t-88002
+- t-003
   teiginys: "Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ media_all_json: |-
 
 <a id="claim-t-88003"></a>
 - t-002
-  global_id: t-88003
   teiginys: "Dr. Napierskis patvirtino nuorašo perrašymo teisingumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ media_all_json: |-
     - c-83981
 
 <a id="claim-t-88004"></a>
-- t-003
-  global_id: t-88004
+- t-001
   teiginys: "Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,28 +104,16 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA / TOMAS
     II
-    (Plg.
-  citata_rodoma: |
-    Dinaburgo komtūras
-    (parašas)
-    Originalą atitinka:
-    Dr. Hennigas
-    Karai. Slapt. Arch. Direktorius
-    Už nuorašo perrašymo teisingumą [atsako]
-    Dr. Napierskis
-
-    ## Puslapis 184
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    II
-    (Plg.
+    (Plg. InJ. cod. hist. di pl.
+  citata_rodoma: "Dinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr. Hennigas\nKarai. Slapt. Arch. Direktorius \nUž nuorašo perrašymo teisingumą [atsako]\nDr. Napierskis\n\n## Puslapis 184\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nII\n(Plg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88003
+    - t-002
+
 - id: c-83982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,35 +138,16 @@ media_all_json: |-
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
     kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
     kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
-    nausiąs ir 1.
-  citata_rodoma: |
-    161
-
-    ## Puslapis 178
-
-    VILNIAUS
-    MIESTO
-    ISTORIJA
-    II
-    KNYGOS
-    PRIEDAI
-    I
-    šio dokumento ir kito, po jo, nuorašą gavome iš daktaro Napierskio,
-    labai veHingos nuorodos Livonijos dokumentų rinkinyje autoriaus.
-    (Plg. Ind. cod. kist. dipt. Livoniae)
-    TI, p. 132, N 518.
-    Dinaburgo komtūras praneša Livonijos magistrui, kad
-    Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
-    kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
-    kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
-    nausiąs ir 1.
+    nausiąs ir 1.1.
+  citata_rodoma: "161\n\n## Puslapis 178\n\nVILNIAUS\nMIESTO\nISTORIJA\nII\nKNYGOS\nPRIEDAI\nI\nšio dokumento ir kito, po jo, nuorašą gavome iš daktaro Napierskio, \nlabai veHingos nuorodos Livonijos dokumentų rinkinyje autoriaus. \n(Plg. Ind. cod. kist. dipt. Livoniae)\nTI, p. 132, N 518.\nDinaburgo komtūras praneša Livonijos magistrui, kad \nŠvitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; \nkad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos \nkunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­\nnausiąs ir 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88004
+    - t-001
+
 - id: c-83983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,4 +166,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88002
+    - t-003

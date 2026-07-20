@@ -52,9 +52,8 @@ Nenurodyta
 
 <a id="claim-t-186839"></a>
 - t-001
-  global_id: t-186839
   teiginys: "Lietuvos metraštis pasakoja, kad Vilniuje septyni pranciškonai buvo pririšti prie kryžių ir paleisti Nerimi žemyn."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
@@ -68,7 +67,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170022
-    - c-001
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
 - susijęs iš [[objektai/asmenys/Antonijus Bosija.md#claim-t-190129|Antonijus Bosija]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
@@ -422,8 +420,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186839
+
 ## Citatos
 
 - id: c-170022
@@ -431,28 +428,6 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Vyriausias—Jogaila Vladislovas18;
-    antras — Skirgaila19, trečias — Švitrigaila30,
-    ketvir­
-    tas— Kaributas21, penktas — Dimitrijus22, Koreco ku­
-    nigaikštis 23, šeštas — kunigaikštis Vasilijus 24.
-    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
-    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
-    nūs25. Pirmas — Vytautas26, o kai krikštijosi pravos­
-    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
-    kų tikėjimo krikštą, jam davė Aleksandro vardą27.
-    Antras — jo brolis kunigaikštis Andrius Kuprys28, ku­
-    ris kunigaikščiavo Polocke; trečias — 2ygimantas 29,
-    ketvirtas — Patrikas 30, penktas — Tautvilą 3I, šeštas —
-    Vaidotas32; jie visi trys mirė, jauni būdami, negavę
-    dalių 33.
-    Labiausiai 34 iš visų savo sūnų didysis kunigaikštis
-    Algirdas mylėjo savo sūnų Jogailą, o didysis kunigaikš­
-    tis Kęstutis — savo sūnų Vytautą, ir, dar gyvi būdami,
-    nutarė, kad anuodu bus jų įpėdiniais didžiųjų kuni-
-    Lietuvi
-    (M itu
-  citata_rodoma: |
     Tuo melu kai didysis kunigaikštis Algirdas žy­
     giavo prieš Maskvą, o su juo buvo jo vaivada Petras
     Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
@@ -463,12 +438,14 @@ Nenurodyta
     kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
     kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
     kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  citata_rodoma: "Tuo melu kai didysis kunigaikštis Algirdas žy­\ngiavo prieš Maskvą, o su juo buvo jo vaivada Petras \nGoštautas, susirinko Vilniaus miesliečiai pagonys ir di­\ndeliu būriu atėjo prie vienuolyno; nenorėdami, kad \nbūtų Romos tikėjimo krikščionių, vienuolyną sudegino \nir septynis vienuolius sukapojo, o kitus septynis vie­\nnuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­\nkydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­\nkite. Kam mūsų dievus naikinote.\" 2 O vyskupo sode, \nkur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186839
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Pranciškonų ordinas]]

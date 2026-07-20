@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-193478"></a>
 - t-001
-  global_id: t-193478
   teiginys: "Po Kazimiero mirties lietuviai rengė naują karą, tikėdamiesi atgauti Volynę, kurią Kazimieras buvo atėmęs iš Liubarto."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -96,4 +95,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193478
+    - t-001

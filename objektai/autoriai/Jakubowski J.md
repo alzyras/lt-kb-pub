@@ -39,7 +39,6 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
 
 <a id="claim-t-60716"></a>
 - t-001
-  global_id: t-60716
   teiginys: "J. Jakubowskis Długoszo tradiciją siejo su žinia apie Petrą Dusburgietį per tarpininką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60716
+    - t-001

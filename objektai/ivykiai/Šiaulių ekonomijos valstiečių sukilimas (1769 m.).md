@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01890"></a>
-- t-001
-  global_id: t-01890
+- t-002
   teiginys: "Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-02129
 
 <a id="claim-t-01891"></a>
-- t-002
-  global_id: t-01891
+- t-001
   teiginys: "1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01891
+    - t-001
+
 - id: c-02129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,15 +111,11 @@ Nenurodyta
     valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
     buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
     kariuomenė labai žiauriai numalšino jų sukilimą.
-  citata_rodoma: |
-    Tuo pat metu buvo sukilę Ukrainos
-    valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
-    buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
-    kariuomenė labai žiauriai numalšino jų sukilimą.
+  citata_rodoma: "Tuo pat metu buvo sukilę Ukrainos\nvalstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai\nbuvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi\nkariuomenė labai žiauriai numalšino jų sukilimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01890
+    - t-002

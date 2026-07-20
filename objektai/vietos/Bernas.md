@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-123781"></a>
-- t-001
-  global_id: t-123781
+- t-002
   teiginys: "Vilniaus konferencijai išrinkus Lietuvos Tarybą, 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-46449
 
 <a id="claim-t-123784"></a>
-- t-002
-  global_id: t-123784
+- t-001
   teiginys: "1917 m. lapkričio 2–10 d. Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto reikalą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,15 +114,12 @@ media_all_json: |-
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
     kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: |
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.
+  citata_rodoma: "Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne\nvėl buvo sušaukta naujoji konferencija (1917 m. lapkričio\n2 — 10 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-123781
-    - t-123784
+    - t-002
+    - t-001

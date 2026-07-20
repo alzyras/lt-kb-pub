@@ -62,8 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54314"></a>
-- t-001
-  global_id: t-54314
+- t-006
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-55187
 
 <a id="claim-t-54315"></a>
-- t-002
-  global_id: t-54315
+- t-001
   teiginys: "Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,6 @@ Nenurodyta
 
 <a id="claim-t-54316"></a>
 - t-003
-  global_id: t-54316
   teiginys: "„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,9 +114,9 @@ Nenurodyta
   pagrindžia:
     - c-55186
     - c-166718
+
 <a id="claim-t-54318"></a>
-- t-004
-  global_id: t-54318
+- t-002
   teiginys: "Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -138,7 +135,6 @@ Nenurodyta
 
 <a id="claim-t-54319"></a>
 - t-005
-  global_id: t-54319
   teiginys: "Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -156,8 +152,7 @@ Nenurodyta
     - c-55189
 
 <a id="claim-t-183327"></a>
-- t-006
-  global_id: t-183327
+- t-007
   teiginys: "1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -193,21 +188,15 @@ Nenurodyta
     kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
     lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
     poezija, originali ir verstinė, populiarūs mokslo straipsniai.
-  citata_rodoma: |
-    V. Kudirka
-    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
-    nys taps Lietuvos himnu. „Varpas“ laikėsi liberalios demokratijos pozicijų,
-    kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus,
-    kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
-    lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
-    poezija, originali ir verstinė, populiarūs mokslo straipsniai.
+  citata_rodoma: "V. Kudirka \nrašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-\nnys taps Lietuvos himnu. „Varpas“ laikėsi liberalios demokratijos pozicijų, \nkartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, \nkritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės \nlietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra, \npoezija, originali ir verstinė, populiarūs mokslo straipsniai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54316
+    - t-003
+
 - id: c-55187
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -222,23 +211,15 @@ Nenurodyta
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
-  citata_rodoma: |
-    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
-    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
-    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
-    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
-    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
-    jos ir geranoriškumo įsikūnijimas.
-    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
-    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
-    partija, susikūrusi 1896 m.
+  citata_rodoma: "Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-\nsi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, \nužėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo \n1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-\nnas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-\njos ir geranoriškumo įsikūnijimas. \nSavo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių \ntautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų \npartija, susikūrusi 1896 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54314
+    - t-006
+
 - id: c-55189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -258,29 +239,16 @@ Nenurodyta
     dvi kryptis: pasaulietinę – libera-
     liąją ir katalikiškąją – konservaty-
     viąją.
-  citata_rodoma: |
-    Ši idėja įplieskė lietuvybės
-    branduolinio užtaiso grumėjimą.
-    Nors po trejų metų „Aušra“ dėl
-    vidinių idėjinių nesutarimų ir fi-
-    nansinių sunkumų sustojo ėjusi,
-    lietuvių kaip savarankiškos tautos
-    ugdymo darbo tęsėjų gretas iš-
-    plėtė, jie ėmė rengti ir leisti nau-
-    jus periodinius leidinius lietuvių
-    kalba. 1889–1890 m. lietuviškasis
-    sąjūdis ir spauda diferencijavosi į
-    dvi kryptis: pasaulietinę – libera-
-    liąją ir katalikiškąją – konservaty-
-    viąją.
+  citata_rodoma: "Ši idėja įplieskė lietuvybės \nbranduolinio užtaiso grumėjimą. \nNors po trejų metų „Aušra“ dėl \nvidinių idėjinių nesutarimų ir fi-\nnansinių sunkumų sustojo ėjusi, \nlietuvių kaip savarankiškos tautos \nugdymo darbo tęsėjų gretas iš-\nplėtė, jie ėmė rengti ir leisti nau-\njus periodinius leidinius lietuvių \nkalba. 1889–1890 m. lietuviškasis \nsąjūdis ir spauda diferencijavosi į \ndvi kryptis: pasaulietinę – libera-\nliąją ir katalikiškąją – konservaty-\nviąją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54318
-    - t-54319
+    - t-002
+    - t-005
+
 - id: c-166717
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -302,8 +270,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54315
-    - t-183327
+    - t-001
+    - t-007
+
 - id: c-166718
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -320,3 +289,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -38,7 +38,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 <a id="claim-t-02975"></a>
 - t-001
-  global_id: t-02975
   teiginys: "Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta)."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 <a id="claim-t-02976"></a>
 - t-002
-  global_id: t-02976
   teiginys: "Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 <a id="claim-t-182941"></a>
 - t-003
-  global_id: t-182941
   teiginys: "Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta)."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -105,17 +102,15 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
-  citata_rodoma: |
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
-    nebe puolančioji, bet puolamoji.
+  citata_rodoma: "Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo\njokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo\nnebe puolančioji, bet puolamoji."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02976
+    - t-002
+
 - id: c-03214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -126,16 +121,15 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: |
-    Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
+  citata_rodoma: "Maskvoje tuomet prasidėjo per-\nversmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02975
+    - t-001
+
 - id: c-166341
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -153,4 +147,4 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182941
+    - t-003

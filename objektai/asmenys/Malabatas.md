@@ -31,7 +31,6 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
 
 <a id="claim-t-191292"></a>
 - t-001
-  global_id: t-191292
   teiginys: "Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mitologiniu dievo Alabačio vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
 
 <a id="claim-t-191293"></a>
 - t-002
-  global_id: t-191293
   teiginys: "Pasak Teodoro Narbuto, Malabatas tapo imperijos piliečiu ir netrukus iš imperatoriaus gavo Romos konsulo titulą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191292
+    - t-001
+
 - id: c-174175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -113,4 +112,4 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191293
+    - t-002

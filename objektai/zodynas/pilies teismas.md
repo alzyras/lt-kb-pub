@@ -31,7 +31,6 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 
 <a id="claim-t-03118"></a>
 - t-001
-  global_id: t-03118
   teiginys: "Pilies teismui buvo pavesta spręsti baudžiamąsias bylas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
     daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: |
-    Pagaliau baudžiamosios (kriminalinės) bylos
-    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
-    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+  citata_rodoma: "Pagaliau baudžiamosios (kriminalinės) bylos\nbuvo pavestos spręsti trečiam, vadinamajam pilies teismui.\nPilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03118
+    - t-001

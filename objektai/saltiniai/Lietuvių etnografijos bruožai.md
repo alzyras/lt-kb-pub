@@ -30,7 +30,6 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
 
 <a id="claim-t-61133"></a>
 - t-001
-  global_id: t-61133
   teiginys: "Lietuvių etnografijos bruožuose krivūlė siejama su krivio valdžios ženklu ir lazda žmonėms į kuopą šaukti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61133
+    - t-001

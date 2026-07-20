@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-75508"></a>
 - t-001
-  global_id: t-75508
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų vadovybės laišką popiežiui Pijui XII."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-75509"></a>
 - t-002
-  global_id: t-75509
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis nugabeno partizanų vadovybės laišką popiežiui Pijui XII į laisvąjį pasaulį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,19 +93,12 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
+  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras\nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios\ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką\npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips\ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad\nSSRS nutrauktų terorą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75508
-    - t-75509
+    - t-001
+    - t-002

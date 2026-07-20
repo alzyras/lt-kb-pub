@@ -31,9 +31,8 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
 
 <a id="claim-t-190155"></a>
 - t-001
-  global_id: t-190155
   teiginys: "Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,26 +49,7 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173038
-    - c-001
 - susijęs iš [[objektai/zodynas/Froblosk.md#claim-t-189293|Froblosk]]: Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
-    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
-    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
-    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
-    novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
-    riui, Balderis pakeitė ją žmonių auka (Eddy).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190155
 ## Citatos
 
 - id: c-173038
@@ -77,29 +57,20 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Poklius viešai pasi­
-    rodydavo namuose; tai būdavo tikra dievų rūstybės, būsimų
-    namų bei gyventojų vargų ir nelaimių pranašystė. Dievui apsi­
-    reiškus antrą kartą, reikėdavo atnašauti dvigubą išperkamąją
-    auką. Jeigu to neužtekdavo, Poklius siaubingiausiu būdu pa­
-    sirodydavo trečią kartą. Tuomet kildavo neapsakomas išgąs­
-    tis, nepaprasta baimė dėl greito rūstaus dievų keršto apimda­
-    vo šeimininką, namiškius ir kaimynus. Reikėdavo jam tuoj pat
-    užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
-    mą, arba pas patį Krivių Krivaitį.
-  citata_rodoma: |
     Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
     pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
     ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
     daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
     novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
     riui, Balderis pakeitė ją žmonių auka (Eddy).
+  citata_rodoma: "Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­\npu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­\nralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs\ndaug laivų, maldavo jo malonės juodosiomis aukomis, ką se­\nnovės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-\nriui, Balderis pakeitė ją žmonių auka (Eddy)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190155
+    - t-001
+
 ## Ryšiai
 - Hadingas buvo valdovas [[objektai/vietos/Danija]]

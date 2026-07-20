@@ -33,7 +33,6 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 
 <a id="claim-t-86147"></a>
 - t-001
-  global_id: t-86147
   teiginys: "Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir sudegino miestą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,23 +70,15 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
     C
     Taigi J e r o s c h i n, c.
-  citata_rodoma: |
-    Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
-    papročiu nesiliovė ir tais metais. Energingas Garteno (Gar­
-    dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
-    jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­
-    ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė
-    miestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug
-    kaimyninių naujakrikščiams priklausiusių sodybų6, didelių
-    C
-    Taigi J e r o s c h i n, c.
+  citata_rodoma: "Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu \npapročiu nesiliovė ir tais metais. Energingas Garteno (Gar­\ndino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, \njas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­\nką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė \nmiestą, nužudė apie 70 žmonių, sudegino visą miestą ir daug \nkaimyninių naujakrikščiams priklausiusių sodybų6, didelių\nC\nTaigi J e r o s c h i n, c."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86147
+    - t-001
+
 ## Ryšiai
 - Puolė Klaipėda Memelį: [[objektai/grupes/Žemaičiai]]
 - Užėmė Klaipėda Memelį: [[objektai/grupes/Žemaičiai]]

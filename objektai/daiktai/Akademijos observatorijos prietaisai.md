@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-55026"></a>
 - t-001
-  global_id: t-55026
   teiginys: "1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::items"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-81838"></a>
 - t-002
-  global_id: t-81838
   teiginys: "Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -123,7 +121,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55026
+    - t-001
+
 - id: c-78385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -140,21 +139,11 @@ Nenurodyta
     viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
     100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
-  citata_rodoma: |
-    Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
-    ritatis [labdaringi pietūs] ir duonos kepalas.
-    Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­
-    telioniene 1766 metais Akademijos observatorijos įkūrimui,
-    prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­
-    donųjų auksinų.
-    Akademijos keturkampės aikštės klasių vieną eilę tėvas
-    Riokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir
-    viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
-    100 000 auks.
+  citata_rodoma: "Iš Joniškio - neturtingiems studentams kasdien Olia Cha- \nritatis [labdaringi pietūs] ir duonos kepalas.\nJos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­\ntelioniene 1766 metais Akademijos observatorijos įkūrimui, \nprietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­\ndonųjų auksinų.\nAkademijos keturkampės aikštės klasių vieną eilę tėvas \nRiokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir \nviešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie \n100 000 auks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81838
+    - t-002

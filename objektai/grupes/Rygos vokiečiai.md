@@ -31,7 +31,6 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 
 <a id="claim-t-31351"></a>
 - t-001
-  global_id: t-31351
   teiginys: "Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,14 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
     ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
     nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
-  citata_rodoma: |
-    Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes
-    ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
-    nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
-    būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
+  citata_rodoma: "Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes\nir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais\nnebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog\nbūtinai jam reikia krikštytis^87 , magistras su juo padarė taiką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31351
+    - t-001
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Tautvilas]]

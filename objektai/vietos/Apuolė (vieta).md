@@ -39,7 +39,6 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
 
 <a id="claim-t-201130"></a>
 - t-001
-  global_id: t-201130
   teiginys: "Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kraštą, kaip viršiaus minavojau, pasakoja, jog žuvėdai užėmę per kelias my lias nuo pajūrio Žemaičiuose pilį, Apuole vadina mą, liepė jos ūkinykams mokėti pusę svaro sidabro nuo kiekvienos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
 ## Citatos
 
 - id: c-184480
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jei perskleisim dar svetimus raštus, apie žemai­
     čių žemę pasakojančius, tą patį tenai rasim, kaipo-
@@ -78,4 +78,4 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201130
+    - t-001

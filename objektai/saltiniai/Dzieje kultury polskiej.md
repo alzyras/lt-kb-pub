@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31670"></a>
 - t-001
-  global_id: t-31670
   teiginys: "A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ media_all_json: |-
     Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: |
-    — Brückner, A. : _Dzieje
-    kultury polskiej_ , I, Kraków 1931. — Būtėnas, P.
+  citata_rodoma: "— Brückner, A. : _Dzieje\nkultury polskiej_ , I, Kraków 1931. — Būtėnas, P."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31670
+    - t-001

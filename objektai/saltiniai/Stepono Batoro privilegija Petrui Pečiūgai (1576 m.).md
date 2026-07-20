@@ -11,10 +11,10 @@ datos:
   - '1576 m.'
 date_start: '1576'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Cituotose privilegijose ir dar kitoje 1576 m. Stepono Batoro privilegijoje, kuri
 
 <a id="claim-t-202296"></a>
 - t-001
-  global_id: t-202296
   teiginys: "Cituotose privilegijose ir dar kitoje 1576 m. Stepono Batoro privilegijoje, kuria Kauno vaito pareigos suteikiamos Petrui Pečiūgai, nuolat nurodoma, kad vaitas turi teisti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Cituotose privilegijose ir dar kitoje 1576 m. Stepono Batoro privilegijoje, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202296
+    - t-001

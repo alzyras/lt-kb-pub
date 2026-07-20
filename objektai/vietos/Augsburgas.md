@@ -33,20 +33,23 @@ media_all_json: |-
 
 Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.
 
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1938.
+    Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu-
+    ropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521
+    ir kl.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Teiginiai
 
-<a id="claim-t-187161"></a>
-- t-001
-  global_id: t-187161
-  teiginys: 'Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]'
-  temporaliniai_duomenys: 'įvykio data: 1518 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
-  pagrindžia:
-    - c-170258
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš 1559 m. Žygimanto Augusto raštas dėl Valerijono priešinimosi Augsburgo tikėjimui: 1559 m. Žygimanto Augusto raštas paliudijo Vilniaus vyskupo Valerijono priešinimąsi Augsburgo tikėjimui.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
@@ -54,22 +57,3 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
 - susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185538|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš Stepono Batoro laiškų Radviloms apie muitus ir mokesčius rinkinys: Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams.
-## Citatos
-
-- id: c-170258
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    1938.
-    Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu-
-    ropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521
-    ir kl.
-  citata_rodoma: "Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu- \nropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521 \nir kl."
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187161

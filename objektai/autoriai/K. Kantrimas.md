@@ -31,7 +31,6 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 
 <a id="claim-t-01076"></a>
 - t-001
-  global_id: t-01076
   teiginys: "K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01076
+    - t-001

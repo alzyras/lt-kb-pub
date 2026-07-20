@@ -36,7 +36,6 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
 
 <a id="claim-t-41547"></a>
 - t-001
-  global_id: t-41547
   teiginys: "V. Lesčiaus ir A. Anušausko „Kovų istorijos II knyga. XX amžius“ 2008 m. išleista Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
 
     p. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
     p. 218, 2. Ten pat.
-  citata_rodoma: |
-    KARAS PO KARO
-
-    p. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
+  citata_rodoma: "KARAS PO KARO\n\np. 218, 1. Lesčius V. Anušauskas A. Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41547
+    - t-001

@@ -31,7 +31,6 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 
 <a id="claim-t-39983"></a>
 - t-001
-  global_id: t-39983
   teiginys: "A. Stapulionis vadovavo Joniškėlio partizanų batalionui, turėjusiam paremti rinktinės puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
     Bolševikų pajėgas sudarė 14-asis
     ir 15-asis šaulių pėstininkų pulkai ir
     6-asis latvių komunistų pulkas.
-  citata_rodoma: |
-    Rinktinės
-    puolimą turėjo paremti A. Stapulionio
-    vadovaujamas Joniškėlio partizanų ba-
-    talionas, Šeduvos-Panevėžio
-    geležinkelio liniją dengė vo-
-    kiečių saksų batalionas.
-
-    Bolševikų pajėgas sudarė 14-asis
-    ir 15-asis šaulių pėstininkų pulkai ir
-    6-asis latvių komunistų pulkas.
+  citata_rodoma: "Rinktinės\npuolimą turėjo paremti A. Stapulionio\nvadovaujamas Joniškėlio partizanų ba-\ntalionas, Šeduvos-Panevėžio\ngeležinkelio liniją dengė vo-\nkiečių saksų batalionas.\n\nBolševikų pajėgas sudarė 14-asis\nir 15-asis šaulių pėstininkų pulkai ir\n6-asis latvių komunistų pulkas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39983
+    - t-001

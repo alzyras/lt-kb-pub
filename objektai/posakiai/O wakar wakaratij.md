@@ -31,7 +31,6 @@ Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pr
 
 <a id="claim-t-189555"></a>
 - t-001
-  global_id: t-189555
   teiginys: "Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pradžią Naujosios Prūsijos, arba Prūsų Lietuvos, tarme."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189555
+    - t-001

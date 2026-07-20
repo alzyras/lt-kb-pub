@@ -41,7 +41,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 
 <a id="claim-t-187760"></a>
 - t-002
-  global_id: t-187760
   teiginys: "Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 
 <a id="claim-t-193831"></a>
 - t-003
-  global_id: t-193831
   teiginys: "Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.)."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 
 <a id="claim-t-196779"></a>
 - t-004
-  global_id: t-196779
   teiginys: "Pasakojimas, kad Petras Goštautas atsikvietė į Vilnių pranciškonų, komentare laikomas veikiausiai XV a. antrojoje pusėje kilusia legenda."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -88,20 +85,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   pagrindžia:
     - c-176475
 
-<a id="claim-t-187758"></a>
-- t-001
-  global_id: t-187758
-  teiginys: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Goštautų giminę ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Veliuona'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie Goštautų giminę ir paremtas citata.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
@@ -118,11 +101,9 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
     1  Gedimino sūnų skaičius nurodytas teisingai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187758
+  statusas: not_found
 ## Citatos
 
 - id: c-170699
@@ -149,7 +130,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187760
+    - t-002
+
 - id: c-176475
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -170,5 +152,5 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193831
-    - t-196779
+    - t-003
+    - t-004

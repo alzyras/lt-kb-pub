@@ -38,8 +38,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 ## Teiginiai
 
 <a id="claim-t-75579"></a>
-- t-001
-  global_id: t-75579
+- t-003
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,25 +58,16 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-24963
 
 <a id="claim-t-75580"></a>
-- t-002
-  global_id: t-75580
+- t-001
   teiginys: "Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama)."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "rekrutų prievolė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rekrutų prievolė\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-73314
+    - c-166855
 
 <a id="claim-t-75581"></a>
-- t-003
-  global_id: t-75581
+- t-004
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +86,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     - c-24963
 
 <a id="claim-t-75582"></a>
-- t-004
-  global_id: t-75582
+- t-002
   teiginys: "1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +107,6 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 
 <a id="claim-t-183460"></a>
 - t-005
-  global_id: t-183460
   teiginys: "Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -150,19 +138,16 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
     mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
     dar nebuvo pasiruošta.
-  citata_rodoma: |
-    1863–1864 metų sukilimas
-    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
-    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
-    dar nebuvo pasiruošta.
+  citata_rodoma: "1863–1864 metų sukilimas \n1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-\nmas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam \ndar nebuvo pasiruošta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75579
-    - t-75581
+    - t-003
+    - t-004
+
 - id: c-73314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,15 +160,13 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     tautos formavimasis vyko ta pačia kryptimi.
     LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
     padėties iš esmės nepakeitė.
-  citata_rodoma: |
-    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
+  citata_rodoma: "LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-75580
 - id: c-73315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,15 +177,15 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
     prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
     skelbto rekrutų ėmimo.
-  citata_rodoma: |
-    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
+  citata_rodoma: "prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75582
+    - t-002
+
 - id: c-166855
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -222,4 +205,5 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183460
+    - t-001
+    - t-005

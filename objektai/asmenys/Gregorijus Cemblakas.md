@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-93283"></a>
 - t-001
-  global_id: t-93283
   teiginys: "Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-36308
 
 <a id="claim-t-93284"></a>
-- t-002
-  global_id: t-93284
+- t-003
   teiginys: "Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ media_all_json: |-
     - c-88681
 
 <a id="claim-t-93285"></a>
-- t-003
-  global_id: t-93285
+- t-002
   teiginys: "Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -111,7 +108,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93283
+    - t-001
+
 - id: c-36310
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -131,7 +129,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93285
+    - t-002
+
 - id: c-88681
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -152,6 +151,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93284
+    - t-003
+
 ## Ryšiai
 - Gregorijus Cemblakas keliavo į [[objektai/vietos/Vilnius]]

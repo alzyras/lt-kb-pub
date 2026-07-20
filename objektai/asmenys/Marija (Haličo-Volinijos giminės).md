@@ -39,8 +39,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 ## Teiginiai
 
 <a id="claim-t-97462"></a>
-- t-001
-  global_id: t-97462
+- t-002
   teiginys: "Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
     - c-91952
 
 <a id="claim-t-97463"></a>
-- t-002
-  global_id: t-97463
+- t-001
   teiginys: "Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97462
+    - t-002
+
 - id: c-91953
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,4 +112,4 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97463
+    - t-001

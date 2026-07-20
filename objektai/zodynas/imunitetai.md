@@ -38,7 +38,6 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
 
 <a id="claim-t-70157"></a>
 - t-001
-  global_id: t-70157
   teiginys: "Horodlės unijos aktu 1413 m. dvasinėms įstaigoms buvo patvirtintos anksčiau suteiktos laisvės, privilegijos ir imunitetai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70157
+    - t-001

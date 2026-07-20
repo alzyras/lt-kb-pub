@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31738"></a>
 - t-001
-  global_id: t-31738
   teiginys: "„Jaunutis, Gedimino sūnus“ nurodytas LE 9 tome, 355–356 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,13 +61,11 @@ media_all_json: |-
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: |
-    — (”) Jaunutis, Gedimino sūnus , LE, t. 9,
-    355-356 p. — Presnjakov, A.
+  citata_rodoma: "— (”) Jaunutis, Gedimino sūnus , LE, t. 9,\n355-356 p. — Presnjakov, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31738
+    - t-001

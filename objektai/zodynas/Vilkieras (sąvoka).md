@@ -12,10 +12,10 @@ datos:
   - '1635 m.'
 date_start: '1635'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
 
 <a id="claim-t-201759"></a>
 - t-001
-  global_id: t-201759
   teiginys: "Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėlesnės Kauno, Dancigo ir Hanzos kontoros Kaune ginčų medžiagos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
 
 <a id="claim-t-201760"></a>
 - t-002
-  global_id: t-201760
   teiginys: "1635 m. Vladislovas Vaza pažodžiui patvirtino savo pirmtako privilegiją ir papildomai skelbė, kad leidžia, kadangi mums buvo praneštas jų (Joniškio miestiečių - ZK) prašymas, geresnei miesto tvarkai Kauno miesto pavyzdžiu naudotis vilkieru arba plebiscitu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,7 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201759
+    - t-001
 
 - id: c-185107
   autorius: "Zigmantas Kiaupa"
@@ -100,4 +98,4 @@ Visas vilkiero tekstas neišliko, apie jo turinį galime spręsti iš kiek vėle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201760
+    - t-002

@@ -42,8 +42,7 @@ tags:
 ## Teiginiai
 
 <a id="claim-t-195215"></a>
-- t-001
-  global_id: t-195215
+- t-005
   teiginys: "Po gautos medžiagos skyriumi pateiktos Tautosakos komisijos perrašytos ir tvarkomos dainos."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -53,8 +52,7 @@ tags:
     - c-177583
 
 <a id="claim-t-195216"></a>
-- t-002
-  global_id: t-195216
+- t-001
   teiginys: "„Mūsų tautosaka“, t. 4, yra 1931 m. Kaune išleistas Tautosakos komisijos leidinys, redaguotas prof. V. Krėvės Mickevičiaus."
   atnaujinta: "2026-07-11 22:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -62,17 +60,6 @@ tags:
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177582
-
-<a id="claim-t-195217"></a>
-- t-003
-  global_id: t-195217
-  teiginys: "Tome paskelbtas A. Sabaliausko straipsnis „A. a. prof. A. R. Niemi“."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177581
 
 ## Citatos
 
@@ -103,15 +90,15 @@ tags:
   citata_rodoma: "A. Sabaliauskas\nA. a. prof. A. R. Niemi"
   statusas: verified
   atnaujinta: "2026-07-11 22:44"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195217
 - id: c-177582
+  autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
   puslapiai: "PDF 1"
-  indeksas: "Mūsų tautosaka, t.4 (1931), PDF 1."
+  indeksas: "A. Sabaliauskas, M. Katkus, Mūsų tautosaka, t.4 (1931), PDF 1."
   citata_originali: |
     MUSŲ
     TAUTOSAKA
@@ -128,7 +115,8 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195216
+    - t-001
+
 - id: c-177583
   šaltinis: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos"
   puslapiai: "p. 189 (PDF 187)"
@@ -143,4 +131,4 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195215
+    - t-005

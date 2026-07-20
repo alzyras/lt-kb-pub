@@ -39,7 +39,6 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 
 <a id="claim-t-60434"></a>
 - t-001
-  global_id: t-60434
   teiginys: "Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60434
+    - t-001
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

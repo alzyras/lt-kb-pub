@@ -48,9 +48,8 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 
 <a id="claim-t-195050"></a>
 - t-001
-  global_id: t-195050
   teiginys: "Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
@@ -66,8 +65,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - c-177412
 
 <a id="claim-t-195051"></a>
-- t-002
-  global_id: t-195051
+- t-003
   teiginys: "Tikslas pateisino prie mones."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - c-177412
 
 <a id="claim-t-195052"></a>
-- t-003
-  global_id: t-195052
+- t-002
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,20 +98,17 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
     vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
     mones.
-  citata_rodoma: |
-    Tėviškės atsivadavimo reikalas jį vertė
-    susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
-    vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
-    mones.
+  citata_rodoma: "Tėviškės atsivadavimo reikalas jį vertė\nsusidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­\nvo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­\nmones."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195050
-    - t-195051
-    - t-195052
+    - t-001
+    - t-003
+    - t-002
+
 - id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -124,13 +118,9 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     Tikslas pateisino prie­
     mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
     lauke, bet dažnai ir aplinkiniais keliais.
-  citata_rodoma: |
-    Tikslas pateisino prie­
-    mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
-    lauke, bet dažnai ir aplinkiniais keliais.
+  citata_rodoma: "Tikslas pateisino prie­\nmones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame\nlauke, bet dažnai ir aplinkiniais keliais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:

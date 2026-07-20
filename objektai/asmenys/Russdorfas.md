@@ -33,7 +33,6 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
 
 <a id="claim-t-35271"></a>
 - t-001
-  global_id: t-35271
   teiginys: "Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,19 +65,11 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
     susidėsianti iš Vytauto, Russdorfo ir Zigmanto ir apsimsianti
     pastarajam priklausomus kraštus: Čekiją ir Vengriją^1 ). Ši są­
     junga, be abejo, buvo steigiama prieš Lenkiją.
-  citata_rodoma: |
-    Taip pat neužmiršo jo papra­
-    šyt, kad popiežius uždraustų Vytauto karūnaciją, nes sužinota,
-    kad pagal Vienos mokslininkų nuomonę, karūnuoti gali ir Ro­
-    mos karalius, kad Niurnberge jau nusistatyta išsiųsti pasiun­
-    tinius su karūnomis ir kad ruošiami dokumentai sąjungai, kuri
-    susidėsianti iš Vytauto, Russdorfo ir Zigmanto ir apsimsianti
-    pastarajam priklausomus kraštus: Čekiją ir Vengriją^1 ). Ši są­
-    junga, be abejo, buvo steigiama prieš Lenkiją.
+  citata_rodoma: "Taip pat neužmiršo jo papra­\nšyt, kad popiežius uždraustų Vytauto karūnaciją, nes sužinota,\nkad pagal Vienos mokslininkų nuomonę, karūnuoti gali ir Ro­\nmos karalius, kad Niurnberge jau nusistatyta išsiųsti pasiun­\ntinius su karūnomis ir kad ruošiami dokumentai sąjungai, kuri\nsusidėsianti iš Vytauto, Russdorfo ir Zigmanto ir apsimsianti\npastarajam priklausomus kraštus: Čekiją ir Vengriją^1 ). Ši są­\njunga, be abejo, buvo steigiama prieš Lenkiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35271
+    - t-001

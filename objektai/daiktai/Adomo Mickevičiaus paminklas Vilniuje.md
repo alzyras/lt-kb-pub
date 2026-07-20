@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-101534"></a>
-- t-001
-  global_id: t-101534
+- t-005
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -75,6 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys pilnas ir aiškiai susieja mitingą su paminklo vieta."
   pagrindžia:
     - c-22216
+    - c-22217
 
 ## Citatos
 
@@ -89,18 +89,15 @@ Nenurodyta
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: |
-    LLL apie save ypač drą-
-    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
-    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
-    paminklo Vilniuje surengtas protesto mitingas.
+  citata_rodoma: "LLL apie save ypač drą-\nsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-\ntropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus\npaminklo Vilniuje surengtas protesto mitingas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101534
+    - t-005
+
 - id: c-22217
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,16 +111,11 @@ Nenurodyta
     disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
     ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
     savo nepriklausomybės.
-  citata_rodoma: |
-    LLL apie save ypač drą-
-    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
-    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
-    paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
-    disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
-    ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
-    savo nepriklausomybės.
+  citata_rodoma: "LLL apie save ypač drą-\nsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-\ntropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus \npaminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir \ndisidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-\nves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl \nsavo nepriklausomybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

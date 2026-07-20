@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185856"></a>
 - t-001
-  global_id: t-185856
   teiginys: "Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-169217
 
 <a id="claim-t-185858"></a>
-- t-002
-  global_id: t-185858
+- t-003
   teiginys: "Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Nenurodyta
     - c-169219
 
 <a id="claim-t-196323"></a>
-- t-003
-  global_id: t-196323
+- t-004
   teiginys: "Šventaragis paprašė Germantą po jo mirties skirti pasirinktą lygumą valdovams deginti ir jų pelenams laidoti."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Nenurodyta
     - c-169217
 
 <a id="claim-t-196324"></a>
-- t-004
-  global_id: t-196324
+- t-005
   teiginys: "Germantas atliko nustatytas apeigas, kurių vėliau laikytasi toje pačioje vietoje deginant mirusių valdovų kūnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -113,12 +109,10 @@ Nenurodyta
   pagrindžia:
     - c-178626
 
-## Citatos
-
-- id: c-169217
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
     seneliui širdį, jog jis paprašė Germantą, jam mirus,
@@ -144,35 +138,16 @@ Nenurodyta
     ant laužo; jo viršuje, netoli valdovo, sudėjo ginklus,
     kuriais jis nuolat naudojosi nuo karo tarnybos pradžios:
     kalaviją, ietį, lanką bei strėlinę su strėlėmis, žemiau —
-  citata_rodoma: |
-    Mat Šventaragis, būdama*
-    gyvas, kartą medžioklės metu pateko į be galo žavin­
-    gą vietą, kur į Nerį įteka Vilnios upė, apibėgdama ly­
-    gumą, apsuptą aukštų kalnų ir apaugusią pušynais.
-    Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
-    seneliui širdį, jog jis paprašė Germantą, jam mirus,
-    niekur kitur neieškoti vietos nei laidotuvėms, nei lau­
-    žui, nei kapui, norėdamas, kad ši aikštė ateityje am­
-    žinai būtų skiriama valdovams deginti ir jų pelenams
-    laidoti. Germantas viską sąžiningai padarė, ko prašo­
-    mas: jis apvalė aikštę, iškirsdamas visus medžius, ir
-    ją, paisydamas visų apeigų, apskelbė laidotuvių vieta;
-    greta pasilikusį miškelį paskyrė audrų tvarkytojui, va­
-    dinamajam žaibų dievui Perkūnui; kad žmonės, atlik­
-    dami tikybines apeigas, gausiau šią vietą lankytų, bu­
-    vo įsteigtos, suteikus didelę paramą, žynių tarnybos.
-  statusas: verified
-  atnaujinta: "2026-07-13 01:28"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185856
-    - t-196323
-- id: c-169219
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- t-003
+
+- c-002
+  santrauka: 'Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     sakalus, dvi poras medžioklinių šunų, tarną ir žirgą,
     kurie gyvam buvo mieliausi; kai visa tai apėmė apa­
@@ -205,7 +180,50 @@ Nenurodyta
     neliks ramūs nei Livonijos, nei Prūsijos kryžiuočiai,
     taip pat ir lenkai, kurie visai neseniai buvo ne vieną
     kartą smarkiai nuniokoti.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169217
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mat Šventaragis, būdama*
+    gyvas, kartą medžioklės metu pateko į be galo žavin­
+    gą vietą, kur į Nerį įteka Vilnios upė, apibėgdama ly­
+    gumą, apsuptą aukštų kalnų ir apaugusią pušynais.
+    Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
+    seneliui širdį, jog jis paprašė Germantą, jam mirus,
+    niekur kitur neieškoti vietos nei laidotuvėms, nei lau­
+    žui, nei kapui, norėdamas, kad ši aikštė ateityje am­
+    žinai būtų skiriama valdovams deginti ir jų pelenams
+    laidoti. Germantas viską sąžiningai padarė, ko prašo­
+    mas: jis apvalė aikštę, iškirsdamas visus medžius, ir
+    ją, paisydamas visų apeigų, apskelbė laidotuvių vieta;
+    greta pasilikusį miškelį paskyrė audrų tvarkytojui, va­
+    dinamajam žaibų dievui Perkūnui; kad žmonės, atlik­
+    dami tikybines apeigas, gausiau šią vietą lankytų, bu­
+    vo įsteigtos, suteikus didelę paramą, žynių tarnybos.
+  citata_rodoma: "Mat Šventaragis, būdama*\ngyvas, kartą medžioklės metu pateko į be galo žavin­\ngą vietą, kur į Nerį įteka Vilnios upė, apibėgdama ly­\ngumą, apsuptą aukštų kalnų ir apaugusią pušynais.\nVos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo\nseneliui širdį, jog jis paprašė Germantą, jam mirus,\nniekur kitur neieškoti vietos nei laidotuvėms, nei lau­\nžui, nei kapui, norėdamas, kad ši aikštė ateityje am­\nžinai būtų skiriama valdovams deginti ir jų pelenams\nlaidoti. Germantas viską sąžiningai padarė, ko prašo­\nmas: jis apvalė aikštę, iškirsdamas visus medžius, ir\nją, paisydamas visų apeigų, apskelbė laidotuvių vieta;\ngreta pasilikusį miškelį paskyrė audrų tvarkytojui, va­\ndinamajam žaibų dievui Perkūnui; kad žmonės, atlik­\ndami tikybines apeigas, gausiau šią vietą lankytų, bu­\nvo įsteigtos, suteikus didelę paramą, žynių tarnybos."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-004
+
+- id: c-169219
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Visa šitai deramai sutvarkius, mirusiojo valdovo kū­
     nas, aprengtas kario drabužiais, buvo didikų užkeltas
     ant laužo; jo viršuje, netoli valdovo, sudėjo ginklus,
@@ -230,13 +248,15 @@ Nenurodyta
     vensią po mirties, ir apie vėlių grįžimą į savo kūnus,
     kai kažin koks dievas, jiems nežinomas, pašauksiąs
     iš kapų į aukštą kalną teisti visą žmonių giminę.
+  citata_rodoma: "Visa šitai deramai sutvarkius, mirusiojo valdovo kū­\nnas, aprengtas kario drabužiais, buvo didikų užkeltas\nant laužo; jo viršuje, netoli valdovo, sudėjo ginklus,\nkuriais jis nuolat naudojosi nuo karo tarnybos pradžios:\nkalaviją, ietį, lanką bei strėlinę su strėlėmis, žemiau —\n129\n5. Lietuvos isto rija\n\n## Puslapis 128\n\nsakalus, dvi poras medžioklinių šunų, tarną ir žirgą,\nkurie gyvam buvo mieliausi; kai visa tai apėmė apa­\nčioje užkurta ugnis, prasidė­\njo raudos, didikai mėtė į\nliepsnas išrautus lokių bei\nlūšių nagus, pareikšdami ši­\ntaip savo pagarbą. Mat tie\nsenovės lietuviai, beveik vi­\nsiškai nenusivokdami apie dieviškus dalykus, turėjo\nvis dėlto šiokį tokį supratimą, kad ir nemokšišką bei\nprietaringą, apie kitą gyvenimą, kurį mirtingieji gy­\nvensią po mirties, ir apie vėlių grįžimą į savo kūnus,\nkai kažin koks dievas, jiems nežinomas, pašauksiąs\niš kapų į aukštą kalną teisti visą žmonių giminę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185858
+    - t-003
+
 - id: c-178626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -266,4 +286,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196324
+    - t-005

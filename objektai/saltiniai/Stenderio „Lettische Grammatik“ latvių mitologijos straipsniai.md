@@ -30,7 +30,6 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
 
 <a id="claim-t-190523"></a>
 - t-001
-  global_id: t-190523
   teiginys: "Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Auskučio sukeltų neramumų liudytojas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
 
 <a id="claim-t-190524"></a>
 - t-002
-  global_id: t-190524
   teiginys: "Narbutas nurodo, kad Stenderio duomenimis latviai Datoną vadino Pilnyčiu (Pilnitis)."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190523
+    - t-001
+
 - id: c-173407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -109,4 +108,4 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190524
+    - t-002

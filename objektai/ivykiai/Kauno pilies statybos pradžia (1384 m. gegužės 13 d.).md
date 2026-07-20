@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-34540"></a>
 - t-001
-  global_id: t-34540
   teiginys: "1384 m. gegužės 13 d. Vytauto atiduotame Kaune kryžiuočiai pradėjo pilies statybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34540
+    - t-001

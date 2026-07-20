@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59629"></a>
-- t-001
-  global_id: t-59629
+- t-002
   teiginys: "Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,10 +73,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko interpretacinį teiginį, bet reikia pašalinti perteklinę įžangą."
   pagrindžia:
     - c-60261
-    - c-001
+
 <a id="claim-t-59630"></a>
-- t-002
-  global_id: t-59630
+- t-001
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,6 @@ Nenurodyta
 
 <a id="claim-t-196978"></a>
 - t-003
-  global_id: t-196978
   teiginys: "Čia Dusburgietis pateikia oficialią Ordino pradžios tradiciją (pagal Statutų prologą)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,8 +121,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59629
+
 ## Citatos
 
 - id: c-60261
@@ -133,25 +129,19 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino
-    priklausomumą nuo joanitų141. Dusburgietis tendencingai aprašo ir daugelį kitų Ordinui
-    nepalankių tarptautinių santykių reiškinių, bažnytinių ginčų, Ordino narių gėdingus
-    poelgius demaskuojančių faktų. Nutyli lenkų feodalinės ekspansijos į prūsų žemes
-    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
-    žemės dovanojimo charakterio, apimties ir t. t.142
-    Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas.
-  citata_rodoma: |
     Čia Dusburgietis pateikia oficialią
     Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
     jog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos
     kunigaikštis jau buvo miręs.
+  citata_rodoma: "Čia Dusburgietis pateikia oficialią\nOrdino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,\njog tai buvęs kur kas ilgesnis procesas, pasibaigęs tik 1198 m., kai mūsų minėtas Švabijos\nkunigaikštis jau buvo miręs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59629
+    - t-002
+
 - id: c-60262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,5 +162,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59630
-    - t-196978
+    - t-001
+    - t-003

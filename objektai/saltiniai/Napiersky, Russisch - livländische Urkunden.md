@@ -39,7 +39,6 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
 
 <a id="claim-t-34976"></a>
 - t-001
-  global_id: t-34976
   teiginys: "K. E. Napiersky veikalas „Russisch-livländische Urkunden“ buvo išleistas Peterburge 1868 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34976
+    - t-001

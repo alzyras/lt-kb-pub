@@ -38,7 +38,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 
 <a id="claim-t-192832"></a>
 - t-001
-  global_id: t-192832
   teiginys: "Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 
 <a id="claim-t-192833"></a>
 - t-002
-  global_id: t-192833
   teiginys: "Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 
 <a id="claim-t-197941"></a>
 - t-003
-  global_id: t-197941
   teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -123,8 +120,9 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192832
-    - t-197941
+    - t-001
+    - t-003
+
 - id: c-175603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -143,6 +141,7 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192833
+    - t-002
+
 ## Ryšiai
 - Vitlandija priklausė [[objektai/vietos/Varmija]]

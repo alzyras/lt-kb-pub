@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87887"></a>
 - t-001
-  global_id: t-87887
   teiginys: "Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ media_all_json: |-
     auksakalių būta daug ir turtingų.
     Garsėjo: Volfgangas Auksakalys -
     1522 m., Štagelis - 1530 m.
-  citata_rodoma: |
-    24
-    Vilniuje Žygimanto Senojo laikais
-    auksakalių būta daug ir turtingų.
-    Garsėjo: Volfgangas Auksakalys -
-    1522 m., Štagelis - 1530 m.
+  citata_rodoma: "24\nVilniuje Žygimanto Senojo laikais \nauksakalių būta daug ir turtingų. \nGarsėjo: Volfgangas Auksakalys - \n1522 m., Štagelis - 1530 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87887
+    - t-001

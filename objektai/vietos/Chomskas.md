@@ -31,7 +31,6 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
 
 <a id="claim-t-41641"></a>
 - t-001
-  global_id: t-41641
   teiginys: "Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę pradėjo supti Rusijos kariuomenės daliniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,18 +58,12 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
     Lietuvos kariuomenę, kurią M. K. Oginskis
     spėjo sutelkti Chomske, ėmė supti Rusijos
     kariuomenės daliniai. Didžiojo etmono
-    buvo pareikalauta pasiduoti.
-  citata_rodoma: |
-    Mūšis
-
-    Lietuvos kariuomenę, kurią M. K. Oginskis
-    spėjo sutelkti Chomske, ėmė supti Rusijos
-    kariuomenės daliniai. Didžiojo etmono
-    buvo pareikalauta pasiduoti.
+    buvo pareikalauta pasiduoti. Oginskis,
+  citata_rodoma: "Mūšis\n\nLietuvos kariuomenę, kurią M. K. Oginskis\nspėjo sutelkti Chomske, ėmė supti Rusijos\nkariuomenės daliniai. Didžiojo etmono\nbuvo pareikalauta pasiduoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41641
+    - t-001

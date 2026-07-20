@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201330"></a>
 - t-001
-  global_id: t-201330
   teiginys: "Norėjo dar Vsevolodas, ku nigaikštis Naugardo, lietuviams atmonyti tas nelai mes savo ūkės, kaipogi, tame širdgile surinkęs savo ūkinykus, ėmė vyti lietuvius, kuriuos antnokęs su sigrūmė, bet pats su visais savo kareiviais tenai galą gavo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184680
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip nusiaubę visą kraštą, daugybes im­
     tinių į vergus parvarė. Norėjo dar Vsevolodas, ku­
@@ -71,4 +71,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201330
+    - t-001

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-87602"></a>
 - t-001
-  global_id: t-87602
   teiginys: "1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87602
+    - t-001

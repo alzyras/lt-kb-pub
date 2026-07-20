@@ -12,12 +12,12 @@ datos:
   - '1688 m.'
 date_start: '1688'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-202336"></a>
 - t-001
-  global_id: t-202336
   teiginys: "1688 m. į Gardino seimą vykusio Mogiliavo vaito ir suolininko atstovui Ilevičiui buvo įteikta 20 šermuonėlių kailių."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -59,22 +58,8 @@ media_all_json: |-
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Žygimanto Au-
-    gusto valdymo laikais LDK pasiuntiniai iš iždo gaudavo damasto
-    drabužiams, o Vilniuje valdovo rūmuose siūta apranga jo dvariš-
-    kiams41. Paprotys dovanoti audinius ir kailius nenunyko nė XVII a.
-    Antai šių dovanų vežėsi 1688 m. į Gardino seimą vykstantis Mogi-
-    liavo vaitas ir suolininkas, atstovui Ilevičiui įteikta 20 šermuonėlių
-    kailių, LDK rūmų iždininkui Kazimierui Jonui Sapiegai dovanota
-    geresnių lapių kailių ir 3 poros lapės pakaklės kailių, raštininkienei
-    Puchalskai – 12 šermuonėlių kailių, Gabševičiui – pinigų ir du kai-
-    lio pamušalai, o Gabševičienei – 20 šermuonėlių kailių, LDK refe-
-    rendoriui Kiprijonui Povilui Bžostovskiui – pilkųjų voverių kailių42.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202336
+    - t-001

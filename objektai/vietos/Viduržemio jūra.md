@@ -34,8 +34,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 <a id="claim-t-183104"></a>
-- t-001
-  global_id: t-183104
+- t-002
   teiginys: "Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-166489
 
 <a id="claim-t-183105"></a>
-- t-002
-  global_id: t-183105
+- t-003
   teiginys: "Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,10 +73,9 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     - c-166490
 
 <a id="claim-t-192771"></a>
-- t-003
-  global_id: t-192771
+- t-004
   teiginys: "Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,34 +91,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175541
-    - c-003
 - susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ant­
-    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
-    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
-    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
-    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
-    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
-    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
-    rei pažinti dar labiau negu Vidurio Europos tautų bar­
-    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
-    Romos valstybės imperatorių galybės kolosą, kai barbarų
-    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
-    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
-    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
-    pusiausvyros metas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192771
 ## Citatos
 
 - id: c-166489
@@ -139,7 +109,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183104
+    - t-002
+
 - id: c-166490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,7 +132,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183105
+    - t-003
+
 - id: c-175541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -181,25 +153,11 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
     tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
     pusiausvyros metas.
-  citata_rodoma: |
-    Ant­
-    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
-    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
-    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
-    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
-    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
-    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
-    rei pažinti dar labiau negu Vidurio Europos tautų bar­
-    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
-    Romos valstybės imperatorių galybės kolosą, kai barbarų
-    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
-    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
-    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
-    pusiausvyros metas.
+  citata_rodoma: "Ant­\nra vertus, ryšiai su labiau išvystytomis tautomis senovė­\nje buvo be galo painūs, padriki ir tolydžio atnaujinami.\nViduržemio jūros pirklių, kurie bemaž vieni pasiekdavo\ntolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir\nvisados iš anksto puoselėjo viltis rasti lobių nežinomuose\nkraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­\nrei pažinti dar labiau negu Vidurio Europos tautų bar­\nbariškumas ir nesyetingumas. Bet kai anarchija pakirto\nRomos valstybės imperatorių galybės kolosą, kai barbarų\nantplūdis pražudė civilizuotus kraštus, pavertė apsišvie­\ntusių romėnų palikimą dykra ir kapinynais, šiaurinėms\ntautoms susiklostė naujos aplinkybės, ir į Europą atėjo\npusiausvyros metas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192771
+    - t-004

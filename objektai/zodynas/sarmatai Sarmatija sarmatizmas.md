@@ -37,7 +37,6 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
 
 <a id="claim-t-185368"></a>
 - t-001
-  global_id: t-185368
   teiginys: "Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185368
+    - t-001

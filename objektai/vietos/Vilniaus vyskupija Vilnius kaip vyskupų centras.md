@@ -7,12 +7,12 @@ datos:
   - '1710 m.'
 date_start: '1710'
 date_end: ''
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
 
 <a id="claim-t-189099"></a>
 - t-001
-  global_id: t-189099
   teiginys: "Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,29 +53,7 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171987
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    310
 
-    ## Puslapis 310
-
-    puotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­
-    riuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais
-    labiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­
-    drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
-    amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
-    metais tą paprotį m atė ir griežtai jį uždraudė10 1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189099
 ## Citatos
 
 - id: c-171987
@@ -84,19 +61,6 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ši auka nesiskyrė nuo pir­
-    miau aprašytos, nebent tuo, kad atnašautoją kviesdavo iš žy­
-    nių arba, jų trūkstant, prašydavo išmanantį žmogų ar viršaitį.
-    Šiuo atveju būdavo daugiau meldžiamasi ir buriama, taip pat
-    prieš vaišes ir po jų dainuodavo.
-    Žyniai, kurie vadinosi Wejktime, latviškai - Wiktums, tu­
-    rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
-    jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
-    tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.
-    Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
-    bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
-    dievas.
-  citata_rodoma: |
     310
 
     ## Puslapis 310
@@ -107,10 +71,11 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
     drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
     amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
     metais tą paprotį m atė ir griežtai jį uždraudė10 1.
+  citata_rodoma: "310\n\n## Puslapis 310\n\npuotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­\nriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais\nlabiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­\ndrausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II\namžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710\nmetais tą paprotį m atė ir griežtai jį uždraudė10 1."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189099
+    - t-001

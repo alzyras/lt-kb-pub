@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189732"></a>
 - t-001
-  global_id: t-189732
   teiginys: "Narbutas pasakojo, kad darbininkas mūre aptiko cinkinę deivės Veneros statulėlę ir nunešė ją kunigui vikarui Mingailai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,17 +65,6 @@ Nenurodyta
   pagrindžia:
     - c-172615
 
-<a id="claim-t-192504"></a>
-- t-002
-  global_id: t-192504
-  teiginys: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Subjektas ir vieta išskleisti iš citatos, o šaltinio grandinė palikta atribuuota dienoraščio pasakojimui. Neperimtas Narbuto vertinimas apie Mildos stabus ir Mingailą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Kaunas'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
@@ -105,11 +93,9 @@ Nenurodyta
     Mildos stabai, kuriuos lietuviai itin garbino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192504
+  statusas: verified
 ## Citatos
 
 - id: c-172615
@@ -133,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189732
+    - t-001

@@ -30,7 +30,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 
 <a id="claim-t-189445"></a>
 - t-001
-  global_id: t-189445
   teiginys: "Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris užgula miegančias moteris ir tyko už tvorų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,9 +50,8 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 
 <a id="claim-t-189446"></a>
 - t-002
-  global_id: t-189446
   teiginys: "Narbutas rašė, kad lietuvių pasakojimuose aitvaras užpuola miegančias moteris arba pasirodo skraidančio ugnies meteoro pavidalu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,10 +67,9 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172333
-    - c-002
+
 <a id="claim-t-189447"></a>
 - t-003
-  global_id: t-189447
   teiginys: "Narbutas pasakoja, kad žyniai užkeikė aitvarus išnykti, o pamedėnai prisiekė nepriimti krikščionybės ir ginti senąjį tikėjimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 
 <a id="claim-t-197184"></a>
 - t-004
-  global_id: t-197184
   teiginys: "Šie užkei kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapojami, bet gins savo senąjį tikėjimą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -121,24 +117,7 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-- c-002
-  santrauka: 'Narbutas rašė, kad lietuvių pasakojimuose aitvaras užpuola miegančias moteris arba pasirodo skraidančio ugnies meteoro pavidalu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
-    matomas užpuola miegančias moteris, kitą kartą prijaukintas
-    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
-    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
-    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
-    terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
-    šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189446
+
 ## Citatos
 
 - id: c-172332
@@ -154,37 +133,21 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
     nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
     mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
     rybė moka daryti stebuklus lengvatikių akyse.
-  citata_rodoma: |
-    Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
-    kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai
-    prisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada
-    nelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja-
-    mi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­
-    rybė moka daryti stebuklus lengvatikių akyse.
+  citata_rodoma: "Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­\nkė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai \nprisiekti, kad nuo šiol nepriims krikščionių tikėjimo, niekada \nnelaikys savo tarpe jokio krikščionio ir geriau leisis iškapoja- \nmi, bet gins savo senąjį tikėjimą. Štai kaip dailiai žmonių gud­\nrybė moka daryti stebuklus lengvatikių akyse."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189445
-    - t-197184
+    - t-001
+    - t-004
+
 - id: c-172333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tą vardą duodavo taip pat fau­
-    nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
-    rafai išgalvojo velnius - viršgulius, Incubi, ir apačgulius, Suc­
-    cubi, kankinančius žmones per miegą begėdiškais vaizdais, net
-    tikrais veiksmais, ypač davusius skaistybės įžadus. Antikos žmo­
-    nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
-    je - hifialtais“.
-    Rungis (Rungis)
-    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
-    dų ir malant pripila.
-  citata_rodoma: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas
     pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
@@ -192,13 +155,15 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
     duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
     terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
+  citata_rodoma: "Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­\nmatomas užpuola miegančias moteris, kitą kartą prijaukintas\npasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­\nda į klėtis, senoms, taupioms šeimininkėms išneša grietinę,\nduoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­\nterims arba mergaitėms, duoda net pinigų. Moteris, suviliota\nšios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189446
+    - t-002
+
 - id: c-172334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -218,4 +183,4 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189447
+    - t-003

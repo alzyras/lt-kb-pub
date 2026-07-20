@@ -31,7 +31,6 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 
 <a id="claim-t-192122"></a>
 - t-001
-  global_id: t-192122
   teiginys: "Teodoras Narbutas istorijai priešpriešina neklystančiojo toną ir faktų bei įrodytų tiesų nagrinėjimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -47,10 +46,9 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175005
-    - c-001
+
 <a id="claim-t-194906"></a>
 - t-002
-  global_id: t-194906
   teiginys: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta nagrinėti faktus ir girdėti įrodytas tiesas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192122
+
 ## Citatos
 
 - id: c-175005
@@ -104,16 +101,15 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     net ir Herodoto geografija. Tačiau šie įrodymai negali pa­
     teisinti mūsų tyrinėtojo nuomonės, nes jis, rašydamas ne-
     klystančiojo stiliumi, neatsižvelgė į juos.
-  citata_rodoma: |
-    Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
-      nagrinėti faktus ir girdėti įrodytas tiesas.
+  citata_rodoma: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta\n  nagrinėti faktus ir girdėti įrodytas tiesas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192122
+    - t-001
+
 - id: c-177302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -135,4 +131,4 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194906
+    - t-002

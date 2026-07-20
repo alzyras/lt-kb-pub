@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195611"></a>
-- t-001
-  global_id: t-195611
+- t-002
   teiginys: "Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo."
   atnaujinta: "2026-07-12 08:10"
   sprendimo_priezastis: "gap::customs"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-178014
 
 <a id="claim-t-195612"></a>
-- t-002
-  global_id: t-195612
+- t-001
   teiginys: "Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose."
   atnaujinta: "2026-07-12 08:10"
   sprendimo_priezastis: "gap::customs"
@@ -106,16 +104,12 @@ Nenurodyta
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: |
-    Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,
-    liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,
-    vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,
-    daug meldėsi, daug dirbo, daug gėrė ir lėbavo.
+  citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,\nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,\nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,\ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
   atnaujinta: "2026-07-12 08:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195611
-    - t-195612
+    - t-002
+    - t-001

@@ -37,8 +37,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 ## Teiginiai
 
 <a id="claim-t-22158"></a>
-- t-001
-  global_id: t-22158
+- t-002
   teiginys: "Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     - c-24845
 
 <a id="claim-t-22159"></a>
-- t-002
-  global_id: t-22159
+- t-001
   teiginys: "Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,15 +126,15 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
     gubernatoriaus skiriamu apskrities viršininku priešakyje.
-  citata_rodoma: |
-    iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
+  citata_rodoma: "iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22159
+    - t-001
+
 - id: c-24845
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,12 +147,11 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: |
-    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+  citata_rodoma: "nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22158
+    - t-002

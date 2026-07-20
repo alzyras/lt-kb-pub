@@ -40,7 +40,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 <a id="claim-t-169555"></a>
 - t-001
-  global_id: t-169555
   teiginys: "Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 <a id="claim-t-169557"></a>
 - t-002
-  global_id: t-169557
   teiginys: "Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 <a id="claim-t-193261"></a>
 - t-003
-  global_id: t-193261
   teiginys: "Šveicarijos komitetai darbavosi ligi karo pabaigos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -147,7 +144,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169555
+    - t-001
+
 - id: c-154266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,18 +159,15 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: |
-    dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
-    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
-    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
-    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
+  citata_rodoma: "dalyvavo iš okupuotosios Lietuvos atvykę delegatai.\nBuvo nutarta politinės propagandos centrą padaryti Šveicarijoje\nir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-\nbo pagrindu buvo paimtas nepriklausomybės reikalavimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169557
+    - t-002
+
 - id: c-175993
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -190,6 +185,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193261
+    - t-003
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

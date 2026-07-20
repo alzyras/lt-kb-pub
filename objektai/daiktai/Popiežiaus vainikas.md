@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-59702"></a>
 - t-001
-  global_id: t-59702
   teiginys: "Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60334
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
@@ -86,8 +85,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59702
+
 ## Citatos
 
 - id: c-60334
@@ -100,15 +98,11 @@ Nenurodyta
     iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
     pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
     100.
-  citata_rodoma: |
-    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-    Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio
-    iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę
-    pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226).
+  citata_rodoma: "Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.\nMat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio\niškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę\npinigo, o šitai parodė, kokia būsianti jo ateitis (Mart. p. 441; Ptol. p. 1226)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59702
+    - t-001

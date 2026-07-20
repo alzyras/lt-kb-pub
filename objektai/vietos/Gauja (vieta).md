@@ -33,7 +33,6 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
 
 <a id="claim-t-201135"></a>
 - t-001
-  global_id: t-201135
   teiginys: "Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
 ## Citatos
 
 - id: c-184485
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gudai paliki­
     ni abažą vokyčių persikėlė per upį Gaują, deginda­
@@ -66,4 +66,4 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201135
+    - t-001

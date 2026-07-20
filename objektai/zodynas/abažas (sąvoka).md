@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-201191"></a>
 - t-001
-  global_id: t-201191
   teiginys: "Įėję meldžionys į Natangiją, ką sutikdami, tą teriojo ir degino ir toj vietoj, kur šiandien vietovė Brandenburgas yra, į abažą sustojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ media_all_json: |-
 
 <a id="claim-t-201192"></a>
 - t-002
-  global_id: t-201192
   teiginys: "Kalavijonys norėjo juos pavyti, bet lietuviai, tą nujautę, į pamūrius Rygos pasitraukė ir tenai į taborių, arba abažą, sustojo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-201193"></a>
 - t-003
-  global_id: t-201193
   teiginys: "Kryžėjai, atėję vakarop pas abažą lietuvių, tuojau jį nakčia pagal apsiautė, auštant antpuolė jį su viena dalia savo kariaunos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +75,6 @@ media_all_json: |-
 
 <a id="claim-t-201194"></a>
 - t-004
-  global_id: t-201194
   teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -92,8 +88,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184541
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įėję meldžionys į Natangiją, ką sutikdami, tą te-
     riojo ir degino ir toj vietoj, kur šiandien vietovė
@@ -109,11 +106,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201191
+    - t-001
 
 - id: c-184542
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kai-
     pogi stipri kariauna lietuvių, kaip buvo skelbiama,
@@ -133,11 +131,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201192
+    - t-002
 
 - id: c-184543
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu artinos kryžėjai su stipria kariau­
     na, ir alvienas dyko lietuviams atmonyti. Kryžėjai,
@@ -153,11 +152,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201193
+    - t-003
 
 - id: c-184544
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­
@@ -184,4 +184,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201194
+    - t-004

@@ -31,7 +31,6 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 
 <a id="claim-t-02373"></a>
 - t-001
-  global_id: t-02373
   teiginys: "Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02373
+    - t-001

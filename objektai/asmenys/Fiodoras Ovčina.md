@@ -38,8 +38,7 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
 ## Teiginiai
 
 <a id="claim-t-186040"></a>
-- t-001
-  global_id: t-186040
+- t-002
   teiginys: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -79,24 +78,11 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
     šešiasdešimt tūkstančių karių netikėtai patraukę į Lie­
     tuvą, maskvėnai ją nusiaubė, žudydami ir moteris, ir
     vaikus bei senelius.
-  citata_rodoma: |
-    Tiesa, tą karą jie pradėjo nei paskatinti, nei
-    įsakyti valdovo, kuris, nė devynerių metų nesulaukęs,
-    visai nesirūpino valstybės reikalais; juos sukurstė žiau­
-    rių žiauriausias žmogus Fiodoras Ovčina. Šis, kaip
-    esu minėjęs, sudorojo Mykolą Glinskį bei kitus didikus
-    ir, caro globėju pasivadinęs, užgrobė visą valdžią, pa­
-    likdamas gyviesiems Glinskio šalininkams Kolyčevui
-    bei Šuiskiui tuščius globėjų vardus. Negalėdamas tai­
-    kos sąlygomis deramai sutvirtinti savo padėties, jis ir
-    sukurstė klastingomis kalbomis karą prieš Lietuvą. Su
-    šešiasdešimt tūkstančių karių netikėtai patraukę į Lie­
-    tuvą, maskvėnai ją nusiaubė, žudydami ir moteris, ir
-    vaikus bei senelius.
+  citata_rodoma: "Tiesa, tą karą jie pradėjo nei paskatinti, nei\nįsakyti valdovo, kuris, nė devynerių metų nesulaukęs,\nvisai nesirūpino valstybės reikalais; juos sukurstė žiau­\nrių žiauriausias žmogus Fiodoras Ovčina. Šis, kaip\nesu minėjęs, sudorojo Mykolą Glinskį bei kitus didikus\nir, caro globėju pasivadinęs, užgrobė visą valdžią, pa­\nlikdamas gyviesiems Glinskio šalininkams Kolyčevui\nbei Šuiskiui tuščius globėjų vardus. Negalėdamas tai­\nkos sąlygomis deramai sutvirtinti savo padėties, jis ir\nsukurstė klastingomis kalbomis karą prieš Lietuvą. Su\nšešiasdešimt tūkstančių karių netikėtai patraukę į Lie­\ntuvą, maskvėnai ją nusiaubė, žudydami ir moteris, ir\nvaikus bei senelius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186040
+    - t-002

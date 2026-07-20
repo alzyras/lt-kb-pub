@@ -39,8 +39,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 ## Teiginiai
 
 <a id="claim-t-193385"></a>
-- t-001
-  global_id: t-193385
+- t-004
   teiginys: "Viena vora užėmė ir sudegino Bisenės pilį, o kita nuniokojo aplinkines žemes ir traukdamasi patyrė nuostolių ant Nemuno ledo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     - c-176110
 
 <a id="claim-t-193754"></a>
-- t-002
-  global_id: t-193754
+- t-005
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193385
+    - t-004
+
 - id: c-176414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -129,4 +128,4 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193754
+    - t-005

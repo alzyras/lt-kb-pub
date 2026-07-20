@@ -37,7 +37,6 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 
 <a id="claim-t-86614"></a>
 - t-001
-  global_id: t-86614
   teiginys: "1390 m. Vilniaus pilies dvaras kapitulai turėjo mokėti dvylika vaško talentų, vadinamų pūdais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86614
+    - t-001

@@ -32,7 +32,6 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
 
 <a id="claim-t-35323"></a>
 - t-001
-  global_id: t-35323
   teiginys: "Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,18 +65,11 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
     lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
     kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
     vęs net dukart savo šalininkų išrinktas Lenkijos karalium.
-  citata_rodoma: |
-    Kandidatu į
-    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
-    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
-    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
-    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
-    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
-    vęs net dukart savo šalininkų išrinktas Lenkijos karalium.
+  citata_rodoma: "Kandidatu į\njaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,\ndar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,\nbet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­\nlezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų\nkunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­\nvęs net dukart savo šalininkų išrinktas Lenkijos karalium."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35323
+    - t-001

@@ -61,8 +61,7 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
 ## Teiginiai
 
 <a id="claim-t-200689"></a>
-- t-001
-  global_id: t-200689
+- t-002
   teiginys: "Jono Dominyko Lopacinskio laiške konfitiūrai minimi kaip koadjutoriaus vaišės iš ananasų, karambolų ir kitų indiškų vaisių."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -86,22 +85,8 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-
-    sakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie
-    riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
-    kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
-    laiške], kurių privežta labai daug.
-  citata_rodoma: |
-    Apie didelius pasilinksminimus Augusto III vardo dienos garbei kanauninkas pa-
-    sakojo Anykščių ir Punios seniūnui Mykolui Ksaverui Sapiegai. Jis teigė, kad pirma jie
-    riesis, o po to taikysis [valgydami] koadjutoriaus konfitiūrus iš ananasų, karambolų(?),
-    kakadijų(?) [neaiškus žodis] ir kitų indiškų žodžių [stiliaus klaida J. D. Lopacinskio
-    laiške], kurių privežta labai daug.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 11:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200689
+    - t-002

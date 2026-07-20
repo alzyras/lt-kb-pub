@@ -42,7 +42,6 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 <a id="claim-t-20000"></a>
 - t-001
-  global_id: t-20000
   teiginys: "Valdant Saksų dinastijai 1697–1763 m. Lietuva tapo Šiaurės karo tarp Rusijos ir Švedijos kovų arena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 
 <a id="claim-t-20001"></a>
 - t-002
-  global_id: t-20001
   teiginys: "Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,16 +91,15 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     nulems tolesnį ATR likimą.
     Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
     vas Augustas Poniatovskis.
-  citata_rodoma: |
-    Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-
-    vas Augustas Poniatovskis.
+  citata_rodoma: "Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislo-\nvas Augustas Poniatovskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20001
+    - t-002
+
 - id: c-166567
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -131,4 +128,4 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20000
+    - t-001

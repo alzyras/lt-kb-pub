@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Partizanų bunkeriai
 
 ## Santrauka
@@ -69,10 +70,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13459"></a>
-- t-001
-  global_id: t-13459
+- t-005
   teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,8 +89,7 @@ Nenurodyta
     - c-16407
 
 <a id="claim-t-13460"></a>
-- t-002
-  global_id: t-13460
+- t-006
   teiginys: "1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -112,6 +111,15 @@ Nenurodyta
 
 Nenurodyta
 
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/karo-reikmuo]]
+
+### Laikotarpiai
+- XX amžius
+- XX amžius pr. Kr.
+
 ## Citatos
 
 - id: c-16407
@@ -125,15 +133,15 @@ Nenurodyta
     bežemių vaikai, netarnavę ginkluotosiose pajėgose. Įstoję į partizanų gretas
     jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
-  citata_rodoma: |
-    miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
+  citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13459
+    - t-005
+
 - id: c-22284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,12 +156,11 @@ Nenurodyta
     10 tūkst. vyrų, partizanai sudarė mažus, mobilius būrius, sodybose ir
     prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
     šukavimus.
-  citata_rodoma: |
-    prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
+  citata_rodoma: "prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13460
+    - t-006

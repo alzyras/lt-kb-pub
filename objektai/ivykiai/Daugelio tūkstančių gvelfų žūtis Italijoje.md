@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-62765"></a>
 - t-001
-  global_id: t-62765
   teiginys: "1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62765
+    - t-001

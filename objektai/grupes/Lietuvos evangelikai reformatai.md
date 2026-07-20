@@ -48,7 +48,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 <a id="claim-t-45013"></a>
 - t-001
-  global_id: t-45013
   teiginys: "XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 <a id="claim-t-193551"></a>
 - t-002
-  global_id: t-193551
   teiginys: "Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -95,18 +93,15 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
     perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
     sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
     iki šių dienų.
-  citata_rodoma: |
-    XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
-    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
-    sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
-    iki šių dienų.
+  citata_rodoma: "XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo\nperėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai\nsudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko\niki šių dienų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45013
+    - t-001
+
 - id: c-176231
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,4 +130,4 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193551
+    - t-002

@@ -31,7 +31,6 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
 
 <a id="claim-t-189165"></a>
 - t-002
-  global_id: t-189165
   teiginys: "Narbutas rašo, kad jo apylinkės valstiečiai po Velykų pusryčio surinktus ir užkastus kaulus vadino Nijoliszkas Palajkas, arba Nijolės palaikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -50,17 +49,6 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   pagrindžia:
     - c-172053
 
-<a id="claim-t-189164"></a>
-- t-001
-  global_id: t-189164
-  teiginys: 'Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliaus žmoną ir Krūminės dukterį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Deivės genealogija ir titulas yra mitologinis teiginys, todėl palikta Narbuto atribucija. Pašalintas OCR triukšmas ir neplėsta mito santrauka.'
-  susije_objektai: 'mentioned_place: Pragaras'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliaus žmoną ir Krūminės dukterį.'
@@ -77,11 +65,9 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
     kinantį jos mitą. Ji vadinosi Nijolė (Nijota).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189164
+  statusas: verified
 ## Citatos
 
 - id: c-172053
@@ -102,4 +88,4 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189165
+    - t-002

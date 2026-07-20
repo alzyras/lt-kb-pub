@@ -3,20 +3,22 @@ tipas: vieta
 pavadinimas: 'Rusijos imperija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1897 m.'
   - '1904 m.'
   - '1905 m.'
+  - '1918 m.'
 date_start: '1897'
-date_end: '1905'
+date_end: '1918'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +41,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 ## Teiginiai
 
 <a id="claim-t-47170"></a>
-- t-001
-  global_id: t-47170
+- t-002
   teiginys: "1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -58,8 +59,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-24448
 
 <a id="claim-t-47171"></a>
-- t-002
-  global_id: t-47171
+- t-003
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +78,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-49692
 
 <a id="claim-t-47172"></a>
-- t-003
-  global_id: t-47172
+- t-001
   teiginys: "Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -94,6 +93,18 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24447
+
+<a id="claim-t-201663"></a>
+- t-004
+  teiginys: "Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos imperiją."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185010
 
 ## Citatos
 
@@ -111,17 +122,15 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
     žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
     rezultatų, kokių tikėjosi.
-  citata_rodoma: |
-    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
-    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
-    rezultatų, kokių tikėjosi.
+  citata_rodoma: "Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV\nžemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių\nrezultatų, kokių tikėjosi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47172
+    - t-001
+
 - id: c-24448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,17 +142,15 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
     demonstracijos, mitingai.
-  citata_rodoma: |
-    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
-    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
-    demonstracijos, mitingai.
+  citata_rodoma: "1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-\nmokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,\ndemonstracijos, mitingai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47170
+    - t-002
+
 - id: c-49692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,4 +173,23 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47171
+    - t-003
+
+- id: c-185010
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos
+    ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su
+    didžiąja Lietuvos dalimi pateko į Rusijos imperiją. Tada prasidėjo naujas jo istorijos
+    laikotarpis, trukęs iki atkuriant Lietuvos valstybę 1918 m. Perdėm centralizuotoje ir
+    biurokratizuotoje Rusijos imperijoje Kaunas turėjo paklusti imperijos įstatymams,
+    esmingai keitėsi miesto savivaldos turinys.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

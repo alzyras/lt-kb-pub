@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191068"></a>
 - t-001
-  global_id: t-191068
   teiginys: "Narso vadovaujama Justiniano kariuomenė 552 m. buvo sutelkta Pado žemupyje ir dalyvavo Taginos mūšyje, kuriame žuvo Totila."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-197548"></a>
 - t-002
-  global_id: t-197548
   teiginys: "Si ka riuomenė buvo sutelkta Pado žemupyje 552 metais Nar šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo Totila."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -100,5 +98,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191068
-    - t-197548
+    - t-001
+    - t-002

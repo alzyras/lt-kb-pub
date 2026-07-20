@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-75089"></a>
 - t-001
-  global_id: t-75089
   teiginys: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-75090"></a>
 - t-002
-  global_id: t-75090
   teiginys: "1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,16 +117,15 @@ Nenurodyta
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
-  citata_rodoma: |
-    Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
-    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
+  citata_rodoma: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-\ndalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75089
+    - t-001
+
 - id: c-73009
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,4 +142,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75090
+    - t-002

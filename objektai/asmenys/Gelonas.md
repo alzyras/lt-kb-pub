@@ -31,9 +31,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 
 <a id="claim-t-190065"></a>
 - t-001
-  global_id: t-190065
   teiginys: "Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,10 +41,9 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172948
-    - c-001
+
 <a id="claim-t-190066"></a>
 - t-002
-  global_id: t-190066
   teiginys: "Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 
 <a id="claim-t-197398"></a>
 - t-003
-  global_id: t-197398
   teiginys: "Gelonas šukuodavo jam plaukus ir barzdą vėjinio malūno sparno dydžio šukomis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -77,26 +74,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   pagrindžia:
     - c-179167
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pagaliau atsirado lietuvių didvyris,
-    Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
-    vaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­
-    romis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau
-    visiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės
-    lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
-    ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
-    vado vardą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190065
 ## Citatos
 
 - id: c-172948
@@ -104,18 +81,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
-    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
-    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
-    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
-    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
-    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
-    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
-    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
-    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
-    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
-    imtus bajorus.
-  citata_rodoma: |
     Pagaliau atsirado lietuvių didvyris,
     Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
     vaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­
@@ -124,13 +89,15 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
     lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
     ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
     vado vardą.
+  citata_rodoma: "Pagaliau atsirado lietuvių didvyris,\nElonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­\nvaduoti šiaurę nuo tos nelaimės, pradėjo kariauti su žmogėd­\nromis; iš pradžių juos dažniausiai tik sutramdydavo, pagaliau\nvisiškai išnaikino. Istorija mena, kad jis buvo vieno iš senovės\nlietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių\nir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų\nvado vardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190065
+    - t-001
+
 - id: c-172949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -150,7 +117,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190066
+    - t-002
+
 - id: c-179167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -169,4 +137,4 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197398
+    - t-003

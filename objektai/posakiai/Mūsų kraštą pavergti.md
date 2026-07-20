@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-47949"></a>
-- t-001
-  global_id: t-47949
+- t-003
   teiginys: "Vytauto laiškuose imperatoriui Zigmantui ir ordino magistrui draudimas vainikuotis reiškė jo laisvės varžymą ir pastangas pavergti kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-47950"></a>
 - t-002
-  global_id: t-47950
   teiginys: "Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -91,19 +89,12 @@ media_all_json: |-
     Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
     kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
     nekenkiąs Lietuvos ir Lenkijos sąjungai.
-  citata_rodoma: |
-    Tai rodo jo
-    laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas
-    vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,
-    bet ir pastangas « mūsų kraštą pavergti »^15.
-    Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
-    kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
-    nekenkiąs Lietuvos ir Lenkijos sąjungai.
+  citata_rodoma: "Tai rodo jo\nlaiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas\nvainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,\nbet ir pastangas « mūsų kraštą pavergti »^15.\nVisą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,\nkai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai\nnekenkiąs Lietuvos ir Lenkijos sąjungai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47949
-    - t-47950
+    - t-003
+    - t-002

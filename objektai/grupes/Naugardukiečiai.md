@@ -31,7 +31,6 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 
 <a id="claim-t-185442"></a>
 - t-001
-  global_id: t-185442
   teiginys: "Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168803
-    - c-001
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti.md#claim-t-186567|Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]: Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
@@ -57,26 +55,6 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
 - susijęs iš Polockas: Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai.
 - susijęs iš Vladimiras: Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Niekada prie jo
-    nebūsią galima lengviau prieiti, kaip tada, kai, išren­
-    gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
-    apsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą
-    atskubėsianti jam atsidavusi žemaičių kariuomenė, be
-    to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
-    riais. Neilgai atsilaikė tiems kurstymams Treniotos
-    širdis, iš prigimties pati linkusi į garbę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185442
 ## Citatos
 
 - id: c-168803
@@ -84,19 +62,6 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat tuo
-    metu
-    prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi­
-    delį maištą: Mindaugas įsakė Daumantui traukti prieš
-    jį su kariuomene; Daumantas negaišdamas paskatino
-    Treniotą nepraleisti progos: dabar pagaliau atėjęs lai­
-    kas veikti, kai jo rankose kariuomenė. Taigi sutartą
-    dieną Treniota slaptai atvedė kariuomenę iš Žemaitijos,
-    o Daumantas iš Rusios9 ir gūdžią naktį įsiveržė į
-    karaliaus rūmus. Kai buvo suimti vartų sargybiniai,
-    žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
-    je.
-  citata_rodoma: |
     Niekada prie jo
     nebūsią galima lengviau prieiti, kaip tada, kai, išren­
     gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
@@ -105,10 +70,11 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
     to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
     riais. Neilgai atsilaikė tiems kurstymams Treniotos
     širdis, iš prigimties pati linkusi į garbę.
+  citata_rodoma: "Niekada prie jo\nnebūsią galima lengviau prieiti, kaip tada, kai, išren­\ngęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be\napsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą\natskubėsianti jam atsidavusi žemaičių kariuomenė, be\nto, ir jis pats laiku atsirasiąs su naugardukiečių ka­\nriais. Neilgai atsilaikė tiems kurstymams Treniotos\nširdis, iš prigimties pati linkusi į garbę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185442
+    - t-001

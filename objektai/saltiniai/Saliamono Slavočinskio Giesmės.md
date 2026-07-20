@@ -38,7 +38,6 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
 
 <a id="claim-t-21255"></a>
 - t-001
-  global_id: t-21255
   teiginys: "Saliamono Slavočinskio „Giesmės“ 1646 m. buvo vienas iš giesmynų, rūpinusiųsi lietuvių kalbos vartojimu Bažnyčioje ir mokykloje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,12 +67,11 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
     ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
-  citata_rodoma: |
-    mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)
+  citata_rodoma: "mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21255
+    - t-001

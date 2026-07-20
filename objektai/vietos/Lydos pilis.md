@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-11049"></a>
 - t-001
-  global_id: t-11049
   teiginys: "Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -87,15 +86,11 @@ Nenurodyta
     mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
-  citata_rodoma: |
-    Berods, Vytauto laikais buvo dar
-    mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo
-    būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
-    restauravimas mūrinių Vilniaus pilių.
+  citata_rodoma: "Berods, Vytauto laikais buvo dar\nmūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo\nbūti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir\nrestauravimas mūrinių Vilniaus pilių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11049
+    - t-001

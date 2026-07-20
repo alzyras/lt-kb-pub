@@ -31,7 +31,6 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 
 <a id="claim-t-30406"></a>
 - t-001
-  global_id: t-30406
   teiginys: "Iš Danijos karaliaus Valdemaro IV Ordinas nupirko Estiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
     ordinas rubežiavosi su Suomių įlanka (Narva), o vakaruose greit
     turėjo pasiekti Brandenburgo ribas. Už Žemaičių «tilto » įgijimą
     ordinas tad buvo linkęs užmiršti ankstybesnes Vytauto skriaudas.
-  citata_rodoma: |
-    Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje
-    ordinas rubežiavosi su Suomių įlanka (Narva), o vakaruose greit
-    turėjo pasiekti Brandenburgo ribas. Už Žemaičių «tilto » įgijimą
-    ordinas tad buvo linkęs užmiršti ankstybesnes Vytauto skriaudas.
+  citata_rodoma: "Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje\nordinas rubežiavosi su Suomių įlanka (Narva), o vakaruose greit\nturėjo pasiekti Brandenburgo ribas. Už Žemaičių «tilto » įgijimą\nordinas tad buvo linkęs užmiršti ankstybesnes Vytauto skriaudas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30406
+    - t-001

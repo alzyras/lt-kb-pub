@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-19604"></a>
 - t-001
-  global_id: t-19604
   teiginys: "LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,7 @@ Nenurodyta
   pagrindžia:
     - c-22307
     - c-166692
+
 ## Citatos
 
 - id: c-22307
@@ -87,15 +87,15 @@ Nenurodyta
     prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
     prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
     raštas, prieštaraująs valstybės įstatymams.
-  citata_rodoma: |
-    prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
+  citata_rodoma: "prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19604
+    - t-001
+
 - id: c-166692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,3 +112,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

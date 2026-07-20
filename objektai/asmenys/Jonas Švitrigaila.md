@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-87734"></a>
 - t-001
-  global_id: t-87734
   teiginys: "Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87734
+    - t-001

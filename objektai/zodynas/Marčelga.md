@@ -47,8 +47,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07656"></a>
-- t-001
-  global_id: t-07656
+- t-002
   teiginys: "Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,8 +63,7 @@ Papildomos aiškios formos neišskirtos.
     - c-09588
 
 <a id="claim-t-200951"></a>
-- t-002
-  global_id: t-200951
+- t-003
   teiginys: "Tą matydamas, Botelis, marčelga kryžėjų, norėjo savo kariauną gelbėti, dariu ėmė su lietuviais sandarauti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Papildomos aiškios formos neišskirtos.
     - c-184301
 
 <a id="claim-t-200952"></a>
-- t-003
-  global_id: t-200952
+- t-004
   teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -102,18 +99,19 @@ Papildomos aiškios formos neišskirtos.
         vadinos, ta visą godą^443 ir žmonystą^444 jaunojo pusės turėjo vesti, svečius, užvis jaunosios gentis,
         riešutais vaišino. Paskui visi linksminos ir gėrė porą dienų nuotakos namuose, kas vadinos
         ūkvaizdžius pergerti.
-  citata_rodoma: |
-    Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to, jog marčią martavo^441.
+  citata_rodoma: "Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to, jog marčią martavo^441."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07656
+    - t-002
+
 - id: c-184301
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu kariauna lietuvių kas dieną di­
     dinos, o kryžėjų stipdama mažinos. Tą matydamas,
@@ -130,10 +128,12 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200951
+    - t-003
+
 - id: c-184302
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­
@@ -160,4 +160,4 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200952
+    - t-004

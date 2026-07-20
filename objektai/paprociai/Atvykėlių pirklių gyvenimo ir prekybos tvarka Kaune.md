@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202011"></a>
 - t-001
-  global_id: t-202011
   teiginys: "Antai buvo nurodoma eksportinių vaško siuntų sudarymo tvarka ir dydis, rūpinamasi, kad sumažėjo įvežamos druskos statinės ir tai kauniečiams esą nuostolinga."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185358
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -72,4 +74,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202011
+    - t-001

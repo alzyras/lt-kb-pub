@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-186677"></a>
 - t-001
-  global_id: t-186677
   teiginys: "Lietuvos metraštis pasakoja, kad po Kęstučio ir Vytauto motinos nužudymo Vytautas pabėgo iš nelaisvės pas Prūsų Ordino didįjį magistrą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-186678"></a>
 - t-002
-  global_id: t-186678
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas, pabėgęs iš nelaisvės, nubėgo pas Prūsų Ordino didįjį magistrą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-186679"></a>
 - t-003
-  global_id: t-186679
   teiginys: "Lietuvos metraštis pasakoja, kad pas Prūsų Ordiną Vytautas priėmė krikščionių tikėjimą ir prisiekė paklusnumą popiežiui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -123,22 +120,13 @@ Nenurodyta
     ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
     O tenai pas juos palikau savo brolį, savo seserį, savo
     žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
-  citata_rodoma: |
-    Ir po duo­
-    to žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano
-    motiną taip pat nužudė, o ir mane patį jie paėmė į ne­
-    laisvę. Tada mane išgelbėjo dievas, ir aš nuo jų pabė­
-    gau ir nubėgau pas prakilnius žmones, Prūsų Ordino
-    didįjį magistrą, priėmiau šventąjį krikščionių tikėjimą
-    ir [prisiekiau) paklusnumą šventajam tėvui popiežiui.
-    O tenai pas juos palikau savo brolį, savo seserį, savo
-    žmoną ir savo vaikus. Visus juos palikau jo nelaisvėje.
+  citata_rodoma: "Ir po duo­\nto žodžio suėmė jie mūsų tėvą ir jį nužudė. Ir mano \nmotiną taip pat nužudė, o ir mane patį jie paėmė į ne­\nlaisvę. Tada mane išgelbėjo dievas, ir aš nuo jų pabė­\ngau ir nubėgau pas prakilnius žmones, Prūsų Ordino \ndidįjį magistrą, priėmiau šventąjį krikščionių tikėjimą \nir [prisiekiau) paklusnumą šventajam tėvui popiežiui. \nO tenai pas juos palikau savo brolį, savo seserį, savo \nžmoną ir savo vaikus. Visus juos palikau jo nelaisvėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186677
-    - t-186678
-    - t-186679
+    - t-001
+    - t-002
+    - t-003

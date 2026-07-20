@@ -38,8 +38,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 ## Teiginiai
 
 <a id="claim-t-97295"></a>
-- t-001
-  global_id: t-97295
+- t-002
   teiginys: "Šapoka poliublininių laikų tyrimuose „ieškojo lietuvių“ ir rašė apie Lietuvos ir Lenkijos santykius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     - c-91788
 
 <a id="claim-t-97296"></a>
-- t-002
-  global_id: t-97296
+- t-001
   teiginys: "„Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -95,5 +93,5 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97295
-    - t-97296
+    - t-002
+    - t-001

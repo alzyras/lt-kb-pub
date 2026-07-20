@@ -31,7 +31,6 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
 
 <a id="claim-t-41482"></a>
 - t-001
-  global_id: t-41482
   teiginys: "Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „Kristus prisikėlė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
     prisikėlė“. Tuo momentu buvo aktyvuo-
     tas lenkų rezervas, kuris pradėjo apeiti
     kryžiuočius kairėje iš jų dešiniojo flango.
-  citata_rodoma: |
-    Kryžiuočiai, pamanę, jog mūšis laimė-
-    tas, užtraukė pergalės giesmę „Kristus
-    prisikėlė“. Tuo momentu buvo aktyvuo-
-    tas lenkų rezervas, kuris pradėjo apeiti
-    kryžiuočius kairėje iš jų dešiniojo flango.
+  citata_rodoma: "Kryžiuočiai, pamanę, jog mūšis laimė-\ntas, užtraukė pergalės giesmę „Kristus\nprisikėlė“. Tuo momentu buvo aktyvuo-\ntas lenkų rezervas, kuris pradėjo apeiti\nkryžiuočius kairėje iš jų dešiniojo flango."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41482
+    - t-001

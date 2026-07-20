@@ -47,19 +47,6 @@ Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje
 - pasakotojo sesuo
 - rinkėja
 
-## Teiginiai
-
-<a id="claim-t-195557"></a>
-- t-001
-  global_id: t-195557
-  teiginys: "Morta buvo penkiolikmetė pasakotojo sesuo."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177974
-
 ## Citatos
 
 - id: c-177974
@@ -68,21 +55,10 @@ Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje
   puslapiai: "p. 36 (PDF 34)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 36 (PDF 34)."
   citata_originali: |
-    Šiandien sekmadienis, ateinantį sekmadienį bus Škaplierna — rugia-
-    piūtės metas.
-    Tėvas, parėjęs iš rugių lauko, sako šeimynai: „Jau ru­
-    gius galima piauti, rytą mėginsime“ .
-    Mūsų šeimynos sudėtis sekanti:
-    tėvas, motina, aš — dešimties metų vaikas,
-    sesuo Morta penkiolikos
-    metų ir dar du mažesni už mane;
-    tai tiek savųjų.
-  citata_rodoma: |
     Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų.
+  citata_rodoma: "Mūsų šeimynos sudėtis sekanti: tėvas, motina, aš — dešimties metų vaikas, sesuo Morta penkiolikos metų."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195557

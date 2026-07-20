@@ -39,8 +39,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 ## Teiginiai
 
 <a id="claim-t-79244"></a>
-- t-001
-  global_id: t-79244
+- t-002
   teiginys: "Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
     - c-76306
 
 <a id="claim-t-79245"></a>
-- t-002
-  global_id: t-79245
+- t-001
   teiginys: "1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79245
+    - t-001
+
 - id: c-76306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -118,4 +117,4 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79244
+    - t-002

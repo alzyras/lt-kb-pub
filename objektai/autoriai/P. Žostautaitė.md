@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-30920"></a>
 - t-001
-  global_id: t-30920
   teiginys: "P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,14 +76,11 @@ media_all_json: |-
     Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
-  citata_rodoma: |
-    ;
-    P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
-    mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
+  citata_rodoma: ";\nP. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­\nmas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30920
+    - t-001

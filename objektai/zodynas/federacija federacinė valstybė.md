@@ -38,8 +38,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 ## Teiginiai
 
 <a id="claim-t-101584"></a>
-- t-001
-  global_id: t-101584
+- t-002
   teiginys: "Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - c-24827
 
 <a id="claim-t-101585"></a>
-- t-002
-  global_id: t-101585
+- t-003
   teiginys: "1921 m. Sąjungininkai Vilniaus klausimą ir Lietuvos bei Lenkijos priešpriešą siekė sureguliuoti federacijos būdu."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - c-24828
 
 <a id="claim-t-101586"></a>
-- t-003
-  global_id: t-101586
+- t-001
   teiginys: "Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - c-24826
 
 <a id="claim-t-101587"></a>
-- t-004
-  global_id: t-101587
+- t-005
   teiginys: "Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - c-95101
 
 <a id="claim-t-101588"></a>
-- t-005
-  global_id: t-101588
+- t-004
   teiginys: "P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -128,7 +123,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 <a id="claim-t-183424"></a>
 - t-006
-  global_id: t-183424
   teiginys: "Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -162,15 +156,15 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     XVIII a. pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų),
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
-  citata_rodoma: |
-    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+  citata_rodoma: "Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101586
+    - t-001
+
 - id: c-24827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -184,15 +178,15 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     daujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad
     lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse
     etnografinėse ribose.
-  citata_rodoma: |
-    lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse
+  citata_rodoma: "lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101584
+    - t-002
+
 - id: c-24828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,18 +196,15 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     jos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-
     cijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-
     ko – kam tada apskritai kovoti dėl nepriklausomybės?
-  citata_rodoma: |
-    Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-
-    jos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-
-    cijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-
-    ko – kam tada apskritai kovoti dėl nepriklausomybės?
+  citata_rodoma: "Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-\njos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federa-\ncijos būdu. Varšuva tam nesipriešino, tačiau lietuviams federacija neti-\nko – kam tada apskritai kovoti dėl nepriklausomybės?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101585
+    - t-003
+
 - id: c-24829
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,15 +215,15 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
     ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
     diskusijom“.
-  citata_rodoma: |
-    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
+  citata_rodoma: "federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101588
+    - t-004
+
 - id: c-95101
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -253,7 +244,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101587
+    - t-005
+
 - id: c-166818
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -273,4 +265,4 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183424
+    - t-006

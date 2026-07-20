@@ -30,9 +30,8 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
 
 <a id="claim-t-190457"></a>
 - t-001
-  global_id: t-190457
   teiginys: "Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,22 +47,7 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173340
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Net buvo ap­
-    23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
-    rožytnej Polski. -  T. II).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190457
+
 ## Citatos
 
 - id: c-173340
@@ -71,20 +55,14 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
-    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
-    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
-    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
-    kiai tyrėjo nuomonei. Vis dėlto iki šiol ypač garbinami pilka­
-    piai, supilti ant žymių žmonių pelenų.
-  citata_rodoma: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
     rožytnej Polski. -  T. II).
+  citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190457
+    - t-001

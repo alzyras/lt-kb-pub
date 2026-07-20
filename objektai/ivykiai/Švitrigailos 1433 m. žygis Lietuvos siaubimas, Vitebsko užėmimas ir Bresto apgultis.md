@@ -7,13 +7,13 @@ datos:
   - '1433 m.'
 date_start: '1433'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žygis
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185546"></a>
 - t-001
-  global_id: t-185546
   teiginys: "1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,26 +69,10 @@ Nenurodyta
   pagrindžia:
     - c-168907
 
-<a id="claim-t-193366"></a>
-- t-002
-  global_id: t-193366
-  teiginys: "Kojelavičius vaizduoja, kad Švitrigaila Rusioje rengėsi karui prieš Lietuvą, o Žygimanto priešininkai traukė į jo pusę."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-176093
-
-## Citatos
-
-- id: c-168907
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, suteikė viso­
     keriopų privilegijų rusams,
@@ -105,35 +88,14 @@ Nenurodyta
     didikų bičiuliai, giminaičiai ir valstiečiai: visi nekentė
     Žygimanto, neseniai išžudžiusio didikus, o neapykantą
     dar labiau kurstė šio tiesiog neįtikimas godumas.
-  citata_rodoma: |
-    Lenkų kariuomenės vadai tuo metu buvo įsi­
-    vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
-    išsirengė į žygį padalijęs kariuomenę trimis žygio vo­
-    romis: su viena pats įsiveržė į senąsias Lietuvos žemes
-    ir jas nuniokojo. Jo karve-
-    N e b a u d žia m i siau bia
-    džiai ir šalininkai Kaributai-
-    L ie tu v o s že m e s
-    tis, Ostrogiškis, Nosis su ki­
-    tomis dviem voromis siautėjo
-    449
-    15. Lietuvos isto rija
-
-    ## Puslapis 448
-
-    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
-    m o.
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185546
-- id: c-176093
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Kojelavičius vaizduoja, kad Švitrigaila Rusioje rengėsi karui prieš Lietuvą, o Žygimanto priešininkai traukė į jo pusę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Būriais traukė pas Boleslovą neseniai nužudytų
     didikų bičiuliai, giminaičiai ir valstiečiai: visi nekentė
@@ -151,7 +113,50 @@ Nenurodyta
     neginti savo valdovo, o iš tolo stebėti jo pralaimėjimą.
     Tuo metu nei Žygimantas galėjo tikėtis lenkų pagal­
     bos, nei Boleslovas — jos baimintis.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168907
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Lenkų kariuomenės vadai tuo metu buvo įsi­
+    vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
+    išsirengė į žygį padalijęs kariuomenę trimis žygio vo­
+    romis: su viena pats įsiveržė į senąsias Lietuvos žemes
+    ir jas nuniokojo. Jo karve-
+    N e b a u d žia m i siau bia
+    džiai ir šalininkai Kaributai-
+    L ie tu v o s že m e s
+    tis, Ostrogiškis, Nosis su ki­
+    tomis dviem voromis siautėjo
+    449
+    15. Lietuvos isto rija
+
+    ## Puslapis 448
+
+    P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
+    m o.
+  citata_rodoma: "Lenkų kariuomenės vadai tuo metu buvo įsi­\nvėlę į naują karą su Prūsija, Štai todėl Boleslovas ir\nišsirengė į žygį padalijęs kariuomenę trimis žygio vo­\nromis: su viena pats įsiveržė į senąsias Lietuvos žemes\nir jas nuniokojo. Jo karve-\nN e b a u d žia m i siau bia\ndžiai ir šalininkai Kaributai-\nL ie tu v o s že m e s\ntis, Ostrogiškis, Nosis su ki­\ntomis dviem voromis siautėjo\n449\n15. Lietuvos isto rija\n\n## Puslapis 448\n\nP odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­\nm o."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-176093
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Lietuvos isto rija
 
     ## Puslapis 448
@@ -163,10 +168,9 @@ Nenurodyta
     M an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į
     n ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­
     dam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą.
+  citata_rodoma: "Lietuvos isto rija\n\n## Puslapis 448\n\nP odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­\nm o. Ž ygim antas, n esu lau k d am as iš len k ų  pag alb o s ir\np ag rįstai ab ejo d am as lietu v ių  d idikų ištikim ybe, n e išd rį­\nso p ats ro d y tis k ariu o m en ėje, o p ask y rė k arv ed žiu  P etrą\nM an tgirdaitį. Tas, p aro d ęs n e p a p ra stą  drąsą, įsitrau k ė į\nn ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­\ndam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193366

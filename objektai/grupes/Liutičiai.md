@@ -30,7 +30,6 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
 
 <a id="claim-t-192996"></a>
 - t-001
-  global_id: t-192996
   teiginys: "Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175766
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica.'
@@ -69,8 +68,7 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192996
+
 ## Citatos
 
 - id: c-175766
@@ -90,21 +88,11 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
     papročiuose išsaugojo nemažai kilmės pėdsakų. Kraštas,
     kur jie gyveno, vadinosi Verulija, Verlija, t. y. iškraipytas
     Herulijos pavadinimas. Tai įrodo Ksaveras Bogušas3.
-  citata_rodoma: |
-    Be to, pačioje Lietuvoje yra panašiai vadinamų
-    valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje
-    žinomi Vilkija, Vilkai, Vilkiškės. Vadinasi, kartos, vadi­
-    nusios savo gyvenamąją vietovę Vilkija, galėjo arba iš­
-    keliauti iš Lietuvos, arba atvykti nuo Oderio į Lietuvą
-    ir čia įamžinti savo kolonijų pavadinimus, kai jas po
-    minėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­
-    dien šis kraštas vadinamas Lužica2. Tačiau likę Meklen­
-    burge herulai, nors ir engiami vokiečių, savo kalboje ir
-    papročiuose išsaugojo nemažai kilmės pėdsakų.
+  citata_rodoma: "Be to, pačioje Lietuvoje yra panašiai vadinamų\nvalsčių ir netgi ne vienoje vietoje; lietuvių geografijoje\nžinomi Vilkija, Vilkai, Vilkiškės. Vadinasi, kartos, vadi­\nnusios savo gyvenamąją vietovę Vilkija, galėjo arba iš­\nkeliauti iš Lietuvos, arba atvykti nuo Oderio į Lietuvą\nir čia įamžinti savo kolonijų pavadinimus, kai jas po\nminėtų metų išstūmė slavai liutičiai, nuo kurių ir šian­\ndien šis kraštas vadinamas Lužica2. Tačiau likę Meklen­\nburge herulai, nors ir engiami vokiečių, savo kalboje ir\npapročiuose išsaugojo nemažai kilmės pėdsakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192996
+    - t-001

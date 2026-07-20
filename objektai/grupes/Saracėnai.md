@@ -10,14 +10,14 @@ datos:
   - '1429 m.'
 date_start: '1000'
 date_end: '1429'
-amziai:
-  - 'X'
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'X'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 <a id="claim-t-63210"></a>
 - t-001
-  global_id: t-63210
   teiginys: "Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,9 +59,8 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 <a id="claim-t-63211"></a>
 - t-002
-  global_id: t-63211
   teiginys: "Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -70,13 +68,12 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti duoklės trukmę ir dydį."
   pagrindžia:
-    - c-64214
-    - c-002
+    - c-64213
+
 <a id="claim-t-184583"></a>
 - t-003
-  global_id: t-184583
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,7 +91,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata."
   pagrindžia:
     - c-167944
-    - c-003
 - susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
 - susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
@@ -126,56 +122,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
-
-      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
-      596 1241 m. įvykiai.
-
-    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
-    21,33).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-63211
-- c-003
-  santrauka: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl vienaip kalbėjo im­
-    peratorius su Jogaila, kitaip
-    1429 m eta i
-    akis į akį su Vytautu. Valdo­
-    vų posėdyje jis visą laiką ra­
-    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
-    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
-    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
-    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
-    manymai, ir daugelis jiems
-    J o g a ila  atsisako
-    nuoširdžiai
-    pritarė,
-    tačiau
-    kur kas lengviau juos pa-
-    416
-
-    ## Puslapis 415
-
-    siūlyti, nei įgyvendinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184583
 ## Citatos
 
 - id: c-64213
@@ -189,33 +135,21 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
     užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
     kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
-  citata_rodoma: |
-    Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
-
-       Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
-    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
-    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
-    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
+  citata_rodoma: "Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių\n\n   Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių\nį Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį\nužpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai\nkraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63210
+    - t-001
+    - t-002
+
 - id: c-64214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Grįždamas po to namo, jis atsisakė jam į žmonas
-    pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo,
-    papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos
-    dievui bei jam įstotų į šį ordiną. Paklausę jo prašymų, jie visi sutiko. Tuo metu, kai šitai
-    dėjosi, vienas riteris su daugybe ginklanešių žiauriai apiplėšė šio landgrafo žemę; kai jis
-    traukė atgal, jį pasitiko tarnas, atskubėjęs iš jo pilies, ir pranešė, jog jo žmona atidavė
-    dievui sielą tą pačią valandą, kai, skausmų paguldyta, pagimdė negyvą berniuką.
-  citata_rodoma: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 
       Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
@@ -223,35 +157,18 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).
+  citata_rodoma: "23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-63211
 - id: c-167944
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be Lenkijos ka­
-    raliaus, Mazovijos kunigaikščių, Lietuvos bei Rusios
-    valdovų, karalystės senatorių ir kitų abiejų tautų di­
-    dikų, atkeliavo imperatorius Zigmantas su žmona bei
-    daugybė imperijos kunigaikščių, Erikas, Danijos bei
-    Švedijos karalius, Jono Paleólogo, Rytų imperatoriaus,
-    pasiuntiniai, Maskvos didysis kunigaikštis Vasilijus,
-    Tverės — Borisas, Riazanės — Olegas, Krymo bei Už­
-    valgio skitų chanai, teutonų ordinų magistrai Rusdor-
-    fas iš Prūsijos ir Zigfridas iš Livonijos. Visus išlaikė
-    Vytautas, gausiai viskuo aprūpindamas. Neminint kitų
-    gėrybių, kurias kuo stropiausiai surašė to meto istorikai,
-    kas dieną buvo pjaunama po septynis šimtus jaučių, po
-    tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
-    džių ir kitokių žvėrių, o išgeriama po septynis šimtus
-    statinių midaus, neskaitant kitų gėrimų.
-  citata_rodoma: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip
     1429 m eta i
@@ -272,13 +189,15 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     ## Puslapis 415
 
     siūlyti, nei įgyvendinti.
+  citata_rodoma: "Štai todėl vienaip kalbėjo im­\nperatorius su Jogaila, kitaip\n1429 m eta i\nakis į akį su Vytautu. Valdo­\nvų posėdyje jis visą laiką ra­\ngino sudaryti santarvę, sutelktomis jėgomis numalšinti\nhusitus, pirmiausia, žinoma, Čekijoje, o vėliau visą\nkariuomenę nukreipti prieš turkus ir saracėnus, kerši­\njant už Rytų imperijos griovimą. Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184583
+    - t-003
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Almimolinas]]
 - Saracėnai užėmė [[objektai/vietos/Maljorka]], [[objektai/vietos/Menorka]]

@@ -30,7 +30,6 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
 
 <a id="claim-t-88495"></a>
 - t-001
-  global_id: t-88495
   teiginys: "Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88495
+    - t-001

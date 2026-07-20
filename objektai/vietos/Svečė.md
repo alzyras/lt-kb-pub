@@ -32,7 +32,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 
 <a id="claim-t-58478"></a>
 - t-001
-  global_id: t-58478
   teiginys: "Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     - c-59112
 
 <a id="claim-t-58479"></a>
-- t-002
-  global_id: t-58479
+- t-003
   teiginys: "Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     - c-167593
 
 <a id="claim-t-58480"></a>
-- t-003
-  global_id: t-58480
+- t-002
   teiginys: "Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,8 +80,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     - c-59111
 
 <a id="claim-t-194550"></a>
-- t-004
-  global_id: t-194550
+- t-006
   teiginys: "Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,9 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58480
-    - t-194550
+    - t-002
+    - t-006
+
 - id: c-59112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -153,7 +150,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58478
+    - t-001
+
 - id: c-167593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,6 +172,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58479
+    - t-003
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]

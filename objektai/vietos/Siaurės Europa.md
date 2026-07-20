@@ -31,7 +31,6 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
 
 <a id="claim-t-192918"></a>
 - t-001
-  global_id: t-192918
   teiginys: "Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu, karais, sumaištimis, gaisrais ir religijų kaita."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192918
+    - t-001

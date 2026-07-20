@@ -31,7 +31,6 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 
 <a id="claim-t-01420"></a>
 - t-001
-  global_id: t-01420
   teiginys: "Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 
 <a id="claim-t-182910"></a>
 - t-002
-  global_id: t-182910
   teiginys: "Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -88,19 +86,15 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     lietuvių stovįs universitetas
     patyrinėtų jų praeitį ir šį
     tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
-  citata_rodoma: |
-    Iš Krokuvos atėjo į Vil-
-    nių prašymas, kad arčiau
-    lietuvių stovįs universitetas
-    patyrinėtų jų praeitį ir šį
-    tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
+  citata_rodoma: "Iš Krokuvos atėjo į Vil-\nnių prašymas, kad arčiau\nlietuvių stovįs universitetas\npatyrinėtų jų praeitį ir šį\ntą praneštų Mokslo Mėgėjų Draugijai Krokuvoj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01420
+    - t-001
+
 - id: c-166313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -124,4 +118,4 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182910
+    - t-002

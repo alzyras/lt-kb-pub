@@ -30,7 +30,6 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
 
 <a id="claim-t-191491"></a>
 - t-001
-  global_id: t-191491
   teiginys: "Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pranašo Khaintajo tėvą, o Khaintają esą nukankino Ross krašto tauta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,6 +82,7 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191491
+    - t-001
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Khaintajas]]

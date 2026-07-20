@@ -46,8 +46,7 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 ## Teiginiai
 
 <a id="claim-t-192329"></a>
-- t-001
-  global_id: t-192329
+- t-003
   teiginys: "Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,8 +63,7 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
     - c-175130
 
 <a id="claim-t-192330"></a>
-- t-002
-  global_id: t-192330
+- t-001
   teiginys: "Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,8 +81,7 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
     - c-175130
 
 <a id="claim-t-192331"></a>
-- t-003
-  global_id: t-192331
+- t-002
   teiginys: "Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -118,21 +115,13 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
     tą
     ir
     reiškia.
-  citata_rodoma: |
-    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne
-    viename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,
-    Paparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta
-    „Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė
-    žodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent
-    tą
-    ir
-    reiškia.
+  citata_rodoma: "Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus, ne\nviename jų randame lietuvių kalbai būdingų elementų. Pavyzdžiui,\nPaparona arba Kiniglis, tai reiškia ne kiškį, kaip kad pasakyta\n„Herbyne“ (aiškino tik pagal piešinį ir iš lotynų kalbos išvertė\nžodį Lepus)', bet triušį, nes lietuvių kalboje žodis Kiniglis būtent\ntą\nir\nreiškia."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192329
-    - t-192330
-    - t-192331
+    - t-003
+    - t-001
+    - t-002

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-31770"></a>
 - t-001
-  global_id: t-31770
   teiginys: "Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970. — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
-  citata_rodoma: |
-    — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
-    1970. — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
+  citata_rodoma: "— M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius\n1970. — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31770
+    - t-001

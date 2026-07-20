@@ -31,9 +31,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 
 <a id="claim-t-189003"></a>
 - t-001
-  global_id: t-189003
   teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,29 +49,9 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171892
-    - c-001
 - susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
 - susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Įėjimas -  tai priekiniai vartai, į dešinę
-    nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
-    arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
-    rėk VII lentelėje).
-    Kita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­
-    klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
-    7141-asis puslapis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189003
 ## Citatos
 
 - id: c-171892
@@ -80,17 +59,6 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai
-    XVII amžiaus pabaigoje jėzuitai atsikraustė į Kauną, lai iš pra­
-    džių įsigijo tik du pastatus: viename palys apsigyveno, o kitą per­
-    statė į bažnyčią. Tai ir buvo toji šventykla, vėliau paversta svirnu,
-    tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
-    nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
-    mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars
-    Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė
-    ponas Laurinavičius - garbingasis Kauno mokyklos profesorius
-    ir prefektas)*.
-  citata_rodoma: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
     arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
@@ -98,10 +66,11 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
     Kita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­
     klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
     7141-asis puslapis.
+  citata_rodoma: "Įėjimas -  tai priekiniai vartai, į dešinę\nnuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,\narba svečių namas (šios šventyklos ir viso miesto piešinį žiū­\nrėk VII lentelėje).\nKita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­\nklį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-\n7141-asis puslapis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189003
+    - t-001

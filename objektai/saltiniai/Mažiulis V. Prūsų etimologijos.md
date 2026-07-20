@@ -37,7 +37,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61169"></a>
 - t-001
-  global_id: t-61169
   teiginys: "V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,7 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: "Citata patvirtina publikavimo žurnalą ir metus."
   pagrindžia:
     - c-61801
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
@@ -67,8 +66,7 @@ Dusburgietis teigia, kad mažiulis V.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61169
+
 ## Citatos
 
 - id: c-61801
@@ -79,13 +77,11 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.
-  citata_rodoma: |
-    Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
-    52—55; 1978, 14 (2), p. 95—99.
+  citata_rodoma: "Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.\n52—55; 1978, 14 (2), p. 95—99."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61169
+    - t-001

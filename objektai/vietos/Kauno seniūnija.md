@@ -7,10 +7,10 @@ datos:
   - '1549 m.'
 date_start: '1549'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalien
 
 <a id="claim-t-201709"></a>
 - t-001
-  global_id: t-201709
   teiginys: "Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalienei."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201709
+    - t-001

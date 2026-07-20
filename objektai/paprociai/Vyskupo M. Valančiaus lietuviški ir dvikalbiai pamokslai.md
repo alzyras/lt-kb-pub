@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75404"></a>
-- t-001
-  global_id: t-75404
+- t-003
   teiginys: "Vyskupas Motiejus Valančius savo pirmąjį inauguracinį pamokslą sakė ir lietuviškai, ir lenkiškai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-73203
 
 <a id="claim-t-75405"></a>
-- t-002
-  global_id: t-75405
+- t-005
   teiginys: "Per Motiejaus Valančiaus inauguracinį pamokslą lietuvių žemaičių kalba katedroje iš vyskupo lūpų skambėjo bene pirmą kartą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Nenurodyta
     - c-73202
 
 <a id="claim-t-75406"></a>
-- t-003
-  global_id: t-75406
+- t-002
   teiginys: "M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-73202
 
 <a id="claim-t-75407"></a>
-- t-004
-  global_id: t-75407
+- t-001
   teiginys: "Vyskupas Motiejus Valančius pirmąjį inauguracinį pamokslą sakė lietuviškai ir lenkiškai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Nenurodyta
     - c-73203
 
 <a id="claim-t-75408"></a>
-- t-005
-  global_id: t-75408
+- t-004
   teiginys: "Motiejus Valančius rūpinosi, kad kunigai mokėtų lietuviškai, sakytų lietuviškus pamokslus ir prie bažnyčių steigtų lietuviškas mokyklas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -159,9 +154,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75405
-    - t-75406
-    - t-75408
+    - t-005
+    - t-002
+    - t-004
+
 - id: c-73203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -180,5 +176,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75404
-    - t-75407
+    - t-003
+    - t-001

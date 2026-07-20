@@ -29,8 +29,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 ## Teiginiai
 
 <a id="claim-t-60996"></a>
-- t-001
-  global_id: t-60996
+- t-002
   teiginys: "Pakartoto Įstatymo knygoje kerštas priskiriamas Viešpačiui, sakant: „Mano yra kerštas, ir aš atlyginsiu“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
     - c-61628
 
 <a id="claim-t-60997"></a>
-- t-002
-  global_id: t-60997
+- t-001
   teiginys: "Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,33 +67,28 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Višogrudo pilies sugriovimą
+    12. Apie Višogrudo pilies sugriovimą
 
       Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
     tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
     jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
     amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: |
-    Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
+  citata_rodoma: "Apie Višogrudo pilies sugriovimą\n\n  Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,\ntačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite\njūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir\namžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60996
+    - t-002
+
 - id: c-61629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Stiprindamas jų kilnias širdis, jis guodė juos šiais
-    viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20. 1): „Jei išeisi  į karą prieš
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
     savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
     negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
     (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
@@ -107,4 +100,4 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60997
+    - t-001

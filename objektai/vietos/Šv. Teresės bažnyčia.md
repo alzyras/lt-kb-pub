@@ -28,7 +28,6 @@ Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Co
 
 <a id="claim-t-200794"></a>
 - t-001
-  global_id: t-200794
   teiginys: "Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Co
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200794
+    - t-001

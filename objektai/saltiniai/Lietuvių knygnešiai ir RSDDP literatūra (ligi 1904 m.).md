@@ -38,7 +38,6 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
 
 <a id="claim-t-100183"></a>
 - t-001
-  global_id: t-100183
   teiginys: "„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100183
+    - t-001

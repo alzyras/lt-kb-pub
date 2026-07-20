@@ -31,7 +31,6 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 
 <a id="claim-t-103451"></a>
 - t-001
-  global_id: t-103451
   teiginys: "Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti kariai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 
 <a id="claim-t-103452"></a>
 - t-002
-  global_id: t-103452
   teiginys: "Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,7 +56,6 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 
 <a id="claim-t-103453"></a>
 - t-003
-  global_id: t-103453
   teiginys: "Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,7 +86,8 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103451
+    - t-001
+
 - id: c-96634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,5 +105,5 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103452
-    - t-103453
+    - t-002
+    - t-003

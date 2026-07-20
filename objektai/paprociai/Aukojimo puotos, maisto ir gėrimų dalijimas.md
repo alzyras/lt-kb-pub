@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189794"></a>
 - t-001
-  global_id: t-189794
   teiginys: "Narbutas aukojimo paprotį apibūdina kaip labai įsišaknijusį tarp senovės lietuvių ir susijusį su bendromis dalyvių vaišėmis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189794
+    - t-001

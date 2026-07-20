@@ -37,8 +37,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 ## Teiginiai
 
 <a id="claim-t-42510"></a>
-- t-001
-  global_id: t-42510
+- t-003
   teiginys: "Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45548
 
 <a id="claim-t-42511"></a>
-- t-002
-  global_id: t-42511
+- t-001
   teiginys: "Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45549
 
 <a id="claim-t-42512"></a>
-- t-003
-  global_id: t-42512
+- t-002
   teiginys: "Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,17 +104,15 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
-  citata_rodoma: |
-    Stabmeldžiai
-    mėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir
-    t. t.
+  citata_rodoma: "Stabmeldžiai\nmėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir\nt. t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42510
+    - t-003
+
 - id: c-45549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -130,20 +125,15 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
     riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
     kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
-  citata_rodoma: |
-    , siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
-    pats užpulti priešo teritoriją, jį dezinformuoja
-    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
-    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
-    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
-    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  citata_rodoma: ", siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas\npats užpulti priešo teritoriją, jį dezinformuoja\n„Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena\nklastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-\nriuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal\nkilmingiausių [svečių] patarimą grįžta saugoti savo krašto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42511
+    - t-001
+
 - id: c-45550
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -156,16 +146,11 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
     buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.
     Jie vejasi grįžtantį maršalą.
-  citata_rodoma: |
-    Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
-    buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t.
+  citata_rodoma: "Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur\npagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-\ntas ugnimi išdegintas. O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti\nbuvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42512
+    - t-002

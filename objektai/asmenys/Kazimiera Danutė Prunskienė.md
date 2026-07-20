@@ -31,7 +31,6 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
 
 <a id="claim-t-40278"></a>
 - t-001
-  global_id: t-40278
   teiginys: "Kazimieros Danutės Prunskienės vadovaujama Lietuvos Vyriausybė, nepaisydama AT prieštaravimo, pakėlė maisto produktų kainas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,20 +62,11 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
     desanto daliniai aiškinant, kad jie užtik-
     rins prievartinį jaunuolių ėmimą į sovie-
     tinę armiją.
-  citata_rodoma: |
-    Pretekstu tapo Lietuvos
-    Vyriausybės, vadovaujamos Kazimieros
-    Danutės Prunskienės, nepaisant AT prieš-
-    taravimo, išvakarėse pakeltos maisto pro-
-    duktų kainos. Tą pačią dieną į Lietuvą
-    buvo įvesti papildomi sovietų armijos oro
-    desanto daliniai aiškinant, kad jie užtik-
-    rins prievartinį jaunuolių ėmimą į sovie-
-    tinę armiją.
+  citata_rodoma: "Pretekstu tapo Lietuvos\nVyriausybės, vadovaujamos Kazimieros\nDanutės Prunskienės, nepaisant AT prieš-\ntaravimo, išvakarėse pakeltos maisto pro-\nduktų kainos. Tą pačią dieną į Lietuvą\nbuvo įvesti papildomi sovietų armijos oro\ndesanto daliniai aiškinant, kad jie užtik-\nrins prievartinį jaunuolių ėmimą į sovie-\ntinę armiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40278
+    - t-001

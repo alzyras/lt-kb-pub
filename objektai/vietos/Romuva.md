@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-84715"></a>
-- t-001
-  global_id: t-84715
+- t-004
   teiginys: "Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-80850
 
 <a id="claim-t-84716"></a>
-- t-002
-  global_id: t-84716
+- t-001
   teiginys: "Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ media_all_json: |-
     - c-24436
 
 <a id="claim-t-84717"></a>
-- t-003
-  global_id: t-84717
+- t-002
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -75,9 +72,9 @@ media_all_json: |-
   pagrindžia:
     - c-24437
     - c-167019
+
 <a id="claim-t-84718"></a>
-- t-004
-  global_id: t-84718
+- t-003
   teiginys: "Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ media_all_json: |-
 
 <a id="claim-t-183626"></a>
 - t-005
-  global_id: t-183626
   teiginys: "Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -177,16 +173,15 @@ media_all_json: |-
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: |
-    Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+  citata_rodoma: "Šio proceso ankstyvąja apraiška reikėtų laikyti\nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84716
+    - t-001
+
 - id: c-24437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,16 +192,15 @@ media_all_json: |-
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis.
-  citata_rodoma: |
-    Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis.
+  citata_rodoma: "Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84717
+    - t-002
+
 - id: c-80850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,7 +220,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84715
+    - t-004
+
 - id: c-80851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -245,7 +240,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84718
+    - t-003
+
 - id: c-167018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -262,7 +258,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183626
+    - t-005
+
 - id: c-167019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,6 +275,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Romuva priklausė [[objektai/vietos/Nadruva]]

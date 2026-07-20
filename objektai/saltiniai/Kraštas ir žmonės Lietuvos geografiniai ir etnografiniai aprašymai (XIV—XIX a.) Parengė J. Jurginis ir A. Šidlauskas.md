@@ -39,7 +39,6 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 
 <a id="claim-t-61106"></a>
 - t-001
-  global_id: t-61106
   teiginys: "Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio rengėjus ir leidimo duomenis."
   pagrindžia:
     - c-61738
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
@@ -69,8 +68,7 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61106
+
 ## Citatos
 
 - id: c-61738
@@ -81,13 +79,11 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
-  citata_rodoma: |
-    Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
-    Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
+  citata_rodoma: "Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /\nParengė J. Jurginis ir A. Šidlauskas.—V., 1983."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61106
+    - t-001

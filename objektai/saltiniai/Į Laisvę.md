@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-100229"></a>
 - t-001
-  global_id: t-100229
   teiginys: "117 Ikškilė (Uexkuel) 165 Į Laisvę 42 Ilmenio ež."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,17 +63,11 @@ media_all_json: |-
     Indija 20, 140
     Indreko R. 97
     Inocentas III, pop.
-  citata_rodoma: |
-    7
-    Ibrahim Ibn Jakūb 115, 118
-    Igoris, kng. 117
-    Ikškilė (Uexkuel) 165**
-    **_Į Laisvę_** **42
-    Ilmenio ež.
+  citata_rodoma: "7\nIbrahim Ibn Jakūb 115, 118\nIgoris, kng. 117\nIkškilė (Uexkuel) 165**\n**_Į Laisvę_** **42\nIlmenio ež."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100229
+    - t-001

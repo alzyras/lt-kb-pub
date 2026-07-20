@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-39631"></a>
 - t-001
-  global_id: t-39631
   teiginys: "Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,6 +68,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39631
+    - t-001
+
 ## Ryšiai
 - Pukuveras (Lietuvos karalius) siuntė į [[objektai/vietos/Lenkija]]

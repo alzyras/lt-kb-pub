@@ -37,7 +37,6 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
 
 <a id="claim-t-80603"></a>
 - t-001
-  global_id: t-80603
   teiginys: "Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,20 +73,11 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
 
     Juozas Daumantas savo prisiminimuose pasakoja apie 1947 m. gruodį sėkmingą
     sienos perėjimą į Lenkiją, netrukus vykdytą mėginimą grįžti atgal.
-  citata_rodoma: |
-    Čia
-    žuvo 5 partizanai.
-
-    Taip pat užpultas Antano Jančio-Žaibo
-    bunkeris Šimonių girioje prie Iženos upelio,
-    jame žuvo 6 partizanai. Vėliausiai užpul-
-    tas Kunigaikščio Margio rinktinės bunkeris
-
-    Juozas Daumantas savo prisiminimuose pasakoja apie 1947 m.
+  citata_rodoma: "Čia\nžuvo 5 partizanai.\n\nTaip pat užpultas Antano Jančio-Žaibo\nbunkeris Šimonių girioje prie Iženos upelio,\njame žuvo 6 partizanai. Vėliausiai užpul-\ntas Kunigaikščio Margio rinktinės bunkeris\n\nJuozas Daumantas savo prisiminimuose pasakoja apie 1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80603
+    - t-001

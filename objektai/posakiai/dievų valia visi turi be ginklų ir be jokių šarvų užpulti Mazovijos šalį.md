@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189558"></a>
-- t-001
-  global_id: t-189558
-  teiginys: 'Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Legendinis religinis nurodymas paliktas su Narbuto pasakojimo atribucija. Išskleistas subjektas ir veiksmas, bet nepridėta aplinkybių už citatos ribų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Galinda'
-  pagrindžia:
-    - c-172446
-
-## Citatos
-
-- id: c-172446
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginklų ir šarvų turi pulti Mazoviją, kur jų laukiąs didelis laimikis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Pasipiktinusios šito­
     305
@@ -66,10 +51,8 @@ Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginkl�
     sus iki vieno. O jų šalį užpuolė supykdyti kaimynai ir taip nu­
     niokojo, kad Galinda daugeliui metų paliko beveik negyve­
     nama.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189558
+  statusas: verified

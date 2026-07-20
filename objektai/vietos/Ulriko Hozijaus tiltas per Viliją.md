@@ -38,8 +38,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 ## Teiginiai
 
 <a id="claim-t-86154"></a>
-- t-001
-  global_id: t-86154
+- t-003
   teiginys: "Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 
 <a id="claim-t-86155"></a>
 - t-002
-  global_id: t-86155
   teiginys: "1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - c-82133
 
 <a id="claim-t-194260"></a>
-- t-003
-  global_id: t-194260
+- t-004
   teiginys: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -107,24 +104,15 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
-  citata_rodoma: |
-    ) Žy­
-    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
-    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
-    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
-    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
-    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
-    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
-    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
-    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
-    išlaidos, prie dominikonų Šv.
+  citata_rodoma: ") Žy­\ngimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­\nniaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą \njo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­\ntyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria \niki tol buvo naudojamasi, karalius leido imti tam tikrą mo­\nkestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­\ngumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho- \nzijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos \nišlaidos, prie dominikonų Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86155
+    - t-002
+
 - id: c-82134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,7 +133,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86154
+    - t-003
+
 - id: c-176854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,4 +155,4 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194260
+    - t-004

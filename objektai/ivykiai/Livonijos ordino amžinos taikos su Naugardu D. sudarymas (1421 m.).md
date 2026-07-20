@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35858"></a>
 - t-001
-  global_id: t-35858
   teiginys: "1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,19 +87,11 @@ Nenurodyta
     Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
     jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
     žemes.
-  citata_rodoma: |
-    Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
-    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
-    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
-    žemes.
+  citata_rodoma: "Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35858
+    - t-001

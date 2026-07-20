@@ -37,7 +37,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 
 <a id="claim-t-01413"></a>
 - t-001
-  global_id: t-01413
   teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-  citata_rodoma: |
-    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01413
+    - t-001

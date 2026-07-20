@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 
 <a id="claim-t-62600"></a>
 - t-001
-  global_id: t-62600
   teiginys: "Po popiežiaus mirties kardinolų kolegijos skilimas truko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl naujo popiežiaus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,21 +71,11 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
     užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
     išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
     Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
-  citata_rodoma: |
-    Apie tris saulės spindulius ir kolegijos suskilimą
-
-      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
-    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
-    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
-    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
-    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
-    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
-    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
-    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
+  citata_rodoma: "Apie tris saulės spindulius ir kolegijos suskilimą\n\n  1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,\napie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —\npietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai\nstovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,\nrodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas\nužtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus\nišrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus\nCezaris, o po jo mirties suskilo senatas (Ptol. n 1241)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62600
+    - t-001

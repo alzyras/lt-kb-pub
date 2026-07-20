@@ -13,12 +13,12 @@ datos:
   - '1484 m.'
 date_start: '1480'
 date_end: '1484'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-202110"></a>
 - t-001
-  global_id: t-202110
   teiginys: "1480-1484 m. Kazimieras Jogailaitis ne kartą rašė Dancigui, kad leistų parduoti svetimiems pirkliams grūdus, kuriuos gabena Kauno miestietis Zacharas (Zachariam civem nostrum Cownensem), dar vadinamas valdovo pirkliu (mercatorem nostrum de Cowno,factorem."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202110
+    - t-001

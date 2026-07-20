@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201389"></a>
 - t-001
-  global_id: t-201389
   teiginys: "Vyriškieji vienais žirgais terūpinos, kuriuos jau namuose, jau medėse augindami karėn skudri no; visas turtas senųjų žemaičių buvo žirgas ir gink las, kuriuo jie džiaugės ir didžiavos, ką šiandien dar Lietuvos ir Žemaičių dainės tebstigavoja, ku riose žirgas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184739
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gal sakyti, girios ir medės buvo jų namais ir
     trobomis, kaipogi, išėję į girią medžioti, tris ketu­
@@ -85,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201389
+    - t-001

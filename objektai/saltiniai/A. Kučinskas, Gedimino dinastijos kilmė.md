@@ -36,7 +36,6 @@ Kučinskas, A.
 
 <a id="claim-t-31589"></a>
 - t-001
-  global_id: t-31589
   teiginys: "A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ Kučinskas, A.
     A. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas
     1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
     iš Žemaičių).
-  citata_rodoma: |
-    — Kučinskas,
-    A. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas
-    1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
-    iš Žemaičių).
+  citata_rodoma: "— Kučinskas,\nA. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas\n1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę\niš Žemaičių)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31589
+    - t-001

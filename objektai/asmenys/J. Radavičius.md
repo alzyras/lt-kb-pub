@@ -31,7 +31,6 @@ Radavičius, A.
 
 <a id="claim-t-40163"></a>
 - t-001
-  global_id: t-40163
   teiginys: "J. Radavičius buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Radavičius, A.
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Batalionų vadais
+    sintus dalgius ir durtuvus. Batalionų vadais
 
     buvo paskirti: B. Žarskis, J. Radavičius,
 
@@ -62,20 +61,11 @@ Radavičius, A.
     nievskis, S. Kozakauskas, D. Maleckis,
 
     K. Maleckis, M. Stanišauskas.
-  citata_rodoma: |
-    Batalionų vadais
-
-    buvo paskirti: B. Žarskis, J. Radavičius,
-
-    A. Mackevičius, Antonievičius, E. Vžes-
-
-    nievskis, S. Kozakauskas, D. Maleckis,
-
-    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40163
+    - t-001

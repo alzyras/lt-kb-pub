@@ -31,9 +31,8 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
 
 <a id="claim-t-189537"></a>
 - t-001
-  global_id: t-189537
   teiginys: "Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per naktį nudirbdavusias nebaigtus darbus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,27 +41,7 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172425
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per naktį nudirbdavusias nebaigtus darbus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žemės motina (Žemines Mahti)
-    Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
-    numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
-    šantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­
-    tas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­
-    davo savo malonę, leisdama toms mergelėms per naktį nu­
-    dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
-    viską gatava.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189537
+
 ## Citatos
 
 - id: c-172425
@@ -70,20 +49,6 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Niech twoja Neris (a) i bogam oznami,
-    Pod ktorych wladzą są morskie zamęty,
-    Cierpienia moję i žal nieujęty.
-    Powiedz przešliczne boztwo Wiliej rzeki
-    Nimfom (b) twym siostrom, boginiom podwodnym:
-    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
-    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
-    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą. Pir­
-    mą kartą dėl nekrikšto žydo Rubino kaltės 1748 metų birželio 11
-    dieną, tarytum iš pragaro gilumos išsiveržus liepsnai iš alaus daryk­
-    los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
-    miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
-    žirbos iš nepaprasta liepsna užsidegusio kamino.
-  citata_rodoma: |
     Žemės motina (Žemines Mahti)
     Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors
     numesta ant žemės arba pamesta, jos galia sugrąžinti to pra­
@@ -92,10 +57,11 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
     davo savo malonę, leisdama toms mergelėms per naktį nu­
     dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
     viską gatava.
+  citata_rodoma: "Žemės motina (Žemines Mahti)\nPožemio deivė, gyvenusi žemės viduryje. Jeigu kas nors\nnumesta ant žemės arba pamesta, jos galia sugrąžinti to pra­\nšantiems. Jos patarnautojos buvo šventosios mergelės-Sutek­\ntas mejtas, nemarios mergos. Savo garbintojams toji deivė teik­\ndavo savo malonę, leisdama toms mergelėms per naktį nu­\ndirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų\nviską gatava."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189537
+    - t-001

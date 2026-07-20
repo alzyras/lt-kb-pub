@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-77928"></a>
 - t-001
-  global_id: t-77928
   teiginys: "1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77928
+    - t-001

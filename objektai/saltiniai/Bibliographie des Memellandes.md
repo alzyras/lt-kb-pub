@@ -36,7 +36,6 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 
 <a id="claim-t-31635"></a>
 - t-001
-  global_id: t-31635
   teiginys: "„Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
     Atskirai paminėtina Klaipėdos krašto bibliografija :
     M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge
     aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
-  citata_rodoma: |
-    Atskirai paminėtina Klaipėdos krašto bibliografija :
-    M. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge
-    aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
+  citata_rodoma: "Atskirai paminėtina Klaipėdos krašto bibliografija :\nM. Szameitat :** **_Bibliographie des Memellandes_** **(Ostdeutsche Beiträge\naus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31635
+    - t-001

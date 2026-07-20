@@ -36,7 +36,6 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61240"></a>
 - t-001
-  global_id: t-61240
   teiginys: "J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61240
+    - t-001

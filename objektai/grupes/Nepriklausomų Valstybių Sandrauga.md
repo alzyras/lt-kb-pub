@@ -38,7 +38,6 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
 
 <a id="claim-t-19957"></a>
 - t-001
-  global_id: t-19957
   teiginys: "Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
     jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
     į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
     metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
-  citata_rodoma: |
-    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
+  citata_rodoma: "į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19957
+    - t-001

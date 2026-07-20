@@ -28,7 +28,6 @@ Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją
 
 <a id="claim-t-201729"></a>
 - t-001
-  global_id: t-201729
   teiginys: "Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją Didžiojoje gatvėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201729
+    - t-001

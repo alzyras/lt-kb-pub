@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-34947"></a>
 - t-001
-  global_id: t-34947
   teiginys: "Władysławo Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku“ buvo išspausdintas leidinyje „Polska i Litwa w dziejowym stosunku“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34947
+    - t-001

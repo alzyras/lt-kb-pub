@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-40709"></a>
 - t-001
-  global_id: t-40709
   teiginys: "Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-40710"></a>
 - t-002
-  global_id: t-40710
   teiginys: "Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40709
+    - t-001
+
 - id: c-44651
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,15 +131,11 @@ Nenurodyta
 
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių.
-  citata_rodoma: |
-    Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
-    dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)
-
-    Lietuvos teritoriją, todėl 1656 m.
+  citata_rodoma: "Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas\ndengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)\n\nLietuvos teritoriją, todėl 1656 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40710
+    - t-002

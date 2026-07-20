@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-101527"></a>
 - t-001
-  global_id: t-101527
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-101528"></a>
 - t-002
-  global_id: t-101528
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,17 +107,12 @@ Nenurodyta
     tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
-  citata_rodoma: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    205
-    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
-    moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
+  citata_rodoma: "5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n205\n1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-\nmoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio \norganizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101527
-    - t-101528
+    - t-001
+    - t-002

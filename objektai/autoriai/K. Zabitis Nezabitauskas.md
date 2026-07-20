@@ -30,7 +30,6 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 
 <a id="claim-t-05735"></a>
 - t-001
-  global_id: t-05735
   teiginys: "K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,18 +59,11 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: |
-    D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
-    rinko senas knygas. K. Za-
-    bitis Nezabitauskas
-    išleido lietuviškųjų knygų bi-
-    bliografiją, S. Stanevi-
-    čius — lietuviškų dainų rin-
-    kinį.
+  citata_rodoma: "D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui\nrinko senas knygas. K. Za-\nbitis Nezabitauskas\nišleido lietuviškųjų knygų bi-\nbliografiją, S. Stanevi-\nčius — lietuviškų dainų rin-\nkinį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05735
+    - t-001

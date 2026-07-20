@@ -40,7 +40,6 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
 
 <a id="claim-t-61101"></a>
 - t-001
-  global_id: t-61101
   teiginys: "M. Tepenas nurodė, kad Dusburgietis rėmėsi 1230 m. kunigaikščio Konrado dovanojamuoju raštu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,13 +70,11 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
     1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m. sausio
     18 d. bule (II, 6), žuvusia Sventopelko ir Ordino 1243 m. sutartimi (III, 39), kad galėjęs
     žinoti 1282 m.
-  citata_rodoma: |
-    M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
-    1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m.
+  citata_rodoma: "M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis\n1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61101
+    - t-001

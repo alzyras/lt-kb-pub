@@ -31,7 +31,6 @@ Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nu
 
 <a id="claim-t-189339"></a>
 - t-001
-  global_id: t-189339
   teiginys: "Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nustatytų metų, o vėliau jos galėdavo ištekėti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189339
+    - t-001

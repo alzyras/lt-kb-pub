@@ -32,7 +32,6 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
 
 <a id="claim-t-95931"></a>
 - t-001
-  global_id: t-95931
   teiginys: "Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95931
+    - t-001

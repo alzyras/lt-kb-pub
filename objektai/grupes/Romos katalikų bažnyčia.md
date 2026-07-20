@@ -31,7 +31,6 @@ Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje prisky
 
 <a id="claim-t-189449"></a>
 - t-001
-  global_id: t-189449
   teiginys: "Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje priskyrė slaptą priežastį slėpti pakartotinį krikštijimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje prisky
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189449
+    - t-001

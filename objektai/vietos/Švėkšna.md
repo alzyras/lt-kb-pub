@@ -7,13 +7,13 @@ datos:
   - '1815 m.'
 date_start: '1815'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-188942"></a>
 - t-001
-  global_id: t-188942
   teiginys: "Narbutas rašo, kad 1814 ar 1815 m. Švėkšnos klebonijos sode rastą auksinių monetų lobį pasisavino tarnas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ media_all_json: |-
 
 <a id="claim-t-194760"></a>
 - t-002
-  global_id: t-194760
   teiginys: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš to gyventojams."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,35 +69,13 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177156
-    - c-002
+    - c-171831
 - susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190045|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų.
 - susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-188475|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.
 - susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189650|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.
 - susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189652|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono Juozapo Januškevičiaus sode rasto lobio istorija buvo žinoma vietos gyventojams.
 - susijęs iš [[objektai/asmenys/Juozapas Januškevičius.md#claim-t-190164|Juozapas Januškevičius]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
 - susijęs iš [[objektai/asmenys/Jurgis Plioteris.md#claim-t-190167|Jurgis Plioteris]]: Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Apie šio lobio suradimą Švėkšnos klebono kunigo kanau ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš to gyventojams.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
-    užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
-    sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
-    auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem
-    kraštams.
-    Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
-    ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
-    to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
-    turėjo keletą tokių auksinių monetų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194760
 ## Citatos
 
 - id: c-171831
@@ -120,24 +96,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188942
+    - t-001
+    - t-002
+
 - id: c-177156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šių keliautojų vadas vadinosi Nemu­
-    nas (Nemon). Apie jį dar esama padavimo, kad jis buvęs gar­
-    binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
-    ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų ap­
-    skrityje yra taip besivadinąs miestelis su pylimų žymėmis ir
-    keliais milžinkapiais. Pusdievio ir Nemuno vardo panašumas
-    perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­
-    kas šia upe keliavęs, bus davęs upei savo vardą. Lietuvoje
-    gyveno panašiai besivadinanti bajorų giminė; turim rankoje
-    laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemu-
-    navičiaus (Niemonowicz) parašu.
-  citata_rodoma: |
     Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
     užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
     sinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir
@@ -147,10 +113,9 @@ media_all_json: |-
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
     turėjo keletą tokių auksinių monetų.
+  citata_rodoma: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194760

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62960"></a>
 - t-001
-  global_id: t-62960
   teiginys: "1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-63850
 
 <a id="claim-t-194435"></a>
-- t-002
-  global_id: t-194435
+- t-004
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -105,25 +103,12 @@ Nenurodyta
     tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
 
     vienas nebūtų išnešęs sveikos galvos.
-  citata_rodoma: |
-    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
-                                    kariuomenę
-
-      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
-    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
-    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
-    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
-    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
-    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
-    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
-    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
-
-    vienas nebūtų išnešęs sveikos galvos.
+  citata_rodoma: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę\n                                kariuomenę\n\n  1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir\nNotangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,\natūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,\njog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau\nnei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais\nnegalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai\ntrukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas\ntykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė\n\nvienas nebūtų išnešęs sveikos galvos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62960
-    - t-194435
+    - t-001
+    - t-004

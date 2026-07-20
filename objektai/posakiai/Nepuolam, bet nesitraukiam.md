@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09671"></a>
-- t-001
-  global_id: t-09671
+- t-004
   teiginys: "„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-12484
 
 <a id="claim-t-09672"></a>
-- t-002
-  global_id: t-09672
+- t-003
   teiginys: "Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -75,18 +73,15 @@ media_all_json: |-
     nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
     smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
     traukti.
-  citata_rodoma: |
-    Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus
-    nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
-    smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
-    traukti.
+  citata_rodoma: "Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus\nnesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi\nsmurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-\ntraukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09672
+    - t-003
+
 - id: c-12484
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -98,13 +93,11 @@ media_all_json: |-
     nuodami ir melsdamiesi, stojo skersai kelio sovietų užpuolikui.
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
     kulminaciją.
-  citata_rodoma: |
-    „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
-    kulminaciją.
+  citata_rodoma: "„Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo\nkulminaciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09671
+    - t-004

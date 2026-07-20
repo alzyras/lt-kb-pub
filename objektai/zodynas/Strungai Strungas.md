@@ -31,7 +31,6 @@ Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviš
 
 <a id="claim-t-189333"></a>
 - t-001
-  global_id: t-189333
   teiginys: "Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189333
+    - t-001

@@ -31,7 +31,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 
 <a id="claim-t-86565"></a>
 - t-001
-  global_id: t-86565
   teiginys: "Rygos arkivyskupas skundėsi, kad kryžiuočiai naujakrikščius apkrovė nepakeliama prievolių našta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86565
+    - t-001

@@ -37,7 +37,6 @@ Dejevo, į Paupį.
 
 <a id="claim-t-38525"></a>
 - t-001
-  global_id: t-38525
   teiginys: "1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,6 +81,7 @@ Dejevo, į Paupį.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38525
+    - t-001
+
 ## Ryšiai
 - Užėmė Paupį: [[objektai/grupes/Rusai]]

@@ -31,7 +31,6 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
 
 <a id="claim-t-189342"></a>
 - t-001
-  global_id: t-189342
   teiginys: "Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvulių tuklumą, maistinį tinkamumą ir mėsos apsaugą nuo sugedimo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189342
+    - t-001

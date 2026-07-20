@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-38157"></a>
 - t-001
-  global_id: t-38157
   teiginys: "Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,6 +84,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38157
+    - t-001
+
 ## Ryšiai
 - Užėmė Užpaliai: [[objektai/asmenys/P. Genys]]

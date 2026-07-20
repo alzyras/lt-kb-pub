@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-40801"></a>
 - t-001
-  global_id: t-40801
   teiginys: "Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Nenurodyta
   citata_originali: |
     p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr.
     p. 220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.
-  citata_rodoma: |
-    p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr.
+  citata_rodoma: "p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40801
+    - t-001

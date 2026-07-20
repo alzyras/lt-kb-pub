@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-78677"></a>
 - t-001
-  global_id: t-78677
   teiginys: "1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-75891
 
 <a id="claim-t-78678"></a>
-- t-002
-  global_id: t-78678
+- t-003
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-75893
 
 <a id="claim-t-78679"></a>
-- t-003
-  global_id: t-78679
+- t-002
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -145,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78677
+    - t-001
+
 - id: c-75892
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,7 +164,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78679
+    - t-002
+
 - id: c-75893
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -188,25 +187,11 @@ Nenurodyta
     1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
     siją - AKM.
-  citata_rodoma: |
-    Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
-    snaiperiniuose šautuvuose ir kulkosvaidžiuose
-
-    šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario
-    nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant
-    automatine ugnimi (sutrumpinti šoviniai pradėti naudoti Antrojo
-    pasaulinio karo laikais jav (Garand) ir Vokietijoje (stG 44)).
-
-    Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
-    prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
-    tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
-    paplito po visą pasaulį.
-
-    1959 m.
+  citata_rodoma: "Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų\nsnaiperiniuose šautuvuose ir kulkosvaidžiuose\n\nšovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario\nnešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant\nautomatine ugnimi (sutrumpinti šoviniai pradėti naudoti Antrojo\npasaulinio karo laikais jav (Garand) ir Vokietijoje (stG 44)).\n\nKalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-\nprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,\ntai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai\npaplito po visą pasaulį.\n\n1959 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78678
+    - t-003

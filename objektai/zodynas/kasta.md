@@ -47,8 +47,7 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 ## Teiginiai
 
 <a id="claim-t-192264"></a>
-- t-001
-  global_id: t-192264
+- t-002
   teiginys: "Teodoras Narbutas rašo, kad iš šios kastos arba luomo buvo renkami vadai ir įsakinėtojai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,10 +63,9 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175094
-    - c-001
+
 <a id="claim-t-192265"></a>
-- t-002
-  global_id: t-192265
+- t-001
   teiginys: "Narbutas apibūdina senąsias gentis kaip priklausiusias kastai arba luomui su viršenybe kitiems."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -75,7 +73,6 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175094
-    - c-001
 - susijęs iš [[objektai/grupes/Kolchai.md#claim-t-192954|Kolchai]]: Narbutas rašo, kad nuo neatmenamų laikų kolchai buvo laikomi labai turtingais ir išmanančiais gamtos dalykus.
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,9 +93,8 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192264
-    - t-192265
+- t-192265
+
 ## Citatos
 
 - id: c-175094
@@ -118,17 +114,12 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
     se arba pilaitėse. Nuo seniausių laikų šios gentys pri­
     klausė tam tikrai kastai arba luomui, turėjusiam virše­
     nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
-  citata_rodoma: |
-    Beveik nėra abejonių, kad šias krašto dalis valdė
-    įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
-    se arba pilaitėse. Nuo seniausių laikų šios gentys pri­
-    klausė tam tikrai kastai arba luomui, turėjusiam virše­
-    nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
+  citata_rodoma: "Beveik nėra abejonių, kad šias krašto dalis valdė\nįžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­\nse arba pilaitėse. Nuo seniausių laikų šios gentys pri­\nklausė tam tikrai kastai arba luomui, turėjusiam virše­\nnybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192264
-    - t-192265
+    - t-002
+    - t-001

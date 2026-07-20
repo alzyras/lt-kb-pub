@@ -14,11 +14,6 @@ amziai:
   - 'XVII'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - daiktas
-  - simbolis
-  - antspaudas
-  - dokumentas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,6 +26,11 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - daiktas
+  - simbolis
+  - antspaudas
+  - dokumentas
 ---
 # Antspaudas
 
@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64897"></a>
-- t-001
-  global_id: t-64897
+- t-010
   teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,8 +80,7 @@ Nenurodyta
     - c-14295
 
 <a id="claim-t-64898"></a>
-- t-002
-  global_id: t-64898
+- t-009
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -96,6 +94,18 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14294
+
+<a id="claim-t-202342"></a>
+- t-007
+  teiginys: "Vijūkai, regis, paprastai neprispausdavo savo antspaudų prie dokumentų, nors vieta jiems dažnai būdavo paruošta."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185689
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
@@ -283,6 +293,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-14294
@@ -298,18 +309,15 @@ Nenurodyta
     metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
-  citata_rodoma: |
-    Prūsų istorikas Voigtas (apie 1825
-    metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
-    mi tos sutarties originalą, sakė esą matę visų keturių valdovų
-    sveikas antspaudas^2 ).
+  citata_rodoma: "Prūsų istorikas Voigtas (apie 1825\nmetus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­\nmi tos sutarties originalą, sakė esą matę visų keturių valdovų\nsveikas antspaudas^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64898
+    - t-009
+
 - id: c-14295
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -323,15 +331,24 @@ Nenurodyta
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
     (^2) ) C. ep. V., 223.
-  citata_rodoma: |
-    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
-    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
+  citata_rodoma: "c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­\ndome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64897
+    - t-010
+
+- id: c-185689
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 12:22"
+  pagrindzia:
+    - t-007
+
 ## Ryšiai
 - Antspaudas priklausė [[objektai/asmenys/Katilas]]

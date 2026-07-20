@@ -36,7 +36,6 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
 
 <a id="claim-t-61306"></a>
 - t-001
-  global_id: t-61306
   teiginys: "„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61306
+    - t-001

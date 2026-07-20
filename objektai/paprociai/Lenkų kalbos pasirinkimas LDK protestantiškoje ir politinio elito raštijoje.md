@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54270"></a>
 - t-001
-  global_id: t-54270
   teiginys: "LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-183317"></a>
 - t-002
-  global_id: t-183317
   teiginys: "Lietuvos istorijos autoriai Reformaciją apibūdina kaip naują LDK lenkėjimo postūmį."
   atnaujinta: "2026-06-13 17:18"
   sprendimo_priezastis: "auto"
@@ -118,5 +116,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54270
-    - t-183317
+    - t-001
+    - t-002

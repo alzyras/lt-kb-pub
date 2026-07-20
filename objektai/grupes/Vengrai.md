@@ -34,8 +34,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
 ## Teiginiai
 
 <a id="claim-t-66254"></a>
-- t-001
-  global_id: t-66254
+- t-002
   teiginys: "Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     - c-66562
 
 <a id="claim-t-66255"></a>
-- t-002
-  global_id: t-66255
+- t-001
   teiginys: "Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     - c-66561
 
 <a id="claim-t-184586"></a>
-- t-003
-  global_id: t-184586
+- t-005
   teiginys: "Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -169,6 +166,33 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82313|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54971|Gabrielius Bekešas]]: Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.
 - susijęs iš [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią.md#claim-t-31397|1387 m. vasaros žygis į Raudonąją Rusią]]: 1387 m. vasarą Vytautas su Lietuvos kunigaikščiais Lenkijai iš vengrų atėmė likusią Raudonosios Rusios dalį.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasiuntiniai prašė, kad su tokiu
+    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
+    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
+    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
+    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
+    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
+    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
+    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
+    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
+    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
+    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
+    akių gražius žodžius, širdyje galvojo apie karą prieš
+    <
+    Lietuvą pasiryžęs pasipelnyti
+    1499 m eta i
+    iš svetimos nelaimės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-66561
@@ -191,7 +215,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66255
+    - t-001
+
 - id: c-66562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,29 +243,13 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66254
+    - t-002
+
 - id: c-167947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pasiuntiniai prašė, kad su tokiu
-    pat įkarščiu, su kuriuo neseniai atkalbinėjo Aleksandrą
-    nekariauti prieš Steponą, dabar padėtų karaliui Jonui
-    bei didžiajam kunigaikščiui Aleksandrui, pasiryžusiems
-    pradėti karą prieš turkus ir paremti Steponą, ypač dėl
-    to, kad to reikalauja ne tik pavienių asmenų susitarimai,
-    bet ir viso krikščionių pasaulio bendras reikalas. Iva­
-    nas, patvirtinęs, kad nieku būdu nepatiksiąs bėdoje Ste­
-    pono, pridūrė, kad neturįs kol kas jokių žinių apie Ste­
-    ponui gresiantį pavojų ir todėl ketinąs ateiti į pagalbą
-    tik tada, kai šis pats jos paprašysiąs. Kalbėdamas dėl
-    akių gražius žodžius, širdyje galvojo apie karą prieš
-    <
-    Lietuvą pasiryžęs pasipelnyti
-    1499 m eta i
-    iš svetimos nelaimės.
-  citata_rodoma: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,
     bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
@@ -250,13 +259,15 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
     žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
     tingos Ivano pinklės.
+  citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184586
+    - t-005
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]]

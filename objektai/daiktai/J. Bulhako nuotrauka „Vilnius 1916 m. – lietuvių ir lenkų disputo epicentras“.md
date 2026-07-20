@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-77925"></a>
 - t-001
-  global_id: t-77925
   teiginys: "J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,19 +90,11 @@ Nenurodyta
     140
     juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
     syti visa Rytų Lietuva.
-  citata_rodoma: |
-    Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
-    Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
-    J. Bulhako nuotrauka
-
-    L I E T U V O S  I S T O R I J A
-    140
-    juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
-    syti visa Rytų Lietuva.
+  citata_rodoma: "Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus \nVilnius 1916 m. – lietuvių ir lenkų disputo epicentras. \nJ. Bulhako nuotrauka\n\nL I E T U V O S  I S T O R I J A\n140\njuos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-\nsyti visa Rytų Lietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77925
+    - t-001

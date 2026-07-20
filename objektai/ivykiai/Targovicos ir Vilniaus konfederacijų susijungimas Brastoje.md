@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20514"></a>
 - t-001
-  global_id: t-20514
   teiginys: "1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: |
-    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
+  citata_rodoma: "konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20514
+    - t-001

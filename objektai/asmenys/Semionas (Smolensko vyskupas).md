@@ -28,25 +28,11 @@ media_all_json: |-
 
 Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais ir prastaisiais žmonėmis prisiekė laikyti Andrių Smolensko vaivada.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194143"></a>
-- t-001
-  global_id: t-194143
-  teiginys: 'Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais ir prastaisiais žmonėmis prisiekė laikyti Andrių Smolensko vaivada.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys perrašytas į gramatišką sakinį apie Semiono veiksmą ir priesaikos turinį. Palikti tik citatoje aiškiai nurodyti asmenys, grupės ir pareigos.'
-  pagrindžia:
-    - c-176756
-
-## Citatos
-
-- id: c-176756
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais ir prastaisiais žmonėmis prisiekė laikyti Andrių Smolensko vaivada.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ## Puslapis 127
 
@@ -68,10 +54,8 @@ Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais i
     iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
     ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
     skambinti varpu.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194143
+  statusas: not_found

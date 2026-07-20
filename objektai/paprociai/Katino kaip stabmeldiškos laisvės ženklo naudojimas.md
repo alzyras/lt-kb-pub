@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189837"></a>
 - t-002
-  global_id: t-189837
   teiginys: "Narbutas aiškino, kad lietuviai katiną naudojo kaip laisvės deivės simbolį, siekdami išsivaduoti iš laisvių suvaržymo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,20 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-172720
 
-<a id="claim-t-189836"></a>
-- t-001
-  global_id: t-189836
-  teiginys: 'Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas dokumento kontekstas, veikėjas ir simbolinis veiksmas. Vertinamieji žodžiai apie karaliaus paniekinimą sąmoningai neperkelti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1483 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išskleistas dokumento kontekstas, veikėjas ir simbolinis veiksmas. Vertinamieji žodžiai apie karaliaus paniekinimą sąmoningai neperkelti.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.'
@@ -109,11 +94,9 @@ Nenurodyta
     (Lietwii) ženklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189836
+  statusas: verified
 ## Citatos
 
 - id: c-172720
@@ -134,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189837
+    - t-002

@@ -31,7 +31,6 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
 
 <a id="claim-t-01403"></a>
 - t-001
-  global_id: t-01403
   teiginys: "Po karūnacijos Lietuvos gubernijų seimeliai baudžiavos panaikinimą laikė pirmąja valstiečių būklės gerinimo sąlyga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,23 +66,11 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
     ir kad jie patys mielai
     atsižadą savo teisių
     valstiečiams.
-  citata_rodoma: |
-    Po karūnacijos visi
-    Lietuvos gubernijų sei-
-    meliai, — atsakydami į
-    klausimą, kuriuo būdu,
-    jų nuomone, reikėtų
-    pagerinti valstiečių būk-
-    lę, — pareiškė, kad pir-
-    mąja sąlyga jie laiką
-    baudžiavos panaikinimą
-    ir kad jie patys mielai
-    atsižadą savo teisių
-    valstiečiams.
+  citata_rodoma: "Po karūnacijos visi\nLietuvos gubernijų sei-\nmeliai, — atsakydami į\nklausimą, kuriuo būdu,\njų nuomone, reikėtų\npagerinti valstiečių būk-\nlę, — pareiškė, kad pir-\nmąja sąlyga jie laiką\nbaudžiavos panaikinimą\nir kad jie patys mielai\natsižadą savo teisių\nvalstiečiams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01403
+    - t-001

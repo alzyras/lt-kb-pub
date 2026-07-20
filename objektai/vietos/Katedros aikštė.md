@@ -30,7 +30,6 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 
 <a id="claim-t-26328"></a>
 - t-001
-  global_id: t-26328
   teiginys: "Birželio 24 d. Gedimino, dabartinėje Katedros, aikštėje vykusiame mitinge dalyvavo apie 30 tūkst. žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26328
+    - t-001

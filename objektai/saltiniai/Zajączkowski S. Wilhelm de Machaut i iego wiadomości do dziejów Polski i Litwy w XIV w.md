@@ -36,7 +36,6 @@ Dusburgietis teigia, kad zajączkowski S.
 
 <a id="claim-t-61381"></a>
 - t-001
-  global_id: t-61381
   teiginys: "S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,13 +57,11 @@ Dusburgietis teigia, kad zajączkowski S.
     w.— Kwartalnik historyczny Lwów, 1929, 43, t. 1, p. 217—228.
     Гудавичюс Э. По поводу так называемой «диархии» в Великом Княжестве
     Литовском.
-  citata_rodoma: |
-    Zajączkowski S. Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV
-    w.— Kwartalnik historyczny Lwów, 1929, 43, t. 1, p. 217—228.
+  citata_rodoma: "Zajączkowski S. Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV\nw.— Kwartalnik historyczny Lwów, 1929, 43, t. 1, p. 217—228."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61381
+    - t-001

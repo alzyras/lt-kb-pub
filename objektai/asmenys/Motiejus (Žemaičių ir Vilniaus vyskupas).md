@@ -41,8 +41,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 ## Teiginiai
 
 <a id="claim-t-176551"></a>
-- t-001
-  global_id: t-176551
+- t-005
   teiginys: "Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-160555
 
 <a id="claim-t-176552"></a>
-- t-002
-  global_id: t-176552
+- t-001
   teiginys: "Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-36467
 
 <a id="claim-t-176554"></a>
-- t-003
-  global_id: t-176554
+- t-002
   teiginys: "Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 
 <a id="claim-t-176555"></a>
 - t-004
-  global_id: t-176555
   teiginys: "Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-36470
 
 <a id="claim-t-176557"></a>
-- t-005
-  global_id: t-176557
+- t-003
   teiginys: "Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -150,7 +145,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176552
+    - t-001
+
 - id: c-36470
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -169,7 +165,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176555
+    - t-004
+
 - id: c-160555
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -183,19 +180,15 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
     sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
     atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
-  citata_rodoma: |
-    Kelis kartus Vytautas išpažino savo nuodė­
-    mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­
-    skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
-    sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
-    atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
+  citata_rodoma: "Kelis kartus Vytautas išpažino savo nuodė­\nmes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­\nskutinį patepimą. Paklaustas vyskupo apie tikybos tie­\nsas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių\natsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176551
+    - t-005
+
 - id: c-160556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -215,7 +208,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176554
+    - t-002
+
 - id: c-160558
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -238,4 +232,4 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176557
+    - t-003

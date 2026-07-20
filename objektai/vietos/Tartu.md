@@ -43,8 +43,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 ## Teiginiai
 
 <a id="claim-t-80185"></a>
-- t-001
-  global_id: t-80185
+- t-003
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - c-32454
 
 <a id="claim-t-80186"></a>
-- t-002
-  global_id: t-80186
+- t-005
   teiginys: "1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - c-43895
 
 <a id="claim-t-80189"></a>
-- t-003
-  global_id: t-80189
+- t-001
   teiginys: "Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate)."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80185
+    - t-003
+
 - id: c-43895
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,7 +138,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80186
+    - t-005
+
 - id: c-77038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -152,18 +151,14 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
     įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
     stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
-  citata_rodoma: |
-    Tuo-
-    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
-    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
-    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
-    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
+  citata_rodoma: "Tuo-\njau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-\nimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo\nįkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo\nstiprios katalikybės atramos tuose nekatalikiškuose kraštuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80189
+    - t-001
+
 ## Ryšiai
 - Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]

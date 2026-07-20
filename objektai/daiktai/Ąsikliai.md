@@ -45,19 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195324"></a>
-- t-001
-  global_id: t-195324
-  teiginys: "Pagalbinė detalė vyžoms adyti."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177711
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -69,18 +56,10 @@ Nenurodyta
   puslapiai: "p. 53 (PDF 51)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 53 (PDF 51)."
   citata_originali: |
-    Vyžai adyti dar buvo reikalingi ąsikliai. Tai buvo du šaka­
-    liukai iš abiejų pusių perkišti per vyžos ąsas,
-    kad ši neadant nesusi­
-    kraipytų.
-    Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas
-    karnomis.
-  citata_rodoma: |
     Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis.
+  citata_rodoma: "Tai buvo du šakaliukai iš abiejų pusių perkišti per vyžos ąsas, kad ši neadant nesusikraipytų. Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195324

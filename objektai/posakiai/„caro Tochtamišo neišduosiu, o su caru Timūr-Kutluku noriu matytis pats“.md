@@ -30,8 +30,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 ## Teiginiai
 
 <a id="claim-t-186382"></a>
-- t-001
-  global_id: t-186382
+- t-003
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - c-169740
 
 <a id="claim-t-186383"></a>
-- t-002
-  global_id: t-186383
+- t-004
   teiginys: "Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +66,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - c-169740
 
 <a id="claim-t-186384"></a>
-- t-003
-  global_id: t-186384
+- t-002
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats susitikti su Timūr-Kutluku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +83,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     - c-169740
 
 <a id="claim-t-186385"></a>
-- t-004
-  global_id: t-186385
+- t-001
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats matytis su Timūr-Kutluku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,28 +119,17 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     Tochtamišą, jo priešą. O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
-  citata_rodoma: |
-    Greičiausiai Vytauto
-    iniciatyva per Maskvos didįjį kunigaikštį
-    Vasilijų Konstantinopolio patriarchas ra-
-    gino Kijevo metropolitą Kiprijoną kviesti
-    tikinčiuosius į karą prieš totorius.
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą. O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
+  citata_rodoma: "Greičiausiai Vytauto\niniciatyva per Maskvos didįjį kunigaikštį\nVasilijų Konstantinopolio patriarchas ra-\ngino Kijevo metropolitą Kiprijoną kviesti\ntikinčiuosius į karą prieš totorius.\nBesirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186382
-    - t-186383
-    - t-186384
+    - t-003
+    - t-004
+    - t-002
+
 - id: c-169741
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -162,23 +147,11 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     visą birželį telkė karius (savo lietuvius,
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
-  citata_rodoma: |
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą. O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
-    Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d. Vytautas
-    visą birželį telkė karius (savo lietuvius,
-    jam pavaldžių rusų kunigaikščių karius ir
-    kitus) stovykloje prie Kijevo.
+  citata_rodoma: "Besirengdamas žygiui į Sarajų, Aukso\nordos chanas Timūr-Kutlukas atsiuntė savo\npasiuntinius pas lietuvių didįjį kunigaikštį\nVytautą, kad išduotų jam pabėgusį „carą“\nTochtamišą, jo priešą. O Vytautas atsakęs:\n„caro Tochtamišo neišduosiu, o su caru\nTimūr-Kutluku noriu matytis pats“.\nPagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d. Vytautas\nvisą birželį telkė karius (savo lietuvius,\njam pavaldžių rusų kunigaikščių karius ir\nkitus) stovykloje prie Kijevo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186385
+    - t-001

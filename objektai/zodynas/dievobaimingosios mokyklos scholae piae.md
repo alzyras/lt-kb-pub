@@ -31,7 +31,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 <a id="claim-t-02977"></a>
 - t-001
-  global_id: t-02977
   teiginys: "Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 <a id="claim-t-02978"></a>
 - t-002
-  global_id: t-02978
   teiginys: "Pijarai, arba dievobaimingosios mokyklos, buvo pakviesti dėl dėmesio mokslui ir praktinio gyvenimo reikalams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,29 +74,24 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02978
+    - t-002
+
 - id: c-03216
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    Be to, XVIII amž. ir į Lietuvą
+    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
     ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
     mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
     pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
     kolegijų, kaip ir jėzuitai.
-  citata_rodoma: |
-    Be to, XVIII amž. ir į Lietuvą
-    atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
-    ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
-    mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
-    pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
-    kolegijų, kaip ir jėzuitai.
+  citata_rodoma: "Be to, XVIII amž. ir į Lietuvą\natsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų\nordinas (pijarai kurdavo vadinamąsias dievobaimingąsias\nmokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami\npijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat\nkolegijų, kaip ir jėzuitai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02977
+    - t-001

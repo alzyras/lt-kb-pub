@@ -2,8 +2,17 @@
 tipas: asmuo
 pavadinimas: 'Eustachijus Valavičius'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1621 m.'
+  - '1623 m.'
+date_start: '1621'
+date_end: '1623'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,13 +35,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Eustachijus Valavičius buvo Vilniaus kaštelionas.
+[manu proprio - savo ranka] Eustachijus Valavičius, Vilniaus kaštelionas.
 
 ## Teiginiai
 
 <a id="claim-t-87424"></a>
 - t-001
-  global_id: t-87424
   teiginys: "Eustachijus Valavičius buvo Vilniaus kaštelionas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +54,19 @@ Eustachijus Valavičius buvo Vilniaus kaštelionas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83403
+
+<a id="claim-t-201520"></a>
+- t-002
+  teiginys: "1621-1623 m. Kauno suolininkų, Vilniaus vyskupo Eustachijaus Valavičiaus ir Lietuvos asesorių teismai sprendė bylą, kurioje Kauno klebonas Baltramiejus Ciešinskis (Cieszynski) kaltino Kauno liuteronus Frideriką Korsaką, Joną Kalau ir Jurgį Šeperį bei jų."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-184867
 - susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš [[objektai/zodynas/manu proprio M.P.md#claim-t-86562|manu proprio M.P]]: Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.
 - susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
@@ -68,4 +89,23 @@ Eustachijus Valavičius buvo Vilniaus kaštelionas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87424
+    - t-001
+
+- id: c-184867
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tiesa, tokių
+    išpuolių pasitaikė nedaug, kiti konfliktai buvo sprendžiami teismuose.
+    1621-1623 m. Kauno suolininkų, Vilniaus vyskupo Eustachijaus Valavičiaus ir
+    Lietuvos asesorių teismai sprendė bylą, kurioje Kauno klebonas Baltramiejus Cie-
+    šinskis (Cieszynski) kaltino Kauno liuteronus Frideriką Korsaką, Joną Kalau ir Jur-
+    gį Šeperį bei jų žmonas kraujomaiša.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

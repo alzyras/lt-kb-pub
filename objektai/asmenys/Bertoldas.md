@@ -33,7 +33,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 
 <a id="claim-t-87485"></a>
 - t-001
-  global_id: t-87485
   teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 
 <a id="claim-t-194223"></a>
 - t-002
-  global_id: t-194223
   teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87485
+    - t-001
+
 - id: c-176823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -119,6 +118,7 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194223
+    - t-002
+
 ## Ryšiai
 - Bertoldas mirė [[objektai/vietos/Ryga]]

@@ -8,11 +8,11 @@ datos:
   - '2002 m.'
 date_start: '1245'
 date_end: '2002'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a.
 
 <a id="claim-t-202278"></a>
 - t-001
-  global_id: t-202278
   teiginys: "Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202278
+    - t-001

@@ -32,13 +32,19 @@ media_all_json: |-
 1610 m. Jonas Kojalavičius atstovavo communitas jurata komisijoje, tikrinusioje burmistro Jono Hofmano piktnaudžiavimus miško verslovėse; 1615 m. Hofmanas jį apskundė, esą Kojalavičius pernelyg energingai jį kaltino.
 
 ## Teiginiai
+
+<a id="claim-t-202367"></a>
 - t-001
-  global_id: t-903135101
-  teiginys: '1610 m. Jonas Kojalavičius atstovavo communitas jurata komisijoje, tikrinusioje burmistro Jono Hofmano piktnaudžiavimus miško verslovėse; 1615 m. Hofmanas jį apskundė, esą Kojalavičius pernelyg energingai jį kaltino.'
+  teiginys: "1610 m. Jonas Kojalavičius atstovavo communitas jurata komisijoje, tikrinusioje burmistro Jono Hofmano piktnaudžiavimus miško verslovėse; 1615 m. Hofmanas jį apskundė, esą Kojalavičius pernelyg energingai jį kaltino."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185714
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -46,19 +52,8 @@ media_all_json: |-
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 4"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 4."
-  citata_originali: |
-    1610 m. Jonas Kojalavičius buvo komisijoje, tikrinusioje burmistro Jono Hofmano
-    piktnaudžiavimus miestui priklausančiose miško verslovėse, atstovavo vadinamajai communitas
-    jurata, miestiečių atstovų kolegijai, kontroliuojančiai magistrato veiklą, dėl to dar 1615 m. buvo Jono
-    Hofmano skundžiamas, esą pernelyg energingai kaltinęs pastarąjį34. 1614 m. Jonas Kojalavičius buvo
-    miesto ūkvedys (szafarz) – 1614 m. liepos 9 d. suolininkų teisme aiškinosi nepasirengęs bylai dėl
-    palivarko miesto žemėse Fredoje, nes būdamas metinis ūkvedys ir užsiėmęs miesto reikalais, kaip
-    antai miesto namų (rotušės?) statyba, jų priežiūra, miesto pasiuntinių išrengimu, miesto byloms
-    reikalingų išrašų iš Kauno pilies teismo parūpinimu, neužtekęs laiko35.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

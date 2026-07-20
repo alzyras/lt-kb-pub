@@ -31,7 +31,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
 
 <a id="claim-t-40489"></a>
 - t-001
-  global_id: t-40489
   teiginys: "Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Nazimovas balandžio pabaigoje įsakė gen.
     įsakė gen. mjr. I. Ganeckiui žygiuoti į
     Ukmergės apskritį Anykščių kryptimi ir
     sunaikinti ten susibūrusius sukilėlius.
-  citata_rodoma: |
-    Mūšis
-    Sukilėliams esant Teresboro stovykloje,
-    Šiaurės Vakarų krašto generalgubernato-
-    rius V. Nazimovas balandžio pabaigoje
-    įsakė gen. mjr. I. Ganeckiui žygiuoti į
-    Ukmergės apskritį Anykščių kryptimi ir
-    sunaikinti ten susibūrusius sukilėlius.
+  citata_rodoma: "Mūšis\nSukilėliams esant Teresboro stovykloje,\nŠiaurės Vakarų krašto generalgubernato-\nrius V. Nazimovas balandžio pabaigoje\nįsakė gen. mjr. I. Ganeckiui žygiuoti į\nUkmergės apskritį Anykščių kryptimi ir\nsunaikinti ten susibūrusius sukilėlius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40489
+    - t-001

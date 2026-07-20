@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-186158"></a>
 - t-001
-  global_id: t-186158
   teiginys: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ media_all_json: |-
 
 <a id="claim-t-186159"></a>
 - t-002
-  global_id: t-186159
   teiginys: "Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186158
+    - t-001
+
 - id: c-169520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -122,7 +121,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186159
+    - t-002
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]]
 - Pisimantas valdė [[objektai/vietos/Turovas]]

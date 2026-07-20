@@ -44,7 +44,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 
 <a id="claim-t-68248"></a>
 - t-001
-  global_id: t-68248
   teiginys: "Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 
 <a id="claim-t-188726"></a>
 - t-002
-  global_id: t-188726
   teiginys: "Narbutas Kovo statulėlę, 1836 m. rastą netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -84,10 +82,9 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     - c-171615
 
 <a id="claim-t-188728"></a>
-- t-003
-  global_id: t-188728
+- t-004
   teiginys: "Narbutas rašė, kad 1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius nekrikštytų valstiečių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,8 +105,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     - c-171617
 
 <a id="claim-t-192678"></a>
-- t-004
-  global_id: t-192678
+- t-005
   teiginys: "1836 m. gegužę Burokų dvare, už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -203,22 +199,13 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68248
+    - t-001
+
 - id: c-171615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    To dievaičio vardo
-    užraše raidė „o“yra įterpta į vidurį, o ne įpabaigą, vadinasi, yra
-    „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
-    noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
-    (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“. (Li­
-    tografiją paėmiau iš Tomseno II lentelės, 22 piešinio) “ (žiūrėk
-    iliustraciją p. 257, piešinį 49). Antrasis numizmatinis radinys tos
-    pačios kilmės su tokiu aprašymu: „Medalionas su kiek dailesniu
-    raiteliu, be paukščio.
-  citata_rodoma: |
     Moneta, rasta Ballvyžių girioje.
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
     255
@@ -230,32 +217,20 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     viai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,
     tai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be
     abiejų rankų (žiūrėk Xlentelę).
+  citata_rodoma: "Moneta, rasta Ballvyžių girioje.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n255\n\n## Puslapis 255\n\nKaro dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­\nmėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­\nviai turėjo stabus. Sis stabas yra natūralaus dydžio, iš bronzos,\ntai yra senovinio Korinto vario, gražiai išlietas, pilnaviduris, be\nabiejų rankų (žiūrėk Xlentelę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188726
+    - t-002
+
 - id: c-171617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tie sampilai priklauso toli­
-    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
-    tose. Tačiau kraštui neturint savo istorijos ir žuvus daugeliui
-    rašto šaltinių, į užmarštį nugrimzdo atminimas apie daugelio
-    žymių žmonių kapus. Tokių kapų pasitaiko aukštose vietose
-    arba prie pilių ir kadaise žymių kaimų, dažniausiai prie kelių,
-    taip pat didesnių upių pakrantėse, kur būdavo šventyklos. Hart-
-    knochas (p. 184-185) tą patį sako apie gausius piliakalnius,
-    matomus Prūsijoje, ir apie pilkapius, supiltus virš žymių žmo­
-    nių kapų. Lietuvos didžiojo kunigaikščio Gedimino kapas yra
-    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
-    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
-    avide cupientes tumulos, quam maximos efficere (Herodotas).
-  citata_rodoma: |
     Nepai­
     sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
     Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­
@@ -266,13 +241,15 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
     tiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­
     vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
     tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
+  citata_rodoma: "Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių. Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188728
+    - t-004
+
 - id: c-175448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -297,6 +274,7 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192678
+    - t-005
+
 ## Ryšiai
 - Puolė Kražiai: [[objektai/grupes/Kazokai]]

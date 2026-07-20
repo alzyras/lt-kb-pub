@@ -41,8 +41,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 ## Teiginiai
 
 <a id="claim-t-182708"></a>
-- t-001
-  global_id: t-182708
+- t-031
   teiginys: "Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - c-166125
 
 <a id="claim-t-182709"></a>
-- t-002
-  global_id: t-182709
+- t-032
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - c-166124
 
 <a id="claim-t-182710"></a>
-- t-003
-  global_id: t-182710
+- t-002
   teiginys: "1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 
 <a id="claim-t-182904"></a>
 - t-004
-  global_id: t-182904
   teiginys: "Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -121,7 +117,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 
 <a id="claim-t-182905"></a>
 - t-005
-  global_id: t-182905
   teiginys: "Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -141,7 +136,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 
 <a id="claim-t-182906"></a>
 - t-006
-  global_id: t-182906
   teiginys: "Valstybės Taryba turėjo leisti įstatymus, sudaryti sutartis su kitomis valstybėmis ir naudotis interpeliacijų bei paklausimų teise."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -195,7 +189,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182906
+    - t-006
+
 - id: c-166124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,7 +209,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182709
+    - t-032
+
 - id: c-166125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,7 +236,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182708
+    - t-031
+
 - id: c-166127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -253,20 +250,15 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     1940 VI 15
     realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
     ja ir aneksuoja Lietuvos Respubliką.
-  citata_rodoma: |
-    1918 II 16
-    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
-    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-    1940 VI 15
-    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
-    ja ir aneksuoja Lietuvos Respubliką.
+  citata_rodoma: "1918 II 16\t\nVokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-\nvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą. \n1940 VI 15\t\nrealizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-\nja ir aneksuoja Lietuvos Respubliką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182710
+    - t-002
+
 - id: c-166308
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -289,7 +281,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182904
+    - t-004
+
 - id: c-166309
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -310,4 +303,4 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182905
+    - t-005

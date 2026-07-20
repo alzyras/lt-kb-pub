@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-80616"></a>
 - t-001
-  global_id: t-80616
   teiginys: "1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ media_all_json: |-
     dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų,
     Jezeriščės tvirtoves. 1581 m. įvykdė savo garsųjį
     reidą į Rusijos gilumą.
-  citata_rodoma: |
-    1580 m.
-    dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų,
-    Jezeriščės tvirtoves. 1581 m. įvykdė savo garsųjį
-    reidą į Rusijos gilumą.
+  citata_rodoma: "1580 m.\ndalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų,\nJezeriščės tvirtoves. 1581 m. įvykdė savo garsųjį\nreidą į Rusijos gilumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80616
+    - t-001

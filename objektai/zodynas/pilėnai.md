@@ -9,13 +9,13 @@ datos:
   - '1314 m.'
 date_start: '1313'
 date_end: '1314'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinis-terminas
   - sąvoka
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 
 <a id="claim-t-193462"></a>
 - t-001
-  global_id: t-193462
   teiginys: "Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisvę, o pasitraukusieji į pilį neteko išplėštų ir sudegintų namų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 
 <a id="claim-t-193463"></a>
 - t-002
-  global_id: t-193463
   teiginys: "Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 
 <a id="claim-t-194460"></a>
 - t-003
-  global_id: t-194460
   teiginys: "Šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,7 +77,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 
 <a id="claim-t-194461"></a>
 - t-004
-  global_id: t-194461
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,8 +88,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     - c-176941
 
 <a id="claim-t-197037"></a>
-- t-005
-  global_id: t-197037
+- t-006
   teiginys: "Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,6 +98,42 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179013
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kojelavičiaus pasakojime Bisenės pilėnai narsiai atrėmė užpuolimą, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
+    toliese tyko Vytenis su karių būriais, kryžiuočiai,
+    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
+    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
+    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
+    rių dalies netekęs priešas buvo priverstas pasitraukti
+    nieko nepešęs. Kadangi stip-
+    1313 m e ta i
+    riausios lietuvių pilys buvo
+    prie Nemuno bei kitų upių,
+    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
+    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
+    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
+    prastai menkiau sutvirtinti ir lengviau prieinami. To­
+    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
+    ma panašus į tvirtovę — su
+    P a sista tę la iv ų , k iy -
+    dantytais bortais, už kurių
+    žiu o č ia i p u o la lietu -
+    krantą bei pylimą puolančius
+    v iu s
+    karius galima geriau apsau­
+    goti nuo iečių bei strėlių ir
+    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
+    priešą, stovintį krante.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -135,57 +166,20 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     giau kaip trys šimtai samdininkų ir keli kryžiuočių
     ordino riteriai, o štai grobio buvo tiek, kiek keletas
     karių galėjo išvežti.
-  citata_rodoma: |
-    Tad nebesitikė­
-    dami galėsią apgulti pilį, nes to pradėti neleido audra,
-    be to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­
-    šui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai
-    užpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­
-    puolis neleido pabėgti, buvo arba išžudyti, arba paimti
-    į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­
-    plėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei
-    galima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­
-    giau kaip trys šimtai samdininkų ir keli kryžiuočių
-    ordino riteriai, o štai grobio buvo tiek, kiek keletas
-    karių galėjo išvežti.
+  citata_rodoma: "Tad nebesitikė­\ndami galėsią apgulti pilį, nes to pradėti neleido audra, \nbe to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­\nšui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai \nužpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­\npuolis neleido pabėgti, buvo arba išžudyti, arba paimti \nį nelaisvę, o kurie paspruko į pilį, neteko namų, iš­\nplėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei \ngalima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­\ngiau kaip trys šimtai samdininkų ir keli kryžiuočių \nordino riteriai, o štai grobio buvo tiek, kiek keletas \nkarių galėjo išvežti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193462
+    - t-001
+
 - id: c-176168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    jeigu sugautas kaimietis nebūtų pranešęs, jog ne­
-    toliese tyko Vytenis su karių būriais, kryžiuočiai,
-    persikėlę per Nemuną, patys būtų pakliuvę į pasalas,
-    kurias spendė Gardinui. Bisenės užpuolimas buvo nar­
-    siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
-    rių dalies netekęs priešas buvo priverstas pasitraukti
-    nieko nepešęs. Kadangi stip-
-    1313 m e ta i
-    riausios lietuvių pilys buvo
-    prie Nemuno bei kitų upių,
-    Verneris, Ragainės komtūras, patarė kryžiuočiams jas
-    vieną po kitos pulti laivais, įtikinėdamas, kad į van­
-    dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
-    prastai menkiau sutvirtinti ir lengviau prieinami. To­
-    dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
-    ma panašus į tvirtovę — su
-    P a sista tę la iv ų , k iy -
-    dantytais bortais, už kurių
-    žiu o č ia i p u o la lietu -
-    krantą bei pylimą puolančius
-    v iu s
-    karius galima geriau apsau­
-    goti nuo iečių bei strėlių ir
-    geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
-    priešą, stovintį krante.
-  citata_rodoma: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
     lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
     WQ
@@ -206,13 +200,15 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
     vieną po kitos pulti laivais, įtikinėdamas, kad į van­
     dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
     prastai menkiau sutvirtinti ir lengviau prieinami.
+  citata_rodoma: "Iš tos išdavystės išėjo visai kas kita, nei vy­\nlėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,\nWQ\n\n## Puslapis 189\n\njeigu sugautas kaimietis nebūtų pranešęs, jog ne­\ntoliese tyko Vytenis su karių būriais, kryžiuočiai,\npersikėlę per Nemuną, patys būtų pakliuvę į pasalas,\nkurias spendė Gardinui. Bisenės užpuolimas buvo nar­\nsiai pilėnų atremtas; smarkiai sumuštas ir didelės ka­\nrių dalies netekęs priešas buvo priverstas pasitraukti\nnieko nepešęs. Kadangi stip-\n1313 m e ta i\nriausios lietuvių pilys buvo\nprie Nemuno bei kitų upių,\nVerneris, Ragainės komtūras, patarė kryžiuočiams jas\nvieną po kitos pulti laivais, įtikinėdamas, kad į van­\ndens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­\nprastai menkiau sutvirtinti ir lengviau prieinami."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193463
+    - t-002
+
 - id: c-176940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -230,7 +226,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194460
+    - t-003
+
 - id: c-176941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -251,7 +248,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194461
+    - t-004
+
 - id: c-179013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -273,4 +271,4 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197037
+    - t-006

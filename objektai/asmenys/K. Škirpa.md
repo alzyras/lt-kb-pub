@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-49399"></a>
 - t-001
-  global_id: t-49399
   teiginys: "K. Škirpos vadovaujamai kairiajai kolonai buvo įsakyta pulti Mukulių dvaro, Medinių, Sniegiškių, Štadvilių, Jaunaikių ir Krasnos kryptimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-51393
 
 <a id="claim-t-49400"></a>
-- t-002
-  global_id: t-49400
+- t-004
   teiginys: "Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ media_all_json: |-
     - c-42054
 
 <a id="claim-t-49401"></a>
-- t-003
-  global_id: t-49401
+- t-005
   teiginys: "Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,9 +88,9 @@ media_all_json: |-
   pagrindžia:
     - c-42054
     - c-167135
+
 <a id="claim-t-49402"></a>
-- t-004
-  global_id: t-49402
+- t-002
   teiginys: "K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ media_all_json: |-
     - c-51392
 
 <a id="claim-t-49403"></a>
-- t-005
-  global_id: t-49403
+- t-003
   teiginys: "K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -152,7 +148,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49403
+    - t-003
+
 - id: c-42054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,20 +163,16 @@ media_all_json: |-
     armijos vadas plk. ltn. K. Ladyga netu-
     rėjo vieningos nuomonės dėl priemonių,
     kurių reikėtų imtis.
-  citata_rodoma: |
-    Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
-    naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
-    tęsia nevaisingą Suvalkų puolimą.
-
-    kariuomenės vadas plk.
+  citata_rodoma: "Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-\nnaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos\ntęsia nevaisingą Suvalkų puolimą.\n\nkariuomenės vadas plk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49400
-    - t-49401
+    - t-004
+    - t-005
+
 - id: c-51392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -198,7 +191,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49402
+    - t-002
+
 - id: c-51393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -221,7 +215,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49399
+    - t-001
+
 - id: c-167135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -238,3 +233,5 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

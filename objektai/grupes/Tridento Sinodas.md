@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-86829"></a>
 - t-001
-  global_id: t-86829
   teiginys: "Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-86830"></a>
 - t-002
-  global_id: t-86830
   teiginys: "Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86830
+    - t-002
+
 - id: c-82809
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -131,4 +130,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86829
+    - t-001

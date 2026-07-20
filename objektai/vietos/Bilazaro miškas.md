@@ -41,7 +41,6 @@ Bilazaro miškas šiame šaltinyje yra miškas.
 
 <a id="claim-t-195483"></a>
 - t-001
-  global_id: t-195483
   teiginys: "Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -58,17 +57,12 @@ Bilazaro miškas šiame šaltinyje yra miškas.
   puslapiai: "p. 57 (PDF 55)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 57 (PDF 55)."
   citata_originali: |
-    Pridotkas ir Radviliškis.
-    Buvo tai pusantro šimto hektarų žemės plo­
-    tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
-    Šiandien
-    toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
-  citata_rodoma: |
     „Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“
+  citata_rodoma: "„Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195483
+    - t-001

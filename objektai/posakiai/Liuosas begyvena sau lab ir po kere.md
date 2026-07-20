@@ -28,7 +28,6 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
 
 <a id="claim-t-201259"></a>
 - t-001
-  global_id: t-201259
   teiginys: "Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
 ## Citatos
 
 - id: c-184609
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Karėj neprietelių neskaitą, vienas ant dešimties
     metuose velydamos pats galą gauti nekaip nuveiktu
@@ -68,4 +68,4 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201259
+    - t-001

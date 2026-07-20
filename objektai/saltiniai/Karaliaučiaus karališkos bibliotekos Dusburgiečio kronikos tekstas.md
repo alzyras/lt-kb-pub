@@ -37,7 +37,6 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
 
 <a id="claim-t-61094"></a>
 - t-001
-  global_id: t-61094
   teiginys: "Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
     knygos. Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto
     (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
     lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
-  citata_rodoma: |
-    Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
-    1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios
-    knygos. Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto
-    (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką.
+  citata_rodoma: "Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,\n1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios\nknygos. Nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto\n(mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61094
+    - t-001

@@ -37,7 +37,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 
 <a id="claim-t-61091"></a>
 - t-001
-  global_id: t-61091
   teiginys: "K. Henenbergerio 1576 m. žemėlapyje Auksinė vadinta Augste."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja K. Henenbergerio 1576 m. žemėlapį su vietovardžio forma Augste."
   pagrindžia:
     - c-61723
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Henenbergerio 1576 m. žemėlapyje Auksinė vadinta Augste.'
@@ -68,8 +67,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61091
+
 ## Citatos
 
 - id: c-61723
@@ -81,14 +79,11 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
     Henenbergerio žemėlapyje ir M. Pretorijaus raštuose — Augste) žemupyje žymima
     Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
-  citata_rodoma: |
-    XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
-    Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
-    Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
+  citata_rodoma: "XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.\nHenenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima\nRomanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61091
+    - t-001

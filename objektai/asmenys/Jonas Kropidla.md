@@ -32,8 +32,7 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 ## Teiginiai
 
 <a id="claim-t-35148"></a>
-- t-001
-  global_id: t-35148
+- t-002
   teiginys: "Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     - c-38056
 
 <a id="claim-t-35149"></a>
-- t-002
-  global_id: t-35149
+- t-001
   teiginys: "Vloclavo vyskupas Jonas Kropidla buvo įsitraukęs į ginčą su Jogaila, kurį išsprendė Vytautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,21 +73,15 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
     jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
     vo visuotina suirutė.
-  citata_rodoma: |
-    Dėl to savo laikų Europos visuomenės viršūnes
-    gerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,
-    Breslave per puotą prie daugybės kunigaikščių ir atstovų drą­
-    siai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­
-    mone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu
-    jis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­
-    vo visuotina suirutė.
+  citata_rodoma: "Dėl to savo laikų Europos visuomenės viršūnes\ngerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła,\nBreslave per puotą prie daugybės kunigaikščių ir atstovų drą­\nsiai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­\nmone, karaliaus vardo vertas tik vienas Vytautas ir kad, jeigu\njis galėtų, kurtų pačius Vytautus^1 ). Europoje gi tais laikais bu­\nvo visuotina suirutė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35148
+    - t-002
+
 - id: c-38057
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -101,15 +93,11 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
     liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
     spręstas ne keno kito, kaip Vytauto^2 ).
-  citata_rodoma: |
-    Kartą buvo kilęs ginčas tarp Vloc­
-    lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
-    liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
-    spręstas ne keno kito, kaip Vytauto^2 ).
+  citata_rodoma: "Kartą buvo kilęs ginčas tarp Vloc­\nlavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­\nliaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­\nspręstas ne keno kito, kaip Vytauto^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35149
+    - t-001

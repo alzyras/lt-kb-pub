@@ -44,7 +44,6 @@ media_all_json: |-
 
 <a id="claim-t-67362"></a>
 - t-001
-  global_id: t-67362
   teiginys: "„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-67363"></a>
 - t-002
-  global_id: t-67363
   teiginys: "„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67363
+    - t-002
+
 - id: c-67301
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,4 +112,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67362
+    - t-001

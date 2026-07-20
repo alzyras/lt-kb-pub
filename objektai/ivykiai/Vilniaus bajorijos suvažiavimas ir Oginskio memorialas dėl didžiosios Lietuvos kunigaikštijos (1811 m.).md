@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01843"></a>
 - t-001
-  global_id: t-01843
   teiginys: "1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +81,11 @@ Nenurodyta
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: |
-    Jis pats tuo tarpu pradėjo
-    rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-
-    mių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-
-    kė carui memorialą — ku-
-    nigaikštijos sudarymo pro-
-    jektą.
+  citata_rodoma: "Jis pats tuo tarpu pradėjo\nrūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos že-\nmių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įtei-\nkė carui memorialą — ku-\nnigaikštijos sudarymo pro-\njektą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01843
+    - t-001

@@ -41,7 +41,6 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 
 <a id="claim-t-30263"></a>
 - t-001
-  global_id: t-30263
   teiginys: "Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 
 <a id="claim-t-30264"></a>
 - t-002
-  global_id: t-30264
   teiginys: "Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,17 +93,15 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     toslavaitis. Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas
     buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
     nebuvo sustabdyta rytų krizė.
-  citata_rodoma: |
-    Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas
-    buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
-    nebuvo sustabdyta rytų krizė.
+  citata_rodoma: "Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas\nbuvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar\nnebuvo sustabdyta rytų krizė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30264
+    - t-002
+
 - id: c-32739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -120,17 +116,11 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
-  citata_rodoma: |
-    Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
-    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
-    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
-    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
-    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
-    (1389-1425), su kuriuo oficialiai laikėsi taikos.
+  citata_rodoma: "Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.\nIš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30263
+    - t-001

@@ -43,8 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185708"></a>
-- t-001
-  global_id: t-185708
+- t-002
   teiginys: "Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-169069
 
 <a id="claim-t-196170"></a>
-- t-002
-  global_id: t-196170
+- t-004
   teiginys: "Laukdamas Jonušo pagalbos, Kęstutis delsė stoti į lemiamą mūšį su Jogaila, nes nenorėjo kautis su maža kariuomene be pagalbininkų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -76,42 +74,6 @@ Nenurodyta
   pagrindžia:
     - c-169069
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kęstutis, savo ruožtu apie viską sužinojęs, paliko rusų pulkus, turėjusius toliau pulti Seversko NauK ęstu tis traukia p rieš gardą ir ginti apylinkes nuo Jogailą, su p a T raku s Kaributo antpuolių, o pats skubiai sugrįžo į Žemaitiją; čia greitosiomis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vytautas, iš draugų apie
-    viską sužinojęs, spėjo su pamote Birute pasitraukti į
-    Gardiną.
-    Jogaila
-    atkakliai
-    U žkariauja T rakus
-    puolė Trakus, ir trakiškiai
-    ilgai neatsilaikė: nesitikėda­
-    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
-    duodami miestą, pilis bei turtą. Kęstutis, savo ruožtu
-    apie viską sužinojęs, paliko rusų pulkus, turėjusius
-    toliau pulti Seversko Nau-
-    K ęstu tis traukia p rieš
-    gardą ir ginti apylinkes nuo
-    Jogailą, su p a T raku s
-    Kaributo antpuolių, o pats
-    skubiai sugrįžo į Žemaitiją;
-    čia greitosiomis surinkęs kariuomenę, persikėlė per
-    Nerį ir susijungė su Vytautu, jau sutelkusiu gardinie­
-    čių pulkus. Kadangi neseniai per pasiuntinius buvo pra­
-    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
-    savo žento, ir toji pagalba diena iš dienos turėjo at­
-    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
-    gailą traukti su nedidele kariuomene ir be pagalbinin­
-    kų stoti į lemiamą mūšį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 ## Citatos
 
 - id: c-169069
@@ -138,5 +100,42 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185708
-    - t-196170
+    - t-002
+    - t-004
+
+- id: c-176084
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vytautas, iš draugų apie
+    viską sužinojęs, spėjo su pamote Birute pasitraukti į
+    Gardiną.
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą. Kęstutis, savo ruožtu
+    apie viską sužinojęs, paliko rusų pulkus, turėjusius
+    toliau pulti Seversko Nau-
+    K ęstu tis traukia p rieš
+    gardą ir ginti apylinkes nuo
+    Jogailą, su p a T raku s
+    Kaributo antpuolių, o pats
+    skubiai sugrįžo į Žemaitiją;
+    čia greitosiomis surinkęs kariuomenę, persikėlė per
+    Nerį ir susijungė su Vytautu, jau sutelkusiu gardinie­
+    čių pulkus. Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį.
+  citata_rodoma: "Jogaila \natkakliai \nU žkariauja T rakus \npuolė Trakus, ir trakiškiai\nilgai neatsilaikė: nesitikėda­\nmi iš niekur paramos, jie perėjo į Jogailos pusę, ati­\nduodami miestą, pilis bei turtą. Kęstutis, savo ruožtu \napie viską sužinojęs, paliko rusų pulkus, turėjusius\ntoliau pulti Seversko Nau- \nK ęstu tis traukia p rieš \ngardą ir ginti apylinkes nuo\nJogailą, su p a T raku s \nKaributo antpuolių, o pats\nskubiai sugrįžo į Žemaitiją; \nčia greitosiomis surinkęs kariuomenę, persikėlė per \nNerį ir susijungė su Vytautu, jau sutelkusiu gardinie­\nčių pulkus. Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei \nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį."
+  statusas: verified
+  atnaujinta: "2026-07-13 01:17"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

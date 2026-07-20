@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64929"></a>
-- t-001
-  global_id: t-64929
+- t-006
   teiginys: "Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +80,7 @@ Nenurodyta
     - c-05211
 
 <a id="claim-t-64930"></a>
-- t-002
-  global_id: t-64930
+- t-004
   teiginys: "1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -101,8 +99,7 @@ Nenurodyta
     - c-14308
 
 <a id="claim-t-64931"></a>
-- t-003
-  global_id: t-64931
+- t-005
   teiginys: "Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -141,7 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64929
+    - t-006
+
 - id: c-14308
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -158,18 +156,15 @@ Nenurodyta
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: |
-    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
-    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
-    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
-    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: "mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64930
+    - t-004
+
 - id: c-14309
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -183,13 +178,11 @@ Nenurodyta
     sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
     to raktus ir pavedė karo vadovybę.
-  citata_rodoma: |
-    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
-    to raktus ir pavedė karo vadovybę.
+  citata_rodoma: "Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­\nto raktus ir pavedė karo vadovybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64931
+    - t-005

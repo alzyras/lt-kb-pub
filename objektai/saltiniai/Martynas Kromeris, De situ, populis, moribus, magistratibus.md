@@ -30,9 +30,8 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
 
 <a id="claim-t-191794"></a>
 - t-001
-  global_id: t-191794
   teiginys: "Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, magistratibus“ poloviečius vadina gotais ir šios nuomonės nelaiko visai nepagrįsta."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,22 +47,7 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174676
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, magistratibus“ poloviečius vadina gotais ir šios nuomonės nelaiko visai nepagrįsta.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Kromeris poloviečius vadina gotais
-    (De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­
-    gali būti visai nepagrįsta.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191794
+
 ## Citatos
 
 - id: c-174676
@@ -71,29 +55,14 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jau pats poloviečių pavadinimo kildinimas ar iš lauko
-    (polie), ar iš medžioklės (p olom anie), ar iš grobio (po-
-    low) yra nei taiklus, nei tinkamai apgalvotas, nes niekad
-    nei poloviečių stepės nebuvo vadintos laukais, nei me­
-    džioklė ar grobis nebuvo vartojami rusų dialektuose; jie
-    vieni, turėdami reikalų su šių genčių žmonėmis bemaž
-    nuo pat jų atsiradimo, suteikė joms šį slavišką pavadini­
-    mą, kurio visiškai nevartojo jokios kitos neslavų tautos1.
-    Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
-    vo palikuonys ar dalis pečenegų, kurie, — o tai pana­
-    šiausia į tiesą, — susiformavo iš likučių giminingų hunų
-    genčių, persikėlusių į kairiąją Dnestro pakrantę, išsis­
-    klaidžiusių po Atilos sūnų žlugimo. Nebūtina dėstyti
-    žinomų istorinių dalykų apie pečenegus, nes tai nesusiję
-    su mūsų tema.
-  citata_rodoma: |
     Kromeris poloviečius vadina gotais
     (De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­
     gali būti visai nepagrįsta.
+  citata_rodoma: "Kromeris poloviečius vadina gotais\n(De situ, populis, moribus, magistratibus... P. 483). Si nuomonė ne­\ngali būti visai nepagrįsta."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191794
+    - t-001

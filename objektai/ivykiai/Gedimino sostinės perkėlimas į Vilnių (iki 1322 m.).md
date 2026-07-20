@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-97017"></a>
 - t-001
-  global_id: t-97017
   teiginys: "Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-97018"></a>
 - t-002
-  global_id: t-97018
   teiginys: "Zenonas Ivinskis rašė, kad nuo XIX a. Vilniaus įkūrimo legenda siejama su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-184338"></a>
 - t-003
-  global_id: t-184338
   teiginys: "Gediminas perkėlė savo sostinę į Vilnių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -124,20 +121,15 @@ Nenurodyta
     vilko » sapno yra nebeįsivaizduojama.
     Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
     jau buvo perkėlęs savo sostinę^15.
-  citata_rodoma: |
-    Vilniaus įkūrimo legenda taip įaugo
-    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
-    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
-    vilko » sapno yra nebeįsivaizduojama.
-    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15.
+  citata_rodoma: "Vilniaus įkūrimo legenda taip įaugo\nį savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be\n«Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio\nvilko » sapno yra nebeįsivaizduojama.\nIstoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun\njau buvo perkėlęs savo sostinę^15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97018
+    - t-002
+
 - id: c-91572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -153,7 +145,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97017
+    - t-001
+
 - id: c-167708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -170,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184338
+    - t-003

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67125"></a>
 - t-001
-  global_id: t-67125
   teiginys: "P.O.W. organizacija slapta rengė sukilimą ir stengėsi į savo pusę patraukti Lietuvos karininkus bei kareivius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-67126"></a>
 - t-002
-  global_id: t-67126
   teiginys: "P.O.W. organizacijos nariai veikė slaptai, turėjo slapyvardžius, o svarbesnius raštus rašė šifru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,19 +83,15 @@ Nenurodyta
     pusėn karininkus ir kareivius. Kai kuriuos iš jų jai buvo jau
     pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę
     karininkais ir rūpinosi gauti atsakingas vietas.
-  citata_rodoma: |
-    Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
-    zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo
-    pusėn karininkus ir kareivius. Kai kuriuos iš jų jai buvo jau
-    pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę
-    karininkais ir rūpinosi gauti atsakingas vietas.
+  citata_rodoma: "Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-\nzacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo\npusėn karininkus ir kareivius. Kai kuriuos iš jų jai buvo jau\npasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę\nkarininkais ir rūpinosi gauti atsakingas vietas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67125
+    - t-001
+
 - id: c-67153
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,13 +110,11 @@ Nenurodyta
     3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
-  citata_rodoma: |
-    Viskas, žinoma, buvo daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
-    besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
+  citata_rodoma: "Viskas, žinoma, buvo daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-\nbesnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67126
+    - t-002

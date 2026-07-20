@@ -31,7 +31,6 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
 
 <a id="claim-t-201161"></a>
 - t-001
-  global_id: t-201161
   teiginys: "Visų pirma susibi čiuliavo su gyventojais salos Gotlando, kurioje 500 kareivių sutelkęs ir kryžių paženklinęs, išleido į Padaugavį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,9 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
 ## Citatos
 
 - id: c-184511
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie
@@ -63,4 +63,4 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201161
+    - t-001

@@ -40,7 +40,6 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
 
 <a id="claim-t-37414"></a>
 - t-001
-  global_id: t-37414
   teiginys: "1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-37414
+    - t-001

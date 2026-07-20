@@ -31,7 +31,6 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
 
 <a id="claim-t-35146"></a>
 - t-001
-  global_id: t-35146
   teiginys: "Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
     pai. Tačiau Ordinas nesutiko delegacijos praleisti pro savo
     žemes, įrodinėdamas, kad Žemaitija yra jo užkariauta ir todėl
     religiniai jos reikalai turi būti pavesti Rygos arkivyskupui.
-  citata_rodoma: |
-    At­
-    sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­
-    micini iš Rogūzos; jam į pagalbą buvo paskirti dar du vysku­
-    pai. Tačiau Ordinas nesutiko delegacijos praleisti pro savo
-    žemes, įrodinėdamas, kad Žemaitija yra jo užkariauta ir todėl
-    religiniai jos reikalai turi būti pavesti Rygos arkivyskupui.
+  citata_rodoma: "At­\nsirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­\nmicini iš Rogūzos; jam į pagalbą buvo paskirti dar du vysku­\npai. Tačiau Ordinas nesutiko delegacijos praleisti pro savo\nžemes, įrodinėdamas, kad Žemaitija yra jo užkariauta ir todėl\nreliginiai jos reikalai turi būti pavesti Rygos arkivyskupui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35146
+    - t-001

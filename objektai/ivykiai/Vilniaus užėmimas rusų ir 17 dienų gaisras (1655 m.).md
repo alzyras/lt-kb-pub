@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01851"></a>
 - t-001
-  global_id: t-01851
   teiginys: "1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,15 +80,11 @@ Nenurodyta
     buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
     ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
     ir sudeginti, o jų valstiečiai išbėgioję.
-  citata_rodoma: |
-    Miestai
-    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
-    ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
-    ir sudeginti, o jų valstiečiai išbėgioję.
+  citata_rodoma: "Miestai\nbuvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-\nras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti\nir sudeginti, o jų valstiečiai išbėgioję."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01851
+    - t-001

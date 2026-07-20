@@ -31,7 +31,6 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
 
 <a id="claim-t-35966"></a>
 - t-001
-  global_id: t-35966
   teiginys: "Ordino kariuomenė užtraukė pergalės giesmę „Christ ist erstanden“ ir pakilusia nuotaika kovojo toliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,16 +60,11 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
     den“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­
     vų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­
     riuomenę.
-  citata_rodoma: |
-    Or­
-    dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­
-    den“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­
-    vų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­
-    riuomenę.
+  citata_rodoma: "Or­\ndino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­\nden“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­\nvų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­\nriuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35966
+    - t-001

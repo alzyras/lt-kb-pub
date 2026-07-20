@@ -31,27 +31,18 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 
 <a id="claim-t-186098"></a>
 - t-001
-  global_id: t-186098
   teiginys: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bertoldas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bertoldas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bertoldas Briuhavenas\" parinktas kaip owner_note_path. Targetas \"Bertoldas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169459
+    - c-178679
 
 <a id="claim-t-196426"></a>
 - t-002
-  global_id: t-196426
   teiginys: "Bertoldas Briuhavenas puolė Medrabą, ją užėmė ir, pasak Kojelavičiaus, išvadavo ten kalintus krikščionis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,7 +56,6 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 
 <a id="claim-t-196427"></a>
 - t-003
-  global_id: t-196427
   teiginys: "Bertoldas Briuhavenas, Karaliaučiaus komtūras, Livonijoje su Prūsijos kryžiuočių daliniu nugalėjo apgulties išsekintus lietuvius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -113,31 +103,15 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
     rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
     mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
-  citata_rodoma: |
-    Po to jis su savo kariais pasuko kita
-    kryptimi: staiga puolė Medrabą, kurios gynėjai daug
-    kartų buvo nusiaubę netolimas Prūsijos žemes ir pri­
-    darę nemaža nuostolių; ją užėmęs, išvadavo galybę
-    ten kalinamų krikščionių. Vėliau su didesne kariauna,
-    kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
-    žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
-    siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
-    ugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,
-    Jazbutas įniko persekioti už-
-    N u žu d o m a s
-    lie tu v ių
-    pakaimę vorą, kuriai tuomet
-    k u n ig a ik štis J a zb u ta s
-    vadovavo Henrikas Cutsver-
-    tas.
+  citata_rodoma: "Po to jis su savo kariais pasuko kita \nkryptimi: staiga puolė Medrabą, kurios gynėjai daug \nkartų buvo nusiaubę netolimas Prūsijos žemes ir pri­\ndarę nemaža nuostolių; ją užėmęs, išvadavo galybę \nten kalinamų krikščionių. Vėliau su didesne kariauna, \nkurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­\nžė į Lietuvą pats magistras Meinhardas, žiauriai nu­\nsiaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos \nugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už- \nN u žu d o m a s \nlie tu v ių \npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s \nvadovavo Henrikas Cutsver-\ntas."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186098
-    - t-196426
+    - t-002
+
 - id: c-178679
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -174,6 +148,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196427
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

@@ -33,7 +33,6 @@ Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (P
 
 <a id="claim-t-201743"></a>
 - t-001
-  global_id: t-201743
   teiginys: "Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (Praetorium)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201743
+    - t-001

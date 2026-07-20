@@ -37,7 +37,6 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 
 <a id="claim-t-31569"></a>
 - t-001
-  global_id: t-31569
   teiginys: "Salyno taikoje „supremus dux“ buvo paties asmens vartotas titulas, kuriuo jį jau titulavo ir didysis magistras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
     niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą
     iki gyvos galvos. Taip didysis magistras jį jau titulavo Salyno
     taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
-  citata_rodoma: |
-    Taip didysis magistras jį jau titulavo Salyno
-    taikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m.
+  citata_rodoma: "Taip didysis magistras jį jau titulavo Salyno\ntaikoje, kai jis pats save vadino « supremus dux». Nuo 1401 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31569
+    - t-001

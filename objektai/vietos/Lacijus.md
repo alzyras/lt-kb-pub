@@ -31,7 +31,6 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
 
 <a id="claim-t-189013"></a>
 - t-001
-  global_id: t-189013
   teiginys: "Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apvaizdos parengtą Europos apšvietos sargą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189013
+    - t-001

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185818"></a>
 - t-001
-  global_id: t-185818
   teiginys: "Liubavą apiplėšęs penkiasdešimties lietuvių raitelių būrys buvo apsuptas kryžiuočių ir neteko penkiolikos karių bei didelės grobio dalies."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-196214"></a>
 - t-002
-  global_id: t-196214
   teiginys: "Po lietuvių niokojimo kryžiuočių krašte magistras Konradas su didžiule kariuomene užpuolė Žemaitiją ir nusiaubė Karšuvą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,5 +102,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185818
-    - t-196214
+    - t-001
+    - t-002

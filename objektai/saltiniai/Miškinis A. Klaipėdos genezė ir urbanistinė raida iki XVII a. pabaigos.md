@@ -39,7 +39,6 @@ Dusburgietis teigia, kad miškinis A.
 
 <a id="claim-t-61183"></a>
 - t-001
-  global_id: t-61183
   teiginys: "A. Miškinio straipsnis „Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos“ paskelbtas 1979 m. „Architektūros paminkluose“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad miškinis A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61183
+    - t-001

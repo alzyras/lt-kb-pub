@@ -39,7 +39,6 @@ Dusburgietis teigia, kad kujot S.
 
 <a id="claim-t-61108"></a>
 - t-001
-  global_id: t-61108
   teiginys: "S. Kujoto „Dzieje Prus Królewskich“ dalis iki 1309 m. paskelbta Torunės mokslo draugijos metraščiuose 1913–1914 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad kujot S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61108
+    - t-001

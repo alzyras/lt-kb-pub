@@ -31,7 +31,6 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 
 <a id="claim-t-59167"></a>
 - t-001
-  global_id: t-59167
   teiginys: "Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 
 <a id="claim-t-59168"></a>
 - t-002
-  global_id: t-59168
   teiginys: "Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -77,22 +75,15 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
     ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
     sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
     pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
-  citata_rodoma: |
-    Dar apie tą patį
-
-       Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo
-    priešus, tą dieną, kai broliai bei  kiti vienuoliai paprastai ima šventąją komuniją —
-    mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei
-    ašarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,
-    sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
-    pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
+  citata_rodoma: "Dar apie tą patį\n\n   Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo\npriešus, tą dieną, kai broliai bei  kiti vienuoliai paprastai ima šventąją komuniją —\nmūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo kitų ir, susijaudinęs bei\našarodamas, pasakė: „O viešpatie Jėzau Kristau, jeigu dabar būčiau namie, priimčiau,\nsukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas\npavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59167
+    - t-001
+
 - id: c-59800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -104,20 +95,11 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
     tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė,
     neapsakomai džiaugdamasis.
     233 (226).
-  citata_rodoma: |
-    Sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo
-    tikras kūnas, tegu jis įeina  į mane“; kai atvėrė burną, paplotėlis įėjo, o jis  jį priėmė,
-    neapsakomai džiaugdamasis.
-
-
-
-
-
-                 233 (226).
+  citata_rodoma: "Sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo\ntikras kūnas, tegu jis įeina  į mane“; kai atvėrė burną, paplotėlis įėjo, o jis  jį priėmė,\nneapsakomai džiaugdamasis.\n\n\n\n\n\n             233 (226)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59168
+    - t-002

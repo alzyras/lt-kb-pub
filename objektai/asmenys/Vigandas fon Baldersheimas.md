@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-186266"></a>
 - t-001
-  global_id: t-186266
   teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ media_all_json: |-
 
 <a id="claim-t-196626"></a>
 - t-002
-  global_id: t-196626
   teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų, žudydamas ir imdamas į nelaisvę kaimiečius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,22 +82,12 @@ media_all_json: |-
     mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui,
     lietuviai ėmė rengtis naujam karui, tikėdamiesi atgau­
     ti Volynę.
-  citata_rodoma: |
-    Nega­
-    lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­
-    vedė savo būrius niokoti priešo kaimų. Šis staigus ant­
-    puolis baisiai nusiaubė Prūsiją: visa žemė paversta
-    dykromis, jos sostinė Gozenlankės pilis užkariauta ir
-    išgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos
-    lietuvių su menka manta beapsikrovusiais kariais, Įs-
-    ruties komtūras Vigandas fon Baldersheimas apiplėšė
-    galybę kaimų, ligi tol nepatyrusių karo negandų, ir
-    sudegino išžudęs bei paėmęs į nelaisvę kaimiečius.
+  citata_rodoma: "Nega­\nlėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­\nvedė savo būrius niokoti priešo kaimų. Šis staigus ant­\npuolis baisiai nusiaubė Prūsiją: visa žemė paversta \ndykromis, jos sostinė Gozenlankės pilis užkariauta ir \nišgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos \nlietuvių su menka manta beapsikrovusiais kariais, Įs- \nruties komtūras Vigandas fon Baldersheimas apiplėšė \ngalybę kaimų, ligi tol nepatyrusių karo negandų, ir \nsudegino išžudęs bei paėmęs į nelaisvę kaimiečius."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186266
-    - t-196626
+    - t-001
+    - t-002

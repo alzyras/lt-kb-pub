@@ -32,7 +32,6 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 
 <a id="claim-t-188968"></a>
 - t-001
-  global_id: t-188968
   teiginys: "Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 
 <a id="claim-t-192745"></a>
 - t-002
-  global_id: t-192745
   teiginys: "Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,31 +70,7 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175515
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Il­
-    gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
-    plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
-    Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­
-    linkės, pateko į žemes, kurias pagal tuometinį derlingumą
-    galima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia
-    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
-    upės, plukdančios savo vandenis per gražias apylinkes;
-    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
-    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192745
+
 ## Citatos
 
 - id: c-171857
@@ -124,28 +98,13 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188968
+    - t-001
+
 - id: c-175515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Čia
-    atsivėrė vietovė, kur galima buvo saugiai įsikurti prie
-    upės, plukdančios savo vandenis per gražias apylinkes;
-    ji dar ir šiandien bėga per tankiausiai gyvenamas, gra­
-    žiausias ir derlingiausias Volkovysko apskrities apylinkes.
-    Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
-    išliko visiškai nepakitęs. Be šių įrodymų, turime ir seno­
-    vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
-    paminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano
-    Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
-    upes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,
-    jungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be
-    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
-    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
-    nės sutampa.
-  citata_rodoma: |
     Il­
     gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
     plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
@@ -158,10 +117,11 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
     žiausias ir derlingiausias Volkovysko apskrities apylinkes.
     Si upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar
     išliko visiškai nepakitęs.
+  citata_rodoma: "Il­\ngai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,\nplytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus\nŽelvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­\nlinkės, pateko į žemes, kurias pagal tuometinį derlingumą\ngalima buvo šiek tiek lyginti su Ukrainos žemėmis. Čia\natsivėrė vietovė, kur galima buvo saugiai įsikurti prie\nupės, plukdančios savo vandenis per gražias apylinkes;\nji dar ir šiandien bėga per tankiausiai gyvenamas, gra­\nžiausias ir derlingiausias Volkovysko apskrities apylinkes.\nSi upė pavadinta religiniu vardu Ros; jis ir ligi šiol dar\nišliko visiškai nepakitęs."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192745
+    - t-002

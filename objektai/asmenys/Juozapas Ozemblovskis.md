@@ -30,7 +30,6 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
 
 <a id="claim-t-190165"></a>
 - t-001
-  global_id: t-190165
   teiginys: "Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadėto radinio buvo nusiųsta T. Narbutui."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190165
+    - t-001

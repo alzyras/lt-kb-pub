@@ -32,8 +32,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 ## Teiginiai
 
 <a id="claim-t-92846"></a>
-- t-001
-  global_id: t-92846
+- t-002
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,16 +46,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-88325
-
-<a id="claim-t-92847"></a>
-- t-002
-  global_id: t-92847
-  teiginys: "Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė."
-  atnaujinta: "2026-06-11 12:47"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-88326
 - susijęs iš [[objektai/asmenys/Zigmantas Augustas.md#claim-t-93758|Zigmantas Augustas]]: Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179274|Lietuviai]]: Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179314|Lietuviai]]: Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.
@@ -83,32 +72,35 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - susijęs iš [[objektai/zodynas/barokinė santvarka barokinis ūkis.md#claim-t-183402|barokinė santvarka barokinis ūkis]]: Barokinės santvarkos ir barokinio ūkio sąvokos vartojamos dėl epochos kultūros ryšių su bajorų santvarka ir lažiniu palivarkiniu ūkiu.
 - susijęs iš [[objektai/zodynas/barokinė santvarka barokinis ūkis.md#claim-t-22078|barokinė santvarka barokinis ūkis]]: Barokinės santvarkos ir barokinio ūkio sąvokos siejamos su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.
 - susijęs iš [[objektai/zodynas/barokinė santvarka.md#claim-t-22079|barokinė santvarka]]: Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+## Citatos
+
+- id: c-10129
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
         prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
         valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: aukstas
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- id: c-10130
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-## Citatos
+  atnaujinta: "2026-07-10 10:39"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-88325
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -127,7 +119,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92846
+    - t-002
+
 - id: c-88326
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -140,15 +133,9 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
     kariuomenė buvo internacionalinė.
-  citata_rodoma: |
-    Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė.
+  citata_rodoma: "Tuo\nbūdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­\nčiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama\nkariuomenė buvo internacionalinė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-92847

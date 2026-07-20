@@ -7,10 +7,10 @@ datos:
   - '1653 m.'
 date_start: '1653'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201953"></a>
 - t-001
-  global_id: t-201953
   teiginys: "1653 m. Respublikos seimas priėmė tokį pat nutarimą, rodantį, kad kanalo iš Gilijos į Deimeną darbai nebuvo vykdomi ar bent jau tada buvo nutraukti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185300
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -74,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201953
+    - t-001

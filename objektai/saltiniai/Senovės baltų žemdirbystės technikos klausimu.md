@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31917"></a>
 - t-001
-  global_id: t-31917
   teiginys: "J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ media_all_json: |-
     Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: |
-    Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
-    klausimu_ , ILKI, t. 4, 1964, 164-170 p.
+  citata_rodoma: "Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos\nklausimu_ , ILKI, t. 4, 1964, 164-170 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31917
+    - t-001

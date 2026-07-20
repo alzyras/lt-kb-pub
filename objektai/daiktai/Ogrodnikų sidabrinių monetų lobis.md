@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Ogrodnikų sidabrinių monetų lobis
 
 ## Santrauka
@@ -54,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-189693"></a>
 - t-001
-  global_id: t-189693
   teiginys: "1826 m. Lydos apskrityje prie Ogrodnikų kaimo, Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų lobį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,23 +76,8 @@ Nenurodyta
   pagrindžia:
     - c-172576
 
-<a id="claim-t-194618"></a>
-- t-002
-  global_id: t-194618
-  teiginys: "Po šių pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent jau dėl to, kad buvo rastos Lietuvos žemėje."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177017
-
 <a id="claim-t-197241"></a>
 - t-003
-  global_id: t-197241
   teiginys: "Monetos storis piešinyje nurodytas skersmens pjūviu, pa žymėtu tarp monetos šonų, kaip ir visuose kituose tos lentelės piešiniuose."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -127,7 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189693
+    - t-001
+
 - id: c-177017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -147,5 +133,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194618
-    - t-197241
+    - t-003

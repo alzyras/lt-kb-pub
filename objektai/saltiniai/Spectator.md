@@ -30,7 +30,6 @@ Anglijoje leidžiamo žurnalo Spectator tradicijas.
 
 <a id="claim-t-88476"></a>
 - t-001
-  global_id: t-88476
   teiginys: "Anglijoje leidžiamo žurnalo Spectator tradicijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Anglijoje leidžiamo žurnalo Spectator tradicijas.
     humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
     kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
     Anglijoje leidžiamo žurnalo Spectator tradicijas.
-  citata_rodoma: |
-    Draugijos narių leidžiamas
-    humoristinis laikraštis Wiadomości brukowe (Grindinio žinios),
-    kuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a.
-    Anglijoje leidžiamo žurnalo Spectator tradicijas.
+  citata_rodoma: "Draugijos narių leidžiamas \nhumoristinis laikraštis Wiadomości brukowe (Grindinio žinios), \nkuriame aktyviai bendradarbiavo ir M. Balinskis, tęsė XVIII a. \nAnglijoje leidžiamo žurnalo Spectator tradicijas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88476
+    - t-001

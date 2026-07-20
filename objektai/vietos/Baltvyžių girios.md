@@ -31,7 +31,6 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 
 <a id="claim-t-02355"></a>
 - t-001
-  global_id: t-02355
   teiginys: "Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
     gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
     lėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-
     rapilį paskelbė tą dekretą.
-  citata_rodoma: |
-    Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
-    lėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-
-    rapilį paskelbė tą dekretą.
+  citata_rodoma: "Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-\nlėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-\nrapilį paskelbė tą dekretą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02355
+    - t-001

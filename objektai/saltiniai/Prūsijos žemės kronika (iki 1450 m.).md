@@ -37,7 +37,6 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
 
 <a id="claim-t-61264"></a>
 - t-001
-  global_id: t-61264
   teiginys: "„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
     ir Dusburgiečio teksto analizė rodo, kad Dusburgietis naudojosi Seniausiu Prūsijos
     metraščiu, kuriame buvo kur kas daugiau žinių, negu išliko jo nuorašuose iki mūsų
     dienų108.
-  citata_rodoma: |
-    „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
-    Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102
-    bei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta
-    Chelmžos vyskupo aplinkoje104.
+  citata_rodoma: "„Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat\nTorunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102\nbei su pastaraisiais susijusi „Prūsijos žemės kronika“ (pratęsta iki 1450 m.)103, sudaryta\nChelmžos vyskupo aplinkoje104."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61264
+    - t-001

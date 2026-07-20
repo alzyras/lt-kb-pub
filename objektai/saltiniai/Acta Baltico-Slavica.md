@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-03500"></a>
 - t-001
-  global_id: t-03500
   teiginys: "„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus."
   atnaujinta: "2026-05-20 20:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md::validation_repair"
@@ -66,13 +65,11 @@ media_all_json: |-
     **ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
     gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
     Aidai = 1945-49 m.
-  citata_rodoma: |
-    ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
-    gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
+  citata_rodoma: "ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­\ngijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03500
+    - t-001

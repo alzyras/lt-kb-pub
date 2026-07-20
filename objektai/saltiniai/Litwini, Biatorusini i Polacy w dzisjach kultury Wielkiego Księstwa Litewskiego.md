@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31832"></a>
 - t-001
-  global_id: t-31832
   teiginys: "W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ media_all_json: |-
     furstentums Litauen,_ Oslo 1935. — Wielhorski, W. : _Litwini, Biatoru-
     sini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace
     Alma Mater Vilnensis, London 1951, 21-157 p.
-  citata_rodoma: |
-    — Wielhorski, W. : _Litwini, Biatoru-
-    sini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace
-    Alma Mater Vilnensis, London 1951, 21-157 p.
+  citata_rodoma: "— Wielhorski, W. : _Litwini, Biatoru-\nsini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego_ , Prace\nAlma Mater Vilnensis, London 1951, 21-157 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31832
+    - t-001

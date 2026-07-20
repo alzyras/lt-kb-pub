@@ -31,7 +31,6 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
 
 <a id="claim-t-77791"></a>
 - t-001
-  global_id: t-77791
   teiginys: "Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77791
+    - t-001

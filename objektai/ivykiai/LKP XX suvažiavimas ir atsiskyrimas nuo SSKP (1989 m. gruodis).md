@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20244"></a>
 - t-001
-  global_id: t-20244
   teiginys: "LKP XX suvažiavime 855 iš 1 033 delegatų balsavo už savarankišką LKP, todėl partija atsiskyrė nuo SSKP."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-183261"></a>
 - t-002
-  global_id: t-183261
   teiginys: "1989 m. gruodį Vilniuje vykusiame LKP XX suvažiavime 855 iš 1 033 delegatų balsavo už savarankišką LKP, ir partija atsiskyrė nuo SSKP."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -117,5 +115,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20244
-    - t-183261
+    - t-001
+    - t-002

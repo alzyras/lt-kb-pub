@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179455"></a>
-- t-001
-  global_id: t-179455
+- t-005
   teiginys: "1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-05001
 
 <a id="claim-t-179456"></a>
-- t-002
-  global_id: t-179456
+- t-008
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-163156
 
 <a id="claim-t-179457"></a>
-- t-003
-  global_id: t-179457
+- t-006
   teiginys: "Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Nenurodyta
     - c-05001
 
 <a id="claim-t-179458"></a>
-- t-004
-  global_id: t-179458
+- t-009
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ Nenurodyta
     - c-163157
 
 <a id="claim-t-179459"></a>
-- t-005
-  global_id: t-179459
+- t-007
   teiginys: "Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -167,8 +162,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179455
-    - t-179457
+    - t-005
+    - t-006
+
 - id: c-05002
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -183,7 +179,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179459
+    - t-007
+
 - id: c-163156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -196,16 +193,15 @@ Nenurodyta
     reiškė vokiečių kunigaikščiai, matydami skriaudžiamą savo globo­
     tinį. Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
-  citata_rodoma: |
-    Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
-    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
+  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179456
+    - t-008
+
 - id: c-163157
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -218,15 +214,11 @@ Nenurodyta
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
     mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
     prieš sunkiai įveikiamus husitus.
-  citata_rodoma: |
-    Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
-    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
-    mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
-    prieš sunkiai įveikiamus husitus.
+  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­\nmantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti\nprieš sunkiai įveikiamus husitus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179458
+    - t-009

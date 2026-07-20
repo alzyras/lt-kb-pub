@@ -47,28 +47,18 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89412"></a>
-- t-001
-  global_id: t-89412
+- t-003
   teiginys: "Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barta: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaistotpilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vaistotpilis lokalizuojamas Bartos žemėje, todėl ryšys traktuojamas kaip priklausymas vietovei."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vaistotpilis priklausė Barta (0.80)"
   pagrindžia:
-    - c-85373
-    - c-002
+    - c-85375
+
 <a id="claim-t-89413"></a>
-- t-002
-  global_id: t-89413
+- t-001
   teiginys: "Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,11 +70,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85372
-    - c-85373
-    - c-002
+
 <a id="claim-t-89414"></a>
-- t-003
-  global_id: t-89414
+- t-002
   teiginys: "Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-183972"></a>
 - t-004
-  global_id: t-183972
   teiginys: "Kai prūsai pasitraukė, broliai sudegino nepakankamai sutvirtintą Vaistotpilio pilį ir slapta pasitraukė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,7 +108,6 @@ Nenurodyta
 
 <a id="claim-t-194429"></a>
 - t-005
-  global_id: t-194429
   teiginys: "Apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -132,24 +118,6 @@ Nenurodyta
   pagrindžia:
     - c-85375
 
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
-
-      Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
-    Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
-    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
-    brolius bei daugybę krikščionių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89412
-    - t-89413
 ## Citatos
 
 - id: c-85372
@@ -167,33 +135,26 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89413
+    - t-001
+
 - id: c-85373
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Gubros žemupio krante
-    aukščiau Sempopolio (VBK; HE, p. 170, 122; CV, t. 34, p. 135, 103, 138; MGP).
-    390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama
-    Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p. 171, 144; Jasas R.,
-    Didysis.., žemėlapis), be to, kituose Gubros pakrančių piliakalniuose ir gyvenvietėse:
-    Ruvnina Dolnoje (Równina Dolna, buv.
-  citata_rodoma: |
     Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
 
       Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
     Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
     ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
     brolius bei daugybę krikščionių.
+  citata_rodoma: "Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje\n\n  Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu\nVaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią\nten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis\nbrolius bei daugybę krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-89412
-    - t-89413
 - id: c-85375
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -212,6 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89414
-    - t-183972
-    - t-194429
+    - t-003
+    - t-002
+    - t-004
+    - t-005

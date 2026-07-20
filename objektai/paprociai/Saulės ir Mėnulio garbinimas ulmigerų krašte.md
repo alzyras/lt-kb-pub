@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-193033"></a>
 - t-001
-  global_id: t-193033
   teiginys: "Pasak Narbuto, ulmigerų krašto gyventojai garbino Saulę ir Mėnulį, o laiką skaičiavo pagaliukais arba mazgais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193033
+    - t-001

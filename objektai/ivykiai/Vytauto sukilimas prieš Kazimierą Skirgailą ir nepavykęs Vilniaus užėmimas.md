@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185788"></a>
 - t-001
-  global_id: t-185788
   teiginys: "Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185788
+    - t-001

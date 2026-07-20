@@ -7,12 +7,12 @@ datos:
   - '1852 m.'
 date_start: '1852'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
 
 <a id="claim-t-190551"></a>
 - t-001
-  global_id: t-190551
   teiginys: "T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,23 +56,7 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173434
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vėliau T. Narbutas šią informaciją įdėjo į vadina­
-    muosius „Mažesniuosius istorijos raštus“ (Pomniej-
-    sze pisma historyczne szczegolnie do historyi Lit-
-    wy odnoszące się. -  Wilno, 1852. -  S. 222-224).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190551
+
 ## Citatos
 
 - id: c-173434
@@ -81,26 +64,15 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Jų dydis beveik vienodas: ilgis
-    3, ašmens plotis 2 su ketvirčiu, storis prie skylės vie­
-    nas colis su ketvirčiu, skylė iš vienos pusės sker-
-    smenyje turi 9 linijas, iš kitos - 7, vidus nugludintas
-    iki blizgėjimo (twardego kamienia grinsztejnu. Ta­
-    kte siekierki mam trzy: dwie cate, a jedna rozbita
-    (Obaczyč wyobrazenie na fignrze 34. Tab. V). Roz-
-    miar ichprawiejednostajny, dhigošci 3, szerokošci w
-    ostrzu 2 i cwierc, miąžszosč przy dziurce jeden i avierč
-    cali, dziurka z jedney strony 9, z dnigiey 7 linij ma w
-    šrednicy, wnętrze jej do poloni wygladzone) (PE.
-  citata_rodoma: |
     Vėliau T. Narbutas šią informaciją įdėjo į vadina­
     muosius „Mažesniuosius istorijos raštus“ (Pomniej-
     sze pisma historyczne szczegolnie do historyi Lit-
     wy odnoszące się. -  Wilno, 1852. -  S. 222-224).
+  citata_rodoma: "Vėliau T. Narbutas šią informaciją įdėjo į vadina­\nmuosius „Mažesniuosius istorijos raštus“ (Pomniej-\nsze pisma historyczne szczegolnie do historyi Lit-\nwy odnoszące się. -  Wilno, 1852. -  S. 222-224)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190551
+    - t-001

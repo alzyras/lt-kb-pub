@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-194820"></a>
 - t-001
-  global_id: t-194820
   teiginys: "Priešais ąžuolą, angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos aukos ir palaikoma šventoji ugnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194820
+    - t-001

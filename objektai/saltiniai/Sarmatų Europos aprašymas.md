@@ -30,7 +30,6 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
 
 <a id="claim-t-186296"></a>
 - t-001
-  global_id: t-186296
   teiginys: "A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tautų genealogijas ir žymių žmonių biografijas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186296
+    - t-001

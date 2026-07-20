@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191028"></a>
 - t-001
-  global_id: t-191028
   teiginys: "Narbutas perteikia pasakojimą, kad Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį oda apsiūtu kalaviju."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-197557"></a>
 - t-002
-  global_id: t-197557
   teiginys: "Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191028
+    - t-001
+
 - id: c-179243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -120,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197557
+    - t-002

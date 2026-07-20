@@ -40,7 +40,6 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 
 <a id="claim-t-30310"></a>
 - t-001
-  global_id: t-30310
   teiginys: "1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +73,14 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
     žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
     rašytame veikale « Confort d’Ami » (« Draugo parama »).
-  citata_rodoma: |
-    Iš kitų puolimų yra išskirtinas 1329
-    pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis
-    į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
+  citata_rodoma: "Iš kitų puolimų yra išskirtinas 1329\npradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis\nį pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš\nvisur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir\nžygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30310
+    - t-001
+
 ## Ryšiai
 - Jonas Liuksemburgietis buvo valdovas [[objektai/vietos/Čekija]]

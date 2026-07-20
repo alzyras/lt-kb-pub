@@ -40,7 +40,6 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 
 <a id="claim-t-77862"></a>
 - t-001
-  global_id: t-77862
   teiginys: "Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77862
+    - t-001

@@ -69,8 +69,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 ## Teiginiai
 
 <a id="claim-t-65923"></a>
-- t-001
-  global_id: t-65923
+- t-007
   teiginys: "NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -89,8 +88,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-26830
 
 <a id="claim-t-65924"></a>
-- t-002
-  global_id: t-65924
+- t-009
   teiginys: "Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +108,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-42877
 
 <a id="claim-t-65925"></a>
-- t-003
-  global_id: t-65925
+- t-006
   teiginys: "Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -129,8 +126,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - c-26829
 
 <a id="claim-t-65926"></a>
-- t-004
-  global_id: t-65926
+- t-008
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,7 +171,8 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65925
+    - t-006
+
 - id: c-26830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,7 +192,8 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65923
+    - t-007
+
 - id: c-42876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,7 +208,8 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65926
+    - t-008
+
 - id: c-42877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,4 +227,4 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65924
+    - t-009

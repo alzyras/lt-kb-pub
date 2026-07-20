@@ -40,7 +40,6 @@ Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 
 
 <a id="claim-t-25303"></a>
 - t-001
-  global_id: t-25303
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25303
+    - t-001

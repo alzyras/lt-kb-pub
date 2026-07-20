@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-36073"></a>
 - t-001
-  global_id: t-36073
   teiginys: "„Lietuvos geografija“ buvo Lietuvos universiteto profesorių ir specialistų pripažinta tinkamu vadovėliu mokykloms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,11 @@ media_all_json: |-
     tų pripažintas Lietuvos geografijos vadovėlis tinkamas mūsų mo­
     kykloms.
     21.
-  citata_rodoma: |
-    8, —
-    Yra tai vienintelis Lietuvos universiteto profesorių ir specialis­
-    tų pripažintas Lietuvos geografijos vadovėlis tinkamas mūsų mo­
-    kykloms.
-    21.
+  citata_rodoma: "8, —\nYra tai vienintelis Lietuvos universiteto profesorių ir specialis­\ntų pripažintas Lietuvos geografijos vadovėlis tinkamas mūsų mo­\nkykloms.\n21."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36073
+    - t-001

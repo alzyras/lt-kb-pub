@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-55159"></a>
 - t-001
-  global_id: t-55159
   teiginys: "Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, stovėjo medinė šventovė, pašvęsta visiems lietuvių dievams."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::customs"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-55160"></a>
 - t-002
-  global_id: t-55160
   teiginys: "Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::customs"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-81869"></a>
 - t-003
-  global_id: t-81869
   teiginys: "Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::customs"
@@ -133,7 +130,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55160
+    - t-002
+
 - id: c-78411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,5 +161,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55159
-    - t-81869
+    - t-001
+    - t-003

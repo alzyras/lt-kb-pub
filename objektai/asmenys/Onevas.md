@@ -31,7 +31,6 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 
 <a id="claim-t-194919"></a>
 - t-001
-  global_id: t-194919
   teiginys: "Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo Onevu, perėjimą į priešo pusę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194919
+    - t-001

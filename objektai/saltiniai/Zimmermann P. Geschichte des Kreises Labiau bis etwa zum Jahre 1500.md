@@ -8,13 +8,13 @@ datos:
   - '1925 m.'
 date_start: '1500'
 date_end: '1925'
-amziai:
-  - 'XV'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,9 +38,8 @@ Dusburgietis teigia, kad zimmermann P.
 
 <a id="claim-t-61384"></a>
 - t-001
-  global_id: t-61384
   teiginys: "P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1925 m."
@@ -48,21 +47,7 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinę informaciją apie leidinį."
   pagrindžia:
     - c-62016
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61384
+
 ## Citatos
 
 - id: c-62016
@@ -72,13 +57,11 @@ Dusburgietis teigia, kad zimmermann P.
   citata_originali: |
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.
-  citata_rodoma: |
-    Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
-    1925.
+  citata_rodoma: "Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,\n1925."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61384
+    - t-001

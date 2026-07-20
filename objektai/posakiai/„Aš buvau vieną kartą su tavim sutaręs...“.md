@@ -28,7 +28,6 @@ Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodam
 
 <a id="claim-t-201263"></a>
 - t-001
-  global_id: t-201263
   teiginys: "Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodamas jį, idant grįžtų ir vienkartu kryžėjus grės tų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodam
 ## Citatos
 
 - id: c-184613
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi karalius,
     jutęs Gediminą paėjus, buvo išleidęs siuntinius, lū-
@@ -60,4 +60,4 @@ Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201263
+    - t-001

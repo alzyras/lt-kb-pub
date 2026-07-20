@@ -31,7 +31,6 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 
 <a id="claim-t-40112"></a>
 - t-001
-  global_id: t-40112
   teiginys: "Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40112
+    - t-001

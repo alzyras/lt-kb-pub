@@ -8,13 +8,13 @@ datos:
   - '1514 m.'
 date_start: '1495'
 date_end: '1514'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
   - 'XVI'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
 
 <a id="claim-t-202109"></a>
 - t-001
-  global_id: t-202109
   teiginys: "Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas Stankus Kostevičius, jį pakeitė minėtas Vaitiekus Jonavičius, Kauno vietininko pareigas ėjęs 1498-1514 m. Be šių pareigų, jis 1495-1512 m. dar buvo Lietuvos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202109
+    - t-001

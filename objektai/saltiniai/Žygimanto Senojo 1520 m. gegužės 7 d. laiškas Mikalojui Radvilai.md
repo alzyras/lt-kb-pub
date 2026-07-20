@@ -8,10 +8,10 @@ datos:
   - '1521 m.'
 date_start: '1520'
 date_end: '1521'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Liet
 
 <a id="claim-t-202306"></a>
 - t-001
-  global_id: t-202306
   teiginys: "Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Lietuvos kancleriui ir Vilniaus vaivadai Mikalojui Radvilai, kad dėl kelio į Kauną uždarymo visa druska ir kitos prekės, paprastai vežamos per Kauną, pasuko Bugu ir Narevu, o Kauno muitinės."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Pačiame karo įkarštyje 1520 m. gegužės 7 d. Žygimantas Senasis rašė Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202306
+    - t-001

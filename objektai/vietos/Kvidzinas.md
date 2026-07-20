@@ -30,7 +30,6 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
 
 <a id="claim-t-192881"></a>
 - t-001
-  global_id: t-192881
   teiginys: "Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175651
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.'
@@ -66,8 +65,7 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192881
+
 ## Citatos
 
 - id: c-175651
@@ -88,18 +86,11 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
     išardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-
     dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­
     jančios salos.
-  citata_rodoma: |
-    Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­
-    tuose daugiausia yra senovės prūsų, o šiaurėje — beveik
-    visi vokiečių kilmės. Vakaruose, kur šios provincijos sie­
-    na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau
-    išardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-
-    dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­
-    jančios salos.
+  citata_rodoma: "Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­\ntuose daugiausia yra senovės prūsų, o šiaurėje — beveik\nvisi vokiečių kilmės. Vakaruose, kur šios provincijos sie­\nna ėjo Vysla, jai priklausė įvairios salos, kurias vėliau\nišardė vandens srautai. Tokia sala buvo Kvidzinas, Qui-\ndino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­\njančios salos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192881
+    - t-001

@@ -40,7 +40,6 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
 
 <a id="claim-t-56962"></a>
 - t-001
-  global_id: t-56962
   teiginys: "Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     - c-57664
 
 <a id="claim-t-56963"></a>
-- t-002
-  global_id: t-56963
+- t-003
   teiginys: "1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     - c-57664
 
 <a id="claim-t-56964"></a>
-- t-003
-  global_id: t-56964
+- t-002
   teiginys: "Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -109,18 +106,13 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų
     pastatydinti bažnyčią, o tas šitaip ir padarė, būtent: pastatė cistersų ordino vienuolyną
     Revelyje, kuris yra Livonijos žemėje.
-  citata_rodoma: |
-    Apie Henriko, Danijos karaliaus, žūtį
-
-      1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
-    už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
-    naudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404).
+  citata_rodoma: "Apie Henriko, Danijos karaliaus, žūtį\n\n  1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs\nuž jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų\nnaudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56962
-    - t-56963
-    - t-56964
+    - t-001
+    - t-003
+    - t-002

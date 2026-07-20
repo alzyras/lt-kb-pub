@@ -40,7 +40,6 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
 
 <a id="claim-t-87759"></a>
 - t-001
-  global_id: t-87759
   teiginys: "Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,27 +83,11 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri.
-  citata_rodoma: |
-    Pirmą kartą jį Dusburgas mini prie 1304 metų
-    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
-    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
-    provise intravit territorium Lettoviae, dictum Pograuden [neti­
-    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
-    Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius,
-    kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte-
-    no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
-    atėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­
-    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
-    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
-    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
-    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
-    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
-    e
-    Chroniam Prussiae.
+  citata_rodoma: "Pirmą kartą jį Dusburgas mini prie 1304 metų \n(356 lape), pasakodamas, kaip brolis Eberhardas de Virnem- \nburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­\nprovise intravit territorium Lettoviae, dictum Pograuden [neti­\nkėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę]. \nBuvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, \nkuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garte- \nno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano \natėjo Brandenburgo komtūras Konradas Lichtenhagenas. To­\nliau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti \npetit ä mane usque ad meridiem in monte ex opposito Castri Jede- \nmine ubi dictus comes de Homberg et piures alii nobiles dignita­\ntem militiae susceperunt [Bet brolių vėliava jam prisijungus \nkovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino\ne\nChroniam Prussiae."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87759
+    - t-001

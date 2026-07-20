@@ -39,7 +39,6 @@ Dusburgietis teigia, kad baryczowa M.
 
 <a id="claim-t-60674"></a>
 - t-001
-  global_id: t-60674
   teiginys: "M. Baryczowa 1936 m. paskelbė darbą „Augustyn Rotundus“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Dusburgietis teigia, kad baryczowa M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60674
+    - t-001

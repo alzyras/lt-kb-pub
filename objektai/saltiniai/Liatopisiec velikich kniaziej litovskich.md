@@ -30,7 +30,6 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
 
 <a id="claim-t-31787"></a>
 - t-001
-  global_id: t-31787
   teiginys: "„Liatopisiec velikich kniaziej litovskich“ Vytauto vardu aiškina, kad Jogailos žygis sukėlė nepasitenkinimą Lietuvoje dėl svetimųjų valdžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,11 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
     Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
     kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
     žemėje nebūdavo »5 6.
-  citata_rodoma: |
-    Lietuvos metraštis («Liatopisiec veli-
-    kich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis
-    Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
-    kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
-    žemėje nebūdavo »5 6.
+  citata_rodoma: "Lietuvos metraštis («Liatopisiec veli-\nkich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis\nJogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje\nkunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių\nžemėje nebūdavo »5 6."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31787
+    - t-001

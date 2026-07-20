@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-34579"></a>
 - t-001
-  global_id: t-34579
   teiginys: "Kunigaikštis Zigmantas autoriui padovanojo šilkinę skarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34579
+    - t-001

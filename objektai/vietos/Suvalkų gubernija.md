@@ -37,7 +37,6 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 <a id="claim-t-15332"></a>
 - t-001
-  global_id: t-15332
   teiginys: "Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,19 +72,14 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     101
     klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
-  citata_rodoma: |
-    Lietuvos Užnemunė pri-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    101
-    klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
-    valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
+  citata_rodoma: "Lietuvos Užnemunė pri-\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n101\nklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-\nvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-15332
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuvos Užnemunė]]

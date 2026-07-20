@@ -30,7 +30,6 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 
 <a id="claim-t-87902"></a>
 - t-001
-  global_id: t-87902
   teiginys: "Auksakaliui Adomui nuo gegužės 16 d. iki rugpjūčio 18 d. buvo užstatyti keturi sidabriniai dubenys už 300 florinų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87902
+    - t-001

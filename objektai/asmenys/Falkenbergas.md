@@ -30,7 +30,6 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 
 <a id="claim-t-34787"></a>
 - t-001
-  global_id: t-34787
   teiginys: "Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34787
+    - t-001

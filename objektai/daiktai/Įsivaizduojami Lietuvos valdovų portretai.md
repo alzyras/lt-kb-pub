@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-65016"></a>
 - t-001
-  global_id: t-65016
   teiginys: "XVI a. italas Aleksandras Gvanjinis nupiešė įsivaizduojamus Lietuvos valdovų portretus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,13 +103,10 @@ Nenurodyta
     kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
     gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
     (valdė 1392–1430).
-  citata_rodoma: |
-    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
-    įsivaizduojami Lietuvos valdovų portretai
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65016
+    - t-001

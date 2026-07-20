@@ -32,7 +32,6 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
 
 <a id="claim-t-192991"></a>
 - t-001
-  global_id: t-192991
   teiginys: "Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192991
+    - t-001

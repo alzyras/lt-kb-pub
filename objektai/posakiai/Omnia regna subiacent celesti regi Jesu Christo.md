@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-86869"></a>
 - t-001
-  global_id: t-86869
   teiginys: "1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86869
+    - t-001

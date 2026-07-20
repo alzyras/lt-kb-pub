@@ -31,7 +31,6 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 
 <a id="claim-t-80610"></a>
 - t-001
-  global_id: t-80610
   teiginys: "Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80610
+    - t-001

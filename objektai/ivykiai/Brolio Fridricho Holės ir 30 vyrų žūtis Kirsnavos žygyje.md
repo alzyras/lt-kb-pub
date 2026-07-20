@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-91910"></a>
 - t-001
-  global_id: t-91910
   teiginys: "Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91910
+    - t-001

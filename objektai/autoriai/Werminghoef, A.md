@@ -40,7 +40,6 @@ Werminghoef, A.
 
 <a id="claim-t-54139"></a>
 - t-001
-  global_id: t-54139
   teiginys: "A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Werminghoef, A.
 
 <a id="claim-t-54140"></a>
 - t-002
-  global_id: t-54140
   teiginys: "A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -87,16 +85,12 @@ Werminghoef, A.
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: |
-    — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
-    deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
-    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
-    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
+  citata_rodoma: "— Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­\ndeutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54139
-    - t-54140
+    - t-001
+    - t-002

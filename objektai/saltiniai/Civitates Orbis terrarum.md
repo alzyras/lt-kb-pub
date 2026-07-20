@@ -8,14 +8,14 @@ datos:
   - '1622 m.'
 date_start: '1541'
 date_end: '1622'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - žemėlapis
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
 
 <a id="claim-t-191743"></a>
 - t-001
-  global_id: t-191743
   teiginys: "Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,23 +56,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174625
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
-    rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
-    kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
-    lasą (Civitates orbis terrarum).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191743
+
 ## Citatos
 
 - id: c-174625
@@ -81,22 +64,15 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jame yra labai nedaug daugiaaukščių, nedaug
-    plytinių namų, bet daug iš paprastos medžiagos kaimiškai su­
-    ręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokštų,
-    nei vartų. Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
-    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mū­
-    rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len­
-    kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas.
-  citata_rodoma: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
     rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
     kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
     lasą (Civitates orbis terrarum).
+  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­\nrąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir\nkartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­\nlasą (Civitates orbis terrarum)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191743
+    - t-001

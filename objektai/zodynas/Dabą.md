@@ -39,8 +39,7 @@ Vartojamos formos: `dabos`.
 ## Teiginiai
 
 <a id="claim-t-69994"></a>
-- t-001
-  global_id: t-69994
+- t-004
   teiginys: "Daba minima greta būdo ir tikybos kaip bruožas, kuriuo lietuviai esą buvo panašūs į indijonis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Vartojamos formos: `dabos`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69994
+    - t-004

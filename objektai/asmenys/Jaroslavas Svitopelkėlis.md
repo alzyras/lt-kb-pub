@@ -36,7 +36,6 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
 
 <a id="claim-t-201425"></a>
 - t-001
-  global_id: t-201425
   teiginys: "Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikštis gudų, gobėdamps tą šalį Lietuvos užimti, kurią Jacviegija, arba Paletija, vadino, traukė tenai su didžia kariauna."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,9 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
 ## Citatos
 
 - id: c-184775
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai dar kruvinose mūšose* pamarionų su
     Boleslovu lietuviai vis pamarionis šelpė, noris per- m2
@@ -74,4 +74,4 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201425
+    - t-001

@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-62403"></a>
 - t-001
-  global_id: t-62403
   teiginys: "Prūsų kariuomenei priėjus Kulmo miestą, ginkluoti miestiečiai mūšyje nukovė prūsų vadą ir išvadavo paimtus krikščionių belaisvius."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
@@ -62,10 +61,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63010
-    - c-001
+
 <a id="claim-t-183948"></a>
 - t-002
-  global_id: t-183948
   teiginys: "Prūsų kariuomenė įsibrovė į Kulmo žemę, ją nusiaubė degindama ir plėšdama, o daug krikščionių išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,10 +80,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63010
-    - c-001
+
 <a id="claim-t-194410"></a>
 - t-003
-  global_id: t-194410
   teiginys: "Apie daugybės prūsų žūtį Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską degindama ir plėšdama, o daugybę krikščionių išžudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -95,28 +92,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63010
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugybės prūsų žūtį
 
-       Neilgai trukus po to prūsų kariuomenė įsibrovė  į Kulmo žemę ir ją nusiaubė, viską
-    degindama ir plėšdama, o daugybę krikščionių išžudė. Galop ji priėjo Kulmo miestą, kur
-    jiems pasipriešino ginkluoti miestiečiai; stoję į mūšį, jie nukovė jų vadą bei daugybę kitų
-    [karių], šitaip buvo išvaduoti visi prūsų paimti į nelaisvę krikščionys.
-
-       164 (159).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62403
-    - t-183948
-    - t-194410
 ## Citatos
 
 - id: c-63010
@@ -124,15 +100,6 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai šitai
-    padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
-    gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas
-    Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
-    kiti pasitraukė nebaigę reikalo. Piktžodžiautojui Divanui nutiko taip kaip tam Heliodorui,
-    kuris, mėgindamas apiplėšti viešpaties šventyklos iždinę, krito dievo nutrenktas žemėn
-    negyvas; įėjęs į šventyklą su daugybe žygūnų ir padėjėjų, jis nesusilaukė nė iš vieno
-    pagalbos, tik neštuvais buvo išneštas laukan.
-  citata_rodoma: |
     Apie daugybės prūsų žūtį
 
        Neilgai trukus po to prūsų kariuomenė įsibrovė  į Kulmo žemę ir ją nusiaubė, viską
@@ -144,12 +111,13 @@ Nenurodyta
 
 
        164 (159).
+  citata_rodoma: "Apie daugybės prūsų žūtį\n\n   Neilgai trukus po to prūsų kariuomenė įsibrovė  į Kulmo žemę ir ją nusiaubė, viską\ndegindama ir plėšdama, o daugybę krikščionių išžudė. Galop ji priėjo Kulmo miestą, kur\njiems pasipriešino ginkluoti miestiečiai; stoję į mūšį, jie nukovė jų vadą bei daugybę kitų\n[karių], šitaip buvo išvaduoti visi prūsų paimti į nelaisvę krikščionys.\n\n\n\n\n   164 (159)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62403
-    - t-183948
-    - t-194410
+    - t-001
+    - t-002
+    - t-003

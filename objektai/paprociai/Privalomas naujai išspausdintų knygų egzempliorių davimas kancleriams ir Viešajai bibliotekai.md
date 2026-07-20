@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-87282"></a>
 - t-001
-  global_id: t-87282
   teiginys: "Karališkosios spaustuvės privilegija įpareigojo nuo kiekvienos naujai išspausdintos knygos duoti po egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87282
+    - t-001

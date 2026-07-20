@@ -31,7 +31,6 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
 
 <a id="claim-t-77812"></a>
 - t-001
-  global_id: t-77812
   teiginys: "XVI a. LDK nuosavybės santykiuose susiformavo leno teisė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77812
+    - t-001

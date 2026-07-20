@@ -42,8 +42,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 ## Teiginiai
 
 <a id="claim-t-89573"></a>
-- t-001
-  global_id: t-89573
+- t-002
   teiginys: "Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   pagrindžia:
     - c-85515
     - c-167402
+
 <a id="claim-t-89574"></a>
-- t-002
-  global_id: t-89574
+- t-001
   teiginys: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,10 +122,12 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-85515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,7 +146,8 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89573
+    - t-002
+
 - id: c-85516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,7 +167,8 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89574
+    - t-001
+
 - id: c-167402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,3 +188,5 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

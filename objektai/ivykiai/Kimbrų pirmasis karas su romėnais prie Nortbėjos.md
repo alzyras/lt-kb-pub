@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-191066"></a>
 - t-001
-  global_id: t-191066
   teiginys: "Narbutas nurodo, kad Strijkovskis kimbrų pasitraukimą nuo Baltijos siejo su pirmuoju jų karu prieš romėnus prie Nortbėjos 190 m. pr. Kr."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -100,4 +99,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191066
+    - t-001

@@ -31,7 +31,6 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
 
 <a id="claim-t-39984"></a>
 - t-001
-  global_id: t-39984
   teiginys: "Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
     kui Poguliankoje (dabartinės
 
     J. Basanavičiaus gatvės dalis).
-  citata_rodoma: |
-    Atsitraukti su įgulos likučiais
-    pavyko kpt. A. Tučkovui, vado-
-    vavusiam rusų artilerijos par-
-    kui Poguliankoje (dabartinės
-
-    J. Basanavičiaus gatvės dalis).
+  citata_rodoma: "Atsitraukti su įgulos likučiais\npavyko kpt. A. Tučkovui, vado-\nvavusiam rusų artilerijos par-\nkui Poguliankoje (dabartinės\n\nJ. Basanavičiaus gatvės dalis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39984
+    - t-001

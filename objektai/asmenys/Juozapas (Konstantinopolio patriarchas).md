@@ -31,7 +31,6 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
 
 <a id="claim-t-186221"></a>
 - t-001
-  global_id: t-186221
   teiginys: "Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -137,4 +136,4 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186221
+    - t-001

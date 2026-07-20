@@ -8,13 +8,13 @@ datos:
   - '1568 m.'
 date_start: '1469'
 date_end: '1568'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
   - 'XVI'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laik
 
 <a id="claim-t-202211"></a>
 - t-001
-  global_id: t-202211
   teiginys: "O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo Roterdamiečio (1469-1536) Adagia ir senovės skaitinių rinkinys Cornucopiae."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202211
+    - t-001

@@ -31,7 +31,6 @@ Motiejūnas-Valevičius, ir karin.
 
 <a id="claim-t-39742"></a>
 - t-001
-  global_id: t-39742
   teiginys: "J. Motiejūnas-Valevičius vadovavo Panevėžio rinktinei priklausiusiam 2-ojo pėstininkų pulko II batalionui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Motiejūnas-Valevičius, ir karin.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39742
+    - t-001

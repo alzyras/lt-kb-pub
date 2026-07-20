@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20205"></a>
 - t-001
-  global_id: t-20205
   teiginys: "1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-20206"></a>
 - t-002
-  global_id: t-20206
   teiginys: "1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-183225"></a>
 - t-003
-  global_id: t-183225
   teiginys: "1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -122,15 +119,15 @@ Nenurodyta
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: |
-    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+  citata_rodoma: "kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20205
+    - t-001
+
 - id: c-22942
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,15 +138,15 @@ Nenurodyta
     vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas
     „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
     lojalūs asmenys.
-  citata_rodoma: |
-    „smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai
+  citata_rodoma: "„smetoniniu Seimu“. Jo 49 narių daugumą sudarė tautininkai ar valdžiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20206
+    - t-002
+
 - id: c-166612
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,4 +163,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183225
+    - t-003

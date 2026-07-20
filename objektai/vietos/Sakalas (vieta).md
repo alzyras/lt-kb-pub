@@ -33,7 +33,6 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
 
 <a id="claim-t-201151"></a>
 - t-001
-  global_id: t-201151
   teiginys: "Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
 ## Citatos
 
 - id: c-184501
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas, norėdamas, idant brostviai ka-
     lavijaus jo klausytų ir jį kaipo savo valdymierą go­
@@ -63,4 +63,4 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201151
+    - t-001

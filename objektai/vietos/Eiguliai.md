@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Eiguliai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +32,6 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 
 <a id="claim-t-41710"></a>
 - t-001
-  global_id: t-41710
   teiginys: "Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +46,18 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.88)"
   pagrindžia:
     - c-45091
+
+<a id="claim-t-201594"></a>
+- t-002
+  teiginys: "Šis kelias ėjo per seniūno žinioje esantį pilies jurzdiką, kirto irgi valdovui priklausantį Eigulių kaimą, taigi su miestu susiję žmonės čia kurtis negalėjo."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184941
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
 - susijęs iš Eigulių pilis (pilis): 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.
@@ -76,22 +88,31 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     sumanymas. Prieš vakarą į pagalbą lietu-
     viams atvyko vokiečių batalionas, gink-
     luotėje turėjęs kulkosvaidžių ir artileriją.
-  citata_rodoma: |
-    Lukšį (turėjusius
-    Pirmojo pasaulinio karo kovų patirties) su
-    8 kareiviais, kurie nepastebėti užėjo be-
-    sirengiantiems apėjimui bolševikams į
-    užnugarį ir netikėtai juos apmėtę granato-
-    mis bei apšaudę privertė iš Eigulių kaimo
-    skubiai trauktis į Juodikio mišką. Tokiu
-    būdu buvo sužlugdytas pavojingas priešo
-    sumanymas. Prieš vakarą į pagalbą lietu-
-    viams atvyko vokiečių batalionas, gink-
-    luotėje turėjęs kulkosvaidžių ir artileriją.
+  citata_rodoma: "Lukšį (turėjusius\nPirmojo pasaulinio karo kovų patirties) su\n8 kareiviais, kurie nepastebėti užėjo be-\nsirengiantiems apėjimui bolševikams į\nužnugarį ir netikėtai juos apmėtę granato-\nmis bei apšaudę privertė iš Eigulių kaimo\nskubiai trauktis į Juodikio mišką. Tokiu\nbūdu buvo sužlugdytas pavojingas priešo\nsumanymas. Prieš vakarą į pagalbą lietu-\nviams atvyko vokiečių batalionas, gink-\nluotėje turėjęs kulkosvaidžių ir artileriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41710
+    - t-001
+
+- id: c-184941
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šių kelių tąsos už miesto branduolio ribų buvo traukos veiksniai Kauno miesto
+    valdose besikuriantiems priemiesčiams - jie augo prie šių kelių. To negalima pa-
+    sakyti apie kelią paneriu į krašto gilumą -
+    Karmėlavą, Ukmergę, Anykščius, kuris
+    galėjo įsilieti į Vilniaus-Rygos kelią. Šis kelias ėjo per seniūno žinioje esantį pilies
+    jurzdiką, kirto irgi valdovui priklausantį Eigulių kaimą, taigi su miestu susiję žmo-
+    nės čia kurtis negalėjo.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01784"></a>
 - t-001
-  global_id: t-01784
   teiginys: "Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,20 +92,11 @@ Nenurodyta
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
-  citata_rodoma: |
-    Tačiau ir jis ir visi kon-
-    federatai labai apsivylė: Rado-
-    me rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-
-    deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-
-    lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti
-    pareigą" saugoti Respublikos konstituciją, arba, kaip ją tada
-    vadino, kardinalines teises; be to, iš Rusijos buvo
-    paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
-    keista.
+  citata_rodoma: "Tačiau ir jis ir visi kon-\nfederatai labai apsivylė: Rado-\nme rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-\nderacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-\nlių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti\npareigą\" saugoti Respublikos konstituciją, arba, kaip ją tada\nvadino, kardinalines teises; be to, iš Rusijos buvo\npaprašyta garantijos, kad nė viena iš tų teisių nebus pa-\nkeista."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01784
+    - t-001

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31660"></a>
 - t-001
-  global_id: t-31660
   teiginys: "K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,14 +78,11 @@ media_all_json: |-
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: |
-    — Būga,
-    K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
-    für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p.
+  citata_rodoma: "— Būga,\nK. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.\nfür slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31660
+    - t-001

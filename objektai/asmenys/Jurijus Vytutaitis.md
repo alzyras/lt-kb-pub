@@ -39,7 +39,6 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
 
 <a id="claim-t-190168"></a>
 - t-001
-  global_id: t-190168
   teiginys: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,6 +78,7 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190168
+    - t-001
+
 ## Ryšiai
 - Jurijus Vytutaitis valdė [[objektai/vietos/Pskovas]]

@@ -37,7 +37,6 @@ XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių ž
 
 <a id="claim-t-189513"></a>
 - t-001
-  global_id: t-189513
   teiginys: "XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių žygyje, per kurį prieš apgultą pilį pastatyti Fridburgas ir Bajerburgas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189513
+    - t-001

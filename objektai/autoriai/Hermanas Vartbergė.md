@@ -42,7 +42,6 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 
 <a id="claim-t-171495"></a>
 - t-001
-  global_id: t-171495
   teiginys: "Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171495
+    - t-001

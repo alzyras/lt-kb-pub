@@ -41,8 +41,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 ## Teiginiai
 
 <a id="claim-t-179907"></a>
-- t-001
-  global_id: t-179907
+- t-005
   teiginys: "Ragainės broliai apyaušryje slapta įsibrovė į Gedimino pilies papilį ir sudegino jį iki pamatų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - c-163543
 
 <a id="claim-t-179908"></a>
-- t-002
-  global_id: t-179908
+- t-007
   teiginys: "1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,10 +76,9 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - c-163545
 
 <a id="claim-t-179909"></a>
-- t-003
-  global_id: t-179909
+- t-002
   teiginys: "Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:45"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,11 +89,11 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-163545
     - c-163547
-    - c-004
+
 <a id="claim-t-179910"></a>
 - t-004
-  global_id: t-179910
   teiginys: "Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - c-163545
 
 <a id="claim-t-179913"></a>
-- t-005
-  global_id: t-179913
+- t-001
   teiginys: "Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -154,8 +150,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-179909
+
 ## Citatos
 
 - id: c-163543
@@ -174,25 +169,15 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 
 
                              16.
-  citata_rodoma: |
-    Apie Gedimino pilies ir jos papilio sudeginimą
-
-      Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo,
-    slaptai įsibrovė  į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei
-    visais namų apyvokos daiktais iki pamatų sudegino, išskyrus 12 vyrų, kurie, pabėgę  į
-    pilį, išvengė mirties nuosprendžio.
-
-
-
-
-                             16.
+  citata_rodoma: "Apie Gedimino pilies ir jos papilio sudeginimą\n\n  Tuo pat metu Ragainės broliai su savo valdiniais apyaušryje, kai lietuviai dar miegojo,\nslaptai įsibrovė  į Gedimino pilies papilį ir jį visą su žmonėmis, moterimis ir vaikais bei\nvisais namų apyvokos daiktais iki pamatų sudegino, išskyrus 12 vyrų, kurie, pabėgę  į\npilį, išvengė mirties nuosprendžio.\n\n\n\n\n                         16."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179907
+    - t-005
+
 - id: c-163545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -216,8 +201,10 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179908
-    - t-179910
+    - t-007
+    - t-002
+    - t-004
+
 - id: c-163546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -237,30 +224,23 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179913
+    - t-001
+
 - id: c-163547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tuo tarpu broliai jau buvo priėję tokią vietą, kur nesitikėjo jokių pavojų,
-    todėl pasidėjo į šalį ginklus, į priekį pasiuntė vieną brolį su 200 vyrų, o patys su būreliu
-    karių nusekė iš tolo paskui juos. Tuo metu netikėtai juos užgriuvo karalius su savaisiais,
-    ir pirmame susidūrime vienas rusas pervėrė ietimi brolį Bolandą Jaunesnįjį, mūsų jau
-    minėto fogto brolėną, šitai išvydęs, fogtas neapsakomai įniršo, nubloškė užpakalin skydą
-    ir, pasičiupęs kalaviją, abiem rankomis nurentė galvą brolėno žudikui. Siame mūšyje
-    krito nukauti keturi broliai, būtent: du iš Bolando, brolis Bernardas iš Hohenšteino, brolis
-    Jonas Vienuolis ir 6 jų vyrai.
-  citata_rodoma: |
     Tačiau brolių vėliava su savo
     sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
     grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių
     kariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie
     juos persekiojo.
+  citata_rodoma: "Tačiau brolių vėliava su savo\nsąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis\ngrafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius. Kai brolių\nkariuomenė patraukė atgal, ji surengė pasalas ir nukovė daugiau nei 20 lietuvių, kurie\njuos persekiojo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179909
+    - t-002

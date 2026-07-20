@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185711"></a>
 - t-001
-  global_id: t-185711
   teiginys: "Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-196175"></a>
 - t-002
-  global_id: t-196175
   teiginys: "Kojelavičiaus pasakojime Vytautas, nepasitikėdamas Švitrigaila ir bijodamas neramumų žygio į Prūsiją metu, liepė jį suimti ir įkalinti Kremenece."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -77,12 +75,10 @@ Nenurodyta
   pagrindžia:
     - c-178568
 
-## Citatos
-
-- id: c-169072
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt atkakliu ne­
     pritarimu ir būtų privertęs
@@ -107,7 +103,19 @@ Nenurodyta
     kariuomenei patraukus į Prūsiją, namie gali kilti kokie
     neramumai, todėl liepė šį suimti ir įkalinti Kremeneco
     kalėjime.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169072
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Atsi­
     dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
     mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
@@ -124,13 +132,15 @@ Nenurodyta
     gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
     trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
     liktų arba ramūs bei klusnūs, arba draugiški.
+  citata_rodoma: "Atsi­\ndūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­\nmantą, vėliau, tarpininkaujant imperatoriui bei karaliui\nJogailai, vargais negalais susitaikė su Vytautu. Tuo\nmetu prasidėjo karas su Prū-\nPrūdėtas\nkaras\nsu\nsija. Lenkų ir lietuvių kariuo-\nPrūsija\nmenės, peržengusios sienas,\nnetruko įsiveržti į šį kraštą;\nvisi, o ypač valdovai Jogaila bei Vytautas, ketino ne­\ngailint jėgų pergalingai užbaigti ilgą ir sunkų karą,\ntrokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams\nliktų arba ramūs bei klusnūs, arba draugiški."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185711
+    - t-001
+
 - id: c-178568
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -157,4 +167,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196175
+    - t-002

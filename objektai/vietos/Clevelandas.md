@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-28314"></a>
 - t-001
-  global_id: t-28314
   teiginys: "Nuo 1949 m. J. Jakštas emigracijoje gyveno Clevelande ir produktyviai reiškėsi Lietuvos istorijos lauke."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28314
+    - t-001

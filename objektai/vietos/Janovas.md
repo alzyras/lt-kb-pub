@@ -31,7 +31,6 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
 
 <a id="claim-t-41741"></a>
 - t-001
-  global_id: t-41741
   teiginys: "Liepos 22 d. Janove buvęs A. Byševskis gavo nurodymą neleisti Rusijos kariuomenei persikelti per Bugą šiauriau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,11 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
     S. Zabielos pranešimą, kad priešas jau tik
     dvi mylios nuo Lietuvos Brastos ir prašė
     paskubėti.
-  citata_rodoma: |
-    Liepos 22 d., kai A. Byševskis jau buvo
-    Janove, jis gavo Karo tarybos prie kara-
-    liaus nurodymą vykti ne į Lietuvos Brastą,
-
-    o neleisti Rusijos kariuomenei persikelti
-    per Bugą šiauriau, nors ten tokio pavojaus
-    nebuvo.
+  citata_rodoma: "Liepos 22 d., kai A. Byševskis jau buvo\nJanove, jis gavo Karo tarybos prie kara-\nliaus nurodymą vykti ne į Lietuvos Brastą,\n\no neleisti Rusijos kariuomenei persikelti\nper Bugą šiauriau, nors ten tokio pavojaus\nnebuvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41741
+    - t-001

@@ -36,7 +36,6 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
 
 <a id="claim-t-88347"></a>
 - t-001
-  global_id: t-88347
   teiginys: "Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,22 +69,11 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
     prielaidas miestams kurtis nori
     įžiūrėti tiesiog kiekvienos šalies vie­
     tinėse sąlygose.
-  citata_rodoma: |
-    Jau veikiau tai netvirtas ir varganas būvis,
-    a)
-    Ši nuomonė, įžvalgiausių istorikų vi­
-    suotinai pripažįstama, pirmą kartą
-    sutiko pasipriešinimą anglų auto­
-    riaus H a 1 1  a m o asmenyje, kuris
-    savo kūrinyje View of the state of Eu­
-    rope etc. London, 1813 in 4-to, t. 1,
-    prielaidas miestams kurtis nori
-    įžiūrėti tiesiog kiekvienos šalies vie­
-    tinėse sąlygose.
+  citata_rodoma: "Jau veikiau tai netvirtas ir varganas būvis,\na)\nŠi nuomonė, įžvalgiausių istorikų vi­\nsuotinai pripažįstama, pirmą kartą \nsutiko pasipriešinimą anglų auto­\nriaus H a 1 1  a m o asmenyje, kuris \nsavo kūrinyje View of the state of Eu­\nrope etc. London, 1813 in 4-to, t. 1, \nprielaidas miestams kurtis nori \nįžiūrėti tiesiog kiekvienos šalies vie­\ntinėse sąlygose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88347
+    - t-001

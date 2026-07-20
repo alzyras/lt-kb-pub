@@ -31,7 +31,6 @@ Olszewski.
 
 <a id="claim-t-19401"></a>
 - t-001
-  global_id: t-19401
   teiginys: "H. Olszewski parašė veikalą „O skutecznym rad sposobie“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,12 +48,11 @@ Olszewski.
   citata_originali: |
     Ed. M. Šapoka, Vilnius, 2009; H. Olszewski. O skutecznym rad
     sposobie.
-  citata_rodoma: |
-    H. Olszewski. O skutecznym rad
+  citata_rodoma: "H. Olszewski. O skutecznym rad"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19401
+    - t-001

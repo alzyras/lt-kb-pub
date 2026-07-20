@@ -30,7 +30,6 @@ Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 
 
 <a id="claim-t-61375"></a>
 - t-001
-  global_id: t-61375
   teiginys: "Z. Ivinskio „Senovės lietuvių religijos bibliografija“ minima kaip literatūra apie Romovę arba Romuvą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61375
+    - t-001

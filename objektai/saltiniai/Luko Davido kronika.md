@@ -26,26 +26,11 @@ media_all_json: |-
 
 Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191709"></a>
-- t-001
-  global_id: t-191709
-  teiginys: 'Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Narbuto lyginamus vietovardžio variantus ir Luko Davido kronikos tomo nuorodą. Pašalintas puslapio lūžio triukšmas ir nepridėta vietovės lokalizacijos detalių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lukas; mentioned_place: Brandenburgas; mentioned_place: Natangija; mentioned_place: Viena'
-  pagrindžia:
-    - c-174591
-
-## Citatos
-
-- id: c-174591
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Linden-
     bergas netoli Baigos, be to, priklausąs senovės Varmijai,
@@ -58,10 +43,8 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
 
     das (t. IV. P. 36) — Lenzenburg, nors šis Lenzenburgas
     yra ne Varmijoje, o jau Natangijoje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191709
+  statusas: verified

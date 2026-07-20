@@ -12,15 +12,15 @@ datos:
   - '1396 m.'
 date_start: '1396'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-87792"></a>
 - t-001
-  global_id: t-87792
   teiginys: "1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,9 +63,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-184790"></a>
 - t-002
-  global_id: t-184790
   teiginys: "Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,7 +83,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-184791"></a>
 - t-003
-  global_id: t-184791
   teiginys: "Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 
 <a id="claim-t-188585"></a>
 - t-004
-  global_id: t-188585
   teiginys: "Kunigui vikarui Mingailai buvo nunešta Kauno klebonijos sienoje rasta cinkinė deivės Veneros statulėlė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -125,8 +121,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - c-171474
 
 <a id="claim-t-197426"></a>
-- t-006
-  global_id: t-197426
+- t-009
   teiginys: "Mingaila pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir įtraukė ją į požemio gelmę - pragarą (Pragaras)."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -138,8 +133,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - c-179180
 
 <a id="claim-t-197427"></a>
-- t-007
-  global_id: t-197427
+- t-010
   teiginys: "Mingaila leidosi į kelionę po visą pasaulį, ieškodama savo brangios netekties."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -151,8 +145,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - c-179181
 
 <a id="claim-t-201016"></a>
-- t-008
-  global_id: t-201016
+- t-011
   teiginys: "Ne trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -162,77 +155,13 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184366
-
-<a id="claim-t-190922"></a>
-- t-005
-  global_id: t-190922
-  teiginys: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis deivės titulas, paliekant aiškų įvykį apie Mingailą. Nepridėtas vėlesnis statulėlės sunaikinimas, nes jis yra atskiras veiksmas.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
-  pagrindžia:
-    - c-005
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šio atradimo smulkmenas
-    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
-    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
-    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
-    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
-    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
-    462
-
-    ## Puslapis 472
-
-    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
-    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
-    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
-    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
-    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
-    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
-    kuoti prikaistuvus bei puodus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190922
-## Citatos
-
-- id: c-83771
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
-  citata_originali: |
-    Aktuota
-    ir duota Vilniuje, Švč. Mergelės Ma­
-    rijos Apsivalymo dienoje, Viešp. me­
-    tais 1396. Dalyvaujant garbingiems
-    ir narsiems vyrams Mingailai, Goš­
-    tautui; Vilniaus vaivadai Manvydui
-    bei mūsų dvaro maršalkoms Čupur-
-    vai ir Milonui bei daugeliui kitų, ver­
-    tų pasitikėjimo].
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-87792
-- id: c-168151
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+- c-002
+  santrauka: 'Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai šia pergale džiaugėsi Mingai­
     la tais pačiais metais jis mirė, įpėdiniais palikdamas
@@ -266,7 +195,67 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     savo krašte ką rusams duoti,
     kuri versdavosi tik žemės
     darbu, dabar štai ketino įsi-
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šio atradimo smulkmenas
+    man papasakojo gerbiamas profesorius ponas Laurinavičius „Rei­
+    kėtų priminti ir tai, — rašoma jo laiške, —- jog amžiną atilsį ku­
+    nigas Franckevičius, buvęs Kauno klebonas (klebonavęs maždaug
+    prieš amžiną atilsį kunjigą] Pucilovskį) savo dienoraštyje (jis
+    ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas
+    462
+
+    ## Puslapis 472
+
+    savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į
+    Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iškirsti angą ir
+    ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų,
+    aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nu­
+    nešė kunigui vikarui Mingailai. Kunigas vikaras, skrupulas, ne­
+    laukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucin-
+    kuoti prikaistuvus bei puodus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-83771
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Aktuota
+    ir duota Vilniuje, Švč. Mergelės Ma­
+    rijos Apsivalymo dienoje, Viešp. me­
+    tais 1396. Dalyvaujant garbingiems
+    ir narsiems vyrams Mingailai, Goš­
+    tautui; Vilniaus vaivadai Manvydui
+    bei mūsų dvaro maršalkoms Čupur-
+    vai ir Milonui bei daugeliui kitų, ver­
+    tų pasitikėjimo].
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-168151
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Arčiausiai puolančiųjų plytėjo Min-
     gailos valdinių žemės: norėdamas atkeršyta už jų nu­
     siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
@@ -278,13 +267,15 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
     pergalingą kariuomenę atvedė prie Polocko sienų, kur
     pabėgę priešai buvo perkėlę karo veiksmus.
+  citata_rodoma: "Arčiausiai puolančiųjų plytėjo Min-\ngailos valdinių žemės: norėdamas atkeršyta už jų nu­\nsiaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai\njas užėmė, šiek tiek anksčiau su kariuomene patraukę\nligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­\nsiai užpuolęs palaidą minią, narsią vien dėl gausumo,\no visai nemokančią kariauti, vienu smūgiu privertė\nsprukti ir iš kovos lauko, ir iš stovyklos. Po to, lipte\nlipdamas bėgantiems ant kulnų, mikliai išnaudojo per-\npergalingą kariuomenę atvedė prie Polocko sienų, kur\npabėgę priešai buvo perkėlę karo veiksmus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184790
+    - t-002
+
 - id: c-168152
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -307,7 +298,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184791
+    - t-003
+
 - id: c-171474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -330,7 +322,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188585
+    - t-004
+
 - id: c-179180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -350,7 +343,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197426
+    - t-009
+
 - id: c-179181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -369,10 +363,12 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197427
+    - t-010
+
 - id: c-184366
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip pasibengė rėdą ūkės polockionų,
     vienok lyčiaus tos karės raštuose nėra randama. Ne­
@@ -388,6 +384,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201016
+    - t-011
+
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

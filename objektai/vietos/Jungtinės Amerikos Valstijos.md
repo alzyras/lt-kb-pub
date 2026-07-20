@@ -39,8 +39,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 ## Teiginiai
 
 <a id="claim-t-76352"></a>
-- t-001
-  global_id: t-76352
+- t-006
   teiginys: "JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     - c-73944
 
 <a id="claim-t-76353"></a>
-- t-002
-  global_id: t-76353
+- t-001
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 
 <a id="claim-t-76354"></a>
 - t-003
-  global_id: t-76354
   teiginys: "Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,15 +108,15 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
-  citata_rodoma: |
-    JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
+  citata_rodoma: "JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76354
+    - t-003
+
 - id: c-73944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,7 +132,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76352
+    - t-006
+
 - id: c-73947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -147,12 +145,11 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: |
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+  citata_rodoma: "venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76353
+    - t-001

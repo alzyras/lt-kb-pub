@@ -31,7 +31,6 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
 
 <a id="claim-t-35044"></a>
 - t-001
-  global_id: t-35044
   teiginys: "Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,18 +66,11 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
     Lietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­
     nas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­
     čių suvienijimui.
-  citata_rodoma: |
-    Tai buvo bulgaras Ciprijonas, kurį
-    Algirdas per didelius vargus buvo išgavęs Lietuvai, kaip atski­
-    rą Kijevo metropolitą, bet vėliau, mirus Maskvos metropolitui
-    Pimenui, nusikėlė į Maskvą ir savo valdžioj suvienijo Rusijos ir
-    Lietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­
-    nas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­
-    čių suvienijimui.
+  citata_rodoma: "Tai buvo bulgaras Ciprijonas, kurį\nAlgirdas per didelius vargus buvo išgavęs Lietuvai, kaip atski­\nrą Kijevo metropolitą, bet vėliau, mirus Maskvos metropolitui\nPimenui, nusikėlė į Maskvą ir savo valdžioj suvienijo Rusijos ir\nLietuvos stačiatikius. Vytautas tam nesipriešino, nes Ciprijo­\nnas buvo jam labai palankus ir prijautė Vakarų ir Rytų Bažny­\nčių suvienijimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35044
+    - t-001

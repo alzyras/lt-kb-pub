@@ -30,8 +30,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 ## Teiginiai
 
 <a id="claim-t-65303"></a>
-- t-001
-  global_id: t-65303
+- t-003
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
     liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
     dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
     žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
-  citata_rodoma: |
-    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.
+  citata_rodoma: "žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65303
+    - t-003

@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185750"></a>
 - t-001
-  global_id: t-185750
   teiginys: "Kojelavičiaus pasakojime Maskvos kunigaikštis Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią sakėsi telkęs karui prieš skitus ir švedus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,29 +64,19 @@ Nenurodyta
 
 <a id="claim-t-185751"></a>
 - t-002
-  global_id: t-185751
   teiginys: "Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Dorpatas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dorpatas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Maskvėnai užėmė Viljandis (0.93); Maskvėnai užėmė Dorpatas (0.93); Maskvėnai užėmė Livonija (0.82)"
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
-    - c-169112
+    - c-169111
 
 <a id="claim-t-196221"></a>
 - t-003
-  global_id: t-196221
   teiginys: "Prie Pasvalio sustojus kariuomenei, karalius įsakė Mikalojui Radvilai su lengvaisiais raiteliais įsiveržti į Livoniją ir nusiaubti priešo kraštą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -98,6 +87,30 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178583
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš žvalgų sužino­
+    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
+    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
+    Ferdinando pasiuntinio, buvusio magistro stovykloje,
+    paprašė taikos, maldaudamas atleisti už tai, ką buvo
+    padaręs. Karalius, išleidęs šiam karo žygiui galybę pi­
+    nigų, ne taip jau labai norėjo siūlomos taikos, kuri jam
+    rodėsi būsianti kol kas tik nuostolinga. Kadangi už
+    pergalę reikėtų mokėti nekaltų žmonių krauju ir gy­
+    vybe, jis pasiuntiniui vis dėlto atsakė, jog nepriešta­
+    rausiąs taikai, jeigu magistras asmeniškai jos paprašy­
+    siąs ir kuo greičiausiai paleisiąs iš kalėjimo bei sugrą­
+    žinsiąs į sostą arkivyskupą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -130,26 +143,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185750
+    - t-001
+    - t-002
+
 - id: c-169112
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Iš žvalgų sužino­
-    jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė
-    galvojęs apie karą ir, tarpininkaujamas imperatoriaus
-    Ferdinando pasiuntinio, buvusio magistro stovykloje,
-    paprašė taikos, maldaudamas atleisti už tai, ką buvo
-    padaręs. Karalius, išleidęs šiam karo žygiui galybę pi­
-    nigų, ne taip jau labai norėjo siūlomos taikos, kuri jam
-    rodėsi būsianti kol kas tik nuostolinga. Kadangi už
-    pergalę reikėtų mokėti nekaltų žmonių krauju ir gy­
-    vybe, jis pasiuntiniui vis dėlto atsakė, jog nepriešta­
-    rausiąs taikai, jeigu magistras asmeniškai jos paprašy­
-    siąs ir kuo greičiausiai paleisiąs iš kalėjimo bei sugrą­
-    žinsiąs į sostą arkivyskupą.
-  citata_rodoma: |
     Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
     didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
@@ -158,13 +159,13 @@ Nenurodyta
     žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
     kų kolegiją.
+  citata_rodoma: "Maskvėnai, į šį žygį patraukę\nsu šimtu dvidešimt tūkstančių vyrų, netrukus užėmė\ndidelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.\nViljandyje į priešų rankas pakliuvo pats magistras Fiur-\nstenbergas, bet niekur neradau parašyta, ar gyvas, ar\nžuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185751
 - id: c-178583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -194,4 +195,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196221
+    - t-003

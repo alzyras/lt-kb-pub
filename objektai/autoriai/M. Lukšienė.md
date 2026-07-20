@@ -38,7 +38,6 @@ Lukšienė (BBK, t.
 
 <a id="claim-t-100131"></a>
 - t-001
-  global_id: t-100131
   teiginys: "M. Lukšienė rašė apie bibliotekas Lietuvoje XIX a. pradžioje ir to laikotarpio pradines mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Lukšienė (BBK, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100131
+    - t-001

@@ -39,7 +39,6 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 
 <a id="claim-t-182963"></a>
 - t-001
-  global_id: t-182963
   teiginys: "Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 
 <a id="claim-t-193609"></a>
 - t-002
-  global_id: t-193609
   teiginys: "Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182963
+    - t-001
+
 - id: c-176282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -110,4 +109,4 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193609
+    - t-002

@@ -32,7 +32,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 
 <a id="claim-t-72700"></a>
 - t-001
-  global_id: t-72700
   teiginys: "Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,4 +163,4 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72700
+    - t-001

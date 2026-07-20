@@ -38,7 +38,6 @@ Du mediniai ir trys geležiniai kryžiai/ Atsiminimai iš Lietuvos nepriklausomy
 
 <a id="claim-t-39878"></a>
 - t-001
-  global_id: t-39878
   teiginys: "Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Du mediniai ir trys geležiniai kryžiai/ Atsiminimai iš Lietuvos nepriklausomy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39878
+    - t-001

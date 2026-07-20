@@ -31,7 +31,6 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
 
 <a id="claim-t-22161"></a>
 - t-001
-  global_id: t-22161
   teiginys: "XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
     nustatytiems kultūros standartams. Susiformavo dvi kultūrinės kryptys –
     etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo
     roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.
-  citata_rodoma: |
-    etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo
+  citata_rodoma: "etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22161
+    - t-001

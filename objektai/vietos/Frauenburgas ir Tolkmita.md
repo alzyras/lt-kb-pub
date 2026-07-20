@@ -31,7 +31,6 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
 
 <a id="claim-t-188997"></a>
 - t-001
-  global_id: t-188997
   teiginys: "Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188997
+    - t-001

@@ -4,9 +4,12 @@ pavadinimas: 'pavietas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajorija
   - sąvoka
   - teisinis-terminas
   - istorinė-sąvoka
@@ -27,13 +30,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje. Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas. Veliuona kurį laiką buvo Žemaitijos pavieto centras. Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 
 ## Teiginiai
 
 <a id="claim-t-113660"></a>
-- t-001
-  global_id: t-113660
+- t-004
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -49,8 +51,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     - c-104855
 
 <a id="claim-t-113661"></a>
-- t-002
-  global_id: t-113661
+- t-003
   teiginys: "Veliuona kurį laiką buvo Žemaitijos pavieto centras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +67,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     - c-104852
 
 <a id="claim-t-113662"></a>
-- t-003
-  global_id: t-113662
+- t-006
   teiginys: "Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +83,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     - c-104854
 
 <a id="claim-t-182966"></a>
-- t-004
-  global_id: t-182966
+- t-005
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -103,8 +102,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     - c-166365
 
 <a id="claim-t-193153"></a>
-- t-005
-  global_id: t-193153
+- t-007
   teiginys: "Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -114,6 +112,19 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175905
+
+<a id="claim-t-201505"></a>
+- t-008
+  teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-184852
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.).md#claim-t-200498|Jonas Dombrovskis (Ukmergės pavieto stalininkas, XVIII a.)]]: Jonas Dombrovskis buvo Ukmergės pavieto stalininkas.
 - susijęs iš [[objektai/asmenys/Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.).md#claim-t-200519|Jonas Tadas Božimovskis (Lydos pavieto stalininkas ir Rodūnės seniūnas, XVIII a.)]]: Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas.
@@ -177,21 +188,15 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
     ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
     das.
-  citata_rodoma: |
-    Senoji pi­
-    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
-    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
-    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
-    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
-    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
-    das.
+  citata_rodoma: "Senoji pi­\nliavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­\ntiestu per gana gilią griovą, tarp kurios polių buvo net kalė­\njimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos\npavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,\n° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­\ndas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113661
+    - t-003
+
 - id: c-104854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -231,7 +236,8 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113662
+    - t-006
+
 - id: c-104855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -249,7 +255,8 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113660
+    - t-004
+
 - id: c-166365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -267,7 +274,8 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182966
+    - t-005
+
 - id: c-175905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -283,4 +291,23 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193153
+    - t-007
+
+- id: c-184852
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas. Kau-
+    nas, kaip ir visi kiti XV-XVIII a. Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats
+    savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys,
+    pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni­
+    jos/pavieto centras ir bažnyčios struktūros; katalikų parapinė bažnyčia/parapija,
+    Kaune įsikūrusios vienuolijos, vėliau atsiradusi liuteronų bažnyčia/bendruomenė.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008

@@ -30,7 +30,6 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
 
 <a id="claim-t-200464"></a>
 - t-001
-  global_id: t-200464
   teiginys: "Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -48,8 +47,7 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
     - c-183844
 
 <a id="claim-t-200465"></a>
-- t-002
-  global_id: t-200465
+- t-004
   teiginys: "Po Vilniaus vyskupo koadjutoriaus Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -68,7 +66,6 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
 
 <a id="claim-t-200466"></a>
 - t-003
-  global_id: t-200466
   teiginys: "Po Juozapo Sapiegos mirties Steponas Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė įvairius daiktus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -110,22 +107,10 @@ Juozapas Sapiega buvo Vilniaus vyskupo koadjutorius. Po Vilniaus vyskupo koadjut
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    Laiškuose buvo pasakojama ir apie turto perėmimą. Po Vilniaus vyskupo koadju-
-    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
-    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
-    sininko registrą bei kitus daiktus iš bernardinų.
-  citata_rodoma: |
-    Po Vilniaus vyskupo koadju-
-    toriaus Juozapo Sapiegos mirties kanauninko lobyne likusį turtą perėmė Steponas(?)
-    Olendskis (Stefan Olendski) ir išsivežė sidabrą, alavą, varį, staltieses pagal velionio dva-
-    sininko registrą bei kitus daiktus iš bernardinų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200464
-    - t-200465
-    - t-200466
+    - t-001
+    - t-004
+    - t-003

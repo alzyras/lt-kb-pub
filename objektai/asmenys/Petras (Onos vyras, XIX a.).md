@@ -52,8 +52,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 ## Teiginiai
 
 <a id="claim-t-195549"></a>
-- t-001
-  global_id: t-195549
+- t-002
   teiginys: "Petras tą rudenį išliko nuo rekrutų ir prieš Užgavėnes vedė Oną."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -63,8 +62,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     - c-177969
 
 <a id="claim-t-195550"></a>
-- t-002
-  global_id: t-195550
+- t-001
   teiginys: "Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -75,7 +73,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 
 <a id="claim-t-195551"></a>
 - t-003
-  global_id: t-195551
   teiginys: "1864 m. Petras žemės negavo, nes jo brolis turėjo 24 hektarus."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -86,7 +83,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 
 <a id="claim-t-195552"></a>
 - t-004
-  global_id: t-195552
   teiginys: "Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -103,85 +99,60 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    Petras
-    nesidaiijo su broliu žemės,
-    nes jam prikaišiojo,
-    kam vedęs vargingą
-    Oną.
-    Tada jis su žmona pastojo įnamiu arba kampininku.
-    1864 me­
-    tais valdžia neturintiems davinėjo žemės, dirbo bobelius*) ; Petras ir
-    tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
-  citata_rodoma: |
     1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
+  citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195551
+    - t-003
+
 - id: c-177967
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 48-49 (PDF 46-47)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48-49 (PDF 46-47)."
   citata_originali: |
-    Užėjus 1867
-    *) bobelis — mažai turis žemės valstietis.
-    48
-
-    metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų
-    nusipirko dvylika hektarų žemės.
-    Padedamas brolio pasistatė trobas
-    ir gyveno kaip kiti ūkininkai.
-  citata_rodoma: |
     Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės. Padedamas brolio pasistatė trobas ir gyveno kaip kiti ūkininkai.
+  citata_rodoma: "Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės. Padedamas brolio pasistatė trobas ir gyveno kaip kiti ūkininkai."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195552
+    - t-004
+
 - id: c-177968
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestu­
-    vės?“ Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras —
-    Petras.
-    Uršulė žinojo, kad Ona ir Petras sau artimi, tos dvi mergai-
-    ti apie širdies reikalus šnekėjosi atvirai.
-  citata_rodoma: |
     Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras. Uršulė žinojo, kad Ona ir Petras sau artimi.
+  citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras. Uršulė žinojo, kad Ona ir Petras sau artimi."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195550
+    - t-001
+
 - id: c-177969
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 48 (PDF 46)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 48 (PDF 46)."
   citata_originali: |
-    Jaučiai nuėjo į tvartą,
-    aš į
-    svirną.
-    Girdėta, jausta ir svajota susipynė vienumon ir virto sapnu.
-    Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdy-
-    je, prieš užgavėnes, vedė Oną.
-  citata_rodoma: |
     Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną.
+  citata_rodoma: "Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195549
+    - t-002

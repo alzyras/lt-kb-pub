@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201922"></a>
 - t-001
-  global_id: t-201922
   teiginys: "Sprendimas yra įvilktas į privilegijos formą, privilegija jis buvo vadinamas ir vė liau, įvairiuose Kauno miesto dokumentų sąrašuose."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,6 +49,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185269
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -69,4 +71,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201922
+    - t-001

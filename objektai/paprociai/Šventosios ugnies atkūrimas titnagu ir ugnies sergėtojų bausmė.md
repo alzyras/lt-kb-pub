@@ -43,26 +43,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189954"></a>
-- t-001
-  global_id: t-189954
-  teiginys: 'Narbutas aprašo, kad užgesus šventajai ugniai žyniai ją išskeldavo iš Perkūno stabo laikyto titnago ir sudegindavo ugnies sergėtojus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys perrašytas su aiškiu įvykiu, veikėjais ir bausme, pašalinant puslapio triukšmą. Religinis pasakojimas paliktas su Narbuto atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Šventoji'
-  pagrindžia:
-    - c-172837
-
-## Citatos
-
-- id: c-172837
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas aprašo, kad užgesus šventajai ugniai žyniai ją išskeldavo iš Perkūno stabo laikyto titnago ir sudegindavo ugnies sergėtojus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     34 Senoviniai liaudies padavimai ir dainos.
     301
@@ -76,10 +61,8 @@ Nenurodyta
     tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­
     ginę nerūpestingus ugnies sergėtojus, dėl kurių apsileidimo
     tai nutiko35.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189954
+  statusas: verified

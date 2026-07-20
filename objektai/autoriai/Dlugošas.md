@@ -31,7 +31,6 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
 
 <a id="claim-t-194977"></a>
 - t-001
-  global_id: t-194977
   teiginys: "Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu kreiptos į Vytautą, kaip į „gudresnį“."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194977
+    - t-001

@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-68322"></a>
 - t-001
-  global_id: t-68322
   teiginys: "Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-68323"></a>
 - t-002
-  global_id: t-68323
   teiginys: "Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,21 +98,15 @@ media_all_json: |-
     iki Nevėžio ir Sūduva iki Šešupės aukštu-
     pio. Kryžiuočiai turėjo remti LDK veiksmus
     rytuose.
-  citata_rodoma: |
-    Nemuno saloje „Salyne“ (kiek žemiau
-    Kulautuvos) Vytauto ir didžiojo magistro
-    Konrado delegacijų susitikime buvo pa-
-    tvirtinta kryžiuočiams užleista Žemaitija
-    iki Nevėžio ir Sūduva iki Šešupės aukštu-
-    pio. Kryžiuočiai turėjo remti LDK veiksmus
-    rytuose.
+  citata_rodoma: "Nemuno saloje „Salyne“ (kiek žemiau\nKulautuvos) Vytauto ir didžiojo magistro\nKonrado delegacijų susitikime buvo pa-\ntvirtinta kryžiuočiams užleista Žemaitija\niki Nevėžio ir Sūduva iki Šešupės aukštu-\npio. Kryžiuočiai turėjo remti LDK veiksmus\nrytuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68323
+    - t-002
+
 - id: c-67932
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -132,4 +124,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68322
+    - t-001

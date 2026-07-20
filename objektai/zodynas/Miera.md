@@ -39,8 +39,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 ## Teiginiai
 
 <a id="claim-t-70031"></a>
-- t-001
-  global_id: t-70031
+- t-005
   teiginys: "Miera arba saikas citatoje apima storumo ir tekumo matavimus, o svoriui minimas svaras arba voga."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -101,4 +100,4 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70031
+    - t-005

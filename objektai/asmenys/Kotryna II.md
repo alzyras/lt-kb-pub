@@ -38,8 +38,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 ## Teiginiai
 
 <a id="claim-t-63840"></a>
-- t-001
-  global_id: t-63840
+- t-011
   teiginys: "Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-64769
 
 <a id="claim-t-63842"></a>
-- t-002
-  global_id: t-63842
+- t-010
   teiginys: "Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-04160
 
 <a id="claim-t-63843"></a>
-- t-003
-  global_id: t-63843
+- t-009
   teiginys: "Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +91,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-64773
 
 <a id="claim-t-63844"></a>
-- t-004
-  global_id: t-63844
+- t-008
   teiginys: "Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-64767
 
 <a id="claim-t-63849"></a>
-- t-005
-  global_id: t-63849
+- t-001
   teiginys: "Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-04159
 
 <a id="claim-t-194915"></a>
-- t-006
-  global_id: t-194915
+- t-012
   teiginys: "Tai lėmė, kad galindai ir jotvingiai drauge perėjo lenkų kunigaikščių, Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon, o jie išsiuntė pranešimus apie tai popiežiui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,8 +137,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - c-177311
 
 <a id="claim-t-194916"></a>
-- t-007
-  global_id: t-194916
+- t-013
   teiginys: "Be abejonės, po to, kai dešiniojoje Bugo pakrantėje įtvirtintose vietose stovėjo rusų įgulos ir iš savo pusės pradėjo spausti kryžiuočiai, jotvingiai vėl pasidavė Kjujavijos kunigaikščio Kazimiero globai, nes tais pačiais 1256 metais šis kunigaikštis gavo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -169,18 +162,15 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
     ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
-  citata_rodoma: |
-    Nuo «nebylių
-    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
-    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
-    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
+  citata_rodoma: "Nuo «nebylių\nseimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius\nir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,\nkurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63849
+    - t-001
+
 - id: c-04160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -194,17 +184,15 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Paskutinis respublikos karalius Stanislovas Augustas Ponia­
     tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
     tas, jos statytinis.
-  citata_rodoma: |
-    Paskutinis respublikos karalius Stanislovas Augustas Ponia­
-    tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
-    tas, jos statytinis.
+  citata_rodoma: "Paskutinis respublikos karalius Stanislovas Augustas Ponia­\ntovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­\ntas, jos statytinis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63842
+    - t-010
+
 - id: c-64767
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -218,18 +206,15 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
     nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
     buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
-  citata_rodoma: |
-    Poniatauskui grįžus namo, ne-
-      trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas
-      nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
-      buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
+  citata_rodoma: "Poniatauskui grįžus namo, ne-\n  trukus mirė carienė Elžbieta, caras Petras III buvo pašalintas\n  nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji\n  buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63844
+    - t-008
+
 - id: c-64769
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -241,17 +226,15 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Prancūzijos revoliucionieriais. Tada karalius kreipėsi į Kotryną,
     siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
     ji paliktų seimo padarytąsias reformas.
-  citata_rodoma: |
-    Tada karalius kreipėsi į Kotryną,
-      siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
-      ji paliktų seimo padarytąsias reformas.
+  citata_rodoma: "Tada karalius kreipėsi į Kotryną,\n  siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik\n  ji paliktų seimo padarytąsias reformas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63840
+    - t-011
+
 - id: c-64773
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -264,17 +247,15 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-
     vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
     karų Europos konfliktus, ir jos žodis ten nusverdavo.
-  citata_rodoma: |
-    Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-
-      vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
-      karų Europos konfliktus, ir jos žodis ten nusverdavo.
+  citata_rodoma: "Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vado-\n  vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-\n  karų Europos konfliktus, ir jos žodis ten nusverdavo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63843
+    - t-009
+
 - id: c-177311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -301,7 +282,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194915
+    - t-012
+
 - id: c-177312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -325,4 +307,4 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194916
+    - t-013

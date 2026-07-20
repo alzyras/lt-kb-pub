@@ -31,7 +31,6 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
 
 <a id="claim-t-185388"></a>
 - t-001
-  global_id: t-185388
   teiginys: "Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
 
 <a id="claim-t-196383"></a>
 - t-002
-  global_id: t-196383
   teiginys: "Šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185388
-    - t-196383
+    - t-001
+    - t-002

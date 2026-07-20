@@ -31,7 +31,6 @@ Kromerio kronikos.
 
 <a id="claim-t-30838"></a>
 - t-001
-  global_id: t-30838
   teiginys: "M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,14 +59,11 @@ Kromerio kronikos.
     ir Livonijos kronikas. Iš lenkų kronikų jam buvo pažįstamas J.
     Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
     ir M. Kromerio kronikos.
-  citata_rodoma: |
-    Iš lenkų kronikų jam buvo pažįstamas J.
-    Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
-    ir M. Kromerio kronikos.
+  citata_rodoma: "Iš lenkų kronikų jam buvo pažįstamas J.\nDlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio\nir M. Kromerio kronikos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30838
+    - t-001

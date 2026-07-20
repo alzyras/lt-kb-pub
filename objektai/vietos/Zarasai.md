@@ -38,8 +38,7 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 ## Teiginiai
 
 <a id="claim-t-47471"></a>
-- t-001
-  global_id: t-47471
+- t-003
   teiginys: "Voldemaras buvo ištremtas iš Zarasų į Paryžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,4 +100,4 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47471
+    - t-003

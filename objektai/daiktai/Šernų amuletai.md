@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47838"></a>
-- t-001
-  global_id: t-47838
+- t-002
   teiginys: "Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-31025
 
 <a id="claim-t-47839"></a>
-- t-002
-  global_id: t-47839
+- t-001
   teiginys: "Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -106,18 +104,12 @@ Nenurodyta
     rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
     renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
     yra kaip svebai ».
-  citata_rodoma: |
-    Anot Tacito,
-    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
-    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
-    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
-    renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
-    yra kaip svebai ».
+  citata_rodoma: "Anot Tacito,\nSvebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną\ndievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius\nrūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie\nrenką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore\nyra kaip svebai »."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47838
-    - t-47839
+    - t-002
+    - t-001

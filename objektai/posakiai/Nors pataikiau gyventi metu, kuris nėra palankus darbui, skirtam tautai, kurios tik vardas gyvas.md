@@ -33,30 +33,6 @@ media_all_json: |-
 
 Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimiesiems tyrėjams.
 
-## Teiginiai
-
-<a id="claim-t-192130"></a>
-- t-001
-  global_id: t-192130
-  teiginys: "1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1852 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas laiško laikas, autorius ir darbo motyvas. Neperimti citatos emociniai vertinimai apie pavydžius ir piktus balsus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175018
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.'
@@ -81,8 +57,7 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192130
+
 ## Citatos
 
 - id: c-175018
@@ -90,25 +65,6 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai buvo itin sunkus uždavinys, bet istorikas
-    manė, jog rekonstrukcija vis dėlto dar galima, „daugybė
-    to paveikslo detalių yra dingę, tačiau išliko visuma, iš­
-    samesnė už visus šiaurės tautų mitus“2. Šios visumos
-    ieškojimas tapo pagrindiniu T. Narbuto uždaviniu; jis
-    ypač ryškus pirmame LTI tome. Taigi būtų svarbu, jeigu
-    mes, skaitydami „Lietuvių mitologiją“, sugebėtume pa­
-    matyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasaky­
-    ta, kaip kuriamas vaizdas, kaip niveliuojasi atskiros deta­
-    lės, faktai, kaip į pirmą vietą iškyla visuma, panorama,
-    vaizdas.
-    Jau ne vieną kartą cituotame laiške I. Onacevičiui
-    T. Narbutas savo tyrinėjimus mitologijos srityje apibūdi­
-    no kaip „darbą sausą ir neturiningą, bet didelį Lietuvos
-    praeities paminklą“3. Šiuose žodžiuose galima įžvelgti
-    prieštaravimą, bet, žiūrint šiandienos akimis, „Lietuvių
-    mitologija“ yra reikšmingas ano meto istorinės, savimo­
-    nės paminklas.
-  citata_rodoma: |
     Nors pataikiau gyventi metu,
       kuris nėra palankus darbui, skirtam tautai, kurios tik
       vardas gyvas; nors, dažnai pavydžių ir piktų balsų ap­
@@ -116,10 +72,9 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
       nės filosofijos minties šviesoje, vis dėlto ir toliau vargau,
       nes turėjau viltį, jog šis darbas bus naudingas didesnių
       sugebėjimų žmonėms“4.
+  citata_rodoma: "Nors pataikiau gyventi metu,\n  kuris nėra palankus darbui, skirtam tautai, kurios tik\n  vardas gyvas; nors, dažnai pavydžių ir piktų balsų ap­\n  šauktas, nesugebėjau savo darbo atlikti naujosios istori­\n  nės filosofijos minties šviesoje, vis dėlto ir toliau vargau,\n  nes turėjau viltį, jog šis darbas bus naudingas didesnių\n  sugebėjimų žmonėms“4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192130

@@ -29,34 +29,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Pasaulio lietuvių bendruomenė
 
 ## Santrauka
 
 JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.
-
-## Teiginiai
-
-<a id="claim-t-19960"></a>
-- t-001
-  global_id: t-19960
-  teiginys: "Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Amerikos lietuvių taryba (institucija): 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pasaulio lietuvių bendruomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Amerikos lietuvių taryba (institucija): llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "PLB ir ALT minimos tarp organizacijų, kurios siekė veikti išvien, todėl ryšys atitinka bendradarbiavimo ar sąjungininkystės prasmę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Pasaulio lietuvių bendruomenė buvo sąjungininkas su Amerikos lietuvių taryba (institucija) (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją."
-  pagrindžia:
-    - c-22691
 
 ## Citatos
 
@@ -72,12 +50,9 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
-  citata_rodoma: |
-    riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
+  citata_rodoma: "riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-19960

@@ -45,7 +45,6 @@ media_all_json: |-
 
 <a id="claim-t-86534"></a>
 - t-001
-  global_id: t-86534
   teiginys: "Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-86535"></a>
 - t-002
-  global_id: t-86535
   teiginys: "Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +108,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86535
+    - t-002
+
 - id: c-82514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,4 +140,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86534
+    - t-001

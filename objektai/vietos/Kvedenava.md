@@ -36,8 +36,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Teiginiai
 
 <a id="claim-t-58582"></a>
-- t-001
-  global_id: t-58582
+- t-002
   teiginys: "Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     - c-59214
 
 <a id="claim-t-58583"></a>
-- t-002
-  global_id: t-58583
+- t-001
   teiginys: "Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,23 +97,15 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
     daiktas, per 4 km į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
     automobilių kelio Kaliningradas—Poleskas.
-  citata_rodoma: |
-    Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
-
-      Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
-    reikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele
-    kariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,
-    pastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai
-    ją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį
-      324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
-    daiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
+  citata_rodoma: "Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą\n\n  Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas\nreikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele\nkariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,\npastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai\nją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį\n  324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas\ndaiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58582
+    - t-002
+
 - id: c-59215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,17 +118,11 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
     prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
-  citata_rodoma: |
-    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
-    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
-    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
+  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58583
+    - t-001

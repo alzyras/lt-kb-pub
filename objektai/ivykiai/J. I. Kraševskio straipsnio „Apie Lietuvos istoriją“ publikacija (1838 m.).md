@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192046"></a>
-- t-001
-  global_id: t-192046
+- t-002
   teiginys: "Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -89,19 +88,11 @@ Nenurodyta
     Taigi konkretus apmąstymų objektas nebuvo nurodytas,
     nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
     spėti.
-  citata_rodoma: |
-    Straipsnis dvel­
-    kė ramybe, rimtumu, didele erudicija ir bylojo apie ne
-    vienų metų svarstymus. T. Narbuto pavardė nebuvo pa­
-    minėta, nors ant J. I. Kraševskio stalo, be jokios abejo­
-    nės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.
-    Taigi konkretus apmąstymų objektas nebuvo nurodytas,
-    nors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­
-    spėti.
+  citata_rodoma: "Straipsnis dvel­\nkė ramybe, rimtumu, didele erudicija ir bylojo apie ne\nvienų metų svarstymus. T. Narbuto pavardė nebuvo pa­\nminėta, nors ant J. I. Kraševskio stalo, be jokios abejo­\nnės, jąu gulėjo ne tik antras, bet ir trečias LTI tomas.\nTaigi konkretus apmąstymų objektas nebuvo nurodytas,\nnors, įsigilinus į rašinio tekstą, jį galima nesunkiai nu­\nspėti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192046
+    - t-002

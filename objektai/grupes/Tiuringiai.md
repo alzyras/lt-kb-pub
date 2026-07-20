@@ -32,7 +32,6 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
 
 <a id="claim-t-192999"></a>
 - t-001
-  global_id: t-192999
   teiginys: "Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi metu iš Vyslos žemupio ir šiauresnių kraštų pajudėjo į pietus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
 
 <a id="claim-t-197524"></a>
 - t-002
-  global_id: t-197524
   teiginys: "Kaip tik tuo metu vyko didelis germanų genčių kraustymasis: vandalai, tiuringiai, gepidai, longobarda!"
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192999
+    - t-001
+
 - id: c-179230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -107,4 +106,4 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197524
+    - t-002

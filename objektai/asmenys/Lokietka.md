@@ -40,7 +40,6 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 
 <a id="claim-t-40309"></a>
 - t-001
-  global_id: t-40309
   teiginys: "1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,18 +77,15 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
     kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
     Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru.
-  citata_rodoma: |
-    Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
-    kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
-    Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-
-    mieru.
+    mieru. 1326 m.
+  citata_rodoma: "Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-\nkiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą\nAldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-\nmieru."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40309
+    - t-001
+
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

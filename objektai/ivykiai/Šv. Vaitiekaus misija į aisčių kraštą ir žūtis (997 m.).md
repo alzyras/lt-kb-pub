@@ -56,8 +56,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 ## Teiginiai
 
 <a id="claim-t-07571"></a>
-- t-001
-  global_id: t-07571
+- t-005
   teiginys: "Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - c-00195
 
 <a id="claim-t-07572"></a>
-- t-002
-  global_id: t-07572
+- t-006
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - c-00196
 
 <a id="claim-t-07573"></a>
-- t-003
-  global_id: t-07573
+- t-007
   teiginys: "Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -122,19 +119,15 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
-  citata_rodoma: |
-    Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
-    gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
-    jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
-    vykusius labai neskersuotų, jis atleido visus savo palydovus ir
-    liko tik su dviem kunigais.
+  citata_rodoma: "Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,\ngavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,\njis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-\nvykusius labai neskersuotų, jis atleido visus savo palydovus ir\nliko tik su dviem kunigais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07571
+    - t-005
+
 - id: c-00196
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -145,16 +138,15 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: |
-    Tačiau tas nieko nepadėjo: misijo-
-    nieriams čia nesisekė platinti krikščionybės.
+  citata_rodoma: "Tačiau tas nieko nepadėjo: misijo-\nnieriams čia nesisekė platinti krikščionybės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07572
+    - t-006
+
 - id: c-00198
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,14 +156,11 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: |
-    Misijonierių la-
-    vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
-    paskelbtas šventuoju, krikščionybės kankiniu.
+  citata_rodoma: "Misijonierių la-\nvonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo\npaskelbtas šventuoju, krikščionybės kankiniu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07573
+    - t-007

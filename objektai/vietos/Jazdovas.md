@@ -31,7 +31,6 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
 
 <a id="claim-t-185326"></a>
 - t-001
-  global_id: t-185326
   teiginys: "Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -45,7 +44,6 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
 
 <a id="claim-t-193456"></a>
 - t-002
-  global_id: t-193456
   teiginys: "Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185326
-    - t-193456
+    - t-001
+    - t-002

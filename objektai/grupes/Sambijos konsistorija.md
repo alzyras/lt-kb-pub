@@ -28,7 +28,6 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
 
 <a id="claim-t-201891"></a>
 - t-001
-  global_id: t-201891
   teiginys: "Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogystės bažnytinei valdžiai Karaliaučiuje, vadinamajai Sambijos konsistorijai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201891
+    - t-001

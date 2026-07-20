@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-100053"></a>
 - t-001
-  global_id: t-100053
   teiginys: "85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,15 +88,11 @@ Nenurodyta
     Kalno (Gedimino) pilis 306
     Kaltinėnai 306, 352
     Kalūga 21, 159, 313, 371**
-  citata_rodoma: |
-    Los Angeles 72
-    Kalinka W. 85
-    Kališas 217 ; Kališo taika 232, 330
-    Kalita 371, žr.
+  citata_rodoma: "Los Angeles 72\nKalinka W. 85\nKališas 217 ; Kališo taika 232, 330\nKalita 371, žr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100053
+    - t-001

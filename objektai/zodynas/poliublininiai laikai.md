@@ -40,7 +40,6 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 
 <a id="claim-t-32803"></a>
 - t-001
-  global_id: t-32803
   teiginys: "Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 
 <a id="claim-t-32804"></a>
 - t-002
-  global_id: t-32804
   teiginys: "Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32803
+    - t-001
+
 - id: c-34172
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -107,16 +106,11 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
     po 1569 metų Liublino unijos.
-  citata_rodoma: |
-    Perėjęs pagrindinai į
-    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
-    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
-    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
-    po 1569 metų Liublino unijos.
+  citata_rodoma: "Perėjęs pagrindinai į\npoliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę\nstraipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­\nniu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija\npo 1569 metų Liublino unijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32804
+    - t-002

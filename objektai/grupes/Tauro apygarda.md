@@ -41,8 +41,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 ## Teiginiai
 
 <a id="claim-t-49111"></a>
-- t-001
-  global_id: t-49111
+- t-003
   teiginys: "Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - c-51211
 
 <a id="claim-t-49112"></a>
-- t-002
-  global_id: t-49112
+- t-001
   teiginys: "Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - c-51212
 
 <a id="claim-t-49113"></a>
-- t-003
-  global_id: t-49113
+- t-002
   teiginys: "Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49113
+    - t-002
+
 - id: c-51211
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,18 +130,15 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     Tauro apygardos Birutės rinktinei. Buvo vienas retų
     Lietuvos partizanų, kuriems pavyko sėkmingai pras-
     prūsti per „geležinę uždangą“ į Vakarus.
-  citata_rodoma: |
-    Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų
-    Tauro apygardos Birutės rinktinei. Buvo vienas retų
-    Lietuvos partizanų, kuriems pavyko sėkmingai pras-
-    prūsti per „geležinę uždangą“ į Vakarus.
+  citata_rodoma: "Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų\nTauro apygardos Birutės rinktinei. Buvo vienas retų\nLietuvos partizanų, kuriems pavyko sėkmingai pras-\nprūsti per „geležinę uždangą“ į Vakarus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49111
+    - t-003
+
 - id: c-51212
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,4 +175,4 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49112
+    - t-001

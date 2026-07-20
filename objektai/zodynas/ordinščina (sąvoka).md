@@ -13,10 +13,10 @@ datos:
   - '1530 m.'
 date_start: '1501'
 date_end: '1530'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turė
 
 <a id="claim-t-201808"></a>
 - t-001
-  global_id: t-201808
   teiginys: "Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turėjo rinkti vadinamąją ordinščinq."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201808
+    - t-001

@@ -30,7 +30,6 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 
 <a id="claim-t-191711"></a>
 - t-001
-  global_id: t-191711
   teiginys: "Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų kalbinių ir religinių panašumų įrodymų bei pavyzdžių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,9 +50,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 
 <a id="claim-t-191712"></a>
 - t-002
-  global_id: t-191712
   teiginys: "Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,10 +68,9 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174594
-    - c-002
+
 <a id="claim-t-197667"></a>
 - t-003
-  global_id: t-197667
   teiginys: "Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,27 +81,6 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   pagrindžia:
     - c-179287
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Pasak Narbuto, Hartknochas pateikė žinių apie prie Baltijos jūros gyvavusius padavimus dėl tenykščių genčių, ypač prūsų, ištakų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Pažvelgę tyrinėtojo žvilgsniu į
-    lietuvių senovės paminklus, visur aptinkame pėdsakų ir
-    padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
-    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
-    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
-    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191712
 ## Citatos
 
 - id: c-174593
@@ -126,24 +102,13 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191711
+    - t-001
+
 - id: c-174594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
-    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
-    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
-    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
-    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
-    visada jiems patvirtindavo giminingumą su heleniškomis
-    kartomis. Kiti, paremdami savo prielaidas kalbos pana­
-    šumu, su didžiausiu pasitikėjimu įsikibo padavimų, kal­
-    bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
-    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
-    iš graikų, nes galėjo su jais susikalbėti jų kalba4.
-  citata_rodoma: |
     Pažvelgę tyrinėtojo žvilgsniu į
     lietuvių senovės paminklus, visur aptinkame pėdsakų ir
     padavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­
@@ -153,13 +118,15 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
     tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
     mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
     atvykusius į prūsų kraštus.
+  citata_rodoma: "Pažvelgę tyrinėtojo žvilgsniu į\nlietuvių senovės paminklus, visur aptinkame pėdsakų ir\npadavimų apie tautos kilmę iš pelazgų1. Hartknochas2 pa­\nteikia žinių, jog prie Baltijos jūros amžių amžiais buvo\nžinomi padavimai apie tenykščių genčių, ypač prūsų, iš­\ntakas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­\ntu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­\nmu, rašo apie makedonus, po Aleksandro Didžiojo mirties\natvykusius į prūsų kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191712
+    - t-002
+
 - id: c-179287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -186,4 +153,4 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197667
+    - t-003

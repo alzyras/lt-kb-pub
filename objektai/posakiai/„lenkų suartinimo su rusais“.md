@@ -38,7 +38,6 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 
 <a id="claim-t-25372"></a>
 - t-001
-  global_id: t-25372
   teiginys: "Caro valdžia „lenkų suartinimo su rusais“ strategija siekė apsaugoti karalystės ne etninius lenkus nuo sulenkėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 
 <a id="claim-t-183497"></a>
 - t-002
-  global_id: t-183497
   teiginys: "Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,7 +95,8 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25372
+    - t-001
+
 - id: c-166891
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,4 +116,4 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183497
+    - t-002

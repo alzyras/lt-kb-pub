@@ -31,7 +31,6 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
 
 <a id="claim-t-40244"></a>
 - t-001
-  global_id: t-40244
   teiginys: "K. Dalevskis tvirtino, kad sukilėliai mūšio nepralaimėjo, nes rusai vakare taip pat pasitraukė iš kautynių vietos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Tačiau, kai kurių
+    tolių“. Tačiau, kai kurių
     sukilėlių nuomone,
     jie mūšio nepralai-
     mėjo. Taip tvirtino
@@ -61,19 +60,11 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
     damas, kad rusai va-
     kare iš kautynių vietos
     taip pat pasitraukė.
-  citata_rodoma: |
-    Tačiau, kai kurių
-    sukilėlių nuomone,
-    jie mūšio nepralai-
-    mėjo. Taip tvirtino
-    K. Dalevskis, nurody-
-    damas, kad rusai va-
-    kare iš kautynių vietos
-    taip pat pasitraukė.
+  citata_rodoma: "Tačiau, kai kurių\nsukilėlių nuomone,\njie mūšio nepralai-\nmėjo. Taip tvirtino\nK. Dalevskis, nurody-\ndamas, kad rusai va-\nkare iš kautynių vietos\ntaip pat pasitraukė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40244
+    - t-001

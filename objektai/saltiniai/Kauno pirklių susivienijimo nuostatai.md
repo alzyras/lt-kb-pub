@@ -8,10 +8,10 @@ datos:
   - '1647 m.'
 date_start: '1639'
 date_end: '1647'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairi
 
 <a id="claim-t-202238"></a>
 - t-001
-  global_id: t-202238
   teiginys: "Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairiuose dokumentuose, o surinkti į vieną vietą ir sunorminti šie reikalai buvo jau minėtuose 1639 m. Kauno pirklių susivienijimo nuostatuose ir 1647 m. Kauno laivavedžių ir vytininkų cecho."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202238
+    - t-001

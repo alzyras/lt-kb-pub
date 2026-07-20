@@ -8,12 +8,12 @@ datos:
   - '1996 m.'
 date_start: '1929'
 date_end: '1996'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Chicago, 1983; Valančius Motiejus.
 
 <a id="claim-t-202234"></a>
 - t-001
-  global_id: t-202234
   teiginys: "Chicago, 1983; Valančius Motiejus."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Chicago, 1983; Valančius Motiejus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202234
+    - t-001

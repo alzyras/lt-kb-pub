@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20169"></a>
 - t-001
-  global_id: t-20169
   teiginys: "1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,6 +70,7 @@ Nenurodyta
   pagrindžia:
     - c-22910
     - c-166605
+
 ## Citatos
 
 - id: c-22910
@@ -83,15 +83,15 @@ Nenurodyta
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
     tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
     respublikomis.
-  citata_rodoma: |
-    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
+  citata_rodoma: "tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20169
+    - t-001
+
 - id: c-166605
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -108,3 +108,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

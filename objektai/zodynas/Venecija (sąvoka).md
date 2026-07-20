@@ -33,7 +33,6 @@ Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais pri
 
 <a id="claim-t-200831"></a>
 - t-001
-  global_id: t-200831
   teiginys: "Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais priminė Veneciją, Bergamą ir kitus turistų lankomus miestus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200831
+    - t-001

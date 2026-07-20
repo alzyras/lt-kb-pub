@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-35744"></a>
 - t-001
-  global_id: t-35744
   teiginys: "Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,11 @@ media_all_json: |-
     mario kunigaikščių sąjunga. Vytautas savo pasiekė: kunigaikš­
     čių sąjunga su Maskva priešaky atpuolė, ir tuo pačiu Vytautas
     tylėjimu išgavo Smolensko užėmimo aprobaciją (pripažinimą).
-  citata_rodoma: |
-    Šitą koaliciją rėmė ir Jogaila su Pa­
-    mario kunigaikščių sąjunga. Vytautas savo pasiekė: kunigaikš­
-    čių sąjunga su Maskva priešaky atpuolė, ir tuo pačiu Vytautas
-    tylėjimu išgavo Smolensko užėmimo aprobaciją (pripažinimą).
+  citata_rodoma: "Šitą koaliciją rėmė ir Jogaila su Pa­\nmario kunigaikščių sąjunga. Vytautas savo pasiekė: kunigaikš­\nčių sąjunga su Maskva priešaky atpuolė, ir tuo pačiu Vytautas\ntylėjimu išgavo Smolensko užėmimo aprobaciją (pripažinimą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35744
+    - t-001

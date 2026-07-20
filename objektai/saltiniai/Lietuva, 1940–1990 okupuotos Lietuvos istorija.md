@@ -39,7 +39,6 @@ Lietuva, 1940–1990: okupuotos Lietuvos istorija.
 
 <a id="claim-t-18038"></a>
 - t-001
-  global_id: t-18038
   teiginys: "A. Anušauskas ir kiti parengė leidinį „Lietuva, 1940–1990: okupuotos Lietuvos istorija“, išleistą Vilniuje 2005 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ Lietuva, 1940–1990: okupuotos Lietuvos istorija.
     Vilnius, 2012.
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
     nius, 2005.
-  citata_rodoma: |
-    Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
-    nius, 2005.
+  citata_rodoma: "Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-\nnius, 2005."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18038
+    - t-001

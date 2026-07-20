@@ -39,7 +39,6 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
 
 <a id="claim-t-36048"></a>
 - t-001
-  global_id: t-36048
   teiginys: "Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,12 @@ Heweker, Die Schlacht bei Tannenberg, Diss.
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
     Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
-    Yčas, J.
-  citata_rodoma: |
-    Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.
-    Yčas, J.
+    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
+  citata_rodoma: "Heweker, Die Schlacht bei Tannenberg, Diss. Berlin, 1906.\nYčas, J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36048
+    - t-001

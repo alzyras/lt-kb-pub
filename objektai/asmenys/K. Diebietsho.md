@@ -40,7 +40,6 @@ Diebietsho korpusas.
 
 <a id="claim-t-40245"></a>
 - t-001
-  global_id: t-40245
   teiginys: "Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Diebietsho korpusas.
     traukė paskutinis Vokietijos centrinei vadovybei paklūstan-
 
     tis vokiečių karinis dalinys - plk. K. Diebietsho korpusas.
-  citata_rodoma: |
-    1919 m. lapkričio 15 d. iš Lietuvos pasi-
-    traukė paskutinis Vokietijos centrinei vadovybei paklūstan-
-
-    tis vokiečių karinis dalinys - plk. K. Diebietsho korpusas.
+  citata_rodoma: "1919 m. lapkričio 15 d. iš Lietuvos pasi-\ntraukė paskutinis Vokietijos centrinei vadovybei paklūstan-\n\ntis vokiečių karinis dalinys - plk. K. Diebietsho korpusas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40245
+    - t-001

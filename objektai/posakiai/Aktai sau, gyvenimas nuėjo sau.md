@@ -43,9 +43,8 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 <a id="claim-t-67254"></a>
 - t-001
-  global_id: t-67254
   teiginys: "Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Katra: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,11 +56,10 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14554
-    - c-167635
+    - c-37126
 
 <a id="claim-t-67255"></a>
 - t-002
-  global_id: t-67255
   teiginys: "Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 <a id="claim-t-184251"></a>
 - t-003
-  global_id: t-184251
   teiginys: "Posakiu „Aktai sau, gyvenimas nuėjo sau“ apibūdinta padėtis po Liublino unijos, kai Lietuva pasiliko savarankiška."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -112,17 +109,15 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
     Pastarosios unijos dokumentas, nors ir labai skambių žo­
     džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
     raida nuėjo kitu keliu.
-  citata_rodoma: |
-    Pastarosios unijos dokumentas, nors ir labai skambių žo­
-    džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
-    raida nuėjo kitu keliu.
+  citata_rodoma: "Pastarosios unijos dokumentas, nors ir labai skambių žo­\ndžių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos\nraida nuėjo kitu keliu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67254
+    - t-001
+
 - id: c-37126
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -136,18 +131,16 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
     džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
     raida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­
     ramos ir sutarimo bendruose abiejų valstybių reikaluose.
-  citata_rodoma: |
-    Pastarosios unijos dokumentas, nors ir labai skambių žo­
-    džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
-    raida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­
-    ramos ir sutarimo bendruose abiejų valstybių reikaluose.
+  citata_rodoma: "Pastarosios unijos dokumentas, nors ir labai skambių žo­\ndžių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos\nraida nuėjo kitu keliu. Lenkai laukė iš naujo akto abipusės pa­\nramos ir sutarimo bendruose abiejų valstybių reikaluose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67255
+    - t-001
+    - t-002
+
 - id: c-167635
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -164,5 +157,4 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67254
-    - t-184251
+    - t-003

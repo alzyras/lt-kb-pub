@@ -31,7 +31,6 @@ Lietuviškuoju manicheizmu Narbutas vadina tarytum naują Lietuvos bajorų sekt�
 
 <a id="claim-t-189156"></a>
 - t-001
-  global_id: t-189156
   teiginys: "Lietuviškuoju manicheizmu Narbutas vadina tarytum naują Lietuvos bajorų sektą, atsiradusią jiems linkstant į Rytų krikščionybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Lietuviškuoju manicheizmu Narbutas vadina tarytum naują Lietuvos bajorų sekt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189156
+    - t-001

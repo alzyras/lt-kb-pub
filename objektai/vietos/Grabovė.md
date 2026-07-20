@@ -36,8 +36,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 ## Teiginiai
 
 <a id="claim-t-36246"></a>
-- t-001
-  global_id: t-36246
+- t-002
   teiginys: "Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
     - c-38495
 
 <a id="claim-t-36247"></a>
-- t-002
-  global_id: t-36247
+- t-001
   teiginys: "Derybos Grabove nedavė Vytautui naudingų rezultatų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,19 +89,15 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
     rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
 
     (^1) ) Hirt.
-  citata_rodoma: |
-    Toliau Vytautas prekybos reikalus gynė beveik visose su
-    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
-    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
-
-    (^1) ) Hirt.
+  citata_rodoma: "Toliau Vytautas prekybos reikalus gynė beveik visose su\nOrdinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­\nrimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­\n\n(^1) ) Hirt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36246
+    - t-002
+
 - id: c-38496
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -120,17 +114,11 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
     vė, o naujas magistras Mykolas Küchmeisteris ir toliau Vytautą
     įžeidinėjo savo raštais, tai Vytautas 1414 m. liepos mėn. paskel­
     bė Ordinui karą.
-  citata_rodoma: |
-    Vytautas patikėjo netikru vokiečių nuošir­
-    dumu, kuris dengė jų norą geriau pasiruošti karui, leido jų pirk­
-    liams laisvai prekiauti, siūlė pradėti naujas derybas sienoms
-    nustatyti. Bet kada ir šios derybos Grabove nieko gero neda­
-    vė, o naujas magistras Mykolas Küchmeisteris ir toliau Vytautą
-    įžeidinėjo savo raštais, tai Vytautas 1414 m.
+  citata_rodoma: "Vytautas patikėjo netikru vokiečių nuošir­\ndumu, kuris dengė jų norą geriau pasiruošti karui, leido jų pirk­\nliams laisvai prekiauti, siūlė pradėti naujas derybas sienoms\nnustatyti. Bet kada ir šios derybos Grabove nieko gero neda­\nvė, o naujas magistras Mykolas Küchmeisteris ir toliau Vytautą\nįžeidinėjo savo raštais, tai Vytautas 1414 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36247
+    - t-001

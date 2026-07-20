@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-32367"></a>
 - t-001
-  global_id: t-32367
   teiginys: "Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,15 +85,14 @@ media_all_json: |-
     (« den Lettowen, die Sameiten sin genannt », eil. 4466).
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: |
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
+  citata_rodoma: "Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.\nŠušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32367
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Skalviai]]

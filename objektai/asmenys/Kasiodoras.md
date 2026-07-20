@@ -32,7 +32,6 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 
 <a id="claim-t-191288"></a>
 - t-001
-  global_id: t-191288
   teiginys: "Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,9 +53,8 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 
 <a id="claim-t-194914"></a>
 - t-002
-  global_id: t-194914
   teiginys: "Kasiodoro raštų rinkinyje (Variarum. Lib."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,23 +63,7 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177310
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kasiodoro raštų rinkinyje (Variarum. Lib.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
-    tai
-    šiame veikale dar bus
-    kalbama vėliau.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194914
+
 ## Citatos
 
 - id: c-174170
@@ -106,30 +88,22 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191288
+    - t-001
+
 - id: c-177310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ado­
-    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
-    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
-    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
-    pasakojo, kad toje jūroje esama daug kitų salų, kurių
-    viena
-    didžiulė vadinasi Estlandija1. Čia neminėsime
-    skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
-    čia jis apsilankė IX amžiaus antrojoje pusėje.
-  citata_rodoma: |
     2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
     tai
     šiame veikale dar bus
     kalbama vėliau.
+  citata_rodoma: "2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie\ntai\nšiame veikale dar bus\nkalbama vėliau."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194914
+    - t-002

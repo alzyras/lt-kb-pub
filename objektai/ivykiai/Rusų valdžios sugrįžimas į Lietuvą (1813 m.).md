@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66855"></a>
 - t-001
-  global_id: t-66855
   teiginys: "Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -77,16 +76,11 @@ Nenurodyta
     čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
     bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
     atėmė dvarus.
-  citata_rodoma: |
-    Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
-    senoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-
-    čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
-    bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
-    atėmė dvarus.
+  citata_rodoma: "Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta\nsenoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-\nčiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-\nbėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir\natėmė dvarus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66855
+    - t-001

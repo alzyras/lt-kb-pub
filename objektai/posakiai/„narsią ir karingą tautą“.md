@@ -31,7 +31,6 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 
 <a id="claim-t-20921"></a>
 - t-001
-  global_id: t-20921
   teiginys: "Bizantijos šaltiniai lietuvius apibūdino kaip „narsią ir karingą tautą“, o ne kaip taikius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
     gimų prie didvalstybių. Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
     užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
     vedybos vykdavo tiesioginiu kariniu spaudimu.
-  citata_rodoma: |
-    užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės
+  citata_rodoma: "užsimena – atvirkščiai, kalba apie „narsią ir karingą tautą“. Net dinastinės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20921
+    - t-001

@@ -55,7 +55,6 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 <a id="claim-t-13543"></a>
 - t-001
-  global_id: t-13543
   teiginys: "Vadystė šiame kontekste atitinka chiefdom stadiją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 <a id="claim-t-13544"></a>
 - t-002
-  global_id: t-13544
   teiginys: "Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-16540
 
 <a id="claim-t-26668"></a>
-- t-004
-  global_id: t-26668
+- t-003
   teiginys: "Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,14 +104,6 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   pagrindžia:
     - c-73292
 
-<a id="claim-t-26668"></a>
-- t-003
-  global_id: t-907413864
-  teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
-  sudarymo_pagrindimas: 'Sakinys padarytas sklandesnis ir aiškesnis, nekeičiant citatos paremto fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  pagrindžia:
-    - c-73292
 ## Citatos
 
 - id: c-16540
@@ -127,17 +116,16 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
     brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: |
-    Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
+  citata_rodoma: "Netimero valdžios paveldimumo principo buvimas rody-\ntų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13543
-    - t-13544
+    - t-001
+    - t-002
+
 - id: c-73292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,5 +144,4 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26668
     - t-003

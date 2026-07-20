@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20162"></a>
 - t-001
-  global_id: t-20162
   teiginys: "1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
     šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
     techninius terminus, rinkti tautosakos, dainų lobius.
-  citata_rodoma: |
-    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
+  citata_rodoma: "šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20162
+    - t-001

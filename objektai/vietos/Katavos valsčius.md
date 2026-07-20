@@ -37,8 +37,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 ## Teiginiai
 
 <a id="claim-t-58568"></a>
-- t-001
-  global_id: t-58568
+- t-002
   teiginys: "Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     - c-59200
 
 <a id="claim-t-58569"></a>
-- t-002
-  global_id: t-58569
+- t-001
   teiginys: "Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58568
+    - t-002
+
 - id: c-59201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -114,22 +113,14 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
     nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
     su D. Rethowi), dab.
-  citata_rodoma: |
-    Apie Auktuolyčių pilies užkariavimą
-
-       Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos
-    valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,
-    kurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų
-    kopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau
-    broliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,
-    nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
-    su D.
+  citata_rodoma: "Apie Auktuolyčių pilies užkariavimą\n\n   Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos\nvalsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų,\nkurie plaukė laivais,  ir, išdėstęs tinkamose vietose šaulius bei pristatęs prie sienų\nkopėčias, pradėjo pulti Auktuolyčių pilį462. Kadangi pilėnai buvo girdėję, kad anksčiau\nbroliai po smarkių antpuolių buvo užkariavę dvi kitas pilis, jie, praradę viltį ir išsigandę,\nnebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai\nsu D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58569
+    - t-001
+
 ## Ryšiai
 - Katavos valsčius priklausė [[objektai/vietos/Nadruva]]

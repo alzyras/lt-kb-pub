@@ -30,7 +30,6 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 
 <a id="claim-t-67373"></a>
 - t-001
-  global_id: t-67373
   teiginys: "„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67373
+    - t-001

@@ -40,7 +40,6 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
 
 <a id="claim-t-22088"></a>
 - t-001
-  global_id: t-22088
   teiginys: "1949 m. režimui keliant žemės mokesčius ir pyliavų normas, daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
 
 <a id="claim-t-183405"></a>
 - t-002
-  global_id: t-183405
   teiginys: "1949 m. daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, o tokių ūkių savininkai buvo nuteisti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -96,15 +94,15 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
     ningai keliant žemės mokesčius valstiečiams, didinant pyliavų normas,
     1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už
     pieną ir mėsą, tokie ūkiai aprašyti, o jų savininkai nuteisti.
-  citata_rodoma: |
-    1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už
+  citata_rodoma: "1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22088
+    - t-001
+
 - id: c-166799
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,4 +120,4 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183405
+    - t-002

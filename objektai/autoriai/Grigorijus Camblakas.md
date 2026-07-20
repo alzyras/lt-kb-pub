@@ -41,8 +41,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 ## Teiginiai
 
 <a id="claim-t-45608"></a>
-- t-001
-  global_id: t-45608
+- t-011
   teiginys: "Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     - c-48357
 
 <a id="claim-t-45609"></a>
-- t-002
-  global_id: t-45609
+- t-009
   teiginys: "Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     - c-48357
 
 <a id="claim-t-45610"></a>
-- t-003
-  global_id: t-45610
+- t-012
   teiginys: "1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     - c-48357
 
 <a id="claim-t-45612"></a>
-- t-004
-  global_id: t-45612
+- t-010
   teiginys: "Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -151,24 +147,14 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
-  citata_rodoma: |
-    radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas
-    atsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių
-    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
-    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
-    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
-    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
-    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
-    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
-    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
-    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
+  citata_rodoma: "radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas \natsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų \nbažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos \nidėją (ji įgyvendinta vėliau – 1439 m. Florencijoje)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45608
-    - t-45609
-    - t-45610
-    - t-45612
+    - t-011
+    - t-009
+    - t-012
+    - t-010

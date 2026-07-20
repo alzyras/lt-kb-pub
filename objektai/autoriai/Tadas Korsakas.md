@@ -41,11 +41,15 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - Abiejų Tautų tarpusavio įžadas
 - Gegužės trečiosios konstitucijos pataisa
 
+## Ryšiai
+
+### Laikotarpiai
+- XVIII amžius
+
 ## Teiginiai
 
 <a id="claim-t-23258"></a>
 - t-001
-  global_id: t-23258
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -65,7 +69,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 
 <a id="claim-t-23259"></a>
 - t-002
-  global_id: t-23259
   teiginys: "Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,27 +84,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   pagrindžia:
     - c-70108
 
-<a id="claim-t-23260"></a>
-- t-003
-  global_id: t-23260
-  teiginys: "Tadas Korsakas žuvo ginant Varšuvą."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
-  pagrindžia:
-    - c-70108
-
 <a id="claim-t-26732"></a>
-- t-004
-  global_id: t-26732
+- t-006
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado, kurį Ketverių metų seimui pristatė Kazimieras Nestoras Sapiega, autorius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -140,16 +124,15 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
     T. Korsakas.
-  citata_rodoma: |
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+  citata_rodoma: "lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23259
-    - t-23260
+    - t-002
+
 - id: c-166739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,5 +154,5 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23258
-    - t-26732
+    - t-001
+    - t-006

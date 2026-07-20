@@ -37,9 +37,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 
 ## Teiginiai
 
-<a id="claim-t-40040"></a>
-- t-001
-  global_id: t-40040
+<a id="claim-t-40039"></a>
+- t-003
   teiginys: "Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,11 +54,11 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o citata patvirtina pateiktą apibūdinimą."
   pagrindžia:
-    - c-44290
     - c-44289
+    - c-44290
+
 <a id="claim-t-40041"></a>
 - t-002
-  global_id: t-40041
   teiginys: "Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +94,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40041
+    - t-002
+
 - id: c-44289
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -104,15 +104,15 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
     p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
     p. 263, Ant barikadų, juosusių AT, atsirado įvairių užrašų, palaikančių Lietuvos laisvės siekius
     ir rodančių pasiryžimą kovoti iki galo, Andriaus Petruliavičiaus nuotr.
-  citata_rodoma: |
-    p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
+  citata_rodoma: "p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40040
+    - t-003
+
 - id: c-44290
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,19 +132,11 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
     respublikų, tarp jų ir pati Rusija (!), sekdamos nepasiduodan-
     čios Lietuvos pavyzdžiu, ėmė vis drąsiau galvoti apie atsisky-
     rimą nuo ssRS).
-  citata_rodoma: |
-    Gorbačiovą, ma-
-    nydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungoje ir
-    pašalins jos subyrėjimo pavojų (tuo metu jau daugelis sovietinių
-
-    Artūras Sakalauskas —
-    paskutinis 1991 m.
-    kovoje už laisvę žuvęs
-    Lietuvos savanoris
-
-    respublikų, tarp jų ir pati Rusija (!
+  citata_rodoma: "Gorbačiovą, ma-\nnydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungoje ir\npašalins jos subyrėjimo pavojų (tuo metu jau daugelis sovietinių\n\nArtūras Sakalauskas —\npaskutinis 1991 m.\nkovoje už laisvę žuvęs\nLietuvos savanoris\n\nrespublikų, tarp jų ir pati Rusija (!"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

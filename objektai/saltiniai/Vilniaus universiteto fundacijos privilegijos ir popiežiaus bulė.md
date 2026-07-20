@@ -38,8 +38,7 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
 ## Teiginiai
 
 <a id="claim-t-88350"></a>
-- t-001
-  global_id: t-88350
+- t-002
   teiginys: "Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
     - c-84330
 
 <a id="claim-t-88351"></a>
-- t-002
-  global_id: t-88351
+- t-001
   teiginys: "Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,8 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88351
+    - t-001
+
 - id: c-84330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -124,26 +123,11 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m. Il t. Dar žr.
     III priedą prie II knygos.
-  citata_rodoma: |
-    Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m. Il t.
+  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m. Il t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88350
+    - t-002

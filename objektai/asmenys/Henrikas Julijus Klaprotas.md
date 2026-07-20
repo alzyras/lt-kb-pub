@@ -32,7 +32,6 @@ Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbo
 
 <a id="claim-t-191347"></a>
 - t-001
-  global_id: t-191347
   teiginys: "Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191347
+    - t-001

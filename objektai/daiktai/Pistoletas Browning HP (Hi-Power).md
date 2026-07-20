@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-40749"></a>
 - t-001
-  global_id: t-40749
   teiginys: "Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-193745"></a>
 - t-002
-  global_id: t-193745
   teiginys: "Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40749
+    - t-001
+
 - id: c-176409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193745
+    - t-002

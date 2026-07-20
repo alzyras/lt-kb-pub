@@ -31,7 +31,6 @@ Tokiomis patrimonia S.
 
 <a id="claim-t-28598"></a>
 - t-001
-  global_id: t-28598
   teiginys: "Patrimonia S. Petri tuo metu buvo tapusi ne viena Europos šalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Tokiomis patrimonia S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28598
+    - t-001

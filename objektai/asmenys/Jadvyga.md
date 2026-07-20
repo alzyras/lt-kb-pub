@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-176407"></a>
-- t-001
-  global_id: t-176407
+- t-009
   teiginys: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-160426
 
 <a id="claim-t-176408"></a>
-- t-002
-  global_id: t-176408
+- t-003
   teiginys: "1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ media_all_json: |-
     - c-160423
 
 <a id="claim-t-176410"></a>
-- t-003
-  global_id: t-176410
+- t-002
   teiginys: "Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ media_all_json: |-
     - c-160424
 
 <a id="claim-t-176411"></a>
-- t-004
-  global_id: t-176411
+- t-007
   teiginys: "Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -123,8 +119,7 @@ media_all_json: |-
     - c-160429
 
 <a id="claim-t-184714"></a>
-- t-005
-  global_id: t-184714
+- t-011
   teiginys: "Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -144,9 +139,8 @@ media_all_json: |-
 
 <a id="claim-t-188538"></a>
 - t-006
-  global_id: t-188538
   teiginys: "Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -161,10 +155,10 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171427
+    - c-177104
 
 <a id="claim-t-193623"></a>
-- t-007
-  global_id: t-193623
+- t-012
   teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -177,8 +171,7 @@ media_all_json: |-
     - c-176294
 
 <a id="claim-t-194708"></a>
-- t-008
-  global_id: t-194708
+- t-013
   teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -259,6 +252,36 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Nors sumišęs su stabmeldyste, klai­
+    dingas ir absurdiškas, vis dėlto tai yra tikėjimas mūsų viešpa­
+    čiu Jėzumi Kristumi, jo mirtimi ir prisikėlimu. Autorius dėsto
+    ir daugiau panašių esminių pamokymų, svarbių tam amžiui.
+    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
+    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
+    rybės.
+    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
+    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
+    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
+    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
+    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
+    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
+    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
+    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
+    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
+    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
+    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
+    Rusia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-160423
@@ -272,17 +295,15 @@ media_all_json: |-
     D. Naugardas iki tol niekada neturėjo jokių santykių su Lenkija,
     naujasis D. Naugardo kunigaikštis respublikos vardu žadėjo Ka­
     rūnai paklusnumą^9.
-  citata_rodoma: |
-    Dviem raštais (1388-
-    1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai. Nors
-    D.
+  citata_rodoma: "Dviem raštais (1388-\n1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai. Nors\nD."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176408
+    - t-003
+
 - id: c-160424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -292,17 +313,15 @@ media_all_json: |-
     Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
     ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
     Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
-  citata_rodoma: |
-    Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
-    ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
-    Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
+  citata_rodoma: "Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti\nir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.\nKrokuvoje buvo vainikuota Lenkijos « karaliumi »."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176410
+    - t-002
+
 - id: c-160426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -315,19 +334,15 @@ media_all_json: |-
     Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-  citata_rodoma: |
-    « Didžiojo ku­
-    nigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo
-    Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
-    kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
-    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+  citata_rodoma: "« Didžiojo ku­\nnigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo\nJogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis\nkunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,\nkuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176407
+    - t-009
+
 - id: c-160429
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -338,19 +353,15 @@ media_all_json: |-
 
       1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
     Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
-  citata_rodoma: |
-    Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
-                                      vimą
-
-      1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
-    Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
+  citata_rodoma: "Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­\n                                  vimą\n\n  1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,\nLenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176411
+    - t-007
+
 - id: c-168075
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -373,32 +384,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184714
+    - t-011
+
 - id: c-171427
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nors sumišęs su stabmeldyste, klai­
-    dingas ir absurdiškas, vis dėlto tai yra tikėjimas mūsų viešpa­
-    čiu Jėzumi Kristumi, jo mirtimi ir prisikėlimu. Autorius dėsto
-    ir daugiau panašių esminių pamokymų, svarbių tam amžiui.
-    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
-    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
-    rybės.
-    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
-    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
-    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
-    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
-    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
-    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
-    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
-    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
-    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
-    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
-    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
-    Rusia.
-  citata_rodoma: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
     kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
@@ -411,13 +403,15 @@ media_all_json: |-
     didžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri
     jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
     džių.
+  citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188538
+    - t-006
+
 - id: c-176294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -437,7 +431,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193623
+    - t-012
+
 - id: c-177104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -458,7 +453,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194708
+    - t-006
+    - t-013
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Jadvyga keliavo į [[objektai/vietos/Vilnius]]

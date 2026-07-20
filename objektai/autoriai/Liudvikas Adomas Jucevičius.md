@@ -40,10 +40,9 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
 ## Teiginiai
 
 <a id="claim-t-187952"></a>
-- t-001
-  global_id: t-187952
+- t-002
   teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "gap::authors"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -61,10 +60,9 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-170947
 
 <a id="claim-t-188441"></a>
-- t-002
-  global_id: t-188441
+- t-003
   teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,10 +81,9 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-183830
 
 <a id="claim-t-188442"></a>
-- t-003
-  global_id: t-188442
+- t-004
   teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,10 +97,9 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     - c-183829
 
 <a id="claim-t-190755"></a>
-- t-004
-  global_id: t-190755
+- t-005
   teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,17 +111,21 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173637
+    - c-183828
 
 <a id="claim-t-190756"></a>
 - t-006
-  global_id: t-190756
-  teiginys: 'Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir paliktas faktinis ryšys su L. A. Jucevičiaus veikalu. Nepridėta papildomos informacijos apie PEĮ lapą ar leidimo rengimo aplinkybes.'
+  teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
-    - c-004
+    - c-183828
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“.'
@@ -139,24 +139,10 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     graudžiai vaitojo klajodama po įvairias vietas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
-    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
-    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190756
+
 ## Citatos
 
 - id: c-170947
@@ -165,16 +151,16 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   puslapiai: "PDF 5"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
-    2 Jucevičius L. Raštai. -  V., 1959. -  P. 370.
-  citata_rodoma: |
-    2 Jucevičius L. Raštai. -  V., 1959. -  P. 370.
+    2 Jucevičius L. Raštai. - V., 1959. - P. 370.
+  citata_rodoma: "2 Jucevičius L. Raštai. -  V., 1959. -  P. 370."
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187952
+    - t-002
+
 - id: c-173637
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -191,7 +177,45 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190755
+    - t-005
+
+- id: c-173638
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
+    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
+    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
+  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-183828
+  autorius: "Teodoras Narbutas"
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  puslapiai: "PDF 481"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
+  citata_originali: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
+    LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­
+    imta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“
+    dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
+  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
+  statusas: verified
+  atnaujinta: "2026-07-14 02:56"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+    - t-006
+
 - id: c-183829
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -203,19 +227,15 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     Adomas Jucevičius užėmė nemenką „Tygodnik Petersburski“
     (1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
     rašyti.
-  citata_rodoma: |
-    O taip atsitiktų, jeigu aš pateikčiau il­
-    gą legendą apie gegužės pavirtimą, kurio aprašymu ekskunigas
-    Adomas Jucevičius užėmė nemenką „Tygodnik Petersburski“
-    (1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­
-    rašyti.
+  citata_rodoma: "O taip atsitiktų, jeigu aš pateikčiau il­\ngą legendą apie gegužės pavirtimą, kurio aprašymu ekskunigas\nAdomas Jucevičius užėmė nemenką „Tygodnik Petersburski“\n(1836. -Nr. 28) dalį. Vis dėlto patį pavirtimo turinį privalau ap­\nrašyti."
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188442
+    - t-004
+
 - id: c-183830
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -227,16 +247,11 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
     23 Ks.
-  citata_rodoma: |
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
-    23 Ks.
+  citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­\n23 Ks."
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188441
+    - t-003

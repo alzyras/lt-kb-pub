@@ -40,7 +40,6 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 <a id="claim-t-77844"></a>
 - t-001
-  global_id: t-77844
   teiginys: "Po LDDP ir konservatorių rinkimų sėkmių sakyta, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77844
+    - t-001

@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-64102"></a>
-- t-001
-  global_id: t-64102
+- t-004
   teiginys: "Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ media_all_json: |-
     - c-21993
 
 <a id="claim-t-183570"></a>
-- t-002
-  global_id: t-183570
+- t-006
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ media_all_json: |-
     - c-166963
 
 <a id="claim-t-183571"></a>
-- t-003
-  global_id: t-183571
+- t-007
   teiginys: "Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -125,19 +122,15 @@ media_all_json: |-
     pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
     S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
     te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
-  citata_rodoma: |
-    Pradėti naudoti he-
-    rojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti
-    pagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir
-    S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
-    te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
+  citata_rodoma: "Pradėti naudoti he-\nrojinės istorijos puslapiai – LDK kova su kryžiuočiais, netgi idealizuoti \npagonišką Lietuvą, leista minėti Žalgirio mūšį, rašyti apie S. Dariaus ir \nS. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-\nte ir naudota antivakarietiškumui ir antikatalikybei skleisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64102
+    - t-004
+
 - id: c-166963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,7 +150,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183570
+    - t-006
+
 - id: c-166964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,6 +169,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183571
+    - t-007
+
 ## Ryšiai
 - Stasys Girėnas keliavo į [[objektai/vietos/Lietuva]]

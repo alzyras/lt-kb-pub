@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189910"></a>
 - t-001
-  global_id: t-189910
   teiginys: "Pranešėjo lazda buvo naudojama teismams ir viešosioms sueigoms skelbti, o jos ženklas rodė svarstytiną dalyką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189910
+    - t-001

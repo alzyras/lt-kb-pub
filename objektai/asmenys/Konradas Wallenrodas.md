@@ -40,7 +40,6 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
 
 <a id="claim-t-30334"></a>
 - t-001
-  global_id: t-30334
   teiginys: "Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
     metraščius — iki tol dar nebuvo buvę. Trakus radęs paties Skir­
     gailos sudegintus, Wallenrodas nebespėjo atlikti numatyto žygio į
     Vilnių.
-  citata_rodoma: |
-    Jis 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1
-    d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius
-    svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino
-    metraščius — iki tol dar nebuvo buvę.
+  citata_rodoma: "Jis 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1\nd. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius\nsvečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino\nmetraščius — iki tol dar nebuvo buvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30334
+    - t-001

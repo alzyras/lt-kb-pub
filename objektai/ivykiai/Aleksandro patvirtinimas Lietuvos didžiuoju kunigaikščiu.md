@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-186772"></a>
 - t-001
-  global_id: t-186772
   teiginys: "Redakcinė pastaba nurodo, kad visų LDK žemių seimas Vilniuje Aleksandrą patvirtino Lietuvos didžiuoju kunigaikščiu 1492 m. liepos 18 d."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -87,13 +86,11 @@ Nenurodyta
   citata_originali: |
     1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
     LDK žemių seimas Vilniuje, 1492.VII.18.
-  citata_rodoma: |
-    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
-    LDK žemių seimas Vilniuje, 1492.VII.18.
+  citata_rodoma: "1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų \nLDK žemių seimas Vilniuje, 1492.VII.18."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186772
+    - t-001

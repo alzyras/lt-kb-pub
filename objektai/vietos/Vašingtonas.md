@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-21868"></a>
 - t-001
-  global_id: t-21868
   teiginys: "1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ media_all_json: |-
     vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
     siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stoji-
     mui į NATO.
-  citata_rodoma: |
-    vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
+  citata_rodoma: "vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21868
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad massalski R.
 
 <a id="claim-t-61159"></a>
 - t-001
-  global_id: t-61159
   teiginys: "R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad massalski R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61159
+    - t-001

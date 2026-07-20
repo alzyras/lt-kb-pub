@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113464"></a>
-- t-001
-  global_id: t-113464
+- t-004
   teiginys: "Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-104696
 
 <a id="claim-t-113465"></a>
-- t-002
-  global_id: t-113465
+- t-007
   teiginys: "Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,11 +90,10 @@ Nenurodyta
   pagrindžia:
     - c-104695
 
-<a id="claim-t-113468"></a>
-- t-003
-  global_id: t-113468
+<a id="claim-t-113466"></a>
+- t-002
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,10 +105,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-104699
-    - c-104698
+
 <a id="claim-t-113469"></a>
-- t-004
-  global_id: t-113469
+- t-006
   teiginys: "1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,7 +161,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113465
+    - t-007
+
 - id: c-104696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -179,23 +176,16 @@ Nenurodyta
     1 skyrius •  S E N O J I  L I E T U VA
     33
     lonistus.
-  citata_rodoma: |
-    Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
-    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    33
-    lonistus.
+  citata_rodoma: "Gedimino krikšto akcija \nnepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. \nKrikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – \npriartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-\n\n1 skyrius •  S E N O J I  L I E T U VA\n33\nlonistus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113464
-    - t-113469
+    - t-004
+    - t-006
+
 - id: c-104698
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,4 +219,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113468
+    - t-002

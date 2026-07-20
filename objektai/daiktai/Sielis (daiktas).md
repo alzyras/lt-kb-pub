@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-202004"></a>
 - t-001
-  global_id: t-202004
   teiginys: "Pagaliau prekės Nemunu buvo plukdomos sieliais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -58,6 +57,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185351
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -76,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202004
+    - t-001

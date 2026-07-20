@@ -27,38 +27,11 @@ media_all_json: |-
 
 Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante. Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191323"></a>
-- t-001
-  global_id: t-191323
-  teiginys: 'Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Suroveckio poziciją ir turi reikalingą Narbuto atribuciją. Neutraliu faktu nepaverstas ginčytinas istorinis aiškinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Vysla; mentioned_place: Natangija'
-  pagrindžia:
-    - c-174205
-
-<a id="claim-t-191983"></a>
-- t-002
-  global_id: t-191983
-  teiginys: 'Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Narbuto vertinimas paliktas su atribucija, nes citatoje Suroveckio aiškinimas vertinamas. Neperrašytos ilgos ribos, kad teiginys liktų vienas glaustas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_place: Baltija; mentioned_place: Dnepras; mentioned_place: Estija; mentioned_place: Polesė; mentioned_place: Pripetė; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Volga'
-  pagrindžia:
-    - c-174865
-
-## Citatos
-
-- id: c-174205
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     255
 
@@ -74,17 +47,14 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
     juos į čia mūsų aptariamos provincijos teritoriją.
     261
     Natangija (Natangia).
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191323
-- id: c-174865
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Žymusis mūsų
     senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
@@ -106,10 +76,8 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
     ## Puslapis 99
 
     manų genčių“.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191983
+  statusas: verified

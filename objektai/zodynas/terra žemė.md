@@ -37,7 +37,6 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 
 <a id="claim-t-58872"></a>
 - t-001
-  global_id: t-58872
   teiginys: "Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 
 <a id="claim-t-58873"></a>
 - t-002
-  global_id: t-58873
   teiginys: "XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58873
+    - t-002
+
 - id: c-59505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -109,4 +108,4 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58872
+    - t-001

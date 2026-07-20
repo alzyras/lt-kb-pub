@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185598"></a>
 - t-001
-  global_id: t-185598
   teiginys: "Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-185599"></a>
 - t-002
-  global_id: t-185599
   teiginys: "Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-168960
 
 <a id="claim-t-196188"></a>
-- t-003
-  global_id: t-196188
+- t-004
   teiginys: "Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir siuntė būrius naikinti prinokusių javų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -104,8 +101,7 @@ Nenurodyta
     - c-168959
 
 <a id="claim-t-196189"></a>
-- t-004
-  global_id: t-196189
+- t-005
   teiginys: "Medininkų tankmėje kryžiuočiai su Prūsijos maršalu Henriku fon Plocke buvo sunaikinti arba pateko į lietuvių nelaisvę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -145,8 +141,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185598
-    - t-196188
+    - t-001
+    - t-004
+
 - id: c-168960
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -170,5 +167,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185599
-    - t-196189
+    - t-002
+    - t-005

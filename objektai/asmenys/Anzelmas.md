@@ -43,8 +43,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 ## Teiginiai
 
 <a id="claim-t-60084"></a>
-- t-001
-  global_id: t-60084
+- t-002
   teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - c-60717
 
 <a id="claim-t-188513"></a>
-- t-002
-  global_id: t-188513
+- t-001
   teiginys: "Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 <a id="claim-t-194910"></a>
 - t-003
-  global_id: t-194910
   teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 <a id="claim-t-200969"></a>
 - t-004
-  global_id: t-200969
   teiginys: "Jis gi nuleido antrą raštą Anzelmui, Varmijos vyskupui, keldamas jį siuntiniu savo Parusny ir liepdamas jam, idant visiems meldžionims, susirin kusiems ant totorių, įsakytų nertis su kryžėjais ir eiti netikėlių lietuvių kariauti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -126,21 +122,15 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
-  citata_rodoma: |
-    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
-
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
-    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
-    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
-    kariuomene ją apsupo, visą dieną smarkiai puolė.
+  citata_rodoma: "Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­\n                                      lies bei miesto paėmimą\n\n  Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo\npilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo\ntos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele\nkariuomene ją apsupo, visą dieną smarkiai puolė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60084
+    - t-002
+
 - id: c-171403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -164,7 +154,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188513
+    - t-001
+
 - id: c-177306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -180,10 +171,12 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194910
+    - t-003
+
 - id: c-184319
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Todėl, — sako jis, — ant garbės
     Dievo skubinkitės skatinti krikščionis".
@@ -210,6 +203,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200969
+    - t-004
+
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

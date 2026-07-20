@@ -31,9 +31,8 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
 
 <a id="claim-t-190222"></a>
 - t-001
-  global_id: t-190222
   teiginys: "Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,32 +49,8 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173105
-    - c-001
 - susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
 - susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    154
-
-    ## Puslapis 154
-
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
-    rybėmis, dievintomis anais amžiais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190222
 ## Citatos
 
 - id: c-173105
@@ -83,17 +58,6 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    nenustota jos garbinti. Strijkovskis pats sako: „Palangoje, prie
-    jūros, mačiau aukštą kalną, tos Birutės milžinkapį, kurį že­
-    maičiai bei kuršiai dar ir šiandien vadina šventos Birutės (Swis-
-    tos-Bimtos) kalnu ir dar iki šios dienos švenčia jos šventę ten,
-    toje vietoje, kur ir Romos katalikų kunigas atvažiuoja surink­
-    damas nemaža naudos iš žvakių ir aukų, nors nesuprantu, kaip
-    Dievas priima tas aukas, kadangi toji Birutė buvo stabmeldė“.
-    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
-    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
-    mėti ten visuomet stovi medinis kryžius.
-  citata_rodoma: |
     154
 
     ## Puslapis 154
@@ -105,10 +69,11 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
     vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
     šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
     rybėmis, dievintomis anais amžiais.
+  citata_rodoma: "154\n\n## Puslapis 154\n\nPajauta (Pojata)\nLietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­\nba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.\nTa kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-\nvinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­\nšė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­\nrybėmis, dievintomis anais amžiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190222
+    - t-001

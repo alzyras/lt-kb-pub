@@ -41,7 +41,6 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 
 <a id="claim-t-30261"></a>
 - t-001
-  global_id: t-30261
   teiginys: "Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,14 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
     kuris paliko smulkias savo žygio sąskaitas^18.
     Didžioji kariuomenė su tituluotais užsienio svečiais apgulė
     pačią Lietuvos sostinę, kur reikėjo paimti tris pilis.
-  citata_rodoma: |
-    Dalyvavo ir Lancasterio
-    grafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413),
-    kuris paliko smulkias savo žygio sąskaitas^18.
-    Didžioji kariuomenė su tituluotais užsienio svečiais apgulė
-    pačią Lietuvos sostinę, kur reikėjo paimti tris pilis.
+  citata_rodoma: "Dalyvavo ir Lancasterio\ngrafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413),\nkuris paliko smulkias savo žygio sąskaitas^18.\nDidžioji kariuomenė su tituluotais užsienio svečiais apgulė\npačią Lietuvos sostinę, kur reikėjo paimti tris pilis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30261
+    - t-001
+
 ## Ryšiai
 - Henrikas IV buvo valdovas [[objektai/vietos/Anglija]]

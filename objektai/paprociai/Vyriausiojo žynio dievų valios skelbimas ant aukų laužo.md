@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189879"></a>
 - t-001
-  global_id: t-189879
   teiginys: "Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,25 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172762
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad vyriausiasis žynys vadovaudavo didiesiems aukų atnašavimams, o priešais jį būdavo nešiojama lazda su trimis užlenkimais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai tik kas numirdavęs, to
-    šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
-    kėdavęs patekti su žemesniojo krivio duotu leidimu į laimės
-    prieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­
-    vaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­
-    šiojama vyriausiojo žynio lazda su trimis užlenkimais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189879
+
 ## Citatos
 
 - id: c-172762
@@ -90,25 +71,17 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai buvo žymiai, reziduojantys prie įvairių šventyklų ir žymes­
-    niosiose gyvenamosiose vietovėse arba miestuose, vadovau­
-    jantys vaidiloms. Jie galėjo atnašauti aukas tik vienoje vieto­
-    vėje. Krivis nepalikdavo savo aukuro net per didžiausią pavo­
-    jų. Priešas, pasiekęs pilį, turėdavo žūti aukuro papėdėje arba
-    prašyti pasigailėjimo. Religija suteikdavo kriviams valdžią tam
-    tikroje apygardoje, apskrityje arba vėliavoje; jam buvo paval­
-    dūs visi žemesnieji kunigai.
-  citata_rodoma: |
     Kai tik kas numirdavęs, to
     šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
     kėdavęs patekti su žemesniojo krivio duotu leidimu į laimės
     prieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­
     vaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­
     šiojama vyriausiojo žynio lazda su trimis užlenkimais.
+  citata_rodoma: "Kai tik kas numirdavęs, to\nšešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­\nkėdavęs patekti su žemesniojo krivio duotu leidimu į laimės\nprieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­\nvaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­\nšiojama vyriausiojo žynio lazda su trimis užlenkimais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189879
+    - t-001

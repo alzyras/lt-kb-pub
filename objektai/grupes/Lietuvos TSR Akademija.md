@@ -38,7 +38,6 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
 
 <a id="claim-t-31289"></a>
 - t-001
-  global_id: t-31289
   teiginys: "Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,20 +70,11 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
     jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
 
     (^84) **Z. Ivinskis :** **_Prel.
-  citata_rodoma: |
-    Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­
-    kis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi
-    Lietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės
-    Tarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio
-    darbo pasidarė pamažu Lietuvos TSR Akademijoje pilnateisiu
-    nariu (akademiku). Jis tapo Lietuvos istorijos srityje ne tik tikruoju
-    jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
-
-    (^84) **Z.
+  citata_rodoma: "Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­\nkis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi\nLietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės\nTarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio\ndarbo pasidarė pamažu Lietuvos TSR Akademijoje pilnateisiu\nnariu (akademiku). Jis tapo Lietuvos istorijos srityje ne tik tikruoju\njaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar\n\n(^84) **Z."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31289
+    - t-001

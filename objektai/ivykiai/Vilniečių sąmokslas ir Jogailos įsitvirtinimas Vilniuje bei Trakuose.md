@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01855"></a>
 - t-001
-  global_id: t-01855
   teiginys: "1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,23 +73,17 @@ Nenurodyta
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    Kęstutis, metęs derybas,
+    Tačiau Kęstutis, metęs derybas,
     tuojau išvyko į rytus. Jam nesant namie, kilo vilniečių są-
     mokslas (1382 m.). Ypač mieste gyvenę vokiečiai pirkliai
     palaikė Jogailą, nes jis žadėjo taiką su ordinu; o taika su
     ordinu reiškė laisvos prekybos klestėjimą. Pirkliams to visiškai
     pakako; todėl jie bematant perdavė miestą Jogailai.
-  citata_rodoma: |
-    Kęstutis, metęs derybas,
-    tuojau išvyko į rytus. Jam nesant namie, kilo vilniečių są-
-    mokslas (1382 m.). Ypač mieste gyvenę vokiečiai pirkliai
-    palaikė Jogailą, nes jis žadėjo taiką su ordinu; o taika su
-    ordinu reiškė laisvos prekybos klestėjimą. Pirkliams to visiškai
-    pakako; todėl jie bematant perdavė miestą Jogailai.
+  citata_rodoma: "Kęstutis, metęs derybas,\ntuojau išvyko į rytus. Jam nesant namie, kilo vilniečių są-\nmokslas (1382 m.). Ypač mieste gyvenę vokiečiai pirkliai\npalaikė Jogailą, nes jis žadėjo taiką su ordinu; o taika su\nordinu reiškė laisvos prekybos klestėjimą. Pirkliams to visiškai\npakako; todėl jie bematant perdavė miestą Jogailai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01855
+    - t-001

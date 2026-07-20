@@ -59,9 +59,8 @@ Nenurodyta
 
 <a id="claim-t-186692"></a>
 - t-001
-  global_id: t-186692
   teiginys: "1457 m. lapkričio 28 d. Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goštautui."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -78,7 +77,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169930
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1457 m. lapkričio 28 d. Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goštautui.'
@@ -92,8 +91,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186692
+
 ## Citatos
 
 - id: c-169930
@@ -101,22 +99,13 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    10 Volkovyskas — BTSR miestas (prie aukštutinio Nemuno in­
-    tako
-    Volkovljos. apie 170 km Į pietus nuo Vilniaus, buvusioje
-    jotvingių žemėje).
-    XII a. buvo rusų Naugarduko kunigaikštystės
-    sudėtyje ir drauge su ja Mindaugo įjungtas | Lietuvos valstybę.
-    Minimas čia Volkovysko puolimas buvo 1249 ar 1250 m.
-    11 Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
-    prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
-  citata_rodoma: |
     1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
     laulul (Русская историческая библиотека, т. 27, 1970. p. 34).
+  citata_rodoma: "1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš- \nlaulul (Русская историческая библиотека, т. 27, 1970. p. 34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186692
+    - t-001

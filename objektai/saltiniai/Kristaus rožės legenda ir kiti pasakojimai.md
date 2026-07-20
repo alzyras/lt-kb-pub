@@ -30,7 +30,6 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 
 <a id="claim-t-36064"></a>
 - t-001
-  global_id: t-36064
   teiginys: "„Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,13 +57,11 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
     Didžiojo karo įtakoje žmonės tartum pasidarė žiauresni; netei­
     singumas ir įvairios suktybės dar labiau, rodos, įsivyravo, negu tai
     buvo pirmiau, šeimos Lagerlöf raštuose dvelkia žmoniškumas.
-  citata_rodoma: |
-    3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­
-    JIMAI. Vertė J. T.
+  citata_rodoma: "3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­\nJIMAI. Vertė J. T."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36064
+    - t-001

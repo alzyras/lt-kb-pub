@@ -40,24 +40,11 @@ Slėnio arba griovos pavadinimas; vietovės terminas, kurį cituoja senas kazoka
 
 Topografinis slavų terminas.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194904"></a>
-- t-001
-  global_id: t-194904
-  teiginys: 'Taip pat vienas senas ka zokas pasakojo, jog yra slėnis (arba griova — ovrah), einantis šiaurės vakarų kryptimi, kuris vadinosi Ros\ griova susijungia su slėniu, ir teka Oskolas, kuris iš tik rųjų žemupyje turi vadintis Ros.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177300
-
-## Citatos
-
-- id: c-177300
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Taip pat vienas senas ka zokas pasakojo, jog yra slėnis (arba griova — ovrah), einantis šiaurės vakarų kryptimi, kuris vadinosi Ros\ griova susijungia su slėniu, ir teka Oskolas, kuris iš tik rųjų žemupyje turi vadintis Ros.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     ## Puslapis 75
 
@@ -73,10 +60,8 @@ Topografinis slavų terminas.
     kėti į jį, o sena Doneco upė, kurios aukštupis anksčiau
     išdžiūdavęs, kuri būdavo papildoma tik menkų minėto
     upelio vandenų, iš tikrųjų ir turėjo vadintis Ros.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194904
+  statusas: verified

@@ -38,7 +38,6 @@ Alseikos: „Vytauto D.
 
 <a id="claim-t-34951"></a>
 - t-001
-  global_id: t-34951
   teiginys: "Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Alseikos: „Vytauto D.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34951
+    - t-001

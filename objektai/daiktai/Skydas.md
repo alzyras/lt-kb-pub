@@ -57,9 +57,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-111286"></a>
+<a id="claim-t-08329"></a>
 - t-001
-  global_id: t-111286
   teiginys: "Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -74,9 +73,8 @@ Nenurodyta
   pagrindžia:
     - c-10284
 
-<a id="claim-t-111287"></a>
+<a id="claim-t-08330"></a>
 - t-002
-  global_id: t-111287
   teiginys: "Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-10285
 
 <a id="claim-t-111284"></a>
-- t-003
-  global_id: t-111284
+- t-007
   teiginys: "Pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-102945
 
 <a id="claim-t-111285"></a>
-- t-004
-  global_id: t-111285
+- t-006
   teiginys: "Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -166,7 +162,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111286
+    - t-001
+
 - id: c-10285
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -183,7 +180,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111287
+    - t-002
+
 - id: c-102944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -206,7 +204,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111285
+    - t-006
+
 - id: c-102945
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -223,4 +222,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111284
+    - t-007

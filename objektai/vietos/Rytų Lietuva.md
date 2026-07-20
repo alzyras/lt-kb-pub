@@ -40,8 +40,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 ## Teiginiai
 
 <a id="claim-t-181515"></a>
-- t-001
-  global_id: t-181515
+- t-017
   teiginys: "1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181515
+    - t-017

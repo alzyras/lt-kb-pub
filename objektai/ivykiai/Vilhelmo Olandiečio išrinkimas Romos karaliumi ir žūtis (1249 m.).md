@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62528"></a>
 - t-001
-  global_id: t-62528
   teiginys: "1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,21 +88,11 @@ Nenurodyta
 
 
                           35.
-  citata_rodoma: |
-    Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
-
-      1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
-    Romos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas
-
-    negavo imperatoriaus vainiko (Ptol. 22,9).
-
-
-
-                          35.
+  citata_rodoma: "Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi\n\n  1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas\nRomos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas\n\nnegavo imperatoriaus vainiko (Ptol. 22,9).\n\n\n\n                      35."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62528
+    - t-001

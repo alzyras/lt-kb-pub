@@ -40,8 +40,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 ## Teiginiai
 
 <a id="claim-t-45777"></a>
-- t-001
-  global_id: t-45777
+- t-002
   teiginys: "1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     - c-24727
 
 <a id="claim-t-45778"></a>
-- t-002
-  global_id: t-45778
+- t-001
   teiginys: "Apie 1937 m., kai keliai tarp Lietuvos ir Lenkijos buvo uždaryti, giminės iš abiejų pusių susitikdavo prie administracinės linijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,6 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 
 <a id="claim-t-45779"></a>
 - t-003
-  global_id: t-45779
   teiginys: "Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,17 +110,15 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: |
-    Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
-    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
-    perėjusį liniją lenkų kareivį.
+  citata_rodoma: "Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-\ndentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė\nperėjusį liniją lenkų kareivį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45777
+    - t-002
+
 - id: c-48464
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,19 +136,12 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
     nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
     bolševizmui.
-  citata_rodoma: |
-    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
-    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    171
-    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
-    po 1939 m.
+  citata_rodoma: "Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės  \niš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n171\nTarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms \npo 1939 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45778
-    - t-45779
+    - t-001
+    - t-003

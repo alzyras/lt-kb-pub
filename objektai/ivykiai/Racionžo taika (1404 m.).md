@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92939"></a>
-- t-001
-  global_id: t-92939
+- t-003
   teiginys: "1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-92940"></a>
 - t-002
-  global_id: t-92940
   teiginys: "1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Nenurodyta
     - c-88379
 
 <a id="claim-t-194982"></a>
-- t-003
-  global_id: t-194982
+- t-004
   teiginys: "Kad galėtų vėl imti veikti rytuose, Vytautas iš naujo Raciąže 1404 turėjo ordinui pažadėti pildyti Salyno taikos sąlygas^46."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -124,7 +121,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92939
+    - t-003
+
 - id: c-88379
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,7 +140,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92940
+    - t-002
+
 - id: c-177367
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -161,4 +160,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194982
+    - t-004

@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186568"></a>
-- t-001
-  global_id: t-186568
+- t-002
   teiginys: "Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-169881
 
 <a id="claim-t-186570"></a>
-- t-002
-  global_id: t-186570
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -104,24 +102,12 @@ Nenurodyta
     vyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­
     čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
     kankinant.
-  citata_rodoma: |
-    Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
-    Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
-    Algirdą, idant tuos pagonis, kurie tuos nekaltus vie­
-    nuolius taip žiauriai ir negailestingai žudė, už šitokį jų
-    žiaurumą lieptų nubausti. Ir pats didysis kunigaikštis
-    Algirdas labai liūdėjo, kad taip žiauriai nužudė tuos
-    krikščionis-vienuolius, jam buvo apmaudu, kad krikš­
-    čionims teko patirti tokį žiaurumą. Už tai pasmerkia
-    myriop penkis šimtus vilniečių, kad juos nubaustų pa­
-    vyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­
-    čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
-    kankinant.
+  citata_rodoma: "Ir parvyksta didysis kunigaikštis Algirdas į Vilnių. \nGoštautas žemai lenkdamasis prašė didįjį kunigaikštį \nAlgirdą, idant tuos pagonis, kurie tuos nekaltus vie­\nnuolius taip žiauriai ir negailestingai žudė, už šitokį jų \nžiaurumą lieptų nubausti. Ir pats didysis kunigaikštis \nAlgirdas labai liūdėjo, kad taip žiauriai nužudė tuos \nkrikščionis-vienuolius, jam buvo apmaudu, kad krikš­\nčionims teko patirti tokį žiaurumą. Už tai pasmerkia \nmyriop penkis šimtus vilniečių, kad juos nubaustų pa­\nvyzdžio dėlei, idant niekas daugiau nebepadarytų krikš­\nčioniui nieko pikto. Ir anieji buvo nugalabyti, visaip \nkankinant."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186568
-    - t-186570
+    - t-002
+    - t-001

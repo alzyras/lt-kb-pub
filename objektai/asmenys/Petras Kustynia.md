@@ -40,7 +40,6 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
 
 <a id="claim-t-87827"></a>
 - t-001
-  global_id: t-87827
   teiginys: "Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
     dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
     mirė 1421 m.
     6.
-  citata_rodoma: |
-    5
-    5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­
-    dę „S" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m.,
-    mirė 1421 m.
+  citata_rodoma: "5\n5. Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­\ndę „S\" turėjęs, šv. teologijos daktaras, vyskupu tapo 1415 m., \nmirė 1421 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87827
+    - t-001

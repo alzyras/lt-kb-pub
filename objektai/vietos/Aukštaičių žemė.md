@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-32063"></a>
 - t-001
-  global_id: t-32063
   teiginys: "Platus Nemuno aukštupio ir vidurupio dešiniojo kranto kraštas bei beveik visas Neries baseinas su Šventąja sudarė Aukštaičių žemės pagrindą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ media_all_json: |-
     minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
     su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
     nimas.
-  citata_rodoma: |
-    Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir
-    beveik ištisai Neries baseinas su Šventąja sudarė Aukštaičių žemės
-    pagrindą, nuo XI amž. rusų metraščiuose vadinamą «Litva».
-    Kronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m.
+  citata_rodoma: "Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir\nbeveik ištisai Neries baseinas su Šventąja sudarė Aukštaičių žemės\npagrindą, nuo XI amž. rusų metraščiuose vadinamą «Litva».\nKronistui Dusburgui pažįstami Aukštaičiai (« Austechia »), 1322 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32063
+    - t-001

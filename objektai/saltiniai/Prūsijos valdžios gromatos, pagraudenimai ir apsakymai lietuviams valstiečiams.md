@@ -37,7 +37,6 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
 
 <a id="claim-t-31897"></a>
 - t-001
-  global_id: t-31897
   teiginys: "Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
     «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
     viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
     buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
-  citata_rodoma: |
-    Suredagavo jis taip pat
-    «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
-    viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
-    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
+  citata_rodoma: "Suredagavo jis taip pat\n«Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­\nviams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis\nbuvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31897
+    - t-001

@@ -38,8 +38,7 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 ## Teiginiai
 
 <a id="claim-t-09674"></a>
-- t-001
-  global_id: t-09674
+- t-003
   teiginys: "Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -55,8 +54,7 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
     - c-12486
 
 <a id="claim-t-09675"></a>
-- t-002
-  global_id: t-09675
+- t-004
   teiginys: "„Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -93,19 +91,12 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
     gybė kitų, tvirtindami, kad be žirgų jie nej-
     stengsią mūšyje atsilaikyti dėl savo sunkios
     ginkluotės.
-  citata_rodoma: |
-    sakęs: „Palikime savo žirgus toli užpakalyje,
-
-    kad neturėtume vilties prie jų sugrįžti,
-    ir patraukime link priešų pėsčiomis, nes
-    tada žmonės nesitikėdami išsigelbėsią žir-
-    gais, nevengs mūšio, antraip jie, be abejo-
-    nės, leisis bėgti.“
+  citata_rodoma: "sakęs: „Palikime savo žirgus toli užpakalyje,\n\nkad neturėtume vilties prie jų sugrįžti,\nir patraukime link priešų pėsčiomis, nes\ntada žmonės nesitikėdami išsigelbėsią žir-\ngais, nevengs mūšio, antraip jie, be abejo-\nnės, leisis bėgti.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09674
-    - t-09675
+    - t-003
+    - t-004

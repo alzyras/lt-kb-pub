@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-193819"></a>
 - t-001
-  global_id: t-193819
   teiginys: "Kai dar lenkų kariuomenė traukėsi spaudžiama bolševikų, o lietuviai atsiiminėjo žemes, Lietuvos karinės ir politinės savanorių buvo demobilizuota ir nors dar 1919 m. kovo mėnesį buvo pradėtas privalomas šaukimas į Lietuvos kariuomenę, ji nebuvo Lenkijos."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -97,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193819
+    - t-001

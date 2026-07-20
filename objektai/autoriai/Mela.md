@@ -30,7 +30,6 @@ Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrant�
 
 <a id="claim-t-191653"></a>
 - t-001
-  global_id: t-191653
   teiginys: "Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrant�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191653
+    - t-001

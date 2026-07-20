@@ -22,6 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Domininkas
 
 ## Santrauka
@@ -30,19 +31,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 ## Teiginiai
 
-<a id="claim-t-60268"></a>
-- t-001
-  global_id: t-60268
-  teiginys: "Pasakojime šventasis Domininkas sapne žygiavo brolių priekyje kartu su Bernardu, Pranciškumi ir Augustinu."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60900
-
 <a id="claim-t-197068"></a>
 - t-002
-  global_id: t-197068
   teiginys: "Domininkas nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,5 +66,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60268
-    - t-197068
+    - t-002

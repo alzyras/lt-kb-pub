@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-62794"></a>
 - t-001
-  global_id: t-62794
   teiginys: "Grafas iš Barbio su didele kariuomene atžygiavo į Prūsiją ir įsibrovė į Sembos žemę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
@@ -62,12 +61,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63596
-    - c-001
+
 <a id="claim-t-62795"></a>
 - t-002
-  global_id: t-62795
   teiginys: "Sembai sausio 21 d. užpuolė Sembą nusiaubusį grafą iš Barbio, jį sunkiai sužeidė ir privertė jo kariuomenę trauktis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Grafo iš Barbio žygis į Sembą ir pralaimėjimas: 0.64"
@@ -81,25 +79,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Grafo iš Barbio žygis į Sembą ir pralaimėjimas (0.64)"
   pagrindžia:
     - c-63596
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    93 (88). Apie daugybės maldininkų žūtį
 
-       Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir
-    įsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos
-    mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai
-    kurie pateko į nelaisvę arba buvo nužudyti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62794
-    - t-62795
 ## Citatos
 
 - id: c-63596
@@ -107,23 +87,18 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse. Baisiausio bado kamuojami, kai nebeliko nei avių, nei
-    jaučių, nei kiaulių, nei karvių bei arklių, jie turėjo misti jų odomis. Šis neįprastas maistas
-    buvo toks kietas, kad daug brolių bei kitų žmonių, jį bevalgydami, išsilaužė dantis.
-  citata_rodoma: |
     93 (88). Apie daugybės maldininkų žūtį
 
        Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir
     įsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos
     mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai
     kurie pateko į nelaisvę arba buvo nužudyti.
+  citata_rodoma: "93 (88). Apie daugybės maldininkų žūtį\n\n   Tais pačiais metais  į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368  ir\nįsibrovė  į Sembos žemę. Kai ją nusiaubė, sembai susibūrė, užpuolė  jį palaimintos\nmergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai\nkurie pateko į nelaisvę arba buvo nužudyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62794
-    - t-62795
+    - t-001
+    - t-002

@@ -37,7 +37,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 <a id="claim-t-74769"></a>
 - t-001
-  global_id: t-74769
   teiginys: "XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 <a id="claim-t-74770"></a>
 - t-002
-  global_id: t-74770
   teiginys: "Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 <a id="claim-t-193556"></a>
 - t-003
-  global_id: t-193556
   teiginys: "Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -121,17 +118,15 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
-  citata_rodoma: |
-    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
-    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
-    po poros dešimtmečių sukūrę Lietuvos Respubliką.
+  citata_rodoma: "Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-\nviams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,\npo poros dešimtmečių sukūrę Lietuvos Respubliką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74769
+    - t-001
+
 - id: c-22567
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,17 +137,15 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
     tarmė – lietuvių kalba.
-  citata_rodoma: |
-    Remiantis tokia lenkiška Lietuvos sam-
-    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
-    tarmė – lietuvių kalba.
+  citata_rodoma: "Remiantis tokia lenkiška Lietuvos sam-\nprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių\ntarmė – lietuvių kalba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74770
+    - t-002
+
 - id: c-176236
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,6 +163,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193556
+    - t-003
+
 ## Ryšiai
 - Lietuvos Respublika kariavo prieš [[objektai/grupes/Bermontininkai]]

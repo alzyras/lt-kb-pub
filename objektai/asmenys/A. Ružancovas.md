@@ -31,7 +31,6 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
 
 <a id="claim-t-39981"></a>
 - t-001
-  global_id: t-39981
   teiginys: "A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,22 +66,11 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
     miestelyje buvo su-
     telktos 5 raudonar-
     miečių kuopos.
-  citata_rodoma: |
-    Vasario 11 d. Jiezne buvusias bolše-
-    vikų pajėgas papildė 7-ojo šaulių pulko
-    vado pavaduotojo karin.
-    A. Ružancovo vadovau-
-    jama „Jiezno ypatin-
-    goji rinktinė“, sudaryta
-    iš 3 kuopų su 4 kul-
-    kosvaidžiais (vienas iš
-    kulkosvaidžių buvo
-    įkeltas į Jiezno bažny-
-    čios bokštą).
+  citata_rodoma: "Vasario 11 d. Jiezne buvusias bolše-\nvikų pajėgas papildė 7-ojo šaulių pulko\nvado pavaduotojo karin.\nA. Ružancovo vadovau-\njama „Jiezno ypatin-\ngoji rinktinė“, sudaryta\niš 3 kuopų su 4 kul-\nkosvaidžiais (vienas iš\nkulkosvaidžių buvo\nįkeltas į Jiezno bažny-\nčios bokštą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39981
+    - t-001

@@ -38,7 +38,6 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 
 <a id="claim-t-58936"></a>
 - t-001
-  global_id: t-58936
   teiginys: "Petras iš Dusburgo teigė, kad Prūsijoje kritusių krikščionių sielos išganytos, o žuvusieji gauna kankinių vainikus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58936
+    - t-001

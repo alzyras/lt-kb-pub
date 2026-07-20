@@ -33,7 +33,6 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
 
 <a id="claim-t-201256"></a>
 - t-001
-  global_id: t-201256
   teiginys: "Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, arba vengrai, nuo rytų į Gudus atėję, bet kaip tenai Olegas su jais atsiryžo, nėra nieko randama raštuose; pasakoja vienok, jog ugrai, pertraukę per Gudiją, užėmė Moldaviją ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
 ## Citatos
 
 - id: c-184606
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo savo buveinę iš Naugardo į
     Kijevą perkėlęs* 1.
@@ -66,4 +66,4 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201256
+    - t-001

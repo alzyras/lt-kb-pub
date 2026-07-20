@@ -30,7 +30,6 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
 
 <a id="claim-t-200489"></a>
 - t-001
-  global_id: t-200489
   teiginys: "Antanas Tovianskis siekė tribunolo vicemaršalo posto."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -64,20 +63,8 @@ Antanas Tovianskis siekė tribunolo vicemaršalo posto.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 6"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    namus [t. y. giminę] [26]. Taip pat 1755 m. laiške kanauninkas teigė, kad LDK pakancleris
-    Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais [43]. 1759 m. jis
-    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
-    posto [57].
-  citata_rodoma: |
-    1759 m. jis
-    pranešė, kaip Antanas Tovianskis (Antoni Gieralt Towiański) siekė tribunolo vicemaršalo
-    posto [57].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200489
+    - t-001

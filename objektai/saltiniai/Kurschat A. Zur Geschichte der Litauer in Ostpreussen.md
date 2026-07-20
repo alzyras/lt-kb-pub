@@ -34,13 +34,44 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kurschat A.
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
+    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
+      Kuzavinis К. Prūsų kalba.—V., 1964.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Citatos
+
+- id: c-61744
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
+    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
+  citata_rodoma: "Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen\nlitterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-61112"></a>
 - t-001
-  global_id: t-61112
   teiginys: "A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,40 +86,3 @@ Dusburgietis teigia, kad kurschat A.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-61744
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
-    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
-      Kuzavinis К. Prūsų kalba.—V., 1964.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61112
-## Citatos
-
-- id: c-61744
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok,
-    1964, 1, s. 207—216.
-    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
-    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: |
-    Kurschat A. Zur Geschichte der Litauer in Ostpreussen — Mitteilungen der Litauischen
-    litterarischen Gesellschaft, Heidelberg, 1893, Heft 18, S. 497—505.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-61112

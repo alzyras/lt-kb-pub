@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-01070"></a>
 - t-001
-  global_id: t-01070
   teiginys: "Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01070
+    - t-001

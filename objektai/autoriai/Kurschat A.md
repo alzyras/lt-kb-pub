@@ -30,7 +30,6 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
 
 <a id="claim-t-60736"></a>
 - t-001
-  global_id: t-60736
   teiginys: "A. Kurschatas Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuvius laikė nusiaubto krašto senųjų gyventojų palikuonimis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60736
+    - t-001

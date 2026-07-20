@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75265"></a>
-- t-001
-  global_id: t-75265
+- t-006
   teiginys: "1991 m. sausio 12-osios vakarą žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-73106
 
 <a id="claim-t-75266"></a>
-- t-002
-  global_id: t-75266
+- t-004
   teiginys: "1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į SSRS žmones ir ragino stabdyti sovietų kariuomenės agresiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Nenurodyta
     - c-23211
 
 <a id="claim-t-75267"></a>
-- t-003
-  global_id: t-75267
+- t-002
   teiginys: "Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-73106
 
 <a id="claim-t-75268"></a>
-- t-004
-  global_id: t-75268
+- t-001
   teiginys: "Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +132,7 @@ Nenurodyta
     - c-23208
 
 <a id="claim-t-75270"></a>
-- t-005
-  global_id: t-75270
+- t-003
   teiginys: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,19 +169,15 @@ Nenurodyta
     Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
     Vienas žymiausių M. K. Čiurlionio kūrinių
     „Karalių pasaka“, 1909 m.
-  citata_rodoma: |
-    Lietu-
-    vos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat
-    Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią
-    Vienas žymiausių M. K. Čiurlionio kūrinių
-    „Karalių pasaka“, 1909 m.
+  citata_rodoma: "Lietu-\nvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat \nSausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią \nVienas žymiausių M. K. Čiurlionio kūrinių \n„Karalių pasaka“, 1909 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75268
+    - t-001
+
 - id: c-23210
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,18 +191,15 @@ Nenurodyta
     sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
     vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
     pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: |
-    1991 m. sausio 13-ąją,
-    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
-    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
-    pateko po tanko vikšrais ir mirė ligoninėje.
+  citata_rodoma: "1991 m. sausio 13-ąją, \nsovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-\nvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji \npateko po tanko vikšrais ir mirė ligoninėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75270
+    - t-003
+
 - id: c-23211
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,17 +215,15 @@ Nenurodyta
     Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
     damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
     ši sovietų kariuomenės agresija būtų sustabdyta.
-  citata_rodoma: |
-    Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
-    damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
-    ši sovietų kariuomenės agresija būtų sustabdyta.
+  citata_rodoma: "Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-\ndamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad \nši sovietų kariuomenės agresija būtų sustabdyta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75266
+    - t-004
+
 - id: c-73106
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -258,5 +244,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75265
-    - t-75267
+    - t-006
+    - t-002

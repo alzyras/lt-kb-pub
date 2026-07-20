@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31479"></a>
 - t-001
-  global_id: t-31479
   teiginys: "1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,19 +86,11 @@ Nenurodyta
     ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
     naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
     ir Mažojoje Lietuvoje yra surišta su lydimais.
-  citata_rodoma: |
-    Pradėjus Lietuvoje « va­
-    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
-    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
-    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
-    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
-    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
-    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
-    ir Mažojoje Lietuvoje yra surišta su lydimais.
+  citata_rodoma: "Pradėjus Lietuvoje « va­\nlakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą\nsu vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė\nnykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas\nžodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »\nir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip\nnaturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje\nir Mažojoje Lietuvoje yra surišta su lydimais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31479
+    - t-001

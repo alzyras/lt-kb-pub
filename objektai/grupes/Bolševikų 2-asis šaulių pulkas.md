@@ -31,7 +31,6 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 
 <a id="claim-t-40869"></a>
 - t-001
-  global_id: t-40869
   teiginys: "Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 
 <a id="claim-t-183653"></a>
 - t-002
-  global_id: t-183653
   teiginys: "Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,31 +91,15 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
     žadėtų ginklų, sausio 14 d.
     pasitraukė į Kruopius (10 km
     nuo Kėdainių Kauno link).
-  citata_rodoma: |
-    Tuo tarpu Kėdainių kryptimi pa-
-    mažu artėjo bolševikų 2-asis šau-
-    lių pulkas, savo gretose turėjęs
-    apie 900 ar 1 000 kovotojų su
-    sunkiaisiais kulkosvaidžiais
-    ir dviem lengvaisiais pabūk-
-    lais. Lyginant su puolančiai-
-    siais Kėdainių gynėjai gyvąja
-
-    jėga teprilygo maždaug penktadaliui priešo
-
-    pajėgų, o ir ginkluotė jų buvo menkesnė.
-    Bolševikams priartėjus prie
-    Kėdainių, savano-
-    rių būriai, nesu-
-    laukdami iš Kauno
-    žadėtų ginklų, sausio 14 d.
+  citata_rodoma: "Tuo tarpu Kėdainių kryptimi pa-\nmažu artėjo bolševikų 2-asis šau-\nlių pulkas, savo gretose turėjęs\napie 900 ar 1 000 kovotojų su\nsunkiaisiais kulkosvaidžiais\nir dviem lengvaisiais pabūk-\nlais. Lyginant su puolančiai-\nsiais Kėdainių gynėjai gyvąja\n\njėga teprilygo maždaug penktadaliui priešo\n\npajėgų, o ir ginkluotė jų buvo menkesnė.\nBolševikams priartėjus prie\nKėdainių, savano-\nrių būriai, nesu-\nlaukdami iš Kauno\nžadėtų ginklų, sausio 14 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40869
+    - t-001
+
 - id: c-167045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -146,4 +128,4 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183653
+    - t-002

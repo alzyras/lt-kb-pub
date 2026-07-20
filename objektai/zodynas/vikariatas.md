@@ -31,7 +31,6 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
 
 <a id="claim-t-36853"></a>
 - t-001
-  global_id: t-36853
   teiginys: "Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,15 +64,11 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
     dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo
     kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­
     nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
-  citata_rodoma: |
-    Livonijos Ordinas puolė dar Vytautą, pavy­
-    dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo
-    kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­
-    nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
+  citata_rodoma: "Livonijos Ordinas puolė dar Vytautą, pavy­\ndėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo\nkraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­\nnijos vyskupijų, kurias Ordinas lenkė į savo valdžią."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36853
+    - t-001

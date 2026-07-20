@@ -28,7 +28,6 @@ Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas.
 
 <a id="claim-t-201814"></a>
 - t-001
-  global_id: t-201814
   teiginys: "Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201814
+    - t-001

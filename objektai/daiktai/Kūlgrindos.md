@@ -49,8 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06734"></a>
-- t-001
-  global_id: t-06734
+- t-005
   teiginys: "Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-00209
 
 <a id="claim-t-06735"></a>
-- t-002
-  global_id: t-06735
+- t-004
   teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -96,16 +94,12 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: |
-    Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
-    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
-    kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
-    Lietuvoje tokių kelių liekanų.
+  citata_rodoma: "Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-\ntyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami\nkūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti\nLietuvoje tokių kelių liekanų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06734
-    - t-06735
+    - t-005
+    - t-004

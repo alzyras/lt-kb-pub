@@ -39,7 +39,6 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 
 <a id="claim-t-30596"></a>
 - t-001
-  global_id: t-30596
   teiginys: "Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 
 <a id="claim-t-30597"></a>
 - t-002
-  global_id: t-30597
   teiginys: "E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,16 +89,15 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
     apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
     a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
     skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
-  citata_rodoma: |
-    ^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
-    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
+  citata_rodoma: "^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių\nskydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30596
+    - t-001
+
 - id: c-32917
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,14 +109,11 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
     Radzvilovaitė, E. : _Lietuvių genčių skydai II- VIII amžiais_ , AkMD,
     t. 21, 1966, 127-142 p. — Stankus, J. : _Geležinių įrankių gamybos
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs.
-  citata_rodoma: |
-    —
-    Radzvilovaitė, E. : _Lietuvių genčių skydai II- VIII amžiais_ , AkMD,
-    t. 21, 1966, 127-142 p. — Stankus, J.
+  citata_rodoma: "—\nRadzvilovaitė, E. : _Lietuvių genčių skydai II- VIII amžiais_ , AkMD,\nt. 21, 1966, 127-142 p. — Stankus, J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30597
+    - t-002

@@ -9,10 +9,6 @@ datos:
   - '1422 m.'
 date_start: '1402'
 date_end: '1422'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +16,10 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,8 +42,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 ## Teiginiai
 
 <a id="claim-t-176871"></a>
-- t-001
-  global_id: t-176871
+- t-003
   teiginys: "Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 
 <a id="claim-t-176872"></a>
 - t-002
-  global_id: t-176872
   teiginys: "Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-36622
 
 <a id="claim-t-176873"></a>
-- t-003
-  global_id: t-176873
+- t-001
   teiginys: "Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 
 <a id="claim-t-176874"></a>
 - t-004
-  global_id: t-176874
   teiginys: "Zigmantas Liuksemburgietis stengėsi perimti į savo rankas kryžiuočių ginčą su Lietuva ir Lenkija."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -113,8 +109,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-36627
 
 <a id="claim-t-176875"></a>
-- t-005
-  global_id: t-176875
+- t-013
   teiginys: "Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +126,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-160829
 
 <a id="claim-t-176876"></a>
-- t-006
-  global_id: t-176876
+- t-009
   teiginys: "Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,8 +143,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-160825
 
 <a id="claim-t-176877"></a>
-- t-007
-  global_id: t-176877
+- t-006
   teiginys: "Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -167,8 +160,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-36631
 
 <a id="claim-t-176878"></a>
-- t-008
-  global_id: t-176878
+- t-005
   teiginys: "Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą."
   atnaujinta: "2026-05-31 14:16"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-160825
 
 <a id="claim-t-176882"></a>
-- t-009
-  global_id: t-176882
+- t-011
   teiginys: "Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,8 +194,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-160823
 
 <a id="claim-t-184297"></a>
-- t-010
-  global_id: t-184297
+- t-014
   teiginys: "Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -223,10 +213,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-167670
 
 <a id="claim-t-191005"></a>
-- t-011
-  global_id: t-191005
+- t-015
   teiginys: "Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -245,28 +234,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173887
-    - c-010
 - susijęs iš Breslavas: 1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
-    gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
-    ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
-    ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
-    kariai kartu su kumanais linksminosi2.
-    139
-    Pastabos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191005
 ## Citatos
 
 - id: c-36622
@@ -287,7 +256,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176872
+    - t-002
+
 - id: c-36625
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -311,7 +281,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176871
+    - t-003
+
 - id: c-36627
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -331,7 +302,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176874
+    - t-004
+
 - id: c-36631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -351,7 +323,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176877
+    - t-006
+
 - id: c-160823
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -373,7 +346,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176882
+    - t-011
+
 - id: c-160824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -393,7 +367,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176873
+    - t-001
+
 - id: c-160825
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -409,23 +384,16 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
     Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
     mantą apie tai pasikalbėti.
-  citata_rodoma: |
-    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
-    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
-    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
-    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
-    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
-    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
-    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
-    mantą apie tai pasikalbėti.
+  citata_rodoma: "Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­\nėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­\nmininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­\nvus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­\nčionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą\nir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad\nVytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­\nmantą apie tai pasikalbėti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176876
-    - t-176878
+    - t-009
+    - t-005
+
 - id: c-160829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -440,19 +408,15 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
     vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
     Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
-  citata_rodoma: |
-    Pašauktas jis
-    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
-    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
-    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
-    Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
+  citata_rodoma: "Pašauktas jis\nbuvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­\nžant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­\nvos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo\nRomos imperatorium, nes jis buvo sąjungoj su Ordinu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176875
+    - t-013
+
 - id: c-167670
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -470,20 +434,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184297
+    - t-014
+
 - id: c-173887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tenykščiai kaimiečiai yra originalūs slavai, at­
-    sikėlę iš Rusios kitapus Bugo, o tai įrodo jų kalba, įpročiai
-    ir papročiai. Bet vietinius gyventojus jie pralenkia dvasine
-    kultūra, amatais ir gražesniu kūno sudėjimu. Šiuo at­
-    žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
-    Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
-    1 Leidinyje „Tygodnik Wilenski“ (1817.
-  citata_rodoma: |
     Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
     gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­
     ma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­
@@ -491,13 +448,15 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     kariai kartu su kumanais linksminosi2.
     139
     Pastabos.
+  citata_rodoma: "Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose. Juk žino­\nma, kad 1402 ir 1403 metais Čekijoje, o 1404 metais Mo­\nravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio\nkariai kartu su kumanais linksminosi2.\n139\nPastabos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191005
+    - t-015
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Zigmantas Liuksemburgietis buvo valdovas [[objektai/vietos/Vengrija]]

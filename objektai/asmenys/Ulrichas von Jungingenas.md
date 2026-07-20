@@ -39,8 +39,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 ## Teiginiai
 
 <a id="claim-t-182864"></a>
-- t-001
-  global_id: t-182864
+- t-024
   teiginys: "Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,8 +55,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     - c-166268
 
 <a id="claim-t-184285"></a>
-- t-002
-  global_id: t-184285
+- t-025
   teiginys: "Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     - c-167661
 
 <a id="claim-t-184286"></a>
-- t-003
-  global_id: t-184286
+- t-026
   teiginys: "Ulrichas von Jungingenas nukrito nuo arklio ir mirė."
   atnaujinta: "2026-05-31 17:12"
   sprendimo_priezastis: "auto"
@@ -127,17 +124,15 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
     Nuo Torno Drevencos krantu iki Loebau (VII.
-  citata_rodoma: |
-    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
-    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
-    Nuo Torno Drevencos krantu iki Loebau (VII.
+  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182864
+    - t-024
+
 - id: c-167661
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,7 +150,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184285
+    - t-025
+
 - id: c-167662
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -174,4 +170,4 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184286
+    - t-026

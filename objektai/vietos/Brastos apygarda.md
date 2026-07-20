@@ -31,7 +31,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 <a id="claim-t-193271"></a>
 - t-001
-  global_id: t-193271
   teiginys: "I Gardino apygardoj apygardėlinių mokyklų buvo šiose vietose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje, ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cholopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193271
+    - t-001

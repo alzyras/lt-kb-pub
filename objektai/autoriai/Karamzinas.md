@@ -30,8 +30,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 ## Teiginiai
 
 <a id="claim-t-55009"></a>
-- t-001
-  global_id: t-55009
+- t-002
   teiginys: "Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -48,8 +47,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
     - c-55574
 
 <a id="claim-t-81928"></a>
-- t-002
-  global_id: t-81928
+- t-003
   teiginys: "Karamzinas Mindaugo kilmės įrodymus laikė visiškais paistalais, nebent būtų priimtos didelės chronologinės klaidos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -65,8 +63,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
     - c-78452
 
 <a id="claim-t-190750"></a>
-- t-003
-  global_id: t-190750
+- t-004
   teiginys: "Narbutas Karamziną priskiria mokslininkams, Ezechielio žodį Ross arba Russ aiškinusiems perkeltine galvos ar svarbiausio dalyko prasme."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,8 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55009
+    - t-002
+
 - id: c-78452
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,7 +135,8 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81928
+    - t-003
+
 - id: c-173632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -161,4 +160,4 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190750
+    - t-004

@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-100209"></a>
 - t-001
-  global_id: t-100209
   teiginys: "A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,12 +57,11 @@ media_all_json: |-
     — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
     sek. p. — (”) _Ko bėgo Kęstučio sūnus iš Lietuvos,_ Židinys, 1932, nr. 12,
     449-457 p. — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99.
-  citata_rodoma: |
-    — Salys, A. : _Kęstučio vardas,_ LE, t. 11, 405-407 p.
+  citata_rodoma: "— Salys, A. : _Kęstučio vardas,_ LE, t. 11, 405-407 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100209
+    - t-001

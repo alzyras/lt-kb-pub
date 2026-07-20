@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189826"></a>
 - t-001
-  global_id: t-189826
   teiginys: "Narbutas rašo, kad lietuviai turėjo dievams paskirtų kalnų, bet jam nebuvo žinoma lietuviškų pasakojimų apie Plikąjį kalną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-194622"></a>
 - t-002
-  global_id: t-194622
   teiginys: "II skyrius ŠVENTOSIOS VIETOS Šventieji kalnai, Kalnas Iš seniausios istorijos žinoma, kad senovės tautos atnašau davo dievams aukas ant aukštumų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Nenurodyta
 
 <a id="claim-t-197249"></a>
 - t-003
-  global_id: t-197249
   teiginys: "Pirmieji misionieriai - pran ciškonai ant jo pastatė tris kryžius, kaip savo misijos ženklą; 1365 metais septyni iš jų buvo ant to kalno nukryžiuoti ir nu mesti į Vilnią."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189826
+    - t-001
+
 - id: c-177021
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -143,5 +141,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194622
-    - t-197249
+    - t-002
+    - t-003

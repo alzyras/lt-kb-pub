@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-39829"></a>
 - t-001
-  global_id: t-39829
   teiginys: "1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ media_all_json: |-
 
 <a id="claim-t-183771"></a>
 - t-002
-  global_id: t-183771
   teiginys: "1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39829
+    - t-001
+
 - id: c-167159
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -99,4 +98,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183771
+    - t-002

@@ -40,7 +40,6 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
 
 <a id="claim-t-19036"></a>
 - t-001
-  global_id: t-19036
   teiginys: "1918 m. lapkričio 2 d. Justinas Staugaitis buvo vienas iš dviejų Tarybos prezidiumo vicepirmininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,12 +78,11 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
     ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
     kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
     drauge su ministrų kabinetu sudarė vykdomąją valdžią.
-  citata_rodoma: |
-    kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
+  citata_rodoma: "kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19036
+    - t-001

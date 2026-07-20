@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-31892"></a>
 - t-001
-  global_id: t-31892
   teiginys: "„Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,16 +74,11 @@ media_all_json: |-
     kijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­
     moms », LASD, t. 8, 1974, 399-423 p. —- Romas J. Misiūnas,
     be kitų studijų, išsp.
-  citata_rodoma: |
-    ; «Pradinis švietimas Lietuvoje iki
-    trečiojo padalinimo (1795 m.) », Lietuvių TaPr, III, 1 (9), 1971,
-    63-134 p. (su dokumentais ir plačia bibliogr.); «Lietuvos ir Len­
-    kijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­
-    moms », LASD, t.
+  citata_rodoma: "; «Pradinis švietimas Lietuvoje iki\ntrečiojo padalinimo (1795 m.) », Lietuvių TaPr, III, 1 (9), 1971,\n63-134 p. (su dokumentais ir plačia bibliogr.); «Lietuvos ir Len­\nkijos edukacinė komisija ir jos įtaka kitų kraštų švietimo siste­\nmoms », LASD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31892
+    - t-001

@@ -33,7 +33,6 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
 
 <a id="claim-t-41881"></a>
 - t-001
-  global_id: t-41881
   teiginys: "Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
     - c-45192
 
 <a id="claim-t-41882"></a>
-- t-002
-  global_id: t-41882
+- t-003
   teiginys: "V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
     - c-43599
 
 <a id="claim-t-183793"></a>
-- t-003
-  global_id: t-183793
+- t-004
   teiginys: "Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
     - c-167179
 
 <a id="claim-t-193776"></a>
-- t-004
-  global_id: t-193776
+- t-005
   teiginys: "Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur įsitvirtinti."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193776
+    - t-005
+
 - id: c-43599
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -160,7 +157,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41882
+    - t-003
+
 - id: c-45192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -173,23 +171,16 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
     persikėlė į dešinįjį Dniepro krantą ir pa-
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d.
-  citata_rodoma: |
-    Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d.
+    Galiausiai apie liepos 20-22 d. jie sustojo.
+  citata_rodoma: "Jodami stepėmis tarp\nLietuvos ir Maskvos valdų jie kasdien su-\nkardavo maždaug po 25 km ir per 50 dienų\nįveikė apie 900 km atstumą. Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41881
+    - t-001
+
 - id: c-167179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,6 +201,7 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183793
+    - t-004
+
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/J. Radvila]]

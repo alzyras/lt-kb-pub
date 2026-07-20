@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-40705"></a>
 - t-001
-  global_id: t-40705
   teiginys: "Dujokaukės buvo gautos iš Vilniaus miesto tarybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,26 +95,11 @@ Nenurodyta
 
     1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
     tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
-  citata_rodoma: |
-    Benzinas padegamiesiems
-    mišiniams buvo suaukotas eilinių Lietuvos
-    gyventojų. Maistą taip pat aukojo gyventojai
-    ir maitinimo įmonės. Statybines medžiagas
-    įtvirtinimų statybai tiekė įvairios statybinės
-    organizacijos. Statybininkų šalmai ir du-
-    jokaukės - gautos Vilniaus miesto tarybos | |
-
-    Lietuvos atsikurimas
-
-    ## Puslapis 258
-
-    KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI
-
-    1947 m.
+  citata_rodoma: "Benzinas padegamiesiems\nmišiniams buvo suaukotas eilinių Lietuvos\ngyventojų. Maistą taip pat aukojo gyventojai\nir maitinimo įmonės. Statybines medžiagas\nįtvirtinimų statybai tiekė įvairios statybinės\norganizacijos. Statybininkų šalmai ir du-\njokaukės - gautos Vilniaus miesto tarybos | |\n\nLietuvos atsikurimas\n\n## Puslapis 258\n\nKALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI\n\n1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40705
+    - t-001

@@ -38,7 +38,6 @@ Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, a
 
 <a id="claim-t-190182"></a>
 - t-001
-  global_id: t-190182
   teiginys: "Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190182
+    - t-001

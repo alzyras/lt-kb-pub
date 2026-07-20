@@ -8,10 +8,10 @@ datos:
   - '1634 m.'
 date_start: '1603'
 date_end: '1634'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 
 
 <a id="claim-t-201721"></a>
 - t-001
-  global_id: t-201721
   teiginys: "Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 ir 1624 m. - bernardinų vienuolynas ir jų Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201721
+    - t-001

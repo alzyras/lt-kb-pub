@@ -31,7 +31,6 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
 
 <a id="claim-t-185411"></a>
 - t-001
-  global_id: t-185411
   teiginys: "Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,32 +47,7 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168772
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Patyręs
-    Lenkijoje visokiausių nemalonumų, Augustas tikėjosi
-    susilaukti Lietuvoje didesnio prielankumo. Vis dėlto
-    ir ten jo laukė visokios negerovės: pasipylė skundai,
-    žmonės reiškė nepasitenkinimą, maištavo. Nedaug be­
-    trūko, kad Lietuva būtų visiškai jo išsižadėjusi: didikai
-    nuo jo nusigręžė, sakydamiesi šitai darą iš skausmo,
-    kad teršiamas karališkasis kraujas, o po teisybei ■— iš
-    neapykantos Radvilų šeimai; rodėsi, jog rengiasi grieb­
-    tis ginklo ir jėga siekti to, ko neįstengia nei prašymais,
-    nei raginimais.
-    Aprimo šis sambrūzdis, kai atėjo žinia apie Žygi­
-    manto mirtį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185411
+
 ## Citatos
 
 - id: c-168772
@@ -81,30 +55,6 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Apmaldęs lenkus, Augustas jautėsi saugesnis, be to,
-    susituokęs, kaip dera tikram
-    P u olam a
-    A u g u sto
-    krikščioniui, liovėsi nuogąs-
-    sa n tu o k a
-    su
-    R a d vi-
-    tavęs, kad nusikalsta tikėji-
-    la ite
-    mui, todėl gyveno ramiau nei
-    kada anksčiau. Kurie nežino­
-    jo paslapties, tie suskato apkalbinėti: mat žmonės pa­
-    prastai linkę viską juodinti. Augustas, baimindamasis,
-    kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš
-    kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai
-    aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą
-    nepykti bei pritarti jų santuokai, be kurios negalėjęs
-    gyventi. Ši kalba smarkiai užgavo karaliui širdį. Su­
-    vokęs, jog visos ydos, kurių nestigo Augustui jaunys­
-    tėje, dabar peržengė bet kokias ribas, karalius įniršo
-    ant sūnaus ir apskundė jį motinai, kuri, moteriškai ro­
-    dydama pyktį, dar labiau pakurstė karaliaus rūstybę.
-  citata_rodoma: |
     Patyręs
     Lenkijoje visokiausių nemalonumų, Augustas tikėjosi
     susilaukti Lietuvoje didesnio prielankumo. Vis dėlto
@@ -118,10 +68,11 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
     nei raginimais.
     Aprimo šis sambrūzdis, kai atėjo žinia apie Žygi­
     manto mirtį.
+  citata_rodoma: "Patyręs\nLenkijoje visokiausių nemalonumų, Augustas tikėjosi\nsusilaukti Lietuvoje didesnio prielankumo. Vis dėlto\nir ten jo laukė visokios negerovės: pasipylė skundai,\nžmonės reiškė nepasitenkinimą, maištavo. Nedaug be­\ntrūko, kad Lietuva būtų visiškai jo išsižadėjusi: didikai\nnuo jo nusigręžė, sakydamiesi šitai darą iš skausmo,\nkad teršiamas karališkasis kraujas, o po teisybei ■— iš\nneapykantos Radvilų šeimai; rodėsi, jog rengiasi grieb­\ntis ginklo ir jėga siekti to, ko neįstengia nei prašymais,\nnei raginimais.\nAprimo šis sambrūzdis, kai atėjo žinia apie Žygi­\nmanto mirtį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185411
+    - t-001

@@ -32,25 +32,10 @@ media_all_json: |-
 
 Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kazimieras lydėjo Steponą iki Sniatino.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187332"></a>
-- t-001
-  global_id: t-187332
-  teiginys: 'Sniatinas lokalizuojamas į rytus nuo Kolomyjos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys tiksliai perteikia citatoje nurodytą Sniatino lokalizaciją.'
-  susije_objektai: 'mentioned_place: Kolomyja; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
-  pagrindžia:
-    - c-170359
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.
-## Citatos
-
-- id: c-170359
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ”  Vaivada Steponas perdavė karaliui Kazimierui didele Sil­
     kine valiavę su Moldavijos herbu, o jo  palydovai suguldė an t ic-
@@ -61,11 +46,13 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
     a  A pie rugsėjo 24 d., palydėjęs M oldavijos vaivadų Steponų
     ligi Sniatino (j rytus nuo Kolomyjos), Kazimieras davė jam  3000
     algininkų daliuj.
-  citata_rodoma: "a  A pie rugsėjo 24 d., palydėjęs M oldavijos vaivadų Steponų \nligi Sniatino (j rytus nuo Kolomyjos), Kazimieras davė jam  3000 \nalgininkų daliuj."
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187332
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
+- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.

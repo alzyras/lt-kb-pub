@@ -32,7 +32,6 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
 
 <a id="claim-t-86585"></a>
 - t-001
-  global_id: t-86585
   teiginys: "Cesijos ar decesijos būdu dominijos nuosavybę įgiję žmonės turėjo prisiimti ankstesnių savininkų mokėtas duokles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,31 +77,11 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
     nostram profitentibus acquirunt, eadem onera sustineant, in
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
-  citata_rodoma: |
-    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
-    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
-    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
-    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
-    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
-    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
-    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
-    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
-    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
-    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
-    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
-    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
-    401
-
-    ## Puslapis 418
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    nostram profitentibus acquirunt, eadem onera sustineant, in
-    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
-    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  citata_rodoma: "Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­\nnešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­\nse gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­\nsybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo \nžmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­\nkėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų \nir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos, \nir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime, \nkad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar \ntotoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­\nžįstančių valdinių cesijos ar decesijos būdu, sudarydami \nkontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,\n401\n\n## Puslapis 418\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nnostram profitentibus acquirunt, eadem onera sustineant, in \npossessionibus acquisitis vėl acquirendis, quae sustinuerunt \nii, a quibus eas acquisiverunt, aut acquisituri sunt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86585
+    - t-001

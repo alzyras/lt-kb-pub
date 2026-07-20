@@ -30,7 +30,6 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
 
 <a id="claim-t-32800"></a>
 - t-001
-  global_id: t-32800
   teiginys: "Vytautas liepė nukirsdinti Jogailos jam perduotą asmenį, o dauguma kitų belaisvių buvo paleisti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,14 +55,11 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
     dimą per derybas Vytautas buvo paėmęs širdin. Kai Jogaila jį
     perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­
     guma belaisvių, ypač algauninkai, buvo paleisti.
-  citata_rodoma: |
-    Kai Jogaila jį
-    perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­
-    guma belaisvių, ypač algauninkai, buvo paleisti.
+  citata_rodoma: "Kai Jogaila jį\nperdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti. Dau­\nguma belaisvių, ypač algauninkai, buvo paleisti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32800
+    - t-001

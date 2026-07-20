@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-39170"></a>
 - t-001
-  global_id: t-39170
   teiginys: "Durtuvų atakos metu batalionams nebebuvo būtina persirikiuoti į liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-39171"></a>
 - t-002
-  global_id: t-39171
   teiginys: "Dvylika žvalgų, susidūrę su keturiasdešimt lenkų raitelių, susispaudė į krūvą, atstatė durtuvus ir laukė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-39172"></a>
 - t-003
-  global_id: t-39172
   teiginys: "Žvalgas, lenkui priartėjus, pašoko ir atkišo durtuvą jam į panosę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39171
+    - t-002
+
 - id: c-40975
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -124,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39170
+    - t-001
+
 - id: c-40976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39172
+    - t-003

@@ -37,7 +37,6 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
 
 <a id="claim-t-38563"></a>
 - t-001
-  global_id: t-38563
   teiginys: "1945 m. birželio 27 d. Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38563
+    - t-001
+
 ## Ryšiai
 - Puolė Trakiniai: [[objektai/grupes/NKVD]]

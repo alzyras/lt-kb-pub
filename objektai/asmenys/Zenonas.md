@@ -41,7 +41,6 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 
 <a id="claim-t-35392"></a>
 - t-001
-  global_id: t-35392
   teiginys: "Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 
 <a id="claim-t-191001"></a>
 - t-002
-  global_id: t-191001
   teiginys: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,10 +80,9 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173883
-    - c-002
+
 <a id="claim-t-197845"></a>
 - t-003
-  global_id: t-197845
   teiginys: "Nors Teodorikas gerai perprato ketinimus visuomet klastingo Zenono, kuris jau seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti ninko; tačiau tuomet Teodorikas nesileido sukurstomas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -127,8 +124,7 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191001
+
 ## Citatos
 
 - id: c-38168
@@ -145,18 +141,15 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
     bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
-  citata_rodoma: |
-    Popiežiaus
-    pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,
-    bet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­
-    limo, 1422 m.
+  citata_rodoma: "Popiežiaus\npasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti,\nbet neįstengė. Vytautas ir Jogaila, nelaukdami Ordino užpuo­\nlimo, 1422 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35392
+    - t-001
+
 - id: c-173883
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -178,25 +171,12 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
     skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
     ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
     klausė Mezijoje.
-  citata_rodoma: |
-    Galop jis slapta susitarė su Teodo-
-    riku, pasikliaudamas pažadais, o gal vildamasis sukelti
-    barbarų valdovų tarpusavio karą; abiem šalims nusilpus,
-    atsirastų proga pašalinti juos abu, be to, jis leido ostro-
-    gotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai
-    perprato ketinimus visuomet klastingo Zenono, kuris jau
-    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
-    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
-    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
-    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
-    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
-    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
-    klausė Mezijoje.
+  citata_rodoma: "Galop jis slapta susitarė su Teodo- \nriku, pasikliaudamas pažadais, o gal vildamasis sukelti \nbarbarų valdovų tarpusavio karą; abiem šalims nusilpus, \natsirastų proga pašalinti juos abu, be to, jis leido ostro- \ngotams grobti ir Romą, ir Italiją. Nors Teodorikas gerai \nperprato ketinimus visuomet klastingo Zenono, kuris jau \nseniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po \nNepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­\nninko; tačiau tuomet Teodorikas nesileido sukurstomas. \nBet dabartinėmis aplinkybėmis surengti Italijos žygį pa­\nskatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas \nir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­\nklausė Mezijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191001
-    - t-197845
+    - t-002
+    - t-003

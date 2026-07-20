@@ -30,7 +30,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 
 <a id="claim-t-192883"></a>
 - t-001
-  global_id: t-192883
   teiginys: "Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175653
-    - c-001
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191131|Pitėjas Masilietis]]: Pitėjas Masilietis, Masilijos astronomas ir jūrų keliautojas, apie 340 m. pr. Kr. išplaukė iš Masilijos uosto į Atlanto vandenyną.
 - susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191547|Pitėjas]]: Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
@@ -61,25 +59,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 - susijęs iš [[objektai/ivykiai/Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus.md#claim-t-191021|Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus]]: 340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas.
 - susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
 - susijęs iš Galija: Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Siaurės sagose daug žinių apie
-    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
-    žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
-    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
-    50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
-    kaip įgalima numanyti, buvo patogesnis už jūros kelią,
-    kuris ėjo pro šv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192883
 ## Citatos
 
 - id: c-175653
@@ -87,21 +66,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Prūsų istoriko3 aprašytas sausumos kelias buvo toks:
-    jis prasidėjo nuo Pabaltijo teutonų krašto prie Ascaulis,
-    t. y. dabar Oselskas netoli Brombergo, iš Pavyslės ėjo į
-    lygų kraštą pro vietovę, vadinamą Setidawa, t. y. Cidova
-    netoli Gnezno, iš ten per Calissia, Kališą, rytų link į Arse-
-    nium, Maženiną, Seradzo apylinkėse, toliau palei Vartą
-    per būrų valdas į Carthodunum, t. y. Krokuvą4. Čia kelias
-    driekėsi per Vyslą j sidonų ir ¡bastarnų žemes net iki vie­
-    tos, vadinamos Asanea, t. y. Senojo Sondčo, o čia preky­
-    bos kelias suko nuo Asanea į Setuįa, Gzychą, toliau upės
-    Waag kryptimi per Sigone, Sintovą, net iki Catemantia,
-    Comolijano, iš ten į Carnuntum, žinomą romėnų karinę
-    poziciją prie Dunojaus. Pagaliau ten šiaurinės prekės iš
-    barbarų rankų patekdavo pas romėnus5.
-  citata_rodoma: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
     žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
@@ -109,10 +73,11 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
     50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,
     kaip įgalima numanyti, buvo patogesnis už jūros kelią,
     kuris ėjo pro šv.
+  citata_rodoma: "Siaurės sagose daug žinių apie\njurų keliautojus, nuo senų amžių garsėjusius savo drąsiais\nžygiais. Taip mūsų kraštų prekės lengvai patekdavo arba\nį Tartesą, arba prie Galijos krantų, o per Galiją arkliais\n50 dienų būdavo gabenamos į Masiliją2. Gal šis kelias,\nkaip įgalima numanyti, buvo patogesnis už jūros kelią,\nkuris ėjo pro šv."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192883
+    - t-001

@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Raimundas Lopata
 
 ## Santrauka
@@ -37,31 +38,19 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 
 - Lietuvos valstybingumo raida 1914–1918 metais
 
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/redaktorius]]
+
+### Laikotarpiai
+- XX amžius
+- XXI amžius
+
 ## Teiginiai
 
-<a id="claim-t-23254"></a>
-- t-001
-  global_id: t-23254
-  teiginys: "Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raimundas Lopata: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raimundas Lopata\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretesnį, gramatišką teiginį apie asmens veiklos sritį."
-  pagrindžia:
-    - c-65427
-
 <a id="claim-t-23255"></a>
-- t-002
-  global_id: t-23255
+- t-003
   teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,15 +83,15 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: |
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23255
+    - t-003
+
 - id: c-65427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,12 +116,9 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: |
-    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
+  citata_rodoma: "jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-23254

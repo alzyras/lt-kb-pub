@@ -31,7 +31,6 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 
 <a id="claim-t-42087"></a>
 - t-001
-  global_id: t-42087
   teiginys: "Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 
 <a id="claim-t-42088"></a>
 - t-002
-  global_id: t-42088
   teiginys: "Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,19 +77,15 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
     tinės vadui vokiečių priskirtoms pajėgoms
     remiant žygiuoti Panevėžio link ir atakuoti
     bolševikų pajėgas.
-  citata_rodoma: |
-    Rinktinės pajėgos gegužės 13 d.
-    susitelkė Krekenavos-Ramygalos rajo-
-    nuose. Vyriausiasis kariuomenės vadas
-
-    gen.
+  citata_rodoma: "Rinktinės pajėgos gegužės 13 d.\nsusitelkė Krekenavos-Ramygalos rajo-\nnuose. Vyriausiasis kariuomenės vadas\n\ngen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42087
+    - t-001
+
 - id: c-45302
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -105,14 +99,11 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
     Kiekviena kolona turėjo užsitikrinti
     šonines saugas ir palaikyti tarpusa-
     vio ryšį bei ryšį su rinktinės štabu.
-  citata_rodoma: |
-    turėjo būti:
-    2val. - Ramygaloje, 4 val. vykti į šiaurę
-    vieškeliu Ramygala-Panevėžys.
+  citata_rodoma: "turėjo būti:\n2val. - Ramygaloje, 4 val. vykti į šiaurę\nvieškeliu Ramygala-Panevėžys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42088
+    - t-002

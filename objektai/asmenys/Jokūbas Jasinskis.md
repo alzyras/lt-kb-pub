@@ -39,8 +39,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 ## Teiginiai
 
 <a id="claim-t-63708"></a>
-- t-001
-  global_id: t-63708
+- t-003
   teiginys: "Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     - c-42007
 
 <a id="claim-t-63710"></a>
-- t-002
-  global_id: t-63710
+- t-001
   teiginys: "1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     - c-21731
 
 <a id="claim-t-63711"></a>
-- t-003
-  global_id: t-63711
+- t-002
   teiginys: "Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 
 <a id="claim-t-193759"></a>
 - t-004
-  global_id: t-193759
   teiginys: "Gindamas Varšuvą žuvo buvęs Lietuvos sukilėlių vadas Jokūbas Jasinskis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -122,16 +118,15 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
     Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
     liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
-  citata_rodoma: |
-    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
-    liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
+  citata_rodoma: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-\nliuose, sukilėlių vadu tapo Jokūbas Jasinskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63710
+    - t-001
+
 - id: c-21732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,17 +138,15 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
     T. Korsakas.
-  citata_rodoma: |
-    Ginant Varšuvą žuvo Lietuvos suki-
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-    T. Korsakas.
+  citata_rodoma: "Ginant Varšuvą žuvo Lietuvos suki-\nlėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius\nT. Korsakas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63711
+    - t-002
+
 - id: c-42007
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,7 +176,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63708
+    - t-003
+
 - id: c-176417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,6 +196,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193759
+    - t-004
+
 ## Ryšiai
 - Jokūbas Jasinskis mirė [[objektai/vietos/Varšuva]]

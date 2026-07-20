@@ -37,7 +37,6 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 
 <a id="claim-t-32581"></a>
 - t-001
-  global_id: t-32581
   teiginys: "Kryžiuočiams nepavyko paimti į šiaurę nuo Žagarės buvusios žiemgalių pilies Tervetės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,19 +75,14 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
     puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
     prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
     nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
-  citata_rodoma: |
-    Kai kryžiuočiams
-    nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,
-    jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,
-    puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
-    prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
-    nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
+  citata_rodoma: "Kai kryžiuočiams\nnepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,\njie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,\npuolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus\nprie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­\nnėjo nykstančią ir maisto trūkstančią vokiečių įgulą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32581
+    - t-001
+
 ## Ryšiai
 - Užėmė Tervetę: [[objektai/grupes/Žiemgaliai]]

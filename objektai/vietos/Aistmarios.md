@@ -42,10 +42,9 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 ## Teiginiai
 
 <a id="claim-t-97718"></a>
-- t-001
-  global_id: t-97718
+- t-014
   teiginys: "Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Semba: 0.57"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,10 +60,9 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   temporalinis_llm_pakomentavimas: "Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto."
   pagrindžia:
     - c-92170
-    - c-002
+
 <a id="claim-t-97721"></a>
-- t-002
-  global_id: t-97721
+- t-015
   teiginys: "Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +116,7 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-97718
+
 ## Citatos
 
 - id: c-92163
@@ -135,47 +132,30 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
-  citata_rodoma: |
-    , buvo reikalaujama, kad kryžiuo­
-    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
-    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
-    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
-    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
-    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
-    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
-    Aistmarių.
+  citata_rodoma: ", buvo reikalaujama, kad kryžiuo­\nčių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­\nliaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau\npažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,\nsiena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai\npaliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės\nkrantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki\nAistmarių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97721
+    - t-015
+
 - id: c-92170
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
-    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
-    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
-    137 (132). Apie atskirų Prūsijos žemės pilių bei miestų kovas per antrąją atskatūnybę,
-    pirmiausia apie Balgą
-    Bendrais bruožais aprašius karus, vykusius antrosios atskalūnybės metais, reikia
-    papasakoti ir apie kiekvienos pilies bei kiekvieno Prūsijos žemės valsčiaus kovas. Tegu
-    nesijaudina skaitytojas, jeigu kai kurių antrosios atskalūnybės paminėtų ar paminėtinų
-    karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: |
     Jis sugalvojo būdą, kaip  jį pribaigti,
     ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
     Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
 
       409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.
+  citata_rodoma: "Jis sugalvojo būdą, kaip  jį pribaigti,\nir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios\nSembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,\n\n  409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97718
+    - t-014

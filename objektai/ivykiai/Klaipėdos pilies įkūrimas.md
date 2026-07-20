@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-201286"></a>
 - t-001
-  global_id: t-201286
   teiginys: "Taip sukalbėję, 29 liepos mėnesy metuo se 1251 Klaipėdos pilį pamatavo, kurią metams su kankant nubengė ir tenai vyskupas įkūręs bažnyčią paskyrė sau už katedrą, o pilį už buveinę, kaipogi iki šiolei Kuršo vyskupas lindojo Rygoj, jog žem galiai ir kuržemiai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184636
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Darbinykus sutarė abeji iš ly­
     gumo leisti, vyskupas gavo vieną dalį pilės miesto
@@ -96,4 +96,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201286
+    - t-001

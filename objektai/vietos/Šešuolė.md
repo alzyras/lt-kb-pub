@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-42360"></a>
 - t-001
-  global_id: t-42360
   teiginys: "Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     traukti į Šešuolės- Virintos upių liniją.
     Lietuvių pajėgos ėmė rengtis kontr-
     puolimui.
-  citata_rodoma: |
-    Giedraičius gynęs
-    2-asis pulkas buvo priverstas atsi-
-    traukti į Šešuolės- Virintos upių liniją.
-    Lietuvių pajėgos ėmė rengtis kontr-
-    puolimui.
+  citata_rodoma: "Giedraičius gynęs\n2-asis pulkas buvo priverstas atsi-\ntraukti į Šešuolės- Virintos upių liniją.\nLietuvių pajėgos ėmė rengtis kontr-\npuolimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42360
+    - t-001

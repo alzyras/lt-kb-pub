@@ -7,12 +7,12 @@ datos:
   - '1520 m.'
 date_start: '1520'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202152"></a>
 - t-001
-  global_id: t-202152
   teiginys: "1520 m. Kauno miestietis ir pirklys Simonas Salchemacheris Tome gavo Zygimanto Senojo apsauginį raštą, suteikiant į jam apsaugą prekiaujant Lenkijoje, Lietuvoje, Mazovijoje, Priisijoje ir kituose kraštuose."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202152
+    - t-001

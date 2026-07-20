@@ -31,7 +31,6 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
 
 <a id="claim-t-194826"></a>
 - t-001
-  global_id: t-194826
   teiginys: "Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas, žynys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194826
+    - t-001

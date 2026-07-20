@@ -39,8 +39,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Teiginiai
 
 <a id="claim-t-70027"></a>
-- t-001
-  global_id: t-70027
+- t-004
   teiginys: "Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -54,23 +53,6 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09707
-
-<a id="claim-t-70028"></a>
-- t-002
-  global_id: t-70028
-  teiginys: "Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "medė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"medė\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09705
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,6 +76,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-09705
@@ -102,7 +85,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     - public_note:
-    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
     - vieta_saltinyje: offset: 15692-16003; match: exact
     - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
     - pagrindzia:
@@ -112,16 +95,13 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
         per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
         kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
         buvo medės, arba girios.
-  citata_rodoma: |
-    už tų tyrų, juo į šiaurę einant,
-    buvo medės, arba girios.
+  citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70028
 - id: c-09707
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -135,4 +115,4 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70027
+    - t-004

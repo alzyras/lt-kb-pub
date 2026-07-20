@@ -37,7 +37,6 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 
 <a id="claim-t-86855"></a>
 - t-001
-  global_id: t-86855
   teiginys: "Michałas Balińskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
     Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
     mas"2.
-  citata_rodoma: |
-    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
-    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
-    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
-    mas"2.
+  citata_rodoma: "M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­\nli Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti \nMickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­\nmas\"2."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86855
+    - t-001

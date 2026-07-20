@@ -31,7 +31,6 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
 
 <a id="claim-t-60844"></a>
 - t-001
-  global_id: t-60844
   teiginys: "Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60844
+    - t-001

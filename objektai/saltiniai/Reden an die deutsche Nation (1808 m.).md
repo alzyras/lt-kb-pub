@@ -36,7 +36,6 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
 
 <a id="claim-t-02273"></a>
 - t-001
-  global_id: t-02273
   teiginys: "Fichtė 1808 m. išleido veikalą „Reden an die deutsche Nation“, kuriame aiškiai kėlė tautų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
     Vakaruose prasidėjęs tautiškasis sąjūdis pasiekė ir Lietuvą
     ir bajorijos daugumą paskatino kovoti su rusais dėl savo senųjų
     valstybinių teisių.
-  citata_rodoma: |
-    Tada pirmą
-    kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasis
-    jas aiškiai iškėlė vokiečių filosofas Fichtė, kuris, Napoleonui
-    pavergus Prūsiją, 1808 m. išleido savo veikalą , _,Reden an die
-    deutsche Nation")._
+  citata_rodoma: "Tada pirmą\nkartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasis\njas aiškiai iškėlė vokiečių filosofas Fichtė, kuris, Napoleonui\npavergus Prūsiją, 1808 m. išleido savo veikalą , _,Reden an die\ndeutsche Nation\")._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02273
+    - t-001

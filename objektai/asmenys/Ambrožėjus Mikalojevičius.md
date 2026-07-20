@@ -7,12 +7,12 @@ datos:
   - '1624 m.'
 date_start: '1624'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202136"></a>
 - t-001
-  global_id: t-202136
   teiginys: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos medžiagos kitai vytinei susiginčijo tas pats Kaštela ir Kauno miestietis Greiteris."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202136
+    - t-001

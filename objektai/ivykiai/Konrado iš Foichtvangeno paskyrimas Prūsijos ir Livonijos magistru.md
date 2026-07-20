@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66630"></a>
 - t-001
-  global_id: t-66630
   teiginys: "Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-66631"></a>
 - t-002
-  global_id: t-66631
   teiginys: "Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-66827
 
 <a id="claim-t-194397"></a>
-- t-003
-  global_id: t-194397
+- t-004
   teiginys: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66631
+    - t-002
+
 - id: c-66828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -134,21 +132,12 @@ Nenurodyta
     pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
     494  Žuvo 1279.111.5 prie dab.
-  citata_rodoma: |
-    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
-
-       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
-
-      494  Žuvo 1279.
+  citata_rodoma: "Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais\n\n   Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.\nMirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,\nLivonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių\npasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties\nmetais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,\n\n  494  Žuvo 1279."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66630
-    - t-194397
+    - t-001
+    - t-004

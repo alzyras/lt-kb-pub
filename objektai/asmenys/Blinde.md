@@ -30,7 +30,6 @@ Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių k�
 
 <a id="claim-t-190086"></a>
 - t-001
-  global_id: t-190086
   teiginys: "Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių k�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190086
+    - t-001

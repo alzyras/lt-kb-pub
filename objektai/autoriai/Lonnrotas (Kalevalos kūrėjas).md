@@ -54,7 +54,6 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
 
 <a id="claim-t-195253"></a>
 - t-001
-  global_id: t-195253
   teiginys: "Lonnrotas šiame šaltinyje įvardijamas kaip „Kalevalos“ kūrėjas."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -64,8 +63,7 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     - c-177620
 
 <a id="claim-t-195254"></a>
-- t-002
-  global_id: t-195254
+- t-003
   teiginys: "1895 m. A. R. Niemis rinko žinias apie Lonnrotą, apklausinėdamas žmones ir rinkdamas su juo susijusius laiškus."
   atnaujinta: "2026-07-12 00:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -95,17 +93,15 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją,
     Lonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­
     čiančius laiškus.
-  citata_rodoma: |
-    1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją,
-    Lonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­
-    čiančius laiškus.
+  citata_rodoma: "1895 m. prof. Niemi rinko žinias apie minėtąjį „Kalevalos“ kūrėją, \nLonnrotą; tam, jis yra apklausinėjęs bent 200 žmonių ir rinkęs jį lie­\nčiančius laiškus."
   statusas: verified
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195254
+    - t-003
+
 - id: c-177620
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -117,14 +113,11 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     Matyt, „Kalevala“ ir jos
     kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
     mokslo šaką.
-  citata_rodoma: |
-    Matyt, „Kalevala“ ir jos
-    kūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo
-    mokslo šaką.
+  citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
   statusas: verified
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195253
+    - t-001

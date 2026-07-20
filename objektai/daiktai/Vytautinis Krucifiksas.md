@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200847"></a>
 - t-001
-  global_id: t-200847
   teiginys: "Vytautiniu Krucifiksu vadinamas medinis kryžius su dramblio kaulo Nukryžiuotojo figūra, nors Vorobjovas jį datavo XVII amžiaus pabaiga."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200847
+    - t-001

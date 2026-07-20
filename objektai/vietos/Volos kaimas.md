@@ -31,7 +31,6 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 
 <a id="claim-t-02892"></a>
 - t-001
-  global_id: t-02892
   teiginys: "Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,16 +60,11 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
     Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
     balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
     ciją bajorai vykstą _viritim)._
-  citata_rodoma: |
-    Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-
-    ka: buvo nutarta, kad elekcija turinti įvykti lauke tarp
-    Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
-    balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
-    ciją bajorai vykstą _viritim)._
+  citata_rodoma: "Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-\nka: buvo nutarta, kad elekcija turinti įvykti lauke tarp\nVaršuvos ir Volos kaimo; o elekcijoj dalyvauti ir\nbalsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-\nciją bajorai vykstą _viritim)._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02892
+    - t-001

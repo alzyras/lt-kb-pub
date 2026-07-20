@@ -38,7 +38,6 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
 
 <a id="claim-t-193288"></a>
 - t-001
-  global_id: t-193288
   teiginys: "Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193288
+    - t-001

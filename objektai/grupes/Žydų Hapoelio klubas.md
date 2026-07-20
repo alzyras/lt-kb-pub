@@ -40,7 +40,6 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
 
 <a id="claim-t-75087"></a>
 - t-001
-  global_id: t-75087
   teiginys: "1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +76,11 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
     L I E T U V O S  I S T O R I J A
     170
     nių tautybę.
-  citata_rodoma: |
-    Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti moki-
-    Žydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine
-    gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas)
-
-    L I E T U V O S  I S T O R I J A
-    170
-    nių tautybę.
+  citata_rodoma: "Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti moki-\nŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine \ngatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas)\n\nL I E T U V O S  I S T O R I J A\n170\nnių tautybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75087
+    - t-001

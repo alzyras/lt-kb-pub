@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75296"></a>
-- t-001
-  global_id: t-75296
+- t-005
   teiginys: "Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-75297"></a>
 - t-002
-  global_id: t-75297
   teiginys: "1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-23263
 
 <a id="claim-t-75298"></a>
-- t-003
-  global_id: t-75298
+- t-004
   teiginys: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ Nenurodyta
     - c-23265
 
 <a id="claim-t-75299"></a>
-- t-004
-  global_id: t-75299
+- t-003
   teiginys: "Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi ir apie 0,5 mln. gyventojų, bet turėjo įsileisti sovietų karines bazes."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -134,8 +130,7 @@ Nenurodyta
     - c-23264
 
 <a id="claim-t-75300"></a>
-- t-005
-  global_id: t-75300
+- t-001
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -167,18 +162,16 @@ Nenurodyta
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: |
-    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
-    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
-    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+  citata_rodoma: "Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio\npagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį\ndėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75296
-    - t-75300
+    - t-005
+    - t-001
+
 - id: c-23263
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,18 +185,15 @@ Nenurodyta
     jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
     V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
     SSRS ir Lietuvos savitarpio pagalbos sutartis.
-  citata_rodoma: |
-    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
-    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
-    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
-    SSRS ir Lietuvos savitarpio pagalbos sutartis.
+  citata_rodoma: "Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija\njau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir\nV. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir\nSSRS ir Lietuvos savitarpio pagalbos sutartis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75297
+    - t-002
+
 - id: c-23264
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -218,17 +208,15 @@ Nenurodyta
     nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
     ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
     teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
-  citata_rodoma: |
-    Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
-    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
-    teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
+  citata_rodoma: "Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi\nir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje\nteritorijos, o už tai turėjo įsileisti karines sovietų bazes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75299
+    - t-003
+
 - id: c-23265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,13 +230,11 @@ Nenurodyta
     Vokietijos už 7,5 mln. aukso dolerių).
     Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
     va prarado neutralios politikos statusą ir dalį suvereniteto.
-  citata_rodoma: |
-    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
-    va prarado neutralios politikos statusą ir dalį suvereniteto.
+  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75298
+    - t-004

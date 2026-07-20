@@ -40,7 +40,6 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 
 <a id="claim-t-35327"></a>
 - t-001
-  global_id: t-35327
   teiginys: "1325 m. Vladislovas Łokietka sudarė sutartį su Gedimino valdoma Lietuva, kurią sutvirtino Aldonos ir Kazimiero jungtuvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,17 +77,11 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
     daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
     Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
     jungtuvės^2 ).
-  citata_rodoma: |
-    Jau tada bekovodamas su Ordinu Lenkų kara­
-    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
-    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
-    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
-    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
-    jungtuvės^2 ).
+  citata_rodoma: "Jau tada bekovodamas su Ordinu Lenkų kara­\nlius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­\nžiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­\ndaryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir\nVladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)\njungtuvės^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35327
+    - t-001

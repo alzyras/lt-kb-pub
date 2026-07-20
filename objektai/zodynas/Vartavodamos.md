@@ -41,26 +41,8 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
-<a id="claim-t-07753"></a>
-- t-001
-  global_id: t-07753
-  teiginys: "`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant."
-  atnaujinta: "2026-05-20 21:56"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vartavodamos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vartavodamos\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09664
-
 <a id="claim-t-07754"></a>
-- t-002
-  global_id: t-07754
+- t-004
   teiginys: "Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,19 +65,14 @@ Papildomos aiškios formos neišskirtos.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
-    vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
-    pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
-    upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti
-  citata_rodoma: |
-    Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
-    vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
-    pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
-    upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti
+        vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
+        pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
+        upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti.
+  citata_rodoma: "Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais\nvartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą\npažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją\nupę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07753
-    - t-07754
+    - t-004

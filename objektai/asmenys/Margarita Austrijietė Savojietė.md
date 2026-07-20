@@ -28,7 +28,6 @@ Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičia
 
 <a id="claim-t-200870"></a>
 - t-001
-  global_id: t-200870
   teiginys: "Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200870
+    - t-001

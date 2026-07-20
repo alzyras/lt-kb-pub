@@ -31,7 +31,6 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
 
 <a id="claim-t-39044"></a>
 - t-001
-  global_id: t-39044
   teiginys: "Bolševikų ugniai nutilus, pasakotojas svarstė, kad jie arba išmovė pas Abraomą, arba išbaigė šovinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39044
+    - t-001

@@ -39,8 +39,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 ## Teiginiai
 
 <a id="claim-t-182869"></a>
-- t-001
-  global_id: t-182869
+- t-013
   teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
     - c-166273
 
 <a id="claim-t-193186"></a>
-- t-002
-  global_id: t-193186
+- t-014
   teiginys: "Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -83,19 +81,15 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
     Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
     kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
-  citata_rodoma: |
-    Iš Juodojoje Rusijoje užimtųjų sričių Min­
-    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
-    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
-    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
-    garduko » pasistatė vienuolyną ir ten atgailavo^63.
+  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182869
+    - t-013
+
 - id: c-175930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,4 +110,4 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193186
+    - t-014

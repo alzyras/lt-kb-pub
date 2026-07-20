@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185889"></a>
 - t-001
-  global_id: t-185889
   teiginys: "Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-185890"></a>
 - t-002
-  global_id: t-185890
   teiginys: "Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -111,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185889
+    - t-001
+
 - id: c-169251
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -132,4 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185890
+    - t-002

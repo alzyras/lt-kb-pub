@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-54312"></a>
 - t-001
-  global_id: t-54312
   teiginys: "Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-54313"></a>
 - t-002
-  global_id: t-54313
   teiginys: "1009 m. šv. Brunonas Bonifacijus Lietuvoje rado „karalių“ Netimerą, kuris įtikėjo ir krikštijosi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -105,17 +103,12 @@ Nenurodyta
     kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: |
-    1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
-    giau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą,
-    kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
-    su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
-    kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
+  citata_rodoma: "1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-\ngiau – šv. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, \nkuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs \nsu krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri \nkildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54312
-    - t-54313
+    - t-001
+    - t-002

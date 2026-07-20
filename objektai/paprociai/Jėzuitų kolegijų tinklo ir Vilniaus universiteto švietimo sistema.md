@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-77950"></a>
 - t-001
-  global_id: t-77950
   teiginys: "1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,4 +101,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77950
+    - t-001

@@ -34,7 +34,6 @@ Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Ber
 
 <a id="claim-t-200827"></a>
 - t-001
-  global_id: t-200827
   teiginys: "Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Bernardinų bažnyčios statyba užsitęsė iki XVI a. pabaigos."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Ber
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200827
+    - t-001

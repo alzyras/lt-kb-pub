@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-40085"></a>
 - t-001
-  global_id: t-40085
   teiginys: "Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,6 +58,7 @@ media_all_json: |-
   pagrindžia:
     - c-44318
     - c-167122
+
 ## Citatos
 
 - id: c-44318
@@ -78,28 +78,16 @@ media_all_json: |-
     Siekdamas neprarasti pozicijų rytuose
     (nors tuo metu vyko sunki kova su kry-
     žiuočiais prie Nemuno vidupio), Algirdas
-    1368 m.
-  citata_rodoma: |
-    Žygių išvakarėse
-
-    Maskvos didysis kunigaikštis Dmitrijus
-    Ivanovičius, siekdamas plėsti savo valdžią,
-    remiamas Ordos, puolė Tverę. Jos kuni-
-    gaikštis Michailas Aleksandrovičius pa-
-    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
-    (jo žmona Julijona Tverietė) prašė „pagal-
-    bos ir apginti“, kvietė žygiuoti į Maskvą.
-    Siekdamas neprarasti pozicijų rytuose
-    (nors tuo metu vyko sunki kova su kry-
-    žiuočiais prie Nemuno vidupio), Algirdas
-    1368 m.
+    1368 m. rudenį ryžosi smogti Maskvai.
+  citata_rodoma: "Žygių išvakarėse\n\nMaskvos didysis kunigaikštis Dmitrijus\nIvanovičius, siekdamas plėsti savo valdžią,\nremiamas Ordos, puolė Tverę. Jos kuni-\ngaikštis Michailas Aleksandrovičius pa-\nbėgo į Lietuvą ir Lietuvos valdovo Algirdo\n(jo žmona Julijona Tverietė) prašė „pagal-\nbos ir apginti“, kvietė žygiuoti į Maskvą.\nSiekdamas neprarasti pozicijų rytuose\n(nors tuo metu vyko sunki kova su kry-\nžiuočiais prie Nemuno vidupio), Algirdas\n1368 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40085
+    - t-001
+
 - id: c-167122
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -126,6 +114,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Dmitrijus Ivanovičius puolė [[objektai/vietos/Tverė]]

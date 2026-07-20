@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-86983"></a>
 - t-001
-  global_id: t-86983
   teiginys: "Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-82964
 
 <a id="claim-t-86984"></a>
-- t-002
-  global_id: t-86984
+- t-003
   teiginys: "Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Nenurodyta
     - c-82963
 
 <a id="claim-t-86985"></a>
-- t-003
-  global_id: t-86985
+- t-002
   teiginys: "Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Nenurodyta
     - c-82965
 
 <a id="claim-t-86986"></a>
-- t-004
-  global_id: t-86986
+- t-005
   teiginys: "Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-82966
 
 <a id="claim-t-86987"></a>
-- t-005
-  global_id: t-86987
+- t-006
   teiginys: "Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +139,7 @@ Nenurodyta
     - c-82962
 
 <a id="claim-t-86988"></a>
-- t-006
-  global_id: t-86988
+- t-007
   teiginys: "Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,8 +155,7 @@ Nenurodyta
     - c-82968
 
 <a id="claim-t-86989"></a>
-- t-007
-  global_id: t-86989
+- t-004
   teiginys: "Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -212,7 +205,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86987
+    - t-006
+
 - id: c-82963
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,26 +226,15 @@ Nenurodyta
     sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
     joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
     dami, kad sutiksią paklusti Ordinui.
-  citata_rodoma: |
-    Pakeliui viską versdama
-    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
-    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­
-    la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų
-    66
-
-    ## Puslapis 83
-
-    I  KNYGA
-    sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­
-    joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
-    dami, kad sutiksią paklusti Ordinui.
+  citata_rodoma: "Pakeliui viską versdama \npelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­\nsiryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti. Įgu­\nla gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų\n66\n\n## Puslapis 83\n\nI  KNYGA\nsunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­\njoms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­\ndami, kad sutiksią paklusti Ordinui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86984
+    - t-003
+
 - id: c-82964
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -267,23 +250,15 @@ Nenurodyta
     Vladislavovo pilis - 800 šarvuotų­
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
-  citata_rodoma: |
-    c)
-    Id. Ibid. Capit VIII, p. 51. Martinas
-    Galias pasakoja, kad Poznanė duo­
-    davo 1 300 šarvuotųjų ir 4 000 gin­
-    kluotų skydais, Gnieznas - 1 500
-    šarvuotųjų ir 5 000 pėstininkų;
-    Vladislavovo pilis - 800 šarvuotų­
-    jų, 2 000 su skydais, Gdečas - 300
-    pirmųjų ir 2 000 antrųjų.
+  citata_rodoma: "c)\nId. Ibid. Capit VIII, p. 51. Martinas \nGalias pasakoja, kad Poznanė duo­\ndavo 1 300 šarvuotųjų ir 4 000 gin­\nkluotų skydais, Gnieznas - 1 500 \nšarvuotųjų ir 5 000 pėstininkų; \nVladislavovo pilis - 800 šarvuotų­\njų, 2 000 su skydais, Gdečas - 300 \npirmųjų ir 2 000 antrųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86983
+    - t-001
+
 - id: c-82965
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -326,7 +301,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86985
+    - t-002
+
 - id: c-82966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -357,7 +333,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86986
+    - t-005
+
 - id: c-82967
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -381,7 +358,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86989
+    - t-004
+
 - id: c-82968
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -408,4 +386,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86988
+    - t-007

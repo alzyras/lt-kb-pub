@@ -31,7 +31,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 <a id="claim-t-42117"></a>
 - t-001
-  global_id: t-42117
   teiginys: "Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,19 +119,11 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
     moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
 
     „Štai vieną dieną bažnyčioje visais varpais skambina.
-  citata_rodoma: |
-    Sierakausko nurodymu jie
-
-    : SUKILĖLIŲ PULKAI
-
-    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
-    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
-
-    „Štai vieną dieną bažnyčioje visais varpais skambina.
+  citata_rodoma: "Sierakausko nurodymu jie\n\n: SUKILĖLIŲ PULKAI\n\nIš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios\nmoters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.\n\n„Štai vieną dieną bažnyčioje visais varpais skambina."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42117
+    - t-001

@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59729"></a>
-- t-001
-  global_id: t-59729
+- t-004
   teiginys: "Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-60364
 
 <a id="claim-t-59730"></a>
-- t-002
-  global_id: t-59730
+- t-001
   teiginys: "Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-59731"></a>
 - t-003
-  global_id: t-59731
   teiginys: "Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Nenurodyta
     - c-60363
 
 <a id="claim-t-59732"></a>
-- t-004
-  global_id: t-59732
+- t-002
   teiginys: "Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59730
+    - t-001
+
 - id: c-60362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -156,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59732
+    - t-002
+
 - id: c-60363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,7 +177,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59731
+    - t-003
+
 - id: c-60364
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,4 +195,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59729
+    - t-004

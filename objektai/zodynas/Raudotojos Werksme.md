@@ -31,7 +31,6 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
 
 <a id="claim-t-189136"></a>
 - t-001
-  global_id: t-189136
   teiginys: "Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta, jog jos nuramina vėles."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
 
 <a id="claim-t-189137"></a>
 - t-002
-  global_id: t-189137
   teiginys: "Pasak Narbuto cituojamo Henenbergerio, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos nuolat apraudodavo mirusįjį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189136
+    - t-001
+
 - id: c-172025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -112,4 +111,4 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189137
+    - t-002

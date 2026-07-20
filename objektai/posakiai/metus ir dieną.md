@@ -31,7 +31,6 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
 
 <a id="claim-t-86864"></a>
 - t-001
-  global_id: t-86864
   teiginys: "Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86864
+    - t-001

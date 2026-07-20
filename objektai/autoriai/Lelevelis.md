@@ -40,7 +40,6 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 
 <a id="claim-t-01095"></a>
 - t-001
-  global_id: t-01095
   teiginys: "Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,14 +78,11 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
     gabus istorijos profesorius Lelevelis, kurio paskaitų su-
     sirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
     Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
-  citata_rodoma: |
-    Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir
-    gabus istorijos profesorius Lelevelis, kurio paskaitų su-
-    sirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
+  citata_rodoma: "Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir\ngabus istorijos profesorius Lelevelis, kurio paskaitų su-\nsirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01095
+    - t-001

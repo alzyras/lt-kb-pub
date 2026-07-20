@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-67152"></a>
 - t-001
-  global_id: t-67152
   teiginys: "Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -88,16 +87,11 @@ Nenurodyta
     kams į pagalbą, teisin-
     damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
     kijos sienos.
-  citata_rodoma: |
-    Hetmonas Pa-
-    cas atsisakinėjo eiti len-
-    kams į pagalbą, teisin-
-    damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
-    kijos sienos.
+  citata_rodoma: "Hetmonas Pa-\ncas atsisakinėjo eiti len-\nkams į pagalbą, teisin-\ndamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-\nkijos sienos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67152
+    - t-001

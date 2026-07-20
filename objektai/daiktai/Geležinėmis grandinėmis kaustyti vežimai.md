@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-40714"></a>
 - t-001
-  global_id: t-40714
   teiginys: "Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-40715"></a>
 - t-002
-  global_id: t-40715
   teiginys: "Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40714
+    - t-001
+
 - id: c-44653
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,21 +127,11 @@ Nenurodyta
     rių įkalbėtas nesiduoti priešo paimamas
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
-  citata_rodoma: |
-    Bėgdami Timūr-Kutluko
-    totoriai paėmė gurguolę, vežimus su gele-
-    žinėmis grandinėmis, patrankas, patrankė-
-    les, arbaletus ir daug turto.
-
-    Temstant, kai pralaimėjimas matėsi ne-
-    išvengiamas, prie valdovo buvusių rite-
-    rių įkalbėtas nesiduoti priešo paimamas
-    Vytautas ir jo brolis Žygimantas bėgo,
-    persėsdami nuo žirgo ant žirgo.
+  citata_rodoma: "Bėgdami Timūr-Kutluko\ntotoriai paėmė gurguolę, vežimus su gele-\nžinėmis grandinėmis, patrankas, patrankė-\nles, arbaletus ir daug turto.\n\nTemstant, kai pralaimėjimas matėsi ne-\nišvengiamas, prie valdovo buvusių rite-\nrių įkalbėtas nesiduoti priešo paimamas\nVytautas ir jo brolis Žygimantas bėgo,\npersėsdami nuo žirgo ant žirgo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40715
+    - t-002

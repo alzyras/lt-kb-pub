@@ -41,7 +41,6 @@ Lappo : Litovskij Statut 1588 goda, I t.
 
 <a id="claim-t-31830"></a>
 - t-001
-  global_id: t-31830
   teiginys: "I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,16 +73,11 @@ Lappo : Litovskij Statut 1588 goda, I t.
     baigoje_** **(Praeitis, I, 1930, 94-138 p.) ;** **_Iš vyriausiųjų Lietuvos suvažiavimų
     istorijos XVI a. 1577 metų suvažiavimas Rytų Vilkaviškyje_** **(1932) ;** **_Lietuva
     ir Lenkija po 1569 m.
-  citata_rodoma: |
-    Pažymėtini ukrainiečių rytų apeigų kata-
-    (^143) **I.I. Lappo :** **_Litovskij Statut 1588 goda,_** **I t. I dalis išsp. Kaune
-    1934 ; I t. II dalis 1936 ; II t. - 1938 ; pirmosios yra Įvado knygos, o to­
-    liau tekstas.**
-    (^144) **Pvz.
+  citata_rodoma: "Pažymėtini ukrainiečių rytų apeigų kata-\n(^143) **I.I. Lappo :** **_Litovskij Statut 1588 goda,_** **I t. I dalis išsp. Kaune\n1934 ; I t. II dalis 1936 ; II t. - 1938 ; pirmosios yra Įvado knygos, o to­\nliau tekstas.**\n(^144) **Pvz."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31830
+    - t-001

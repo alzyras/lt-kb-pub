@@ -30,9 +30,8 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
 
 <a id="claim-t-191494"></a>
 - t-001
-  global_id: t-191494
   teiginys: "Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,22 +47,7 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174376
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
-    kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis
-    smeigia ietimi drakoną.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191494
+
 ## Citatos
 
 - id: c-174376
@@ -71,22 +55,14 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    L, 36). Turimas omenyje minėtas T. Volianskio laiš­
-    kas (P. 12).
-    95 /Ten
-    pat,
-    (23)
-    išnaša/
-    Spanheim E. Dissertationes de usu et praestantia numismatum
-    aliquorum.
-  citata_rodoma: |
     Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
     kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis
     smeigia ietimi drakoną.
+  citata_rodoma: "Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­\nkokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis\nsmeigia ietimi drakoną."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191494
+    - t-001

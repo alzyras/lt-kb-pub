@@ -42,8 +42,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 ## Teiginiai
 
 <a id="claim-t-99302"></a>
-- t-001
-  global_id: t-99302
+- t-004
   teiginys: "Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia pašventinta katedra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     - c-93369
 
 <a id="claim-t-99304"></a>
-- t-002
-  global_id: t-99304
+- t-005
   teiginys: "1316 m. kryžiuočiai brovėsi iki Varnių, o vasarą vėl kelis kartus teriojo Varnių sritį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 
 <a id="claim-t-99305"></a>
 - t-003
-  global_id: t-99305
   teiginys: "Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     - c-93371
 
 <a id="claim-t-201110"></a>
-- t-004
-  global_id: t-201110
+- t-006
   teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -145,7 +141,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99302
+    - t-004
+
 - id: c-93370
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,19 +155,15 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
     o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
     kartus.
-  citata_rodoma: |
-    , 1316 m.
-    pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs
-    krašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,
-    o vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis
-    kartus.
+  citata_rodoma: ", 1316 m.\npradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs\nkrašto gilumon iki Varnių; balandžio mėn. jie sunaikino Biseną,\no vasarą vėl teriojo Varnių sritį, kurią trumpu laiku nuliežė kelis\nkartus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99304
+    - t-005
+
 - id: c-93371
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -183,20 +176,19 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: |
-    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99305
+    - t-003
+
 - id: c-184460
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­
@@ -223,4 +215,4 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201110
+    - t-006

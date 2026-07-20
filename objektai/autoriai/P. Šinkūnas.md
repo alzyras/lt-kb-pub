@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-35469"></a>
 - t-001
-  global_id: t-35469
   teiginys: "P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35469
+    - t-001

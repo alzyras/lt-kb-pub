@@ -48,8 +48,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 ## Teiginiai
 
 <a id="claim-t-36049"></a>
-- t-001
-  global_id: t-36049
+- t-004
   teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -65,8 +64,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     - c-38409
 
 <a id="claim-t-36050"></a>
-- t-002
-  global_id: t-36050
+- t-003
   teiginys: "„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -82,8 +80,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     - c-38409
 
 <a id="claim-t-36051"></a>
-- t-003
-  global_id: t-36051
+- t-005
   teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -117,21 +114,15 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     kraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako
     gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
     lankęsis.
-  citata_rodoma: |
-    apie aisčius apščiai žinių duoda
-    Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­
-    no Orossiuso knygą „Historiarum liber VII adversus pa­
-    ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
-    kraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako
-    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
-    lankęsis.
+  citata_rodoma: "apie aisčius apščiai žinių duoda\nAnglų karalius Alfredas D. (871—901), kuris versdamas ispa­\nno Orossiuso knygą „Historiarum liber VII adversus pa­\nganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­\nkraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako\ngavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose\nlankęsis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36051
+    - t-005
+
 - id: c-38409
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -148,16 +139,12 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     no Orossiuso knygą „Historiarum liber VII adversus pa­
     ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
     kraščių tautas, tarp kitko ir apie aisčius.
-  citata_rodoma: |
-    Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­
-    no Orossiuso knygą „Historiarum liber VII adversus pa­
-    ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
-    kraščių tautas, tarp kitko ir apie aisčius.
+  citata_rodoma: "Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­\nno Orossiuso knygą „Historiarum liber VII adversus pa­\nganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­\nkraščių tautas, tarp kitko ir apie aisčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36049
-    - t-36050
+    - t-004
+    - t-003

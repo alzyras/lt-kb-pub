@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-02460"></a>
-- t-001
-  global_id: t-02460
+- t-003
   teiginys: "Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,6 +70,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-02698
@@ -86,18 +86,14 @@ media_all_json: |-
     burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
     Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
     kitos (žiūr. 85 psl.).
-  citata_rodoma: |
-    Čia buvo šios ordino pilys: Klai-
-    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
-    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
-    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
-    kitos (žiūr. 85 psl.).
+  citata_rodoma: "Čia buvo šios ordino pilys: Klai-\npėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-\nburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie\nKauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir\nkitos (žiūr. 85 psl.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02460
+    - t-003
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

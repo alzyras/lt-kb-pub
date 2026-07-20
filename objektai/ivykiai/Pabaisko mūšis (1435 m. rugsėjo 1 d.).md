@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66810"></a>
-- t-001
-  global_id: t-66810
+- t-010
   teiginys: "Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-13100
 
 <a id="claim-t-66811"></a>
-- t-002
-  global_id: t-66811
+- t-014
   teiginys: "Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-13104
 
 <a id="claim-t-66812"></a>
-- t-003
-  global_id: t-66812
+- t-009
   teiginys: "1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,7 @@ Nenurodyta
     - c-43098
 
 <a id="claim-t-66813"></a>
-- t-004
-  global_id: t-66813
+- t-011
   teiginys: "Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,7 @@ Nenurodyta
     - c-13101
 
 <a id="claim-t-66814"></a>
-- t-005
-  global_id: t-66814
+- t-012
   teiginys: "Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -153,8 +148,7 @@ Nenurodyta
     - c-43099
 
 <a id="claim-t-66815"></a>
-- t-006
-  global_id: t-66815
+- t-013
   teiginys: "Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -210,7 +204,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66810
+    - t-010
+
 - id: c-13101
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -233,7 +228,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66813
+    - t-011
+
 - id: c-13104
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -248,7 +244,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66811
+    - t-014
+
 - id: c-43098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -264,7 +261,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66812
+    - t-009
+
 - id: c-43099
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -291,7 +289,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66814
+    - t-012
+
 - id: c-43100
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -312,6 +311,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66815
+    - t-013
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]

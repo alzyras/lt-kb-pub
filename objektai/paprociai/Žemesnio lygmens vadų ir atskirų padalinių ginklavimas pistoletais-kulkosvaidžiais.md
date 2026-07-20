@@ -46,9 +46,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-09601"></a>
-- t-001
-  global_id: t-09601
+<a id="claim-t-09600"></a>
+- t-004
   teiginys: "Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -63,12 +62,9 @@ Nenurodyta
   pagrindžia:
     - c-12350
 
-## Citatos
-
-- id: c-12350
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagrindinės šio ginklo savybės - vamzdis ilgesnis už pistoleto, dide-
     lės talpos dėtuvė, buožė. Kadangi pistoletinis šovinys yra daug lengvesnis už šautuvinį,
@@ -78,12 +74,26 @@ Nenurodyta
     vai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur
     ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-
     kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-001
+
+## Citatos
+
+- id: c-12350
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
     „Kadangi pistoletinis šovinys yra daug lengvesnis už šautuvinį, karys, ginkluotas pistoletu-kulkosvaidžiu, galėjo su savimi neštis didelę šovinių atsargą, tiesa, efektyvus pistoletų-kulkosvaidžių šaudymo nuotolis gerokai mažesnis už šautuvo, todėl pagrindiniais pėstininkų ginklais iki Antrojo pasaulinio karo pabaigos liko šautuvai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.“
+  citata_rodoma: "„Kadangi pistoletinis šovinys yra daug lengvesnis už šautuvinį, karys, ginkluotas pistoletu-kulkosvaidžiu, galėjo su savimi neštis didelę šovinių atsargą, tiesa, efektyvus pistoletų-kulkosvaidžių šaudymo nuotolis gerokai mažesnis už šautuvo, todėl pagrindiniais pėstininkų ginklais iki Antrojo pasaulinio karo pabaigos liko šautuvai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09601
+    - t-004

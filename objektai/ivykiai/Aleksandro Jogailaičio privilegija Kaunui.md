@@ -7,10 +7,10 @@ datos:
   - '1492 m.'
 date_start: '1492'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201895"></a>
 - t-001
-  global_id: t-201895
   teiginys: "1492 m. liepos 1 d. jis rašė Dancigui, primindamas Kazimiero Jogailaičio nurodymą dėl abipusės laisvos prekybos, ir Vokiečių ordino didžiajam magistrui Johanui von Tieffenui, prašydamas, kad Kauno pirkliams nebūtų trukdoma prekiauti Prūsų miestuose."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-201896"></a>
 - t-002
-  global_id: t-201896
   teiginys: "Tai buvo draudimas svečiams pirkliams prekiauti Lietuvos kaimuose ir miestietiškos vokiečių, arba Magdeburgo, teisės neturinčiuose miesteliuose, o leidžiama prekiauti tik Kauno mieste ir su Kauno miestiečiais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -69,6 +67,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185243
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -91,7 +92,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201895
+    - t-001
 
 - id: c-185243
   autorius: "Zigmantas Kiaupa"
@@ -116,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201896
+    - t-002

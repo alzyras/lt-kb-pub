@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-21512"></a>
 - t-001
-  global_id: t-21512
   teiginys: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,7 @@ media_all_json: |-
   pagrindžia:
     - c-24201
     - c-167003
+
 ## Citatos
 
 - id: c-24201
@@ -70,15 +70,15 @@ media_all_json: |-
     mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
     kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
     kę miestelio gyventojai.
-  citata_rodoma: |
-    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+  citata_rodoma: "mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21512
+    - t-001
+
 - id: c-167003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -94,6 +94,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Puolė Kražių bažnyčią: [[objektai/grupes/Kazokai]]

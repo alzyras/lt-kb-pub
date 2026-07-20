@@ -42,7 +42,6 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 
 <a id="claim-t-87538"></a>
 - t-001
-  global_id: t-87538
   teiginys: "1581 m. Steponas Batoras iš Vilniaus per Lauryną Goslickį išsiuntė svarbią pasiuntinybę į Švediją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 
 <a id="claim-t-87539"></a>
 - t-002
-  global_id: t-87539
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,26 +94,15 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
     Senatore", kuri buvo išversta net į
     anglų kalbą. Goslickio gyvenimą ap­
     rašė mokslininkas Ossoliński.
-  citata_rodoma: |
-    tarp dekretų.
-    60
-    Laurynas Goslickis, pirmiausia ka­
-    raliaus Stepono sekretorius, galiau­
-    siai Poznanės vyskupas, išgarsėjo
-    ypatingais sugebėjimais spręsti vie­
-    šuosius reikalus bei įvairiose pasiun­
-    tinybėse, bet labiausiai lotynų kalba
-    parašęs puikią knygą „De optimo
-    Senatore", kuri buvo išversta net į
-    anglų kalbą. Goslickio gyvenimą ap­
-    rašė mokslininkas Ossoliński.
+  citata_rodoma: "tarp dekretų.\n60\nLaurynas Goslickis, pirmiausia ka­\nraliaus Stepono sekretorius, galiau­\nsiai Poznanės vyskupas, išgarsėjo \nypatingais sugebėjimais spręsti vie­\nšuosius reikalus bei įvairiose pasiun­\ntinybėse, bet labiausiai lotynų kalba \nparašęs puikią knygą „De optimo \nSenatore\", kuri buvo išversta net į \nanglų kalbą. Goslickio gyvenimą ap­\nrašė mokslininkas Ossoliński."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87539
+    - t-002
+
 - id: c-83518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -133,20 +120,11 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
     rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
     Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
     su kuriais turėjo daugiausia darbo.
-  citata_rodoma: |
-    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
-    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
-    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo.
+  citata_rodoma: "Būdamas arčiausiai karo židinio, Stepono Batoro laikais \nVilnius virto pagrindine kariuomenių susibūrimo vieta; la­\nbai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579 \nmetais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų \nLopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos- \nlickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­\nrių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą \nKetlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, \nsu kuriais turėjo daugiausia darbo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87538
+    - t-001

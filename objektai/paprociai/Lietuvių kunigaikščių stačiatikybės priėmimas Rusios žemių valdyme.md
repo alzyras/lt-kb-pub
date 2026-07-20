@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75373"></a>
-- t-001
-  global_id: t-75373
+- t-005
   teiginys: "Senrusių žemėse lietuviai atrado bažnytinę sistemą ir raštiją, kurių patys neturėjo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-73170
 
 <a id="claim-t-75374"></a>
-- t-002
-  global_id: t-75374
+- t-003
   teiginys: "Lietuvos valstybei užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-73173
 
 <a id="claim-t-75375"></a>
-- t-003
-  global_id: t-75375
+- t-001
   teiginys: "Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -112,7 +109,6 @@ Nenurodyta
 
 <a id="claim-t-75376"></a>
 - t-004
-  global_id: t-75376
   teiginys: "Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -129,8 +125,7 @@ Nenurodyta
     - c-73172
 
 <a id="claim-t-75377"></a>
-- t-005
-  global_id: t-75377
+- t-006
   teiginys: "Lietuvai užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -146,8 +141,7 @@ Nenurodyta
     - c-73173
 
 <a id="claim-t-75378"></a>
-- t-006
-  global_id: t-75378
+- t-002
   teiginys: "Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -181,8 +175,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75373
-    - t-75378
+    - t-005
+    - t-002
+
 - id: c-73172
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,8 +196,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75375
-    - t-75376
+    - t-001
+    - t-004
+
 - id: c-73173
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,5 +223,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75374
-    - t-75377
+    - t-003
+    - t-006

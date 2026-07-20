@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78707"></a>
-- t-001
-  global_id: t-78707
+- t-006
   teiginys: "Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,7 @@ Nenurodyta
     - c-12402
 
 <a id="claim-t-78708"></a>
-- t-002
-  global_id: t-78708
+- t-005
   teiginys: "Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ Nenurodyta
     - c-43174
 
 <a id="claim-t-78709"></a>
-- t-003
-  global_id: t-78709
+- t-011
   teiginys: "1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +115,7 @@ Nenurodyta
     - c-43173
 
 <a id="claim-t-78710"></a>
-- t-004
-  global_id: t-78710
+- t-008
   teiginys: "Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -137,8 +133,7 @@ Nenurodyta
     - c-43173
 
 <a id="claim-t-78711"></a>
-- t-005
-  global_id: t-78711
+- t-010
   teiginys: "1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,8 +153,7 @@ Nenurodyta
     - c-12402
 
 <a id="claim-t-78712"></a>
-- t-006
-  global_id: t-78712
+- t-009
   teiginys: "Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -177,23 +171,14 @@ Nenurodyta
 
 <a id="claim-t-78713"></a>
 - t-007
-  global_id: t-78713
   teiginys: "1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo lenkų puolimą prieš bolševikus ir pajėgų sutelkimą prieš rusus; Rusai yra leistinas artimiausias objektas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lenkai kariavo prieš Rusai (0.62)"
   temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-43173
+    - c-12402
 
 ## Citatos
 
@@ -213,8 +198,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78707
-    - t-78711
+    - t-006
+    - t-010
+    - t-007
+
 - id: c-43173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -234,9 +221,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78709
-    - t-78710
-    - t-78713
+    - t-011
+    - t-008
+
 - id: c-43174
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -256,5 +243,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78708
-    - t-78712
+    - t-005
+    - t-009

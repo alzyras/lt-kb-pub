@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-45465"></a>
 - t-001
-  global_id: t-45465
   teiginys: "Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,8 +80,7 @@ Nenurodyta
     - c-22218
 
 <a id="claim-t-45467"></a>
-- t-002
-  global_id: t-45467
+- t-003
   teiginys: "P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,18 +114,15 @@ Nenurodyta
     Rusijos imperijos priespaudos laikų švietimą
     lietuvių kalba vaizduojanti alegorinė skulptūra
      „Lietuvos mokykla 1864–1904“.
-  citata_rodoma: |
-    Rusų kalba
-    Rusijos imperijos priespaudos laikų švietimą
-    lietuvių kalba vaizduojanti alegorinė skulptūra
-     „Lietuvos mokykla 1864–1904“.
+  citata_rodoma: "Rusų kalba\nRusijos imperijos priespaudos laikų švietimą\nlietuvių kalba vaizduojanti alegorinė skulptūra\n „Lietuvos mokykla 1864–1904“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45465
+    - t-001
+
 - id: c-48264
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45467
+    - t-003

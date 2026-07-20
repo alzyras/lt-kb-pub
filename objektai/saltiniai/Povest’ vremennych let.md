@@ -36,7 +36,6 @@ PVL = Povest’ vremennych let, cast’ pervaja.
 
 <a id="claim-t-30180"></a>
 - t-001
-  global_id: t-30180
   teiginys: "„Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ PVL = Povest’ vremennych let, cast’ pervaja.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30180
+    - t-001

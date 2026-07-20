@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-188971"></a>
 - t-001
-  global_id: t-188971
   teiginys: "Šventainė (Szwentejne) Prūsuose minima kaip upė, ties Baičių kaimu įtekanti į Peisę; anksčiau ji vadinta Galbe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188971
+    - t-001

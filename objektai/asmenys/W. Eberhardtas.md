@@ -39,7 +39,6 @@ Eberhardtu.
 
 <a id="claim-t-40540"></a>
 - t-001
-  global_id: t-40540
   teiginys: "1919 m. spalio 12 d. generolas W. Eberhardtas pakeitė generolą R. von der Goltzą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Eberhardtu.
     čiau didesnė dalis įsiliejo į Bermonto pajėgas. Jiems buvo
     mokama gera alga, pergalės atveju žadama duoti žemės
     Latvijoje ar Lietuvoje.
-  citata_rodoma: |
-    1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
-    tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-
-    čiau didesnė dalis įsiliejo į Bermonto pajėgas.
+  citata_rodoma: "1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-\ntas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-\nčiau didesnė dalis įsiliejo į Bermonto pajėgas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40540
+    - t-001

@@ -37,7 +37,6 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 
 <a id="claim-t-21704"></a>
 - t-001
-  global_id: t-21704
   teiginys: "Pietų Amerikos šalys tapo pagrindine neprasigyvenusių smulkių mažažemių valstiečių emigracijos kryptimi, kai JAV įvedė imigracijos kvotas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,12 +68,11 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
-  citata_rodoma: |
-    venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
+  citata_rodoma: "venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21704
+    - t-001

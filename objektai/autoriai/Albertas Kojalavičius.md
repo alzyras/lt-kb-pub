@@ -7,12 +7,12 @@ datos:
   - '1399 m.'
 date_start: '1399'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XIV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XIV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
 
 <a id="claim-t-202209"></a>
 - t-001
-  global_id: t-202209
   teiginys: "Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus įkurdinęs Vytautas, atsidėkodamas už išsigelbėjimą nesėkmingame 1399 m. Vorsklos mūšyje su to toriais."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
 
 <a id="claim-t-202210"></a>
 - t-002
-  global_id: t-202210
   teiginys: "Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202209
+    - t-001
 
 - id: c-185557
   autorius: "Zigmantas Kiaupa"
@@ -94,4 +92,4 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202210
+    - t-002

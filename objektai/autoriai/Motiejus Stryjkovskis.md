@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Motiejus Stryjkovskis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,13 +32,24 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
 
 <a id="claim-t-30860"></a>
 - t-001
-  global_id: t-30860
   teiginys: "XIX a. istorikai romantikai Motiejaus Stryjkovskio aprašymus nekritiškai laikė pirmykštės pagonybės liudijimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33070
+
+<a id="claim-t-201496"></a>
+- t-002
+  teiginys: "Stryjkovskio, kada bernardinų pamokslininkas, Didįjį penktadienį Kaune sakydamas pamokslą apie Viešpaties kančią, kai atėjo laikas kalbėti apie jo plakimą, ėmė rimbu mušti Jėzaus Kristaus atvaizdą, žemaitis, paprastas valstietis, klausė draugo: a ku totej."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184843
 
 ## Citatos
 
@@ -54,16 +66,31 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
     nybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­
     šymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos
     pirmykščia pagonybe.
-  citata_rodoma: |
-    XIX amž. istorikai romantikai, nekreipdami dėmesio į
-    jau krikščionybės poveikyje stipriai deformuotą ir suskilusią pago­
-    nybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­
-    šymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos
-    pirmykščia pagonybe.
+  citata_rodoma: "XIX amž. istorikai romantikai, nekreipdami dėmesio į\njau krikščionybės poveikyje stipriai deformuotą ir suskilusią pago­\nnybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­\nšymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos\npirmykščia pagonybe."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30860
+    - t-001
+
+- id: c-184843
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Pasak M. Stryjkovskio, kada bernardinų pamokslininkas, Didįjį penktadienį Kau-
+    ne sakydamas pamokslą apie Viešpaties kančią, kai atėjo laikas kalbėti apie jo plaki-
+    mą, ėmė rimbu mušti Jėzaus Kristaus atvaizdą, žemaitis, paprastas valstietis, klausė
+    draugo: a ku totej musiej kunigos? Šis jam atsakė: Panu dziewu. O tas vėl klausė: Ar
+    anu kuris mumus pardarej pietu rugu?, nes tais metais buvo blogas derlius; atsakė jam
+    draugas: anu. Tai valstietis iš karto šūktelėjo pamokslininkui: Gierej gi, milos kunige,
+    plaki sietum Dziewum, pietum mumus dawej rugum.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

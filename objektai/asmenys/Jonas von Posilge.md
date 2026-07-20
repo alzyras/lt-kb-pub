@@ -31,7 +31,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 <a id="claim-t-29017"></a>
 - t-001
-  global_id: t-29017
   teiginys: "Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 <a id="claim-t-184374"></a>
 - t-002
-  global_id: t-184374
   teiginys: "Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29017
+    - t-001
+
 - id: c-167743
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -105,4 +104,4 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184374
+    - t-002

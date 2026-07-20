@@ -30,7 +30,6 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
 
 <a id="claim-t-78062"></a>
 - t-001
-  global_id: t-78062
   teiginys: "Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,17 +56,14 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
     kartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-
     je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
     Europa, siekusi Elbę.
-  citata_rodoma: |
-    Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien
-    kartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-
-    je Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta
-    Europa, siekusi Elbę.
+  citata_rodoma: "Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien \nkartais pavadinama „senąja“ Viduramžių Europa (V–IX a.). Turima galvo-\nje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta \nEuropa, siekusi Elbę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78062
+    - t-001
+
 ## Ryšiai
 - Karolis Didysis surengė žygį į [[objektai/vietos/Italija]]

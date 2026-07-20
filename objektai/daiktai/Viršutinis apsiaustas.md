@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-195314"></a>
 - t-001
-  global_id: t-195314
   teiginys: "Piemens aprūpinimo aprašyme viršutinis apsiaustas duodamas kaip atskira aprangos dalis."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -69,17 +68,12 @@ Nenurodyta
   puslapiai: "p. 50 (PDF 48)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 50 (PDF 48)."
   citata_originali: |
-    Šeimininkė, pamačiusi piemeniu­
-    ką, pareinantį su trimitu, žino, kad rytoj reikia virti ir kerdžiaus daliai.
-    Piemeniukas, turėdamas rankoje įtakingą įrankį, mėgindavo jį pūsti:
-    kitas ir išmokdavo. Kur valgo, ten gauna viršutinį apsiaustą, bet marš­
-    kinius ir kelnes gauna pasavaičiui.
-  citata_rodoma: |
     Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui.
+  citata_rodoma: "Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195314
+    - t-001

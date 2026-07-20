@@ -30,8 +30,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 ## Teiginiai
 
 <a id="claim-t-32789"></a>
-- t-001
-  global_id: t-32789
+- t-002
   teiginys: "Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - c-32661
 
 <a id="claim-t-32790"></a>
-- t-002
-  global_id: t-32790
+- t-003
   teiginys: "Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - c-34163
 
 <a id="claim-t-32791"></a>
-- t-003
-  global_id: t-32791
+- t-001
   teiginys: "Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +96,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32791
+    - t-001
+
 - id: c-32661
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -119,7 +117,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32789
+    - t-002
+
 - id: c-34163
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -132,16 +131,11 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     sodybos dominavo.
     Pagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo
     ėjo gyvulininkystė.
-  citata_rodoma: |
-    Istorinių laikų sąvartoje, šalia įprastinių kuopinių kaimų, pasitai­
-    kydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės
-    sodybos dominavo.
-    Pagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo
-    ėjo gyvulininkystė.
+  citata_rodoma: "Istorinių laikų sąvartoje, šalia įprastinių kuopinių kaimų, pasitai­\nkydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės\nsodybos dominavo.\nPagrindinis baltų užsiėmimas buvo žemės darbas, o šalia jo\nėjo gyvulininkystė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32790
+    - t-003

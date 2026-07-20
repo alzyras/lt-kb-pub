@@ -43,7 +43,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-190075"></a>
 - t-001
-  global_id: t-190075
   teiginys: "Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194234"></a>
 - t-002
-  global_id: t-194234
   teiginys: "Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194235"></a>
 - t-003
-  global_id: t-194235
   teiginys: "Mykolas Balinskis visiškai nuneigti negalėjo."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194236"></a>
 - t-004
-  global_id: t-194236
   teiginys: "Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto li Vitebsko."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -103,7 +99,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194237"></a>
 - t-005
-  global_id: t-194237
   teiginys: "Balinskis perėjo mokytis į Literatūros ir laisvųjų menų fakultetą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -116,7 +111,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194238"></a>
 - t-006
-  global_id: t-194238
   teiginys: "Balinskis persikėlė gyventi į Varšuvą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -129,7 +123,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194239"></a>
 - t-007
-  global_id: t-194239
   teiginys: "Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -142,7 +135,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-194240"></a>
 - t-008
-  global_id: t-194240
   teiginys: "Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -155,7 +147,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 
 <a id="claim-t-197778"></a>
 - t-009
-  global_id: t-197778
   teiginys: "Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta — jie priskiriami istoriko, publicisto Mykolo Balinskio plunksnai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -184,7 +175,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190075
+    - t-001
+
 - id: c-176831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -208,7 +200,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194234
+    - t-002
+
 - id: c-176832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,7 +220,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194235
+    - t-003
+
 - id: c-176833
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -247,7 +241,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194236
+    - t-004
+
 - id: c-176834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -267,7 +262,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194237
+    - t-005
+
 - id: c-176835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -289,7 +285,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194238
+    - t-006
+
 - id: c-176836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -306,7 +303,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194239
+    - t-007
+
 - id: c-176837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -324,7 +322,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194240
+    - t-008
+
 - id: c-179336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -342,4 +341,4 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197778
+    - t-009

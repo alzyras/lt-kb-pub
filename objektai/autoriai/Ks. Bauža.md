@@ -31,7 +31,6 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
 
 <a id="claim-t-01086"></a>
 - t-001
-  global_id: t-01086
   teiginys: "Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,13 +58,11 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
     tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
     viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
     ponais.
-  citata_rodoma: |
-    **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
-    nanti savo kalba, kad nekurianti savos literatūros.
+  citata_rodoma: "**Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-\nnanti savo kalba, kad nekurianti savos literatūros."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01086
+    - t-001

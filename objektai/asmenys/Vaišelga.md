@@ -43,7 +43,6 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
 
 <a id="claim-t-82777"></a>
 - t-001
-  global_id: t-82777
   teiginys: "Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-166966
 
 <a id="claim-t-82778"></a>
-- t-002
-  global_id: t-82778
+- t-003
   teiginys: "Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-79211
 
 <a id="claim-t-183573"></a>
-- t-003
-  global_id: t-183573
+- t-004
   teiginys: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - c-166966
 
 <a id="claim-t-196616"></a>
-- t-004
-  global_id: t-196616
+- t-005
   teiginys: "Kojelavičius aiškino, kad dėl nevienodai rašyto Mindaugo sūnaus Vaišelgos vardo pasakojime atsirado du veikiantieji asmenys."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -166,7 +162,8 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82778
+    - t-003
+
 - id: c-166966
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,8 +183,9 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82777
-    - t-183573
+    - t-001
+    - t-004
+
 - id: c-178801
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -203,7 +201,8 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196616
+    - t-005
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Vaišelga (kunigaikštis) buvo valdovas [[objektai/vietos/Lietuva]]

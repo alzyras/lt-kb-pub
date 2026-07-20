@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-28871"></a>
 - t-001
-  global_id: t-28871
   teiginys: "Vaišvilkas apie 1268 m. vyriausią valdžią Lietuvoje perdavė savo svainiui Švarnui, vedusiam jo seserį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28871
+    - t-001

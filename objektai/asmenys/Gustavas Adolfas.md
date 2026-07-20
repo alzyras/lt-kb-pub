@@ -40,8 +40,7 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 ## Teiginiai
 
 <a id="claim-t-79026"></a>
-- t-001
-  global_id: t-79026
+- t-004
   teiginys: "Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 
 <a id="claim-t-79027"></a>
 - t-002
-  global_id: t-79027
   teiginys: "Po Kristinos atsisakymo nuo sosto Švedijos sostas atiteko Karoliui X Gustavui, Gustavo Adolfo sesers sūnui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,17 +80,15 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
     liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos
     Cveibriukeno kunigaikščio sūnui. Jis buvo auklėjamas Švedi-
     joje ir sostą turėjo gauti kartu su Kristinos ranka.
-  citata_rodoma: |
-    Sostas atiteko Karo-
-      liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos
-      Cveibriukeno kunigaikščio sūnui.
+  citata_rodoma: "Sostas atiteko Karo-\n  liui X Gustavui, Gustavo Adolfo sesers ir Vokietijos\n  Cveibriukeno kunigaikščio sūnui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79027
+    - t-002
+
 - id: c-76126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,4 +104,4 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79026
+    - t-004

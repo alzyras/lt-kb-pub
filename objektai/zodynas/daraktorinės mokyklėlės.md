@@ -38,7 +38,6 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
 
 <a id="claim-t-77792"></a>
 - t-001
-  global_id: t-77792
   teiginys: "Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77792
+    - t-001

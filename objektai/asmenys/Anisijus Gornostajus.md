@@ -39,7 +39,6 @@ Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate prieši
 
 <a id="claim-t-186181"></a>
 - t-001
-  global_id: t-186181
   teiginys: "Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate priešinosi Ivano titulavimui Maskvos kunigaikštystės caru."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate prieši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186181
+    - t-001

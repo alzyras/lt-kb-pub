@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-28819"></a>
 - t-001
-  global_id: t-28819
   teiginys: "1382 m. birželio 12 d. Jogailai atvykus į Vilnių, Hanulis jam įteikė pilies raktus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28819
+    - t-001

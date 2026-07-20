@@ -36,7 +36,6 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61243"></a>
 - t-001
-  global_id: t-61243
   teiginys: "J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61243
+    - t-001

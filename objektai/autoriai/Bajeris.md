@@ -39,7 +39,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 
 <a id="claim-t-191536"></a>
 - t-001
-  global_id: t-191536
   teiginys: "Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 
 <a id="claim-t-191537"></a>
 - t-002
-  global_id: t-191537
   teiginys: "Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,10 +76,9 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174419
-    - c-002
+
 <a id="claim-t-191538"></a>
 - t-003
-  global_id: t-191538
   teiginys: "Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,10 +99,9 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-174420
-    - c-003
+
 <a id="claim-t-197583"></a>
 - t-004
-  global_id: t-197583
   teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -117,23 +113,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     - c-179252
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sis Kulmo provincijos pavadinimas sve­
-    timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
-    priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
-    Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
-    mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
-    siją vadino tuo pačiu vardu4.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191537
 - c-003
   santrauka: 'Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -149,8 +128,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191538
+
 ## Citatos
 
 - id: c-174418
@@ -170,33 +148,28 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191536
+    - t-001
+
 - id: c-174419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Bet ir vėlesni istorikai kryžiuočių Prū­
-    siją vadino tuo pačiu vardu4. Dar kartais svetimšaliai
-    rašytojai prie šių pavadinimų pridėdavo Seirzbia, arba
-    Semland, arba tiesiog šiuo vienu pavadinimu, laikydami
-    garsesnę provinciją visu kraštu, vadindavo visgĮ Prūsiją5 6.
-    Lenkų rašytojai iš pat ¡pradžių prūsus lotyniškai vadinda­
-    vo Gethae5.
-  citata_rodoma: |
     Sis Kulmo provincijos pavadinimas sve­
     timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
     priklausančiai kryžiuočiams, kurie valdyti pradėjo nuo
     Ruimo. Bajeris mano, kad šis pavadinimas buvo vartoja­
     mas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­
     siją vadino tuo pačiu vardu4.
+  citata_rodoma: "Sis Kulmo provincijos pavadinimas sve­\ntimšalių raštuose buvo taikomas ir visai Prūsijai, būtent\npriklausančiai kryžiuočiams, kurie valdyti pradėjo nuo\nRuimo. Bajeris mano, kad šis pavadinimas buvo vartoja­\nmas gana seniai3. Bet ir vėlesni istorikai kryžiuočių Prū­\nsiją vadino tuo pačiu vardu4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191537
+    - t-002
+
 - id: c-174420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,20 +183,15 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     ją norėjo įdėti į savo „Monumentą Prussica“.
     Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
     gamtos tyrinėtojai Klaprotas ir Hagenas.
-  citata_rodoma: |
-    Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
-    tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
-    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
-    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
-    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
-    ją norėjo įdėti į savo „Monumentą Prussica“.
+  citata_rodoma: "Labiausiai jį primena skruzdėliniai gyvasakiai; gel­\ntonas ir baltas gintaras kvepia skirtingai. Smalsuoliams\nrekomenduojama paskaityti knygelę „Ja. Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191538
+    - t-003
+
 - id: c-179252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,4 +210,4 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197583
+    - t-004

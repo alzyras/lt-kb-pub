@@ -30,7 +30,6 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
 
 <a id="claim-t-191684"></a>
 - t-001
-  global_id: t-191684
   teiginys: "Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės rojų lokalizavo Ispanijoje prie Tago, netoli Sevilijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191684
+    - t-001

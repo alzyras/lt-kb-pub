@@ -38,7 +38,6 @@ Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Pr
 
 <a id="claim-t-191836"></a>
 - t-001
-  global_id: t-191836
   teiginys: "Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Preussen“ išleistas 1780 m."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191836
+    - t-001

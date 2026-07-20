@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-41529"></a>
 - t-001
-  global_id: t-41529
   teiginys: "„Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,12 +53,11 @@ media_all_json: |-
   citata_originali: |
     P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
-  citata_rodoma: |
-    P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
+  citata_rodoma: "P. 117, „ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41529
+    - t-001

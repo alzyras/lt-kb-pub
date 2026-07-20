@@ -46,8 +46,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 ## Teiginiai
 
 <a id="claim-t-169877"></a>
-- t-001
-  global_id: t-169877
+- t-015
   teiginys: "Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26847
 
 <a id="claim-t-169878"></a>
-- t-002
-  global_id: t-169878
+- t-011
   teiginys: "Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26846
 
 <a id="claim-t-169879"></a>
-- t-003
-  global_id: t-169879
+- t-013
   teiginys: "Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-154566
 
 <a id="claim-t-169880"></a>
-- t-004
-  global_id: t-169880
+- t-012
   teiginys: "Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius."
   atnaujinta: "2026-05-31 14:11"
   sprendimo_priezastis: "auto"
@@ -124,8 +120,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-26847
 
 <a id="claim-t-169881"></a>
-- t-005
-  global_id: t-169881
+- t-014
   teiginys: "Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,31 +177,16 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
-  citata_rodoma: |
-    Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
+  citata_rodoma: "Inga Vinogradnaitė\nIšleista Lietuvos Respublikos\nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12\nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169878
-    - t-169881
+    - t-011
+    - t-014
+
 - id: c-26847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,29 +214,16 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     Iš britų mokslininko Robert Gordon Latham
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
-  citata_rodoma: |
-    Sauliui Kaubriui ir daugeliui
-    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
-    atrinkimo.
-       Alfonsas Eidintas,
-       redaktorius
-
-    Į v a d a s
-    LIETUVA –
-    VIDURIO EUROPOS DALIS
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-    didesnis, negu su bet kuria kita kalba šioje žemėje“
-    Iš britų mokslininko Robert Gordon Latham
-    „Descriptive Ethnology“ („Aprašomoji etnologija“)
-    Geografinis Europos centras?
+  citata_rodoma: "Sauliui Kaubriui ir daugeliui\nkitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių\natrinkimo.\n   Alfonsas Eidintas,\n   redaktorius\n\nĮ v a d a s\nLIETUVA –\nVIDURIO EUROPOS DALIS\n„Be abejonės, sanskrito giminingumas su lietuvių kalba yra\ndidesnis, negu su bet kuria kita kalba šioje žemėje“\nIš britų mokslininko Robert Gordon Latham\n„Descriptive Ethnology“ („Aprašomoji etnologija“)\nGeografinis Europos centras?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169877
-    - t-169880
+    - t-015
+    - t-012
+
 - id: c-154566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -267,14 +234,11 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     ministerija), 2001; Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: |
-    Vilnius: Spaudos
-    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
-    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
+  citata_rodoma: "Vilnius: Spaudos \ndepartamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) \nir A. Eidinto, A. Bumblausko asmeninių archyvų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169879
+    - t-013

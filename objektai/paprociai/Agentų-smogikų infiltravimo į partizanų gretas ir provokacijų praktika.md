@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
 ## Santrauka
@@ -58,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67035"></a>
-- t-001
-  global_id: t-67035
+- t-005
   teiginys: "MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -75,8 +75,7 @@ Nenurodyta
     - c-12363
 
 <a id="claim-t-67036"></a>
-- t-002
-  global_id: t-67036
+- t-007
   teiginys: "Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,10 +94,9 @@ Nenurodyta
     - c-12365
 
 <a id="claim-t-67037"></a>
-- t-003
-  global_id: t-67037
+- t-006
   teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,6 +109,7 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1950 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
+    - c-12363
     - c-12364
 
 ## Citatos
@@ -140,7 +139,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67035
+    - t-005
+    - t-006
+
 - id: c-12364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -169,7 +170,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67037
+    - t-006
+
 - id: c-12365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -199,4 +201,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67036
+    - t-007

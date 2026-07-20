@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86930"></a>
-- t-001
-  global_id: t-86930
+- t-002
   teiginys: "1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-82910
 
 <a id="claim-t-86931"></a>
-- t-002
-  global_id: t-86931
+- t-001
   teiginys: "Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,23 +111,15 @@ Nenurodyta
     suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
     Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
-  citata_rodoma: |
-    VIII
-
-    ## Puslapis 9
-
-    Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
-    Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
-    suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
-    Lenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­
-    venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą.
+  citata_rodoma: "VIII\n\n## Puslapis 9\n\nPo 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir \nRusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­\nsuomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į \nLenkijos ar Rusijos miestus. Neturėdamas pakankamai pragy­\nvenimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86931
+    - t-001
+
 - id: c-82910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,4 +135,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86930
+    - t-002

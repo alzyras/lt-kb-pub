@@ -40,7 +40,6 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 
 <a id="claim-t-61059"></a>
 - t-001
-  global_id: t-61059
   teiginys: "Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61059
+    - t-001

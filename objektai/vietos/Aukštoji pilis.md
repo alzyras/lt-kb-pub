@@ -28,7 +28,6 @@ Aukštoji pilis buvo pastatyta praktiniam apsigynimo reikalui, todėl Vorobjovas
 
 <a id="claim-t-200798"></a>
 - t-001
-  global_id: t-200798
   teiginys: "Aukštoji pilis buvo pastatyta praktiniam apsigynimo reikalui, todėl Vorobjovas jos neaptarė kaip meno stiliaus pavyzdžio."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Aukštoji pilis buvo pastatyta praktiniam apsigynimo reikalui, todėl Vorobjovas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200798
+    - t-001

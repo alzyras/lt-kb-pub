@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67163"></a>
-- t-001
-  global_id: t-67163
+- t-007
   teiginys: "XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-12409
 
 <a id="claim-t-67164"></a>
-- t-002
-  global_id: t-67164
+- t-012
   teiginys: "Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ Nenurodyta
     - c-12413
 
 <a id="claim-t-67165"></a>
-- t-003
-  global_id: t-67165
+- t-008
   teiginys: "Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -87,8 +84,7 @@ Nenurodyta
     - c-12410
 
 <a id="claim-t-67166"></a>
-- t-004
-  global_id: t-67166
+- t-009
   teiginys: "Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67163
+    - t-007
+
 - id: c-12410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,7 +135,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67165
+    - t-008
+
 - id: c-12411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,7 +159,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67166
+    - t-009
+
 - id: c-12413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67164
+    - t-012

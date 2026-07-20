@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35868"></a>
 - t-001
-  global_id: t-35868
   teiginys: "1244 m., pasak eiliuotosios Livonijos kronikos, Mindaugas su 30 000 lietuvių nuniokojo Livonijos ordino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,13 +84,11 @@ Nenurodyta
     nes, kaip žinia, tais metais jis padaręs didelį žygį į Mozūrus.
     1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
     30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
-  citata_rodoma: |
-    1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
-    30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
+  citata_rodoma: "1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su\n30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35868
+    - t-001

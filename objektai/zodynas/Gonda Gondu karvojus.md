@@ -31,9 +31,8 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 
 <a id="claim-t-189224"></a>
 - t-001
-  global_id: t-189224
   teiginys: "Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,12 +41,11 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172112
-    - c-001
+
 <a id="claim-t-189225"></a>
 - t-002
-  global_id: t-189225
   teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,47 +54,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172113
-    - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    143
 
-    ## Puslapis 143
-
-    Gonda (Gondu)
-    Vestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti
-    mergaites už vyrų.
-    Ją mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­
-    nų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­
-    gios, bet nuobodžios mergystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189224
-- c-002
-  santrauka: 'Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tokia
-    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
-    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
-    tas tas antrasis pavadinimas.
-    Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
-    suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
-    ant stalo neliestą, o tikrąjį karvojų suvalgo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189225
 ## Citatos
 
 - id: c-172112
@@ -104,15 +62,6 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    suskaičiuojama daugybė žmonių, kiekvienas prie jo meldžia­
-    si, ypač mazgoja kūno dalį, kenčiančią dėl kokios nors nega­
-    lios; numazgojęs nušluosto švarios drobės gabalėliu ir pakabi­
-    na jį ant artimiausio krūmo arba ištiesia ant kranto. Tų skudu­
-    rėlių jau niekas neliečia bijodamas, kad pasilikusi skudurėlyje
-    Ilgajam nepriliptų. Tenai pūva tokia daugybė drobės gabalė­
-    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
-    rūpinti popieriaus dirbtuvę žaliava.
-  citata_rodoma: |
     143
 
     ## Puslapis 143
@@ -123,29 +72,20 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     Ją mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­
     nų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­
     gios, bet nuobodžios mergystės.
+  citata_rodoma: "143\n\n## Puslapis 143\n\nGonda (Gondu)\nVestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti\nmergaites už vyrų.\nJą mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­\nnų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­\ngios, bet nuobodžios mergystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189224
+    - t-001
+
 - id: c-172113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kol ta brolija buvo uždrausta, gretimų kaimų moterys -
-    matyt, dėl kažkokių kerų - susirinkdavo vadovaujamos nepa­
-    žįstamos senės, kuri, tarytum būtų atsiųsta antgamtinės jėgos,
-    paprastai pasirodydavo kartą per metus, dažniausiai per Ra­
-    sos švente, šv. Jono išvakarėse. Sako, atlėkdavusi ant skrai­
-    dančio ožio. Tos raganos naktį kūrendavo ugnį, dainuodavo
-    kažkokias dainas, pliuškendavosi upelio vandenyje, kepdavo
-    kažkokius paplotėlius, kuriuos dalydavo žmonėms; o joms at­
-    nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
-    paršelių, sidabrinių pinigų.
-  citata_rodoma: |
     Tokia
     figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
     jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
@@ -153,10 +93,11 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     Tačiau lietuviams tie du dalykai visiškai skirtingi. Gondu
     suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
     ant stalo neliestą, o tikrąjį karvojų suvalgo.
+  citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189225
+    - t-002

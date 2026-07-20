@@ -31,7 +31,6 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
 
 <a id="claim-t-100109"></a>
 - t-001
-  global_id: t-100109
   teiginys: "Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per vakarų Europą atvykęs iki Baltijos jūros (Wismar), 973 m. savo kelionių aprašyme prūsus vadino « Burūs »."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100109
+    - t-001

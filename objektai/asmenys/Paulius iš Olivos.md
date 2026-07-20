@@ -32,7 +32,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 
 <a id="claim-t-87818"></a>
 - t-001
-  global_id: t-87818
   teiginys: "Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +90,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87818
+    - t-001
+
 ## Ryšiai
 - Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]]
 - Paulius iš Olivos rėmė [[objektai/grupes/Kryžiuočių ordinas]]

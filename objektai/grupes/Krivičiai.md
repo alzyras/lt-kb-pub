@@ -33,7 +33,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 
 <a id="claim-t-31222"></a>
 - t-001
-  global_id: t-31222
   teiginys: "Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - c-33280
 
 <a id="claim-t-188207"></a>
-- t-002
-  global_id: t-188207
+- t-003
   teiginys: "Narbutas spėja, kad krivičių pavadinimas galėjo sietis su kriviais ir bendrais religiniais papročiais su lietuvių gentimis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - c-171101
 
 <a id="claim-t-192412"></a>
-- t-003
-  global_id: t-192412
+- t-004
   teiginys: "Teodorui Narbutui krivičių pavadinimo kildinimas iš Krivio atrodė natūralus, nors jis nepripažino etimologinio kildinimo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,10 +90,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175206
-    - c-004
+
 <a id="claim-t-192413"></a>
-- t-004
-  global_id: t-192413
+- t-005
   teiginys: "Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,10 +110,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175207
-    - c-005
+
 <a id="claim-t-197508"></a>
-- t-005
-  global_id: t-197508
+- t-006
   teiginys: "Norėdamas savo žygiui į Pietus pa kviesti visus krivičius, Olegas pirmiausia turėjo kreiptis j patį Krivį; kol šis nuo savo medžio aukuro nepaskelb davo dievų leidimo, tol gal nė vienas prūsas nepakelda vo savo vėzdo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -192,8 +187,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192412
 - c-005
   santrauka: 'Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -219,8 +212,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192413
+
 ## Citatos
 
 - id: c-33280
@@ -236,19 +228,15 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
     eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
     buvo pasiekę, palyginti, aukštą kultūros laipsnį.
-  citata_rodoma: |
-    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
-    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
-    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
-    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
-    patvirtina rašytieji šaltiniai (XIII-XIV amž.
+  citata_rodoma: "Artimiausieji rytų kaimynai dregovičiai (Beržūnės\nbaseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors\nKijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana\nžemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip\npatvirtina rašytieji šaltiniai (XIII-XIV amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31222
+    - t-001
+
 - id: c-171101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -270,7 +258,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188207
+    - t-003
+
 - id: c-175206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -288,24 +277,15 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
     jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
     metu rengdavo turnyrus.
-  citata_rodoma: |
-    Etimologinio
-    kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
-    mas iš Krivio, regis, atrodo visai natūralus.
-    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
-    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
-    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
-    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
-    prie Olego.
-    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
-    išsaugotą jų gyvenimo paveikslą.
+  citata_rodoma: "Etimologinio\nkildinimo nepripažįstu, tačiau krivičių pavadinimo kili­\nmas iš Krivio, regis, atrodo visai natūralus.\nTaigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192412
+    - t-004
+
 - id: c-175207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -333,37 +313,16 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     liai, priešinosi hidrai, kurios nukirstos galvos vėl ataug­
     davo, nors užpulti negalėjo kitaip atlyginti savo praradi­
     mų, o tik pasiųsti savo' jaunimą.
-  citata_rodoma: |
-    Šios
-    kartos galėjo atsiskirti Kriviui sutikus, o jis ir toliau liko
-    jų dvasinis viršininkas ir gal net vylėsi per juos įsigyti
-    visą naują valstybę. Norėdamas savo žygiui į Pietus pa­
-    kviesti visus krivičius, Olegas pirmiausia turėjo kreiptis
-    j patį Krivį; kol šis nuo savo medžio aukuro nepaskelb­
-    davo dievų leidimo, tol gal nė vienas prūsas nepakelda­
-    vo savo vėzdo. Kai griaustinio atgarsiai išpranašaudavo
-    sėkmę, tuo metu Olegas galėjo gauti pagalbą, kuri vargu
-    ar buvo kitos tautos negu prūsų, nes tik jie iš vieno kai­
-    mo pasiųsdavo 500 ginkluotų karių arba vienoje savo
-    provincijoje galėdavo surinkti 40 000 riterių.
-    Tiesą sakant, numanau, kad šios išvados gali būti pa­
-    laikytos perdėtomis, bet man atrodo, kad tai patvirtino
-    kruvina vokiečių riterių patirtis; nes jei vien tik vėzdais
-    ginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus
-    kariauti su gausiomis kryžiuočių kariuomenėmis, kurios
-    iš visų pusių kasmet užplūsdavo Europą ir buvo geriau
-    ginkluotos, su tikėjimu Dievą kovojo fanatiškai atkak­
-    liai, priešinosi hidrai, kurios nukirstos galvos vėl ataug­
-    davo, nors užpulti negalėjo kitaip atlyginti savo praradi­
-    mų, o tik pasiųsti savo' jaunimą.
+  citata_rodoma: "Šios \nkartos galėjo atsiskirti Kriviui sutikus, o jis ir toliau liko \njų dvasinis viršininkas ir gal net vylėsi per juos įsigyti \nvisą naują valstybę. Norėdamas savo žygiui į Pietus pa­\nkviesti visus krivičius, Olegas pirmiausia turėjo kreiptis \nj patį Krivį; kol šis nuo savo medžio aukuro nepaskelb­\ndavo dievų leidimo, tol gal nė vienas prūsas nepakelda­\nvo savo vėzdo. Kai griaustinio atgarsiai išpranašaudavo \nsėkmę, tuo metu Olegas galėjo gauti pagalbą, kuri vargu \nar buvo kitos tautos negu prūsų, nes tik jie iš vieno kai­\nmo pasiųsdavo 500 ginkluotų karių arba vienoje savo \nprovincijoje galėdavo surinkti 40 000 riterių.\nTiesą sakant, numanau, kad šios išvados gali būti pa­\nlaikytos perdėtomis, bet man atrodo, kad tai patvirtino \nkruvina vokiečių riterių patirtis; nes jei vien tik vėzdais \nginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus \nkariauti su gausiomis kryžiuočių kariuomenėmis, kurios \niš visų pusių kasmet užplūsdavo Europą ir buvo geriau \nginkluotos, su tikėjimu Dievą kovojo fanatiškai atkak­\nliai, priešinosi hidrai, kurios nukirstos galvos vėl ataug­\ndavo, nors užpulti negalėjo kitaip atlyginti savo praradi­\nmų, o tik pasiųsti savo' jaunimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192413
-    - t-197508
+    - t-005
+    - t-006
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
 - Krivičiai gyveno [[objektai/vietos/Naugardukas]]

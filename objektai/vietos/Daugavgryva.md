@@ -42,7 +42,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 
 <a id="claim-t-49646"></a>
 - t-001
-  global_id: t-49646
   teiginys: "1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 
 <a id="claim-t-49647"></a>
 - t-002
-  global_id: t-49647
   teiginys: "1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 
 <a id="claim-t-49648"></a>
 - t-003
-  global_id: t-49648
   teiginys: "1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,29 +133,16 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     1600-1611 metų karas su Švedijos karalyste
     dėl Livonijos vyko sudėtingomis vidaus po-
     litinėmis sąlygomis.
-  citata_rodoma: |
-    1609 m.
-    kovo mėnesį jis pabandė pulti Daugavgryvą
-    ir taip pralaužti Rygos blokadą, bet pa-
-    pildomais įtvirtinimais sustiprinę senąją
-    tvirtovę, Nilsomo Sternskioldomo vado-
-    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
-    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
-    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
-
-    Mūšio priešistorė
-
-    1600-1611 metų karas su Švedijos karalyste
-    dėl Livonijos vyko sudėtingomis vidaus po-
-    litinėmis sąlygomis.
+  citata_rodoma: "1609 m.\nkovo mėnesį jis pabandė pulti Daugavgryvą\nir taip pralaužti Rygos blokadą, bet pa-\npildomais įtvirtinimais sustiprinę senąją\ntvirtovę, Nilsomo Sternskioldomo vado-\ndinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-\nJoną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą\nveiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo\n\nMūšio priešistorė\n\n1600-1611 metų karas su Švedijos karalyste\ndėl Livonijos vyko sudėtingomis vidaus po-\nlitinėmis sąlygomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49646
-    - t-49648
+    - t-001
+    - t-003
+
 - id: c-43374
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -173,6 +157,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49647
+    - t-002
+
 ## Ryšiai
 - Puolė Daugavgryvą: [[objektai/asmenys/Jonas Karolis Chodkevičius]]

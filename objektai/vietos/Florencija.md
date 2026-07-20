@@ -41,8 +41,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 ## Teiginiai
 
 <a id="claim-t-83346"></a>
-- t-001
-  global_id: t-83346
+- t-003
   teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 <a id="claim-t-83347"></a>
 - t-002
-  global_id: t-83347
   teiginys: "Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - c-79693
 
 <a id="claim-t-83348"></a>
-- t-003
-  global_id: t-83348
+- t-001
   teiginys: "Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 <a id="claim-t-192660"></a>
 - t-004
-  global_id: t-192660
   teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -120,10 +116,9 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175430
-    - c-003
+
 <a id="claim-t-197877"></a>
 - t-005
-  global_id: t-197877
   teiginys: "Vėliau ši nesuskaičiuojama kariuo menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 karių, atėjo prie Florencijos mūrų, bet beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -179,8 +174,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192660
+
 ## Citatos
 
 - id: c-79693
@@ -214,29 +208,16 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
-  citata_rodoma: |
-    Tačiau ši jo žmo­
-    na Sofija, Tverės kunigaikščio Bori­
-    so duktė, vėliau pateko Žygimanto
-    galion; nes popiežius Eugenijus IV
-    užtarė ją laiške Žygimantui Kęstu-
-    taičiui, rašytame iš Florencijos 1434
-    metų spalio 20 dieną.
-    216
-
-    ## Puslapis 233
-
-    I I I  KNYGA
-    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.
+  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių\nmiestiečių17."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83346
-    - t-83347
+    - t-003
+    - t-002
+
 - id: c-79695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -255,7 +236,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83348
+    - t-001
+
 - id: c-175430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -276,20 +258,12 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     nekliudoma persikėlė per Reiną. Atrodo, kad herulų būta
     lik pirmame dalinyje, nes Galijoje apie juos nieko nekal­
     bama.
-  citata_rodoma: |
-    Vėliau ši nesuskaičiuojama kariuo­
-    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
-    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
-    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
-    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
-    Italiją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji
-    nėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje
-    nekliudoma persikėlė per Reiną.
+  citata_rodoma: "Vėliau ši nesuskaičiuojama kariuo­\nmenė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 \nkarių, atėjo prie Florencijos mūrų, bet beveik visiškai \npralaimėjo Stilichono vadovaujamiems romėnams. Antra \ndalis liko vietoje, laukdama progos, kuri atvertų kelią į \nItaliją. Tačiau, pirmai kariuomenės daliai pralaimėjus, ji \nnėjo pirmyn, o pasuko Galijos link ir 406 metų pabaigoje \nnekliudoma persikėlė per Reiną."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192660
-    - t-197877
+    - t-004
+    - t-005

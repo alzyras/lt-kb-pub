@@ -38,7 +38,6 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 
 <a id="claim-t-21155"></a>
 - t-001
-  global_id: t-21155
   teiginys: "Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 
 <a id="claim-t-183370"></a>
 - t-002
-  global_id: t-183370
   teiginys: "1926 m. rugsėjo 28 d. Lietuva Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -101,5 +99,5 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21155
-    - t-183370
+    - t-001
+    - t-002

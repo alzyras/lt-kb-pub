@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-50813"></a>
-- t-001
-  global_id: t-50813
+- t-002
   teiginys: "Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-37097
 
 <a id="claim-t-50814"></a>
-- t-002
-  global_id: t-50814
+- t-001
   teiginys: "Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -99,24 +97,15 @@ Nenurodyta
     vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
 
     (^1) ) C. ep.
-  citata_rodoma: |
-    Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­
-    pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­
-    bus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­
-    kėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš
-    pradžių trūko ir vieno ir kito. Kitais metais po vyskupijos
-    įkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,
-    kai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­
-    vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
-
-    (^1) ) C.
+  citata_rodoma: "Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­\npas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­\nbus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­\nkėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš\npradžių trūko ir vieno ir kito. Kitais metais po vyskupijos\nįkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,\nkai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­\nvę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,\n\n(^1) ) C."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50813
+    - t-002
+
 - id: c-37098
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -136,4 +125,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50814
+    - t-001

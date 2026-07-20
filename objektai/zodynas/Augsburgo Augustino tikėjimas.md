@@ -31,7 +31,6 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 
 <a id="claim-t-86514"></a>
 - t-001
-  global_id: t-86514
   teiginys: "Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 
 <a id="claim-t-194215"></a>
 - t-002
-  global_id: t-194215
   teiginys: "IL 4U tautoms, kurios paprastai patenka jų globai, visas jų teises, taip ir religijos bei tikėjimo papročius, jei pasižadėtų, nepa keistus išsaugoti."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -93,40 +91,15 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
     Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę
     ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
     įtraukti į sutartį.
-  citata_rodoma: |
-    in ea sententia extitimus, omni ratione, ut nobis providendum
-    statueremus, ne cuiquam ullas ad res, a Sacrosanctae Ecclesiae
-    institutis alienas, autb-tem n-ram impertijsse videri posse­
-    mus, tamen cum non incognita nobis esset, Christianorum
-    324
-
-    ## Puslapis 341
-
-    IV KNYGA
-    Žygimantas Augustas, Dievo malone Lenkijos karalius,
-    didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir
-    1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­
-    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
-    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
-    utonų ordino Livonijoje magistras, vildamasis mūsų
-    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
-    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
-    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
-    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
-    mis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
-    rie mums su pačiomis apskritimis atitektų, šventomis apei­
-    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
-    Augustino tikėjimą, leistume laisvai naudotis. Tėvas ponas
-    Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę
-    ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
-    įtraukti į sutartį.
+  citata_rodoma: "in ea sententia extitimus, omni ratione, ut nobis providendum \nstatueremus, ne cuiquam ullas ad res, a Sacrosanctae Ecclesiae \ninstitutis alienas, autb-tem n-ram impertijsse videri posse­\nmus, tamen cum non incognita nobis esset, Christianorum\n324\n\n## Puslapis 341\n\nIV KNYGA\nŽygimantas Augustas, Dievo malone Lenkijos karalius, \ndidysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir \n1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­\nsiems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­\ntriuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­\nutonų ordino Livonijoje magistras, vildamasis mūsų \ništikimybės ir pritarimo, patikėjo mums save, ordiną bei val­\ndas ir, jei juos imtumėmės ginti, pažadėjo mums perduoti \nkai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų \npusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­\nmis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­\nrie mums su pačiomis apskritimis atitektų, šventomis apei­\ngomis, taip pat su papročiais ir ypač religija, išpažįstančia \nAugustino tikėjimą, leistume laisvai naudotis. Tėvas ponas \nValerijonas, Vilniaus vyskupas, vykdydamas savo prievolę \nir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos \nįtraukti į sutartį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86514
+    - t-001
+
 - id: c-176817
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,4 +134,4 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194215
+    - t-002

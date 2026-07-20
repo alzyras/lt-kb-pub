@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71752"></a>
-- t-001
-  global_id: t-71752
+- t-006
   teiginys: "1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-04991
 
 <a id="claim-t-71753"></a>
-- t-002
-  global_id: t-71753
+- t-005
   teiginys: "1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,6 @@ Nenurodyta
 
 <a id="claim-t-71754"></a>
 - t-003
-  global_id: t-71754
   teiginys: "1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,6 @@ Nenurodyta
 
 <a id="claim-t-71755"></a>
 - t-004
-  global_id: t-71755
   teiginys: "1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -147,20 +143,16 @@ Nenurodyta
     keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
     1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
     tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
-  citata_rodoma: |
-    Vistik vien Lietuvos
-    (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
-    keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
-    1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
-    tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
+  citata_rodoma: "Vistik vien Lietuvos\n(Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent\nkeliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų\n1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­\ntijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71752
-    - t-71754
+    - t-006
+    - t-003
+
 - id: c-04992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -175,18 +167,15 @@ Nenurodyta
     kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
     Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
     Deltuvos kunigai.
-  citata_rodoma: |
-    Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be
-    kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
-    Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
-    Deltuvos kunigai.
+  citata_rodoma: "Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be\nkitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis\nMindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami\nDeltuvos kunigai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71755
+    - t-004
+
 - id: c-31351
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -200,16 +189,11 @@ Nenurodyta
     Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
     Deltuvos kunigai. Mindaugui ėmus išvarinėti ir žudyti savo priešus,
     visa eilė smulkių ir silpnų kunigų žlugo.
-  citata_rodoma: |
-    Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be
-    kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
-    Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
-    Deltuvos kunigai. Mindaugui ėmus išvarinėti ir žudyti savo priešus,
-    visa eilė smulkių ir silpnų kunigų žlugo.
+  citata_rodoma: "Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be\nkitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis\nMindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami\nDeltuvos kunigai. Mindaugui ėmus išvarinėti ir žudyti savo priešus,\nvisa eilė smulkių ir silpnų kunigų žlugo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71753
+    - t-005

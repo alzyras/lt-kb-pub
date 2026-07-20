@@ -30,7 +30,6 @@ Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Ange
 
 <a id="claim-t-191750"></a>
 - t-001
-  global_id: t-191750
   teiginys: "Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Anger miestelio ties pietiniu ežero sąsiauriu aprašymo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Narbutas Voigto „Geschichte Preussens“ I tomo 113 puslapį cituoja prie Ange
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191750
+    - t-001

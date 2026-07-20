@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-40701"></a>
 - t-001
-  global_id: t-40701
   teiginys: "Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,13 +74,11 @@ Nenurodyta
     p. 131, Husarų palašas. ATR, XVII-XVIII a., VDKM, Artūro Užgalio nuotr.
     p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo
     bažnyčioje saugomų būgnų, Karolio Zikaro nuotr.
-  citata_rodoma: |
-    p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo
-    bažnyčioje saugomų būgnų, Karolio Zikaro nuotr.
+  citata_rodoma: "p. 131, Būgnas-timpanas (būgnas-katilas), vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo\nbažnyčioje saugomų būgnų, Karolio Zikaro nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40701
+    - t-001

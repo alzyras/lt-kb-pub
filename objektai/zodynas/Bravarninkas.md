@@ -54,7 +54,6 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
 
 <a id="claim-t-195616"></a>
 - t-001
-  global_id: t-195616
   teiginys: "Bravarninkas šiame šaltinyje iš salyklos išvaro degtinę."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -76,12 +75,11 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
     Čia buvo bravariukas.“
     Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
-  citata_rodoma: |
-    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
+  citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195616
+    - t-001

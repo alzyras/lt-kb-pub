@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-30329"></a>
 - t-001
-  global_id: t-30329
   teiginys: "Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,17 +70,14 @@ media_all_json: |-
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: |
-    1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
-    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
-    Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
-    24.
+  citata_rodoma: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino\nvedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi\n24."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30329
+    - t-001
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]

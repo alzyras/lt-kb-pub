@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-32019"></a>
 - t-001
-  global_id: t-32019
   teiginys: "W. Kwiatkowskio „Ze studium o języku urzędowym Wielkiego Księstwa Litewskiego“ paskelbta „Prace Alma Mater Vilnensis“ 1958 m. Londone, p. 133–160."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,14 +60,11 @@ media_all_json: |-
     SL. — Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego
     Księstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160
     p. — Liubavskij, M. : LOD, 1892.
-  citata_rodoma: |
-    — Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego
-    Księstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160
-    p. — Liubavskij, M.
+  citata_rodoma: "— Kwiatkowski, W. : Ze studium o języku urzędowym Wielkiego\nKsięstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160\np. — Liubavskij, M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32019
+    - t-001

@@ -39,8 +39,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ## Teiginiai
 
 <a id="claim-t-96866"></a>
-- t-001
-  global_id: t-96866
+- t-005
   teiginys: "Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-91460
 
 <a id="claim-t-96867"></a>
-- t-002
-  global_id: t-96867
+- t-003
   teiginys: "Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,9 +70,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   pagrindžia:
     - c-31248
     - c-167704
+
 <a id="claim-t-96869"></a>
-- t-003
-  global_id: t-96869
+- t-002
   teiginys: "Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - c-31247
 
 <a id="claim-t-193561"></a>
-- t-004
-  global_id: t-193561
+- t-007
   teiginys: "Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -125,23 +122,15 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon.
-  citata_rodoma: |
-    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
-    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
-    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
-    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
-    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
-    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
-    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
-    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
-    sijos įtakon.
+  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,\nkuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo\nimperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­\nsijos įtakon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96869
+    - t-002
+
 - id: c-31248
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,7 +147,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96867
+    - t-003
+
 - id: c-91460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -177,7 +167,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96866
+    - t-005
+
 - id: c-167704
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -190,10 +181,12 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     čių sūnus kitur, nepripažinti jiems tų žemių, kurias valdė jų tėvai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-176240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,6 +205,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193561
+    - t-007
+
 ## Ryšiai
 - Riurikaičių dinastija valdė [[objektai/vietos/Rusija]]

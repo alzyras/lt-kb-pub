@@ -31,7 +31,6 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
 
 <a id="claim-t-186131"></a>
 - t-001
-  global_id: t-186131
   teiginys: "Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
 
 <a id="claim-t-196526"></a>
 - t-002
-  global_id: t-196526
   teiginys: "Per pilies gaisrą ir puolimą žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,5 +83,5 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186131
-    - t-196526
+    - t-001
+    - t-002

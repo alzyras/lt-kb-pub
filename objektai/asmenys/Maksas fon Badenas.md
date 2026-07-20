@@ -40,7 +40,6 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 
 <a id="claim-t-19123"></a>
 - t-001
-  global_id: t-19123
   teiginys: "Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     drauge su ministrų kabinetu sudarė vykdomąją valdžią. Gavusi naujo Vo-
     kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
     pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.
-  citata_rodoma: |
-    kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
+  citata_rodoma: "kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19123
+    - t-001

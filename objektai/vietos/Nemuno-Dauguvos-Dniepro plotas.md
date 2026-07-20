@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-32413"></a>
 - t-001
-  global_id: t-32413
   teiginys: "Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,23 +74,14 @@ media_all_json: |-
     Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
-  citata_rodoma: |
-    ) baltuose ir jų san­**
-        **tykiai su kaimynais**
-
-    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
-    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
-    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
-    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
-    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
-    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
-    amžiuje, baltai išlaikė ją aukštame laipsnyje.
+  citata_rodoma: ") baltuose ir jų san­**\n    **tykiai su kaimynais**\n\nĮsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui\n(pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos\nPripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje\nvyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi\nNemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­\nliai, be jokių lūžių vystydami savo kultūrą viduriniame geležies\namžiuje, baltai išlaikė ją aukštame laipsnyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32413
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Baltai]]

@@ -49,8 +49,7 @@ Turku šiame šaltinyje yra miestas.
 ## Teiginiai
 
 <a id="claim-t-195482"></a>
-- t-001
-  global_id: t-195482
+- t-002
   teiginys: "1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -78,12 +77,11 @@ Turku šiame šaltinyje yra miestas.
     metų gyvenęs Luononmaa saloje šalia to paties Naantalio.
     1880 m.
     įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
-  citata_rodoma: |
-    1880 m. įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
+  citata_rodoma: "1880 m. įstojo į Turku suomių liciejų, mūsiškai — gimnaziją."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195482
+    - t-002

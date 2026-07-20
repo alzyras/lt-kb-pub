@@ -7,13 +7,13 @@ datos:
   - '1618 m.'
 date_start: '1618'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-terminas
   - sąvoka
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,9 +37,8 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
 
 <a id="claim-t-189277"></a>
 - t-001
-  global_id: t-189277
   teiginys: "Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,30 +57,7 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172165
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “. Ant tų
-    370
 
-    ## Puslapis 370
-
-    akmenų atnašaudavo maistą, kuris būdavo aptaškomas tam pa­
-    aukotų gyvulių krauju.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189277
 ## Citatos
 
 - id: c-172165
@@ -100,22 +76,11 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
 
     akmenų atnašaudavo maistą, kuris būdavo aptaškomas tam pa­
     aukotų gyvulių krauju.
-  citata_rodoma: |
-    Netgi Li­
-    vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,
-    tai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.
-    Jie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-
-    te“, tai yra, anot autoriaus vertimo, „loca adiectorum “. Ant tų
-    370
-
-    ## Puslapis 370
-
-    akmenų atnašaudavo maistą, kuris būdavo aptaškomas tam pa­
-    aukotų gyvulių krauju.
+  citata_rodoma: "Netgi Li­\nvonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,\ntai yra 1618, metais buvo neapkrikštyta 418 suaugusių asmenų.\nJie garbino didžiulius akmenis, kuriuos vadino „Atmeszenes Wie-\nte“, tai yra, anot autoriaus vertimo, „loca adiectorum “. Ant tų\n370\n\n## Puslapis 370\n\nakmenų atnašaudavo maistą, kuris būdavo aptaškomas tam pa­\naukotų gyvulių krauju."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189277
+    - t-001

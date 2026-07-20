@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87012"></a>
 - t-001
-  global_id: t-87012
   teiginys: "Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-82993
 
 <a id="claim-t-87014"></a>
-- t-002
-  global_id: t-87014
+- t-004
   teiginys: "Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87014
+    - t-004
+
 - id: c-82993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -126,22 +125,11 @@ Nenurodyta
     nigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
-  citata_rodoma: |
-    Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­
-    riausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­
-    vedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­
-    jos privilegija parašyta ant pergamento, esančio daugiau negu
-    uolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­
-    lenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis
-    žodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­
-    dę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­
-    nigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas
-    yra įrašyta žodis žodin, tokio turinio:
-    In Nomine Domini Amen.
+  citata_rodoma: "Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­\nriausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­\nvedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­\njos privilegija parašyta ant pergamento, esančio daugiau negu \nuolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­\nlenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis \nžodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­\ndę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­\nnigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas \nyra įrašyta žodis žodin, tokio turinio:\nIn Nomine Domini Amen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87012
+    - t-001

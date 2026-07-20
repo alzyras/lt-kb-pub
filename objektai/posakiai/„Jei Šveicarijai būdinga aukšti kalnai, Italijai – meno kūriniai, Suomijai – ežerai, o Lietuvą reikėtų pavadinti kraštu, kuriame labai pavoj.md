@@ -31,7 +31,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 <a id="claim-t-20844"></a>
 - t-001
-  global_id: t-20844
   teiginys: "Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
     Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
     ji dažnai laikoma Rytų Europos dalimi.
-  citata_rodoma: |
-    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
+  citata_rodoma: "tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20844
+    - t-001

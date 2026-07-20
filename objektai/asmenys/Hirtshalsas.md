@@ -32,7 +32,6 @@ Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, t
 
 <a id="claim-t-175204"></a>
 - t-001
-  global_id: t-175204
   teiginys: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175204
+    - t-001

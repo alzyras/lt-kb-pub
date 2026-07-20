@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-32740"></a>
 - t-001
-  global_id: t-32740
   teiginys: "Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,11 @@ media_all_json: |-
     kojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­
     ginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų
     slėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės.
-  citata_rodoma: |
-    Žemaičius įveikti kryžiuočiams buvo sunku. Gindami savo
-    laisvę ir žemę, pagonys parodė retai sutinkamo atsparumo, pasiau­
-    kojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­
-    ginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų
-    slėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės.
+  citata_rodoma: "Žemaičius įveikti kryžiuočiams buvo sunku. Gindami savo\nlaisvę ir žemę, pagonys parodė retai sutinkamo atsparumo, pasiau­\nkojimo ir karžygiškumo, kurį paliudija ir _priešų_ kronikos. Paly­\nginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų\nslėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32740
+    - t-001

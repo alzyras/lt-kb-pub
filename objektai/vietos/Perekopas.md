@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-98771"></a>
-- t-001
-  global_id: t-98771
+- t-003
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ media_all_json: |-
     - c-92960
 
 <a id="claim-t-98772"></a>
-- t-002
-  global_id: t-98772
+- t-004
   teiginys: "Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ media_all_json: |-
     - c-92962
 
 <a id="claim-t-183071"></a>
-- t-003
-  global_id: t-183071
+- t-005
   teiginys: "Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -153,7 +150,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-98771
+    - t-003
+
 - id: c-92962
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,17 +163,15 @@ media_all_json: |-
     naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
-  citata_rodoma: |
-    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
-    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
-    nės pilis).
+  citata_rodoma: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-\nrado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-\nnės pilis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-98772
+    - t-004
+
 - id: c-166462
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,4 +190,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183071
+    - t-005

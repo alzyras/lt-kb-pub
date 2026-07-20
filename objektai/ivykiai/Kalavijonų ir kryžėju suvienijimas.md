@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201309"></a>
 - t-001
-  global_id: t-201309
   teiginys: "Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-201310"></a>
 - t-002
-  global_id: t-201310
   teiginys: "Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184659
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Strasburgo ir popiežiaus rū­
     mų vyro jonitų brostvio Hermano didysis mistras
@@ -100,11 +99,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201309
+    - t-001
 
 - id: c-184660
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žinoma buvo, kaip
     vir siaus minavo jau, jog vyskupai Rygos pradžioj
@@ -126,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201310
+    - t-002

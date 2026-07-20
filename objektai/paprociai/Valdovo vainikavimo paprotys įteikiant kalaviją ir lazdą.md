@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-185864"></a>
 - t-001
-  global_id: t-185864
   teiginys: "Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-196322"></a>
 - t-002
-  global_id: t-196322
   teiginys: "Rūmų maršalas, paraginęs siekti protėvių santarvės ir šlovės, įteikė Giliginui kalaviją bei lazdą kaip valdžios ženklus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185864
+    - t-001
+
 - id: c-178624
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -129,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196322
+    - t-002

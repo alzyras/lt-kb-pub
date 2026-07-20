@@ -37,7 +37,6 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
 
 <a id="claim-t-80615"></a>
 - t-001
-  global_id: t-80615
   teiginys: "M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,20 +76,11 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
     se - Bresto vaivadijoje, pasitelkę ir savo
     šalininkus, tarnus bei rekrūtus iš savo dvarų
     Lenkijoje - Voluinėje.
-  citata_rodoma: |
-    Katilas, mobilizacijos
-    vieta jai buvo paskirta Vileikos miestelio
-    apylinkės Ašmenos paviete. G. A. Oginskis
-
-    telkė respublikonų pajėgas Žemaitijoje, Viš-
-    nioveckiai organizavo bajoriją LDK pietuo-
-    se - Bresto vaivadijoje, pasitelkę ir savo
-    šalininkus, tarnus bei rekrūtus iš savo dvarų
-    Lenkijoje - Voluinėje.
+  citata_rodoma: "Katilas, mobilizacijos\nvieta jai buvo paskirta Vileikos miestelio\napylinkės Ašmenos paviete. G. A. Oginskis\n\ntelkė respublikonų pajėgas Žemaitijoje, Viš-\nnioveckiai organizavo bajoriją LDK pietuo-\nse - Bresto vaivadijoje, pasitelkę ir savo\nšalininkus, tarnus bei rekrūtus iš savo dvarų\nLenkijoje - Voluinėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80615
+    - t-001

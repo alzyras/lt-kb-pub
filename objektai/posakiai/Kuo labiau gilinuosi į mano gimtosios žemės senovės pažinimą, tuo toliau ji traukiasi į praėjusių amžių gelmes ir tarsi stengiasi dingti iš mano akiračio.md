@@ -31,7 +31,6 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 
 <a id="claim-t-192125"></a>
 - t-001
-  global_id: t-192125
   teiginys: "Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę refleksiją apie senovės pažinimo ribas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -49,7 +48,6 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 
 <a id="claim-t-197702"></a>
 - t-002
-  global_id: t-197702
   teiginys: "Kuo labiau gilinuosi į ma no gimtosios žemės senovės pažinimą, tuo toliau ji trau kiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,6 +82,7 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175009
@@ -91,35 +90,13 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Ukrainoje, Kijevo gubernijoje, yra labai senas pa­
-    našus piliakalnis*, Jos yra atokiau nuo miestelių, tarp
-    pelkių, kur negalėjo eiti joks judresnis kelias, atrodo, kad
-    buvo specialiai pasirenkamos neprieinamos arba lengvai
-    tokiomis paverčiamos vietos; kai kurie iškasti daiktai,
-    vietos padavimai bei visa kita leidžia manyti, jog jos
-    priklausė labai tolimoms epochoms, kai šios vietovės at­
-    rodė visiškai kitaip ir buvo gyvenamos visiškai kitos gi­
-    minės genčių. Pro langą mano namuko, kur rašau šias
-    eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą,
-    esantį tiesiai vos per mylią, sudarantį didingą tolimos
-    tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities pamink­
-    lą, kasdien jaučiu savo širdyje gimstančius jausmus, ska­
-    tinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis
-    šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į ma­
-    no gimtosios žemės senovės pažinimą, tuo toliau ji trau­
-    kiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš
-    mano akiračio. Kokia tai galinga, gausi, karinga ir civili­
-    zuota gentis, kokios aplinkybės atginė ją iš Rytų į šias
-    nuošalias vietas, kaip dar savo saugumui ji supylė šią
-    milžinišką žemės tvirtovę, sukrovė šias suplūkto, suslėgto
-    smėlio ir molio mases į taisyklingai kvadratinę tvirtovę?
-  citata_rodoma: |
     Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio.
+  citata_rodoma: "Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192125
-    - t-197702
+    - t-001
+    - t-002

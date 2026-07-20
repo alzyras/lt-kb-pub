@@ -38,7 +38,6 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 
 <a id="claim-t-58767"></a>
 - t-001
-  global_id: t-58767
   teiginys: "Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,19 +67,15 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
     pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
     Adrijos pakrantė).
 
-    jam nusivylimą?
-  citata_rodoma: |
-    158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į
-    pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,
-    Adrijos pakrantė).
-
-    jam nusivylimą?
+    jam nusivylimą? Tikrai ne. Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
+  citata_rodoma: "158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į\npietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,\nAdrijos pakrantė).\n\njam nusivylimą?"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58767
+    - t-001
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

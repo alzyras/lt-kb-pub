@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01730"></a>
 - t-001
-  global_id: t-01730
   teiginys: "1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,14 +81,11 @@ Nenurodyta
     vos nepriklausomybę. Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-  citata_rodoma: |
-    Taryba ryžosi atgaivinti savo vienybę nau-
-    ju, visai savarankišku pareiškimu, kurs patapo
-    Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
+  citata_rodoma: "Taryba ryžosi atgaivinti savo vienybę nau-\nju, visai savarankišku pareiškimu, kurs patapo\nLietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01730
+    - t-001

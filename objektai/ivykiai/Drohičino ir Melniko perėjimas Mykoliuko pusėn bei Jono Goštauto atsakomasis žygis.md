@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-186625"></a>
 - t-002
-  global_id: t-186625
   teiginys: "Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -64,10 +63,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169902
-    - c-001
+
 <a id="claim-t-186628"></a>
-- t-005
-  global_id: t-186628
+- t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -84,7 +82,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169902
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -106,12 +104,11 @@ Nenurodyta
     vo mažametis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186625
-    - t-186628
+  statusas: verified
+- t-002
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -134,10 +131,12 @@ Nenurodyta
     Goštautas parvyko j Vilnių pas didįjį kunigaikštį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+- t-004
+    - t-001
+
 ## Citatos
 
 - id: c-169902
@@ -145,22 +144,6 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
-    seniūnu buvo Jurgis Nosuta 8, paskirtas dar Žygiman­
-    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis.
-  citata_rodoma: |
     Būnant Kazimierui Vilniuje, Drohičino ir Melniko
     seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
     to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
@@ -170,11 +153,12 @@ Nenurodyta
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės. Ir su visais tais miestais prisijungė
     prie Mazovijos ir ėmė tarnauti Mykoliukui
+  citata_rodoma: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko\nseniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­\nto. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­\ntas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis\npabėgo į Mazoviją, nusprendė su tais miestais pereiti\nMykoliuko Zygimantaičio tarnybon ir dar prikalbėjo\ndaugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios\nKunigaikštystės. Ir su visais tais miestais prisijungė\nprie Mazovijos ir ėmė tarnauti Mykoliukui"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186625
-    - t-186628
+    - t-002
+    - t-001

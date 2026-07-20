@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31498"></a>
-- t-001
-  global_id: t-31498
+- t-005
   teiginys: "1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą."
   atnaujinta: "2026-05-20 20:48"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-33444
 
 <a id="claim-t-31499"></a>
-- t-002
-  global_id: t-31499
+- t-008
   teiginys: "Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
   atnaujinta: "2026-05-20 20:48"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-05005
 
 <a id="claim-t-31500"></a>
-- t-003
-  global_id: t-31500
+- t-007
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-05005
 
 <a id="claim-t-31501"></a>
-- t-004
-  global_id: t-31501
+- t-009
   teiginys: "1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +132,7 @@ Nenurodyta
     - c-31394
 
 <a id="claim-t-31502"></a>
-- t-005
-  global_id: t-31502
+- t-006
   teiginys: "Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -172,8 +167,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31499
-    - t-31500
+    - t-008
+    - t-007
+
 - id: c-31394
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -194,7 +190,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31501
+    - t-009
+
 - id: c-33444
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,18 +204,12 @@ Nenurodyta
     totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
     Vytautas įkurdino Trakų kunigaikštijoje.
-  citata_rodoma: |
-    Atrodo, pritariant Jogailai, kuris
-    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
-    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
-    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
-    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
-    Vytautas įkurdino Trakų kunigaikštijoje.
+  citata_rodoma: "Atrodo, pritariant Jogailai, kuris\niš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)\nsuruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada\ntotorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug\ntotorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos\nVytautas įkurdino Trakų kunigaikštijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31498
-    - t-31502
+    - t-005
+    - t-006

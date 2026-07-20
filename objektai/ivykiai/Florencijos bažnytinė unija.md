@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-26394"></a>
 - t-001
-  global_id: t-26394
   teiginys: "1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26394
+    - t-001

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-194811"></a>
 - t-001
-  global_id: t-194811
   teiginys: "Kai kraštą ištikdavo pralaimėjimai ir nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą, arba reikėdavo, kad kas nors savo noru susidegintų ant laužo ar žūtų kovoje su priešu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194811
+    - t-001

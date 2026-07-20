@@ -28,7 +28,6 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
 
 <a id="claim-t-201251"></a>
 - t-001
-  global_id: t-201251
   teiginys: "Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
 ## Citatos
 
 - id: c-184601
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau buvo Kolomanas Mstislavą nuveikiąs, bet
     tuo tarpu lietuviai, antpuolę Kolomaną iš užpakalio,
@@ -62,4 +62,4 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201251
+    - t-001

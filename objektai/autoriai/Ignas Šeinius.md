@@ -28,7 +28,6 @@ Ignas Šeinius straipsnyje apie Vilniaus stilių ir dvasią teigė, kad gražioj
 
 <a id="claim-t-200875"></a>
 - t-001
-  global_id: t-200875
   teiginys: "Ignas Šeinius straipsnyje apie Vilniaus stilių ir dvasią teigė, kad gražioje aplinkoje žmogaus dieviškas pradas ryškėja gražiau."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Ignas Šeinius straipsnyje apie Vilniaus stilių ir dvasią teigė, kad gražioj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200875
+    - t-001

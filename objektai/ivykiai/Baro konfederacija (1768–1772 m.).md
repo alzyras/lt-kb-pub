@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-39127"></a>
 - t-001
-  global_id: t-39127
   teiginys: "1768 m. prieš Rusijos kontrolę nusistatę lenkų ir lietuvių didikai bei bajorai susibūrė į Baro konfederaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-193740"></a>
 - t-002
-  global_id: t-193740
   teiginys: "Baro konfederacija nepasiekė savo tikslų atsikratyti svetimų šalių įtakos."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39127
+    - t-001
+
 - id: c-176405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193740
+    - t-002

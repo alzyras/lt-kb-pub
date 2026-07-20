@@ -9,14 +9,14 @@ datos:
   - '1646 m.'
 date_start: '1618'
 date_end: '1646'
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - valstybė
   - vieta
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +39,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 ## Teiginiai
 
 <a id="claim-t-47312"></a>
-- t-001
-  global_id: t-47312
+- t-003
   teiginys: "Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - c-24557
 
 <a id="claim-t-47313"></a>
-- t-002
-  global_id: t-47313
+- t-004
   teiginys: "Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,9 +72,9 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - c-24558
     - c-49809
+
 <a id="claim-t-47314"></a>
-- t-003
-  global_id: t-47314
+- t-001
   teiginys: "Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -92,8 +90,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - c-167032
 
 <a id="claim-t-47315"></a>
-- t-004
-  global_id: t-47315
+- t-002
   teiginys: "Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -109,8 +106,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - c-24556
 
 <a id="claim-t-183640"></a>
-- t-005
-  global_id: t-183640
+- t-006
   teiginys: "Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -130,8 +126,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - c-167032
 
 <a id="claim-t-192770"></a>
-- t-006
-  global_id: t-192770
+- t-007
   teiginys: "Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -149,34 +144,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175540
-    - c-006
 - susijęs iš Lietuva: XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Ant­
-    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
-    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
-    Viduržemio jūros pirklių, kurie bemaž vieni pasiekdavo
-    tolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir
-    visados iš anksto puoselėjo viltis rasti lobių nežinomuose
-    kraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­
-    rei pažinti dar labiau negu Vidurio Europos tautų bar­
-    bariškumas ir nesyetingumas. Bet kai anarchija pakirto
-    Romos valstybės imperatorių galybės kolosą, kai barbarų
-    antplūdis pražudė civilizuotus kraštus, pavertė apsišvie­
-    tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
-    tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
-    pusiausvyros metas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192770
 ## Citatos
 
 - id: c-24556
@@ -196,18 +164,15 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
     katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
     galija).
-  citata_rodoma: |
-    Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio
-    (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie
-    katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-
-    galija).
+  citata_rodoma: "Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio\n(palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie\nkatalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portu-\ngalija)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47315
+    - t-002
+
 - id: c-24557
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,17 +189,15 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
     ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
     universitetai.
-  citata_rodoma: |
-    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
-    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
-    universitetai.
+  citata_rodoma: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-\nropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus\nuniversitetai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47312
+    - t-003
+
 - id: c-24558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,17 +208,15 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
-  citata_rodoma: |
-    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
-    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
-    ir Lietuvos Valstybėje.
+  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo\nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos\nir Lietuvos Valstybėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47313
+    - t-004
+
 - id: c-49809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -267,18 +228,15 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     ir Lietuvos Valstybėje.
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
     jos stiliumi.
-  citata_rodoma: |
-    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
-    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
-    ir Lietuvos Valstybėje.
-    Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
-    jos stiliumi.
+  citata_rodoma: "Reiškinys neturėjo precedento Vidurio Europoje, tai buvo \nviena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos \nir Lietuvos Valstybėje.\nKlasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-\njos stiliumi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-167032
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -304,28 +262,14 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47314
-    - t-183640
+    - t-001
+    - t-006
+
 - id: c-175540
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    nepajudinama tarp apsišvietusio pasaulio griuvėsių, kei­
-    čiantis tokiai daugybei kartų, įžiebė naujų amžių filoso­
-    fijos deglą, kuriam buvo lemta savo šviesa išsklaidyti su­
-    temas, užklojusias istorijos akiratį. Nevalia kaltinti tikė­
-    jimo sargų ir mokytojų dėl pažangos istorijos pažinimo
-    stokos: juk dvasininkai paliko mums daugiausia kronikų*.
-    Iš kito atstumo žvelgdami į dalykus, matome, kad būta
-    laikų, ypač lietuvių žemėje, kai tikėjimo ir švietimo deg­
-    las jos gyventojams atrodė tarsi ir žmonių, ir senovės, ir
-    viso, kas gera, naikinimo perkūnas. Ginkluoti krikštyto­
-    jai, turėdami laukines širdis ir atlikdami baisius darbus,
-    užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
-    ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
-    brangesnius tautinius paminklus, laisvę ir namų taiką.
-  citata_rodoma: |
     Ant­
     ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
     je buvo be galo painūs, padriki ir tolydžio atnaujinami.
@@ -340,10 +284,11 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     tusių romėnų palikimą dykra ir kapinynais, šiaurinėms
     tautoms susiklostė naujos aplinkybės, ir į Europą atėjo
     pusiausvyros metas.
+  citata_rodoma: "Ant­\nra vertus, ryšiai su labiau išvystytomis tautomis senovė­\nje buvo be galo painūs, padriki ir tolydžio atnaujinami.\nViduržemio jūros pirklių, kurie bemaž vieni pasiekdavo\ntolimas jūras, be to, turėjo ryšį su Atlanto vandenynu ir\nvisados iš anksto puoselėjo viltis rasti lobių nežinomuose\nkraštuose, kerštas sudarė nesuskaičiuojamas kliūtis Šiau­\nrei pažinti dar labiau negu Vidurio Europos tautų bar­\nbariškumas ir nesyetingumas. Bet kai anarchija pakirto\nRomos valstybės imperatorių galybės kolosą, kai barbarų\nantplūdis pražudė civilizuotus kraštus, pavertė apsišvie­\ntusių romėnų palikimą dykra ir kapinynais, šiaurinėms\ntautoms susiklostė naujos aplinkybės, ir į Europą atėjo\npusiausvyros metas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192770
+    - t-007

@@ -31,7 +31,6 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
 
 <a id="claim-t-42392"></a>
 - t-001
-  global_id: t-42392
   teiginys: "Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     - c-45480
 
 <a id="claim-t-193789"></a>
-- t-002
-  global_id: t-193789
+- t-003
   teiginys: "Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -77,22 +75,12 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     talionas užima Žeimelį.
 
     0 = R x [2] Lapkričio 20 d. Kauno batalio-
-  citata_rodoma: |
-    Radviliškyje buvo paimta: 7 lauko pa-
-    trankos, 1 haubica, 2 zenitinės patrankos,
-    apie 100 kulkosvaidžių, 10 minosvaidžių,
-
-    ## Puslapis 197
-
-    @ Lapkričio 20 d. Pasvalio ba-
-    talionas užima Žeimelį.
-
-    0 = R x [2] Lapkričio 20 d.
+  citata_rodoma: "Radviliškyje buvo paimta: 7 lauko pa-\ntrankos, 1 haubica, 2 zenitinės patrankos,\napie 100 kulkosvaidžių, 10 minosvaidžių,\n\n## Puslapis 197\n\n@ Lapkričio 20 d. Pasvalio ba-\ntalionas užima Žeimelį.\n\n0 = R x [2] Lapkričio 20 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42392
-    - t-193789
+    - t-001
+    - t-003

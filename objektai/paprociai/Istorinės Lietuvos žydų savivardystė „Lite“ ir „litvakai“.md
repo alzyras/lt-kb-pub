@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54238"></a>
-- t-001
-  global_id: t-54238
+- t-002
   teiginys: "Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-55141
 
 <a id="claim-t-54239"></a>
-- t-002
-  global_id: t-54239
+- t-001
   teiginys: "Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -96,16 +94,12 @@ Nenurodyta
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
-  citata_rodoma: |
-    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
-    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
-    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
-    nigaikštija.
+  citata_rodoma: "Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-\ntarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi \nLietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-\nnigaikštija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54238
-    - t-54239
+    - t-002
+    - t-001

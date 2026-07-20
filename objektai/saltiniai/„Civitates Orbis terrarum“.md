@@ -30,7 +30,6 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
 
 <a id="claim-t-190508"></a>
 - t-001
-  global_id: t-190508
   teiginys: "Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto veikalo litografuoto viršelio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190508
+    - t-001

@@ -31,7 +31,6 @@ Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnai
 
 <a id="claim-t-189247"></a>
 - t-001
-  global_id: t-189247
   teiginys: "Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189247
+    - t-001

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67171"></a>
-- t-001
-  global_id: t-67171
+- t-002
   teiginys: "Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-67183
 
 <a id="claim-t-67172"></a>
-- t-002
-  global_id: t-67172
+- t-001
   teiginys: "Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,15 +79,15 @@ Nenurodyta
     filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
     buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: |
-    Tuo būdu V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
+  citata_rodoma: "Tuo būdu V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67171
+    - t-002
+
 - id: c-67184
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -101,14 +99,11 @@ Nenurodyta
     Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).
-  citata_rodoma: |
-    Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
-    kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
-    t. y. jau universiteto laikais).
+  citata_rodoma: "Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-\nkai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,\nt. y. jau universiteto laikais)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67172
+    - t-001

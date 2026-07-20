@@ -43,8 +43,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 ## Teiginiai
 
 <a id="claim-t-192196"></a>
-- t-001
-  global_id: t-192196
+- t-002
   teiginys: "Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -60,10 +59,9 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175060
-    - c-001
+
 <a id="claim-t-192197"></a>
-- t-002
-  global_id: t-192197
+- t-001
   teiginys: "Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,7 +77,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175061
-    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę.'
@@ -100,8 +98,6 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192196
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -120,8 +116,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192197
+
 ## Citatos
 
 - id: c-175060
@@ -129,61 +124,34 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Prie
-    Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
-    dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
-    nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
-    mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri
-    yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
-    mis apie penkias mylias, suskyla į daugelį mažų vagų,
-    arba protakų. Šio išsišakojimo vagos yra šios: kairėje į
-    vakarus vingiuoja Skirwith, Skirvytės, vaga, tai reiškia
-    Skiriu užeiga (gal kitados skalavo skiriu koloniją); savo
-    ruožtu ji priima losse, arba Jesse, įlanką, primenančią
-    vieną dievo Perkūno slavišką vardą; toliau ji įteka į pel­
-    kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
-    t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
-    arba langas, langas, t. y. uosto prieplauka.
-  citata_rodoma: |
     Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va-
     dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
     nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo-
     mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri yra senovinė piliavietė, nuplaukusi gražiomis apylinkė-
     mis apie penkias mylias, suskyla į daugelį mažų vagų, arba
     protakų.
+  citata_rodoma: "Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va-\ndinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-\nnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo-\nmis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri yra senovinė piliavietė, nuplaukusi gražiomis apylinkė-\nmis apie penkias mylias, suskyla į daugelį mažų vagų, arba\nprotakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192196
+    - t-002
+
 - id: c-175061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Praplaukęs ¡pro Gardiną, jis įteka
-    į tikrosios Lietuvos kraštus ir jokia savo dalimi neriboja
-    jų su svetimais. Prie šios upės yra daug senovės pilia-
-    viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie­
-    tų; pašventintų daugelio praėjusių metų atminimų. Ypač
-    vertas dėmesio jo žemupis, t. y. nuo Kauno iki Tilžės.
-    Pusantros mylios už šio miesto aukštos pakrantės ima
-    žemėti, vagos didingumas mažėja, o Nemunas ima vin­
-    giuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie
-    Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
-    dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
-    nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
-    mis.
-  citata_rodoma: |
     Prie šios upės yra daug senovės pilia-
     viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie-
     tų; pašventintų daugelio praėjusių metų atminimų.
+  citata_rodoma: "Prie šios upės yra daug senovės pilia-\nviečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie-\ntų; pašventintų daugelio praėjusių metų atminimų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192197
+    - t-001

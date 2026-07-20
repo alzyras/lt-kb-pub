@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201282"></a>
 - t-001
-  global_id: t-201282
   teiginys: "Ant galo kerštus tarp arkivyskupo Rygos ir kalavijonų, ku rie iki šio laiko tarp savęs vyriausia valdžia tebsivaržė, sutaikino ir kaip įmanydamas skatino kryžėjus gromatose tuointimpos lietuvius ir žemaičius netikėlius kariauti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184632
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo
     kerštus tarp arkivyskupo Rygos ir kalavijonų, ku­
@@ -81,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201282
+    - t-001

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87285"></a>
 - t-001
-  global_id: t-87285
   teiginys: "Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87285
+    - t-001

@@ -31,7 +31,6 @@ Stačiatikių cerkvė.
 
 <a id="claim-t-194286"></a>
 - t-001
-  global_id: t-194286
   teiginys: "Stačiatikių cerkvė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Stačiatikių cerkvė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194286
+    - t-001

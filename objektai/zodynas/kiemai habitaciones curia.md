@@ -31,7 +31,6 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 
 <a id="claim-t-58850"></a>
 - t-001
-  global_id: t-58850
   teiginys: "Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 
 <a id="claim-t-58851"></a>
 - t-002
-  global_id: t-58851
   teiginys: "Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 
 <a id="claim-t-184005"></a>
 - t-003
-  global_id: t-184005
   teiginys: "Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,8 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58851
+    - t-002
+
 - id: c-59483
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -124,7 +122,8 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58850
+    - t-001
+
 - id: c-167390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -146,4 +145,4 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184005
+    - t-003

@@ -40,8 +40,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 ## Teiginiai
 
 <a id="claim-t-60029"></a>
-- t-001
-  global_id: t-60029
+- t-002
   teiginys: "Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     - c-60662
 
 <a id="claim-t-60030"></a>
-- t-002
-  global_id: t-60030
+- t-001
   teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60030
+    - t-001
+
 - id: c-60662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -119,22 +118,14 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     vienus metus, kuriuos ten praleido, atplaukė čia  ir perkėlė su magistru bei broliais
     Marienverderio salos pilį iš Kvedino salos  į tą vietą, kur ji dabar tebestovi225, būtent  į
     Pamedės valsčių, vardu Reisiai226, pakeisdamas pilies vietą, bet ne pavadinimą.
-  citata_rodoma: |
-    Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
-                                    Mariae] pastatymą
-
-      Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
-    įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
-    mūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai
-    kurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė
-    į Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo
-    1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu.
+  citata_rodoma: "Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae\n                                Mariae] pastatymą\n\n  Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo\nįsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad\nmūsų išganymo dievas palaimintų mums kelią į kaimynines netikėlių žemes (pasak kai\nkurių, šitai tikriausia tiesa), paruošę visa, kas reikalinga pilims statyti, slapta nuplaukė\nį Kvedino salą, buvusią prieš šiandieninę šventos Marijos salą, ir ten viešpaties dievo\n1233 metais ant vienos kalvos pastatė pilį, pavadinę ją Marienverderiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60029
+    - t-002
+
 ## Ryšiai
 - Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]

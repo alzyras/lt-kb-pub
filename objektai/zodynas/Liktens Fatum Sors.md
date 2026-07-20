@@ -32,9 +32,8 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
 
 <a id="claim-t-189230"></a>
 - t-001
-  global_id: t-189230
   teiginys: "Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria lemties ir vienvaldės galios viskam reikšmes."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,24 +49,7 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172118
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria lemties ir vienvaldės galios viskam reikšmes.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
-    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
-    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
-    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
-    viskam. Tą patį reiškė ir Eviternus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189230
+
 ## Citatos
 
 - id: c-172118
@@ -75,25 +57,16 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-    Viršaitis (Wirszajtos)
-    Šio dievo stabas buvo senojoje Romovės šventykloje, jis
-    buvo labai gerbiamas.
-  citata_rodoma: |
     Graikai bei romėnai, kuriuos šiame veikale minėsime va­
     dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
     dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam. Tą patį reiškė ir Eviternus.
+  citata_rodoma: "Graikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam. Tą patį reiškė ir Eviternus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189230
+    - t-001

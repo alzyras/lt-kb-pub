@@ -28,7 +28,6 @@ Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių še
 
 <a id="claim-t-201746"></a>
 - t-001
-  global_id: t-201746
   teiginys: "Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių šeimomis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių še
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201746
+    - t-001

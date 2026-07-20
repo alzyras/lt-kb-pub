@@ -43,8 +43,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67866"></a>
-- t-001
-  global_id: t-67866
+- t-002
   teiginys: "Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ media_all_json: |-
     - c-43424
 
 <a id="claim-t-67867"></a>
-- t-002
-  global_id: t-67867
+- t-001
   teiginys: "1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ media_all_json: |-
 
 <a id="claim-t-67868"></a>
 - t-003
-  global_id: t-67868
   teiginys: "Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,6 @@ media_all_json: |-
 
 <a id="claim-t-67869"></a>
 - t-004
-  global_id: t-67869
   teiginys: "Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,7 +123,6 @@ media_all_json: |-
 
 <a id="claim-t-201057"></a>
 - t-005
-  global_id: t-201057
   teiginys: "Tą išgirdusi, meldžionų kariauna ėmė vyti ne tikėlius, kuriuos atrado abaže betimpsančius ties upe Durbe, arba Durbifce."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -214,18 +209,15 @@ media_all_json: |-
     kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
     iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
     Livonija.
-  citata_rodoma: |
-    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
-    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
-    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
-    Livonija.
+  citata_rodoma: "Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų\nkariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,\niš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su\nLivonija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67867
+    - t-001
+
 - id: c-43424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,20 +229,15 @@ media_all_json: |-
     iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
 
     1923 m.
-  citata_rodoma: |
-    Mindaugo ir
-    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
-    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
-    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
-
-    1923 m.
+  citata_rodoma: "Mindaugo ir\nvėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-\ndinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių\niki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos\n\n1923 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67866
+    - t-002
+
 - id: c-43425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -272,24 +259,15 @@ media_all_json: |-
     bet vėliau, Durbės mūšio išvakarėse, prie
     Vartajų, Georgenburgo ir pačiame mū-
     šyje — tik lietuvius arba „pagonis“.
-  citata_rodoma: |
-    Vokiečiai siekė išsau-
-    goti lietuvių blokuojamą Georgenburgą
-    (Jurbarką), būrė dideles pajėgas Klaipė-
-    doje, rengdamiesi dideliam puolimui, kuris
-    galiausiai baigėsi mūšiu prie Durbės.
-
-    Lietuvių pajėgos
-
-    Eiliuota Livonijos kronika, aprašydama
-    Skuodo mūšį (1259 m.
+  citata_rodoma: "Vokiečiai siekė išsau-\ngoti lietuvių blokuojamą Georgenburgą\n(Jurbarką), būrė dideles pajėgas Klaipė-\ndoje, rengdamiesi dideliam puolimui, kuris\ngaliausiai baigėsi mūšiu prie Durbės.\n\nLietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67868
+    - t-003
+
 - id: c-43426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -312,26 +290,19 @@ media_all_json: |-
     jungtines žemaičių ir paties Lietuvos val-
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
-  citata_rodoma: |
-    Lietuvių pajėgos
-
-    Eiliuota Livonijos kronika, aprašydama
-    Skuodo mūšį (1259 m.), mini žemaičius,
-    bet vėliau, Durbės mūšio išvakarėse, prie
-    Vartajų, Georgenburgo ir pačiame mū-
-    šyje — tik lietuvius arba „pagonis“.
-
-    P.
+  citata_rodoma: "Lietuvių pajėgos\n\nEiliuota Livonijos kronika, aprašydama\nSkuodo mūšį (1259 m.), mini žemaičius,\nbet vėliau, Durbės mūšio išvakarėse, prie\nVartajų, Georgenburgo ir pačiame mū-\nšyje — tik lietuvius arba „pagonis“.\n\nP."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67869
+    - t-004
+
 - id: c-184407
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu atėjo žinia į abažą mel-
     džionims dar tebtimpsant, jog 4000 rinktinių že­
@@ -357,6 +328,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201057
+    - t-005
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]

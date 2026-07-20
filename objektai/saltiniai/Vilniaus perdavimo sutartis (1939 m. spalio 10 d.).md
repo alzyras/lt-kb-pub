@@ -39,7 +39,6 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
 
 <a id="claim-t-21312"></a>
 - t-001
-  global_id: t-21312
   teiginys: "Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
 
 <a id="claim-t-183387"></a>
 - t-002
-  global_id: t-183387
   teiginys: "1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
-  citata_rodoma: |
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21312
+    - t-001
+
 - id: c-166780
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -124,4 +122,4 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183387
+    - t-002

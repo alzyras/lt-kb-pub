@@ -31,7 +31,6 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
 
 <a id="claim-t-192985"></a>
 - t-001
-  global_id: t-192985
   teiginys: "Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192985
+    - t-001

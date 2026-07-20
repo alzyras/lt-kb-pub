@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97124"></a>
-- t-001
-  global_id: t-97124
+- t-004
   teiginys: "Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-97125"></a>
 - t-002
-  global_id: t-97125
   teiginys: "1529 m. Lietuvos Statuto nuostatai apie bites ir bitininkų teises rodo, kad bitininkystė tebebuvo svarbi ūkio šaka."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,6 @@ Nenurodyta
 
 <a id="claim-t-97126"></a>
 - t-003
-  global_id: t-97126
   teiginys: "Šalia žemdirbystės, gyvulininkystės, bitininkystės, medžioklės ir žvejybos Lietuvoje buvo puoselėjamas amatas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Nenurodyta
     - c-91643
 
 <a id="claim-t-97127"></a>
-- t-004
-  global_id: t-97127
+- t-001
   teiginys: "Bitininkystė Lietuvoje sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -129,7 +125,6 @@ Nenurodyta
 
 <a id="claim-t-184346"></a>
 - t-005
-  global_id: t-184346
   teiginys: "Bitininkystė sukūrė papročius ir žmonių santykiavimo formas, vadintas bičiulyste."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -166,7 +161,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97127
+    - t-001
+
 - id: c-31406
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -183,7 +179,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97125
+    - t-002
+
 - id: c-91642
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -200,7 +197,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97124
+    - t-004
+
 - id: c-91643
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -221,7 +219,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97126
+    - t-003
+
 - id: c-167716
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -239,4 +238,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184346
+    - t-005

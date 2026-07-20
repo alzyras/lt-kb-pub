@@ -41,8 +41,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 ## Teiginiai
 
 <a id="claim-t-83193"></a>
-- t-001
-  global_id: t-83193
+- t-002
   teiginys: "Baltojoje Rusioje buvo kilę bruzdėjimų, kuriuos Jogaila numaldė prieš grįždamas į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - c-79571
 
 <a id="claim-t-83194"></a>
-- t-002
-  global_id: t-83194
+- t-001
   teiginys: "Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - c-24067
 
 <a id="claim-t-83195"></a>
-- t-003
-  global_id: t-83195
+- t-004
   teiginys: "Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     - c-79569
 
 <a id="claim-t-83196"></a>
-- t-004
-  global_id: t-83196
+- t-003
   teiginys: "Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,18 +137,15 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-  citata_rodoma: |
-    Mindaugo laikais
-    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
-    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
-    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+  citata_rodoma: "Mindaugo laikais\nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83194
+    - t-001
+
 - id: c-79569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -172,7 +165,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83195
+    - t-004
+
 - id: c-79570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -197,7 +191,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83196
+    - t-003
+
 - id: c-79571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,20 +208,14 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
     vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
     pavaldžiu karališkajai savo valdžiai16.
-  citata_rodoma: |
-    Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
-    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
-    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
-    jusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus
-    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
-    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
-    pavaldžiu karališkajai savo valdžiai16.
+  citata_rodoma: "Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­\nčiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo\ntikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­\njusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus\nįstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­\nvo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,\npavaldžiu karališkajai savo valdžiai16."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83193
+    - t-002
+
 ## Ryšiai
 - Baltoji Rusia priklausė [[objektai/vietos/Lietuva]]

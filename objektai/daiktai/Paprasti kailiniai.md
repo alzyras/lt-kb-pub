@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-193013"></a>
 - t-001
-  global_id: t-193013
   teiginys: "Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-197565"></a>
 - t-002
-  global_id: t-197565
   teiginys: "Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -93,5 +91,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193013
-    - t-197565
+    - t-001
+    - t-002

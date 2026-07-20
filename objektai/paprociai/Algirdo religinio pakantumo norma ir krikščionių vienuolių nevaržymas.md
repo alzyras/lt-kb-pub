@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87192"></a>
 - t-001
-  global_id: t-87192
   teiginys: "Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-87193"></a>
 - t-002
-  global_id: t-87193
   teiginys: "Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87193
+    - t-002
+
 - id: c-83172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,4 +138,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87192
+    - t-001

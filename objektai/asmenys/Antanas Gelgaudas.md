@@ -40,7 +40,6 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 
 <a id="claim-t-63475"></a>
 - t-001
-  global_id: t-63475
   teiginys: "Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - c-21585
 
 <a id="claim-t-63476"></a>
-- t-002
-  global_id: t-63476
+- t-003
   teiginys: "Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - c-41826
 
 <a id="claim-t-63477"></a>
-- t-003
-  global_id: t-63477
+- t-002
   teiginys: "Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,17 +103,15 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas.
-  citata_rodoma: |
-    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
-    guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
-    vadovavo generolas Antanas Gelgaudas.
+  citata_rodoma: "1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-\nguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai\nvadovavo generolas Antanas Gelgaudas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63475
+    - t-001
+
 - id: c-41825
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,7 +134,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63477
+    - t-002
+
 - id: c-41826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -152,18 +148,11 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     visur būti pirmas. Artilerijos sviedinys
     nukovė jo žirgą. Daugeliui atrodė, kad jis
     ieškojo mirties.
-  citata_rodoma: |
-    pirmoji pusė k
-
-    Gen. A. Gelgaudas, palikęs štabą, pats
-    dalyvavo mūšyje. Jis nesislėpė, stengėsi
-    visur būti pirmas. Artilerijos sviedinys
-    nukovė jo žirgą. Daugeliui atrodė, kad jis
-    ieškojo mirties.
+  citata_rodoma: "pirmoji pusė k\n\nGen. A. Gelgaudas, palikęs štabą, pats\ndalyvavo mūšyje. Jis nesislėpė, stengėsi\nvisur būti pirmas. Artilerijos sviedinys\nnukovė jo žirgą. Daugeliui atrodė, kad jis\nieškojo mirties."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63476
+    - t-003

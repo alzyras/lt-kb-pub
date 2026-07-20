@@ -189,8 +189,11 @@ describe("citationFilter metadata", () => {
       `Expected at least 40 Vytautas original quote blocks, got ${originalQuoteBlockCount}`,
     )
 
-    const leadershipClaim = claims.find((entry) => entry.fields.get("global_id") === "t-198399")
+    // Global claim identities live in the hidden anchor; public claim fields
+    // intentionally expose only the stable local page id.
+    const leadershipClaim = claims.find((entry) => entry.id === "t-051")
     assert.ok(leadershipClaim, "Expected the Žalgirio leadership claim to remain present")
+    assert.match(vytautasMarkdown, /<a id="claim-t-198399"><\/a>/)
     assert.deepEqual(leadershipClaim?.lists.get("pagrindžia"), ["c-184812"])
     const leadershipCitation = citationLookup.find((entry) => entry.id === "c-184812")
     const leadershipQuote = (leadershipCitation?.fields.get("citata_originali") ?? "").replace(

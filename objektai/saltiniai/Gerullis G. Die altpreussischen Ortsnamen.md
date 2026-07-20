@@ -36,7 +36,6 @@ Dusburgietis teigia, kad gerullis G.
 
 <a id="claim-t-61073"></a>
 - t-001
-  global_id: t-61073
   teiginys: "G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,14 +61,12 @@ Dusburgietis teigia, kad gerullis G.
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     Gerullis G. Die altpreussischen Ortsnamen — Berlin—Leipzig, 1922.
-      Gierszewski S.
-  citata_rodoma: |
-    Gerullis G. Die altpreussischen Ortsnamen — Berlin—Leipzig, 1922.
-      Gierszewski S.
+    Gierszewski S. Elbląg: Przeszłość i teraźniejszość.— Gdańsk, 1970.
+  citata_rodoma: "Gerullis G. Die altpreussischen Ortsnamen — Berlin—Leipzig, 1922.\n  Gierszewski S."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61073
+    - t-001

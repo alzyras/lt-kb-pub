@@ -31,7 +31,6 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 
 <a id="claim-t-88099"></a>
 - t-001
-  global_id: t-88099
   teiginys: "Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienietišku papročiu buvo palaidoti po apvaliu bokštu prie Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88099
+    - t-001

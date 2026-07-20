@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31866"></a>
 - t-001
-  global_id: t-31866
   teiginys: "R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,13 +73,11 @@ media_all_json: |-
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: |
-    — Jablonskytė-Rimantienė, R. : _0O drevuejšich kul’turnych oblastjach
-    na territorii Litvy,_ Sovetskaja Etnografija, t. 3, 1955, 3-19 p.
+  citata_rodoma: "— Jablonskytė-Rimantienė, R. : _0O drevuejšich kul’turnych oblastjach\nna territorii Litvy,_ Sovetskaja Etnografija, t. 3, 1955, 3-19 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31866
+    - t-001

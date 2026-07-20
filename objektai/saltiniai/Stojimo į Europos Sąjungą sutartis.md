@@ -37,7 +37,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 
 <a id="claim-t-26498"></a>
 - t-001
-  global_id: t-26498
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė stojimo į Europos Sąjungą sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,20 +73,11 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
     Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
     simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
     mente – 12 europarlamentarų.
-  citata_rodoma: |
-    Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
-    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
-    Europos Sąjungą sutartį
-
-    L I E T U V O S  I S T O R I J A
-    262
-    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
-    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
-    mente – 12 europarlamentarų.
+  citata_rodoma: "Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir \nužsienio reikalų ministras Antanas Valionis pasirašo stojimo į \nEuropos Sąjungą sutartį\n\nL I E T U V O S  I S T O R I J A\n262\nLietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-\nsimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-\nmente – 12 europarlamentarų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26498
+    - t-001

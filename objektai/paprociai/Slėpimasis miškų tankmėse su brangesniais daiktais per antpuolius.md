@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185925"></a>
 - t-001
-  global_id: t-185925
   teiginys: "Per kryžiuočių antpuolį Žemaitijoje gyventojai paliko namus ir su brangesniais daiktais pasislėpė miškų tankmėse."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-196317"></a>
 - t-002
-  global_id: t-196317
   teiginys: "Kojelavičiaus pasakojime per antpuolį nedaug žmonių žuvo, nes gyventojai paliko namus priešams ir su brangesniais daiktais pasislėpė miškų tankmėse."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -100,5 +98,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185925
-    - t-196317
+    - t-001
+    - t-002

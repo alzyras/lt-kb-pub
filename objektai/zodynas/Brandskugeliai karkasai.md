@@ -37,7 +37,6 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 
 <a id="claim-t-42419"></a>
 - t-001
-  global_id: t-42419
   teiginys: "Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,39 +88,11 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
     niame maiše
 
     1794 m. balandis-liepa KOVOS DĖL VILNIAUS 151
-  citata_rodoma: |
-    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
-    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
-    diniais (iki raudonumo įkaitinti metali-
-    niai sviediniai arba iš ketaus pagaminti
-    tuščiaviduriai sviediniai, užpildyti pade-
-    gamuoju mišiniu - vadinamieji brandsku-
-    geliai, taip pat ir karkasai - ovalo formos
-    sviediniai su padegamuoju mišiniu, su-
-    daryti iš geležinių žiedų).
-
-    Kartečės užtaisas Kulkos
-
-    medžiaginiame
-    maiše
-
-    Kartečės
-    užtaisas
-    metaliniame
-    korpuse
-
-    Parako užtai-
-    sas prie meta-
-    linio korpuso
-    pritvirtintame
-    medžiagi-
-    niame maiše
-
-    1794 m.
+  citata_rodoma: "Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir\napšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-\ndiniais (iki raudonumo įkaitinti metali-\nniai sviediniai arba iš ketaus pagaminti\ntuščiaviduriai sviediniai, užpildyti pade-\ngamuoju mišiniu - vadinamieji brandsku-\ngeliai, taip pat ir karkasai - ovalo formos\nsviediniai su padegamuoju mišiniu, su-\ndaryti iš geležinių žiedų).\n\nKartečės užtaisas Kulkos\n\nmedžiaginiame\nmaiše\n\nKartečės\nužtaisas\nmetaliniame\nkorpuse\n\nParako užtai-\nsas prie meta-\nlinio korpuso\npritvirtintame\nmedžiagi-\nniame maiše\n\n1794 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42419
+    - t-001

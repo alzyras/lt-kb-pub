@@ -31,7 +31,6 @@ Kariai, laukiantys komandos „ugnis“.
 
 <a id="claim-t-39072"></a>
 - t-001
-  global_id: t-39072
   teiginys: "Kariai laukė komandos „ugnis“ ir turėjo iššauti, kai tai padarys kairėje esantis padalinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Kariai, laukiantys komandos „ugnis“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39072
+    - t-001

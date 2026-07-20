@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-08324"></a>
 - t-001
-  global_id: t-08324
   teiginys: "Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -66,8 +65,7 @@ Nenurodyta
     - c-10279
 
 <a id="claim-t-186847"></a>
-- t-002
-  global_id: t-186847
+- t-003
   teiginys: "Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -83,7 +81,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170030
-    - c-002
 - susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
 - susijęs iš [[objektai/paprociai/Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas.md#claim-t-189865|Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas]]: Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
@@ -114,8 +111,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186847
+
 ## Citatos
 
 - id: c-10279
@@ -125,49 +121,20 @@ Nenurodyta
   citata_originali: |
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
         perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
-  citata_rodoma: |
-    Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
-        perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
+  citata_rodoma: "Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo\n    perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08324
+    - t-001
+
 - id: c-170030
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
-    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
-    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
-    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
-    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
-    kunigaikščiui su visais miestais — su Černigovu, su
-    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
-    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
-    Didžiosios Kunigaikštystės valdiniais. O Belajos kuni­
-    gaikštis Semionas Ivanovičius atvyko į Maskvą dar
-    prieš Briansko paėmimą ir su visa savo tėvonija paklu­
-    so Maskvos didžiajam kunigaikščiuiIJ.
-    Lietuvos didysis kunigaikštis Aleksandras, išgirdęs
-    kad jo uošvis, Maskvos didysis kunigaikštis Ivanas Va-
-    siljevičius, pradėjo prieš jį tokį karą, ir kad Briansko
-    miestas ir daugelis miestų pasidavę jam ir su minėtai­
-
-    siais kunigaikščiais prisiekę jam tarnauti, siunčia į Smo­
-    lenską savo etmoną, kunigaikštį Konstantiną Ivanovi-
-    čių Ostrogiškį, bei savo kiemo maršalą, Merkinės ir
-    Anykščių vietininką poną Grigalių Stanislovaitį Asti-
-    ką l3, ir savo pataurininkį, Belsko vietininką poną Mi­
-    kalojų Mikalojaitj
-    ir maršalą poną Joną Petraitį1S, ir
-    maršalą, Naugarduko ir Slonimo vietininką poną Liu­
-    taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
-    ir ponų, ir dvarionių, ir bajorų.
-  citata_rodoma: |
     Ir kai ka­
     ralius Olbrachtas su visa kariuomene jau buvo Buko­
     vinoje ir žygiavo be baimės dėl sudarytos amžinosios
@@ -182,10 +149,11 @@ Nenurodyta
     atėmė daug gurguolių su dideliu turtu ir kelias garsias
     patrankas, o pačiam karaliui Olbrachtui ir daugeliui
     jo ponų bei karių nieko nepakenkė.
+  citata_rodoma: "Ir kai ka­\nralius Olbrachtas su visa kariuomene jau buvo Buko­\nvinoje ir žygiavo be baimės dėl sudarytos amžinosios \ntaikos ir priesaikos, nesitikėdamas iš niekur smūgio, \ntuo metu Moldavijos vaivadai Steponui labai skaudėjo \nkojos, bet, norėdamas įvykdyti savo sumanymą, jis \nužmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­\nko su visais savo žmonėmis, ir su turkais, ir su veng­\nrais, ir su valachais, ir tuose miškuose bei bukynuose \nužpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­\ngelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; \natėmė daug gurguolių su dideliu turtu ir kelias garsias \npatrankas, o pačiam karaliui Olbrachtui ir daugeliui \njo ponų bei karių nieko nepakenkė."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186847
+    - t-003

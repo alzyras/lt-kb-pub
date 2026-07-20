@@ -32,7 +32,6 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 <a id="claim-t-23528"></a>
 - t-001
-  global_id: t-23528
   teiginys: "Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,17 +63,11 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
     valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
     ti su Lenkija.
-  citata_rodoma: |
-    Ji propagavo autonominės
-    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
-    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
-    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
-    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
-    ti su Lenkija.
+  citata_rodoma: "Ji propagavo autonominės \nLietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, \nbaltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų \ntautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma \nvalstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-\nti su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23528
+    - t-001

@@ -38,7 +38,6 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 
 <a id="claim-t-75881"></a>
 - t-001
-  global_id: t-75881
   teiginys: "Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,7 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   pagrindžia:
     - c-21727
     - c-73553
+
 ## Citatos
 
 - id: c-21727
@@ -73,18 +73,15 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
     derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
     mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
     kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
-  citata_rodoma: |
-    Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
-    derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų
-    mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-
-    kviena kalba ir kultūra yra vertingas visos žmonijos turtas.
+  citata_rodoma: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-\nderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų\nmintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kie-\nkviena kalba ir kultūra yra vertingas visos žmonijos turtas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75881
+    - t-001
+
 - id: c-73553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,3 +101,5 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

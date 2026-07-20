@@ -31,7 +31,6 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
 
 <a id="claim-t-191851"></a>
 - t-001
-  global_id: t-191851
   teiginys: "Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191851
+    - t-001

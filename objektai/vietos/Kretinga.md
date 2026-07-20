@@ -39,8 +39,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 ## Teiginiai
 
 <a id="claim-t-171658"></a>
-- t-001
-  global_id: t-171658
+- t-002
   teiginys: "Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - c-43518
 
 <a id="claim-t-171659"></a>
-- t-002
-  global_id: t-171659
+- t-010
   teiginys: "Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
 <a id="claim-t-183032"></a>
 - t-003
-  global_id: t-183032
   teiginys: "IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -140,7 +137,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171658
+    - t-002
+
 - id: c-156139
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -151,19 +149,15 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.
-  citata_rodoma: |
-    Kalmantavičiaus-Bajoro traukinys išvyksta
-    į Tauragę.
-
-    @ 1. Budrio traukinys per Mažeikius, per Latvijos
-    teritoriją (Priekulę) atvyksta į Kretingą.
+  citata_rodoma: "Kalmantavičiaus-Bajoro traukinys išvyksta\nį Tauragę.\n\n@ 1. Budrio traukinys per Mažeikius, per Latvijos\nteritoriją (Priekulę) atvyksta į Kretingą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171659
+    - t-010
+
 - id: c-166424
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -182,4 +176,4 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183032
+    - t-003

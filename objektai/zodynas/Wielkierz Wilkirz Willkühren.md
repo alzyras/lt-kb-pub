@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-86629"></a>
 - t-001
-  global_id: t-86629
   teiginys: "1552 m. Vilniaus miesto valdžia su piliečiais sudarė Wielkierz, teismo proceso tvarką pagal Magdeburgo teisę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86629
+    - t-001

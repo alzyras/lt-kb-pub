@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189738"></a>
 - t-001
-  global_id: t-189738
   teiginys: "Narbutas Pergrubės figūrą sieja su antikine Flora ir slavų Siewa, ją vaizduodamas kaip nuogą jauną mergaitę su gėlių vainiku, obuoliu ir vynuogių keke."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189738
+    - t-001

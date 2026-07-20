@@ -43,8 +43,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 ## Teiginiai
 
 <a id="claim-t-10755"></a>
-- t-001
-  global_id: t-10755
+- t-012
   teiginys: "XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-00312
 
 <a id="claim-t-10757"></a>
-- t-002
-  global_id: t-10757
+- t-013
   teiginys: "Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-00314
 
 <a id="claim-t-116684"></a>
-- t-003
-  global_id: t-116684
+- t-024
   teiginys: "1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107506
 
 <a id="claim-t-116685"></a>
-- t-004
-  global_id: t-116685
+- t-021
   teiginys: "Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107504
 
 <a id="claim-t-116687"></a>
-- t-005
-  global_id: t-116687
+- t-018
   teiginys: "XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107501
 
 <a id="claim-t-116690"></a>
-- t-006
-  global_id: t-116690
+- t-023
   teiginys: "Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,8 +147,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107509
 
 <a id="claim-t-116691"></a>
-- t-007
-  global_id: t-116691
+- t-014
   teiginys: "Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,8 +163,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-46295
 
 <a id="claim-t-116692"></a>
-- t-008
-  global_id: t-116692
+- t-015
   teiginys: "Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -187,9 +179,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - c-107502
 
-<a id="claim-t-116696"></a>
-- t-009
-  global_id: t-116696
+<a id="claim-t-116693"></a>
+- t-019
   teiginys: "Hanzos miestų tinklui priklausė Kauno miestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -207,8 +198,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107503
 
 <a id="claim-t-116694"></a>
-- t-010
-  global_id: t-116694
+- t-022
   teiginys: "Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,8 +214,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-107507
 
 <a id="claim-t-193092"></a>
-- t-011
-  global_id: t-193092
+- t-025
   teiginys: "XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -237,8 +226,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-175856
 
 <a id="claim-t-193093"></a>
-- t-012
-  global_id: t-193093
+- t-026
   teiginys: "Hanzos miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko labai palankiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -250,8 +238,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-175857
 
 <a id="claim-t-194172"></a>
-- t-013
-  global_id: t-194172
+- t-027
   teiginys: "Tad turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias laisviausiems Hanzos lygos miestams."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -335,7 +322,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10755
+    - t-012
+
 - id: c-00314
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -347,18 +335,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
     jų didelių upių santakas.
-  citata_rodoma: |
-    Abiejuose tuose centruose Hanza veikiai įsteigė
-    savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
-    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
-    jų didelių upių santakas.
+  citata_rodoma: "Abiejuose tuose centruose Hanza veikiai įsteigė\nsavo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus\ncentras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-\njų didelių upių santakas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10757
+    - t-013
+
 - id: c-46295
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -372,21 +357,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
     jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
     pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
-  citata_rodoma: |
-    Per rygiečius jis kreipėsi į Hanzos mies-
-    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
-    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
-    tuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-
-    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
-    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
-    pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
+  citata_rodoma: "Per rygiečius jis kreipėsi į Hanzos mies-\ntus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir\nkvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-\ntuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-\nkytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje\njau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats\npastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116691
+    - t-014
+
 - id: c-107501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -411,7 +390,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116687
+    - t-018
+
 - id: c-107502
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -430,7 +410,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116692
+    - t-015
+
 - id: c-107503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -448,7 +429,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116696
+    - t-019
+
 - id: c-107504
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -467,21 +449,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­
     jo su ja prekybos santykius, kurie Vytauto laikais dar labiau
     išsiplėtė ir sutvirtėjo.
-  citata_rodoma: |
-    Taigi, Vytauto laikų Lie­
-    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
-    buvo apsupta pirklių gyvenamų ir lankomų žemių. Ji buvo
-    kraštas, kurio negalėjo aplenkti Hanzos ir k. pirkliai, ir jau prie
-    Vytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­
-    jo su ja prekybos santykius, kurie Vytauto laikais dar labiau
-    išsiplėtė ir sutvirtėjo.
+  citata_rodoma: "Taigi, Vytauto laikų Lie­\ntuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių\nbuvo apsupta pirklių gyvenamų ir lankomų žemių. Ji buvo\nkraštas, kurio negalėjo aplenkti Hanzos ir k. pirkliai, ir jau prie\nVytenio, Gedimino ir kitų didžiųjų Lietuvos kunigaikščių turė­\njo su ja prekybos santykius, kurie Vytauto laikais dar labiau\nišsiplėtė ir sutvirtėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116685
+    - t-021
+
 - id: c-107506
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -495,21 +471,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     vadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­
     mu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės
     įtakos^3 ).
-  citata_rodoma: |
-    Naugardu, tiek pat kar­
-    tų Dorpatas su šiuo miestu nutraukdavo visus santykius, rem­
-    damas Lietuvos interesus. Vieną kartą, kai Dorpatas uždraudė
-    prekybą su Naugardu (1416), buvo įsikišusi į tą reikalą Hanzos
-    vadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­
-    mu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės
-    įtakos^3 ).
+  citata_rodoma: "Naugardu, tiek pat kar­\ntų Dorpatas su šiuo miestu nutraukdavo visus santykius, rem­\ndamas Lietuvos interesus. Vieną kartą, kai Dorpatas uždraudė\nprekybą su Naugardu (1416), buvo įsikišusi į tą reikalą Hanzos\nvadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­\nmu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės\nįtakos^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116684
+    - t-024
+
 - id: c-107507
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -521,18 +491,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
     patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
     jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: |
-    Dėl to rygiečiai kėlė balsą Hanzos
-    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
-    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
-    jis pats su jais jokios sutarties nedarė.
+  citata_rodoma: "Dėl to rygiečiai kėlė balsą Hanzos\nsąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų\npatvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad\njis pats su jais jokios sutarties nedarė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116694
+    - t-022
+
 - id: c-107509
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -545,19 +512,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
     Lietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­
     mi, kad palaikytų jo pusę.
-  citata_rodoma: |
-    Šiose derybose dalyvavo ir Hanzos
-    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
-    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
-    Lietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­
-    mi, kad palaikytų jo pusę.
+  citata_rodoma: "Šiose derybose dalyvavo ir Hanzos\nmiestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti\nVytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su\nLietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­\nmi, kad palaikytų jo pusę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-116690
+    - t-023
+
 - id: c-175856
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -577,7 +540,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193092
+    - t-025
+
 - id: c-175857
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -593,7 +557,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193093
+    - t-026
+
 - id: c-176785
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -615,6 +580,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194172
+    - t-027
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Dorpatas]], [[objektai/vietos/Kaunas]]

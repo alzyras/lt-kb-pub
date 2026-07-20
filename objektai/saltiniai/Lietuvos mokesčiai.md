@@ -38,7 +38,6 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
 
 <a id="claim-t-36077"></a>
 - t-001
-  global_id: t-36077
   teiginys: "A. Veryhos-Darevskio „Lietuvos mokesčiai“ cituojami pagal 19 puslapį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
-  citata_rodoma: |
-    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
-    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321).
+  citata_rodoma: "(^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,\nOblastnoe delenie L.R.Q. Moskva 1892, p. 321)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36077
+    - t-001

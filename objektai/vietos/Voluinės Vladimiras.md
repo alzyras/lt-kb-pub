@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-192859"></a>
 - t-001
-  global_id: t-192859
   teiginys: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192859
+    - t-001

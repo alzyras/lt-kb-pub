@@ -31,7 +31,6 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 
 <a id="claim-t-191256"></a>
 - t-001
-  global_id: t-191256
   teiginys: "Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 
 <a id="claim-t-197718"></a>
 - t-002
-  global_id: t-197718
   teiginys: "Vienas suomių burtininkas išpranašavo šį liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa laidojo jį itin pagarbiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191256
+    - t-001
+
 - id: c-179304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -113,7 +112,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197718
+    - t-002
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Rinda]]
 - Kariavo prieš: [[objektai/asmenys/Goteris]]

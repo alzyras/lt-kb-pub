@@ -31,7 +31,6 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
 
 <a id="claim-t-186095"></a>
 - t-001
-  global_id: t-186095
   teiginys: "Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186095
+    - t-001

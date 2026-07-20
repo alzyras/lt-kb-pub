@@ -7,12 +7,12 @@ datos:
   - '1615 m.'
 date_start: '1615'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
 
 <a id="claim-t-191798"></a>
 - t-001
-  global_id: t-191798
   teiginys: "Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Narbuto nuorodoje siejamas su 1615 m. Bazelio leidimu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,23 +49,7 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174680
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Narbuto nuorodoje siejamas su 1615 m. Bazelio leidimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    De
-    diis samagitarum caeterorumque Sarmatarum et falsorum Chris­
-    tianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-
-    rum et Moschorum. Basileae, 1615).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191798
+
 ## Citatos
 
 - id: c-174680
@@ -74,32 +57,15 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    'Išnaša, kuria T. Narbutas papildė paragrafą, rengdamas spaudai
-    antrąjį leidimą
-    (PEĮ. L, 201).
-    138 / T e n
-    p a t ,
-    n a u j a .
-    i š n a š a
-    v i e t o j
-    ( 6 ) /
-    Sekmine
-    r e i š k i a
-    s e p t y n i ,
-    l i e t u v i š k a i
-    r u s i š k a
-    k a l b a
-    — siemucha,
-    n e s š v e n č i a m a s a v a i t ę p o V e l y k ų .
-  citata_rodoma: |
     De
     diis samagitarum caeterorumque Sarmatarum et falsorum Chris­
     tianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-
     rum et Moschorum. Basileae, 1615).
+  citata_rodoma: "De\ndiis samagitarum caeterorumque Sarmatarum et falsorum Chris­\ntianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-\nrum et Moschorum. Basileae, 1615)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191798
+    - t-001

@@ -31,7 +31,6 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
 
 <a id="claim-t-03125"></a>
 - t-001
-  global_id: t-03125
   teiginys: "Per prancūzmetį Lietuva smarkiai nukentėjo nuo Napoleono kariuomenės plėšimų ir rusų veiksmų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
 
 <a id="claim-t-193155"></a>
 - t-002
-  global_id: t-193155
   teiginys: "Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -75,17 +73,15 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
     Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
     tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
     sai.
-  citata_rodoma: |
-    Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
-    tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
-    sai.
+  citata_rodoma: "Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-\ntėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-\nsai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03125
+    - t-001
+
 - id: c-175907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -105,4 +101,4 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193155
+    - t-002

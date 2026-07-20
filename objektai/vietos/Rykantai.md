@@ -30,7 +30,6 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
 
 <a id="claim-t-42106"></a>
 - t-001
-  global_id: t-42106
   teiginys: "Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,11 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
     Rykantų įsitvirtinusi 3-ioji I. Musteikio
     vadovaujama divizija spalio 14-15 d. lenkų
     veržimąsi sustabdė.
-  citata_rodoma: |
-    Kairiajame Neries krante prie Semeliškių —
-    Rykantų įsitvirtinusi 3-ioji I. Musteikio
-    vadovaujama divizija spalio 14-15 d. lenkų
-    veržimąsi sustabdė.
+  citata_rodoma: "Kairiajame Neries krante prie Semeliškių —\nRykantų įsitvirtinusi 3-ioji I. Musteikio\nvadovaujama divizija spalio 14-15 d. lenkų\nveržimąsi sustabdė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42106
+    - t-001

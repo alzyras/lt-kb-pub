@@ -37,7 +37,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 
 <a id="claim-t-41762"></a>
 - t-001
-  global_id: t-41762
   teiginys: "Bendrasis rezervas turėjo vykti Katinų kaimo link ir jį užimti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 
 <a id="claim-t-41763"></a>
 - t-002
-  global_id: t-41763
   teiginys: "Dešinioji kolona energingu puolimu užėmė Jotvainių, Griniūnų ir Katinų kaimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,20 +89,15 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
     Viduriniajai vorai po atkaklių kautynių
     pavyko užimti Užkalnius, Ėriškėlius ir
     Barklainius.
-  citata_rodoma: |
-    Dešinioji kolona ener-
-    gingu puolimu užėmė plane numatytus
-    Jotvainių, Griniūnų ir Katinų kaimus.
-    Viduriniajai vorai po atkaklių kautynių
-    pavyko užimti Užkalnius, Ėriškėlius ir
-    Barklainius.
+  citata_rodoma: "Dešinioji kolona ener-\ngingu puolimu užėmė plane numatytus\nJotvainių, Griniūnų ir Katinų kaimus.\nViduriniajai vorai po atkaklių kautynių\npavyko užimti Užkalnius, Ėriškėlius ir\nBarklainius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41763
+    - t-002
+
 - id: c-45126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,13 +106,11 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
     Juos Užkalnių kaimą ir pietinius Barklainius. pulti ir užimti Ėriškių ir Rajūnų kaimus.
     BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
     kaimo link ir jį užimti. 1919 m.
-  citata_rodoma: |
-    BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
-    kaimo link ir jį užimti. 1919 m.
+  citata_rodoma: "BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.\nkaimo link ir jį užimti. 1919 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41762
+    - t-001

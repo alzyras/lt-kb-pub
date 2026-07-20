@@ -38,7 +38,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 
 <a id="claim-t-32099"></a>
 - t-001
-  global_id: t-32099
   teiginys: "Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 
 <a id="claim-t-32100"></a>
 - t-002
-  global_id: t-32100
   teiginys: "Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 
 <a id="claim-t-184383"></a>
 - t-003
-  global_id: t-184383
   teiginys: "Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 
 <a id="claim-t-184384"></a>
 - t-004
-  global_id: t-184384
   teiginys: "Ceklio srityje ordinas paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros takoskyrą iki Veiviržo upės."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -136,8 +132,9 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32099
-    - t-184384
+    - t-001
+    - t-004
+
 - id: c-33813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,22 +146,16 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
     Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
     ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
-    pijos dalybų (1254 m.
-  citata_rodoma: |
-    Dar platesnėje Ceklio srityje,
-    kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
-    plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki
-    Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių
-    ir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­
-    kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­
-    pijos dalybų (1254 m.
+    pijos dalybų (1254 m.)^139.
+  citata_rodoma: "Dar platesnėje Ceklio srityje,\nkurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė\nplotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki\nVeiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių\nir vakarinėje dalyje Šiaulių apskrities. Tos sritys figūravo kaip nu­\nkariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­\npijos dalybų (1254 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32100
+    - t-002
+
 - id: c-167752
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -183,4 +174,4 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184383
+    - t-003

@@ -30,8 +30,7 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 ## Teiginiai
 
 <a id="claim-t-40384"></a>
-- t-001
-  global_id: t-40384
+- t-002
   teiginys: "Sužeidus Z. Sierakauską ir mjr. P. Vivulskį, sukilėlių veiksmai pakriko po dviejų valandų atkaklaus pasipriešinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     - c-44484
 
 <a id="claim-t-40385"></a>
-- t-002
-  global_id: t-40385
+- t-001
   teiginys: "P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,21 +80,15 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     mjr. P. Vivulskį ir žuvus ba-
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
-  citata_rodoma: |
-    Atkakliai priešindamiesi
-    sukilėliai išsilaikė dvi valan-
-    das, tačiau jų veiksmai pakriko
-    sužeidus vadą Z. Sierakauską,
-    mjr. P. Vivulskį ir žuvus ba-
-    talionų vadams majorams
-    Antonievičiui, B. Žarskiui.
+  citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40384
+    - t-002
+
 - id: c-44485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,19 +105,11 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     stovėjo P. Vivulskio dalginin-
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
-  citata_rodoma: |
-    Kairiame sparne stovėjo
-    B. Kolyškos bei M. Stanišausko
-    batalionai, centre pozici-
-    jas užsiėmė Antonievičius ir
-    D. Maleckis, dešiniajame sparne
-    stovėjo P. Vivulskio dalginin-
-    kai ir dvi rezervinės 4-tojo ba-
-    taliono kuopos.
+  citata_rodoma: "Kairiame sparne stovėjo\nB. Kolyškos bei M. Stanišausko\nbatalionai, centre pozici-\njas užsiėmė Antonievičius ir\nD. Maleckis, dešiniajame sparne\nstovėjo P. Vivulskio dalginin-\nkai ir dvi rezervinės 4-tojo ba-\ntaliono kuopos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40385
+    - t-001

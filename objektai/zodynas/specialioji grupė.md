@@ -31,7 +31,6 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 
 <a id="claim-t-42509"></a>
 - t-001
-  global_id: t-42509
   teiginys: "Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,23 +46,17 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
+    . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
     muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
     vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
     naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
-  citata_rodoma: |
-    Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
-    muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
-    vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
-    naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
-    bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
-    „kompromatas“ būtų pamestas tikriesiems partizanams.
+  citata_rodoma: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-\nmuotose vadinamosiose specialiosiose grupėse, kurioms paprastai\nvadovaudavo koks nors operatyvininkas. Tokių grupių priedangai\nnaudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-\nbių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat\n„kompromatas“ būtų pamestas tikriesiems partizanams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42509
+    - t-001

@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-20551"></a>
 - t-001
-  global_id: t-20551
   teiginys: "Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,12 +94,11 @@ Nenurodyta
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: |
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+  citata_rodoma: "rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20551
+    - t-001

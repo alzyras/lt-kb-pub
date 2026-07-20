@@ -31,7 +31,6 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
 
 <a id="claim-t-185405"></a>
 - t-001
-  global_id: t-185405
   teiginys: "Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus graikų apeigoms, pasiduoti Maskvos valdžiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185405
+    - t-001

@@ -31,9 +31,8 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
 
 <a id="claim-t-189329"></a>
 - t-001
-  global_id: t-189329
   teiginys: "Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,23 +48,7 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172216
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rungis (Rungis)
-    Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
-    dų ir malant pripila. Sako, kad gyvena pas savo garbintojus,
-    pasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189329
+
 ## Citatos
 
 - id: c-172216
@@ -73,23 +56,15 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai buvo dvasios, arba genijai, pasirodantys kerėpliškų ir
-    barzdotų neūžaugų pavidalu, vienų metų vaiko išvaizdos, bet
-    turėjo sieksnines barzdas. Vis dėlto jie buvo labai greiti ir vik­
-    rūs. Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
-    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
-    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
-    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
-    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?
-  citata_rodoma: |
     Rungis (Rungis)
     Malūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­
     dų ir malant pripila. Sako, kad gyvena pas savo garbintojus,
     pasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių .
+  citata_rodoma: "Rungis (Rungis)\nMalūnininkų prisijaukintas dievaitis, kuris jiems atneša grū­\ndų ir malant pripila. Sako, kad gyvena pas savo garbintojus,\npasivertęs juodu katinu. Tas mitas pastebėtas ir tarp latvių ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189329
+    - t-001

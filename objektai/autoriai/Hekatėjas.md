@@ -30,7 +30,6 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
 
 <a id="claim-t-191609"></a>
 - t-001
-  global_id: t-191609
   teiginys: "Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,26 +47,7 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174491
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Senovės
-    autoriai vadino ją taip įvairiai, jog nėra Žemėje kitos,
-    kuriai būtų suteikta tiek įvairiausių vardų. Hekatėjas va­
-    dino ją Amalchium, o tai tenykščių genčių kalba turėjo
-    reikšti sukrešėjusią, užšąlančią jūrą, į kurią įteka per
-    visą Skitiją sruvenanti Puropamiso upė. Kuriai upei rei­
-    kia priskirti šį pavadinimą, išsiaiškinti nepavyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191609
+
 ## Citatos
 
 - id: c-174491
@@ -75,20 +55,6 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Filemo-
-    uas vadino ją kimbrišku vardu Morimarusa, — tai reiškė
-    negyvąją jūrą, ir šis pavadinimas buvo taikomas jūrai net
-    iki Rubects kyšulio, o toliau ji buvo vadinama Cronium2.
-    Sis kimbrišku laikomas pavadinimas atitinkama minėto
-    pa.vadinimo reikšme skamba slaviškai. Kyšulys Rubeas
-    ligi šiol neidentifikuotas; mums atrodo, kad jis turėjęs
-    būti ten, kur šiandien yra pajūrio kalnas Rüchshofen, į
-    šiaurės vakarus nuo Pucko, nes tose apylinkėse, į pietus
-    nuo Zarnovicų ežero ir netoli Pamario ribų, yra didelis
-    senovės valsčius, šiandien vadinamas Rüben, greta yra
-    Roboškų kaimas, o netoli kitas, priklausąs jau Pomerani­
-    jai, Rubenkų.
-  citata_rodoma: |
     Senovės
     autoriai vadino ją taip įvairiai, jog nėra Žemėje kitos,
     kuriai būtų suteikta tiek įvairiausių vardų. Hekatėjas va­
@@ -96,10 +62,11 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
     reikšti sukrešėjusią, užšąlančią jūrą, į kurią įteka per
     visą Skitiją sruvenanti Puropamiso upė. Kuriai upei rei­
     kia priskirti šį pavadinimą, išsiaiškinti nepavyko.
+  citata_rodoma: "Senovės\nautoriai vadino ją taip įvairiai, jog nėra Žemėje kitos,\nkuriai būtų suteikta tiek įvairiausių vardų. Hekatėjas va­\ndino ją Amalchium, o tai tenykščių genčių kalba turėjo\nreikšti sukrešėjusią, užšąlančią jūrą, į kurią įteka per\nvisą Skitiją sruvenanti Puropamiso upė. Kuriai upei rei­\nkia priskirti šį pavadinimą, išsiaiškinti nepavyko."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191609
+    - t-001

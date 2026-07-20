@@ -38,7 +38,6 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
 
 <a id="claim-t-21988"></a>
 - t-001
-  global_id: t-21988
   teiginys: "Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,12 +75,11 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
     no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
     Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
     klausimai.
-  citata_rodoma: |
-    Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
+  citata_rodoma: "Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21988
+    - t-001

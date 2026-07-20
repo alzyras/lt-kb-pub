@@ -30,7 +30,6 @@ Gimbutas buvo Starodubo pateisėjininkaitis. 1760 m. Starodubo pateisėjininkait
 
 <a id="claim-t-200525"></a>
 - t-001
-  global_id: t-200525
   teiginys: "Gimbutas buvo Starodubo pateisėjininkaitis."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -48,7 +47,6 @@ Gimbutas buvo Starodubo pateisėjininkaitis. 1760 m. Starodubo pateisėjininkait
 
 <a id="claim-t-200526"></a>
 - t-002
-  global_id: t-200526
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -72,18 +70,9 @@ Gimbutas buvo Starodubo pateisėjininkaitis. 1760 m. Starodubo pateisėjininkait
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
-    ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12]. 1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
-  citata_rodoma: |
-    1760 jis rašė, kad Starodubo
-    pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę [61].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200525
-    - t-200526
+    - t-001
+    - t-002

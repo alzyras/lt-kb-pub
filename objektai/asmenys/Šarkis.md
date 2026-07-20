@@ -32,7 +32,6 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
 
 <a id="claim-t-191493"></a>
 - t-001
-  global_id: t-191493
   teiginys: "Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais vadintoje šalaviečių pilyje Lietuvos pasienyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191493
+    - t-001

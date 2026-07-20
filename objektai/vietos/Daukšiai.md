@@ -30,8 +30,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 ## Teiginiai
 
 <a id="claim-t-41670"></a>
-- t-001
-  global_id: t-41670
+- t-002
   teiginys: "Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     - c-45069
 
 <a id="claim-t-193762"></a>
-- t-002
-  global_id: t-193762
+- t-003
   teiginys: "Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193762
+    - t-003
+
 - id: c-45069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,17 +106,11 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     Daukšių kaime, žuvo partizanai Juozas
     Pūkas ir Motiejus Overa. Visų šių susirė-
     mimų metu žuvo ir nemažai enkavėdistų.
-  citata_rodoma: |
-    Remiantis
-    KGB duomenimis, liepos 15 d., vykdant
-    operaciją Buktos (Žaliosios) miške bei
-    Daukšių kaime, žuvo partizanai Juozas
-    Pūkas ir Motiejus Overa. Visų šių susirė-
-    mimų metu žuvo ir nemažai enkavėdistų.
+  citata_rodoma: "Remiantis\nKGB duomenimis, liepos 15 d., vykdant\noperaciją Buktos (Žaliosios) miške bei\nDaukšių kaime, žuvo partizanai Juozas\nPūkas ir Motiejus Overa. Visų šių susirė-\nmimų metu žuvo ir nemažai enkavėdistų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41670
+    - t-002

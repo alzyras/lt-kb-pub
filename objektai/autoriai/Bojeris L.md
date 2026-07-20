@@ -39,7 +39,6 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 
 <a id="claim-t-39863"></a>
 - t-001
-  global_id: t-39863
   teiginys: "Bojeris L. buvo veikalo „Salaspilio mūšis Karolomachijoje“ autorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39863
+    - t-001

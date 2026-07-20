@@ -8,12 +8,12 @@ datos:
   - '1759 m.'
 date_start: '1738'
 date_end: '1759'
-amziai:
-  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,9 +37,8 @@ media_all_json: |-
 
 <a id="claim-t-191853"></a>
 - t-001
-  global_id: t-191853
   teiginys: "„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,27 +47,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174735
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Turimas omenyje žymaus bibliografo Andriaus
-    Soto
-    (Schott;
-    ?—1759)
-    veikalas;
-    Prussia
-    Christiana sive de introductione religionis
-    Christiane in Prussia. 1738.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191853
+
 ## Citatos
 
 - id: c-174735
@@ -76,18 +55,6 @@ media_all_json: |-
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tikriausiai turimi omenyje šveicarų gydytojo,
-    gamtininko ir bibliografo Konrado Hesnerio
-    (Gesner; 1516—1565) tyrinėjimai.
-    Gerardas Fridrikas Mileris
-    (Müller;
-    1705—■
-    1783), istoriografas ir akademikas. 1749 me­
-    tais Rusijos Mokslų Akademijos iškilmingame
-    susirinkime pasakė kalbą, pavadintą „Rusų
-    tautos ir vardo kilmė“, kurią dauguma istori­
-    kų sutiko labai nepalankiai.
-  citata_rodoma: |
     Turimas omenyje žymaus bibliografo Andriaus
     Soto
     (Schott;
@@ -96,10 +63,11 @@ media_all_json: |-
     Prussia
     Christiana sive de introductione religionis
     Christiane in Prussia. 1738.
+  citata_rodoma: "Turimas omenyje žymaus bibliografo Andriaus\nSoto\n(Schott;\n?—1759)\nveikalas;\nPrussia\nChristiana sive de introductione religionis\nChristiane in Prussia. 1738."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191853
+    - t-001

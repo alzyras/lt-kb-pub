@@ -28,7 +28,6 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
 
 <a id="claim-t-200906"></a>
 - t-001
-  global_id: t-200906
   teiginys: "Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška liturgine kalba buvo per penkis šimtus metų ištautinti lietuviai."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200906
+    - t-001

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78682"></a>
-- t-001
-  global_id: t-78682
+- t-002
   teiginys: "Vokiškas universalusis kulkosvaidis MG 34 buvo vienas pirmųjų bendrosios paskirties kulkosvaidžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-75896
 
 <a id="claim-t-78683"></a>
-- t-002
-  global_id: t-78683
+- t-001
   teiginys: "Vokiškas universalusis kulkosvaidis MG 34 naudojo 7,92x57 mm Mauser šovinį, šaudė 800-900 šūvių per minutę tempu ir be trikojo svėrė 12,1 kg."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -126,7 +124,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78682
+    - t-002
+
 - id: c-75897
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -155,4 +154,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78683
+    - t-001

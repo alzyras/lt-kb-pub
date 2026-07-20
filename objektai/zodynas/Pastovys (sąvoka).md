@@ -12,10 +12,10 @@ datos:
   - '1569 m.'
 date_start: '1569'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 
 
 <a id="claim-t-201810"></a>
 - t-001
-  global_id: t-201810
   teiginys: "Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 m. Liublino unijos į konvokacinius suvažiavimus, o ypač į Vyriausiojo Lietuvos tribunolo sesijas suvažiuojantys bajorai apsistodavo miestiečių namuose, niekaip už tą pastovį."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201810
+    - t-001

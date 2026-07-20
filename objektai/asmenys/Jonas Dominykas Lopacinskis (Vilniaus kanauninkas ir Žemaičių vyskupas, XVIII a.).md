@@ -49,8 +49,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 ## Teiginiai
 
 <a id="claim-t-200578"></a>
-- t-001
-  global_id: t-200578
+- t-004
   teiginys: "Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -67,8 +66,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183893
 
 <a id="claim-t-200579"></a>
-- t-002
-  global_id: t-200579
+- t-005
   teiginys: "Lopacinskio laiškuose gausu informacijos apie LDK sostinėje gyvenusius dvasininkus ir pasauliečius bajorus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -79,7 +77,6 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
 
 <a id="claim-t-200580"></a>
 - t-003
-  global_id: t-200580
   teiginys: "Nuo 1762 m. Jonas Dominykas Lopacinskis buvo Žemaičių vyskupas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -96,8 +93,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200581"></a>
-- t-004
-  global_id: t-200581
+- t-001
   teiginys: "Jonas Dominykas Lopacinskis nuo 1752 m. buvo Vilniaus kanauninkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -117,8 +113,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200582"></a>
-- t-005
-  global_id: t-200582
+- t-007
   teiginys: "Amžininkai pastebėjo, kad Jonas Dominykas Lopacinskis sumaniai laviravo tarp konkuruojančių bajorijos grupuočių ir turėjo platų pažinčių ratą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -135,8 +130,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183985
 
 <a id="claim-t-200583"></a>
-- t-006
-  global_id: t-200583
+- t-002
   teiginys: "1755 m. Jonas Dominykas Lopacinskis buvo LDK sekretorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -157,8 +151,7 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - c-183921
 
 <a id="claim-t-200584"></a>
-- t-007
-  global_id: t-200584
+- t-006
   teiginys: "Laiškuose Jonas Dominykas Lopacinskis vaizduojamas kaip paslaugus, smalsus ir konkretus žmogus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -181,72 +174,34 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 3"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 3."
-  citata_originali: |
-    Iš
-    jo laiškų galima sužinoti apie daugelio to meto visuomenės elito atstovų veiklą tiek jų
-    ankstyvoje jaunystėje, tiek karjeros viršūnėje.
-    J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
-    adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
-    sostinėje jo laiškuose informacijos išties gausu.
-  citata_rodoma: |
-    J. D. Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės, todėl dauguma jo
-    adresatų buvo dvasininkai bei pasauliečiai bajorai. Taigi apie kilmingųjų gyvenimą LDK
-    sostinėje jo laiškuose informacijos išties gausu.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200578
-    - t-200579
+    - t-004
+    - t-005
+
 - id: c-183921
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 2"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 2."
-  citata_originali: |
-    Straipsnio pagrindiniu
-    veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
-    Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
-    1762 m. Žemaičių vyskupas.
-  citata_rodoma: |
-    Straipsnio pagrindiniu
-    veikėju pasirinktas žymus XVIII a. LDK dvasininkas Jonas Dominykas Lopacinskis (Jan
-    Dominik Łopaciński), nuo 1752 m. Vilniaus kanauninkas, 1755 m. LDK sekretorius, nuo
-    1762 m. Žemaičių vyskupas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200580
-    - t-200581
-    - t-200583
+    - t-003
+    - t-001
+    - t-002
+
 - id: c-183985
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 3"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 3."
-  citata_originali: |
-    Gausiuose laiškuose
-    jis aprašė išsamią Vilniaus visuomenės gyvenimo panoramą. Beje, kanauninko stilius
-    gana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,
-    daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
-    nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
-    konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
-  citata_rodoma: |
-    Beje, kanauninko stilius
-    gana pagavus, o laiškuose atsiskleidė jo charakteris – tai buvo gana paslaugus, smalsus,
-    daug pasakoti mėgęs, pateikdavęs nemažai detalių, tačiau ir gana konkretus, emocijomis
-    nesivadovaudavęs, asmuo. Jau amžininkai pastebėjo, kad jis sumaniai laviruodavo tarp
-    konkuruojančių bajorijos grupuočių, būsimojo hierarcho pažinčių ratas buvo platus.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 06:05"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200582
-    - t-200584
+    - t-007
+    - t-006

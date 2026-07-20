@@ -7,13 +7,13 @@ datos:
   - '1971 m.'
 date_start: '1971'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,8 +48,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-186429"></a>
-- t-001
-  global_id: t-186429
+- t-002
   teiginys: "Leidinio įvade nurodoma, kad pavadinimas „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas, o vardas „Bychovco kronika“ prigijo XIX a. pagal Aleksandrą Bychovcą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -64,10 +63,9 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169780
-    - c-002
+
 <a id="claim-t-186430"></a>
-- t-002
-  global_id: t-186430
+- t-001
   teiginys: "1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -85,50 +83,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys gramatiškas, aiškus ir tiesiogiai paremtas antraštiniu puslapiu."
   pagrindžia:
     - c-169765
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    LIETUVOS
-    METRAŠTIS
-    Bychovco kronika
-    V I L N I U S  -197 1
 
-    ## Puslapis 2
-
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186430
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pavadinimas ,,Lietuvos metraštis, arba Bychovco
-    kronika", kuris duotas šiam vertimui į lietuvių kalbą,
-    nėra autentiškas. Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186429
 ## Citatos
 
 - id: c-169765
@@ -136,15 +91,6 @@ media_all_json: |-
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Rankraštis neturėjo jokio pavadini­
-    mo. „Bychovco kronika" jis buvo pramintas XIX a.
-    pagal rankraščio savininką, Gardino gubernijos Volko-
-    vysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­
-    vos metraščio" antraštė duota dėl nusistojusios jau lie­
-    tuvių tarybinėje istoriografijoje tradicijos vadinti
-    metraščiais visą XV—XVI a. pirmosios pusės Lietuvos
-    Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
-  citata_rodoma: |
     LIETUVOS
     METRAŠTIS
     Bychovco kronika
@@ -157,33 +103,20 @@ media_all_json: |-
     MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
     *
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+  citata_rodoma: "LIETUVOS\nMETRAŠTIS\nBychovco kronika\nV I L N I U S  -197 1\n\n## Puslapis 2\n\nREDAKCINE KOMISIJA\nK. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,\nMALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į\n*\nVertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186430
+    - t-001
+
 - id: c-169780
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Labai panašaus teksto kroniką savo rankose yra tu­
-    rėjęs XVI a, antrosios pusės Lietuvos istorikas, mozū­
-    ras Motiejus Strijkovskis, kuris rado tą Bychovco kro-
-
-    nikos („rusiško metraščio") variantą tame pačiame
-    Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
-    Didžiosios Berestovicos dvare. Ištisus to varianto frag­
-    mentus M. Strijkovskis beveik pažodžiui perteikė savo
-    Kronikoje (M. Stryikoįvski, Kronika polska, litevvska,
-    žmodzka y wszystkiey Rusi, 1582).
-    Bychovco kronikos tekstas jau du kartus skelbtas
-    originalo kalba, bet tie leidiniai, kaip ir jos vertimas
-    į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
-    mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: |
     Pavadinimas ,,Lietuvos metraštis, arba Bychovco
     kronika", kuris duotas šiam vertimui į lietuvių kalbą,
     nėra autentiškas. Rankraštis neturėjo jokio pavadini­
@@ -194,10 +127,11 @@ media_all_json: |-
     tuvių tarybinėje istoriografijoje tradicijos vadinti
     metraščiais visą XV— XVI a. pirmosios pusės Lietuvos
     Didžiojoje Kunigaikštystėje kilusią istorinę raštiją.
+  citata_rodoma: "Pavadinimas ,,Lietuvos metraštis, arba Bychovco\nkronika\", kuris duotas šiam vertimui į lietuvių kalbą,\nnėra autentiškas. Rankraštis neturėjo jokio pavadini­\nmo. „Bychovco kronika\" jis buvo pramintas XIX a.\npagal rankraščio savininką, Gardino gubernijos Volko-\nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti\nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos\nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186429
+    - t-002

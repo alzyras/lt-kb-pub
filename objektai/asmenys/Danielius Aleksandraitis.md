@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-100070"></a>
 - t-001
-  global_id: t-100070
   teiginys: "1402 m. Maskva Pskove pasodino kunigaikštį Danielių Aleksandraitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100070
+    - t-001

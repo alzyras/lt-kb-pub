@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-02535"></a>
 - t-001
-  global_id: t-02535
   teiginys: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ media_all_json: |-
     - c-02773
 
 <a id="claim-t-197888"></a>
-- t-002
-  global_id: t-197888
+- t-003
   teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,22 +69,19 @@ media_all_json: |-
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
-    Tik labai suma-
+    Batoro laikais. Tik labai suma-
     žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
     jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
     tebuvo atgauta tik viena Latgala.
-  citata_rodoma: |
-    Tik labai suma-
-    žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
-    jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
-    tebuvo atgauta tik viena Latgala.
+  citata_rodoma: "Tik labai suma-\nžėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji\njos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)\ntebuvo atgauta tik viena Latgala."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02535
+    - t-001
+
 - id: c-179381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -108,4 +103,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197888
+    - t-003

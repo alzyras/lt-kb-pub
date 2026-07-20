@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200477"></a>
-- t-001
-  global_id: t-200477
+- t-002
   teiginys: "1751 m. Jonas Dominykas Lopacinskis rašė, kad Ona Pociejūtė Tiškevičienė tikriausiai gimdys Vilniuje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183848
 
 <a id="claim-t-200478"></a>
-- t-002
-  global_id: t-200478
+- t-001
   teiginys: "Ona Pociejūtė buvo Juozapo Tiškevičiaus sutuoktinė."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -92,18 +90,9 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    Dvasininkas minėjo ir svarbiausius bajorų asmeninio gyvenimo įvykius – vestuves,
-    vaikų gimimą, mirtį. Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
-    ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12].
-  citata_rodoma: |
-    Dvasininkas minėjo ir svarbiausius bajorų asmeninio gyvenimo įvykius – vestuves, vaikų gimimą, mirtį. Pvz., 1751 m. jis pasakojo, kad atvyko Vilniaus tijūnai Juozapas
-    ir Ona Pociejūtė Tiškevičiai. Ponia turbūt čia gimdys [12].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200477
-    - t-200478
+    - t-002
+    - t-001

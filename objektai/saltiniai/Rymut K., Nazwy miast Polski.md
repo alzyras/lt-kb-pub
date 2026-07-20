@@ -36,7 +36,6 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
 
 <a id="claim-t-61277"></a>
 - t-001
-  global_id: t-61277
   teiginys: "K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61277
+    - t-001

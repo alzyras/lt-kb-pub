@@ -30,7 +30,6 @@ Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavus
 
 <a id="claim-t-189523"></a>
 - t-001
-  global_id: t-189523
   teiginys: "Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavusius apeigas ir pranašavusius mirusiojo sielos likimą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas lygašonis ir tulisonis apibūdina kaip laidotuvių žynius, atlikdavus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189523
+    - t-001

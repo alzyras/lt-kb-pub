@@ -38,8 +38,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Teiginiai
 
 <a id="claim-t-70186"></a>
-- t-001
-  global_id: t-70186
+- t-002
   teiginys: "Rusų tarpininkavimo sąlygos atėmė bajorijai teisę kurti konfederacijas, apribojo hetmonų valdžią ir sumažino kariuomenę."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - c-46906
 
 <a id="claim-t-70189"></a>
-- t-002
-  global_id: t-70189
+- t-001
   teiginys: "Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
 <a id="claim-t-182954"></a>
 - t-003
-  global_id: t-182954
   teiginys: "Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -132,17 +129,15 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
     ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
     dus ir Sapiegas.
-  citata_rodoma: |
-    Su ta kariuomene ir suor-
-    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
-    dus ir Sapiegas.
+  citata_rodoma: "Su ta kariuomene ir suor-\nganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-\ndus ir Sapiegas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70189
+    - t-001
+
 - id: c-46906
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -156,19 +151,15 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     blogiausias viso to padarinys buvo tas, kad taika buvo pada-
     ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
     ėmė kištis į Respublikos vidaus reikalus.
-  citata_rodoma: |
-    Priimtomis sąlygomis,
-    Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
-    soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
-    buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
-    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai.
+  citata_rodoma: "Priimtomis sąlygomis,\nAugustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-\nsoniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,\nbuvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta\niš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70186
+    - t-002
+
 - id: c-166353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -186,4 +177,4 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182954
+    - t-003

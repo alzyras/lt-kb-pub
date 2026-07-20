@@ -31,7 +31,6 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
 
 <a id="claim-t-191438"></a>
 - t-001
-  global_id: t-191438
   teiginys: "Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191438
+    - t-001

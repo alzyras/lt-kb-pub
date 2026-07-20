@@ -28,7 +28,6 @@ Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino.
 
 <a id="claim-t-201728"></a>
 - t-001
-  global_id: t-201728
   teiginys: "Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201728
+    - t-001

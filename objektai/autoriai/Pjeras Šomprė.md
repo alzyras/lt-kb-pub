@@ -30,9 +30,8 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
 
 <a id="claim-t-190401"></a>
 - t-001
-  global_id: t-190401
   teiginys: "Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,23 +47,7 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173284
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
-    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
-    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
-    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190401
+
 ## Citatos
 
 - id: c-173284
@@ -72,31 +55,15 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    T. Narbutas ne­
-    kompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus
-    baltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­
-    gėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­
-    sijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas
-    apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
-    biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
-    džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką - dievus, kuriuos M. Strijkovskis
-    laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
-    mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
-    skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas - prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
-    kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
-    ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
-    vu.
-  citata_rodoma: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
     puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
     kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
+  citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190401
+    - t-001

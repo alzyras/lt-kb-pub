@@ -31,7 +31,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 
 <a id="claim-t-39673"></a>
 - t-001
-  global_id: t-39673
   teiginys: "Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,6 +46,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   pagrindžia:
     - c-41477
     - c-167155
+
 ## Citatos
 
 - id: c-41477
@@ -69,7 +69,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39673
+    - t-001
+
 - id: c-167155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -90,6 +91,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Vladimiras (Pronsko kunigaikštis) keliavo į [[objektai/vietos/Maskva]]

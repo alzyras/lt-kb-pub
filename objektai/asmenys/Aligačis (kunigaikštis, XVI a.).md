@@ -33,7 +33,6 @@ Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus p
 
 <a id="claim-t-202333"></a>
 - t-001
-  global_id: t-202333
   teiginys: "Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus pasiuntinys, pagal sutartį su Žygimantu Senuoju laidavo prekybos laisvę lenkų ir lietuvių pirkliams Kafoje ir Perekope."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -51,17 +50,8 @@ Penktajame dešimtmetyje kunigaikštis Aligačis, Krymo chano Sagapo Girėjaus p
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Iki pat XVI a. audiniai minimi tarpvalstybinėse sutartyse. An-
-    tai penktame dešimtmetyje pagal sutartį su Žygimantu Senuoju
-    Krymo chanas Sagapas (Sahibas!) Girėjus per savo pasiuntinį
-    kunigaikštį Aligačį laidavo prekybos laisvę lenkų ir lietuvių pir-
-    kliams Kafoje ir Perekope, ir už tai jam pažadėta kasmet siųsti
-    gelumbės už 50 000 auksinų44.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202333
+    - t-001

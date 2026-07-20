@@ -51,8 +51,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 ## Teiginiai
 
 <a id="claim-t-12278"></a>
-- t-001
-  global_id: t-12278
+- t-004
   teiginys: "Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169762
 
 <a id="claim-t-186424"></a>
-- t-002
-  global_id: t-186424
+- t-003
   teiginys: "Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169762
 
 <a id="claim-t-186425"></a>
-- t-003
-  global_id: t-186425
+- t-005
   teiginys: "Per krikštą dalyti balti vilnoniai marškiniai simbolizavo nekaltąją sielą."
   atnaujinta: "2026-06-13 18:57"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-169763
 
 <a id="claim-t-186426"></a>
-- t-004
-  global_id: t-186426
+- t-006
   teiginys: "Jogailos vardu dalinti balti vilnoniai marškiniai skatino dalį lietuvių krikštytis vien dėl šios dovanos."
   atnaujinta: "2026-06-13 18:57"
   sprendimo_priezastis: "auto"
@@ -158,8 +154,9 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12278
-    - t-186424
+    - t-004
+    - t-003
+
 - id: c-169763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -176,5 +173,5 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186425
-    - t-186426
+    - t-005
+    - t-006

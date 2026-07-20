@@ -38,7 +38,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
 <a id="claim-t-58747"></a>
 - t-001
-  global_id: t-58747
   teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
     - c-167599
 
 <a id="claim-t-200782"></a>
-- t-002
-  global_id: t-200782
+- t-003
   teiginys: "Vorobjovas rašė, kad Vilniaus gatvių vaizdai primena Veneciją, Bergamą ir kitus garsius turistų lankomus miestus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58747
+    - t-001
+
 - id: c-184127
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -138,6 +137,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200782
+    - t-003
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

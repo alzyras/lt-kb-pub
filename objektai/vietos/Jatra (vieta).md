@@ -33,7 +33,6 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
 
 <a id="claim-t-202404"></a>
 - t-001
-  global_id: t-202404
   teiginys: "Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -58,13 +57,8 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 19"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
-  citata_originali: |
-    0618 su paruošta pas p. Estke pasiuntinybe važiavo p. Salmonovičius iki
-    Vilniaus. Sielco pasiuntinį pasiunčiau į Sielcą ir į Jatrą su atsakymais.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202404
+    - t-001

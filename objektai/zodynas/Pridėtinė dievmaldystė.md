@@ -35,7 +35,6 @@ M. Valančius Kauno vyskupystėje stengėsi įvesti lietuvių kalbą pridėtinė
 
 <a id="claim-t-200902"></a>
 - t-001
-  global_id: t-200902
   teiginys: "M. Valančius Kauno vyskupystėje stengėsi įvesti lietuvių kalbą pridėtinėje dievmaldystėje, nors kai kur lenkų kalba išsilaikė iki 1865 m."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ M. Valančius Kauno vyskupystėje stengėsi įvesti lietuvių kalbą pridėtinė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200902
+    - t-001

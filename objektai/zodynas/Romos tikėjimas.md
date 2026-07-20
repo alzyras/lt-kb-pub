@@ -33,7 +33,6 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 
 <a id="claim-t-185409"></a>
 - t-001
-  global_id: t-185409
   teiginys: "Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -54,9 +53,8 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 
 <a id="claim-t-187526"></a>
 - t-002
-  global_id: t-187526
   teiginys: "Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +73,6 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 
 <a id="claim-t-196805"></a>
 - t-003
-  global_id: t-196805
   teiginys: "Lietuvos metraštis nurodo, kad Vytautas pravoslavų krikšte gavo Jurgio, o „lenkų tikėjimo“ krikšte - Aleksandro vardą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -87,12 +84,10 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   pagrindžia:
     - c-178922
 
-## Citatos
-
-- id: c-168770
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,
@@ -114,37 +109,14 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     ir be saiko ištikimus graikų apeigoms, kad jie pasiduo­
     tų Maskvos valdžiai bei priklausomybei, išduotų Se-
     verską ir užpultų su savo kariaunomis Lietuvą.
-  citata_rodoma: |
-    Šis, labiau
-    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
-    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
-    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
-    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
-    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
-    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
-    kupui Vaitiekui Taborui ir
-    P a sk elb ia
-    A le k sa n d -
-    Smolensko
-    Juozapui Solta-
-    rui karą
-    nui ne kartą raginti Eleną
-    pereiti į Romos tikėjimą; li­
-    gi šiol rūmuose nesanti pastatyta Elenos reikalams
-    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
-    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
-    mės, ieškosi prieglobsčio Maskvoje.
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-185409
-- id: c-170476
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O šis kunigaikštis, be jokios prie­
     žasties nutraukęs taiką ir draugystę, atsiuntė pas didįjį
@@ -166,7 +138,52 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     Ir, atleidęs pasiuntinį, sušaukė visą savo lietuvių
     bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
     į Maskvą3.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168770
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šis, labiau
+    geisdamas plėsti savo valdas, nei paisyti duoto žodžio
+    bei giminystės, ryžosi galop viešai įpilti pasiuntiniams
+    taurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­
+    dyje slaptus kėslus. Be reikalo, tarė, minimos čia su­
+    tartys, kurios, tiek kartų Aleksandro sulaužytos, seniai
+    neturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­
+    kupui Vaitiekui Taborui ir
+    P a sk elb ia
+    A le k sa n d -
+    Smolensko
+    Juozapui Solta-
+    rui karą
+    nui ne kartą raginti Eleną
+    pereiti į Romos tikėjimą; li­
+    gi šiol rūmuose nesanti pastatyta Elenos reikalams
+    koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo
+    ir todėl kai kurie, norėdami išvengti šitokios nuodė­
+    mės, ieškosi prieglobsčio Maskvoje.
+  citata_rodoma: "Šis, labiau\ngeisdamas plėsti savo valdas, nei paisyti duoto žodžio\nbei giminystės, ryžosi galop viešai įpilti pasiuntiniams\ntaurę nuodų, kuriuos ligi šiol virino, puoselėdamas šir­\ndyje slaptus kėslus. Be reikalo, tarė, minimos čia su­\ntartys, kurios, tiek kartų Aleksandro sulaužytos, seniai\nneturinčios jokios vertės. Juk jis įsakęs Vilniaus vys­\nkupui Vaitiekui Taborui ir\nP a sk elb ia\nA le k sa n d -\nSmolensko\nJuozapui Solta-\nrui karą\nnui ne kartą raginti Eleną\npereiti į Romos tikėjimą; li­\ngi šiol rūmuose nesanti pastatyta Elenos reikalams\nkoplyčia; rusai verčiami atsisakyti prosenelių tikėjimo\nir todėl kai kurie, norėdami išvengti šitokios nuodė­\nmės, ieškosi prieglobsčio Maskvoje."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-170476
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     76
 
     ## Puslapis 72
@@ -180,13 +197,15 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
     vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
     rusų.
+  citata_rodoma: "76\n\n## Puslapis 72\n\n22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ, \nPIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ \nPRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE\nKunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­\ntę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, \no visi lietuvių didikai pasiliko pagonys. Didysis kuni­\ngaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­\nvertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien \nrusų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187526
+    - t-002
+
 - id: c-178922
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -213,4 +232,4 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196805
+    - t-003

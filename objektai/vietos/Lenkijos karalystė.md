@@ -39,8 +39,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 ## Teiginiai
 
 <a id="claim-t-114450"></a>
-- t-001
-  global_id: t-114450
+- t-012
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105528
 
 <a id="claim-t-114451"></a>
-- t-002
-  global_id: t-114451
+- t-009
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105533
 
 <a id="claim-t-114452"></a>
-- t-003
-  global_id: t-114452
+- t-001
   teiginys: "Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -92,8 +89,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24242
 
 <a id="claim-t-114453"></a>
-- t-004
-  global_id: t-114453
+- t-008
   teiginys: "Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114454"></a>
-- t-005
-  global_id: t-114454
+- t-010
   teiginys: "Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,8 +123,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114455"></a>
-- t-006
-  global_id: t-114455
+- t-007
   teiginys: "Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -145,8 +139,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105530
 
 <a id="claim-t-114456"></a>
-- t-007
-  global_id: t-114456
+- t-011
   teiginys: "Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +158,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105532
 
 <a id="claim-t-114457"></a>
-- t-008
-  global_id: t-114457
+- t-002
   teiginys: "Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -185,8 +177,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24243
 
 <a id="claim-t-114458"></a>
-- t-009
-  global_id: t-114458
+- t-005
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,8 +194,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105529
 
 <a id="claim-t-114459"></a>
-- t-010
-  global_id: t-114459
+- t-004
   teiginys: "Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -255,17 +245,15 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: |
-    Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+  citata_rodoma: "Teritorija, kurioje ši autonomija veiktų, apibrėžta \nkaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-\nsią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114452
+    - t-001
+
 - id: c-24243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,19 +266,15 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
-  citata_rodoma: |
-    Svarstant
-    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
-    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
-    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
-    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
+  citata_rodoma: "Svarstant \nValstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-\njai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-\nkąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama \nSuvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114457
+    - t-002
+
 - id: c-105527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -318,8 +302,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114453
-    - t-114454
+    - t-008
+    - t-010
+
 - id: c-105528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,7 +332,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114450
+    - t-012
+
 - id: c-105529
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -365,7 +351,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114458
+    - t-005
+
 - id: c-105530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -400,7 +387,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114455
+    - t-007
+
 - id: c-105531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -425,29 +413,15 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
-  citata_rodoma: |
-    Amžinai šio dalyko atminčiai mes, Žygimantas
-    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
-    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
-    nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
-    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
-    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
-    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
-    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
-    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
-    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
-    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
-    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
-    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
-    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
-    turi būti parašyti: Viešpaties vardu Amen.
+  citata_rodoma: "Amžinai šio dalyko atminčiai mes, Žygimantas\nSenasis, Dievo malone išrinktas Lenkijos Karalystės kara­\nlius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­\nnigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam\napie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje\nkam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje\nstoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten\ngyvenančių, vardu vieną privilegiją su titulu ir antspaudu\nšviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­\nba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,\nBrastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,\nprašydami, kad mes teises, laisves ir kitus jiems anoje privile­\ngijoje priklausančius dalykus patvirtinti, sustiprinti ir su­\ntvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais\nturi būti parašyti: Viešpaties vardu Amen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114459
+    - t-004
+
 - id: c-105532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -472,7 +446,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114456
+    - t-011
+
 - id: c-105533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -493,6 +468,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114451
+    - t-009
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

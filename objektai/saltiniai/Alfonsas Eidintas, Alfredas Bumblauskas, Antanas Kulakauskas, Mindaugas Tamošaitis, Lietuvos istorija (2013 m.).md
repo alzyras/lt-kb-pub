@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
 
 ## Santrauka
@@ -52,32 +53,18 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - Redaktoriaus žodyje skyrių autorystė paskirstoma keturiems istorikams: Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui.
 - Knygos pabaigos anotacijoje leidinys apibūdinamas kaip glausta Lietuvos istorijos apžvalga ir kaip bandymas nuo 1990 m. aprėpti valstybės istoriją nuo senovės iki 2004 m.
 
+## Ryšiai
+
+- Autoriai: [[Alfonsas Eidintas]], [[Alfredas Bumblauskas]], [[Antanas Kulakauskas]], [[Mindaugas Tamošaitis]].
+- Leidėjas: Vilniaus universiteto leidykla.
+- Užsakovas: Lietuvos Respublikos užsienio reikalų ministerija.
+
 ## Teiginiai
 
-<a id="claim-t-12997"></a>
-- t-001
-  global_id: t-12997
-  teiginys: "Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. 280 puslapių knyga."
-  atnaujinta: "2026-05-31 10:32"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 2012 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-16253
-
 <a id="claim-t-12998"></a>
-- t-002
-  global_id: t-12998
+- t-004
   teiginys: "Leidinio rengėjai siekė glausto, lengvai skaitomo, tiesos ir atvirumo kriterijais grįsto Lietuvos istorijos veikalo."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,12 +78,9 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-16234
-    - c-16235
-    - c-16270
 
 <a id="claim-t-13000"></a>
-- t-003
-  global_id: t-13000
+- t-006
   teiginys: "Redaktoriaus žodyje leidinio chronologinė aprėptis siejama su 1009 m. ir Lietuvos virsmu visateise Europos Sąjungos nare 2004 m."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -114,30 +98,20 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     - c-16235
 
 <a id="claim-t-13110"></a>
-- t-004
-  global_id: t-13110
+- t-007
   teiginys: "Redaktoriaus žodyje skyrių autorystė paskirstoma Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alfredas Bumblauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Alfredas Bumblauskas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)\" parinktas kaip owner_note_path. Targetas \"Alfredas Bumblauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-16251
     - c-16252
 
 <a id="claim-t-13111"></a>
-- t-005
-  global_id: t-13111
+- t-008
   teiginys: "Redaktoriaus žodyje leidinys įvardytas kaip pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti Lietuvos istorijos distanciją."
-  atnaujinta: "2026-06-10 12:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,7 +125,6 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-16237
-    - c-16270
 
 ## Citatos
 
@@ -175,21 +148,15 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: |
-    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
-    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
-    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
-    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
-    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
-    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
-    jais grįstą Lietuvos istorijos veikalą.
+  citata_rodoma: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio \nreikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus \nuniversiteto Tarptautinių santykių ir politikos mokslų instituto moks-\nlininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-\nfesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus), \nprašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-\njais grįstą Lietuvos istorijos veikalą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12998
+    - t-004
+
 - id: c-16235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,23 +181,15 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
-  citata_rodoma: |
-    Jo paskirtis – kiekvienam Skaitytojui,
-    visų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti
-    ilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-
-    lią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per
-    skirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos
-    nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
-    paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
-    sateise Europos Sąjungos nare 2004 m.
+  citata_rodoma: "Jo paskirtis – kiekvienam Skaitytojui, \nvisų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti \nilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-\nlią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per \nskirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos \nnepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo \npaminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-\nsateise Europos Sąjungos nare 2004 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12998
-    - t-13000
+    - t-006
+
 - id: c-16237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,19 +208,15 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
     visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
     kingu ir taupiu žvilgsniu.
-  citata_rodoma: |
-    Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
-    istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
-    damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
-    visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
-    kingu ir taupiu žvilgsniu.
+  citata_rodoma: "Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams \nistorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-\ndamas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti \nvisą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-\nkingu ir taupiu žvilgsniu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13111
+    - t-008
+
 - id: c-16251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,18 +240,13 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
     senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
     zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
-  citata_rodoma: |
-    Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-
-    lučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją:
-    senovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-
-    zavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir
+  citata_rodoma: "Knygos parengimo koordinacinis ir redagavimo darbas pavestas šių ei-\nlučių autoriui, autoriais pakviesti žinomi istorikai, parašę ne vieną studiją: \nsenovės lietuvių valstybės, Lietuvos Didžiosios Kunigaikštijos raidą anali-\nzavo Vilniaus universiteto prof. Alfredas Bumblauskas (parašė I ir"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-13110
 - id: c-16252
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -314,21 +264,15 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
     stilius, planuoti skyrių apimtis, paragrafus, suregzti sąsajas, intarpus, kad
     pasakojimas būtų vienodai sklandus, balansuotas kiekybe, neperkrautas
     nebūtinais faktais ir kuo malonesnis skaitytojo akiai.
-  citata_rodoma: |
-    arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-
-    joje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas
-    Kulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo
-    procesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-
-    gė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo
-    1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
-    siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
+  citata_rodoma: "arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-\njoje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas \nKulakauskas (III skyrius), modernios Lietuvos valstybės atkūrimo \nprocesą, 1918–1940 m. trukusį nepriklausomybės dvidešimtmetį apžvel-\ngė prof. Alfonsas Eidintas (IV šio darbo skyrius), o įvykius nuo \n1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-\nsiteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13110
+    - t-007
+
 - id: c-16253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -336,16 +280,13 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   citata_originali: |
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
     leidykla, 2012. – 280 p.
-  citata_rodoma: |
-    – Vilnius: Vilniaus universitetas, Vilniaus universiteto
-    leidykla, 2012. – 280 p.
+  citata_rodoma: "– Vilnius: Vilniaus universitetas, Vilniaus universiteto \nleidykla, 2012. – 280 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12997
 - id: c-16270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -372,6 +313,3 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12998
-    - t-13111

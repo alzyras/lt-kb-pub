@@ -30,9 +30,8 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
 
 <a id="claim-t-60700"></a>
 - t-001
-  global_id: t-60700
   teiginys: "W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -44,23 +43,7 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61332
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mėginta
-    sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen
-    su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—
-    253).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60700
+
 ## Citatos
 
 - id: c-61332
@@ -68,21 +51,15 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Romuvos
-    vieta apskritai nebeatsekama.
-    Turime pagrindo manyti, kad Nadruvoje buvusi ne viena vieta, susijusi su pagonišku
-    kultu. Nadruvos pietryčiuose, Pisos intako Romintės (dab. Krasnaja) aukštupyje,
-    į pietvakarius nuo Vištyčio ežero yra didelė kalvota Romintės (Romintos) giria, o jos
-    šiauriniame pakraštyje buvo kaimas Sventiškiai, kur išliko piliakalnis (HE, p. 50).
-  citata_rodoma: |
     Mėginta
     sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen
     su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—
     253).
+  citata_rodoma: "Mėginta\nsieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen\nsu Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—\n253)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60700
+    - t-001

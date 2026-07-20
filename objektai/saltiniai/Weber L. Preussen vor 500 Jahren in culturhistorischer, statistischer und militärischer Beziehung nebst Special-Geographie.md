@@ -43,8 +43,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 ## Teiginiai
 
 <a id="claim-t-61018"></a>
-- t-001
-  global_id: t-61018
+- t-002
   teiginys: "L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
     - c-61651
 
 <a id="claim-t-61019"></a>
-- t-002
-  global_id: t-61019
+- t-001
   teiginys: "Weberio veikalas nurodomas tarp šaltinių, kuriais grindžiama, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61019
+    - t-001
+
 - id: c-61651
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -113,13 +112,11 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
     Beziehung nebst Special-Geographie.— Danzig, 1878.
     Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
     Anfänge der Landgemeinde und ihr Wesen.
-  citata_rodoma: |
-    Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer
-    Beziehung nebst Special-Geographie.— Danzig, 1878.
+  citata_rodoma: "Weber L. Preussen vor 500 Jahren in culturhistorischer, statistischer und militärischer\nBeziehung nebst Special-Geographie.— Danzig, 1878."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61018
+    - t-002

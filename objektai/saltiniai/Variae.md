@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31962"></a>
 - t-001
-  global_id: t-31962
   teiginys: "Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,15 +57,11 @@ media_all_json: |-
     (Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose
     535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
     («Hestis ») už gintaro dovanas.
-  citata_rodoma: |
-    Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras
-    (Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose
-    535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams
-    («Hestis ») už gintaro dovanas.
+  citata_rodoma: "Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras\n(Cassiodorus, a. 490-585) savo raštuose (Variae, V, 12, parašytuose\n535-526 po Kr.) padavė tekstą Teodoriko padėkos laiško aisčiams\n(«Hestis ») už gintaro dovanas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31962
+    - t-001

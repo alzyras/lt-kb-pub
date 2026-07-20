@@ -40,8 +40,7 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 ## Teiginiai
 
 <a id="claim-t-35334"></a>
-- t-001
-  global_id: t-35334
+- t-002
   teiginys: "Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
     - c-36555
 
 <a id="claim-t-35335"></a>
-- t-002
-  global_id: t-35335
+- t-001
   teiginys: "Vosylius II, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35334
+    - t-002
+
 - id: c-38148
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -113,18 +112,11 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
     mažesnių chanų.
     Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
     gabenančių karūnas.
-  citata_rodoma: |
-    Į iškilmes buvo pa­
-    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
-    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
-    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
-    mažesnių chanų.
-    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
-    gabenančių karūnas.
+  citata_rodoma: "Į iškilmes buvo pa­\nkviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­\nto anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­\nnės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug\nmažesnių chanų.\nTačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­\ngabenančių karūnas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35335
+    - t-001

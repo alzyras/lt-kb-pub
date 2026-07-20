@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75174"></a>
-- t-001
-  global_id: t-75174
+- t-002
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-23071
 
 <a id="claim-t-75175"></a>
-- t-002
-  global_id: t-75175
+- t-006
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-73065
 
 <a id="claim-t-75178"></a>
-- t-003
-  global_id: t-75178
+- t-004
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,7 @@ Nenurodyta
     - c-166641
 
 <a id="claim-t-75179"></a>
-- t-004
-  global_id: t-75179
+- t-003
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +130,7 @@ Nenurodyta
     - c-23072
 
 <a id="claim-t-183252"></a>
-- t-005
-  global_id: t-183252
+- t-007
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -170,16 +165,15 @@ Nenurodyta
     liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
     sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
     Grupė Lietuvos partizanų 1947 m.
-  citata_rodoma: |
-    Užimant
-    Grupė Lietuvos partizanų 1947 m.
+  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75174
+    - t-002
+
 - id: c-23072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,18 +188,15 @@ Nenurodyta
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
     buvo leidžiama 80 pavadinimų periodinių leidinių.
-  citata_rodoma: |
-    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
-    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
-    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
-    buvo leidžiama 80 pavadinimų periodinių leidinių.
+  citata_rodoma: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-\nmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-\nmacijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau \nbuvo leidžiama 80 pavadinimų periodinių leidinių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75179
+    - t-003
+
 - id: c-73065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,25 +214,15 @@ Nenurodyta
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
-  citata_rodoma: |
-    Karas po karo – ginkluota rezistencija
-    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
-    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
-    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
-
-    L I E T U V O S  I S T O R I J A
-    210
-    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
-    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
-    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
-    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
+  citata_rodoma: "Karas po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75175
+    - t-006
+
 - id: c-166640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -261,7 +242,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183252
+    - t-007
+
 - id: c-166641
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -283,4 +265,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75178
+    - t-004

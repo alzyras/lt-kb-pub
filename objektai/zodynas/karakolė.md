@@ -53,8 +53,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 ## Teiginiai
 
 <a id="claim-t-42460"></a>
-- t-001
-  global_id: t-42460
+- t-005
   teiginys: "Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -70,8 +69,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - c-167098
 
 <a id="claim-t-42461"></a>
-- t-002
-  global_id: t-42461
+- t-003
   teiginys: "Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -87,8 +85,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - c-167098
 
 <a id="claim-t-42462"></a>
-- t-003
-  global_id: t-42462
+- t-004
   teiginys: "Švedų raitarai pasikliovė karakoliavimo taktika."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -104,8 +101,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - c-45521
 
 <a id="claim-t-42463"></a>
-- t-004
-  global_id: t-42463
+- t-006
   teiginys: "Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md::validation_repair"
@@ -121,8 +117,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - c-45521
 
 <a id="claim-t-183710"></a>
-- t-005
-  global_id: t-183710
+- t-007
   teiginys: "Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -155,22 +150,16 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
     Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
     kariauti su rytietiško pavyzdžio kariuomenėmis).
-  citata_rodoma: |
-    Švedų raitarai, pasikliaudami karakoliavimo taktika,
-
-    vengdavo artimo mūšio, todėl husarams
-
-    ginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi
-    Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
-    kariauti su rytietiško pavyzdžio kariuomenėmis).
+  citata_rodoma: "Švedų raitarai, pasikliaudami karakoliavimo taktika,\n\nvengdavo artimo mūšio, todėl husarams\n\nginklais, kaip raitelių taktikos pagrindas, išliko ir toliau vystėsi\nLietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |\nkariauti su rytietiško pavyzdžio kariuomenėmis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42462
-    - t-42463
+    - t-004
+    - t-006
+
 - id: c-167098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -212,6 +201,6 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42460
-    - t-42461
-    - t-183710
+    - t-005
+    - t-003
+    - t-007

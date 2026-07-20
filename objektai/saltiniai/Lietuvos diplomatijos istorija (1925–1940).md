@@ -39,7 +39,6 @@ Lietuvos diplomatijos istorija (1925–1940).
 
 <a id="claim-t-18039"></a>
 - t-001
-  global_id: t-18039
   teiginys: "Vytauto Žalio „Lietuvos diplomatijos istorijos (1925–1940)“ pirmas tomas išleistas Vilniuje 2007 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ Lietuvos diplomatijos istorija (1925–1940).
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
-  citata_rodoma: |
-    Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
+  citata_rodoma: "Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18039
+    - t-001

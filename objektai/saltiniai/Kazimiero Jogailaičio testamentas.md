@@ -31,7 +31,6 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
 
 <a id="claim-t-186334"></a>
 - t-001
-  global_id: t-186334
   teiginys: "Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,33 +47,7 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169695
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Vaistais mažino
-    karštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,
-    o vėliau, ją begydant, nepaprastai sustiprėjo vandenli­
-    gė, ir galop bet koks gydymas nieko negalėjo padėti.
-    Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
-    ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
-    dėti, karalius pasakė: „Vadinasi, reikia mirti" ir visą
-    savo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­
-    pesčius. Sudaręs testamentą, visus pinigus, po ranka
-    turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į
-    lenkų didikus, prašydamas, kad, jam mirus, paskirtų
-    sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
-    trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
-    rą paskelbtų Lietuvos valdovu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186334
+
 ## Citatos
 
 - id: c-169695
@@ -82,31 +55,6 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mažai
-    tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito,
-    pavyzdys bei rūpestis, ir Nifono, Konstantinopolio p a t­
-    riarcho, tais metais išleistas laiškas, kuris rimčių rim­
-    čiausiai ragino visus rusus tvirtai laikytis tos tikėjimo
-    santarvės, dėl kurios sutarė Rytų imperatorius Jonas
-    Paleologas, K on stantinopolio patriarchas Juozapas bei
-    kiti to meto Graikijos patriarchai ir valdovai, dalyva­
-    vę Florencijos suvažiavime. Dėl šių priežasčių Severs­
-    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
-    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
-    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
-    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
-    tuoti per pasiuntinį V a itie k ų K iočką dėl šios skriaudos.
-    53S
-
-    Tiesa, žadėjo karalius patraukti su visomis jėgomis ir
-    atkeršyti Maskvos valdovui, tačiau, tuo pat metu gavęs
-    laišką, kuriuo jam pranešė, kad jo sūnus Jonas Olbra-
-    chtas Vengrijoje sumuštas brolio Vladislovo ir su nu­
-    galėtoju sudaręs santarvę, padarydamas Lietuvai daug
-    žalos, jis nukreipė visą pyktį prieš Vladislovą, ketin­
-    damas ginkluota jėga jam atkeršyti už Olbrachto pra­
-    laimėjimą kaip už savo paties pažeminimą.
-  citata_rodoma: |
     Vaistais mažino
     karštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,
     o vėliau, ją begydant, nepaprastai sustiprėjo vandenli­
@@ -121,10 +69,11 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
     sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
     trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
     rą paskelbtų Lietuvos valdovu.
+  citata_rodoma: "Vaistais mažino\nkarštį, bet žaizdotuose viduriuose jie sukėlė dizenteriją,\no vėliau, ją begydant, nepaprastai sustiprėjo vandenli­\ngė, ir galop bet koks gydymas nieko negalėjo padėti.\nKai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­\nti, ar karalius atlaikys ligą, nieko gero negalėjo paža­\ndėti, karalius pasakė: „Vadinasi, reikia mirti\" ir visą\nsavo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­\npesčius. Sudaręs testamentą, visus pinigus, po ranka\nturimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į\nlenkų didikus, prašydamas, kad, jam mirus, paskirtų\nsosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė\ntrumpą kalbą lietuviams, reikalaudamas, kad Aleksand­\nrą paskelbtų Lietuvos valdovu."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186334
+    - t-001

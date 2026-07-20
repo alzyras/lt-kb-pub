@@ -33,7 +33,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
 <a id="claim-t-60397"></a>
 - t-001
-  global_id: t-60397
   teiginys: "Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie šventosios žemės reikalus
+    78. Apie šventosios žemės reikalus
 
        Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,
     vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,
@@ -64,19 +63,11 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
     sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
-  citata_rodoma: |
-    Apie šventosios žemės reikalus
-
-       Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,
-    vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,
-    žiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius
-    Šventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai
-    sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
-    pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
+  citata_rodoma: "Apie šventosios žemės reikalus\n\n   Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės,\nvienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas,\nžiauriai įsiveržė  į Šventąją žemę bei ją visą užėmė,  ir šitaip krikščionis, gyvenusius\nŠventajame Jeruzalės mieste bei gretimose žemėse, 490 metų užgulė kankinamai\nsunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,\npajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60397
+    - t-001

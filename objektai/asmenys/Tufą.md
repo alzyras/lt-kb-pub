@@ -31,7 +31,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 
 <a id="claim-t-191330"></a>
 - t-001
-  global_id: t-191330
   teiginys: "Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 
 <a id="claim-t-191331"></a>
 - t-002
-  global_id: t-191331
   teiginys: "Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 
 <a id="claim-t-197835"></a>
 - t-003
-  global_id: t-197835
   teiginys: "Vienas se niausių jo karvedžių Tufą perėjo priešo pusėn."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,7 +83,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 
 <a id="claim-t-197836"></a>
 - t-004
-  global_id: t-197836
   teiginys: "Teodoriko valdžia nepatenkintas Tufą su visa jam patikėta kariuomene paliko jį ir vėl perėjo pas Odoakrą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,6 +110,7 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174212
@@ -128,20 +125,16 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
     sėkmės labiau įbaugintas negu sugniuždytas, jis pasuko
     į Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma
     užvėrė savo vartus.
-  citata_rodoma: |
-    Vienas se­
-    niausių jo karvedžių Tufą perėjo priešo pusėn. Čia, ne­
-    sėkmės labiau įbaugintas negu sugniuždytas, jis pasuko
-    į Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma
-    užvėrė savo vartus.
+  citata_rodoma: "Vienas se­\nniausių jo karvedžių Tufą perėjo priešo pusėn. Čia, ne­\nsėkmės labiau įbaugintas negu sugniuždytas, jis pasuko \nį Romą, ketindamas ten įsitvirtinti. Bet nedėkinga Roma \nužvėrė savo vartus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191330
-    - t-197835
+    - t-001
+    - t-003
+
 - id: c-174213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -160,5 +153,5 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191331
-    - t-197836
+    - t-002
+    - t-004

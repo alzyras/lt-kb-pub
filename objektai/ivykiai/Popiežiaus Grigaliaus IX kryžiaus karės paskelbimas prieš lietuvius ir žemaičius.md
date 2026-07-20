@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201302"></a>
 - t-001
-  global_id: t-201302
   teiginys: "Norėdamas popiežius kuo didesniai kryžiaus karę, skelbiamą Teutonijoj, paskubinti, dominikonims, tenai skelbiantiems, liepė apreikšti vi siems tiems, kurie jų pamokslo klausė, 20 dienų atpuskų gavo, o tuos, kurie dėl gaisrų, išlaužimų arba dėl apjuokimo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184652
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi ateinantį metą
     popiežius pats su didesne dar aitra skatino krikš­
@@ -84,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201302
+    - t-001

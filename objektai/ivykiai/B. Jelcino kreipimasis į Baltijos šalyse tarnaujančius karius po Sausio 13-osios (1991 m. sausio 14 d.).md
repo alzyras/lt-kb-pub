@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20166"></a>
 - t-001
-  global_id: t-20166
   teiginys: "Po 1991 m. sausio 13 d. įvykių Borisas Jelcinas ragino Baltijos šalyse tarnaujančius karius nepasiduoti reakcijos jėgoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,12 +86,11 @@ Nenurodyta
     Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
     jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
     apie Rusijos ir jos tautų ateitį.
-  citata_rodoma: |
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
+  citata_rodoma: "jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20166
+    - t-001

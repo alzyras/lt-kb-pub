@@ -28,26 +28,11 @@ media_all_json: |-
 
 Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187557"></a>
-- t-001
-  global_id: t-187557
-  teiginys: 'Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinės formuluotės, nekeičiant citatos prasmės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Krymas'
-  pagrindžia:
-    - c-170507
-
-## Citatos
-
-- id: c-170507
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     M, M iechovita. (Трактат о  двух Сарматнях, p, 89)
     ulanais vadina visus Krymo totorius,
@@ -55,10 +40,8 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
     „em ir" a r „am ir” (kunigaikštis) ir persų (iranėnų) „žade” (sūnus).
     Totorių-mongolų tarp e mirzomis titulavosi chano Tamerlano, o vė­
     liau ir šiaip žymiausių feodalų giminių nariai.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187557
+  statusas: verified

@@ -40,7 +40,6 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 
 <a id="claim-t-193703"></a>
 - t-001
-  global_id: t-193703
   teiginys: "Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 
 <a id="claim-t-193704"></a>
 - t-002
-  global_id: t-193704
   teiginys: "Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193703
+    - t-001
+
 - id: c-176373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -108,4 +107,4 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193704
+    - t-002

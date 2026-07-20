@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-86911"></a>
 - t-001
-  global_id: t-86911
   teiginys: "1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86911
+    - t-001

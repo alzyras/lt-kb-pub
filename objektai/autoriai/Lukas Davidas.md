@@ -32,7 +32,6 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 
 <a id="claim-t-190318"></a>
 - t-001
-  global_id: t-190318
   teiginys: "Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 
 <a id="claim-t-194666"></a>
 - t-002
-  global_id: t-194666
   teiginys: "Žinią apie vyriausiuosius žy nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,9 +65,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 
 <a id="claim-t-194884"></a>
 - t-003
-  global_id: t-194884
   teiginys: "Luko Davido kronikos leidimo prierašai."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,22 +74,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177280
-    - c-003
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Luko Davido kronikos leidimo prierašai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
-    I.
-    S. 158.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194884
+
 ## Citatos
 
 - id: c-173201
@@ -112,7 +94,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190318
+    - t-001
+
 - id: c-177063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,25 +123,21 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194666
+    - t-002
+
 - id: c-177280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sūduva (Sudawia). Pavadinimas kilo iš sudinų gen­
-    ties1. Si provincija buvo labai didelė, turtinga miškų,
-    ežerų ir pelkių, turėjo nemažai gyventojų, paskutiniais
-    savo nepriklausomybės metais galėjo turėti 6000 raitelių
-    ir 8000 pėstininkų.
-  citata_rodoma: |
     2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
     I.
     S. 158.
+  citata_rodoma: "2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B\nI.\nS. 158."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194884
+    - t-003

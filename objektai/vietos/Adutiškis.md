@@ -37,7 +37,6 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 
 <a id="claim-t-41584"></a>
 - t-001
-  global_id: t-41584
   teiginys: "Adutiškis minimas tarp lietuviškų teritorijų, atsiimtų rugpjūčio 9 d."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,16 +66,11 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
     [7] Rugpjūčio 8 d. Augustavas
     © Rugpjūčio 9 d. Švenčionėliai, |
     Švenčionys, Adutiškis.
-  citata_rodoma: |
-    liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS
-
-    [7] Rugpjūčio 8 d. Augustavas
-    © Rugpjūčio 9 d. Švenčionėliai, |
-    Švenčionys, Adutiškis.
+  citata_rodoma: "liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS\n\n[7] Rugpjūčio 8 d. Augustavas\n© Rugpjūčio 9 d. Švenčionėliai, |\nŠvenčionys, Adutiškis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41584
+    - t-001

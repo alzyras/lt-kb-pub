@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20504"></a>
 - t-001
-  global_id: t-20504
   teiginys: "Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, valdžiusiu 1764–1795 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-183278"></a>
 - t-002
-  global_id: t-183278
   teiginys: "Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,5 +115,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20504
-    - t-183278
+    - t-001
+    - t-002

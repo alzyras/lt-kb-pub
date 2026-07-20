@@ -8,13 +8,13 @@ datos:
   - '1364 m.'
 date_start: '1363'
 date_end: '1364'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karinė-praktika
   - paprotys
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185909"></a>
-- t-001
-  global_id: t-185909
+- t-002
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kėlusius darbininkus ir išardė pradėtą pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-169270
 
 <a id="claim-t-196321"></a>
-- t-002
-  global_id: t-196321
+- t-003
   teiginys: "Kojelavičiaus pasakojime, sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leidosi vis giliau į Lietuvos žemes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -86,12 +84,10 @@ Nenurodyta
   pagrindžia:
     - c-169269
 
-## Citatos
-
-- id: c-169269
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuviai siekė atstatyti tvirtoves, kad sutramdytų priešą ir susigrąžintų nuolatinės grėsmės išblaškytus žemdirbius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     apsupo Gardiną; kadangi Pat-
     1363 m e ta i
@@ -118,7 +114,19 @@ Nenurodyta
     stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
     gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
     mes, bet ir pačią Rusią.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169269
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Sėkmingai išsigabenus vi­
     są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
     veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
@@ -149,13 +157,15 @@ Nenurodyta
     stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
     gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
     mes, bet ir pačią Rusią.
+  citata_rodoma: "Sėkmingai išsigabenus vi­\nsą grobį ir išsivedus visus belaisvius, grėsmingai įsi­\nveržė į Lietuvą Prūsijos maršalas Šindekopfas ir\n2 47\n\napsupo Gardiną; kadangi Pat-\n1363 m e ta i \nrikas, vadovavęs pilies gyny-\nP iū sų \nž y g ia i \nį \nLie- \nbai, narsiai atrėmė keletą \ntu v ą ir Ž e m a itiją \nantpuolių, kryžiuotis, išsiža­\ndėjęs minties užimti pilį, iš­\nsiuntė karius niokoti kaimų. Vėliau su permaininga \nsėkme abi šalys siaubė viena kitos kaimus, patirdamos \nbeveik vienodų nuostolių. Labiausiai vis dėlto lietu­\nvius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­\nnas po kito palikdavo kaimus, be to, priešas leisda­\nvosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami\nir priešą sutramdyti, ir su-\n1364 m e ta i \nsigrąžinti nuolatinės grėsmės\nišblaškytus žemdirbius, \njie \nstengėsi atstatyti tvirtoves, būgštaudami, kad karas il­\ngainiui nepersimestų ne tik į tolimesnes Lietuvos že­\nmes, bet ir pačią Rusią."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196321
+    - t-003
+
 - id: c-169270
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -182,24 +192,11 @@ Nenurodyta
     tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
     sausų malkų ir padegė taip, kad vėjas neštų liepsną į
     pilį, daug gynėjų žuvo ugnyje.
-  citata_rodoma: |
-    Kita vertus, priešas irgi iš pas­
-    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
-    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
-    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
-    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
-    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
-    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
-    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
-    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
-    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
-    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
-    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
-    pilį, daug gynėjų žuvo ugnyje.
+  citata_rodoma: "Kita vertus, priešas irgi iš pas­\nkutiniųjų stengėsi, kad neseniai nusiaubtose žemėse\nnebūtų iš naujo atstatomos pilys, trukdančios jam leis­\ntis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185909
+    - t-002

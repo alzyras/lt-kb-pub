@@ -22,15 +22,15 @@ datos:
   - '2026 m.'
 date_start: '650'
 date_end: '2026'
-amziai:
-  - 'VII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - upė
   - valstybė
   - vieta
+amziai:
+  - 'VII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,8 +53,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 ## Teiginiai
 
 <a id="claim-t-122987"></a>
-- t-001
-  global_id: t-122987
+- t-003
   teiginys: "1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112485
 
 <a id="claim-t-122989"></a>
-- t-002
-  global_id: t-122989
+- t-014
   teiginys: "1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112475
 
 <a id="claim-t-122990"></a>
-- t-003
-  global_id: t-122990
+- t-008
   teiginys: "Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +107,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112473
 
 <a id="claim-t-122991"></a>
-- t-004
-  global_id: t-122991
+- t-007
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -131,8 +127,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112477
 
 <a id="claim-t-122992"></a>
-- t-005
-  global_id: t-122992
+- t-013
   teiginys: "Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,8 +143,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112476
 
 <a id="claim-t-122994"></a>
-- t-006
-  global_id: t-122994
+- t-016
   teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -165,8 +159,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112484
 
 <a id="claim-t-122995"></a>
-- t-007
-  global_id: t-122995
+- t-005
   teiginys: "XVII a. ATR kariavo su Švedija du karus: 1600–1629 m. ir 1655–1660 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -186,8 +179,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112474
 
 <a id="claim-t-122997"></a>
-- t-008
-  global_id: t-122997
+- t-010
   teiginys: "1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -204,8 +196,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112475
 
 <a id="claim-t-122998"></a>
-- t-009
-  global_id: t-122998
+- t-012
   teiginys: "Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -221,8 +212,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112485
 
 <a id="claim-t-122999"></a>
-- t-010
-  global_id: t-122999
+- t-004
   teiginys: "Švedija siekė viešpatauti Baltijos jūroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -238,8 +228,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112482
 
 <a id="claim-t-123000"></a>
-- t-011
-  global_id: t-123000
+- t-009
   teiginys: "Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -255,8 +244,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112476
 
 <a id="claim-t-123001"></a>
-- t-012
-  global_id: t-123001
+- t-001
   teiginys: "Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -276,10 +264,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-112480
 
 <a id="claim-t-185216"></a>
-- t-013
-  global_id: t-185216
+- t-019
   teiginys: "Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -294,12 +281,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168577
-    - c-010
+
 <a id="claim-t-188876"></a>
-- t-014
-  global_id: t-188876
+- t-002
   teiginys: "Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -317,12 +303,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   temporalinis_llm_pakomentavimas: "Ištaisytas OCR sulaužytas vardas ir pridėtas tiesiogiai citatoje nurodytas sužeidimo kontekstas. Sveikatos pasekmė neįtraukta, kad sakinys liktų glaustas."
   pagrindžia:
     - c-171765
-    - c-011
+
 <a id="claim-t-188878"></a>
 - t-015
-  global_id: t-188878
   teiginys: "Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -338,30 +323,28 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-171767
-    - c-012
+
 <a id="claim-t-188879"></a>
-- t-016
-  global_id: t-188879
+- t-006
   teiginys: "Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:57"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumas: "keliavo_i -> Gotlandas: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedija\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gotlandas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ekspansija iš Gotlando rodo švedų judėjimo kilmę, bet santykis „keliavo_i“ tik apytikriai perteikia kryptį."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171768
-    - c-013
+    - c-177155
+
 <a id="claim-t-193260"></a>
-- t-017
-  global_id: t-193260
+- t-020
   teiginys: "Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -374,8 +357,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-175992
 
 <a id="claim-t-193657"></a>
-- t-018
-  global_id: t-193657
+- t-021
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -388,10 +370,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-176326
 
 <a id="claim-t-194759"></a>
-- t-019
-  global_id: t-194759
+- t-022
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -399,8 +380,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177155
-    - c-016
+    - c-171765
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -632,96 +612,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 - susijęs iš [[objektai/zodynas/judančios žemės sluoksniai.md#claim-t-192293|judančios žemės sluoksniai]]: Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: 'Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Neilgai trukus ten nu­
-    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
-    nei jo pastangos, nei karaliaus autoritetas nesutramdė
-    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
-    das, pakvietė į karo sąjungininkus Švedijos karalių.
-    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
-    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
-    ros, Augustas laiškais stengėsi sutaikyti švedus bei
-    maskvėnus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185216
-- c-011
-  santrauka: 'Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    T. Nar­
-    butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
-    Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
-    siliepė sveikatai -  jis apkurto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188876
-- c-012
-  santrauka: 'Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    416
-
-    ## Puslapis 416
-
-    giminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,
-    jie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­
-    rodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­
-    mo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­
-    kėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios
-    žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
-    bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
-    tykiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188878
-- c-013
-  santrauka: 'Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip tik
-    Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
-    jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
-    raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188879
-- c-016
-  santrauka: 'Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pat skaityki­
-    te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
-    tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
-    rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
-    P.' 143-167.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194759
 ## Citatos
 
 - id: c-112473
@@ -740,18 +630,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: |
-    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
-    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
-    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
+  citata_rodoma: "Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-\nno konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų \nSąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą. \nTačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122990
+    - t-008
+
 - id: c-112474
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -768,7 +655,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122995
+    - t-005
+
 - id: c-112475
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -787,26 +675,16 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
     gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
     sipelniusius.
-  citata_rodoma: |
-    Iš šio miesto 1579
-    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
-    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
-    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
-    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
-    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
-    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
-    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
-    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
-    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
-    sipelniusius.
+  citata_rodoma: "Iš šio miesto 1579\nmetais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų\nLopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-\nlickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­\nrių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą\nKetlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,\nsu kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,\nšis didis karalius, nenuilstamai rūpindamasis krašto saugu­\nmu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­\ngai bausdavo išdavikus ir apdovanodavo doruosius bei nu­\nsipelniusius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122989
-    - t-122997
+    - t-014
+    - t-010
+
 - id: c-112476
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -819,20 +697,16 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
     gusto seserimi.
     —  •  .
-  citata_rodoma: |
-    Jis taip pat palaimino Vilniuje Suomijos
-    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
-    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
-    gusto seserimi.
-    —  •  .
+  citata_rodoma: "Jis taip pat palaimino Vilniuje Suomijos\nkunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,\nsantuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­\ngusto seserimi.\n—  •  ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122992
-    - t-123000
+    - t-013
+    - t-009
+
 - id: c-112477
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -850,24 +724,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     88
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje.
-  citata_rodoma: |
-    Iškylanti Rusija Šiaurės karo
-    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
-    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
-    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-
-    L I E T U V O S  I S T O R I J A
-    88
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje.
+  citata_rodoma: "Iškylanti Rusija Šiaurės karo \nmetu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-\nnę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki \nRygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų \nteritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos\n\nL I E T U V O S  I S T O R I J A\n88\napraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius \nLietuvos uostus Palangoje ir Šventojoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122991
+    - t-007
+
 - id: c-112480
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -885,7 +750,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-123001
+    - t-001
+
 - id: c-112482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -904,7 +770,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122999
+    - t-004
+
 - id: c-112484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -923,7 +790,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122994
+    - t-016
+
 - id: c-112485
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -952,31 +820,14 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-122987
-    - t-122998
+    - t-003
+    - t-012
+
 - id: c-168577
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Ilgainiui įsidrąsino net penktadieniais
-    valgyti mėsą ir kitus raginti šitaip elgtis, dėl to kartą
-    vargais negalais išnešė sveiką kailį užpultas paprastų
-    žmonelių. Bijodamas čia padėti galvą, turėjo sprukti
-    iš miesto, tačiau pasėta sėkla netgi ir be jo davė tokį
-    derlių, kad per trumpą laiką visi turtingesni miestiečiai
-    pakeitė tikėjimą.
-    Tos pačios priežastys sukėlė neramumus Livonijoje.
-    Į Liuterio sektą perėjo Livo-
-    T os p a č io s p a sk a to s
-    nijos riterių magistras Vilhel-
-    su k e lia
-    n era m u m u s
-    mas Fiurstenbergas, atvirai
-    L iv o n ijo je
-    atsižadėdamas beveik su visu
-    ordinu Romos tikėjimo.
-  citata_rodoma: |
     Neilgai trukus ten nu­
     vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
     nei jo pastangos, nei karaliaus autoritetas nesutramdė
@@ -986,60 +837,39 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
     ros, Augustas laiškais stengėsi sutaikyti švedus bei
     maskvėnus.
+  citata_rodoma: "Neilgai trukus ten nu­\nvyko su panašia užduotimi Žemaitijos vyskupas, tačiau\nnei jo pastangos, nei karaliaus autoritetas nesutramdė\npasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­\ndas, pakvietė į karo sąjungininkus Švedijos karalių.\nKadangi švedų valdovas atsisakė siūlomos sąjungos,\nbūgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­\nros, Augustas laiškais stengėsi sutaikyti švedus bei\nmaskvėnus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185216
+    - t-019
+
 - id: c-171765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tuo me­
-    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
-    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
-    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
-    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
-    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
-    kus. Vilniaus šubravcų draugijos nariai, pasivadinę pagoniš­
-    kais dievų ir dievybių vardais, rinko medžiagą apie lietuvių
-    mitologiją.
-  citata_rodoma: |
     T. Nar­
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
     Mūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­
     siliepė sveikatai -  jis apkurto.
+  citata_rodoma: "T. Nar­\nbutas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.\nMūšyje prie Abo miesto jį kontūzijo. Sužeidimas netrukus at­\nsiliepė sveikatai -  jis apkurto."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188876
+    - t-002
+    - t-022
+
 - id: c-171767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Hunc index nota utrimque inustulata emittebat sin-
-    gidum singulis territorii quadrantibus, ut per manus vicinorum
-    extraditus et facti notitiam simul et comparandi maneatum cir­
-    cumferret: quomodo non juditia tantum, sed et promiscue om­
-    nes conventus publici indicti fuerunt, ubi de casu aliquo extra
-    ordinem deliberandum erat, aut judicandum. Erat autem hic
-    baculus nunciatorius effectus ad modum rei, de qua in Conven­
-    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
-    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
-    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
-    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
-    arba pranešėjo, pasiuntinio lazda. Šią lazdą su išdegintu iš abie­
-    jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
-    rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
-    pasiruošusiems pasklistų aplinkui.
-  citata_rodoma: |
     416
 
     ## Puslapis 416
@@ -1052,38 +882,31 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     žmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau
     bendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­
     tykiui.
+  citata_rodoma: "416\n\n## Puslapis 416\n\ngiminių vadai buvo pirmieji žyniai; vykdydami šį pašaukimą,\njie teisėjaudavo ir atlikdavo sprendimus; tai ši aplinkybė, at­\nrodo, paaiškina Tacito prielaidą, kad tik žyniai turėjo baudi­\nmo teisę. Kai kuriose tautose tie santykiai buvo labiau išryš­\nkėję, ypač ten, kur į didžiąsias šventyklas susirinkdavo minios\nžmonių, kaip antai Švedijoje ir Danijoje. Čia žymiai daugiau\nbendraudavo vieni su kitais, beveik nesikeičiant savitarpio san­\ntykiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188878
+    - t-015
+
 - id: c-171768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Šitaip būdavo paskelbiami
-    ne vien teismai, bet ir be skirtumo visokios viešosios sueigos;
-    ten turėdavo būti svarstomi kokie nors neeiliniai klausimai
-    arba bylos. Ši pranešėjo lazda būdavo pažymėta priklausomai
-    nuo dalyko, kuris turėdavo būti svarstomas sueigoje, kaip an­
-    tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
-    dystė, - medine strėle arba kirviu). Naudojimasis ta budlafla
-    kilęs iš seniausių stabmeldystės laikų, nes tą patį paprotį ran-
-  citata_rodoma: |
     Kaip tik
     Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
     jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
     raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
+  citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188879
 - id: c-175992
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1099,7 +922,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193260
+    - t-020
+
 - id: c-176326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1116,32 +940,27 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193657
+    - t-021
+
 - id: c-177155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Viso veikalo leidimą, atsi­
-    žvelgiant į 1830 metų sausio 8 dienos įstatymą apie autorių
-    teises, atidaviau leidėjo nuosavybėn. Pastarasis po to, kai bus
-    gautas cenzūros sutikimas pardavinėti, privalo už kiekvieną
-    tomą sumokėti 300 rublių sidabru honoraro. Taip pat iš karto
-    po išspausdinimo dar turi duoti po 60 kiekvieno tomo egzem­
-    pliorių“14.
-  citata_rodoma: |
     Taip pat skaityki­
     te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
     tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­
     rijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -
     P.' 143-167.
+  citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194759
+    - t-006
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karolis IX]]
 - Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Vaza]]

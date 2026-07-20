@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201289"></a>
 - t-001
-  global_id: t-201289
   teiginys: "Nevildamies kryžėjai vienu žygiu sūdaujų už kariauti norėjo bent kaip taip juos trukinti, idant jie neturėtų pragumo eiti terioti kryžėjų krašto."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184639
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gyventojai pa­
     tys už visus lietuvius juo kantresni ir narsesni ir
@@ -86,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201289
+    - t-001

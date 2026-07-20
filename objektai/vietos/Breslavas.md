@@ -38,7 +38,6 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 
 <a id="claim-t-36164"></a>
 - t-001
-  global_id: t-36164
   teiginys: "1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 
 <a id="claim-t-36165"></a>
 - t-002
-  global_id: t-36165
   teiginys: "1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,18 +103,15 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas
     galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
     patvirtino Torno sutartį (1411).
-  citata_rodoma: |
-    Taip buvo sulaukta
-    1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas
-    galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
-    patvirtino Torno sutartį (1411).
+  citata_rodoma: "Taip buvo sulaukta\n1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas\ngalutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.\npatvirtino Torno sutartį (1411)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36165
+    - t-002
+
 - id: c-38462
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -134,19 +129,11 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     pripažindamas Vytautui iki jo mirties, bet užgindamas jame
     statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
     zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
-  citata_rodoma: |
-    Bet ciesorius Zigmantas vilkino jį iki
-    1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­
-    jos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant
-    dar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,
-    kaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą
-    pripažindamas Vytautui iki jo mirties, bet užgindamas jame
-    statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
-    zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
+  citata_rodoma: "Bet ciesorius Zigmantas vilkino jį iki\n1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­\njos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant\ndar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,\nkaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą\npripažindamas Vytautui iki jo mirties, bet užgindamas jame\nstatyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­\nzijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36164
+    - t-001

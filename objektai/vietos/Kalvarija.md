@@ -31,7 +31,6 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 <a id="claim-t-02484"></a>
 - t-001
-  global_id: t-02484
   teiginys: "Kalvarijos mokykla buvo uždaryta kartu su Padubysio ir Kolainių mokyklomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02484
+    - t-001

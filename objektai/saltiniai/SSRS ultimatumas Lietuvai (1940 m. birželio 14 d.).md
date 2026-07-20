@@ -35,8 +35,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Teiginiai
 
 <a id="claim-t-75516"></a>
-- t-001
-  global_id: t-75516
+- t-002
   teiginys: "Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-23957
 
 <a id="claim-t-75517"></a>
-- t-002
-  global_id: t-75517
+- t-001
   teiginys: "1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-23956
 
 <a id="claim-t-75518"></a>
-- t-003
-  global_id: t-75518
+- t-004
   teiginys: "Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-73280
 
 <a id="claim-t-75519"></a>
-- t-004
-  global_id: t-75519
+- t-003
   teiginys: "Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -124,22 +120,15 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: |
-    Tačiau nei J. Urbšys, nei taikingas A. Smetonos
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
-    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
-    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
-    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
-    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
-    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
-    10 val. ryto.
+  citata_rodoma: "Tačiau nei J. Urbšys, nei taikingas A. Smetonos\nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos\npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus\nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų\nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos\n10 val. ryto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75517
+    - t-001
+
 - id: c-23957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,16 +143,15 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     kelis postus nuginklavo.
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą.
-  citata_rodoma: |
-    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
-    ar priešintis okupacijai, ar priimti ultimatumą.
+  citata_rodoma: "Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,\nar priešintis okupacijai, ar priimti ultimatumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75516
+    - t-002
+
 - id: c-23958
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,17 +163,15 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: |
-    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų.
+  citata_rodoma: "Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.\nS.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų\nkarinei mašinai negali, būtų daug aukų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75519
+    - t-003
+
 - id: c-73280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -208,4 +194,4 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75518
+    - t-004

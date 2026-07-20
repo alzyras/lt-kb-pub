@@ -40,7 +40,6 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 <a id="claim-t-64847"></a>
 - t-001
-  global_id: t-64847
   teiginys: "A. E. Sennas buvo vienas knygos „Lithuania in European Politics: The Years of the First Republic, 1918–1940“, išleistos Niujorke 1997 m., autorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 <a id="claim-t-64848"></a>
 - t-002
-  global_id: t-64848
   teiginys: "A. E. Sennas parašė knygas „Lietuvos valstybės atkūrimas 1918–1920“, „Bundanti Lietuva“ ir „Gorbačiovo nesėkmė Lietuvoje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64848
+    - t-002
+
 - id: c-166737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -105,4 +104,4 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64847
+    - t-001

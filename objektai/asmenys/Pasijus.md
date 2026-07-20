@@ -31,9 +31,8 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 
 <a id="claim-t-191453"></a>
 - t-001
-  global_id: t-191453
   teiginys: "Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,29 +49,7 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174335
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191453
+
 ## Citatos
 
 - id: c-174335
@@ -90,23 +67,14 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
     lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
     tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
     hR.
-  citata_rodoma: |
-    Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR.
+  citata_rodoma: "Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-\nlanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­\ntų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-\nhR."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191453
+    - t-001
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Paiakas]]

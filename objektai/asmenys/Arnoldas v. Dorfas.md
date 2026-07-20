@@ -28,7 +28,6 @@ Neuenburgą, kamendotą Altenburgo, ir Arnoldą v.
 
 <a id="claim-t-201415"></a>
 - t-001
-  global_id: t-201415
   teiginys: "Neuenburgą, kamendotą Altenburgo, ir Arnoldą v."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Neuenburgą, kamendotą Altenburgo, ir Arnoldą v.
 ## Citatos
 
 - id: c-184765
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­
@@ -62,4 +62,4 @@ Neuenburgą, kamendotą Altenburgo, ir Arnoldą v.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201415
+    - t-001

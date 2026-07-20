@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01927"></a>
-- t-001
-  global_id: t-01927
+- t-003
   teiginys: "Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-01928"></a>
 - t-002
-  global_id: t-01928
   teiginys: "1434 m. Zigmantas bajorų valstiečius atleido nuo mokesčių javais, o vėliau jie buvo atleisti ir nuo kitų prievolių valstybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Nenurodyta
     - c-02166
 
 <a id="claim-t-01929"></a>
-- t-003
-  global_id: t-01929
+- t-001
   teiginys: "Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +123,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01927
+    - t-003
+
 - id: c-02166
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,22 +140,15 @@ Nenurodyta
     nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
     kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
     rų savininkams — bajorams.
-  citata_rodoma: |
-    Jau Zigmantas bajorų valstiečius buvo atleidęs
-    (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
-    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
-    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
-    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
-    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
-    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
-    rų savininkams — bajorams.
+  citata_rodoma: "Jau Zigmantas bajorų valstiečius buvo atleidęs\n(1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo\npastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti\ndidžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio\nmokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to\nnepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam\nkunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-\nrų savininkams — bajorams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01928
+    - t-002
+
 - id: c-02167
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -175,4 +166,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01929
+    - t-001

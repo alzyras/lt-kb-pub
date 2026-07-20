@@ -42,8 +42,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 ## Teiginiai
 
 <a id="claim-t-05729"></a>
-- t-001
-  global_id: t-05729
+- t-002
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-06625
 
 <a id="claim-t-05730"></a>
-- t-002
-  global_id: t-05730
+- t-001
   teiginys: "D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 
 <a id="claim-t-188398"></a>
 - t-003
-  global_id: t-188398
   teiginys: "1829 m. „Dziennik Warszawski“ išspausdino Dionizo Poškos straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 
 <a id="claim-t-188399"></a>
 - t-004
-  global_id: t-188399
   teiginys: "Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -120,10 +116,9 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171289
-    - c-004
+
 <a id="claim-t-190695"></a>
-- t-005
-  global_id: t-190695
+- t-006
   teiginys: "Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -144,10 +139,9 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173577
-    - c-006
+
 <a id="claim-t-193582"></a>
-- t-006
-  global_id: t-193582
+- t-007
   teiginys: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -159,8 +153,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-176257
 
 <a id="claim-t-197288"></a>
-- t-007
-  global_id: t-197288
+- t-008
   teiginys: "Poška, rašydamas šį straipsnį, turėjo omenyje kokį nors konkretų asmenį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -172,8 +165,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     - c-179106
 
 <a id="claim-t-197585"></a>
-- t-008
-  global_id: t-197585
+- t-009
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -191,39 +183,42 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   santrauka: 'Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Manoma, kad tuo metu jau buvo parašyti
-    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
-    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
-    persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
-    rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
-    metų ir nebuvo.
+    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188399
-- c-006
-  santrauka: 'Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas.'
+  statusas: verified
+- c-005
+  santrauka: 'Dionizas Poška, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ta lietuvių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Bene geriausiai ją
-    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
-    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
-    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
-    toriją“2. Jis parašytas metai prieš mirtį, todėl jį drįstume
-    laikyti tam tikru literatūriniu testamentu. Straipsnio pa­
-    vadinimas tarsi byloja, jog autoriui visų pirma rūpėjo
-    duoti nurodymus ar patarimus visiems, kurie imsis ra­
-    šyti lietuvių tautos istoriją.
+    Dobrom).
+    2 Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardija Že­
+    maitijoje esančius vietovardžius, kurie rodo, jog ten kadaise gyveno
+    toji lietuvių gentis. Be čia paminėtų, jis nurodo ir tokius: Girkantiš-
+    kė, Girkontiszki, Girdiškė, Girdyszki, Girdučiai, Girducie, Girdutlau-
+    266
+
+    ## Puslapis 277
+
+    do, turėjo būti senovės miestas Jurbarkas, nors jo įkūri­
+    mą Strijkovskis sieja su Borkaus laikais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190695
+  statusas: verified
+
 ## Citatos
 
 - id: c-06625
@@ -242,20 +237,15 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: |
-    Be to, buvo renkamos se-
-    nienos ir seni istoriniai doku-
-    mentai, o D. Poška savo
-    Baubly įtaisė net senienų mu-
-    ziejų. Jis taip pat bandė rašyti
-    ir Lietuvos istoriją.
+  citata_rodoma: "Be to, buvo renkamos se-\nnienos ir seni istoriniai doku-\nmentai, o D. Poška savo\nBaubly įtaisė net senienų mu-\nziejų. Jis taip pat bandė rašyti\nir Lietuvos istoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05729
+    - t-002
+
 - id: c-06627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -267,18 +257,15 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     žemaitiškai. Tik to meto Vilniaus universiteto garsenybė, isto-
     rikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kil-
     dinimo iš gerulių nemoksliškumą.
-  citata_rodoma: |
-    Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
-    veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
-    globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
-    žemaitiškai.
+  citata_rodoma: "Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių\nveikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats\nglobojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs\nžemaitiškai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05730
+    - t-001
+
 - id: c-171288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -297,36 +284,28 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188398
+    - t-003
+
 - id: c-171289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
-    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
-    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
-    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
-    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
-    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
-    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
-    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
-    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
-    timi.
-  citata_rodoma: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
     buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
     persirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­
     rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
     metų ir nebuvo.
+  citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188399
+    - t-004
+
 - id: c-173577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -350,8 +329,9 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190695
-    - t-197585
+    - t-006
+    - t-009
+
 - id: c-176257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -373,7 +353,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193582
+    - t-007
+
 - id: c-179106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -392,4 +373,4 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197288
+    - t-008

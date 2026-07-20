@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201334"></a>
 - t-001
-  global_id: t-201334
   teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184684
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Susirėmė abi pusi paupy Ja-
     seldos ir grūmės iš visos galios, ragotinės traškėjo,
@@ -77,4 +77,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201334
+    - t-001

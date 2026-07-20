@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-97274"></a>
-- t-001
-  global_id: t-97274
+- t-002
   teiginys: "Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-91758
 
 <a id="claim-t-97275"></a>
-- t-002
-  global_id: t-97275
+- t-001
   teiginys: "„Užnemunė po Prūsais 1795-1807“ išleista 1928 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -92,17 +90,12 @@ media_all_json: |-
     munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
     Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
     veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
-  citata_rodoma: |
-    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
-    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
-    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
-    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
-    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
+  citata_rodoma: "Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),\n«Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­\nmunė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).\nSurinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų\nveikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97274
-    - t-97275
+    - t-002
+    - t-001

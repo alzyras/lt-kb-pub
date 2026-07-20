@@ -37,7 +37,6 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
 
 <a id="claim-t-202412"></a>
 - t-001
-  global_id: t-202412
   teiginys: "Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininkas, turėjo valdų Ukmergės paviete ties Vidiškiais ir Riešėje prie Vilniaus."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
 
 <a id="claim-t-202413"></a>
 - t-002
-  global_id: t-202413
   teiginys: "1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -89,46 +87,18 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 8"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
-  citata_originali: |
-    Apie J. L. Ozięblowskj žinių išlikę labai nedaug. Žinoma, kad jis
-    buvo Jakūnų seniūnas, o nuo 1699 m. Vilniaus stalininkas, kad buvo
-    vedęs Teofilio Dunino Rajeckio dukrą Kotryną (Katarzyna), kurios pir­
-    mas vyras buvo Samuelis Komorowskis, garsus karvedys XVII a. vidu­
-    rio karų metu5. Iš dienoraščio aišku, kad J. L. Ozięblowskis turėjo
-    valdų Ukmergės paviete, ties Vidiškiais (centras, regis, buvo Radiškio
-    dvarelyje6) ir Riešėje, prie Vilniaus. 1698 m. balandžio 23 d. J. L. Ozi­
-    ęblowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pa-
-    valksnės, palivarką Ukmergės paviete Samucliui Petkevičiui7.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202412
+    - t-001
 
 - id: c-185760
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 11"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 11."
-  citata_originali: |
-    Autorius dažnai keliavo nedideliais maršrutais po Rytų Lietuvą
-    (artimesnių ir dažnesnių kelionių arealas apima Radiškio, Vidiškių,
-    Vilkmergės, Žemaitkiemio, Šventupio, Kurklių ir Balninkų apylinkes,
-    kiek tolimesnių - Vilniaus, Riešės, Kamajų, Pandėlio ir Rokiškio bei
-    kai kurias kitas). Bet 1694 m. liepos-rugpjūčio mėn. jis atliko ir vieną
-    nemažą kelionę į Gdanską pas šio miesto valdžią kažkokiais savo
-    reikalais. Liepos 27 d. išvykęs iš Radiškio jis per Veprius, Skarulius,
-    Kauną, Pilviškius, Virbalį, Trakėnus, Vėluvą, Bartenšteiną, Elzbergą,
-    Ornetą ir Elblingą rugpjūčio 7 d. atvyko į Gdanską. Ten viešėjo iki
-    rugpjūčio 16 d., o to mėnesio 25 d. grįžo, bet neaprašė atgalinio marš­
-    ruto. Neaišku, nei ko keliautojas ten vyko, nei ką veikė, o visa kelionė
-    daugiausia aprašyta nusakant maršrutą bei atstumus ir kur nakvota,
-    paminint kai kurias smulkmenas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202413
+    - t-002

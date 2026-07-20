@@ -7,12 +7,12 @@ datos:
   - '1232 m.'
 date_start: '1232'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
 
 <a id="claim-t-190552"></a>
 - t-001
-  global_id: t-190552
   teiginys: "Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -47,24 +46,7 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173435
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kad nuramintume žmoniškumo gynėjus, turime
-    16
-    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
-    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
-    1232. -  Nr. 7.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190552
+
 ## Citatos
 
 - id: c-173435
@@ -72,23 +54,16 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Priesaikos su užkeikimu taip pat dar
-    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
-    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
-    tysis laikydavo dešinę ranką prie savo gerklės. Kaip liudija
-    Hartknochas (p. 548), šis paprotys dar ilgai gyvavo kryžiuočių
-    valdomoje Prūsijoje, nes ši religinė apeiga sutvirtindavo prie­
-    saiką labiau nei pirštų padėjimas ant Evangelijos.
-  citata_rodoma: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16
     Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
     // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
     1232. -  Nr. 7.
+  citata_rodoma: "Kad nuramintume žmoniškumo gynėjus, turime\n16\nĮrodymui Hartknochas pateikia: Litterae Gregorii Papae IX\n// Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum\n1232. -  Nr. 7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190552
+    - t-001

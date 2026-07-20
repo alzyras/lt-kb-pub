@@ -37,7 +37,6 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
 
 <a id="claim-t-41736"></a>
 - t-001
-  global_id: t-41736
   teiginys: "Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
     Viduriniajai vorai po atkaklių kautynių
     pavyko užimti Užkalnius, Ėriškėlius ir
     Barklainius.
-  citata_rodoma: |
-    Dešinioji kolona ener-
-    gingu puolimu užėmė plane numatytus
-    Jotvainių, Griniūnų ir Katinų kaimus.
-    Viduriniajai vorai po atkaklių kautynių
-    pavyko užimti Užkalnius, Ėriškėlius ir
-    Barklainius.
+  citata_rodoma: "Dešinioji kolona ener-\ngingu puolimu užėmė plane numatytus\nJotvainių, Griniūnų ir Katinų kaimus.\nViduriniajai vorai po atkaklių kautynių\npavyko užimti Užkalnius, Ėriškėlius ir\nBarklainius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41736
+    - t-001

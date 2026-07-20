@@ -31,7 +31,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 
 <a id="claim-t-70429"></a>
 - t-001
-  global_id: t-70429
   teiginys: "Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -231,17 +230,15 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
     gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
     kelio lietuviai.
-  citata_rodoma: |
-    Toks žygis paprastai trukdavo ne ilgiau, kaip
-    savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
-    kelio lietuviai.
+  citata_rodoma: "Toks žygis paprastai trukdavo ne ilgiau, kaip\nsavaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems\nkelio lietuviai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70429
+    - t-001
+
 - id: c-166392
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -261,3 +258,5 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

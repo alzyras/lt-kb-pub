@@ -38,7 +38,6 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 
 <a id="claim-t-59164"></a>
 - t-001
-  global_id: t-59164
   teiginys: "Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59164
+    - t-001

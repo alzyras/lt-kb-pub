@@ -44,8 +44,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 ## Teiginiai
 
 <a id="claim-t-78007"></a>
-- t-001
-  global_id: t-78007
+- t-004
   teiginys: "1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - c-75323
 
 <a id="claim-t-78008"></a>
-- t-002
-  global_id: t-78008
+- t-003
   teiginys: "Iš bibliotekų buvo pašalintos Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos bei tautinė literatūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - c-75324
 
 <a id="claim-t-78009"></a>
-- t-003
-  global_id: t-78009
+- t-005
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Vinco Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - c-75322
 
 <a id="claim-t-78010"></a>
-- t-004
-  global_id: t-78010
+- t-001
   teiginys: "Vincas Kudirka iki mirties redagavo 1889 m. pradėtą leisti žurnalą „Varpas“, rašė poeziją ir sukūrė „Tautišką giesmę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     - c-75326
 
 <a id="claim-t-78011"></a>
-- t-005
-  global_id: t-78011
+- t-002
   teiginys: "Vinco Kudirkos poezija ir satyriniai apsakymai, pašiepiantys caro valdininkus, žadino lietuvių tautinę savimonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -190,22 +185,15 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: |
-    Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
-    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
-    demonstracijas įsakus.
+  citata_rodoma: "Spalio 21 dieną LKP CK pirmuoju sekre-\ntoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, \nypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus \narkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė \nlietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, \nV. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį \nir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir \ndemonstracijas įsakus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78009
+    - t-005
+
 - id: c-75323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,17 +204,15 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
     draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
-  citata_rodoma: |
-    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
-    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
-    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
+  citata_rodoma: "Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-\nno savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-\ndraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78007
+    - t-004
+
 - id: c-75324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -238,19 +224,15 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
     gos, tautinio pobūdžio literatūra. 1944–1951 m. sunaikinta apie 600 tūkst.
     leidinių.
-  citata_rodoma: |
-    Šlovinant
-    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
-    Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
-    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
-    gos, tautinio pobūdžio literatūra. 1944–1951 m.
+  citata_rodoma: "Šlovinant \nkomunistinės ideologijos autoritetus, susidorojama su nepriklausomos \nLietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų \nVinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-\ngos, tautinio pobūdžio literatūra. 1944–1951 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78008
+    - t-003
+
 - id: c-75325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -266,19 +248,15 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: |
-    išleistos Maironio knygos „Pavasario balsai“
-    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-
-    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
-    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
-    Žymantienės-Žemaitės sodri realistinė sociali proza.
+  citata_rodoma: "išleistos Maironio knygos „Pavasario balsai“ \nir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-\nmonę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai \npašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos \nŽymantienės-Žemaitės sodri realistinė sociali proza."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78011
+    - t-002
+
 - id: c-75326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -293,16 +271,11 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
     rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
     rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
     nys taps Lietuvos himnu.
-  citata_rodoma: |
-    Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
-    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
-    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka
-    rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-
-    nys taps Lietuvos himnu.
+  citata_rodoma: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka \n(1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į \nrankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka \nrašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri-\nnys taps Lietuvos himnu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78010
+    - t-001

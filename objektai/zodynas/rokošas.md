@@ -37,7 +37,6 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 
 <a id="claim-t-03147"></a>
 - t-001
-  global_id: t-03147
   teiginys: "Zebžidovskio rokošas buvo vidaus karas Lenkijoje, vykęs tuo metu, kai Lietuvoje buvo ką tik aprimęs karas su švedais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 
 <a id="claim-t-03148"></a>
 - t-002
-  global_id: t-03148
   teiginys: "1608 m. pasibaigus rokošui, darbo netekę kareivių būriai nuvyko padėti apsimetėliui Dimitrijui II."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,16 +87,15 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
     Vieni jį rėmė dėl to, kad neapkentė Šuiskio, o kiti už pinigus.
     Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-
     joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.
-  citata_rodoma: |
-    Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-
-    joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.
+  citata_rodoma: "Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-\njoje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03147
+    - t-001
+
 - id: c-03386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,13 +106,11 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
     joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas. Kai
     1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-
     reivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.
-  citata_rodoma: |
-    Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-
-    reivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.
+  citata_rodoma: "Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-\nreivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03148
+    - t-002

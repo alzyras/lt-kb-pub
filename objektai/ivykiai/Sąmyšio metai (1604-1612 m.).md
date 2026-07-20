@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-31476"></a>
 - t-001
-  global_id: t-31476
   teiginys: "Sąmyšio metai (1604–1612), nors lietuviai ir lenkai per Dimitrą Prisimetėlį veikė Maskvoje, Abiejų Tautų Respublikai reikšmingesnių atliepimų neturėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,20 +90,11 @@ Nenurodyta
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon.
-  citata_rodoma: |
-    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
-    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
-    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
-    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
-    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
-    «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,
-    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
-    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
-    sijos įtakon.
+  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo,\nkuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo\nimperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­\nsijos įtakon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31476
+    - t-001

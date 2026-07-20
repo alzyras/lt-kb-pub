@@ -37,7 +37,6 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
 
 <a id="claim-t-21245"></a>
 - t-001
-  global_id: t-21245
   teiginys: "Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško sovietų įsipareigojimai Lietuvai dėl Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
     Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
     liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško so-
     vietų įsipareigojimai Lietuvai dėl Vilniaus.
-  citata_rodoma: |
-    Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
+  citata_rodoma: "Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21245
+    - t-001

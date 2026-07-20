@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-63319"></a>
 - t-001
-  global_id: t-63319
   teiginys: "T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -77,14 +76,11 @@ media_all_json: |-
     mės druska. Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
     dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino.
-  citata_rodoma: |
-    Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
-    dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
-    lenkų ir lietuvių santykius pablogino.
+  citata_rodoma: "Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė\ndr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri\nlenkų ir lietuvių santykius pablogino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63319
+    - t-001

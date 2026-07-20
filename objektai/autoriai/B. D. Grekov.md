@@ -40,7 +40,6 @@ Grekov, B.
 
 <a id="claim-t-30568"></a>
 - t-001
-  global_id: t-30568
   teiginys: "B. D. Grekovas su A. J. Jakubovskiu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Grekov, B.
     Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_
     skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
     bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
-  citata_rodoma: |
-    — Grekov, B. D. i Jakubov _­_
-    skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
-    bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
+  citata_rodoma: "— Grekov, B. D. i Jakubov _­_\nskij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati\nbibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30568
+    - t-001

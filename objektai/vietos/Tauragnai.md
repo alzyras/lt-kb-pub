@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Tauragnai
 
 ## Santrauka
@@ -35,29 +36,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 
 ## Teiginiai
 
-<a id="claim-t-42181"></a>
-- t-001
-  global_id: t-42181
-  teiginys: "1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugailiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tauragnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Daugailiai: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tauragnai\" parinktas kaip owner_note_path. Targetas \"Daugailiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškaus veikėjo ir gramatiškai pritaikyto vietovardžio."
-  pagrindžia:
-    - c-45353
-
 <a id="claim-t-42182"></a>
-- t-002
-  global_id: t-42182
+- t-001
   teiginys: "Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,16 +91,13 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     tuvių kariais toliau persekiojo bolševi-
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
-  citata_rodoma: |
-    Birželio 3 d. buvo užimti Daugailiai,
-    Tauragnai, birželio 4 d. Paberžė.
+  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-42181
 - id: c-45354
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -135,20 +112,11 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     Ten jis rado jau prieš pusvalandį
     Uteną pasiekusias Zechau ir Musteikio
     kolonos dalis.
-  citata_rodoma: |
-    Dalį raiti-
-    ninkų pasiuntęs Tauragnų kryptimi,
-    su likusiais vyko į Uteną.
-
-    Ten jis rado jau prieš pusvalandį
-    Uteną pasiekusias Zechau ir Musteikio
-    kolonos dalis.
+  citata_rodoma: "Dalį raiti-\nninkų pasiuntęs Tauragnų kryptimi,\nsu likusiais vyko į Uteną.\n\nTen jis rado jau prieš pusvalandį\nUteną pasiekusias Zechau ir Musteikio\nkolonos dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42182
-## Ryšiai
-- Užėmė Tauragnai: [[objektai/grupes/Lenkai]]
+    - t-001

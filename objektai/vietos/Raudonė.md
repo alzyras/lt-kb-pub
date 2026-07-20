@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Raudonė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-38385"></a>
 - t-001
-  global_id: t-38385
   teiginys: "Raudonėje buvo rastas XIII a. kalavijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-193780"></a>
 - t-002
-  global_id: t-193780
   teiginys: "Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -59,6 +58,18 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176432
+
+<a id="claim-t-201661"></a>
+- t-003
+  teiginys: "Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185008
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Zubovas.md#claim-t-87895|Zubovas]]: Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų.
@@ -82,7 +93,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38385
+    - t-001
+
 - id: c-176432
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -95,6 +107,25 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193780
+    - t-002
+
+- id: c-185008
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Šie ener-
+    gingai ėmėsi girilĮ eksploatavimo, didžiausias jėgas suteIkdami į panemunilĮ girias
+    žemiau Kauno. Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu
+    verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje. Kauno miško
+    verslovininko veiklos arealas siaurėjo, jie beveik nesilankė šiose giriose.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kiršenšteinai]]

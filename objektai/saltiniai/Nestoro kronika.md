@@ -30,7 +30,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
 
 <a id="claim-t-191729"></a>
 - t-002
-  global_id: t-191729
   teiginys: "Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: palaikų deginimą, pelenų rinkimą į urnas ir laidotuvių turnyrus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,10 +47,9 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174611
-    - c-002
+
 <a id="claim-t-191730"></a>
-- t-001
-  global_id: t-191730
+- t-003
   teiginys: "Narbutas nurodo Nestoro pasakojimą, kad 859 m. variagai paskyrė kailių duoklę, be kitų, ir krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     - c-174612
 
 <a id="claim-t-197683"></a>
-- t-003
-  global_id: t-197683
+- t-004
   teiginys: "Be to, reikia pridurti nors ir nepilną, tačiau Nestoro išsaugotą jų gyvenimo paveikslą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -102,10 +99,9 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     kokiai tautai jie priklauso.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-002
   santrauka: 'Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: palaikų deginimą, pelenų rinkimą į urnas ir laidotuvių turnyrus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -121,11 +117,10 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     metu rengdavo turnyrus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191729
+  statusas: verified
+
 ## Citatos
 
 - id: c-174611
@@ -146,23 +141,15 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
     genčių; jų kalba buvo labiau gimininga slavų kalbai:
     Slėceris šias dvi kalbas skelbia esant antro giminystės
     laipsnio.
-  citata_rodoma: |
-    Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
-    su krivičiais, o ne krivičių Smolenską, nes iš daugelio
-    tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
-    ir Polocko, galėjo būti palankesnė rusams ir prisidėti
-    prie Olego.
-    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
-    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
-    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
-    metu rengdavo turnyrus.
+  citata_rodoma: "Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­\njų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių\nmetu rengdavo turnyrus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191729
+    - t-002
+
 - id: c-174612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -185,7 +172,8 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191730
+    - t-003
+
 - id: c-179294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -205,4 +193,4 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197683
+    - t-004

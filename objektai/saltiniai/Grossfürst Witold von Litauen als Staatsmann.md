@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-34908"></a>
 - t-001
-  global_id: t-34908
   teiginys: "Jozepho Pfitznerio veikalas „Grossfürst Witold von Litauen als Staatsmann“ buvo išleistas Rudolfo M. Rohrerio leidykloje 1930 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34908
+    - t-001

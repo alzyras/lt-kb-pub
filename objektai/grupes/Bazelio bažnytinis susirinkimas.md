@@ -36,7 +36,6 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
 
 <a id="claim-t-40864"></a>
 - t-001
-  global_id: t-40864
   teiginys: "Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
     baigoje siekė sutaikyti abi puses. To siekė
     ir Jogaila, tarpininkaujant abiejų seseriai,
     Mozūrijos kunigaikštienei Aleksandrai.
-  citata_rodoma: |
-    Tuo tarpu Bazelio
-    bažnytinis susirinkimas dar 1431 m. pa-
-    baigoje siekė sutaikyti abi puses. To siekė
-    ir Jogaila, tarpininkaujant abiejų seseriai,
-    Mozūrijos kunigaikštienei Aleksandrai.
+  citata_rodoma: "Tuo tarpu Bazelio\nbažnytinis susirinkimas dar 1431 m. pa-\nbaigoje siekė sutaikyti abi puses. To siekė\nir Jogaila, tarpininkaujant abiejų seseriai,\nMozūrijos kunigaikštienei Aleksandrai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40864
+    - t-001

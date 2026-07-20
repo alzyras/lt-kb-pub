@@ -30,7 +30,6 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
 
 <a id="claim-t-191820"></a>
 - t-001
-  global_id: t-191820
   teiginys: "Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
 
 <a id="claim-t-197692"></a>
 - t-002
-  global_id: t-197692
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,5 +84,5 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191820
-    - t-197692
+    - t-001
+    - t-002

@@ -32,7 +32,6 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 
 <a id="claim-t-87754"></a>
 - t-001
-  global_id: t-87754
   teiginys: "Vilniaus sufraganas Kiprijonas kartu su vyskupu Povilu ir kleru užkirto kelią karaliui, vykusiam į disidentų bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87754
+    - t-001

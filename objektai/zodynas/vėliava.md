@@ -30,6 +30,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # vėliava
 
 ## Santrauka
@@ -39,8 +40,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 ## Teiginiai
 
 <a id="claim-t-78912"></a>
-- t-001
-  global_id: t-78912
+- t-004
   teiginys: "Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -56,8 +56,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-76016
 
 <a id="claim-t-78913"></a>
-- t-002
-  global_id: t-78913
+- t-008
   teiginys: "Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,19 +65,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-14727
 
 <a id="claim-t-78914"></a>
-- t-003
-  global_id: t-78914
+- t-007
   teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44240
-
-<a id="claim-t-78915"></a>
-- t-004
-  global_id: t-78915
-  teiginys: "Vėliavai vadovaudavo kapitonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -87,7 +75,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 
 <a id="claim-t-78916"></a>
 - t-005
-  global_id: t-78916
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -96,8 +83,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-37969
 
 <a id="claim-t-78917"></a>
-- t-006
-  global_id: t-78917
+- t-003
   teiginys: "Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -106,8 +92,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-14727
 
 <a id="claim-t-78918"></a>
-- t-007
-  global_id: t-78918
+- t-009
   teiginys: "Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +101,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-37969
 
 <a id="claim-t-193755"></a>
-- t-008
-  global_id: t-193755
+- t-011
   teiginys: "Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -189,6 +173,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.
 - susijęs iš Gardinas: Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.
 - susijęs iš Gedimino pilis (pilis): Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno.
+- susijęs iš Juodausiai (vieta): Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kunigėliuose.
+- susijęs iš Kunigėliai (vieta): Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kunigėliuose.
 - susijęs iš Lietuva: Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.
 - susijęs iš Pagraudė: Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
@@ -218,8 +204,9 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78913
-    - t-78917
+    - t-008
+    - t-003
+
 - id: c-37969
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -239,8 +226,9 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78916
-    - t-78918
+    - t-005
+    - t-009
+
 - id: c-44239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -255,7 +243,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193755
+    - t-011
+
 - id: c-44240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -266,19 +255,15 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 
     Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
     menėje buvę dar xvi a.
-  citata_rodoma: |
-    Dragūnų vėliavą sudarė 100-150 žmonių.
-
-    Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
-    menėje buvę dar xvi a.
+  citata_rodoma: "Dragūnų vėliavą sudarė 100-150 žmonių.\n\nPrie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-\nmenėje buvę dar xvi a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78914
-    - t-78915
+    - t-007
+
 - id: c-76016
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -297,4 +282,4 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78912
+    - t-004

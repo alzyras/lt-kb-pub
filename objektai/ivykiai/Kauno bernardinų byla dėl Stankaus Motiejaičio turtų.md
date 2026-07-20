@@ -9,10 +9,10 @@ datos:
   - '1528 m.'
 date_start: '1520'
 date_end: '1528'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201904"></a>
 - t-001
-  global_id: t-201904
   teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-201905"></a>
 - t-002
-  global_id: t-201905
   teiginys: "Popiežiaus legatas bylą išsprendė bernardinų naudai, bet pateikus apeliaciją ji atsidūrė Žygimanto Senojo teisme."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -71,6 +69,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185252
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -92,7 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201904
+    - t-001
 
 - id: c-185252
   autorius: "Zigmantas Kiaupa"
@@ -110,4 +111,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201905
+    - t-002

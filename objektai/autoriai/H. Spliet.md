@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-30631"></a>
 - t-001
-  global_id: t-30631
   teiginys: "H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ media_all_json: |-
     dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
     _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
     XIV-XVI a. geležies dirbinių metalografinė analizė,_ AkMD, t. 47, 1974,
-  citata_rodoma: |
-    — Prochaska, A. : _O praw­
-    dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
-    _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
-    XIV-XVI a.
+  citata_rodoma: "— Prochaska, A. : _O praw­\ndziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :\n_Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno\nXIV-XVI a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30631
+    - t-001

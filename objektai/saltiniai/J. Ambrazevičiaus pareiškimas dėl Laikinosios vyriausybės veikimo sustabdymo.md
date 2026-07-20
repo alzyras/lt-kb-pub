@@ -31,7 +31,6 @@ Vyriausybės pirmininkui J.
 
 <a id="claim-t-21069"></a>
 - t-001
-  global_id: t-21069
   teiginys: "J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Vyriausybės pirmininkui J.
     nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą. Vyriausybės pir-
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
-  citata_rodoma: |
-    mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
+  citata_rodoma: "mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21069
+    - t-001

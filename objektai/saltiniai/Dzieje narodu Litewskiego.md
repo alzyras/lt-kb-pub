@@ -7,12 +7,12 @@ datos:
   - '1841 m.'
 date_start: '1841'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
 
 <a id="claim-t-190489"></a>
 - t-001
-  global_id: t-190489
   teiginys: "T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 1841 metais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,21 +53,7 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173372
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 1841 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -
-    S. 492.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190489
+
 ## Citatos
 
 - id: c-173372
@@ -76,19 +61,13 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Poetas Vladis­
-    lovas Sirokomlė papasakojo savo įspūdžius Varšuvos laikraš­
-    tyje: „<...> muziejuje eksponuojamas dieviškas akmuo, ka­
-    raliaus Mindaugo antkapio dalis, čia pat galima pamatyti „aša­
-    rines“ - senovės lietuvių įkapes - stikliniuose indeliuose sau­
-    gomas protėvių ašaras“8.
-  citata_rodoma: |
     7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -
     S. 492.
+  citata_rodoma: "7 Narbutt T. Dzieje narodu Litewskiego. -  Wilno, 1841. -  T. 9. -\nS. 492."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190489
+    - t-001

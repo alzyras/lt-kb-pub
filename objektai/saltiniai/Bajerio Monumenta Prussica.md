@@ -36,7 +36,6 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
 
 <a id="claim-t-191828"></a>
 - t-001
-  global_id: t-191828
   teiginys: "Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -57,10 +56,9 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174710
-    - c-001
+
 <a id="claim-t-197665"></a>
 - t-002
-  global_id: t-197665
   teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191828
+
 ## Citatos
 
 - id: c-174710
@@ -104,20 +101,15 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
     ją norėjo įdėti į savo „Monumentą Prussica“.
     Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
     gamtos tyrinėtojai Klaprotas ir Hagenas.
-  citata_rodoma: |
-    Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
-    tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
-    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
-    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
-    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
-    ją norėjo įdėti į savo „Monumentą Prussica“.
+  citata_rodoma: "Labiausiai jį primena skruzdėliniai gyvasakiai; gel­\ntonas ir baltas gintaras kvepia skirtingai. Smalsuoliams\nrekomenduojama paskaityti knygelę „Ja. Wigancli Epis-\ncopi Pomesatiiensis de Succino, alce et herbis iri Prussia\nnascentibus libri\", išleistą 1590 metais Jenoje; Bajeris\nją norėjo įdėti į savo „Monumentą Prussica“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191828
+    - t-001
+
 - id: c-179286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -136,4 +128,4 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197665
+    - t-002

@@ -39,8 +39,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 ## Teiginiai
 
 <a id="claim-t-67720"></a>
-- t-001
-  global_id: t-67720
+- t-002
   teiginys: "1355 m. jo garnizonai įsikūrė Rževe ir Bialoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     - c-31973
 
 <a id="claim-t-193172"></a>
-- t-002
-  global_id: t-193172
+- t-003
   teiginys: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67720
+    - t-002
+
 - id: c-175920
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,4 +110,4 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193172
+    - t-003

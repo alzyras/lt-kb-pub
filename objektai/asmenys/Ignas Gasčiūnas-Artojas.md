@@ -31,7 +31,6 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 
 <a id="claim-t-39537"></a>
 - t-001
-  global_id: t-39537
   teiginys: "Ignas Gasčiūnas-Artojas vadovavo Žaliosios rinktinės Aušros būriui, kuris tuojau pat įsitraukė į kautynes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39537
+    - t-001

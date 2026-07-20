@@ -49,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-06869"></a>
 - t-001
-  global_id: t-06869
   teiginys: "1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,13 +80,11 @@ media_all_json: |-
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: |
-    Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
-    ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
+  citata_rodoma: "Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-\nginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-06869
+    - t-001

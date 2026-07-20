@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-188946"></a>
 - t-001
-  global_id: t-188946
   teiginys: "1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188946
+    - t-001

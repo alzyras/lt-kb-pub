@@ -40,8 +40,7 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 ## Teiginiai
 
 <a id="claim-t-64205"></a>
-- t-001
-  global_id: t-64205
+- t-002
   teiginys: "Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
     - c-65022
 
 <a id="claim-t-64206"></a>
-- t-002
-  global_id: t-64206
+- t-001
   teiginys: "Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,17 +90,15 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
     bergininkus“. Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską
     vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir
     po 2000 m.
-  citata_rodoma: |
-    Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską
-    vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir
-    po 2000 m.
+  citata_rodoma: "Padėtis ėmė keistis 1998 m., kai prezidentą A. Brazauską \nvadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir \npo 2000 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64206
+    - t-001
+
 - id: c-65022
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -123,20 +119,11 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
     260
     Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
     tarties 5-ajame straipsnyje.
-  citata_rodoma: |
-    Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje
-    Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas
-    Valdas Adamkus ir NATO Generalinis sekretorius Džordžas
-    Robertsonas 2000 m. gegužės 19 d.
-
-    L I E T U V O S  I S T O R I J A
-    260
-    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
-    tarties 5-ajame straipsnyje.
+  citata_rodoma: "Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje \nEuropos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas \nValdas Adamkus ir NATO Generalinis sekretorius Džordžas \nRobertsonas 2000 m. gegužės 19 d.\n\nL I E T U V O S  I S T O R I J A\n260\nPagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-\ntarties 5-ajame straipsnyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64205
+    - t-002

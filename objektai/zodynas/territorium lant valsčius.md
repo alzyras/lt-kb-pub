@@ -31,7 +31,6 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 
 <a id="claim-t-58874"></a>
 - t-001
-  global_id: t-58874
   teiginys: "Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 
 <a id="claim-t-58875"></a>
 - t-002
-  global_id: t-58875
   teiginys: "Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58874
+    - t-001
+
 - id: c-59507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -101,4 +100,4 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58875
+    - t-002

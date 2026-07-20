@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-193015"></a>
 - t-001
-  global_id: t-193015
   teiginys: "Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo šalmus, lygintus su tekančios saulės spinduliais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193015
+    - t-001

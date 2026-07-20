@@ -31,7 +31,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 
 <a id="claim-t-191274"></a>
 - t-001
-  global_id: t-191274
   teiginys: "Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 
 <a id="claim-t-191275"></a>
 - t-002
-  global_id: t-191275
   teiginys: "Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,10 +69,9 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174157
-    - c-002
+
 <a id="claim-t-197735"></a>
 - t-003
-  global_id: t-197735
   teiginys: "Goterio sū nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu traukė baigiantis II krikščioniškosios eros amžiui4."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,28 +94,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 - susijęs iš [[objektai/asmenys/Sturlaugas Darbštusis.md#claim-t-191472|Sturlaugas Darbštusis]]: Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Supylė virš jo kapo didžiulį pil­
-    kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
-    nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
-    traukė baigiantis II krikščioniškosios eros amžiui4.
-    232
-    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
-    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
-    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
-    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
-    Rusios uostas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191275
 ## Citatos
 
 - id: c-174156
@@ -140,25 +115,13 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191274
+    - t-001
+
 - id: c-174157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Skandinavų didvyris, vadinamas Sturlaugu Darbš-
-    čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,
-    o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
-    kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
-    Rusios uostas. Būta įvairių spėjimų, kur buvęs šis mies­
-    tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
-    Sliselburgas. Bet, atsižvelgiant į tai, ką jau ne sykį anks­
-    čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),
-    nėra pagrindo abejoti, jog tai buvusi tvirtovė prie pagrin­
-    dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
-    vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
-    metburgą.
-  citata_rodoma: |
     Supylė virš jo kapo didžiulį pil­
     kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
@@ -169,13 +132,15 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
     o vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam
     kraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo
     Rusios uostas.
+  citata_rodoma: "Supylė virš jo kapo didžiulį pil­\nkapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­\nnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­\ntraukė baigiantis II krikščioniškosios eros amžiui4.\n232\nSkandinavų didvyris, vadinamas Sturlaugu Darbš-\nčiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,\no vėliau jo dukrą Ingigerdą išleido už Flamoro ir jam\nkraičio davė apylinkes ir miestą Aldejaborgą, kuris buvo\nRusios uostas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191275
+    - t-002
+
 - id: c-179316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -194,6 +159,7 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197735
+    - t-003
+
 ## Ryšiai
 - Goteris kariavo prieš [[objektai/asmenys/Bojas]]

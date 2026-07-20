@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200656"></a>
-- t-001
-  global_id: t-200656
+- t-299052
   teiginys: "1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasiderėti dėl brolio interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-184021
 
 <a id="claim-t-200657"></a>
-- t-002
-  global_id: t-200657
+- t-003
   teiginys: "1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -82,8 +80,7 @@ media_all_json: |-
     - c-183984
 
 <a id="claim-t-200658"></a>
-- t-003
-  global_id: t-200658
+- t-001
   teiginys: "1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -105,8 +102,7 @@ media_all_json: |-
     - c-183984
 
 <a id="claim-t-200659"></a>
-- t-004
-  global_id: t-200659
+- t-002
   teiginys: "1752 m. Mykolas Kazimieras Radvila Žuvelė buvo labai patenkintas Vilniaus seimelio rezultatais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::groups"
@@ -138,43 +134,21 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    Minėjo ir būsimus Smolensko ir Starodubo seimelius
-    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
-    kintas Vilniaus seimelio rezultatais [29]. 1753 m. J. D. Lopacinskis minėjo apie tai, kad
-    sužinojo, jog Vilniaus seimelis bus nutrauktas [31].
-  citata_rodoma: |
-    1753 m. J. D. Lopacinskis minėjo apie tai, kad sužinojo, jog Vilniaus seimelis bus nutrauktas [31].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200657
-    - t-200658
+    - t-003
+    - t-001
+
 - id: c-184021
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
-    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
-    kintas Vilniaus seimelio rezultatais [29].
-  citata_rodoma: |
-    1752 m. J. D. Lopacinskis minėjo, kad atvyks
-    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
-    per seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius
-    [28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-
-    kintas Vilniaus seimelio rezultatais [29].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 09:41"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200656
-    - t-200659
+    - t-299052
+    - t-002

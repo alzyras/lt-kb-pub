@@ -32,7 +32,6 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
 
 <a id="claim-t-60247"></a>
 - t-001
-  global_id: t-60247
   teiginys: "Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
 
 <a id="claim-t-200970"></a>
 - t-002
-  global_id: t-200970
   teiginys: "Skubiniai išsiuntė apie tą žinią kryžėjams į Toninę, bet jų laukti negalėjo, kaipogi tas buvo valandos dar bu; kaipogi tą pačią naktį traukė marčelga Berlevinas su kryžėjais iš Kulmo skubinai prieš netikėlius, vildamos taip pat nuveiksiąs, kaip kad pilę."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -77,24 +75,19 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
     krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
     ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
     kovą.
-  citata_rodoma: |
-    Šiam sumanymui pasipriešino
-    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
-    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
-    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
-    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
-    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
-    kovą.
+  citata_rodoma: "Šiam sumanymui pasipriešino\nbrolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes\njiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo\nir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,\nkrikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24\nginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į\nkovą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60247
+    - t-001
+
 - id: c-184320
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nu-
     jautę Kulme kryžėjai Sviatopelką netoli nuo pilies
@@ -114,4 +107,4 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200970
+    - t-002

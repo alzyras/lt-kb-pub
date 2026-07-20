@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45488"></a>
-- t-001
-  global_id: t-45488
+- t-010
   teiginys: "Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +82,7 @@ Nenurodyta
     - c-48270
 
 <a id="claim-t-45489"></a>
-- t-002
-  global_id: t-45489
+- t-007
   teiginys: "Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -100,8 +98,7 @@ Nenurodyta
     - c-22239
 
 <a id="claim-t-45490"></a>
-- t-003
-  global_id: t-45490
+- t-009
   teiginys: "Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,7 @@ Nenurodyta
     - c-22239
 
 <a id="claim-t-45491"></a>
-- t-004
-  global_id: t-45491
+- t-008
   teiginys: "Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -158,22 +154,17 @@ Nenurodyta
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: |
-    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
-    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
-    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
-    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
+  citata_rodoma: "O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-\ntams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison\nir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir\nBruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o\nZemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-\nra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45489
-    - t-45490
-    - t-45491
+    - t-007
+    - t-009
+    - t-008
+
 - id: c-48270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,4 +186,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45488
+    - t-010

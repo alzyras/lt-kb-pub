@@ -38,7 +38,6 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 
 <a id="claim-t-87819"></a>
 - t-001
-  global_id: t-87819
   teiginys: "Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,7 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    21 gr.
+    320 flor. 21 gr.
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
     aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
     443
@@ -72,22 +71,11 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
     juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
     Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
     lenkiškas, pridėjau 1310 flor.
-  citata_rodoma: |
-    21 gr.
-    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
-    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
-    443
-
-    ## Puslapis 460
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
-    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
-    lenkiškas, pridėjau 1310 flor.
+  citata_rodoma: "21 gr.\nStovyklininkas Pavlikas Liubline pakeisdamas in Febru­\naris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad\n443\n\n## Puslapis 460\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\njuos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui \nPlockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į \nlenkiškas, pridėjau 1310 flor."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87819
+    - t-001

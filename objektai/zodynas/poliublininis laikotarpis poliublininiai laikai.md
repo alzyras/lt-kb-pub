@@ -39,8 +39,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Teiginiai
 
 <a id="claim-t-103839"></a>
-- t-001
-  global_id: t-103839
+- t-005
   teiginys: "Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-96904
 
 <a id="claim-t-103840"></a>
-- t-002
-  global_id: t-103840
+- t-003
   teiginys: "Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-32682
 
 <a id="claim-t-103841"></a>
-- t-003
-  global_id: t-103841
+- t-001
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 <a id="claim-t-103842"></a>
 - t-004
-  global_id: t-103842
   teiginys: "Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-96904
 
 <a id="claim-t-103843"></a>
-- t-005
-  global_id: t-103843
+- t-002
   teiginys: "Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -150,7 +145,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103841
+    - t-001
+
 - id: c-32682
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -167,7 +163,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103840
+    - t-003
+
 - id: c-96904
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -181,22 +178,16 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
     po 1569 metų Liublino unijos.
-  citata_rodoma: |
-    , labiausiai Šapoka tyrinėjo valsty­
-    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
-    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
-    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
-    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
-    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
-    po 1569 metų Liublino unijos.
+  citata_rodoma: ", labiausiai Šapoka tyrinėjo valsty­\nbinius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­\ndamas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į\npoliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę\nstraipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­\nniu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija\npo 1569 metų Liublino unijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103839
-    - t-103842
+    - t-005
+    - t-004
+
 - id: c-96906
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -209,17 +200,11 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
     dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
     pastebimas savos valstybingumo sąmonės apsilpimas^29.
-  citata_rodoma: |
-    Baigdamas jį Žygimanto Augusto mirtimi
-    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
-    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
-    Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
-    dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
-    pastebimas savos valstybingumo sąmonės apsilpimas^29.
+  citata_rodoma: "Baigdamas jį Žygimanto Augusto mirtimi\n(1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­\nliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.\nSavo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais\ndešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo\npastebimas savos valstybingumo sąmonės apsilpimas^29."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103843
+    - t-002

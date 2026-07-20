@@ -31,7 +31,6 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
 
 <a id="claim-t-192887"></a>
 - t-001
-  global_id: t-192887
   teiginys: "Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
 
 <a id="claim-t-197904"></a>
 - t-002
-  global_id: t-197904
   teiginys: "Sis ka riūnas, nekliudomas ir greitai eidamas hunų, rugių, gepidų, turingių, frankų, herulų ir skiriu priekyje, persikė lė per Reiną ir niokojo viską pakeliui net ikį Orleano."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,5 +87,5 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192887
-    - t-197904
+    - t-001
+    - t-002

@@ -7,12 +7,12 @@ datos:
   - '1520 m.'
 date_start: '1520'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202111"></a>
 - t-001
-  global_id: t-202111
   teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202111
+    - t-001

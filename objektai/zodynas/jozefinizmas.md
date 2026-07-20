@@ -32,7 +32,6 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
 
 <a id="claim-t-03020"></a>
 - t-001
-  global_id: t-03020
   teiginys: "Jozefinizmas reiškė Juozapo II reformas, kuriomis net Bažnyčia buvo pajungta valstybės valdžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03020
+    - t-001

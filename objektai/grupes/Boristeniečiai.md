@@ -31,7 +31,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 
 <a id="claim-t-192945"></a>
 - t-001
-  global_id: t-192945
   teiginys: "Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia iš šiaurės vakaruose esančios jūros."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 
 <a id="claim-t-192946"></a>
 - t-002
-  global_id: t-192946
   teiginys: "Narbuto teigimu, seniausias prekybos kelias ėjo per Aldeską ir Pantikapą į Dneprą, kur pirkliavo boristeniečiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 
 <a id="claim-t-192947"></a>
 - t-003
-  global_id: t-192947
   teiginys: "Narbuto aiškinimu, graikų boristeniečių prekyba su skitų žemdirbiais lėmė jų apsigyvenimą Kankinėje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 
 <a id="claim-t-197491"></a>
 - t-005
-  global_id: t-197491
   teiginys: "Savo ruožtu graikų boristeniečių prekybiniai santy kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno Kankinėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,18 +102,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175717
-
-<a id="claim-t-192948"></a>
-- t-004
-  global_id: t-192948
-  teiginys: 'Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Hipotezė suformuluota kaip Narbuto svarstymas, ne kaip faktas. Nepridėta alternatyvi nuomonė apie chiomitus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Geninai|Geninai]]; mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_place: Bizantija; mentioned_place: Kijevas; mentioned_place: Salos'
-  pagrindžia:
-    - c-004
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
 - susijęs iš Skitija: Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
@@ -142,11 +126,9 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
     vę chiomitai, kilę iš Chijo salos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192948
+  statusas: verified
 ## Citatos
 
 - id: c-175715
@@ -170,7 +152,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192945
+    - t-001
+
 - id: c-175716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -190,7 +173,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192946
+    - t-002
+
 - id: c-175717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,5 +200,5 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192947
-    - t-197491
+    - t-003
+    - t-005

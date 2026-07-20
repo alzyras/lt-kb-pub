@@ -30,7 +30,6 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
 
 <a id="claim-t-193793"></a>
 - t-001
-  global_id: t-193793
   teiginys: "Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193793
+    - t-001

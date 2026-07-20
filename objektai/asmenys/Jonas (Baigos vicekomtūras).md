@@ -39,7 +39,6 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
 
 <a id="claim-t-60339"></a>
 - t-001
-  global_id: t-60339
   teiginys: "Brolis Jonas, Baigos vicekomtūras, nepritarė sutarčiai ir ragino brolius drąsiai stoti į kovą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60339
+    - t-001

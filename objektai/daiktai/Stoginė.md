@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08333"></a>
-- t-001
-  global_id: t-08333
+- t-002
   teiginys: "Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus."
   atnaujinta: "2026-05-30 12:00"
   sprendimo_priezastis: "auto"
@@ -76,15 +75,11 @@ Nenurodyta
         tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
         vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
         nuokamieniai^241 sukrautas.
-  citata_rodoma: |
-    Jei
-    tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip
-    vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
-    nuokamieniai^241 sukrautas.
+  citata_rodoma: "Jei\ntose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip\nvadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,\nnuokamieniai^241 sukrautas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08333
+    - t-002

@@ -7,12 +7,12 @@ datos:
   - '1958 m.'
 date_start: '1958'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad otrębski J.
 
 <a id="claim-t-61206"></a>
 - t-001
-  global_id: t-61206
   teiginys: "J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad otrębski J.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidinio įrašą, todėl galima suformuluoti pilną faktinį sakinį."
   pagrindžia:
     - c-61838
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61206
+
 ## Citatos
 
 - id: c-61838
@@ -74,15 +60,12 @@ Dusburgietis teigia, kad otrębski J.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu / Opracowała К.
-    Porębska przy współpracy M Grzegorza; Pod. red. M. Biskupa.— Wrocław—Warszawa—
-    Kraków— Gdańsk, 1971.
-  citata_rodoma: |
     Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.
+  citata_rodoma: "Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61206
+    - t-001

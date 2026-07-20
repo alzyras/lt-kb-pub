@@ -31,7 +31,6 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
 
 <a id="claim-t-91899"></a>
 - t-001
-  global_id: t-91899
   teiginys: "Šenenzė rodyklėje siejama su formomis Schonense ir Schönsee bei dabartiniu Kowalewo Pomorskie."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
     Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)
     Šereitlaukis, Šereiklaukis
     Šernupė, u.
-  citata_rodoma: |
-    Šarkokalnis, Šarkos kalnas (Kalėnuose) (žr. Sarkis, Sareka)
-    Šaumburgas
-    Šenenbergas, Šenburgas, Šenbergas
-
-    Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)
-    Šereitlaukis, Šereiklaukis
-    Šernupė, u.
+  citata_rodoma: "Šarkokalnis, Šarkos kalnas (Kalėnuose) (žr. Sarkis, Sareka)\nŠaumburgas\nŠenenbergas, Šenburgas, Šenbergas\n\nŠenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie)\nŠereitlaukis, Šereiklaukis\nŠernupė, u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91899
+    - t-001

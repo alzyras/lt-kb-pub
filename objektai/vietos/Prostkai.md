@@ -31,7 +31,6 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 
 <a id="claim-t-38534"></a>
 - t-001
-  global_id: t-38534
   teiginys: "Spalio 8 d. ties Prostkais, prie Elko upės, susiartino lietuvių ir brandenburgiečių kariuomenės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38534
+    - t-001

@@ -31,9 +31,8 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
 
 <a id="claim-t-189301"></a>
 - t-001
-  global_id: t-189301
   teiginys: "Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,27 +48,7 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172188
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Sis religinis paminklas primena, kaip senovės lietuviai įamži­
-    no apgailėtinai pažeistą vaišingumą.
-    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
-    mas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­
-    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
-    nuraminti.
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189301
+
 ## Citatos
 
 - id: c-172188
@@ -85,19 +64,11 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
     nuraminti.
     Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
     ta, kad jos nuraminančios vėles.
-  citata_rodoma: |
-    Sis religinis paminklas primena, kaip senovės lietuviai įamži­
-    no apgailėtinai pažeistą vaišingumą.
-    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
-    mas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­
-    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
-    nuraminti.
-    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
-    ta, kad jos nuraminančios vėles.
+  citata_rodoma: "Sis religinis paminklas primena, kaip senovės lietuviai įamži­\nno apgailėtinai pažeistą vaišingumą.\nKlajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­\nmas Kehms, žemaitiškai -  kernas (Kernas); apie juos visur dau­\ngybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar\nnuraminti.\nSvarbiausias dalykas laidotuvėse buvo raudotojos; many­\nta, kad jos nuraminančios vėles."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189301
+    - t-001

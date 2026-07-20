@@ -39,8 +39,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 ## Teiginiai
 
 <a id="claim-t-114961"></a>
-- t-001
-  global_id: t-114961
+- t-008
   teiginys: "Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105966
 
 <a id="claim-t-114962"></a>
-- t-002
-  global_id: t-114962
+- t-003
   teiginys: "Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105967
 
 <a id="claim-t-114963"></a>
-- t-003
-  global_id: t-114963
+- t-001
   teiginys: "Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 
 <a id="claim-t-114964"></a>
 - t-004
-  global_id: t-114964
   teiginys: "Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,8 +105,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105966
 
 <a id="claim-t-114965"></a>
-- t-005
-  global_id: t-114965
+- t-009
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,8 +121,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114966"></a>
-- t-006
-  global_id: t-114966
+- t-010
   teiginys: "Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +138,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105973
 
 <a id="claim-t-114967"></a>
-- t-007
-  global_id: t-114967
+- t-005
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -161,8 +154,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114968"></a>
-- t-008
-  global_id: t-114968
+- t-006
   teiginys: "1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -181,8 +173,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105965
 
 <a id="claim-t-114969"></a>
-- t-009
-  global_id: t-114969
+- t-007
   teiginys: "Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -198,6 +189,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105970
 - susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
+- susijęs iš [[objektai/asmenys/Jonas Kazimieras Rudamina.md#claim-t-202415|Jonas Kazimieras Rudamina]]: Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23221|Andrius Rudamina]]: Andrius Rudamina buvo Vilniaus universiteto auklėtinis.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23222|Andrius Rudamina]]: Rudamina 1626–1634 m. misionieriavo Kinijoje.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23223|Andrius Rudamina]]: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
@@ -243,26 +235,17 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
     statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
     privilegiją.
-  citata_rodoma: |
-    Rudaminos bažnyčią atidavė ko­
-    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
-    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
-    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
-    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
-    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
-    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
-    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
-    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
-    privilegiją.
+  citata_rodoma: "Rudaminos bažnyčią atidavė ko­\nlegijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios\nir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa\nkita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­\nniaus vyskupas Valerijonas Protasevičius, deramu išlaiky­\nmu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-\nterio nuo seno laikytas valdas: Helanokempis (Elniakampius),\nPutviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­\nstatyta, ir viską patvarkė pagal aukščiau minėtą karaliaus\nprivilegiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114965
-    - t-114967
-    - t-114968
+    - t-009
+    - t-005
+    - t-006
+
 - id: c-105966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -278,23 +261,16 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
     šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
     ko ir keturių kariuomenės ženklų53.
-  citata_rodoma: |
-    Vytautas, ne­
-    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
-    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
-    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
-    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
-    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
-    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
-    ko ir keturių kariuomenės ženklų53.
+  citata_rodoma: "Vytautas, ne­\nmažomis pajėgomis vedinas, pasitiko juos ties Rudamina,\nbet, upės ir daubos nuo priešo skiriamas, per tirštą rūką\nneįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su\npačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­\ntraukdamas Vytautas prarado nemaža saviškių, tarp jų Al-\nšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­\nko ir keturių kariuomenės ženklų53."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114961
-    - t-114964
+    - t-008
+    - t-004
+
 - id: c-105967
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -328,7 +304,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114962
+    - t-003
+
 - id: c-105970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -355,7 +332,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114969
+    - t-007
+
 - id: c-105972
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -374,7 +352,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114963
+    - t-001
+
 - id: c-105973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -421,4 +400,4 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114966
+    - t-010

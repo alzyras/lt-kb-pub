@@ -38,7 +38,6 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
 
 <a id="claim-t-192815"></a>
 - t-001
-  global_id: t-192815
   teiginys: "Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175585
-    - c-001
+
 <a id="claim-t-197870"></a>
-- t-002
-  global_id: t-197870
+- t-003
   teiginys: "Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,11 +79,9 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     Elbliongo, šiandien esančio per mylią.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192815
+  statusas: verified
 - c-002
   santrauka: 'Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -104,10 +100,10 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     patvirtina rašytiniai duomenys ir vietiniai stebėjimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
+
 ## Citatos
 
 - id: c-175585
@@ -132,24 +128,15 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
     lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
     šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
     Elbliongo, šiandien esančio per mylią.
-  citata_rodoma: |
-    Tai pa­
-    minklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų
-    keliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­
-    vo gamybos blizgučius. Drūsinės, arba Druso, ežeras
-    vadinamas šitaip nuo žodžio Druskas, druska, todėl, kad
-    kitados jis susisiekdavo didesniais sąsiauriais su jūra;
-    taigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­
-    lyginti didesnis ir užėmė didesnę šios provincijos dalį: į
-    šiaurę jis tyvuliavo gerokai toliau — net iki dabartinio
-    Elbliongo, šiandien esančio per mylią.
+  citata_rodoma: "Tai pa­\nminklai tų amžių, kai kartaginiečiai, o vėliau ir kiti jūrų\nkeliautojai atklysdavo čia gintaro, kurį išsikeisdavo į sa­\nvo gamybos blizgučius. Drūsinės, arba Druso, ežeras\nvadinamas šitaip nuo žodžio Druskas, druska, todėl, kad\nkitados jis susisiekdavo didesniais sąsiauriais su jūra;\ntaigi jo vanduo buvo sūrus. Senovėje ežeras buvo nepa­\nlyginti didesnis ir užėmė didesnę šios provincijos dalį: į\nšiaurę jis tyvuliavo gerokai toliau — net iki dabartinio\nElbliongo, šiandien esančio per mylią."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192815
+    - t-001
+
 - id: c-179373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,4 +154,4 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197870
+    - t-003

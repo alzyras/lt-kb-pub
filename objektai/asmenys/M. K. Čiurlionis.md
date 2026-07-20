@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-63885"></a>
-- t-001
-  global_id: t-63885
+- t-002
   teiginys: "Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ media_all_json: |-
     - c-21865
 
 <a id="claim-t-63886"></a>
-- t-002
-  global_id: t-63886
+- t-003
   teiginys: "Čiurlionio muziejaus senojo meno ekspozicija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ media_all_json: |-
     - c-21866
 
 <a id="claim-t-63887"></a>
-- t-003
-  global_id: t-63887
+- t-001
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +88,6 @@ media_all_json: |-
 
 <a id="claim-t-200764"></a>
 - t-004
-  global_id: t-200764
   teiginys: "Vorobjovas M. K. Čiurlionį siejo su Vilniaus pamėgimu ir jo paveiksluose kylančiais legendiškais daugiabokščiais miestais."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -131,18 +127,15 @@ media_all_json: |-
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: |
-    Jos ištakose – ir didžiau-
-    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
-    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
-    čius.
+  citata_rodoma: "Jos ištakose – ir didžiau-\nsias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir \ntautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-\nčius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63887
+    - t-001
+
 - id: c-21865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,21 +153,15 @@ media_all_json: |-
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: |
-    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
-    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
-    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
-    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
-    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
-    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
+  citata_rodoma: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime \npradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-\ntuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas \nV. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, \nMaironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-\nrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir \nkūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63885
+    - t-002
+
 - id: c-21866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,17 +173,15 @@ media_all_json: |-
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: |
-    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
+  citata_rodoma: "Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno \nĮgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – \nM. K. Čiurlionio muziejaus senojo meno ekspozicija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63886
+    - t-003
+
 - id: c-184109
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -224,4 +209,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200764
+    - t-004

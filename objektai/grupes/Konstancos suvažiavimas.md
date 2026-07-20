@@ -30,7 +30,6 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
 
 <a id="claim-t-185441"></a>
 - t-001
-  global_id: t-185441
   teiginys: "Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185441
+    - t-001

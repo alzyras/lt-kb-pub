@@ -38,7 +38,6 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
 
 <a id="claim-t-41492"></a>
 - t-001
-  global_id: t-41492
   teiginys: "Po 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“, bet Vytautas siekė ją susigrąžinti visam laikui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +68,11 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
     taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
-  citata_rodoma: |
-    Po
-    Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės
-    taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
-    galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
-    Klaipėda ir visa Užnemune.
+  citata_rodoma: "Po\nŽalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės\ntaika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos\ngalvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su\nKlaipėda ir visa Užnemune."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41492
+    - t-001

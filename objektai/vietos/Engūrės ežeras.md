@@ -38,7 +38,6 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
 
 <a id="claim-t-192836"></a>
 - t-001
-  global_id: t-192836
   teiginys: "Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į Engūrės ežerą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
 
 <a id="claim-t-197874"></a>
 - t-002
-  global_id: t-197874
   teiginys: "Tačiau, nepaisant latviško pavadinimo, ši upė, tiesą sakant, šiandien mums nežinoma, bet ma nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti upė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
 
 <a id="claim-t-197875"></a>
 - t-003
-  global_id: t-197875
   teiginys: "Visa tai rodo, kad minėtų agazirų žemė buvusi prie Engūrės ežero, pavadinto jų vardu, o jie patys buvo lietu vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos, kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje su gelonais ir budinais (. 268)."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,9 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192836
-    - t-197874
+    - t-001
+    - t-002
+
 - id: c-179376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -134,4 +132,4 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197875
+    - t-003

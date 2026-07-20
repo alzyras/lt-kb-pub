@@ -31,7 +31,6 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 
 <a id="claim-t-36430"></a>
 - t-001
-  global_id: t-36430
   teiginys: "Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 
 <a id="claim-t-36431"></a>
 - t-002
-  global_id: t-36431
   teiginys: "Vytautas atsigręžė prieš Naująjį Gardiną ir Meteną, o šios pilys buvo sunaikintos iki pamatų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36431
+    - t-002
+
 - id: c-38579
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -98,18 +97,11 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
     Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
     pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
     kad jam, matyti, dar nebuvo atėjęs laikas veikti.
-  citata_rodoma: |
-    Dar
-    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
-    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
-    talpintos kryžiuočių įgulos.
-    Iš čia aišku, kad Vytautas, nežiūrint Jogailos didelių
-    pasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,
-    kad jam, matyti, dar nebuvo atėjęs laikas veikti.
+  citata_rodoma: "Dar\nvasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi\npilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­\ntalpintos kryžiuočių įgulos.\nIš čia aišku, kad Vytautas, nežiūrint Jogailos didelių\npasiūlymų, palaikė dar gana gerus santykius su Ordinu dėl to,\nkad jam, matyti, dar nebuvo atėjęs laikas veikti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36430
+    - t-001

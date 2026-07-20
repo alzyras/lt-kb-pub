@@ -9,13 +9,13 @@ datos:
   - '2004 m.'
 date_start: '2002'
 date_end: '2004'
-amziai:
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - šūkis
   - posakis
+amziai:
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,7 +39,6 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 
 <a id="claim-t-183499"></a>
 - t-002
-  global_id: t-183499
   teiginys: "2002 m. lapkričio 23 d. Vilniuje George'as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -60,11 +59,6 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   pagrindžia:
     - c-166893
 
-- t-001
-  global_id: t-902075108
-  teiginys: '2002 m. lapkričio 23 d. Vilniuje George''as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais.'
-  pagrindžia:
-    - c-166893
 ## Citatos
 
 - id: c-166893
@@ -87,5 +81,4 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183499
-    - t-001
+    - t-002

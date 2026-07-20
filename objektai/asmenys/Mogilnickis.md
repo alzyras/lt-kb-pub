@@ -30,7 +30,6 @@ Mogilnickis išleido 5 flor.
 
 <a id="claim-t-87793"></a>
 - t-001
-  global_id: t-87793
   teiginys: "Lukove L. Mogilnickis Karališkosios Didenybės reikalams supirko lietuviškų monetų už 2 florinus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Mogilnickis išleido 5 flor.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87793
+    - t-001

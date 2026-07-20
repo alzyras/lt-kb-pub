@@ -31,7 +31,6 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 
 <a id="claim-t-42517"></a>
 - t-001
-  global_id: t-42517
   teiginys: "Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,18 +59,11 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
     kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
 
     galingais ginklais aprūpinti arkebuzieriai.
-  citata_rodoma: |
-    g“ sel
-
-    Flanguose Tercijos priekyje būdavo išrikiuojami
-    išrikiuota muškietininkai. Kitose tercijos rikiuotės
-    kavalerija vietose didžiąją dalį šaulių sudarė ne tokiais
-
-    galingais ginklais aprūpinti arkebuzieriai.
+  citata_rodoma: "g“ sel\n\nFlanguose Tercijos priekyje būdavo išrikiuojami\nišrikiuota muškietininkai. Kitose tercijos rikiuotės\nkavalerija vietose didžiąją dalį šaulių sudarė ne tokiais\n\ngalingais ginklais aprūpinti arkebuzieriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42517
+    - t-001

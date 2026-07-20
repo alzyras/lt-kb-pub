@@ -31,7 +31,6 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
 
 <a id="claim-t-186252"></a>
 - t-001
-  global_id: t-186252
   teiginys: "Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,6 +51,27 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
 - susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
 - susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
 - susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
+    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
+    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
+    myna. Kryžiuočiams puldinėjant gretimus Žemaitijos
+    kaimus, lietuviai su savo nuolatiniu, galima sakyti,
+    naminiu priešu šitaip kariavo: kai šie nusiaubdavo jų
+    tėvynę, jie ryžtingai pradėdavo karą už tėvynės ribų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169613
@@ -69,21 +89,11 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
     mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
     pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
     myna.
-  citata_rodoma: |
-    Vėliau, ir tais pačiais,
-    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
-    je Karšuvos žemę, kad gyventojai, nematydami iš­
-    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
-    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
-    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
-    Pūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­
-    mės lietuvis, trokšdamas priimti krikščionių tikėjimą,
-    pats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­
-    myna.
+  citata_rodoma: "Vėliau, ir tais pačiais,\nir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­\nje Karšuvos žemę, kad gyventojai, nematydami iš­\neities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­\nsios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys\nbuvo priešo ir liepsnų sunaikintos, o truputį anksčiau\nPūtvės pilį išdavė jos seniūnas Spūdas. Šis žymios kil­\nmės lietuvis, trokšdamas priimti krikščionių tikėjimą,\npats pasidavė kryžiuočiams su tėvu, vaikais ir visa šei­\nmyna."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186252
+    - t-001

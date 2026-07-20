@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-195335"></a>
 - t-001
-  global_id: t-195335
   teiginys: "Maišelis veikia kaip laikina talpa ir paklotas pietums šventoriuje."
   atnaujinta: "2026-07-12 01:47"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -80,16 +79,15 @@ Nenurodyta
     ir varinė taurelė.
     Atvažiavus į miestelį maišelį paduoda palaikyti pa­
     žįstamai elgetai, sėdinčiai šventoriuje.
-  citata_rodoma: |
-    Atvažiavus į miestelį maišelį paduoda palaikyti pa­
-    žįstamai elgetai, sėdinčiai šventoriuje.
+  citata_rodoma: "Atvažiavus į miestelį maišelį paduoda palaikyti pa­\nžįstamai elgetai, sėdinčiai šventoriuje."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195335
+    - t-001
+
 - id: c-177734
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -105,14 +103,11 @@ Nenurodyta
     Pasiima iš elegetos mai­
     šelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­
     na, kas jame buvo.
-  citata_rodoma: |
-    Pasiima iš elegetos mai­
-    šelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­
-    na, kas jame buvo.
+  citata_rodoma: "Pasiima iš elegetos mai­\nšelį, susėda šventoriaus žolyne, patiesia tuščią maišelį ir ant jo sukrau­\nna, kas jame buvo."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195335
+    - t-001

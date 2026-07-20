@@ -31,7 +31,6 @@ Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kal
 
 <a id="claim-t-189095"></a>
 - t-001
-  global_id: t-189095
   teiginys: "Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kalnų aukurų ar šventyklų vietų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189095
+    - t-001

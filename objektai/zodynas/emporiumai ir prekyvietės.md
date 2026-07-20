@@ -47,8 +47,7 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
 ## Teiginiai
 
 <a id="claim-t-192145"></a>
-- t-001
-  global_id: t-192145
+- t-002
   teiginys: "Narbutas rašo, kad graikų emporiumai, arba prekyvietės, pradėjo klestėti VII amžiuje prieš Kristaus gimimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,8 +65,7 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
     - c-175031
 
 <a id="claim-t-192146"></a>
-- t-002
-  global_id: t-192146
+- t-001
   teiginys: "Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -100,20 +98,12 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
     prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
     pradėjo klestėti ir vėliau virto tokiais turtingais kaip
     Olbija, Heraklėja, Chersonas ir kiti.
-  citata_rodoma: |
-    Jau labai senais laikais graikai užmezgė santykius su
-    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
-    lemas pirmasis pradėjo steigti pirmas pastovias graikų
-    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
-    ro žiočių. Tai davė pradžią graikų emporiumams, arba
-    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
-    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
-    Olbija, Heraklėja, Chersonas ir kiti.
+  citata_rodoma: "Jau labai senais laikais graikai užmezgė santykius su\nJuodosios jūros pakrančių skitais. Sakoma, kad Neopto-\nlemas pirmasis pradėjo steigti pirmas pastovias graikų\ngyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-\nro žiočių. Tai davė pradžią graikų emporiumams, arba\nprekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą\npradėjo klestėti ir vėliau virto tokiais turtingais kaip\nOlbija, Heraklėja, Chersonas ir kiti."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192145
-    - t-192146
+    - t-002
+    - t-001

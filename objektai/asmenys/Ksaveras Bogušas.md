@@ -31,8 +31,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 ## Teiginiai
 
 <a id="claim-t-190001"></a>
-- t-001
-  global_id: t-190001
+- t-002
   teiginys: "Ksaveras Bogušas išvertė Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą, perteikdamas originalo eilių metrą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-172884
 
 <a id="claim-t-190002"></a>
-- t-002
-  global_id: t-190002
+- t-003
   teiginys: "Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,28 +72,19 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 
 <a id="claim-t-190914"></a>
 - t-004
-  global_id: t-190914
   teiginys: "Teodoro Narbuto pasakojime Ksaveras Bogušas Etiko „Kosmografija“ grindė išsamius įrodymus apie estus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Estai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ksaveras Bogušas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksaveras Bogušas\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173796
-    - c-004
+    - c-173799
+
 <a id="claim-t-190915"></a>
-- t-003
-  global_id: t-190915
+- t-005
   teiginys: "Ksaveras Bogušas, pasak Teodoro Narbuto, remdamasis Kojalavičiaus prielaidomis, poloviečius priskyrė lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -115,8 +104,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173797
 
 <a id="claim-t-190916"></a>
-- t-005
-  global_id: t-190916
+- t-006
   teiginys: "Teodoro Narbuto teigimu, Ksaveras Bogušas lygino Belgorodo totorių herulišką dialektą su latviams artimu dialektu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -137,8 +125,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173798
 
 <a id="claim-t-190917"></a>
-- t-006
-  global_id: t-190917
+- t-007
   teiginys: "Teodoras Narbutas Ksaverą Bogušą vadino puikiu kalbų mokovu, atskleidusiu lietuvių kalbos savybes, būdingas graikų ir lotynų kalboms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -158,8 +145,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173799
 
 <a id="claim-t-190918"></a>
-- t-007
-  global_id: t-190918
+- t-008
   teiginys: "Ksaveras Bogušas manė, kad slavų skoliniai lietuvių kalboje nereikalingi, nes lietuvis jiems gali rasti savo kalbos atitikmenų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -179,29 +165,45 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     - c-173800
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Teodoro Narbuto pasakojime Ksaveras Bogušas Etiko „Kosmografija“ grindė išsamius įrodymus apie estus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+- c-001
+  santrauka: 'Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagaubiu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Daug kartų autoriai, kurie ra­
-    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
-    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
-    „Estijos“ terminu vadindavo visiškai skirtingas gentis
-    91
+    108
 
-    ## Puslapis 89
+    ## Puslapis 108
 
-    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
-    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
-    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
-    fija“1, tačiau privalome plačiau aprašyti estus.
+    Taip pat padavimuose minimi milžinai -  žmogėdros, kurie
+    gyvenę tarp didelių pelkių, prie vieno ežero, ir ten kalę geležį.
+    Ksaveras Bogušas savo studijoje, 145 puslapyje, Vulkaną
+    lietuviškai vadina Jagaubis. Šį vardą jis bus paėmęs iš kokios
+    dainos ar padavimo, -  taigi šis dievas buvo žinomas net keliais
+    vardais.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190914
+  statusas: verified
+- c-009
+  santrauka: 'Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę, taip pat Sirvydo žodyną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Visiems javams ir žemės ūkio padargams įvardyti yra
+    savi lietuviški žodžiai15.
+    15
+    Skaityk kunigo Ksavero Bogušo studiją apie lietuvių tautos ir
+    kalbos kilmę, taip pat Sirvydo žodyną.
+    137
+
+    ## Puslapis 137
+
+    Nijolė ĮNijota)
+    Pragaro karalienė, Pokliaus žmona, Krūminės duktė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172884
@@ -223,7 +225,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190001
+    - t-002
+
 - id: c-172885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -242,7 +245,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190002
+    - t-003
+
 - id: c-173796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -260,26 +264,13 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
     mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
     šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
     fija“1, tačiau privalome plačiau aprašyti estus.
-  citata_rodoma: |
-    Daug kartų autoriai, kurie ra­
-    šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
-    vadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir
-    „Estijos“ terminu vadindavo visiškai skirtingas gentis
-    91
-
-    ## Puslapis 89
-
-    ir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­
-    mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
-    šas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­
-    fija“1, tačiau privalome plačiau aprašyti estus.
+  citata_rodoma: "Daug kartų autoriai, kurie ra­\nšė apie šias šalis ir tautas, nesigilindami į konkrečius pa­\nvadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir\n„Estijos“ terminu vadindavo visiškai skirtingas gentis\n91\n\n## Puslapis 89\n\nir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­\nmėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-\nšas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­\nfija“1, tačiau privalome plačiau aprašyti estus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190914
 - id: c-173797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -299,7 +290,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190915
+    - t-005
+
 - id: c-173798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -319,7 +311,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190916
+    - t-006
+
 - id: c-173799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -341,7 +334,9 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190917
+    - t-004
+    - t-007
+
 - id: c-173800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -364,4 +359,4 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190918
+    - t-008

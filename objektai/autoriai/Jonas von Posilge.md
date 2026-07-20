@@ -31,7 +31,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 <a id="claim-t-195001"></a>
 - t-001
-  global_id: t-195001
   teiginys: "Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195001
+    - t-001

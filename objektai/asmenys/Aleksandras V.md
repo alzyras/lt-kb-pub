@@ -31,7 +31,6 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
 
 <a id="claim-t-35010"></a>
 - t-001
-  global_id: t-35010
   teiginys: "Aleksandras V rėmė Vytautą prieš Ordiną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,13 +61,11 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
     vą, padėjo įkurti Vladimiro vyskupiją, siuntė savo pasiuntinius į
     Lietuvą. Inocentas VII, Gregorijus XII ir Aleksandras V parem­
     davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok.
-  citata_rodoma: |
-    Inocentas VII, Gregorijus XII ir Aleksandras V parem­
-    davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok.
+  citata_rodoma: "Inocentas VII, Gregorijus XII ir Aleksandras V parem­\ndavo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35010
+    - t-001

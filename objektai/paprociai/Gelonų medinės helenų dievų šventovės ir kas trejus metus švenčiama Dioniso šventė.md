@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-192509"></a>
 - t-001
-  global_id: t-192509
   teiginys: "Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -92,6 +91,30 @@ Nenurodyta
 
 ## Citatos
 
+- id: c-174954
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Pasak tolesnių He-
+    rodoto' pasakojimų4, budinai yra didelė ir gausi tauta, jie
+    turi mėlynas akis ir geltonai pilkšvus plaukus (yXaiwóu te
+    jtao laxvowg ègre %ai no§§ói)). Jų krašte stovi medinis
+    miestas (jtožig guž.Luų); šis miestas vadinamas Gelonos
+    (TeAwubg), o jo gynybinės sienos
+    (xeTxog) kiekvienos
+    kraštinės ilgis sudaro 30 stadijų; ji aukšta ir medinė,
+    kaip ir jų bažnyčia. Ten yra helenų dievų bažnyčių, hele-
+    nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-
+    apeva ayakpaai), altorių ir koplytėlių (%ai PcoųdToi); vi­
+    sa tai išskobta iš medžio.
+  citata_rodoma: "Ten yra helenų dievų bažnyčių, hele-\nnų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-\napeva ayakpaai), altorių ir koplytėlių (%ai PcoųdToi); vi­\nsa tai išskobta iš medžio."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-175299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -117,4 +140,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192509
+    - t-001

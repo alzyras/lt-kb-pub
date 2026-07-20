@@ -25,13 +25,19 @@ media_all_json: |-
 Vijūkų gyvenvietės archyvai neišliko.
 
 ## Teiginiai
+
+<a id="claim-t-202357"></a>
 - t-001
-  global_id: t-906641976
-  teiginys: 'Vijūkų gyvenvietės archyvai neišliko.'
+  teiginys: "Vijūkų gyvenvietės archyvai neišliko."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185704
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -39,14 +45,8 @@ Vijūkų gyvenvietės archyvai neišliko.
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
-  citata_originali: |
-    Tokie atsiranda Romainiuose, netoli Kauno, į rytus nuo Nemuno ir Nevėžio
-    santakos48.
-    Vijūkų archyvai neišliko. Bet Tiškevičių Raudondvario archyve yra Romainių dvaro archivalijos49.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

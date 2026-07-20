@@ -31,7 +31,6 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
 
 <a id="claim-t-191286"></a>
 - t-001
-  global_id: t-191286
   teiginys: "Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
 
 <a id="claim-t-197765"></a>
 - t-002
-  global_id: t-197765
   teiginys: "Julijus Nepas seniau nuvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191286
-    - t-197765
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Julijus Nepas paskyrė [[objektai/asmenys/Odoakras]]

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185834"></a>
 - t-001
-  global_id: t-185834
   teiginys: "Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185834
+    - t-001

@@ -38,8 +38,7 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
 ## Teiginiai
 
 <a id="claim-t-36832"></a>
-- t-001
-  global_id: t-36832
+- t-002
   teiginys: "1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
     - c-37953
 
 <a id="claim-t-36834"></a>
-- t-002
-  global_id: t-36834
+- t-001
   teiginys: "Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36834
+    - t-001
+
 - id: c-37953
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -110,4 +109,4 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36832
+    - t-002

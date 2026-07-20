@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201320"></a>
 - t-001
-  global_id: t-201320
   teiginys: "Kaipogi tebesikaulijant Sviatopelkui su kryžėjais, Vida, jų rėdytojas, sukėlė visą savo galybę, kursai, susinėręs su meldžionimis, gulė į Pamezoniją lietuvių kariauti žiemos vidų, nuty kinęs pasalu pas pilį Grevą (Christburgą), kurios įgulė, nuvargusi."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184670
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rasi būt ir suderėjęs,* jei kry-
     žėjai būt tą darę, ką buvo prižadėję, tai yra jo
@@ -78,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201320
+    - t-001

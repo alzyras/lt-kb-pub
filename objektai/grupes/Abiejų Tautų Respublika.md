@@ -77,8 +77,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 ## Teiginiai
 
 <a id="claim-t-80769"></a>
-- t-001
-  global_id: t-80769
+- t-028
   teiginys: "1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,8 +96,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26828
 
 <a id="claim-t-80770"></a>
-- t-002
-  global_id: t-80770
+- t-034
   teiginys: "1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,29 +115,20 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-77420
 
 <a id="claim-t-80771"></a>
-- t-003
-  global_id: t-80771
+- t-021
   teiginys: "1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1569 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Abiejų Tautų Respubliką ir tiksliai remiasi citata."
   pagrindžia:
-    - c-26821
+    - c-77421
     - c-26824
 
 <a id="claim-t-80772"></a>
-- t-004
-  global_id: t-80772
+- t-027
   teiginys: "1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -158,10 +147,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26827
 
 <a id="claim-t-80773"></a>
-- t-005
-  global_id: t-80773
+- t-023
   teiginys: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -176,12 +164,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citata apie Respublikos padalijimus."
   pagrindžia:
     - c-26823
-    - c-26827
-    - c-26828
 
 <a id="claim-t-80774"></a>
-- t-006
-  global_id: t-80774
+- t-032
   teiginys: "Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -197,8 +182,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-77418
 
 <a id="claim-t-80775"></a>
-- t-007
-  global_id: t-80775
+- t-022
   teiginys: "Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -214,8 +198,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26822
 
 <a id="claim-t-80776"></a>
-- t-008
-  global_id: t-80776
+- t-033
   teiginys: "Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -231,8 +214,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-77421
 
 <a id="claim-t-80777"></a>
-- t-009
-  global_id: t-80777
+- t-026
   teiginys: "1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -250,8 +232,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26826
 
 <a id="claim-t-80779"></a>
-- t-010
-  global_id: t-80779
+- t-024
   teiginys: "1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -269,8 +250,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26824
 
 <a id="claim-t-80780"></a>
-- t-011
-  global_id: t-80780
+- t-025
   teiginys: "Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -286,8 +266,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26825
 
 <a id="claim-t-80781"></a>
-- t-012
-  global_id: t-80781
+- t-035
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, pavadintą Abiejų Tautų tarpusavio įžadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -306,8 +285,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26826
 
 <a id="claim-t-80782"></a>
-- t-013
-  global_id: t-80782
+- t-030
   teiginys: "Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -326,8 +304,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26823
 
 <a id="claim-t-80783"></a>
-- t-014
-  global_id: t-80783
+- t-029
   teiginys: "Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -347,8 +324,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-42627
 
 <a id="claim-t-194171"></a>
-- t-015
-  global_id: t-194171
+- t-037
   teiginys: "Ir beveik jau būtų prasidėję didelės riau šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi rusiam valdovui nešlovė nekiltų, be to."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -841,11 +817,10 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     valstybė – Abiejų Tautų Respublika.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-80771
 - id: c-26822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -866,7 +841,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80775
+    - t-022
+
 - id: c-26823
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -898,8 +874,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80773
-    - t-80782
+    - t-023
+    - t-030
+
 - id: c-26824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -919,8 +896,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80771
-    - t-80779
+    - t-021
+    - t-024
+
 - id: c-26825
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -940,7 +918,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80780
+    - t-025
+
 - id: c-26826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -962,8 +941,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80777
-    - t-80781
+    - t-026
+    - t-035
+
 - id: c-26827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -986,8 +966,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80772
-    - t-80773
+    - t-027
+
 - id: c-26828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1007,8 +987,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80769
-    - t-80773
+    - t-028
+
 - id: c-42627
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1022,20 +1002,15 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Tautų Respublikos valdovu. 1592 m. mirus
     Jonui 111, Upsaloje 1594 m. jis taip pat vai-
     nikuotas ir Švedijos karaliumi.
-  citata_rodoma: |
-    Mūšio priešistorė
-    Švedijos karalius Jonas 111 buvo vedęs
-    Lenkijos-Lietuvos valdovo Žygimanto
-    Augusto seserį Kotryną. Jų sūnus Zigman-
-    tas Vaza III 1587 m. buvo išrinktas Abiejų
-    Tautų Respublikos valdovu.
+  citata_rodoma: "Mūšio priešistorė\nŠvedijos karalius Jonas 111 buvo vedęs\nLenkijos-Lietuvos valdovo Žygimanto\nAugusto seserį Kotryną. Jų sūnus Zigman-\ntas Vaza III 1587 m. buvo išrinktas Abiejų\nTautų Respublikos valdovu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80783
+    - t-029
+
 - id: c-77418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1049,19 +1024,15 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
     nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
     partneris?
-  citata_rodoma: |
-    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
-    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
-    o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
-    nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
-    partneris?
+  citata_rodoma: "Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-\nkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, \no Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-\nnės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos \npartneris?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80774
+    - t-032
+
 - id: c-77420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1089,7 +1060,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80770
+    - t-034
+
 - id: c-77421
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1111,7 +1083,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80776
+    - t-021
+    - t-033
+
 - id: c-176784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1137,6 +1111,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194171
+    - t-037
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Zigmantas III]]

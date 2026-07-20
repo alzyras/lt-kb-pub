@@ -40,7 +40,6 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
 
 <a id="claim-t-60712"></a>
 - t-001
-  global_id: t-60712
   teiginys: "H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60712
+    - t-001

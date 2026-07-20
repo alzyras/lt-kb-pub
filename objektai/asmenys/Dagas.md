@@ -31,7 +31,6 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
 
 <a id="claim-t-191263"></a>
 - t-001
-  global_id: t-191263
   teiginys: "Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų vadai, ir su Umaru bei Onevu perėjo į priešo pusę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191263
+    - t-001

@@ -30,7 +30,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 
 <a id="claim-t-87721"></a>
 - t-001
-  global_id: t-87721
   teiginys: "Jono Jurgeravičiaus privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87721
+    - t-001

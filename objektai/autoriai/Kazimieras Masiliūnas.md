@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-63308"></a>
 - t-001
-  global_id: t-63308
   teiginys: "Viceministro Kazimiero Masiliūno iniciatyva ir rūpesčiu lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -76,15 +75,11 @@ media_all_json: |-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
-  citata_rodoma: |
-    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
-    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
-    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
-    Šapoka.
+  citata_rodoma: "Lietuvos Respublikos švietimo ministerijos (viceministro Ka-\nzimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-\nšė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas\nŠapoka."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63308
+    - t-001

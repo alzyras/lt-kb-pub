@@ -4,6 +4,13 @@ pavadinimas: 'Jūros upė'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1645 m.'
+date_start: '1645'
+date_end: ''
+amziai:
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,7 +40,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-28359"></a>
 - t-001
-  global_id: t-28359
   teiginys: "Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,9 +56,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-188703"></a>
 - t-002
-  global_id: t-188703
   teiginys: "Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,30 +73,19 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171592
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rageziowan
-    Kęsgailų giminės fetišas.
-    Dievaitis (Dewojtis)
-    Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
-    seinių apskrityje, tikriausiai prie Jūros upės.
-    207
 
-    ## Puslapis 207
-
-    Vetustis (W etustis)
-    Rietavo miestelio fetišas, lietuviškai -  senovinis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-201605"></a>
+- t-003
+  teiginys: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją giminaičiui Jonui Jasudavičiui."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
-    - t-188703
+    - c-184952
+
 ## Citatos
 
 - id: c-28263
@@ -113,20 +107,13 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28359
+    - t-001
+
 - id: c-171592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Reikėjo iškasti griovį slėnelyje prie gyvena­
-    mojo namo, ir kaip tik toje vietoje, kur buvo seno perkaso
-    pėdsakai, kasėjai dumble aptiko akmenį ir jį išmetė. Aš, pri­
-    žiūrėdamas jų darbą, pastebėjau tą akmenį. Jis iš karto nuste­
-    bino mane ypatinga savo išvaizda. Liepiau apvalyti nuo jo dum­
-    blą. Pasvarstęs, kad visame perkase nebuvo jokio akmens, su­
-    vokiau, kad jis ten buvo tyčia įmestas.
-  citata_rodoma: |
     Rageziowan
     Kęsgailų giminės fetišas.
     Dievaitis (Dewojtis)
@@ -138,10 +125,29 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
     Vetustis (W etustis)
     Rietavo miestelio fetišas, lietuviškai -  senovinis.
+  citata_rodoma: "Rageziowan\nKęsgailų giminės fetišas.\nDievaitis (Dewojtis)\nPajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­\nseinių apskrityje, tikriausiai prie Jūros upės.\n207\n\n## Puslapis 207\n\nVetustis (W etustis)\nRietavo miestelio fetišas, lietuviškai -  senovinis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188703
+    - t-002
+
+- id: c-184952
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Bet svarbiausia tai,
+    kad kaunietis buvo įsirengęs rudnią, kurioje iš pelkių geležies rūdos gamino gele-
+    žį. 1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos
+    gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją
+    giminaičiui Jonui Jasudavičiui.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

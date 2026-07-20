@@ -31,7 +31,6 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
 
 <a id="claim-t-189289"></a>
 - t-001
-  global_id: t-189289
   teiginys: "Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189289
+    - t-001

@@ -41,7 +41,6 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 
 <a id="claim-t-28594"></a>
 - t-001
-  global_id: t-28594
   teiginys: "Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28594
+    - t-001

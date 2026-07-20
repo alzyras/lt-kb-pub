@@ -31,7 +31,6 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 
 <a id="claim-t-78925"></a>
 - t-001
-  global_id: t-78925
   teiginys: "Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 
 <a id="claim-t-78926"></a>
 - t-002
-  global_id: t-78926
   teiginys: "Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78925
+    - t-001
+
 - id: c-76026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -111,4 +110,4 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78926
+    - t-002

@@ -28,7 +28,6 @@ Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pa
 
 <a id="claim-t-201165"></a>
 - t-001
-  global_id: t-201165
   teiginys: "Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pa
 ## Citatos
 
 - id: c-184515
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip keliomis dienomis žydintį kraštą į tyrą
     pavertė. Paskui sukos kryžėjai su visa savo kariau­
@@ -66,4 +66,4 @@ Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201165
+    - t-001

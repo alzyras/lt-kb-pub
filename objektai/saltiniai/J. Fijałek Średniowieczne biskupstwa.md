@@ -36,7 +36,6 @@ Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare
 
 <a id="claim-t-100171"></a>
 - t-001
-  global_id: t-100171
   teiginys: "J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100171
+    - t-001

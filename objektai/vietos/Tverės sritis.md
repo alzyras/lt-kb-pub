@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-32616"></a>
 - t-001
-  global_id: t-32616
   teiginys: "1285 m. pavasarį Tverės sritį plėšė tie patys užpuolikai, kurie 1284 m. vėl žygiavo į Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-184405"></a>
 - t-002
-  global_id: t-184405
   teiginys: "1285 m. pavasarį lietuviai plėšė Tverės sritį."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,17 +91,15 @@ media_all_json: |-
     nijoje. 1287 kovo mėn. kautynėse su lietuviais, kurie veikė sąjun­
     goje su žiemgaliais, žuvo Livonijos 35 riteriai ir magistras Bur­
     chardas von Haren.
-  citata_rodoma: |
-    1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
-    Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
-    nijoje. 1287 kovo mėn.
+  citata_rodoma: "1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė\nTverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­\nnijoje. 1287 kovo mėn."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32616
+    - t-001
+
 - id: c-167770
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -120,6 +116,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184405
+    - t-002
+
 ## Ryšiai
 - Puolė Tverės sritį: [[objektai/grupes/Lietuviai]]

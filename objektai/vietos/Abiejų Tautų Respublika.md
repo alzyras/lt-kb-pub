@@ -13,14 +13,14 @@ datos:
   - '2014 m.'
 date_start: '1408'
 date_end: '2014'
+amziai:
+  - 'XV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
-amziai:
-  - 'XV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,7 +44,6 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 
 <a id="claim-t-193800"></a>
 - t-001
-  global_id: t-193800
   teiginys: "Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 
 <a id="claim-t-200711"></a>
 - t-002
-  global_id: t-200711
   teiginys: "XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 
 <a id="claim-t-201581"></a>
 - t-003
-  global_id: t-201581
   teiginys: "Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -109,28 +106,18 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193800
+    - t-001
 
 - id: c-184056
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Šiame kontekste kvietimas užsieniečius išgerti kartu, iš vienos
-    taurės gali būti traktuojamas kaip aukščiausio svetingumo išraiška – bendrystė, kaip
-    savotiška „priėmimo į šeimą“ apeiga. XVIII a. Abiejų Tautų Respubliką lankiusių
-    užsieniečių akimis toks gėrimas primena pagoniškus keltų ir germanų papročius
-    (Vautrin 1807: 210), yra svetingumo (Williamo Coxe’o nuomone) išraiška, o kai
-    kuriais atvejais (pasak Albert’o Jouvin de Rocheforto) – valgomųjų indų trūkumo
-    pasekmė (Dias-Lewandowska 2014: 166).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200711
+    - t-002
 
 - id: c-184928
   autorius: "Zigmantas Kiaupa"
@@ -148,4 +135,4 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201581
+    - t-003

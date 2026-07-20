@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-185716"></a>
 - t-001
-  global_id: t-185716
   teiginys: "Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185716
+    - t-001

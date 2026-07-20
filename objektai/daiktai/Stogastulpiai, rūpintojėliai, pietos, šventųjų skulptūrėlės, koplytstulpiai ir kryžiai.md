@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-193686"></a>
 - t-001
-  global_id: t-193686
   teiginys: "Su baroku susiję didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir šventųjų skulptūrėlėmis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193686
+    - t-001

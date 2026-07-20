@@ -31,7 +31,6 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
 
 <a id="claim-t-193677"></a>
 - t-001
-  global_id: t-193677
   teiginys: "Net savo priešų Mindaugas buvo vadinamas išmintinguoju."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193677
+    - t-001

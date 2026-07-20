@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01610"></a>
 - t-001
-  global_id: t-01610
   teiginys: "1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-01611"></a>
 - t-002
-  global_id: t-01611
   teiginys: "Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,17 +100,15 @@ Nenurodyta
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: |
-    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
-    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
-    siunčia išeivių bibliotekoms knygų ir vadovėlių.
+  citata_rodoma: "Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi\nlietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,\nsiunčia išeivių bibliotekoms knygų ir vadovėlių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01611
+    - t-002
+
 - id: c-01849
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -131,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01610
+    - t-001

@@ -32,7 +32,6 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 
 <a id="claim-t-60317"></a>
 - t-001
-  global_id: t-60317
   teiginys: "Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
     komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
     nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
     136 (131).
-  citata_rodoma: |
-    Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
-    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
-    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
-    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
-    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
-
-
-
-
-         136 (131).
+  citata_rodoma: "Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne\nkuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas\nsėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo\nkomtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai\nnudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.\n\n\n\n\n     136 (131)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60317
+    - t-001

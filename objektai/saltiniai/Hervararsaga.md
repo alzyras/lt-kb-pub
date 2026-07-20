@@ -36,7 +36,6 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
 
 <a id="claim-t-100168"></a>
 - t-001
-  global_id: t-100168
   teiginys: "Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
     anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
     (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
     įvaras.
-  citata_rodoma: |
-    Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
-    anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga
-    (apie 675 m.
+  citata_rodoma: "Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą\nanksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga\n(apie 675 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100168
+    - t-001

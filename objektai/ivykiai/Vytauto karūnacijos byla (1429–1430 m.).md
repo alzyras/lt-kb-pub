@@ -11,14 +11,14 @@ datos:
   - '1430 m.'
 date_start: '1429'
 date_end: '1430'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
   - konfliktas
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05325"></a>
-- t-001
-  global_id: t-05325
+- t-004
   teiginys: "Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-67061
 
 <a id="claim-t-05326"></a>
-- t-002
-  global_id: t-05326
+- t-005
   teiginys: "Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,26 +90,8 @@ Nenurodyta
     - c-04918
     - c-67067
 
-<a id="claim-t-66986"></a>
-- t-003
-  global_id: t-66986
-  teiginys: "Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto)."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-67066
-
 <a id="claim-t-66987"></a>
-- t-004
-  global_id: t-66987
+- t-001
   teiginys: "Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -127,8 +107,7 @@ Nenurodyta
     - c-67062
 
 <a id="claim-t-184600"></a>
-- t-005
-  global_id: t-184600
+- t-006
   teiginys: "Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -147,8 +126,7 @@ Nenurodyta
     - c-167961
 
 <a id="claim-t-196270"></a>
-- t-006
-  global_id: t-196270
+- t-007
   teiginys: "Po Lucko suvažiavimo Jogaila Korčine sukvietė seimą, kad karalystės luomai svarstytų pasipriešinimą Vytauto karūnacijos siekiams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -160,129 +138,10 @@ Nenurodyta
   pagrindžia:
     - c-178605
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
-## Citatos
-
-- id: c-04918
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
-    nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
-    terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų
-    kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius
-    pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
-    sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
-    aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05326
-- id: c-67061
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Vytautui tai davė progos Jogailą kaltinti, jog jis
-    jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
-    rūpinąs turėti geresnių.
-    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
-    niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
-    esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
-    įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
-  citata_rodoma: |
-    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
-    niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
-    esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
-    įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05325
-- id: c-67062
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
-    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
-    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
-    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
-    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
-    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
-    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
-    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
-    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66987
-- id: c-67066
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Bet ir
-    šį kartą Vytautas, nežiūrint net gilios jo senatvės, dar smar­
-    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
-    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
-    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
-    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
-    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
-    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
-    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
-    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
-    naujo suardyta^1 ), suduotas jai didelis smūgis.
-  citata_rodoma: |
-    Vytautas, nežiūrint net gilios jo senatvės, dar smar­
-    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
-    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
-    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
-    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
-    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
-    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
-    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
-    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
-    naujo suardyta^1 ), suduotas jai didelis smūgis.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66986
-- id: c-67067
-  autorius: "Zenonas Ivinskis"
-  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
-  citata_originali: |
-    Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
-    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
-    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
-    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
-    Vokietijon. Vainikavimas susitrukdė.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-05326
-- id: c-167961
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Krokuvos vyskupas Zbig­
     nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,
@@ -305,7 +164,125 @@ Nenurodyta
     virai pagrasino, sakydamas,
     14*
     4 1 9
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-04918
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
+    nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
+    terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų
+    kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius
+    pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
+    sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
+    aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-67061
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vytautui tai davė progos Jogailą kaltinti, jog jis
+    jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
+    rūpinąs turėti geresnių.
+    Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
+    niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
+    esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
+    įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
+  citata_rodoma: "Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­\nniką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog\nesąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko\nįtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-67062
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
+    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
+    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
+    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
+    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
+    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
+    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
+    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
+    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-67066
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet ir
+    šį kartą Vytautas, nežiūrint net gilios jo senatvės, dar smar­
+    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
+    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
+    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
+    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
+    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
+    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
+    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
+    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
+    naujo suardyta^1 ), suduotas jai didelis smūgis.
+  citata_rodoma: "Vytautas, nežiūrint net gilios jo senatvės, dar smar­\nkiai savo paskutiniais gyvenimo metais apgriovė unijos pa­\ngrindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­\nvą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­\nkarūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­\nratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­\ndama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti\nVytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano\nKutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš\nnaujo suardyta^1 ), suduotas jai didelis smūgis."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-67067
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
+    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
+    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
+    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
+    Vokietijon. Vainikavimas susitrukdė.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-167961
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
     Atvykęs į Lenkiją, jis sukvie-
@@ -318,13 +295,15 @@ Nenurodyta
     imperatorius, apsvarstęs su Vytautu svarbiausius klau­
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
+  citata_rodoma: "Štai todėl karalius po senato posėdžio, net neatsi­\nsveikinęs su imperatoriumi, skubiai išvyko iš Lucko.\nAtvykęs į Lenkiją, jis sukvie-\nIšsiskiisto Lucko su-\ntė Korčine seimą, norėdamas,\nvažiavimo dalyviai\nkad karalystės luomai nu­\nspręstų, kaip dera priešintis\nnesaikingiems Vytauto potroškiams. Karaliui išvykus, ir\nimperatorius, apsvarstęs su Vytautu svarbiausius klau­\nsimus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai\niš Volynės į Vengriją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184600
+    - t-006
+
 - id: c-178605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -361,4 +340,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196270
+    - t-007

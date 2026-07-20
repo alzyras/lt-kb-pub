@@ -33,7 +33,6 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
 
 <a id="claim-t-201156"></a>
 - t-001
-  global_id: t-201156
   teiginys: "Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
 ## Citatos
 
 - id: c-184506
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Inocentas IV popiežius buvo jau jutęs apie ka­
     res Sviatopelko su kryžėjais, kurie, lūgodami jo
@@ -68,4 +68,4 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201156
+    - t-001

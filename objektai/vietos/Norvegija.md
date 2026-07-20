@@ -49,7 +49,6 @@ Norvegija šiame šaltinyje yra valstybė.
 
 <a id="claim-t-195655"></a>
 - t-001
-  global_id: t-195655
   teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
   atnaujinta: "2026-07-12 09:30"
   sprendimo_priezastis: "gap::places"
@@ -60,7 +59,6 @@ Norvegija šiame šaltinyje yra valstybė.
 
 <a id="claim-t-201092"></a>
 - t-002
-  global_id: t-201092
   teiginys: "Nukeliavęs į vietovę, Kantium (Kanterbury) va dinamą, aplankė vieną dalį Anglijos, nuo ten irkla vo į pašalius žemės, vadinamos Thula (Norvegija), arba Skandija, paskui, irkluodamas juo į pietus linkant Baltijos, arba Žemaičių, jūros, atkeliavo į že maičių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -101,23 +99,19 @@ Norvegija šiame šaltinyje yra valstybė.
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: |
-    1899 m. vasarą padarė
-    kelionę į Estų salas (Eželį), kur rinko estų liaudies dainas; tais pa­
-    čiais metais dirbo Švedijos
-    ir
-    Norvegijos
-    knygynuose;
+  citata_rodoma: "1899 m. vasarą padarė \nkelionę į Estų salas (Eželį), kur rinko estų liaudies dainas; tais pa­\nčiais metais dirbo Švedijos \nir \nNorvegijos \nknygynuose;"
   statusas: verified
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195655
+    - t-001
+
 - id: c-184442
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nukeliavęs į vietovę, Kantium (Kanterbury) va­
     dinamą, aplankė vieną dalį Anglijos, nuo ten irkla­
@@ -148,4 +142,4 @@ Norvegija šiame šaltinyje yra valstybė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201092
+    - t-002

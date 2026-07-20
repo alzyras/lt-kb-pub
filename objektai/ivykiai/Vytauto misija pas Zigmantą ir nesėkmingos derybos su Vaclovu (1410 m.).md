@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185658"></a>
 - t-001
-  global_id: t-185658
   teiginys: "Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-196271"></a>
 - t-002
-  global_id: t-196271
   teiginys: "Jogaila ir Vytautas svarstė, kaip užtikrinti, kad kryžiuočių pusėje nekariautų Zigmantas ir Vaclovas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185658
+    - t-001
+
 - id: c-178606
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -138,4 +137,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196271
+    - t-002

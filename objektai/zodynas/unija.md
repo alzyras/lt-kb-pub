@@ -37,8 +37,7 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
 ## Teiginiai
 
 <a id="claim-t-72004"></a>
-- t-001
-  global_id: t-72004
+- t-006
   teiginys: "Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
     - c-14717
 
 <a id="claim-t-72005"></a>
-- t-002
-  global_id: t-72005
+- t-004
   teiginys: "Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
     - c-14717
 
 <a id="claim-t-196391"></a>
-- t-003
-  global_id: t-196391
+- t-009
   teiginys: "1566 m. Lietuvoje nerimauta, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą kare."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -210,8 +207,9 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72004
-    - t-72005
+    - t-006
+    - t-004
+
 - id: c-178659
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -242,4 +240,4 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196391
+    - t-009

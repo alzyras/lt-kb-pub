@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54268"></a>
 - t-001
-  global_id: t-54268
   teiginys: "LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-54269"></a>
 - t-002
-  global_id: t-54269
   teiginys: "LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -98,20 +96,12 @@ Nenurodyta
     „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
     kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
     niais terminais – autonomijas).
-  citata_rodoma: |
-    Net dinastinės
-    vedybos vykdavo tiesioginiu kariniu spaudimu.
-    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
-    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
-    sios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis:
-    „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
-    kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
-    niais terminais – autonomijas).
+  citata_rodoma: "Net dinastinės \nvedybos vykdavo tiesioginiu kariniu spaudimu. \nLietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-\nbę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-\nsios tvarkos. Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: \n„senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias \nkunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-\nniais terminais – autonomijas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54268
-    - t-54269
+    - t-001
+    - t-002

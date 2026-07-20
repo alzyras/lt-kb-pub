@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-26649"></a>
 - t-001
-  global_id: t-26649
   teiginys: "1832 m. Vilniaus universiteto uždarymo iniciatoriai jį vadino „Lietuvos laisvamanybės lizdu“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-26901"></a>
 - t-002
-  global_id: t-26901
   teiginys: "1832 m. Vilniaus universitetą nutarta uždaryti kaip „Lietuvos laisvamanybės lizdą“."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ media_all_json: |-
 
 <a id="claim-t-67313"></a>
 - t-003
-  global_id: t-67313
   teiginys: "Ištrauka formulę sieja su tolesne rusinimo politika: Lietuvos Statuto panaikinimu, teismų sistemos surusinimu ir Lietuvos vardo šalinimu iš gubernijų pavadinimų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -118,6 +115,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26649
-    - t-26901
-    - t-67313
+    - t-001
+    - t-002
+    - t-003

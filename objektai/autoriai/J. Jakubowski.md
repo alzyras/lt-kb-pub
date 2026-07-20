@@ -39,8 +39,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 ## Teiginiai
 
 <a id="claim-t-64628"></a>
-- t-001
-  global_id: t-64628
+- t-002
   teiginys: "J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     - c-36655
 
 <a id="claim-t-64629"></a>
-- t-002
-  global_id: t-64629
+- t-001
   teiginys: "J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“"
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -89,16 +87,15 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
-  citata_rodoma: |
-    3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
+  citata_rodoma: "3\n) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64628
+    - t-002
+
 - id: c-65306
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -115,4 +112,4 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64629
+    - t-001

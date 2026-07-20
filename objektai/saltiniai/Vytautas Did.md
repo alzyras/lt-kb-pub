@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31973"></a>
 - t-001
-  global_id: t-31973
   teiginys: "Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,13 +57,11 @@ media_all_json: |-
     Algirdaitis, LE, t. 14, 387-388 p. — (”) Salzbach Marquard von, LE, t. 26,
     373-375 p. — (”) Skirgaila, LE, t. 28, 50-53 p. — (”) Vytautas Did., LE,
     t. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r.
-  citata_rodoma: |
-    — (”) Vytautas Did., LE,
-    t. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r.
+  citata_rodoma: "— (”) Vytautas Did., LE,\nt. 34, 376-379 p. — Jakubowski, J. : Opis księstwa Trockiego z r."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31973
+    - t-001

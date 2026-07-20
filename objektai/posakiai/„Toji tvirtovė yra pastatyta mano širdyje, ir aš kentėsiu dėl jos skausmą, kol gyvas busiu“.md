@@ -37,8 +37,7 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 ## Teiginiai
 
 <a id="claim-t-186420"></a>
-- t-001
-  global_id: t-186420
+- t-002
   teiginys: "Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
     - c-169759
 
 <a id="claim-t-186421"></a>
-- t-002
-  global_id: t-186421
+- t-001
   teiginys: "Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,20 +91,12 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
     kol gyvas busiu »^236.
     Keršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­
     nijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon.
-  citata_rodoma: |
-    Po nepasise­
-    kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
-    šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
-    Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji
-    tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą,
-    kol gyvas busiu »^236.
-    Keršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­
-    nijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon.
+  citata_rodoma: "Po nepasise­\nkusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­\nšinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.\nVaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji\ntvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą,\nkol gyvas busiu »^236.\nKeršydamas už Traidenio puolimus, 1279 m. pavasariop Livo­\nnijos magistras Ernest von Rassburg suruošė didelį žygį Lietuvon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186420
-    - t-186421
+    - t-002
+    - t-001

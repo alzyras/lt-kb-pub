@@ -37,7 +37,6 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 
 <a id="claim-t-80653"></a>
 - t-001
-  global_id: t-80653
   teiginys: "Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
     Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: |
-    Po kelių mėnesių Ramanauskas-Vanagas
-    buvo pakeltas į Merkio rinktinės vado pareigas.
-    Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos
-    srities partizanų vadu. 1949 m.
+  citata_rodoma: "Po kelių mėnesių Ramanauskas-Vanagas\nbuvo pakeltas į Merkio rinktinės vado pareigas.\nVėliau jis tapo Dainavos apygardos ir Pietų Lietuvos\nsrities partizanų vadu. 1949 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80653
+    - t-001

@@ -28,7 +28,6 @@ Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius raf
 
 <a id="claim-t-200811"></a>
 - t-001
-  global_id: t-200811
   teiginys: "Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius rafinuotus, kad jie nustelbia skulptūros savarankiškumą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius raf
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200811
+    - t-001

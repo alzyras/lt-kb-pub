@@ -36,7 +36,6 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
 
 <a id="claim-t-192977"></a>
 - t-001
-  global_id: t-192977
   teiginys: "Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, nes plaukė Argo laivu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192977
+    - t-001

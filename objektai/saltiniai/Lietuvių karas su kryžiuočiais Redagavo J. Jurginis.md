@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
 
 <a id="claim-t-61135"></a>
 - t-001
-  global_id: t-61135
   teiginys: "„Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
     Lietuvių karas su kryžiuočiais / Redagavo J. Jurginis.—V., 1964.
     Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—
     1939.
-  citata_rodoma: |
-    Lietuvių karas su kryžiuočiais / Redagavo J. Jurginis.—V., 1964.
+  citata_rodoma: "Lietuvių karas su kryžiuočiais / Redagavo J. Jurginis.—V., 1964."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61135
+    - t-001

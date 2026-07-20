@@ -31,7 +31,6 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 <a id="claim-t-36584"></a>
 - t-001
-  global_id: t-36584
   teiginys: "Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
     link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
     hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
     gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
-  citata_rodoma: |
-    Po to, sąjun­
-    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
-    link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
-    hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
-    gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
+  citata_rodoma: "Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­\nhendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­\ngailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36584
+    - t-001

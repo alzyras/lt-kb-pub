@@ -37,7 +37,6 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 
 <a id="claim-t-61260"></a>
 - t-001
-  global_id: t-61260
   teiginys: "M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ rankraštis nurodytas MAB RS fonde F 129-1338."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,13 +54,11 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne
     [Rankraštis].— MAB RS, F 129— 1338.
     [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne.
-  citata_rodoma: |
-    [Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne
-    [Rankraštis].— MAB RS, F 129— 1338.
+  citata_rodoma: "[Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne\n[Rankraštis].— MAB RS, F 129— 1338."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61260
+    - t-001

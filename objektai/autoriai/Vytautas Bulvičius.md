@@ -35,7 +35,6 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
 
 <a id="claim-t-63358"></a>
 - t-001
-  global_id: t-63358
   teiginys: "Vytautas Bulvičius knygoje „Karinis valstybės rengimas“ ragino tautą bijoti ne nepriklausomybės netekimo kariaujant, o laisvės praradimo be kovos."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -75,28 +74,11 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
     Tauta, kuri priešo neerzinimo sumetimais
     neišdrįsta reikiamu momentu griebtis karo,
     nėra laisvės verta.
-  citata_rodoma: |
-    Padariniai
-
-    Tarpukario Lietuvos generalinio štabo
-    majoras Vytautas Bulvičius savo kny-
-
-    goje „Karinis valstybės rengimas“ rašė:
-    „Pirmutinė karo diena ar ta diena, kada nu-
-    stojama nepriklausomybės neišdrįstant pra-
-    dėti karo, dažniausiai yra svarbesnė visos
-    tautos ateičiai, negu dešimtys metų taikos
-    meto darbo. Tą dieną tauta turi atsiminti,
-    kad tautų istorija krauju rašoma. Turi bijoti
-    ne nustojimo nepriklausomybės kariau-
-    jant, bet bijoti praradimo laisvės be kovos.
-    Tauta, kuri priešo neerzinimo sumetimais
-    neišdrįsta reikiamu momentu griebtis karo,
-    nėra laisvės verta.
+  citata_rodoma: "Padariniai\n\nTarpukario Lietuvos generalinio štabo\nmajoras Vytautas Bulvičius savo kny-\n\ngoje „Karinis valstybės rengimas“ rašė:\n„Pirmutinė karo diena ar ta diena, kada nu-\nstojama nepriklausomybės neišdrįstant pra-\ndėti karo, dažniausiai yra svarbesnė visos\ntautos ateičiai, negu dešimtys metų taikos\nmeto darbo. Tą dieną tauta turi atsiminti,\nkad tautų istorija krauju rašoma. Turi bijoti\nne nustojimo nepriklausomybės kariau-\njant, bet bijoti praradimo laisvės be kovos.\nTauta, kuri priešo neerzinimo sumetimais\nneišdrįsta reikiamu momentu griebtis karo,\nnėra laisvės verta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63358
+    - t-001

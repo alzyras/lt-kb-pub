@@ -29,9 +29,8 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
 
 ## Teiginiai
 
-<a id="claim-t-90277"></a>
-- t-001
-  global_id: t-90277
+<a id="claim-t-90276"></a>
+- t-002
   teiginys: "Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,8 +43,8 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aismarių nerija\" parinktas kaip owner_note_path. Targetas \"Aistmarios\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86143
     - c-86142
+    - c-86143
 - susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
 ## Citatos
 
@@ -61,18 +60,15 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
     Aista, u.
     Aizkrauklė (buv. Ašeradė)
     Akmena (Jūros intakas), u.
-  citata_rodoma: |
-    Aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr. Gėlo vandens
-    marios)
-      Aismarių nerija (Neria)
-       Aista, Aistija (plg.
+  citata_rodoma: "Aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr. Gėlo vandens\nmarios)\n  Aismarių nerija (Neria)\n   Aista, Aistija (plg."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90277
+    - t-002
+
 - id: c-86143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -90,13 +86,11 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
        Aista, Aistija (plg. Eastland)
        Aista, u.
       Aizkrauklė (buv.
-  citata_rodoma: |
-    Gėlo vandens
-    marios)
-      Aismarių nerija (Neria)
-       Aista, Aistija (plg.
+  citata_rodoma: "Gėlo vandens\nmarios)\n  Aismarių nerija (Neria)\n   Aista, Aistija (plg."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

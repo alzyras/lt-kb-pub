@@ -32,7 +32,6 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 
 <a id="claim-t-193291"></a>
 - t-001
-  global_id: t-193291
   teiginys: "Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms audroms ir Maskvos įsikišimui."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193291
+    - t-001

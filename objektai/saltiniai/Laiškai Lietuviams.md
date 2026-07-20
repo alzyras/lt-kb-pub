@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31782"></a>
 - t-001
-  global_id: t-31782
   teiginys: "„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ media_all_json: |-
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: |
-    :
-    Laiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_
-    LE, t.
+  citata_rodoma: ":\nLaiškai Lietuviams, Chicaga, 1958, nr. 5-9. — _(”)Jadwyga d’Anjou,_\nLE, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31782
+    - t-001

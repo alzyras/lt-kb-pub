@@ -30,7 +30,6 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 
 <a id="claim-t-35964"></a>
 - t-001
-  global_id: t-35964
   teiginys: "Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu: šis gausiąs Ordą, o Vytautas valdysiąs Didžiąją Maskvos kunigaikštiją ir visą Rusią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
     tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
     samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
     yra teisingas.
-  citata_rodoma: |
-    Rusų kronikos aiškina, kad
-    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
-    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
-    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
-    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
-    yra teisingas.
+  citata_rodoma: "Rusų kronikos aiškina, kad\nsu Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro\nKotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­\ntijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio\nsamprotavimo priskyrimas būtų anachronizmas, bet esmėje jis\nyra teisingas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35964
+    - t-001

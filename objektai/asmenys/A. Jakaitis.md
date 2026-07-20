@@ -31,7 +31,6 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 
 <a id="claim-t-39978"></a>
 - t-001
-  global_id: t-39978
   teiginys: "Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,20 +66,11 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     kas iš Šipliškių turėjo žygiuoti į Suvalkus,
     o iš ten į Augustavą, dešiniu sparnu siekti
     Vokietijos sieną.
-  citata_rodoma: |
-    Ramanausko
-    grupė (2-ojo pulko batalionas) iš Berži-
-    ninko žygiuoti per Gibus ir Seinus prie
-    Augustavo esančio Kaleitų ežero link,
-
-    mjr. A. Jakaičio vadovaujamas 10-asis pul-
-    kas iš Šipliškių turėjo žygiuoti į Suvalkus,
-    o iš ten į Augustavą, dešiniu sparnu siekti
-    Vokietijos sieną.
+  citata_rodoma: "Ramanausko\ngrupė (2-ojo pulko batalionas) iš Berži-\nninko žygiuoti per Gibus ir Seinus prie\nAugustavo esančio Kaleitų ežero link,\n\nmjr. A. Jakaičio vadovaujamas 10-asis pul-\nkas iš Šipliškių turėjo žygiuoti į Suvalkus,\no iš ten į Augustavą, dešiniu sparnu siekti\nVokietijos sieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39978
+    - t-001

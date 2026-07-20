@@ -38,8 +38,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 ## Teiginiai
 
 <a id="claim-t-54630"></a>
-- t-001
-  global_id: t-54630
+- t-002
   teiginys: "Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::authors"
@@ -55,8 +54,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     - c-55539
 
 <a id="claim-t-54631"></a>
-- t-002
-  global_id: t-54631
+- t-001
   teiginys: "Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“."
   atnaujinta: "2026-05-27 05:25"
   sprendimo_priezastis: "gap::authors"
@@ -85,19 +83,15 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     tuaniae expressa, per R. P. Adamum
     Ign. Naramowski, etc. Vilnae, 1726.
     Lib. Il, p. 346.
-  citata_rodoma: |
-    Facies rerum Sarmaticarum in facie
-    Regni Poloniae, Magnique Ducatus Li-
-    tuaniae expressa, per R. P. Adamum
-    Ign. Naramowski, etc. Vilnae, 1726.
-    Lib. Il, p. 346.
+  citata_rodoma: "Facies rerum Sarmaticarum in facie \nRegni Poloniae, Magnique Ducatus Li- \ntuaniae expressa, per R. P. Adamum \nIgn. Naramowski, etc. Vilnae, 1726.\nLib. Il, p. 346."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54631
+    - t-001
+
 - id: c-55539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -113,21 +107,11 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­
     čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
     pat jėzuito Naramovskio3.
-  citata_rodoma: |
-    Tad nu­
-    rodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­
-    kių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų
-    aktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­
-    kupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­
-    mesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­
-    vęs Vilniaus universiteto bibliotekoje, kuriame trumpos
-    panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­
-    čiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip
-    pat jėzuito Naramovskio3.
+  citata_rodoma: "Tad nu­\nrodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­\nkių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų \naktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­\nkupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­\nmesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­\nvęs Vilniaus universiteto bibliotekoje, kuriame trumpos \npanegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­\nčiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip \npat jėzuito Naramovskio3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54630
+    - t-002

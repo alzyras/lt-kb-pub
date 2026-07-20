@@ -42,26 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189934"></a>
-- t-001
-  global_id: t-189934
-  teiginys: 'Narbutas žmonių pagausėjimą ir bendruomenių skaidymąsi laikė svarbiausiomis prigimtinės religijos žlugimo priežastimis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinė interpretacija palikta su Narbuto atribucija. Nepridėta platesnio apeigų sąrašo, nors citata jį mini.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Aurea prima sata ėst aetas|Aurea prima sata ėst aetas]]'
-  pagrindžia:
-    - c-172817
-
-## Citatos
-
-- id: c-172817
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas žmonių pagausėjimą ir bendruomenių skaidymąsi laikė svarbiausiomis prigimtinės religijos žlugimo priežastimis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Senovės filosofų devizas buvo šie
     žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­
@@ -82,10 +67,8 @@ Nenurodyta
     mas -  tai buvo visuotinis tikėjimo tiesų išrutuliojimas, besire­
     miantis pradiniais principais, kuriuos filosofai vadino elemen­
     tą mundi -  pasaulio elementais.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189934
+  statusas: verified

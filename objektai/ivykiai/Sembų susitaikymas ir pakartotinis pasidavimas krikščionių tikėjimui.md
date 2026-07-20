@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62473"></a>
 - t-001
-  global_id: t-62473
   teiginys: "Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,21 +74,11 @@ Nenurodyta
     sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė
     krikščionių tikėjimui.
     110 (105).
-  citata_rodoma: |
-    109 (104). Apie brolių ir sembų susitaikymą
-
-       Šiais  ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami
-    sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė
-    krikščionių tikėjimui.
-
-
-
-
-               110 (105).
+  citata_rodoma: "109 (104). Apie brolių ir sembų susitaikymą\n\n   Šiais  ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami\nsembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė\nkrikščionių tikėjimui.\n\n\n\n\n           110 (105)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62473
+    - t-001

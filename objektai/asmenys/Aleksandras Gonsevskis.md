@@ -40,7 +40,6 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 
 <a id="claim-t-39999"></a>
 - t-001
-  global_id: t-39999
   teiginys: "Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,17 +73,11 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
     1633 m. žiemą į pagalbą atskubėjo tuo-
     metinis Lietuvos lauko etmonas Kristupas
     Radvila 11.
-  citata_rodoma: |
-    Apsiaustųjų pajėgų aprūpinimo papil-
-    dymus organizavo Smolensko vaivada
-    Aleksandras Gonsevskis su 6 tūkst. apy-
-    linkėse veikusių karių.
-
-    1633 m.
+  citata_rodoma: "Apsiaustųjų pajėgų aprūpinimo papil-\ndymus organizavo Smolensko vaivada\nAleksandras Gonsevskis su 6 tūkst. apy-\nlinkėse veikusių karių.\n\n1633 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39999
+    - t-001

@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75050"></a>
-- t-001
-  global_id: t-75050
+- t-006
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ media_all_json: |-
     - c-72977
 
 <a id="claim-t-75051"></a>
-- t-002
-  global_id: t-75051
+- t-005
   teiginys: "Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-72979
 
 <a id="claim-t-75053"></a>
-- t-003
-  global_id: t-75053
+- t-001
   teiginys: "2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +99,7 @@ media_all_json: |-
     - c-22834
 
 <a id="claim-t-75056"></a>
-- t-004
-  global_id: t-75056
+- t-007
   teiginys: "NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ media_all_json: |-
     - c-72979
 
 <a id="claim-t-75057"></a>
-- t-005
-  global_id: t-75057
+- t-003
   teiginys: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,8 +134,7 @@ media_all_json: |-
     - c-22836
 
 <a id="claim-t-193567"></a>
-- t-006
-  global_id: t-193567
+- t-008
   teiginys: "Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nereikės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils pavojus jos saugumui."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -171,20 +165,15 @@ media_all_json: |-
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: |
-    1991 m. rugsėjo 17 d. Lietuva priimta
-    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
-    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
-    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
-    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
-    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
+  citata_rodoma: "1991 m. rugsėjo 17 d. Lietuva priimta \nį Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-\ntas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO \n(Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą \n(ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto \nsutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75053
+    - t-001
+
 - id: c-22836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,17 +186,15 @@ media_all_json: |-
     mui į NATO. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
     garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
     tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-  citata_rodoma: |
-    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
-    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
-    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
+  citata_rodoma: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-\ngarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-\ntos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75057
+    - t-003
+
 - id: c-72977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,7 +214,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75050
+    - t-006
+
 - id: c-72979
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,8 +234,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75051
-    - t-75056
+    - t-005
+    - t-007
+
 - id: c-176246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -266,6 +255,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193567
+    - t-008
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

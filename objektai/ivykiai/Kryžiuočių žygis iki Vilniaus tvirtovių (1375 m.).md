@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-55123"></a>
 - t-001
-  global_id: t-55123
   teiginys: "1375 m. Vinricho ekspedicija į Lietuvą nutrūko dėl staigaus atodrėkio ir upių polaidžio."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::events"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-55124"></a>
 - t-002
-  global_id: t-55124
   teiginys: "Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::events"
@@ -97,7 +95,6 @@ Nenurodyta
 
 <a id="claim-t-81826"></a>
 - t-003
-  global_id: t-81826
   teiginys: "Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -134,7 +131,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55123
+    - t-001
+
 - id: c-55676
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,7 +155,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55124
+    - t-002
+
 - id: c-78375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -179,4 +178,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81826
+    - t-003

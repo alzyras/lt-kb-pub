@@ -11,14 +11,14 @@ datos:
   - '2026 m.'
 date_start: '1415'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestas
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-68240"></a>
-- t-001
-  global_id: t-68240
+- t-002
   teiginys: "Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-32139
 
 <a id="claim-t-68241"></a>
-- t-002
-  global_id: t-68241
+- t-003
   teiginys: "1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ media_all_json: |-
     - c-32140
 
 <a id="claim-t-68242"></a>
-- t-003
-  global_id: t-68242
+- t-001
   teiginys: "G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -93,9 +90,8 @@ media_all_json: |-
 
 <a id="claim-t-188725"></a>
 - t-004
-  global_id: t-188725
   teiginys: "Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,7 +107,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171614
-    - c-004
 - susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
 - susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190012|Jeronimas Prahiškis]]: Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.
 - susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
@@ -159,39 +154,6 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Mikalojus Sepienskis.md#claim-t-29043|Mikalojus Sepienskis]]: 1415 m. į Konstancą atsiųstiems 60 pakrikštytų žemaičių bajorų vadovavo ir Vytauto sekretorius lenkas Mikalojus Sepienskis.
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
 - susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tenai nors tarėsi su Husu, sa­
-    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
-    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
-    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
-    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
-    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
-    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
-    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
-    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
-    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
-    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
-    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
-    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
-    398
-
-    ## Puslapis 398
-
-    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
-    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
-    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
-    čioje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188725
 ## Citatos
 
 - id: c-24199
@@ -206,19 +168,15 @@ media_all_json: |-
     imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: |
-    G. Camblako ekume-
-    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
-    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
-    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
-    lių bendriją vaizduojančią Strasbūro freską.
+  citata_rodoma: "G. Camblako ekume-\nninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad\nimtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis\nprie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-\nlių bendriją vaizduojančią Strasbūro freską."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68242
+    - t-001
+
 - id: c-32139
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -231,20 +189,15 @@ media_all_json: |-
     Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
     Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
     į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
-  citata_rodoma: |
-    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
-    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
-    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
-    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
-    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
-    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
+  citata_rodoma: "Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII\ndelegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais\nginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą\nKonstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai\nJonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas\nį Lietuvą, pagal Jogailos ir Vytauto prašymą^31."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68240
+    - t-002
+
 - id: c-32140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -259,34 +212,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68241
+    - t-003
+
 - id: c-171614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
-    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
-    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
-    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
-    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
-    ri laikytina grynai stabmeldiška.
-    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
-    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
-    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
-    jais, sutvirtinimas, įstojimas į vienuolius. Todėl, šitaip žiūrint,
-    lietuvių tautybės asmenys, kad ir kokio būtų tikėjimo, priima­
-    mi kryžiuočių ar lenkų į katalikų bažnyčios bendrystę, nors
-    jau ir būtų buvę pirmiau pakrikštyti kito tikėjimo krikščionių
-    kunigų, galėjo pasikrikštyti patepant šventais aliejais arba su­
-    teikiant sutvirtinimo sakramentą ir gauti kitus vardus, nors iš
-    tikrųjų krikšto sakramentas nebūdavo pakartojamas.
-    Apie lietuvių herbus
-    Čia derėtų paminėti kai kuriuos senuosius lietuvių her­
-    bus, kurie susiję su mitologija5.
-    4 Baptismus Ruthenorum, cum Bulla Alexandri Papae, de non
-    rebaptisandis Ruthenis.
-  citata_rodoma: |
     Tenai nors tarėsi su Husu, sa­
     vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
     šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
@@ -308,13 +240,15 @@ media_all_json: |-
     jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
     ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
     čioje.
+  citata_rodoma: "Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­\nsirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik\natverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­\nmas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­\nnyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­\nmą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą\nkartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį\n398\n\n## Puslapis 398\n\npatarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;\njis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­\nka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­\nčioje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188725
+    - t-004
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

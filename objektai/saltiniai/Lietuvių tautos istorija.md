@@ -35,8 +35,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Teiginiai
 
 <a id="claim-t-88258"></a>
-- t-001
-  global_id: t-88258
+- t-002
   teiginys: "1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
     - c-84237
 
 <a id="claim-t-88259"></a>
-- t-002
-  global_id: t-88259
+- t-001
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 
 <a id="claim-t-88260"></a>
 - t-003
-  global_id: t-88260
   teiginys: "Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,16 +99,15 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
     metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
-  citata_rodoma: |
-    1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
-    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
+  citata_rodoma: "1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais \nmetais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88258
+    - t-002
+
 - id: c-84238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -128,7 +124,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88260
+    - t-003
+
 - id: c-84239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,4 +146,4 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88259
+    - t-001

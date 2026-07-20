@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Skitų žemdirbių ir klajoklių mainų ūkis
 
 ## Santrauka
@@ -50,22 +51,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-194875"></a>
-- t-002
-  global_id: t-194875
-  teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-177271
-
 <a id="claim-t-197571"></a>
-- t-003
-  global_id: t-197571
+- t-004
   teiginys: "Remiantis mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va dino Kiuvjė ir Bliumenbachas) palikuonys."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,16 +63,6 @@ Nenurodyta
   pagrindžia:
     - c-177271
 
-<a id="claim-t-193027"></a>
-- t-001
-  global_id: t-193027
-  teiginys: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Atsisakyta silpnai su note objektu susijusio budinų kilmės fragmento ir panaudota citatos dalis apie mainų ūkį. Nepridėta detalių už citatos ribų.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
@@ -106,11 +83,9 @@ Nenurodyta
     anuos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193027
+  statusas: verified
 ## Citatos
 
 - id: c-177271
@@ -132,5 +107,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194875
-    - t-197571
+    - t-004

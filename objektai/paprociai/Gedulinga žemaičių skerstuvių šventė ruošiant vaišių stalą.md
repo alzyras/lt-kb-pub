@@ -42,24 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194823"></a>
-- t-001
-  global_id: t-194823
-  teiginys: 'Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap rašo gedulingą žemaičių šventę, vadinamą skerstuvėmis (Skierstimes); lietuvių kalba tai reiškia meitėlio skerdimą; pa prastai tai vyksta ruošiant vaišių stalą ir dabar yra mūsų kai miečių įprastinės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177219
-
-## Citatos
-
-- id: c-177219
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap rašo gedulingą žemaičių šventę, vadinamą skerstuvėmis (Skierstimes); lietuvių kalba tai reiškia meitėlio skerdimą; pa prastai tai vyksta ruošiant vaišių stalą ir dabar yra mūsų kai miečių įprastinės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     384
 
@@ -77,10 +64,8 @@ Nenurodyta
     cum mortuis, farcimina nobiscum manducatums (Ateik kartu
     su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
     tomis apeigomis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194823
+  statusas: verified

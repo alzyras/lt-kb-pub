@@ -36,8 +36,8 @@ const markdown = `# Objektas
   redaktorius: Test Redaktorius
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Cituojamas sakinys.
-  citata_rodoma: Trumpesnė rodoma ištrauka.
+    Cituojamas sakinys. Papildomas originalaus šaltinio fragmentas.
+  citata_rodoma: Cituojamas sakinys.
 `
 
 function inspectLazyClaimPayloads(output: string): string {
@@ -117,7 +117,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
     assert.match(transformed, /Paskutinis atnaujinimas/)
     assert.match(transformed, /Originalus šaltinio fragmentas/)
-    assert.doesNotMatch(transformed, /Rodoma citatos ištrauka/)
+    assert.match(transformed, /Rodoma citatos ištrauka/)
     assert.match(transformed, /advanced-field-help/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)
@@ -208,6 +208,35 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /data-claim-evidence-summary="true"/)
     assert.match(transformed, /Pirma citata\./)
     assert.match(transformed, /Antra citata\./)
+  })
+
+  test("renders article evidence as a bibliographic index without the full quote", () => {
+    const plugin = AdvancedEvidence()
+    const articleMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Straipsnyje aprašomas konkretus istorinis faktas.
+  pagrindžia:
+    - c-001
+
+## Citatos
+- id: c-001
+  autorius: Tyrimo autorius
+  šaltinis: Tyrimo straipsnis (2016 m.)
+  puslapiai: p. 42 (PDF 58)
+  indeksas: Tyrimo autorius, Tyrimo straipsnis (2016 m.), p. 42 (PDF 58).
+  citatos_rezimas: indeksas
+`
+
+    const transformed = inspectLazyClaimPayloads(
+      plugin.textTransform?.({ allSlugs: [] } as any, articleMarkdown) ?? articleMarkdown,
+    )
+
+    assert.match(transformed, /Bibliografinis indeksas/)
+    assert.match(transformed, /Tyrimo autorius, Tyrimo straipsnis/)
+    assert.doesNotMatch(transformed, /Citata nerasta\./)
+    assert.doesNotMatch(transformed, /claim-citation-quote/)
   })
 
   test("uses Citatos section as the canonical citation store", () => {

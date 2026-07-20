@@ -31,9 +31,8 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 
 <a id="claim-t-189275"></a>
 - t-001
-  global_id: t-189275
   teiginys: "Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,7 +48,6 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172163
-    - c-001
 - susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
 - susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189844|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.
 - susijęs iš [[objektai/zodynas/Gabija Gabie.md#claim-t-189294|Gabija Gabie]]: Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.
@@ -68,25 +66,6 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 - susijęs iš [[objektai/zodynas/Ambervales.md#claim-t-189273|Ambervales]]: Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo apeigas su iškilmingomis aukomis.
 - susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189171|Plikasis kalnas Lyse góry]]: Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus.
 - susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Iš jų dažnai galima išgirsti: tas jau
-    biją winnam Likis („taip jam jau buvo lemta“)1 2.
-    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
-    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
-    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
-    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
-    viskam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189275
 ## Citatos
 
 - id: c-172163
@@ -94,16 +73,6 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
-    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
-    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
-    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
-    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
-    tingais mitais.
-    Viršaitis (Wirszajtos)
-    Šio dievo stabas buvo senojoje Romovės šventykloje, jis
-    buvo labai gerbiamas.
-  citata_rodoma: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.
     Graikai bei romėnai, kuriuos šiame veikale minėsime va­
@@ -111,10 +80,11 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam.
+  citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189275
+    - t-001

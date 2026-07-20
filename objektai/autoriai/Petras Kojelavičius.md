@@ -35,8 +35,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 ## Teiginiai
 
 <a id="claim-t-88013"></a>
-- t-001
-  global_id: t-88013
+- t-004
   teiginys: "Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83992
 
 <a id="claim-t-88014"></a>
-- t-002
-  global_id: t-88014
+- t-003
   teiginys: "Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83995
 
 <a id="claim-t-88015"></a>
-- t-003
-  global_id: t-88015
+- t-001
   teiginys: "Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,8 +86,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     - c-83994
 
 <a id="claim-t-88016"></a>
-- t-004
-  global_id: t-88016
+- t-002
   teiginys: "Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,26 +129,15 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     jos rektorius ir taip pat trečiasis nuo
     Vilniaus katedros įsteigimo Lietuvos
     vvskupas".
-  citata_rodoma: |
-    5
-    Kojelavičius ir Nar a movs-
-    k i s klysta tą vyskupą Mikalojų va­
-    dindami Borkovskiu, tai buvo Gož­
-    kovskis, lenkas. Soltykovičius
-    (O stanie Akademii Krakowskiej, p. 115)
-    rašo, kad „Mikalojus iš Gožkovo,
-    nuo Akademijos perkėlimo į Kroku­
-    vą Kazimiero laikais, buvo trečiasis
-    jos rektorius ir taip pat trečiasis nuo
-    Vilniaus katedros įsteigimo Lietuvos
-    vvskupas".
+  citata_rodoma: "5\nKojelavičius ir Nar a movs- \nk i s klysta tą vyskupą Mikalojų va­\ndindami Borkovskiu, tai buvo Gož­\nkovskis, lenkas. Soltykovičius \n(O stanie Akademii Krakowskiej, p. 115) \nrašo, kad „Mikalojus iš Gožkovo, \nnuo Akademijos perkėlimo į Kroku­\nvą Kazimiero laikais, buvo trečiasis \njos rektorius ir taip pat trečiasis nuo \nVilniaus katedros įsteigimo Lietuvos \nvvskupas\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88013
+    - t-004
+
 - id: c-83993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,7 +158,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88016
+    - t-002
+
 - id: c-83994
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -195,7 +181,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88015
+    - t-001
+
 - id: c-83995
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -208,17 +195,11 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
     1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­
     jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu
     išbūti.
-  citata_rodoma: |
-    Tą mūsų spėjimą patvirtina tai, jog vys­
-    kupo Motiejaus vardą dokumentuose randame tik nuo 1430
-    metų, vėliau: 1433, 1434 ir t. t.; antra, kad nuo 1417 m. iki
-    1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­
-    jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu
-    išbūti.
+  citata_rodoma: "Tą mūsų spėjimą patvirtina tai, jog vys­\nkupo Motiejaus vardą dokumentuose randame tik nuo 1430 \nmetų, vėliau: 1433, 1434 ir t. t.; antra, kad nuo 1417 m. iki \n1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­\njas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu \nišbūti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88014
+    - t-003

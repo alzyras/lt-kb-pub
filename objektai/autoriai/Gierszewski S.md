@@ -38,7 +38,6 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
 
 <a id="claim-t-91949"></a>
 - t-001
-  global_id: t-91949
   teiginys: "S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91949
+    - t-001

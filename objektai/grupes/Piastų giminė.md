@@ -31,7 +31,6 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
 
 <a id="claim-t-86816"></a>
 - t-001
-  global_id: t-86816
   teiginys: "XIII a. Piastų giminės karaliai prisidėjo prie vokiečių miestų teisių ir turtų perkėlimo Lenkijos miestams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86816
+    - t-001

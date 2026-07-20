@@ -34,7 +34,6 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
 
 <a id="claim-t-200790"></a>
 - t-001
-  global_id: t-200790
   teiginys: "Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar tęsėsi dvejus metus, bet didysis altorius nebuvo užbaigtas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
 
 <a id="claim-t-200791"></a>
 - t-002
-  global_id: t-200791
   teiginys: "Vorobjovas Šv. Petro ir Povilo bažnyčios skulptūrinę dekoraciją vadina svarbiausiąja šios bažnyčios įžymybe."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -69,7 +67,6 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
 
 <a id="claim-t-200792"></a>
 - t-003
-  global_id: t-200792
   teiginys: "Vorobjovas Šv. Petro ir Povilo bažnyčios lipdytinių skulptūrų šypseną apibūdina kaip žemišką, atvirą, saulėtą ir šiltą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -90,7 +87,6 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
 
 <a id="claim-t-200793"></a>
 - t-004
-  global_id: t-200793
   teiginys: "Vorobjovas Šv. Petro ir Povilo skulptūroms priskiria realaus vaizdo sąsają su abstrakčiomis architektūrinėmis ir ornamentinėmis formomis."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -136,7 +132,7 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200790
+    - t-001
 
 - id: c-184136
   autorius: "Mikalojus Vorobjovas"
@@ -154,7 +150,7 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200791
+    - t-002
 
 - id: c-184137
   autorius: "Mikalojus Vorobjovas"
@@ -175,7 +171,7 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200792
+    - t-003
 
 - id: c-184138
   autorius: "Mikalojus Vorobjovas"
@@ -196,4 +192,4 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200793
+    - t-004

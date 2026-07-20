@@ -54,27 +54,11 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-186869"></a>
-- t-001
-  global_id: t-186869
-  teiginys: 'Komentare nurodoma, kad 1428 m. kovo mėn. D. Naugardo delegacija Vilniuje ir Trakuose dovanojo Vytautui šilko rietimų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, kartoja metakalbą ir turi būti paverstas vienu konkrečiu sakiniu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1427 m.; įvykio data: 1428 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas, kartoja metakalbą ir turi būti paverstas vienu konkrečiu sakiniu.'
-  pagrindžia:
-    - c-170053
-
-## Citatos
-
-- id: c-170053
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Komentare nurodoma, kad 1428 m. kovo mėn. D. Naugardo delegacija Vilniuje ir Trakuose dovanojo Vytautui šilko rietimų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     —  Pagal J . Dlugošą 10 tūks­
     tančių buvo vienkartinė kontribucija, kurią iš pusės sudėjo D. Nau­
@@ -87,11 +71,8 @@ Nenurodyta
     pati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje
     ir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais
     sabalais, šilko rietimais ir kt. dovanomis.
-  citata_rodoma: "1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos \nDidžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­\nvanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas \nrytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­\nlenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta \npati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje \nir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais \nsabalais, šilko rietimais ir kt. dovanomis."
-  statusas: verified
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186869
+  statusas: verified

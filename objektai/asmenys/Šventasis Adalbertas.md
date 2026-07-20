@@ -31,9 +31,8 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
 
 <a id="claim-t-190225"></a>
 - t-001
-  global_id: t-190225
   teiginys: "Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,28 +49,7 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173108
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
-    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
-    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
-    kai, gyvenę bendruomenėje su tam tikromis teisėmis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190225
+
 ## Citatos
 
 - id: c-173108
@@ -79,20 +57,6 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių bar­
-    dai grojo styginiu instrumentu, vadintu Citera , kurio garsai
-    būdavo išgaunami sukant rankeną, panašią į veleną; kaip liu­
-    dija liaudies pasakojimai, dar esama senų žmonių, kurie yra
-    mate tokį instrumentą arba girdėję pasakojant apie jį. Padavi­
-    muose dar prisimenami lietuvių liaudies dainų dainuotojai,
-    vaikščioję po kaimus su tokiais instrumentais, panašūs į elge­
-    tas, tačiau, pasak tų pasakojimų, tai buvę seniai. Nykstant ir
-    išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
-    ko iki paprastų dainių lygio; jų klausydavosi pasilinksminimui
-    ir pramogai. O jų sugebėjimai ir išmonė, tamsių žmonių aki­
-    mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
-    garbą, pavertė juos kerėtojais.
-  citata_rodoma: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
     Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
@@ -102,10 +66,11 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
     knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
     ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
     kai, gyvenę bendruomenėje su tam tikromis teisėmis.
+  citata_rodoma: "Tie žyniai buvo išskirtinai dievo Atrimpo arba\nGardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo\nAdalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­\nja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­\ntėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­\nmeldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-\nknochas po ilgo nereikšmingo svarstymo šia tema pataiko į\nankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­\nkai, gyvenę bendruomenėje su tam tikromis teisėmis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190225
+    - t-001

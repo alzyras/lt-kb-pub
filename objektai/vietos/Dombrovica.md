@@ -30,7 +30,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 <a id="claim-t-02420"></a>
 - t-001
-  global_id: t-02420
   teiginys: "Brastos apygardoje mokyklų buvo ir Dombrovicoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
-  citata_rodoma: |
-    III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
-    Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
-    doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
+  citata_rodoma: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,\nDombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-\ndoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02420
+    - t-001

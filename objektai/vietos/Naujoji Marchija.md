@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-36435"></a>
 - t-001
-  global_id: t-36435
   teiginys: "Naujosios Marchijos šaltyšius pranešė, kad lenkų kariuomenė buvo išsirikiavusi per kelias mylias."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,13 +58,11 @@ media_all_json: |-
     kariuomenę ir saugojo visą Prūsą pasienį, kad kas į Lietuvą ne­
     įeitų. Kaip praneša Naujosios Marchijos šaltyšius, lenkų ten
     per kelias mylias buvę išsirikiavusių apie 40.000^3 ).
-  citata_rodoma: |
-    Kaip praneša Naujosios Marchijos šaltyšius, lenkų ten
-    per kelias mylias buvę išsirikiavusių apie 40.000^3 ).
+  citata_rodoma: "Kaip praneša Naujosios Marchijos šaltyšius, lenkų ten\nper kelias mylias buvę išsirikiavusių apie 40.000^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36435
+    - t-001

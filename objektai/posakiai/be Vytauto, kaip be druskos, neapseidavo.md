@@ -31,7 +31,6 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
 
 <a id="claim-t-35994"></a>
 - t-001
-  global_id: t-35994
   teiginys: "Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,11 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
     beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
     nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
     karo.
-  citata_rodoma: |
-    Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto,
-    kaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli,
-    beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
-    nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
-    karo.
+  citata_rodoma: "Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto,\nkaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli,\nbeveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­\nnymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo\nkaro."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35994
+    - t-001

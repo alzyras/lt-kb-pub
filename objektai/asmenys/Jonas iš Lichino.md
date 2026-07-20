@@ -31,7 +31,6 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
 
 <a id="claim-t-186215"></a>
 - t-001
-  global_id: t-186215
   teiginys: "Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo vykti į Lietuvą pas Žygimantą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -80,6 +79,7 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186215
+    - t-001
+
 ## Ryšiai
 - Jonas iš Lichino (vyskupas) keliavo į [[objektai/vietos/Lietuva]]

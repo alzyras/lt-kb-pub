@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07520"></a>
-- t-001
-  global_id: t-07520
+- t-004
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-00228
 
 <a id="claim-t-07521"></a>
-- t-002
-  global_id: t-07521
+- t-005
   teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -87,8 +85,7 @@ Nenurodyta
     - c-00229
 
 <a id="claim-t-188379"></a>
-- t-003
-  global_id: t-188379
+- t-001
   teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -124,20 +121,15 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: |
-    Be to, buvo renkamos se-
-    nienos ir seni istoriniai doku-
-    mentai, o D. Poška savo
-    Baubly įtaisė net senienų mu-
-    ziejų. Jis taip pat bandė rašyti
-    ir Lietuvos istoriją.
+  citata_rodoma: "Be to, buvo renkamos se-\nnienos ir seni istoriniai doku-\nmentai, o D. Poška savo\nBaubly įtaisė net senienų mu-\nziejų. Jis taip pat bandė rašyti\nir Lietuvos istoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07520
+    - t-004
+
 - id: c-00229
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -153,18 +145,15 @@ Nenurodyta
     nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
-  citata_rodoma: |
-    1812 m. Poška iš tuščiavidurio ąžuolo
-    padarė 3 trobeles, kuriose buvo įtaisyti
-    muziejėliai; Bijotuose, paliai Skaud-
-    vilę, jos dar tebestovi.
+  citata_rodoma: "1812 m. Poška iš tuščiavidurio ąžuolo\npadarė 3 trobeles, kuriose buvo įtaisyti\nmuziejėliai; Bijotuose, paliai Skaud-\nvilę, jos dar tebestovi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07521
+    - t-005
+
 - id: c-171273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -185,4 +174,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188379
+    - t-001

@@ -36,7 +36,6 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
 
 <a id="claim-t-191848"></a>
 - t-001
-  global_id: t-191848
   teiginys: "Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė ilgą legendą apie gegužės pavirtimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191848
+    - t-001

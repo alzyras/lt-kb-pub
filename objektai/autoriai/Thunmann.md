@@ -30,7 +30,6 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
 
 <a id="claim-t-190459"></a>
 - t-001
-  global_id: t-190459
   teiginys: "Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį su prūsų pasipriešinimu vokiečių užpuolikams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190459
+    - t-001

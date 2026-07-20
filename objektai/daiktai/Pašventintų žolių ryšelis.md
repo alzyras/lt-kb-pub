@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189737"></a>
 - t-001
-  global_id: t-189737
   teiginys: "Narbutas rašo, kad kaimo žmonės pašventintų žolių ryšelius naudojo namams saugoti, ligoms varyti ir nuo nelaimių bei baimių gintis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189737
+    - t-001

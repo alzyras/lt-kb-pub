@@ -32,7 +32,6 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
 
 <a id="claim-t-200990"></a>
 - t-001
-  global_id: t-200990
   teiginys: "Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus Baras ne vien tenai krikščionių gudų nespaudė, bet dar pačiudu per sikrikštijusiu bažnyčias krikščionims strūnijo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
 ## Citatos
 
 - id: c-184340
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi lietuviai nuo neatmenamų laikų,
     noris patys pagonys, vienok krikščionis gudus tau­
@@ -68,4 +68,4 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200990
+    - t-001

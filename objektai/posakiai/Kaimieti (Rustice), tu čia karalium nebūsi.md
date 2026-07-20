@@ -32,9 +32,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-09664"></a>
-- t-001
-  global_id: t-09664
+<a id="claim-t-09663"></a>
+- t-004
   teiginys: "Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
@@ -60,14 +59,11 @@ media_all_json: |-
     visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
 
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
-  citata_rodoma: |
-    visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
-
-    nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
+  citata_rodoma: "visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium\n\nnebūsi“ ir liepė pilies kieme nukirsti jam galvą.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09664
+    - t-004

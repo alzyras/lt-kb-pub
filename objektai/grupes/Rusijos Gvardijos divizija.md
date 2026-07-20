@@ -31,7 +31,6 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
 
 <a id="claim-t-80659"></a>
 - t-001
-  global_id: t-80659
   teiginys: "Sukilėliams delsiant pulti Vilnių, į miestą spėjo atvykti Rusijos Gvardijos divizija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80659
+    - t-001

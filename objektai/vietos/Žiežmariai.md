@@ -4,20 +4,22 @@ pavadinimas: 'Žiežmariai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1351 m.'
+  - '1516 m.'
   - '1919 m.'
   - '2026 m.'
 date_start: '1351'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,8 +42,7 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 ## Teiginiai
 
 <a id="claim-t-69972"></a>
-- t-001
-  global_id: t-69972
+- t-002
   teiginys: "1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +62,7 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     - c-44121
 
 <a id="claim-t-69973"></a>
-- t-002
-  global_id: t-69973
+- t-001
   teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -80,6 +80,18 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-69155
+
+<a id="claim-t-201684"></a>
+- t-003
+  teiginys: "Tik kelias į Vilnių nutįso atokiau nuo Neries per Žiežmarius ir Trakus."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185031
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117251|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.
@@ -112,23 +124,15 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     puolė „Lietuvių“ (Pskovo) divizijos 2-asis
 
     1919 m.
-  citata_rodoma: |
-    Gavusi iš savo žvalgų informaciją, jog
-    nuo Žiežmarių iki Alytaus nebuvo nei lie-
-    tuvių, nei vokiečių dalinių, bolševikų ka-
-    rinė vadovybė 1919 m. vasario pradžioje
-    ryžosi pradėti Kauno puolimą iš pietų
-    pusės. Beveik tuo pat metu, kai Kėdainius
-    puolė „Lietuvių“ (Pskovo) divizijos 2-asis
-
-    1919 m.
+  citata_rodoma: "Gavusi iš savo žvalgų informaciją, jog\nnuo Žiežmarių iki Alytaus nebuvo nei lie-\ntuvių, nei vokiečių dalinių, bolševikų ka-\nrinė vadovybė 1919 m. vasario pradžioje\nryžosi pradėti Kauno puolimą iš pietų\npusės. Beveik tuo pat metu, kai Kėdainius\npuolė „Lietuvių“ (Pskovo) divizijos 2-asis\n\n1919 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69972
+    - t-002
+
 - id: c-69155
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -147,4 +151,21 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69973
+    - t-001
+
+- id: c-185031
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Palei Nevėžį ir toliau į šiaurę, kirsdamas
+    lietuviškąsias žemes, jau turėjo eiti vėliau šaltinių paliudytas kelias į Rygą. Tik kelias
+    į Vilnių nutįso atokiau nuo Neries per Žiežmarius ir Trakus. Kauno, Vilniaus ir Tra-
+    kų pirklių bendravimą, šį kartą sausumos keliais, parodo 1516 m.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

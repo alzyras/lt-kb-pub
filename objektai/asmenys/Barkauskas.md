@@ -31,7 +31,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 
 <a id="claim-t-80708"></a>
 - t-001
-  global_id: t-80708
   teiginys: "Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80708
+    - t-001

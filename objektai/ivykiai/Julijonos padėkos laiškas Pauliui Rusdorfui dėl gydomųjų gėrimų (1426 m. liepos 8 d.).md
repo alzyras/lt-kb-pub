@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-194305"></a>
 - t-001
-  global_id: t-194305
   teiginys: "1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194305
+    - t-001

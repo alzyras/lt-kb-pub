@@ -53,10 +53,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187986"></a>
-- t-001
-  global_id: t-187986
+- t-004
   teiginys: "Narbutas su tokiu nelaimingu ženklu sieja iškilmingą Apidomės šaukimąsi, duonos auką ir namo perkėlimą į kitą vietą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::customs"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Duona: 0.85"
@@ -69,10 +68,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170998
-    - c-001
+
 <a id="claim-t-187987"></a>
-- t-002
-  global_id: t-187987
+- t-003
   teiginys: "Narbutas rašo, kad aklo arba ydingai gimusio naminio gyvulio atvejį lietuviai laikė nelaimingu ženklu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::customs"
@@ -87,7 +85,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170998
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -106,9 +104,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187986
-    - t-187987
+- t-187987
+
 ## Citatos
 
 - id: c-170998
@@ -116,27 +113,18 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
-    (Ligiczus) - taikinantis, vienodinantis. Per žiemos švenčių žai­
-    dimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę
-    pantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­
-    rikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­
-    mėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­
-    tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
-    siai - čia yra visa, ką gali mimo fantazija. Tačiau yra vaidinimų,
-    turinčių tam tikrą planą ir tikslą.
-  citata_rodoma: |
     Šiuo
     atveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys
     gimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­
     vo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­
     riam kaip auka su ypatingomis apeigomis būdavo kepama duo­
     na (Donas), po to namą perkeldavo į kitą vietą.
+  citata_rodoma: "Šiuo\natveju lietuviai nelaimingu ženklu laikė, jei naminis gyvulys\ngimdavo aklas arba su kokia baisia yda. Šitaip nutikus, būda­\nvo iškilmingai šaukiamasi dievaičio Apydėmės (Apidonu), ku­\nriam kaip auka su ypatingomis apeigomis būdavo kepama duo­\nna (Donas), po to namą perkeldavo į kitą vietą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187986
-    - t-187987
+    - t-004
+    - t-003

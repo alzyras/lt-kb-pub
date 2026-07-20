@@ -30,7 +30,6 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 
 <a id="claim-t-30977"></a>
 - t-001
-  global_id: t-30977
   teiginys: "XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,16 +61,11 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
     protarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje
     kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
     Klaipėdos apylinkę.
-  citata_rodoma: |
-    Iš XI-XII amž. danų šaltinių (Genealogia regum
-    Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
-    protarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje
-    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
-    Klaipėdos apylinkę.
+  citata_rodoma: "Iš XI-XII amž. danų šaltinių (Genealogia regum\nDanorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai\nprotarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje\nkuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir\nKlaipėdos apylinkę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30977
+    - t-001

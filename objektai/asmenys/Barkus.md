@@ -22,32 +22,13 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Barkus
 
 ## Santrauka
 
 APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus ', antras — Kūnas 2 , tre čias— Spera3 .
 
-## Teiginiai
-
-<a id="claim-t-193897"></a>
-- t-002
-  global_id: t-193897
-  teiginys: "APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus ', antras — Kūnas 2 , tre čias— Spera3 ."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176522
-
-- t-001
-  global_id: t-906367210
-  teiginys: 'APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus '', antras — Kūnas 2 , tre čias— Spera3 .'
-  pagrindžia:
-    - c-176522
 ## Citatos
 
 - id: c-176522
@@ -66,19 +47,9 @@ APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėta
     tyn, atrado labai gražią vietą; jam labai patiko toji
     vieta, jis ten įkurdino savo sūnų Kernių ir tam miestui
     davė Kerniaus vardą, pavadinęs Kernave l0.
-  citata_rodoma: |
-    O tasai kunigaikštis Kūnas turėjo du sūnus: vieną
-    Kernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių
-    žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries
-    upę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­
-    tyn, atrado labai gražią vietą; jam labai patiko toji
-    vieta, jis ten įkurdino savo sūnų Kernių ir tam miestui
-    davė Kerniaus vardą, pavadinęs Kernave l0.
+  citata_rodoma: "O tasai kunigaikštis Kūnas turėjo du sūnus: vieną \nKernių, o kitą Gimbutą8. Beviešpataudamas Žemaičių \nžemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries \nupę į Užnerio kraštą 9. Žengdamas nuo Šventosios aukš­\ntyn, atrado labai gražią vietą; jam labai patiko toji \nvieta, jis ten įkurdino savo sūnų Kernių ir tam miestui \ndavė Kerniaus vardą, pavadinęs Kernave l0."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193897
-    - t-001

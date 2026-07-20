@@ -47,8 +47,7 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
 ## Teiginiai
 
 <a id="claim-t-192216"></a>
-- t-001
-  global_id: t-192216
+- t-002
   teiginys: "Narbutas „Nadrau“ aiškina kaip lietuviškai-prūsišką žodį, turėjusį reikšti vidų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,8 +65,7 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
     - c-175071
 
 <a id="claim-t-192565"></a>
-- t-002
-  global_id: t-192565
+- t-003
   teiginys: "Narbutas Nadruvos pavadinimą kildina iš žodžio „Nadrau“, lietuviškai-prūsiškai turėjusio reikšti vidų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,14 +96,12 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
     kitų, vietovardis atėjo iš taip senovės prūsų kalba vadin­
     tos nadruvių genties; tai turėjo reikšti „renku miško me-
     1 Hartknoch.
-  citata_rodoma: |
-    Sis pavadinimas kilęs iš žodžio
-    Nadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4.
+  citata_rodoma: "Sis pavadinimas kilęs iš žodžio\nNadrau, lietuviškai-prūsiškai turėjusio reikšti vidų4."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192216
-    - t-192565
+    - t-002
+    - t-003

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-39901"></a>
 - t-001
-  global_id: t-39901
   teiginys: "Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ media_all_json: |-
 
 <a id="claim-t-193750"></a>
 - t-002
-  global_id: t-193750
   teiginys: "5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39901
+    - t-001
+
 - id: c-176410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,4 +100,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193750
+    - t-002

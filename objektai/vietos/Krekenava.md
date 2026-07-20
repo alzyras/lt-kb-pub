@@ -31,7 +31,6 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
 
 <a id="claim-t-41800"></a>
 - t-001
-  global_id: t-41800
   teiginys: "Gegužės 13 d. Panevėžio rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,16 +65,11 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
     tinės vadui vokiečių priskirtoms pajėgoms
     remiant žygiuoti Panevėžio link ir atakuoti
     bolševikų pajėgas.
-  citata_rodoma: |
-    Rinktinės pajėgos gegužės 13 d.
-    susitelkė Krekenavos-Ramygalos rajo-
-    nuose. Vyriausiasis kariuomenės vadas
-
-    gen.
+  citata_rodoma: "Rinktinės pajėgos gegužės 13 d.\nsusitelkė Krekenavos-Ramygalos rajo-\nnuose. Vyriausiasis kariuomenės vadas\n\ngen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41800
+    - t-001

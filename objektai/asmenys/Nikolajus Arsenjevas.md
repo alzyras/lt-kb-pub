@@ -30,8 +30,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 ## Teiginiai
 
 <a id="claim-t-40372"></a>
-- t-001
-  global_id: t-40372
+- t-002
   teiginys: "Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     - c-42170
 
 <a id="claim-t-40373"></a>
-- t-002
-  global_id: t-40373
+- t-001
   teiginys: "Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40372
+    - t-002
+
 - id: c-44478
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -104,18 +103,11 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
     Rusijos kariuomenės korpusui,
     puolusiam Vilnių, vadovavo generolas
     leitenantas Bogdanas Knorringas.
-  citata_rodoma: |
-    Sukilėliams puolant
-    miestą, Vilniaus įgulai tiesiogiai va-
-    dovavo generolas majoras Nikolajus
-    Arsenjevas.
-    Rusijos kariuomenės korpusui,
-    puolusiam Vilnių, vadovavo generolas
-    leitenantas Bogdanas Knorringas.
+  citata_rodoma: "Sukilėliams puolant\nmiestą, Vilniaus įgulai tiesiogiai va-\ndovavo generolas majoras Nikolajus\nArsenjevas.\nRusijos kariuomenės korpusui,\npuolusiam Vilnių, vadovavo generolas\nleitenantas Bogdanas Knorringas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40373
+    - t-001

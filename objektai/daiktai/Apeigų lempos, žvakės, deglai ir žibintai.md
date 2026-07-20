@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-189675"></a>
 - t-001
-  global_id: t-189675
   teiginys: "Narbutas aiškina, kad ugniai buvo priskiriama galia suteikti šventumo savybę ir apvalyti nuodėmes, todėl laikytos degančios lempos ir židiniai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-194610"></a>
 - t-002
-  global_id: t-194610
   teiginys: "Vi sose senovės iškilmingose apeigose - ar tai dėl to, kad lieps nojanti ugnis teikia šventyklai puošnumo, ar tai dėl to, kad apeigos dažniausiai būdavo atliekamos naktį, - imta naudoti degančias lempas, žvakes, deglus, žibintus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189675
+    - t-001
+
 - id: c-177009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -122,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194610
+    - t-002

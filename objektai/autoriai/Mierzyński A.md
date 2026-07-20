@@ -39,7 +39,6 @@ Dusburgietis teigia, kad mierzyński A.
 
 <a id="claim-t-60756"></a>
 - t-001
-  global_id: t-60756
   teiginys: "Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad mierzyński A.
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus, veikalo, vietos ir metų faktą."
   pagrindžia:
     - c-61388
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius.'
@@ -68,8 +67,7 @@ Dusburgietis teigia, kad mierzyński A.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60756
+
 ## Citatos
 
 - id: c-61388
@@ -79,12 +77,11 @@ Dusburgietis teigia, kad mierzyński A.
   citata_originali: |
     7, p. 102— 106.
     Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
-  citata_rodoma: |
-    Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.
+  citata_rodoma: "Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60756
+    - t-001

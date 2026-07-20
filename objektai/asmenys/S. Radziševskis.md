@@ -31,7 +31,6 @@ Radziševskio.
 
 <a id="claim-t-39806"></a>
 - t-001
-  global_id: t-39806
   teiginys: "Plk. S. Radziševskis vadovavo 2-ajam lietuvių pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Radziševskio.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39806
+    - t-001

@@ -38,7 +38,6 @@ Dėl to atgaivinta Seimo institucija.
 
 <a id="claim-t-19711"></a>
 - t-001
-  global_id: t-19711
   teiginys: "IV Seimo kandidatus galėjo kelti tautininkų kontroliuojamos savivaldybės, bet ne visuomeninės organizacijos ar piliečių grupės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Dėl to atgaivinta Seimo institucija.
 
 <a id="claim-t-183133"></a>
 - t-002
-  global_id: t-183133
   teiginys: "1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,15 +93,15 @@ Dėl to atgaivinta Seimo institucija.
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: |
-    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+  citata_rodoma: "kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19711
+    - t-001
+
 - id: c-166518
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -123,4 +121,4 @@ Dėl to atgaivinta Seimo institucija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183133
+    - t-002

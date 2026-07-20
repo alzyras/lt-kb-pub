@@ -47,8 +47,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Teiginiai
 
 <a id="claim-t-12236"></a>
-- t-001
-  global_id: t-12236
+- t-007
   teiginys: "Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-13905
 
 <a id="claim-t-64513"></a>
-- t-002
-  global_id: t-64513
+- t-006
   teiginys: "A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -81,10 +79,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-65242
 
 <a id="claim-t-64514"></a>
-- t-003
-  global_id: t-64514
+- t-005
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
-  atnaujinta: "2026-06-13 17:38"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1955 m."
@@ -92,11 +89,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   temporalinis_llm_pakomentavimas: "Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui."
   vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
   pagrindžia:
-    - c-03971
+    - c-03970
 
 <a id="claim-t-64515"></a>
-- t-004
-  global_id: t-64515
+- t-003
   teiginys: "A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-03969
 
 <a id="claim-t-64517"></a>
-- t-005
-  global_id: t-64517
+- t-004
   teiginys: "A. Salys parašė Baltic Languages."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -122,8 +117,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-03970
 
 <a id="claim-t-64518"></a>
-- t-006
-  global_id: t-64518
+- t-002
   teiginys: "A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -156,17 +150,15 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
     des žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ
     t. 6).
-  citata_rodoma: |
-    SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
-    des žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ
-    t. 6).
+  citata_rodoma: "SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte\ndes žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ\nt. 6)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64518
+    - t-002
+
 - id: c-03969
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -180,18 +172,15 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
-  citata_rodoma: |
-    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
-    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
-    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
-    Salys).
+  citata_rodoma: "slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų\nbendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra\nišriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.\nSalys)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64515
+    - t-003
+
 - id: c-03970
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,16 +190,16 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     Funde_ , Stockholm 1958. — Raulinaitis, Z. : _Apuolės užpuolimas_ , atsp.
     iš Kario 1968-71, Brooklyn, N. Y. 1972. —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955.
-  citata_rodoma: |
-    Salys, A. : _Baltic Languages,_
-    Encyclopedia Britannica, t. 3, 1955.
+  citata_rodoma: "Salys, A. : _Baltic Languages,_\nEncyclopedia Britannica, t. 3, 1955."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64517
+    - t-005
+    - t-004
+
 - id: c-03971
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -221,17 +210,13 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
     (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
-  citata_rodoma: |
-    —
-    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
-    Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
+  citata_rodoma: "—\n(”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_\nZeitschr. für vergleichende Sprachforschung, t. 70, 1954."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-64514
 - id: c-13905
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -248,7 +233,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12236
+    - t-007
+
 - id: c-65242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -267,13 +253,11 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     (^22) **Lites, II, 139 ; III, 41, 43 p.**
     (^23) **Lites, II, 140 p.**
     (^24) **Lites, II, 304 p.**
-  citata_rodoma: |
-    SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**
-    **I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p.
+  citata_rodoma: "SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**\n**I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64513
+    - t-006

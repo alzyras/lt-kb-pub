@@ -35,8 +35,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 ## Teiginiai
 
 <a id="claim-t-88165"></a>
-- t-001
-  global_id: t-88165
+- t-004
   teiginys: "Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - c-84145
 
 <a id="claim-t-88167"></a>
-- t-002
-  global_id: t-88167
+- t-001
   teiginys: "Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - c-84144
 
 <a id="claim-t-88168"></a>
-- t-003
-  global_id: t-88168
+- t-002
   teiginys: "Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88167
+    - t-001
+
 - id: c-84145
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -169,22 +167,15 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - 7) Vilniaus vyskupo ir kardinolo ku­
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
-  citata_rodoma: |
-    447
-    5) Parašai ant privilegijos, išduotos
-    Bekešui dėl Alantos dvaro - Step­
-    hanus Rex - ]an Hlebowicz na Dub-
-    rownie Kaszt. Mienskij Podskarbij
-    Ziemskij i Pisar / p. 448
-    6) Stepono Batoro parašas iš laiško,
-    rašyto 1576 m.
+  citata_rodoma: "447\n5) Parašai ant privilegijos, išduotos \nBekešui dėl Alantos dvaro - Step­\nhanus Rex - ]an Hlebowicz na Dub- \nrownie Kaszt. Mienskij Podskarbij \nZiemskij i Pisar / p. 448\n6) Stepono Batoro parašas iš laiško, \nrašyto 1576 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88165
+    - t-004
+
 - id: c-84146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,4 +195,4 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88168
+    - t-002

@@ -41,7 +41,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 
 <a id="claim-t-79152"></a>
 - t-001
-  global_id: t-79152
   teiginys: "Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-42196
 
 <a id="claim-t-79153"></a>
-- t-002
-  global_id: t-79153
+- t-004
   teiginys: "Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-76233
 
 <a id="claim-t-79154"></a>
-- t-003
-  global_id: t-79154
+- t-002
   teiginys: "Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,8 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79152
+    - t-001
+
 - id: c-42197
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -133,42 +131,32 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     buvo iš Lietuvos išstumta. 1667 m. sausio 30 d. netoli Smolensko pa-
     sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
     Smolenskas, Černigovas, Severų Naugardas, Kijevas.
-  citata_rodoma: |
-    Lietuvos didžiojo etmono Povilo Sapiegos
-    vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661
-    m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė
-    buvo iš Lietuvos išstumta. 1667 m.
+  citata_rodoma: "Lietuvos didžiojo etmono Povilo Sapiegos\nvadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661\nm. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė\nbuvo iš Lietuvos išstumta. 1667 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79154
+    - t-002
+
 - id: c-76233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    kilo Žemaičių sukilimas, padaręs
+    Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
     kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
     vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
     vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
-  citata_rodoma: |
-    kilo Žemaičių sukilimas, padaręs
-    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
-    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
-    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
-    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
-    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
-    kariuomenės.
+  citata_rodoma: "kilo Žemaičių sukilimas, padaręs\nšvedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat\nkovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-\nvusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,\nvadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,\nKristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos\nkariuomenės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79153
+    - t-004

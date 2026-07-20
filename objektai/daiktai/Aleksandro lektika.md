@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54484"></a>
 - t-001
-  global_id: t-54484
   teiginys: "Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui."
   atnaujinta: "2026-05-27 03:40"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -89,18 +88,11 @@ Nenurodyta
     nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
-  citata_rodoma: |
-    Kilo didelis pavojus karaliaus
-    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
-    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
-    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
-    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
-    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
-    Laskis.
+  citata_rodoma: "Kilo didelis pavojus karaliaus \nsaugumui, tad Aleksandras, ponų patarimu, kariuomenei \nvadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­\nkiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­\nnių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus \nTaboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas \nLaskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54484
+    - t-001

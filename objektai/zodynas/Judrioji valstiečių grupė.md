@@ -31,7 +31,6 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
 
 <a id="claim-t-32751"></a>
 - t-001
-  global_id: t-32751
   teiginys: "Judrioji valstiečių grupė buvo gausi anksčiau laisvų ūkininkų grupė, turėjusi teisę išsikelti kito pono priklausomybėn."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,16 +52,11 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
     klausomybėn ; jie anksčiau buvo buvę laisvi ūkininkai.
     Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
     triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-  citata_rodoma: |
-    Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji »
-    (« pochožije »), kuriems buvo palikta teisė išsikelti kito pono pri-
-    klausomybėn ; jie anksčiau buvo buvę laisvi ūkininkai.
-    Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
-    triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
+  citata_rodoma: "Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji »\n(« pochožije »), kuriems buvo palikta teisė išsikelti kito pono pri-\nklausomybėn ; jie anksčiau buvo buvę laisvi ūkininkai.\nGyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais\ntriobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32751
+    - t-001

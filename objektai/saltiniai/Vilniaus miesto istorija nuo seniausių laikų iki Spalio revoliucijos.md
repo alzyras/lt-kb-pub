@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88348"></a>
-- t-001
-  global_id: t-88348
+- t-002
   teiginys: "„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ media_all_json: |-
     - c-84327
 
 <a id="claim-t-88349"></a>
-- t-002
-  global_id: t-88349
+- t-001
   teiginys: "1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,16 +82,15 @@ media_all_json: |-
     V., 1999, p. 1.
     8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V.,
     1968, p. 9.
-  citata_rodoma: |
-    8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V.,
-    1968, p. 9.
+  citata_rodoma: "8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos. V., \n1968, p. 9."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88348
+    - t-002
+
 - id: c-84328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -107,17 +104,11 @@ media_all_json: |-
     dą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­
     tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
     tradiciją"8.
-  citata_rodoma: |
-    1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo
-    J. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­
-    eitį: „Jų darbai sudaro senosios Vilniaus istoriografijos pagrin­
-    dą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­
-    tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
-    tradiciją"8.
+  citata_rodoma: "1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo \nJ. I. Kraševskio ir M. Balinskio nuopelnus tiriant Vilniaus pra­\neitį: „Jų darbai sudaro senosios Vilniaus istoriografijos pagrin­\ndą. Abu jie rašė lenkų kalba, būdami feodalinės Lietuvos vals­\ntybės patriotai ir tęsdami renesanso epochoje susiklosčiusią \ntradiciją\"8."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88349
+    - t-001

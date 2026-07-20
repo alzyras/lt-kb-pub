@@ -50,7 +50,6 @@ media_all_json: |-
 
 <a id="claim-t-195281"></a>
 - t-001
-  global_id: t-195281
   teiginys: "Šulskis pats pasakoja, kaip iš berno gavo gyvenimą ir pastojo ūkininku."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -61,7 +60,6 @@ media_all_json: |-
 
 <a id="claim-t-195282"></a>
 - t-002
-  global_id: t-195282
   teiginys: "Šulskiukas minimas kaip turintis pinigų ir javų bei galintis užmokėti pono nuomą."
   atnaujinta: "2026-07-12 01:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -82,15 +80,15 @@ media_all_json: |-
     Jis turi pinigų ir javų.
     Tegul užmoka ponui nuomą už jūsų dubą ir
     tegul pusę dubos valdo.“ Taip ir padarė.
-  citata_rodoma: |
-    Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“
+  citata_rodoma: "Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“"
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195282
+    - t-002
+
 - id: c-177647
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -109,12 +107,11 @@ media_all_json: |-
     Štai senas Šulskis pasakoja,
     kaip jis buvęs bernu,
     gavo gyvenimą ir pastojo ūkininku.
-  citata_rodoma: |
-    Štai senas Šulskis pasakoja, kaip jis buvęs bernu, gavo gyvenimą ir pastojo ūkininku.
+  citata_rodoma: "Štai senas Šulskis pasakoja, kaip jis buvęs bernu, gavo gyvenimą ir pastojo ūkininku."
   statusas: verified
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195281
+    - t-001

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-54696"></a>
 - t-001
-  global_id: t-54696
   teiginys: "Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::events"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-54697"></a>
 - t-002
-  global_id: t-54697
   teiginys: "Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui."
   atnaujinta: "2026-05-27 06:05"
   sprendimo_priezastis: "gap::events"
@@ -111,21 +109,15 @@ Nenurodyta
     sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
     niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
     vališkos valdžios perlenkimais.
-  citata_rodoma: |
-    Prisižiū­
-    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
-    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
-    tos privilegijos padariniai sumenko per išlygą, jog nepai­
-    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
-    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
-    vališkos valdžios perlenkimais.
+  citata_rodoma: "Prisižiū­\nrėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­\nlioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs \ntos privilegijos padariniai sumenko per išlygą, jog nepai­\nsant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­\nniūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­\nvališkos valdžios perlenkimais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54697
+    - t-002
+
 - id: c-55661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -140,19 +132,11 @@ Nenurodyta
     mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
     rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
-  citata_rodoma: |
-    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
-    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15.
+  citata_rodoma: "Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­\nmesį į savo senosios sostinės padėtį. Atmindamas Vilniaus \ngyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų \nsu Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo \nvaldžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­\nmynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu, \nrašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­\ntės, valdovas Vilniui suteikė Magdeburgo teises15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54696
+    - t-001

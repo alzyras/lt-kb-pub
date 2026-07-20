@@ -38,7 +38,6 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
 
 <a id="claim-t-78152"></a>
 - t-001
-  global_id: t-78152
   teiginys: "1926 m. rugsėjo 28 d. Lietuvos ir SSRS nepuolimo sutartyje SSRS patvirtino, kad išlieka visos 1920 m. taikos sutarties sąlygos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
     1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
     su SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
     lygos.
-  citata_rodoma: |
-    Likę vieniši lietuviai
-    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
-    su SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
-    lygos.
+  citata_rodoma: "Likę vieniši lietuviai \n1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį \nsu SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-\nlygos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78152
+    - t-001

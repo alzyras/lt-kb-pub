@@ -63,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-13464"></a>
 - t-001
-  global_id: t-13464
   teiginys: "Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-13465"></a>
 - t-002
-  global_id: t-13465
   teiginys: "Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -118,5 +116,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13464
-    - t-13465
+    - t-001
+    - t-002

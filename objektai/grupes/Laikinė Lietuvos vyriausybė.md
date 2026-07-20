@@ -31,7 +31,6 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 
 <a id="claim-t-01362"></a>
 - t-001
-  global_id: t-01362
   teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,15 +59,11 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
     kinę savo valdžią.
     Laikinės Lietuvos vyriausybės priešaky
     atsistojo grafas Soltanas.
-  citata_rodoma: |
-    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
-    kinę savo valdžią.
-    Laikinės Lietuvos vyriausybės priešaky
-    atsistojo grafas Soltanas.
+  citata_rodoma: "Tačiau jis leido Lietuvos bajorijai sudaryti lai-\nkinę savo valdžią.\nLaikinės Lietuvos vyriausybės priešaky\natsistojo grafas Soltanas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01362
+    - t-001

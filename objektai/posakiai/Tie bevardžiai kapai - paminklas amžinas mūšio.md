@@ -31,7 +31,6 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
 
 <a id="claim-t-41467"></a>
 - t-001
-  global_id: t-41467
   teiginys: "Posakyje „Tie bevardžiai kapai - paminklas amžinas mūšio“ bevardžiai kapai vaizduojami kaip amžinas mūšio paminklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,16 +63,11 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
     Kritusius mūšy karius laukuose liepia palaidot,
 
     Tie bevardžiai kapai - paminklas amžinas mūšio.
-  citata_rodoma: |
-    fevaf 143
-
-    Kritusius mūšy karius laukuose liepia palaidot,
-
-    Tie bevardžiai kapai - paminklas amžinas mūšio.
+  citata_rodoma: "fevaf 143\n\nKritusius mūšy karius laukuose liepia palaidot,\n\nTie bevardžiai kapai - paminklas amžinas mūšio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41467
+    - t-001

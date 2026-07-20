@@ -31,7 +31,6 @@ Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir 
 
 <a id="claim-t-192979"></a>
 - t-001
-  global_id: t-192979
   teiginys: "Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192979
+    - t-001

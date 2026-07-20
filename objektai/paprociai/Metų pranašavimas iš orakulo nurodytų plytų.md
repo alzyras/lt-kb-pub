@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-189847"></a>
 - t-001
-  global_id: t-189847
   teiginys: "Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,7 +76,6 @@ Nenurodyta
 
 <a id="claim-t-189848"></a>
 - t-002
-  global_id: t-189848
   teiginys: "Narbutas rašo, kad dauguma orakulo plytų dar buvo matoma pietinėje Katedros varpinės pusėje po jos perstatymo po 1399 m. gaisro."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -121,7 +119,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189847
+    - t-001
+
 - id: c-172731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,4 +141,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189848
+    - t-002

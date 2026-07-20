@@ -4,19 +4,21 @@ pavadinimas: 'Šeduva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
+  - '1654 m.'
   - '1936 m.'
   - '2026 m.'
-date_start: '1936'
+date_start: '1654'
 date_end: '2026'
+amziai:
+  - 'XVII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - miestelis
-amziai:
-  - 'XX'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,8 +41,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Teiginiai
 
 <a id="claim-t-69878"></a>
-- t-001
-  global_id: t-69878
+- t-003
   teiginys: "Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +58,6 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 <a id="claim-t-69879"></a>
 - t-002
-  global_id: t-69879
   teiginys: "Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,6 +71,18 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44069
+
+<a id="claim-t-201682"></a>
+- t-004
+  teiginys: "Kai 1654 m. Jonas Kazimieras suteikė savivaldą Šeduvai, jaunam miestui vėl kaip pavyzdys buvo nurodomas Kaunas ir jo vi1kieras."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185029
 
 ## Citatos
 
@@ -91,23 +103,15 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     Bolševikų pajėgas sudarė 14-asis
     ir 15-asis šaulių pėstininkų pulkai ir
     6-asis latvių komunistų pulkas.
-  citata_rodoma: |
-    Stapulionio
-    vadovaujamas Joniškėlio partizanų ba-
-    talionas, Šeduvos-Panevėžio
-    geležinkelio liniją dengė vo-
-    kiečių saksų batalionas.
-
-    Bolševikų pajėgas sudarė 14-asis
-    ir 15-asis šaulių pėstininkų pulkai ir
-    6-asis latvių komunistų pulkas.
+  citata_rodoma: "Stapulionio\nvadovaujamas Joniškėlio partizanų ba-\ntalionas, Šeduvos-Panevėžio\ngeležinkelio liniją dengė vo-\nkiečių saksų batalionas.\n\nBolševikų pajėgas sudarė 14-asis\nir 15-asis šaulių pėstininkų pulkai ir\n6-asis latvių komunistų pulkas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69879
+    - t-002
+
 - id: c-69089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,14 +124,28 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: |
-    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69878
+    - t-003
+
+- id: c-185029
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Bet štai toliau
+    po Lietuvą šis miestiečių savivaldos galias stiprinantis vi1kieras plito jau kaip Kauno
+    vi1kieras. Kai 1654 m. Jonas Kazimieras suteikė savivaldą Šeduvai, jaunam miestui vėl
+    kaip pavyzdys buvo nurodomas Kaunas ir jo vi1kieras.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

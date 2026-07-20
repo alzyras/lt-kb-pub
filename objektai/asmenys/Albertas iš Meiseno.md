@@ -31,8 +31,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 ## Teiginiai
 
 <a id="claim-t-89608"></a>
-- t-001
-  global_id: t-89608
+- t-004
   teiginys: "Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-85549
 
 <a id="claim-t-89609"></a>
-- t-002
-  global_id: t-89609
+- t-009
   teiginys: "Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-85549
 
 <a id="claim-t-89610"></a>
-- t-003
-  global_id: t-89610
+- t-008
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,28 +78,10 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   pagrindžia:
     - c-85549
 
-<a id="claim-t-89611"></a>
-- t-004
-  global_id: t-89611
-  teiginys: "Dusburgietis pasakoja, kad kasdienė malda Albertui padėjo nugalėti pagundas."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Deglas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas iš Meiseno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Deglas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas iš Meiseno\" parinktas kaip owner_note_path. Targetas \"Deglas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-56140
-    - c-002
 <a id="claim-t-89612"></a>
-- t-005
-  global_id: t-89612
+- t-001
   teiginys: "Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,12 +93,11 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56139
-    - c-001
+
 <a id="claim-t-89613"></a>
-- t-006
-  global_id: t-89613
+- t-005
   teiginys: "Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,13 +108,13 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas iš Meiseno\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-56139
     - c-85553
-    - c-006
+
 <a id="claim-t-89614"></a>
-- t-007
-  global_id: t-89614
+- t-006
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:01"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -147,13 +125,13 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas iš Meiseno\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-56140
     - c-85550
-    - c-004
+
 <a id="claim-t-89615"></a>
-- t-008
-  global_id: t-89615
+- t-007
   teiginys: "Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -166,12 +144,11 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-85552
-    - c-005
+
 <a id="claim-t-184655"></a>
-- t-009
-  global_id: t-184655
+- t-010
   teiginys: "Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -187,37 +164,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   semantiniai_rysiai: "Albertas iš Meiseno rėmė Pelužis (0.78)"
   pagrindžia:
     - c-168016
-    - c-007
+
 ## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
-    Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
-    budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
-    pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89612
-- c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
-    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
-    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
-    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
-    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89611
 - c-004
   santrauka: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -233,8 +181,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89614
 - c-005
   santrauka: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -249,41 +195,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89615
-- c-006
-  santrauka: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
-    pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
-    Apie jį galima prirašyti nuostabių dalykų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-89613
-- c-007
-  santrauka: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tegu su kariais netikėtai pasirodąs, iš pa­
-    čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
-    sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
-    nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,
-    kuris parėmė sumanymą. Žygis nereikalavo didelės ka­
-    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
-    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
-    čių vado planais karių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184655
+
 ## Citatos
 
 - id: c-56139
@@ -291,57 +203,39 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
-    Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
-    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
-    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
-    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
-    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
-    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
-    dievui.
-  citata_rodoma: |
     Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
     Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
     budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
     pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
+  citata_rodoma: "Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.\nJie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis\nbudėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios\npilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89612
+    - t-001
+    - t-005
+
 - id: c-56140
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Ragainės ir Skalvių pilių pastatymą
-    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
-    jo gyvenimą
-    Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
-    Karaliaučiaus brolių komtūru.
-  citata_rodoma: |
     trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
     einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
     nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
+  citata_rodoma: "trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.\nVokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89611
+    - t-006
+
 - id: c-85549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -363,28 +257,15 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89608
-    - t-89609
-    - t-89610
+    - t-004
+    - t-009
+    - t-008
+
 - id: c-85550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Ragainės ir Skalvių pilių pastatymą
-    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
-    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
-    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
-    jo gyvenimą
-    Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
-    Karaliaučiaus brolių komtūru.
-  citata_rodoma: |
     Kurį
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
     nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
@@ -393,29 +274,20 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 
 
                             231 (225).
+  citata_rodoma: "Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.\n\n\n\n\n                        231 (225)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89614
+    - t-006
+
 - id: c-85552
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
-    jo gyvenimą
-    Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
-    Karaliaučiaus brolių komtūru. Stebėtinų dalykų pasakojama apie šio vyro gyvenimą ir
-    apie jo ypatingą dorovingumą. Kai, viešpaties įkvėptas, nutarė duoti vienuolio įžadus,
-    jis apmąstė šiuos du, būtent: neturto ir klusnumo, kurių turi laikytis vienuoliai, nes jie
-    privalomi ir vienuolyne, ir už jo sienų, be to, tretįjį, būtent skaistybės, patį sunkiausiąjį,
-    o tada pasiryžo save išbandyti, ar esąs pakankamai pasirengęs jos laikytis, nes niekas
-    negali būti skaistus, jeigu dievas neduoda tos malonės, ir nutarė imtis štai šio nepaprasto
-    ir kupino pavojų išbandymo.
-  citata_rodoma: |
     Tą pačią naktį jis buvo viešpaties
     išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
 
@@ -423,56 +295,37 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 
 
                             232 (225).
+  citata_rodoma: "Tą pačią naktį jis buvo viešpaties\nišgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.\n\n\n\n\n                        232 (225)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89615
+    - t-007
+
 - id: c-85553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie kito brolio gyvenimą toje pačioje pilyje
-    Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
-    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
-    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
-    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
-    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
-    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
-    dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
-    susigėdęs atstojo ir nebedrįso daugiau rodytis.
-  citata_rodoma: |
     Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
     pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
     Apie jį galima prirašyti nuostabių dalykų.
+  citata_rodoma: "Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios\npilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.\nApie jį galima prirašyti nuostabių dalykų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89613
+    - t-005
+
 - id: c-168016
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Žygis nereikalavo didelės ka­
-    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
-    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
-    čių vado planais karių. Mat paprasti kareiviai apskri­
-    tai neturėjo žinoti, ko imamasi, nenorėta, kad kalbos
-    apie žygį pasklistų tarp Pelužio palydovų, kad kartais
-    jų neišgirstų žmogus, kuris susimanytų ar iš gailesčio,
-    ar iš baimės įspėti savo krašto žmones apie rengiamas
-    skerdynes. Be to, reikėjo karius taip vesti, kad tik ta­
-    da lietuviai pajustų, jog priešas perėjo sieną, kai žy­
-    gis bus baigtas: didžiausią rūpestį kėlė ne tiek lietuvių
-    kariuomenė, kiek jų budrumas.
-  citata_rodoma: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
     čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
     sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
@@ -481,10 +334,11 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
     lengvai ginkluotų, bet drąsių, ne per daug besidomin­
     čių vado planais karių.
+  citata_rodoma: "Tegu su kariais netikėtai pasirodąs, iš pa­\nčių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-\nsią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­\nnešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,\nkuris parėmė sumanymą. Žygis nereikalavo didelės ka­\nriuomenės, būtų užtekę negausaus, bet ryžtingo būrio,\nlengvai ginkluotų, bet drąsių, ne per daug besidomin­\nčių vado planais karių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184655
+    - t-010

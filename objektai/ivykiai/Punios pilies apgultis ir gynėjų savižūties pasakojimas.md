@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185825"></a>
 - t-001
-  global_id: t-185825
   teiginys: "Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169186
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį.'
@@ -87,8 +86,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185825
+
 ## Citatos
 
 - id: c-169186
@@ -114,27 +112,11 @@ Nenurodyta
     pančiuosius. Kai daugybė pi­
     lėnų žuvo, o dar daugiau buvo sužeista, kai, sumažėjus
     gynėjų skaičiui, ėmė blėsti viltis apginti pilį, ypač dėl
-  citata_rodoma: |
-    Brandenburgo markgra­
-    fas su Namiuro ir Henenbergo grafais bei kryžiuočių
-    riteriais, sutelkę didžiules jėgas, nusiaubė viską, kas
-    pakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­
-    kant, Punios pilį. Joje buvo keturi tūkstančiai karių,
-    subėgusių ten vos išgirdus apie priešą su savo šeimy­
-    nomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­
-    šą, kaudamiesi ne tik prie
-    K ry žiu o č ia i
-    a p su p a
-    gynybinio pylimo, bet sėk-
-    P u n ios p ilį L ìetu vo -
-    mingai išsiverždami pro at-
-    je
-    virus vartus ir užpuldami su­
-    pančiuosius.
+  citata_rodoma: "Brandenburgo markgra­\nfas su Namiuro ir Henenbergo grafais bei kryžiuočių\nriteriais, sutelkę didžiules jėgas, nusiaubė viską, kas\npakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­\nkant, Punios pilį. Joje buvo keturi tūkstančiai karių,\nsubėgusių ten vos išgirdus apie priešą su savo šeimy­\nnomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­\nšą, kaudamiesi ne tik prie\nK ry žiu o č ia i\na p su p a\ngynybinio pylimo, bet sėk-\nP u n ios p ilį L ìetu vo -\nmingai išsiverždami pro at-\nje\nvirus vartus ir užpuldami su­\npančiuosius."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185825
+    - t-001

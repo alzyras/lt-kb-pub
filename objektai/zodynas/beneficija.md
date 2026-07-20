@@ -32,7 +32,6 @@ O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kana
 
 <a id="claim-t-86583"></a>
 - t-001
-  global_id: t-86583
   teiginys: "Vilniaus bažnyčios prelatai, kanauninkai ir kiti diecezijos beneficijų turėtojai buvo raginami dalį skirti kolegijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kana
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86583
+    - t-001

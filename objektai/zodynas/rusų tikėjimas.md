@@ -31,7 +31,6 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
 
 <a id="claim-t-187559"></a>
 - t-001
-  global_id: t-187559
   teiginys: "Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -49,32 +48,7 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170509
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    76
 
-    ## Puslapis 72
-
-    22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ,
-    PIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ
-    PRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE
-    Kunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­
-    tę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą,
-    o visi lietuvių didikai pasiliko pagonys. Didysis kuni­
-    gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
-    vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
-    rusų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187559
 ## Citatos
 
 - id: c-170509
@@ -82,27 +56,6 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    O šis kunigaikštis, be jokios prie­
-    žasties nutraukęs taiką ir draugystę, atsiuntė pas didįjį
-    kunigaikštį Algirdą savo pasiuntinį su karo paskelbi­
-    mu, ir atsiuntė jam ugnies bei kardą, duodamas supras­
-    ti. kad „būsiu tavo žemėje po skaistaus pavasario, po
-    tykios vasaros". Ir didysis kunigaikštis Algirdas ištrau­
-    kė iš maišiuko kempinę bei titnagą ir, uždegęs kem­
-    pinę, padavė pasiuntiniui, šitaip bylodamas: „Perduok
-    tai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies
-    turime; o kadangi jis man grasina, įžengsiąs į mano
-    žemę po skaistaus pavasario ir po tykios vasaros, tai
-    aš, jei dievas duos, būsiu pas jį per Velykas ir pabu­
-    čiuosiu jį raudonu kiaušiniu, per skydą ietimi, o die­
-    vo padedamas, atremsiu savo ietį į jo Maskvos krem­
-    liaus sieną, nes ne tas karys, kuris kariauja patogiu
-    metu, o tas, kuris nepatogiu kariauti metu atskleidžia
-    priešininkui savo karingą nusistatymą."
-    Ir, atleidęs pasiuntinį, sušaukė visą savo lietuvių
-    bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
-    į Maskvą3.
-  citata_rodoma: |
     76
 
     ## Puslapis 72
@@ -116,10 +69,11 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
     gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
     vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
     rusų.
+  citata_rodoma: "76\n\n## Puslapis 72\n\n22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ, \nPIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ \nPRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE\nKunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­\ntę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, \no visi lietuvių didikai pasiliko pagonys. Didysis kuni­\ngaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­\nvertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien \nrusų."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187559
+    - t-001

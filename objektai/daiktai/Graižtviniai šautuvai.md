@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-40717"></a>
 - t-001
-  global_id: t-40717
   teiginys: "Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-183683"></a>
 - t-002
-  global_id: t-183683
   teiginys: "Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,20 +101,15 @@ Nenurodyta
     pavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-
     lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
     pirmojoje pusėje.
-  citata_rodoma: |
-    ## Puslapis 165
-
-    Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-
-    tuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė
-    pavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-
-    lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
+  citata_rodoma: "## Puslapis 165\n\nPagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šau-\ntuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė\npavojingu suartėjimo su priešininkų etapą. Besiginančioji pusė ga-\nlėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40717
+    - t-001
+
 - id: c-167074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183683
+    - t-002

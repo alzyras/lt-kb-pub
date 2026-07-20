@@ -31,7 +31,6 @@ Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apašta
 
 <a id="claim-t-190464"></a>
 - t-001
-  global_id: t-190464
   teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apašta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190464
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mažvydas M.
 
 <a id="claim-t-61177"></a>
 - t-001
-  global_id: t-61177
   teiginys: "M. Mažvydo „Pirmoji lietuviška knyga“ išleista 1974 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad mažvydas M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61177
+    - t-001

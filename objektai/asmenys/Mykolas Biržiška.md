@@ -38,7 +38,6 @@ Biržiška iš jos pasitraukė.
 
 <a id="claim-t-25694"></a>
 - t-001
-  global_id: t-25694
   teiginys: "Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +73,11 @@ Biržiška iš jos pasitraukė.
     Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
-  citata_rodoma: |
-    Vokiečiams modernizuojant anek-
-    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
-    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    133
-    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.
+  citata_rodoma: "Vokiečiams modernizuojant anek-\nsijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, \n1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n133\nnizacinis komitetas (Mykolas Biržiška, Petras Klimas, A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25694
+    - t-001

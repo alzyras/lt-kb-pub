@@ -40,7 +40,6 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 
 <a id="claim-t-41536"></a>
 - t-001
-  global_id: t-41536
   teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,21 +75,11 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 
     Antanas Starkus-Montė (1948 m. spalis -
     1949 m. lapkričio 1 d.).
-  citata_rodoma: |
-    1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
-    tai būdavo užverbuojami nacionalistinio pogrindžio nariai.
-
-    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
-
-    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
-    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
-    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
-
-    Antanas Starkus-Montė (1948 m.
+  citata_rodoma: "1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-\ntai būdavo užverbuojami nacionalistinio pogrindžio nariai.\n\nEsant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.\n\nValstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja\nkaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-\njomis rezervą ypatinguoju laikotarpiu ar karo metu.“\n\nAntanas Starkus-Montė (1948 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41536
+    - t-001

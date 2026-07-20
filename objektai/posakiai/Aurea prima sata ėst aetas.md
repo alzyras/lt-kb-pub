@@ -30,7 +30,6 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
 
 <a id="claim-t-189574"></a>
 - t-001
-  global_id: t-189574
   teiginys: "Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filosofų devizą apie pirmąjį aukso amžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189574
+    - t-001

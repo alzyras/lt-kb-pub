@@ -9,12 +9,12 @@ datos:
   - '1954 m.'
 date_start: '1932'
 date_end: '1954'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,9 +38,8 @@ Dusburgietis teigia, kad воронин H.
 
 <a id="claim-t-61412"></a>
 - t-001
-  global_id: t-61412
   teiginys: "N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,21 +54,7 @@ Dusburgietis teigia, kad воронин H.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia temą, šaltinių pobūdį, leidimo vietą ir metus."
   pagrindžia:
     - c-62044
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Воронин H. Н. Древнее Гродно (по материалам археологических раскопок 1932—
-    1949 гг.). — Материалы и исследования по археологии СССР, М., 1954, № 41.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61412
+
 ## Citatos
 
 - id: c-62044
@@ -77,16 +62,13 @@ Dusburgietis teigia, kad воронин H.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Топоров В. Н. αλτνδατ — Galindite — голядь (балт. *Galind-в этнолингвистической
-    и ареальной перспективе). — Этнографические и лингвистические аспекты
-    этнической истории балтских народов, Рига, 1980, с.
-  citata_rodoma: |
     Воронин H. Н. Древнее Гродно (по материалам археологических раскопок 1932—
     1949 гг.). — Материалы и исследования по археологии СССР, М., 1954, № 41.
+  citata_rodoma: "Воронин H. Н. Древнее Гродно (по материалам археологических раскопок 1932—\n1949 гг.). — Материалы и исследования по археологии СССР, М., 1954, № 41."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61412
+    - t-001

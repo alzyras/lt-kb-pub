@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-78739"></a>
 - t-001
-  global_id: t-78739
   teiginys: "Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-78740"></a>
 - t-002
-  global_id: t-78740
   teiginys: "Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78740
+    - t-002
+
 - id: c-75921
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,19 +111,11 @@ media_all_json: |-
 
     Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
     Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
-  citata_rodoma: |
-    Tarp
-    jų bene labiausiai pagarsėjo 1482 m. įvykęs
-    Kijevo nusiaubimas, kurio metu į toto-
-
-    rių nelaisvę pakliuvo aukščiausias vietinės
-
-    Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
-    Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
+  citata_rodoma: "Tarp\njų bene labiausiai pagarsėjo 1482 m. įvykęs\nKijevo nusiaubimas, kurio metu į toto-\n\nrių nelaisvę pakliuvo aukščiausias vietinės\n\nIliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.\nPaplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78739
+    - t-001

@@ -39,7 +39,6 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 
 <a id="claim-t-79217"></a>
 - t-001
-  global_id: t-79217
   teiginys: "Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 
 <a id="claim-t-79218"></a>
 - t-002
-  global_id: t-79218
   teiginys: "Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79217
+    - t-001
+
 - id: c-76281
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,4 +116,4 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79218
+    - t-002

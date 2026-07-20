@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67360"></a>
-- t-001
-  global_id: t-67360
+- t-002
   teiginys: "„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -47,6 +46,19 @@ media_all_json: |-
   pagrindžia:
     - c-03522
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So­
+    kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
+    1876 ; t. 12, 1891 ; t. 14, 1894).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-03522
@@ -57,14 +69,11 @@ media_all_json: |-
     CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-
     kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
     1876 ; t. 12, 1891 ; t. 14, 1894).
-  citata_rodoma: |
-    CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-
-    kołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,
-    1876 ; t. 12, 1891 ; t. 14, 1894).
+  citata_rodoma: "CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-\nkołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,\n1876 ; t. 12, 1891 ; t. 14, 1894)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67360
+    - t-002

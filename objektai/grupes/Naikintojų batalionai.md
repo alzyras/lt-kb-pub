@@ -31,7 +31,6 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 
 <a id="claim-t-19956"></a>
 - t-001
-  global_id: t-19956
   teiginys: "Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,12 +57,11 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
     „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
     vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
     jus.
-  citata_rodoma: |
-    Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
+  citata_rodoma: "Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19956
+    - t-001

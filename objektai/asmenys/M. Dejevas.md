@@ -38,8 +38,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 ## Teiginiai
 
 <a id="claim-t-40311"></a>
-- t-001
-  global_id: t-40311
+- t-003
   teiginys: "Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 
 <a id="claim-t-40312"></a>
 - t-002
-  global_id: t-40312
   teiginys: "Liepos 20 d. plk. M. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - c-44439
 
 <a id="claim-t-40313"></a>
-- t-003
-  global_id: t-40313
+- t-001
   teiginys: "Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40313
+    - t-001
+
 - id: c-42110
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -121,7 +119,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40311
+    - t-003
+
 - id: c-44439
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,16 +135,11 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     įsiveržti į miestą per
     Bernardinų bokštą ir
     Spaso vartus.
-  citata_rodoma: |
-    Liepos 20 d. plk. M. De-
-    jevo daliniai mėgino
-    įsiveržti į miestą per
-    Bernardinų bokštą ir
-    Spaso vartus.
+  citata_rodoma: "Liepos 20 d. plk. M. De-\njevo daliniai mėgino\nįsiveržti į miestą per\nBernardinų bokštą ir\nSpaso vartus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40312
+    - t-002

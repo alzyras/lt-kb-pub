@@ -55,7 +55,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-55180"></a>
 - t-001
-  global_id: t-55180
   teiginys: "Maskvoje buvo išlikęs priežodis „Kto w Wilnie nie bywał, tot czudes nie widał“."
   atnaujinta: "2026-06-13 17:21"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -72,7 +71,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-55181"></a>
 - t-002
-  global_id: t-55181
   teiginys: "„Kto w Wilnie nie bywał, tot czudes nie widał“ lietuviškai aiškinama kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“"
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -89,7 +87,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 <a id="claim-t-82141"></a>
 - t-003
-  global_id: t-82141
   teiginys: "„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -132,6 +129,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55180
-    - t-55181
-    - t-82141
+    - t-001
+    - t-002
+    - t-003

@@ -30,7 +30,6 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
 
 <a id="claim-t-78844"></a>
 - t-001
-  global_id: t-78844
   teiginys: "LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78844
+    - t-001

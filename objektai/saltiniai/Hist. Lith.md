@@ -28,7 +28,6 @@ Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c
 
 <a id="claim-t-201450"></a>
 - t-001
-  global_id: t-201450
   teiginys: "Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c z , Hist. Lith., t. I, 1. III, p. 62."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c
 ## Citatos
 
 - id: c-184800
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Iš
     visų jo pilių viena pati apsvilusi Plocko jo valdžioj
@@ -54,4 +54,4 @@ Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201450
+    - t-001

@@ -31,7 +31,6 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
 
 <a id="claim-t-39475"></a>
 - t-001
-  global_id: t-39475
   teiginys: "Prisikėlimo apygardos partizanė Aleksandra Atgailainytė buvo suimta ir po tardymų Raseinių kalėjime pervežama į kitą vietą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39475
+    - t-001

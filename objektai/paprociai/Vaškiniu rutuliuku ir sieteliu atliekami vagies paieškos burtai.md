@@ -47,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189876"></a>
 - t-001
-  global_id: t-189876
   teiginys: "Vagies paieškos burtuose buvo stebimas vaško rutuliuko judėjimas ir sukimasis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,25 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172759
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vagies paieškos burtuose buvo stebimas vaško rutuliuko judėjimas ir sukimasis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Buvo buriama
-    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
-    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
-    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
-    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
-    mo nekaltai nubaudė vieną žmogų“42.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189876
+
 ## Citatos
 
 - id: c-172759
@@ -91,24 +72,17 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    - 134*.
-    3 Kai kurios mūsų šeimininkės dar iki šiol moka virti tą gėrimą
-    virtuvėje puoduose arba nedideliuose katiluose. Jis labai panašus į
-    anglišką alų.
-    i Alų, kuris buvo skirtas atnašavimui, pirkdavo už pinigus, kuriuos
-    gaudavo už javus, tikriausiai bendrai viso kaimo pasėtus atskiroje dir­
-    voje, tai yra šventame lauke (Luc.
-  citata_rodoma: |
     Buvo buriama
     stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.
     Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
     Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
     simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
     mo nekaltai nubaudė vieną žmogų“42.
+  citata_rodoma: "Buvo buriama\nstebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.\nBuvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.\nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189876
+    - t-001

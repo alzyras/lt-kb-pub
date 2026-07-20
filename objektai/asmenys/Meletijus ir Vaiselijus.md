@@ -30,9 +30,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
 
 <a id="claim-t-190184"></a>
 - t-001
-  global_id: t-190184
   teiginys: "Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,30 +47,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173067
-    - c-001
 - susijęs iš [[objektai/autoriai/Meletijus.md#claim-t-190338|Meletijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
 - susijęs iš [[objektai/autoriai/Vaiselijus.md#claim-t-190461|Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    103
-
-    ## Puslapis 103
-
-    liones, nepažindami krašto realijų, todėl to dievo vardas buvo
-    rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
-    sickis -Audros. Kiti dar randa dievą Patrimpą (Potrimp) -  val­
-    dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
-    yra tas pats.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190184
 ## Citatos
 
 - id: c-173067
@@ -79,12 +56,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
-    na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
-    go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
-    prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
-    23 Ks. Ludwik Adam Jucevvicz. Przyslovvia ludu Litevvskiego.
-  citata_rodoma: |
     103
 
     ## Puslapis 103
@@ -94,10 +65,11 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
     sickis -Audros. Kiti dar randa dievą Patrimpą (Potrimp) -  val­
     dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
     yra tas pats.
+  citata_rodoma: "103\n\n## Puslapis 103\n\nliones, nepažindami krašto realijų, todėl to dievo vardas buvo\nrašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-\nsickis -Audros. Kiti dar randa dievą Patrimpą (Potrimp) -  val­\ndantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos\nyra tas pats."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190184
+    - t-001

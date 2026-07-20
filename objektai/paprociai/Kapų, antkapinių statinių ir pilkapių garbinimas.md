@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189919"></a>
 - t-001
-  global_id: t-189919
   teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o protėvių ar ypatingomis dorybėmis pasižymėjusių asmenų kapams buvo meldžiamasi."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-197255"></a>
 - t-002
-  global_id: t-197255
   teiginys: "Aplink visą pilkapį ratu eina didokų akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme nų eilės, nukreiptos nuo viršūnės tiesiai į apačią."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189919
+    - t-001
+
 - id: c-179088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -113,4 +112,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197255
+    - t-002

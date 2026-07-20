@@ -37,7 +37,6 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
 
 <a id="claim-t-193307"></a>
 - t-001
-  global_id: t-193307
   teiginys: "Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193307
+    - t-001

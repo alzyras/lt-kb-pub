@@ -9,14 +9,14 @@ datos:
   - '1877 m.'
 date_start: '1804'
 date_end: '1877'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -66,8 +66,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 ## Teiginiai
 
 <a id="claim-t-187895"></a>
-- t-001
-  global_id: t-187895
+- t-003
   teiginys: "Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -85,8 +84,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - c-170876
 
 <a id="claim-t-187896"></a>
-- t-002
-  global_id: t-187896
+- t-001
   teiginys: "Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -104,10 +102,9 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     - c-170877
 
 <a id="claim-t-187897"></a>
-- t-003
-  global_id: t-187897
+- t-002
   teiginys: "Medicinos daktaro Renjė 1839 m. gruodžio 15 d. laiškas iš Vilniaus Narbutui buvo nuoroda į Podčašinskio pastebėjimą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -124,12 +121,11 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170878
-    - c-003
+
 <a id="claim-t-190847"></a>
 - t-004
-  global_id: t-190847
   teiginys: "1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -148,49 +144,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173729
-    - c-004
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188395|Adomas Stanislovas Naruševičius]]: Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą.
 - susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-187978|Briliantinis žiedas]]: 1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Medicinos daktaro Renjė 1839 m. gruodžio 15 d. laiškas iš Vilniaus Narbutui buvo nuoroda į Podčašinskio pastebėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tik neaišku, koks buvo rezul­
-    tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
-    daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
-    pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
-    dalykus*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187897
-- c-004
-  santrauka: '1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    (Medicinos
-    daktaro
-    Renjė
-    1839.XII.15
-    dienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis
-    padarė
-    dar
-    prieš
-    man
-    aprašant
-    tuos
-    dalykus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190847
 ## Citatos
 
 - id: c-170876
@@ -206,22 +161,15 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
     sirašinėjo (didelė dalis šios korespondencijos pa­
     siekė mūsų dienas).
-  citata_rodoma: |
-    P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­
-    mas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­
-    maciją, kaip galima spręsti iš papildymo turinio,
-    T. Narbutas gavo iš Vilniaus gydytojo ir visuome­
-    nės veikėjo Aniceto Renjė (Renier, Renjer, Reg-
-    nier, 1804-1877), su kuriuo ilgus dešimtmečius su­
-    sirašinėjo (didelė dalis šios korespondencijos pa­
-    siekė mūsų dienas).
+  citata_rodoma: "P. 273* -  Išnaša, kuria autorius papildė paragrafą, rengda­\nmas antrąjį LTI leidimą (PEĮ. -  L. 164). Šią infor­\nmaciją, kaip galima spręsti iš papildymo turinio,\nT. Narbutas gavo iš Vilniaus gydytojo ir visuome­\nnės veikėjo Aniceto Renjė (Renier, Renjer, Reg-\nnier, 1804-1877), su kuriuo ilgus dešimtmečius su­\nsirašinėjo (didelė dalis šios korespondencijos pa­\nsiekė mūsų dienas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187895
+    - t-003
+
 - id: c-170877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -234,61 +182,39 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
     riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
     dumą.
-  citata_rodoma: |
-    T. Narbutas liguistai reagavo j jam
-    išsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
-    riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
-    dumą.
+  citata_rodoma: "T. Narbutas liguistai reagavo j jam\nišsakomą kritiką. A. H. Kirkoras, A. Renjė bandė jį užtarti pe­\nriodikoje, pagirdami už iškelto ir realizuoto sumanymo di­\ndumą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187896
+    - t-001
+
 - id: c-170878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Paprasti žmonės visada
-    su dideliu pamaldumu garbino jos karstą toje cerkvėje, o Mask­
-    vos rusai, tiek kartų naikinę Vilnių, neliesdavo tos senos Vil­
-    niaus Petionkos cerkvės, nors jau pasidavusios šventajai uni-
-    jai“.
-    Taip pat ir Vilniuje, sklype, šiandien priklausančiame Vai­
-    kelio Jėzaus vienuolynui, šalia senosios mūrinės miesto sie­
-    nos, yra aiškūs pėdsakai kadaise buvusios tvirtovės arba atski­
-    ros pilaitės, kurią seniau vadino Bokštu (Bakszta). Po visu tuo
-    kalnu yra erdvūs požeminiai koridoriai, labai patvariai išmū­
-    ryti iš plytų, su salėmis, nišomis, besitęsiantys įvairiais zigza­
-    gais; sako, kad iki šiol nežinoma, kur jie baigiasi.
-  citata_rodoma: |
     Tik neaišku, koks buvo rezul­
     tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
     daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį
     pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
     dalykus*.
+  citata_rodoma: "Tik neaišku, koks buvo rezul­\ntatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos\ndaktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį\npastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos\ndalykus*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187897
+    - t-002
+
 - id: c-173729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tekstas, kuriuo autorius papil'dė paragrafą, rengdamas antrąjį
-    LTI leidimą (PEĮ. L, 154). Tai informacija iš jau cituoto Kauno
-    gimnazijos prefekto S. Laurinavičiaus laiško. Be kita ko, laiško
-    autorius labai skeptiškai atsiliepė apie tai, jog šioje vietoje ga­
-    lėjo egzistuoti griaustinio ir žaibų dievo šventykla: „Aš mažai
-    tikiu šiais padavimais, bylojančiais, tarytum čia iš tikrųjų buvo
-    garbinamas Perkūnas“.
-  citata_rodoma: |
     (Medicinos
     daktaro
     Renjė
@@ -301,10 +227,11 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
     aprašant
     tuos
     dalykus.
+  citata_rodoma: "(Medicinos\ndaktaro\nRenjė\n1839.XII.15\ndienos laiškas iš Vilniaus.) Sį pastebėjimą p/onas/ Podčašinskis\npadarė\ndar\nprieš\nman\naprašant\ntuos\ndalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190847
+    - t-004

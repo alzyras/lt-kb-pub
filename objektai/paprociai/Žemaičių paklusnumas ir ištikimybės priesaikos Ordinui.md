@@ -59,8 +59,7 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
 ## Teiginiai
 
 <a id="claim-t-11635"></a>
-- t-001
-  global_id: t-11635
+- t-004
   teiginys: "1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
@@ -79,8 +78,7 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
     - c-14494
 
 <a id="claim-t-11636"></a>
-- t-002
-  global_id: t-11636
+- t-003
   teiginys: "1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
@@ -113,19 +111,12 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
     kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
     ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
     duoti naujai jėgai^1 ).
-  citata_rodoma: |
-    Todėl ir
-    nenuostabu, kad žemaičiai savo vakarykščiams priešams
-    ėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­
-    rio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir
-    kt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­
-    ventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­
-    duoti naujai jėgai^1 ).
+  citata_rodoma: "Todėl ir\nnenuostabu, kad žemaičiai savo vakarykščiams priešams\nėmė daryti ištikimybės priesaikas. Taip 1384 metų vasa­\nrio mėn. pradžioj Žemaičių krašto (Medininkų, Vangių ir\nkt.) gyventojai pareiškė Ordinui savo paklusnumą. Iš tų gy­\nventojų pusės buvo tai pirmas savarankiškas mėginimas pasi­\nduoti naujai jėgai^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11635
-    - t-11636
+    - t-004
+    - t-003

@@ -47,7 +47,6 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 
 <a id="claim-t-55095"></a>
 - t-001
-  global_id: t-55095
   teiginys: "Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -68,7 +67,6 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 
 <a id="claim-t-55096"></a>
 - t-002
-  global_id: t-55096
   teiginys: "Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::groups"
@@ -143,7 +141,8 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55095
+    - t-001
+
 - id: c-55906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,6 +172,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55096
+    - t-002
+
 ## Ryšiai
 - Vilniaus prastuomenė puolė [[objektai/grupes/Pranciškonų ordinas]]

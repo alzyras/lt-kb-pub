@@ -31,7 +31,6 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
 
 <a id="claim-t-21339"></a>
 - t-001
-  global_id: t-21339
   teiginys: "Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,12 +60,11 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
     gamybos ir prekybos įmonės, privatus turtas. Tremtinių išvežimas į at-
     šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,
     kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.
-  citata_rodoma: |
-    šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,
+  citata_rodoma: "šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21339
+    - t-001

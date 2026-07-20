@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-54733"></a>
 - t-001
-  global_id: t-54733
   teiginys: "Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas."
   atnaujinta: "2026-05-27 06:24"
   sprendimo_priezastis: "auto"
@@ -109,20 +108,11 @@ Nenurodyta
     imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
     grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
     atgal į Prūsiją.
-  citata_rodoma: |
-    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
-    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
-    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
-    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
-    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
-    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
-    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
-    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
-    atgal į Prūsiją.
+  citata_rodoma: "Taip įvairioms kautynėms ir ginčams besitęsiant praėjo \npenkios sunkios apsupties savaitės lenkų įgulai Aukštuti­\nnėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­\nkybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­\nriaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi \nir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­\nimtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema \ngrėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti \natgal į Prūsiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54733
+    - t-001

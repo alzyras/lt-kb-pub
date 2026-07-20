@@ -31,9 +31,8 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
 
 <a id="claim-t-189516"></a>
 - t-001
-  global_id: t-189516
   teiginys: "Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skandinavų ir kai kurių slavų kilčių papročiais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,31 +48,7 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172404
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skandinavų ir kai kurių slavų kilčių papročiais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kai kada tarnai, arkliai, šunys, saka­
-    lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
-    364
 
-    ## Puslapis 364
-
-    uždegto laužo, kadangi turtingųjų kūnai būdavo deginami.
-    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
-    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
-    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
-    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
-    žymesniems žmonėms laidoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189516
 ## Citatos
 
 - id: c-172404
@@ -93,23 +68,11 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
     protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
     tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
     žymesniems žmonėms laidoti.
-  citata_rodoma: |
-    Kai kada tarnai, arkliai, šunys, saka­
-    lai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant
-    364
-
-    ## Puslapis 364
-
-    uždegto laužo, kadangi turtingųjų kūnai būdavo deginami.
-    Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
-    mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
-    protys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­
-    tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
-    žymesniems žmonėms laidoti.
+  citata_rodoma: "Kai kada tarnai, arkliai, šunys, saka­\nlai buvo gyvi laidojami su didiku jo kape; dažniau eidavo ant\n364\n\n## Puslapis 364\n\nuždegto laužo, kadangi turtingųjų kūnai būdavo deginami.\nDeginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­\nmėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­\nprotys, kurio užuomazga kilusi iš indų, lietuvių buvo apribo­\ntas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik\nžymesniems žmonėms laidoti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189516
+    - t-001

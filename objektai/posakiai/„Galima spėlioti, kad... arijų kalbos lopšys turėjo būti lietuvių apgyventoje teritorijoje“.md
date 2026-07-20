@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-25369"></a>
 - t-001
-  global_id: t-25369
   teiginys: "Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,26 +87,11 @@ media_all_json: |-
     omunistinės SSRS ir nacių Vokietijos draugystės lai-
     kotarpis 1940 m. pradžioje artėjo į jų lemiamą susi-
     dūrimą, abi totalitarinės valstybės ruošėsi karui dėl Europos užgrobimo.
-  citata_rodoma: |
-    Georgo Birmano nuotrauka
-
-    V s k y r i u s
-    LIETUVA: SOVIETŲ IR
-    NACIŲ OKUPACIJOS
-    „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to
-    laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu
-    tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių
-    apgyventoje teritorijoje“
-    Isaac Taylor (1787–1865)
-    Iš „The Origins of the Aryans“ („Arijų kilmė“)
-    STALINO IR HITLERIO GNIAUŽTUOSE
-    K
-    omunistinės SSRS ir nacių Vokietijos draugystės lai-
-    kotarpis 1940 m.
+  citata_rodoma: "Georgo Birmano nuotrauka\n\nV s k y r i u s\nLIETUVA: SOVIETŲ IR \nNACIŲ OKUPACIJOS\n„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to \nlaikotarpio, kaip seniausia indų literatūra, galėtume su didesniu \ntikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių \napgyventoje teritorijoje“\nIsaac Taylor (1787–1865) \nIš „The Origins of the Aryans“ („Arijų kilmė“)\nSTALINO IR HITLERIO GNIAUŽTUOSE\nK\nomunistinės SSRS ir nacių Vokietijos draugystės lai-\nkotarpis 1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25369
+    - t-001

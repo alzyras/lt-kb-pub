@@ -58,7 +58,6 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 
 <a id="claim-t-23430"></a>
 - t-001
-  global_id: t-23430
   teiginys: "Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,13 +90,11 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
     valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
-  citata_rodoma: |
-    Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
-    mo) aktas.
+  citata_rodoma: "Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-\nmo) aktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23430
+    - t-001

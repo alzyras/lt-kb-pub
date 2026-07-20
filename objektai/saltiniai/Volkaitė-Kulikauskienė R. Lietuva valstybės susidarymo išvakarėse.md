@@ -36,7 +36,6 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
 
 <a id="claim-t-61355"></a>
 - t-001
-  global_id: t-61355
   teiginys: "R. Volkaitės-Kulikauskienės darbas „Lietuva valstybės susidarymo išvakarėse“ paskelbtas 1978 m. leidinyje „Lietuvių materialinė kultūra IX-XIII amžiuje“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
     Volkaitė-Kulikauskienė R. Lietuva valstybės susidarymo išvakarėse.— Lietuvių
     materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.
     de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
-  citata_rodoma: |
-    Volkaitė-Kulikauskienė  R.  Lietuva  valstybės  susidarymo  išvakarėse.—  Lietuvių
-    materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.
+  citata_rodoma: "Volkaitė-Kulikauskienė  R.  Lietuva  valstybės  susidarymo  išvakarėse.—  Lietuvių\nmaterialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61355
+    - t-001

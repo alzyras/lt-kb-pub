@@ -31,7 +31,6 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
 
 <a id="claim-t-95949"></a>
 - t-001
-  global_id: t-95949
   teiginys: "Mokytojas J. Lazauskas „Mokyklos ir Gyvenimo“ 2-ajame numeryje rašė, kad sunku laikyti mokytoju tą, kuris nesusipažins su nauja kruopštaus švietimo darbuotojo dovana."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95949
+    - t-001

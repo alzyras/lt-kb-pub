@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201292"></a>
 - t-001
-  global_id: t-201292
   teiginys: "Tie kunigai susirinkę pakėlė tarp savęs vieną turintį 60 ar 70 metų senelį kunigaikščiu, kursai ūkę ir visą tautą valdė, vadindamos viešpačiu, ar ba kunigaikščiu."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184642
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rėdą, arba tvarka, tų
     kunigų vadinos teokracija, tai yra rėdą tarpinykų
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201292
+    - t-001

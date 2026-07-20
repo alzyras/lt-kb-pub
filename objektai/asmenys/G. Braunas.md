@@ -9,16 +9,16 @@ datos:
   - '1622 m.'
 date_start: '1541'
 date_end: '1622'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - asmuo
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 
 <a id="claim-t-190151"></a>
 - t-001
-  global_id: t-190151
   teiginys: "Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,9 +65,8 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 
 <a id="claim-t-190859"></a>
 - t-002
-  global_id: t-190859
   teiginys: "Komentare G. Braunas įvardijamas kaip 1541-1622 m. gyvenęs geografas ir kartografas, atlaso „Civitates orbis terrarum“ autorius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,23 +85,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173741
-    - c-002
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Komentare G. Braunas įvardijamas kaip 1541-1622 m. gyvenęs geografas ir kartografas, atlaso „Civitates orbis terrarum“ autorius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
-    rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
-    kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
-    lasą (Civitates orbis terrarum).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190859
+
 ## Citatos
 
 - id: c-173034
@@ -122,28 +104,22 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190151
+    - t-001
+
 - id: c-173741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Jame yra labai nedaug daugiaaukščių, nedaug
-    plytinių namų, bet daug iš paprastos medžiagos kaimiškai su­
-    ręstų. Nėra nei mūrinių sienų, nei pylimų, nei gynybinių bokštų,
-    nei vartų. Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
-    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mū­
-    rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len­
-    kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas.
-  citata_rodoma: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
     rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir
     kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
     lasą (Civitates orbis terrarum).
+  citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­\nrąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir\nkartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­\nlasą (Civitates orbis terrarum)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190859
+    - t-002

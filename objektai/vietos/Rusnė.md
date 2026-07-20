@@ -36,7 +36,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-32520"></a>
 - t-001
-  global_id: t-32520
   teiginys: "Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-188828"></a>
 - t-002
-  global_id: t-188828
   teiginys: "Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,10 +70,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171717
-    - c-002
+
 <a id="claim-t-192748"></a>
 - t-003
-  global_id: t-192748
   teiginys: "Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-192749"></a>
 - t-004
-  global_id: t-192749
   teiginys: "Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -115,10 +111,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175519
-    - c-004
+
 <a id="claim-t-201102"></a>
 - t-005
-  global_id: t-201102
   teiginys: "Rasi kartagionys nuo savo žinyčios dievui, Kronas vadinamam, Rusnėj įkurtos, ir pačią upę Nemuną nuo tos žinyčios Kro nu vadino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -131,7 +126,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-201103"></a>
 - t-006
-  global_id: t-201103
   teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -144,7 +138,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 <a id="claim-t-201104"></a>
 - t-007
-  global_id: t-201104
   teiginys: "Yra minavo j ama, jog buvusios žinyčios Rusnėj, Palangoj, Dzievaltave ir Panemunėj, bet viena Vil niaus žinyčia tėra aiškiai aprašyta, kurią tuojau re gėsim. Visų senoji vienok žinyčia, rodos, Rusnėj buvu si."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -182,43 +175,47 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   santrauka: 'Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
-    Si ket­
-    virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
-    vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
-    arba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­
-    ja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno
-    atšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­
-    galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
-    kančios per jų svarbiausias sodybas, būdavo praminamos tuo
-    pačiu šventu vardu Ross.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+    1.
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
+    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
+    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
+    upę, kad sutrauktų prie jos krantų žmones krikštui.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188828
+  statusas: verified
 - c-004
   santrauka: 'Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Pusantros mylios už šio miesto aukštos pakrantės ima
-    žemėti, vagos didingumas mažėja, o Nemunas ima vin­
-    giuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie
+    Prie
     Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
     dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
     nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
     mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri
     yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
-    arba protakų.
+    arba protakų. Šio išsišakojimo vagos yra šios: kairėje į
+    vakarus vingiuoja Skirwith, Skirvytės, vaga, tai reiškia
+    Skiriu užeiga (gal kitados skalavo skiriu koloniją); savo
+    ruožtu ji priima losse, arba Jesse, įlanką, primenančią
+    vieną dievo Perkūno slavišką vardą; toliau ji įteka į pel­
+    kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
+    t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
+    arba langas, langas, t. y. uosto prieplauka.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192749
+  statusas: verified
+
 ## Citatos
 
 - id: c-34030
@@ -234,37 +231,20 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     — nuo Nemuno ir Marių, buvo palikta ordinni.
     Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
     Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
-  citata_rodoma: |
-    Jūros upės krantu siena pasislinko
-    vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
-    taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu
-    — nuo Nemuno ir Marių, buvo palikta ordinni.
-    Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
-    Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
+  citata_rodoma: "Jūros upės krantu siena pasislinko\nvieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko\ntaip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu\n— nuo Nemuno ir Marių, buvo palikta ordinni.\nSu Livonijos ordinu siena buvo pradėta į Baltiją įtekančia\nŠventosios upe, toliau paliekant « senas sienas » (« antiquos limites »)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32520
+    - t-001
+
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
-    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
-    liaudies padavimų.
-    1.
-    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
-    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
-    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
-    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė. Mat
-    vietos padavimai įtikina, kad tą vandenį senoji religija laikė
-    šventu, todėl krikščionių kunigai jį ir vartojo, o gal net pačią
-    upę, kad sutrauktų prie jos krantų žmones krikštui.
-  citata_rodoma: |
     Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
     vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
@@ -274,13 +254,15 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     galiau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­
     kančios per jų svarbiausias sodybas, būdavo praminamos tuo
     pačiu šventu vardu Ross.
+  citata_rodoma: "Si ket­\nvirta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­\nvių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,\narba jo žiotis, pagal savo tėvų religijos apeigas pavertė šventą­\nja penktą upę, pavadindami Ross, kuri yra dešinioji Nemuno\natšaka ir dabar taip besivadinanti; ją vadinaRuss (Rusnė). Pa­\ngaliau, kur tik apsigyvendavo lietuvių genties tautos, upės, te­\nkančios per jų svarbiausias sodybas, būdavo praminamos tuo\npačiu šventu vardu Ross."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188828
+    - t-002
+
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -308,28 +290,13 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192748
+    - t-003
+
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Prie
-    Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­
-    dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
-    nia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­
-    mis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri
-    yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
-    mis apie penkias mylias, suskyla į daugelį mažų vagų,
-    arba protakų. Šio išsišakojimo vagos yra šios: kairėje į
-    vakarus vingiuoja Skirwith, Skirvytės, vaga, tai reiškia
-    Skiriu užeiga (gal kitados skalavo skiriu koloniją); savo
-    ruožtu ji priima losse, arba Jesse, įlanką, primenančią
-    vieną dievo Perkūno slavišką vardą; toliau ji įteka į pel­
-    kėtą Kuršių marių įlanką, vadinama Gillmite, Gilvyte,
-    t. y. neapsakomai gilią; šią įlanką žvejai vadina Laing,
-    arba langas, langas, t. y. uosto prieplauka.
-  citata_rodoma: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­
     giuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie
@@ -340,16 +307,19 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     yra senovinė piliavietė, nuplaukusi gražiomis apylinkė­
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
     arba protakų.
+  citata_rodoma: "Pusantros mylios už šio miesto aukštos pakrantės ima\nžemėti, vagos didingumas mažėja, o Nemunas ima vin­\ngiuoti per visiškai nedidelį nuolydį turinčią vietovę. Prie\nSancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va­\ndinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-\nnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo­\nmis. Ta klasikinė Nemuno šaka prie Rus ramovės, kuri\nyra senovinė piliavietė, nuplaukusi gražiomis apylinkė­\nmis apie penkias mylias, suskyla į daugelį mažų vagų,\narba protakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192749
+    - t-004
+
 - id: c-184452
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Čia tas dar yra dabotina, jog upis, šiandien
     Nemunu vadinama, senovėj vadinos Kronas raš­
@@ -368,10 +338,12 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201102
+    - t-005
+
 - id: c-184453
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nuo to gi gal lemti, jog ta pasaka galėjo bū­
     ti pradžioj yna, bet paskui yra pertaisyta nuo kokio
@@ -399,10 +371,12 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201103
+    - t-006
+
 - id: c-184454
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra minavo j ama, jog buvusios žinyčios Rusnėj,
     Palangoj, Dzievaltave ir Panemunėj, bet viena Vil­
@@ -422,4 +396,4 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201104
+    - t-007

@@ -7,12 +7,12 @@ datos:
   - '1523 m.'
 date_start: '1523'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202106"></a>
 - t-001
-  global_id: t-202106
   teiginys: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo atlikinėti valstietiškas prievoles, kurios būtų reiškusios bajorystės praradimą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202106
+    - t-001

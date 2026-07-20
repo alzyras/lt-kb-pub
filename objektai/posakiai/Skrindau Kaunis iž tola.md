@@ -32,7 +32,6 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 
 <a id="claim-t-189567"></a>
 - t-001
-  global_id: t-189567
   teiginys: "Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 
 <a id="claim-t-194696"></a>
 - t-002
-  global_id: t-194696
   teiginys: "Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,7 +80,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189567
+    - t-001
+
 - id: c-177093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -107,4 +106,4 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194696
+    - t-002

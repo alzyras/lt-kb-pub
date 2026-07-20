@@ -39,8 +39,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 ## Teiginiai
 
 <a id="claim-t-186510"></a>
-- t-001
-  global_id: t-186510
+- t-008
   teiginys: "Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -58,7 +57,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-186511"></a>
 - t-002
-  global_id: t-186511
   teiginys: "Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -75,8 +73,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169852
 
 <a id="claim-t-186512"></a>
-- t-003
-  global_id: t-186512
+- t-010
   teiginys: "1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -97,8 +94,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169850
 
 <a id="claim-t-186513"></a>
-- t-004
-  global_id: t-186513
+- t-011
   teiginys: "Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -115,8 +111,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169851
 
 <a id="claim-t-186514"></a>
-- t-005
-  global_id: t-186514
+- t-009
   teiginys: "Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -136,8 +131,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169848
 
 <a id="claim-t-186515"></a>
-- t-006
-  global_id: t-186515
+- t-003
   teiginys: "Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -154,8 +148,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169849
 
 <a id="claim-t-186516"></a>
-- t-007
-  global_id: t-186516
+- t-001
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -172,8 +165,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169853
 
 <a id="claim-t-188622"></a>
-- t-008
-  global_id: t-188622
+- t-004
   teiginys: "Teodoras Narbutas vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -192,8 +184,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171511
 
 <a id="claim-t-188623"></a>
-- t-009
-  global_id: t-188623
+- t-005
   teiginys: "Pirmieji Teodoro Narbuto spausdinti darbai buvo užsienietiškų leidinių apžvalgos, eilėraščiai ir vertimai Vilniaus laikraščiuose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -215,8 +206,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171512
 
 <a id="claim-t-188624"></a>
-- t-010
-  global_id: t-188624
+- t-006
   teiginys: "Rimanto Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -239,8 +229,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-171513
 
 <a id="claim-t-188625"></a>
-- t-011
-  global_id: t-188625
+- t-007
   teiginys: "Teodoras Narbutas 1830 m. išleido „Čigonų liaudies istorijos bruožus“ ir rengė Horacijaus bei Ž. B. Ruso kūrybos vertimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -263,7 +252,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188626"></a>
 - t-012
-  global_id: t-188626
   teiginys: "Teodoras Narbutas dalyvavo 1830-1831 m. sukilime, bet, anot citatos, nekovojo su ginklu rankose."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -287,7 +275,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188627"></a>
 - t-013
-  global_id: t-188627
   teiginys: "Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -311,7 +298,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188628"></a>
 - t-014
-  global_id: t-188628
   teiginys: "Citatos autorius teigia, kad lenkų istoriografijoje Teodoro Narbuto darbai nėra vertinami teigiamai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -332,7 +318,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188631"></a>
 - t-017
-  global_id: t-188631
   teiginys: "Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -353,7 +338,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188632"></a>
 - t-018
-  global_id: t-188632
   teiginys: "Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija: „Aš nerašau lietuvių tautos istorijos <...>“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -374,9 +358,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188633"></a>
 - t-019
-  global_id: t-188633
   teiginys: "Laiške Ignotui Onacevičiui Teodoras Narbutas savo uždaviniu vadino praeities įvykių esmės atskleidimą nuo tautos kilmės iki 1569 m."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -395,10 +378,11 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171522
+    - c-179196
+    - c-179199
 
 <a id="claim-t-188634"></a>
 - t-020
-  global_id: t-188634
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas sąmoningai vengė žodžio „istorija“ ir save suvokė veikiau kaip aprašinėtoją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -419,7 +403,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188635"></a>
 - t-021
-  global_id: t-188635
   teiginys: "Oficialios recenzijos į Teodoro Narbuto „Lietuvių mitologiją“ pasirodė 1835 ir 1836 metais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -440,7 +423,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188636"></a>
 - t-022
-  global_id: t-188636
   teiginys: "1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -464,7 +446,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188637"></a>
 - t-023
-  global_id: t-188637
   teiginys: "Teksto analizė rodo, kad Teodoras Narbutas savo parankinį LTI egzempliorių pildė iki 1863 metų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -485,7 +466,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188638"></a>
 - t-024
-  global_id: t-188638
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas lietuvių mitologijos tyrinėjimams skyrė ypač daug dėmesio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -499,9 +479,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188640"></a>
 - t-026
-  global_id: t-188640
   teiginys: "Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -520,7 +499,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188641"></a>
 - t-027
-  global_id: t-188641
   teiginys: "Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -544,7 +522,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-188642"></a>
 - t-028
-  global_id: t-188642
   teiginys: "Papildymo tekstas leidžia spręsti, kad Teodoras Narbutas gerai pažinojo visus 1804 m. komisijos narius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -561,7 +538,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-190985"></a>
 - t-029
-  global_id: t-190985
   teiginys: "Narbutas vartoja terminą „dzieje“, o ne „historia“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -582,9 +558,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-190986"></a>
 - t-030
-  global_id: t-190986
   teiginys: "Rasa Griškaitė Narbuto lietuvių mitologijos tyrinėjimų paieškas vadino atkaklesnėmis ir tragiškesnėmis, nei galėtų atrodyti jų nepažinus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -592,11 +567,10 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173868
+    - c-179355
 
 <a id="claim-t-190987"></a>
 - t-031
-  global_id: t-190987
   teiginys: "Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -617,7 +591,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-190988"></a>
 - t-032
-  global_id: t-190988
   teiginys: "Teodoras Narbutas yra dailiau už anuos padarytas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -638,7 +611,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-190989"></a>
 - t-033
-  global_id: t-190989
   teiginys: "Teodoras Narbutas Dievo Kovo stabą ypač vertino ir laikė jį vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -659,7 +631,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197447"></a>
 - t-034
-  global_id: t-197447
   teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -672,7 +643,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197448"></a>
 - t-035
-  global_id: t-197448
   teiginys: "Narbutas elgiasi ir su daugeliu kitų senųjų ra šytinių šaltinių - praplečia jų informaciją, sukonkretina, per teikia ne tik tai, kas juose pasakyta, bet ir tai, kas, jo manymu, galėjo būti pasakyta."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -685,7 +655,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197449"></a>
 - t-036
-  global_id: t-197449
   teiginys: "Narbutas visą dėmesį sukoncentravo į len kiškojo teksto pataisas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -698,7 +667,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197450"></a>
 - t-037
-  global_id: t-197450
   teiginys: "Narbuto idėja, o ir pirmo LTI tomo papildymai „Mažesniuose istorijos raštuose“ sudarė tik nedidelę dalį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -711,7 +679,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197451"></a>
 - t-038
-  global_id: t-197451
   teiginys: "Teodoras Narbutas buvo tikra istoriko požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiška) buvo pakoreguota tik įrašant vieną nedidelę papildomą pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -724,7 +691,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197452"></a>
 - t-039
-  global_id: t-197452
   teiginys: "Narbutas rašė: „Tos svarbios religijos primini mas ir pažinimas yra nepaprastai reikalingas istorijos žinioms turtinti - dar daugiau, be tinkamo jos išaiškinimo negali būti pažinta lietuvių žemės praeitis“54."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -737,7 +703,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197453"></a>
 - t-040
-  global_id: t-197453
   teiginys: "Teodoras Narbutas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -750,7 +715,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197454"></a>
 - t-041
-  global_id: t-197454
   teiginys: "Teodoras Narbutas globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -763,7 +727,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197455"></a>
 - t-042
-  global_id: t-197455
   teiginys: "Teodoras Narbutas visiems metams įgydavo gydomosios galios."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -776,7 +739,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197825"></a>
 - t-043
-  global_id: t-197825
   teiginys: "Per 400 metų nė vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeitimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -789,7 +751,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197826"></a>
 - t-044
-  global_id: t-197826
   teiginys: "Narbuto darbiniame LTI egzemp lioriuje, visose devyniose dalyse, atsirado daugybė pa taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -802,7 +763,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197827"></a>
 - t-045
-  global_id: t-197827
   teiginys: "Teodoras Narbutas buvo „nuoširdesnis“, be to, galima įžvelgti mažiau kompromisų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -815,7 +775,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 <a id="claim-t-197828"></a>
 - t-046
-  global_id: t-197828
   teiginys: "Teodoras Narbutas yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -825,40 +784,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179357
-
-<a id="claim-t-188629"></a>
-- t-015
-  global_id: t-188629
-  teiginys: 'Vytautas Berenis Teodorą Narbutą vadina lietuvių mitologijos tėvu ir tipišku savo epochos atstovu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti antraštės bei puslapio fragmentai, vertinimas paliktas su Vytauto Berenio atribucija. Neperimtos metaforinės detalės apie vaikus ir tėvą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_author: [[objektai/autoriai/Vytautas Berenis|Vytautas Berenis]]'
-  pagrindžia:
-    - c-015
-<a id="claim-t-188630"></a>
-- t-016
-  global_id: t-188630
-  teiginys: 'Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas palyginimo pagrindas ir vertinimas paliktas su Berenio atribucija. Nevardyti visi šaltiniai iš ilgo sąrašo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Francas Bopas|Francas Bopas]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Sirvydas|Sirvydas]]; mentioned_author: [[objektai/autoriai/Stenderis|Stenderis]]; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
-  pagrindžia:
-    - c-016
-<a id="claim-t-188639"></a>
-- t-025
-  global_id: t-188639
-  teiginys: 'Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti puslapio, išnašos ir bibliografinio skliausto fragmentai. Paliktas tik aiškiai cituojamas faktas apie bibliotekos rinkinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Šaurų dvaras'
-  pagrindžia:
-    - c-025
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-191935|Albertas Vijūkas-Kojalavičius]]: Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 - susijęs iš [[objektai/asmenys/Buda.md#claim-t-191260|Buda]]: Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą.
 - susijęs iš [[objektai/asmenys/Erazmas Stela.md#claim-t-191147|Erazmas Stela]]: Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų.
@@ -1113,6 +1038,108 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - susijęs iš [[objektai/posakiai/Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti.md#claim-t-192107|Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti]]: Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    (Sj ir kitus T. Narbuto laiškus nurodė R Stetgvila)
+    II
+
+    1846 m. Bychovco kronika, kurios, anot S. Daukanto,
+    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" ,J,
+    išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
+    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
+    domis ir paraščių pastabomis. Išnašose T. Narbutas pa­
+    aiškino kai kurias teksto vietas, tačiau tie paaiškinimai
+    turi tik istoriografinės reikšmės, nes yra arba pasenę,
+    arba klaidingi. Priede T. Narbutas paskelbė Bychovco
+    kronikos rankraščio 25-jo puslapio devynių eilučių
+    faksimilę, kuri, pasak jo, puikiai pavykusi ", ir pridėjo
+    pasakojimą apie 2ygimanto Augusto ir Barboros Radvi­
+    laitės vedybas, paimtą iš kito šaltinio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: '1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    T. Narbutas paliko taip pat pirmą ir vienintelį ži­
+    nomą rankraščio paleografinį aprašymą — pirmą kartą
+    „Lietuvių tautos istorijos" III-jame tome n , antrą kartą
+    Bychovco kronikos skelbinio pratarmėje l3. T, Narbuto
+    dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
+    pavadinimas — Bychovco kronika.
+    Kaip matyti iš T. Narbuto aprašymo, rankraštis bu­
+    vo palyginti nedidelės apimties — 20 sąsiuviniukų, t. y.
+    keturgubai sulenktų lapų, sunumeruotų eilės tvarka,
+    arba 160 puslapių. Po Bychovco kronikos tekstu, pačia­
+    me gale, kita ranka buvo prirašyta trumpa Vitebsko
+    kunigaikščių genealogija, pavadinta „A se jest ro-
+    doslowie kniazey VVytebskich".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    T. Narbutas ma­
+    nė, kad tai yra atskiras neišlikusios Bychovco kronikos
+    dalies fragmentas, bet vėlesnieji tyrinėjimai parodė,
+    kad tas pasakojimas yra savarankiškos kilmės ir žino­
+    mas iš Platesniojo sąvado tęsinio Račinskio nuoraše.
+    T. Narbutas paliko taip pat pirmą ir vienintelį ži­
+    nomą rankraščio paleografinį aprašymą — pirmą kartą
+    „Lietuvių tautos istorijos" III-jame tome n , antrą kartą
+    Bychovco kronikos skelbinio pratarmėje l3. T, Narbuto
+    dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
+    pavadinimas — Bychovco kronika.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Iš tikrųjų T. Narbutas plačiai, nors ir nekritiškai
+    panaudojo naująjį šaltinį svarbiausiame savo gyvenimo
+    veikale — 9 tomų „Lietuvių tautos istorijoje" (T, Nar-
+    butt, Dzieje starožytne narodu Litewskiego, t. I—IX,
+    Wilno, 1835—1841). Iškeldamas Bychovco kronikos
+    vertę, T. Narbutas rašė istorikui I. Onacevičiui, kad
+    tai „lobių lobis, nes tai svarbiausias šaltinis, iš kurio
+    sėmė Strijkovskis. Aš ją paėmiau savojo veikalo pa­
+    grindu kaip vienintelį Lietuvos istorijos liudininką at­
+    remti priekaištams, daromiems Strijkovskiui"7.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: tiesioginė-citata
+  statusas: verified
+- c-013
+  santrauka: 'Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis - istoriko politinės simpatijos LDK ir
+    lietuvių tautai. T. Narbutas - tipiškas gente lituanus, natione
+    polonus lietuvis bajoras. Ksavero Bogušo, Ignoto Onacevičiaus,
+    Adomo Honorijaus Kirkoro ir jo kultūrinio būrelio kūryba ir
+    veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
+    tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
+    6 Jonynas I. Istorijos baruose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-015
   santrauka: 'Vytautas Berenis Teodorą Narbutą vadina lietuvių mitologijos tėvu ir tipišku savo epochos atstovu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1137,11 +1164,9 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     epochos idealus, buvo jos sąžinė ir balsas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188629
+  statusas: verified
 - c-016
   santrauka: 'Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1175,11 +1200,108 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     vo pirmtakus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188630
+  statusas: verified
+- c-017
+  santrauka: 'Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Radęs Sirvydo žodyne
+    prie lenkiško žodžio Przeznaczam lietuvišką žodį Pražimiu ir
+    žinodamas, kad iš veiksmažodžių padaryti daiktavardžiai lie­
+    tuvių kalboje turi galūnę -imas, iš žodžio Pražimiu, kiek nutol­
+    damas nuo lietuvių kalbai įprastos formos (vietospražinimas),
+    padarė pramžimas“15.
+    Pakeičiamas ir M. Strijkovskio minimo arklių ir karo die­
+    vo Chaurirari pavadinimas. Lietuvių karo dievas buvęs Kovas.
+    Šitokią prielaidą padaryti T. Narbutą bus paskatinę lietuviškų
+    15 Stanevičius S. Raštai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-018
+  santrauka: 'Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija: „Aš nerašau lietuvių tautos istorijos <...>“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, su­
+    manymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris
+    sudarys penkis arba šešis tomus, negali būti vadinamas istori­
+    ja (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį
+    pavadinimą4. Vadinasi, iš cituoto teksto galima spręsti, kad
+    3 Šaurai? (Be datos). T. Narbutas I. Onacevičiui // Lietuvos moks­
+    lų akademijos bibliotekos rankraščių skyrius (toliau - MAB RS).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-019
+  santrauka: 'Laiške Ignotui Onacevičiui Teodoras Narbutas savo uždaviniu vadino praeities įvykių esmės atskleidimą nuo tautos kilmės iki 1569 m.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Simonas Daukantas vadinamaja­
+    me „Didžiajame lenkų-lietuvių kalbų žodyne“ žod[dzieje aiš­
+    kino kaip wejkaiaj, księga dziejovv - kniga wejkaiu, dziejopis -
+    wejkaiuraszytojas ir 1.1. Beje, žodį dziejopis (dziejopisarz) pri­
+    lygino žodžiui latopisiec, t. y. meturaszitojas\ Taigi laikantis
+    anuometinės terminijos, T. Narbuto LTI turėtų būti vadina­
+    ma „Lietuvių tautos veikalais“, o pirmieji trys tomai - „Lietu­
+    vių tautos veikalais senovėje“ - beveik identiškai S. Daukanto
+    tekstui „Pasakojimas apie veikalus lietuvių tautos senovėje“.
+    T. Narbutas sąmoningai vengė žodžio „istorija“; tarytum ne­
+    pretendavo į moksliškumą, suvokdamas save tik kaip apraši­
+    nėtoją, meturaszitoją, bet ne istoriką - net anuometiniu įsi­
+    vaizdavimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-021
+  santrauka: 'Oficialios recenzijos į Teodoro Narbuto „Lietuvių mitologiją“ pasirodė 1835 ir 1836 metais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip ir įprasta kiekvie­
+    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
+    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
+    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
+    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
+    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
+    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
+    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
+    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
+    taip pat skambėjo įvairiuose to krašto padavimuose. Jau vien
+    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
+    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
+    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
+    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
+    ta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-024
+  santrauka: 'Citatos autorius teigia, kad Teodoras Narbutas lietuvių mitologijos tyrinėjimams skyrė ypač daug dėmesio.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Taigi būtų svarbu, jei­
+    gu mes, skaitydami „Lietuvių mitologiją“, sugebėtume pama­
+    tyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasakyta, kaip
+    kuriamas vaizdas, kaip niveliuojasi atskiros detalės, faktai, kaip
+    į pirmą vietą iškyla visuma, panorama, vaizdas.
+    Jau ne vieną kartą cituotame laiške I. Onacevičiui T. Nar­
+    butas savo tyrinėjimus mitologijos srityje apibūdino kaip „dar­
+    54 Ten pat. - L. VI.
+    55 Žr. šio leidinio p. 80.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-025
   santrauka: 'Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1195,11 +1317,51 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     w Szawrach.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188639
+  statusas: not_found
+- c-026
+  santrauka: 'Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    mo kalba yra paredaguota (pakeisti žodžiai, jų vie­
+    ta sakinyje), pakeistos datos: šventyklos įkūrimo
+    metai iš 1285-ųjų ištaisyti į 1265-uosius, 1282-ieji
+    pakeisti 1263 metais; šventyklos išgriovimo data iš
+    1386-ųjų pataisyta į 1387-uosius; Vilniaus kated­
+    ros gaisro metai nukelti iš 1403-iųjų į 1399-uosius;
+    paženklintų plytų skaičius iš 101 ištaisytas į 122. Sia­
+    me vertime „altoriaus“ (aukuro) aprašymas ampli-
+    fikuotas žodžiais, kurių originale nėra (apie auko­
+    jimų aukuro viršaus aptvėrimą briedžių ragais). Sia­
+    me vertime pateikiami ir kitokie negu 1817 metų
+    vertime šventyklos matmenys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-028
+  santrauka: 'Papildymo tekstas leidžia spręsti, kad Teodoras Narbutas gerai pažinojo visus 1804 m. komisijos narius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    T. Narbutas
+    turi omenyje geografo ir kartografo G. Brauno
+    (1541-1622) didžiųjų pasaulio miestų atlasą (Civi­
+    tates orbis terrarum).
+    P. 458* -
+    Priedas (be pavadinimo), kuriuo T. Narbutas pa­
+    pildė pirmąjį LT1 tomą, rengdamas antrąjį leidimą
+    (PE. - L. 327).
+    P. 458** - Priedas (be pavadinimo), kuriuo autorius papildė
+    pirmąjį LTI tomą, rengdamas antrąjį leidimą
+    (PEĮ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-169848
@@ -1207,35 +1369,21 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    (Sj ir kitus T. Narbuto laiškus nurodė R Stetgvila)
-    II
-
-    1846 m. Bychovco kronika, kurios, anot S. Daukanto,
-    visi seniai jau laukė, „kaip ištroškęs vandens lašelio" ,J,
-    išėjo atskiru leidiniu.10 Rankraščio tekstas jame buvo
-    perteiktas be jokių taisymų, su rašybos, skyrybos klai­
-    domis ir paraščių pastabomis. Išnašose T. Narbutas pa­
-    aiškino kai kurias teksto vietas, tačiau tie paaiškinimai
-    turi tik istoriografinės reikšmės, nes yra arba pasenę,
-    arba klaidingi. Priede T. Narbutas paskelbė Bychovco
-    kronikos rankraščio 25-jo puslapio devynių eilučių
-    faksimilę, kuri, pasak jo, puikiai pavykusi ", ir pridėjo
-    pasakojimą apie 2ygimanto Augusto ir Barboros Radvi­
-    laitės vedybas, paimtą iš kito šaltinio.
-  citata_rodoma: |
     Baigdamas „Lietuvos istoriją", T. Narbutas nuo
     1838 m. pradėjo rūpintis Bychovco kronikos išspaus-
     dinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo
     artimiausiam bičiuliui gydytojui A. Renjerui, prašyda-
     mas perduoti jį giminaičiui V. Narbutui, kuris vėliau
     tvarkė spausdinimo reikalus ir skaitė korektūras.
+  citata_rodoma: "Baigdamas „Lietuvos istoriją\", T. Narbutas nuo\n1838 m. pradėjo rūpintis Bychovco kronikos išspaus-\ndinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo\nartimiausiam bičiuliui gydytojui A. Renjerui, prašyda-\nmas perduoti jį giminaičiui V. Narbutui, kuris vėliau\ntvarkė spausdinimo reikalus ir skaitė korektūras."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186514
+    - t-009
+
 - id: c-169849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1252,84 +1400,52 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     turėjo... Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
     kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
     o tai mėginama jau daryti"13.
-  citata_rodoma: |
-    Tuo metu Lietu­
-    voje populiarus T. Narbutas susilaukė rūsčios jo kritikos. „Kas
-    tiek pasakų palaikė tiesa ir gretino jas su tikrais įvykiais, kas
-    nesvyruodamas keitė datas ir savaip perdirbo daugelio autorių
-    tekstus, kas paprastuose popiergaliuose, neturinčiuose jokios
-    istorinės vertės, matė senus dokumentus ir jais rėmė klaidingas
-    išvadas, kas pagaliau iš būdvardžių ir patarlių sukūrė savo vaiz­
-    duotėje daugybę pagoniškų dievų Lietuvai, kurių ji niekada ne­
-    turėjo... Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
-    kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
-    o tai mėginama jau daryti"13.
+  citata_rodoma: "Tuo metu Lietu­\nvoje populiarus T. Narbutas susilaukė rūsčios jo kritikos. „Kas\ntiek pasakų palaikė tiesa ir gretino jas su tikrais įvykiais, kas\nnesvyruodamas keitė datas ir savaip perdirbo daugelio autorių\ntekstus, kas paprastuose popiergaliuose, neturinčiuose jokios\nistorinės vertės, matė senus dokumentus ir jais rėmė klaidingas\nišvadas, kas pagaliau iš būdvardžių ir patarlių sukūrė savo vaiz­\nduotėje daugybę pagoniškų dievų Lietuvai, kurių ji niekada ne­\nturėjo... Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­\nkintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -\no tai mėginama jau daryti\"13."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186515
+    - t-003
+
 - id: c-169850
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    T. Narbutas paliko taip pat pirmą ir vienintelį ži­
-    nomą rankraščio paleografinį aprašymą — pirmą kartą
-    „Lietuvių tautos istorijos" III-jame tome n , antrą kartą
-    Bychovco kronikos skelbinio pratarmėje l3. T, Narbuto
-    dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
-    pavadinimas — Bychovco kronika.
-    Kaip matyti iš T. Narbuto aprašymo, rankraštis bu­
-    vo palyginti nedidelės apimties — 20 sąsiuviniukų, t. y.
-    keturgubai sulenktų lapų, sunumeruotų eilės tvarka,
-    arba 160 puslapių. Po Bychovco kronikos tekstu, pačia­
-    me gale, kita ranka buvo prirašyta trumpa Vitebsko
-    kunigaikščių genealogija, pavadinta „A se jest ro-
-    doslowie kniazey VVytebskich".
-  citata_rodoma: |
     1846 m. Bychovco kronika išėjo atskiru leidiniu.
     Rankraščio tekstas jame buvo perteiktas be jokių taisymų,
     su rašybos, skyrybos klaidomis ir paraščių pastabomis.
     Išnašose T. Narbutas paaiškino kai kurias teksto vietas,
     tačiau tie paaiškinimai turi tik istoriografinės reikšmės.
+  citata_rodoma: "1846 m. Bychovco kronika išėjo atskiru leidiniu.\nRankraščio tekstas jame buvo perteiktas be jokių taisymų,\nsu rašybos, skyrybos klaidomis ir paraščių pastabomis.\nIšnašose T. Narbutas paaiškino kai kurias teksto vietas,\ntačiau tie paaiškinimai turi tik istoriografinės reikšmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186512
+    - t-010
+
 - id: c-169851
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    T. Narbutas ma­
-    nė, kad tai yra atskiras neišlikusios Bychovco kronikos
-    dalies fragmentas, bet vėlesnieji tyrinėjimai parodė,
-    kad tas pasakojimas yra savarankiškos kilmės ir žino­
-    mas iš Platesniojo sąvado tęsinio Račinskio nuoraše.
-    T. Narbutas paliko taip pat pirmą ir vienintelį ži­
-    nomą rankraščio paleografinį aprašymą — pirmą kartą
-    „Lietuvių tautos istorijos" III-jame tome n , antrą kartą
-    Bychovco kronikos skelbinio pratarmėje l3. T, Narbuto
-    dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
-    pavadinimas — Bychovco kronika.
-  citata_rodoma: |
     T. Narbutas paliko taip pat pirmą ir vienintelį ži-
     nomą rankraščio paleografinį aprašymą. T. Narbuto
     dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
     pavadinimas — Bychovco kronika.
+  citata_rodoma: "T. Narbutas paliko taip pat pirmą ir vienintelį ži-\nnomą rankraščio paleografinį aprašymą. T. Narbuto\ndėka istoriografijoje įsigalėjo ir dabartinis Kronikos\npavadinimas — Bychovco kronika."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186513
+    - t-011
+
 - id: c-169852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1347,26 +1463,15 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
     zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
-  citata_rodoma: |
-    Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-    Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra
-    neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
-    padėjusia ateinančioms kartoms formuoti istorinės savimonės
-    pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
-    kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
-    zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
+  citata_rodoma: "Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų\nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis.\nLenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra\nneblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,\npadėjusia ateinančioms kartoms formuoti istorinės savimonės\npagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,\nkitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­\nzės vengdavęs rašyti apie vieną ar kitą istorinį įvykį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186511
+    - t-002
+
 - id: c-169853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1381,39 +1486,20 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą.
-  citata_rodoma: |
-    Iš
-    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
-    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
-    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
-    čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
-    tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
-    ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
-    formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
-    mą.
+  citata_rodoma: "Iš\ntiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet\nveikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­\nvo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­\nčių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių\ntautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­\nieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo\nformos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­\nmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186516
+    - t-001
+
 - id: c-169854
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Iš tikrųjų T. Narbutas plačiai, nors ir nekritiškai
-    panaudojo naująjį šaltinį svarbiausiame savo gyvenimo
-    veikale — 9 tomų „Lietuvių tautos istorijoje" (T, Nar-
-    butt, Dzieje starožytne narodu Litewskiego, t. I—IX,
-    Wilno, 1835—1841). Iškeldamas Bychovco kronikos
-    vertę, T. Narbutas rašė istorikui I. Onacevičiui, kad
-    tai „lobių lobis, nes tai svarbiausias šaltinis, iš kurio
-    sėmė Strijkovskis. Aš ją paėmiau savojo veikalo pa­
-    grindu kaip vienintelį Lietuvos istorijos liudininką at­
-    remti priekaištams, daromiems Strijkovskiui"7.
-  citata_rodoma: |
     Iš tikrųjų T. Narbutas plačiai, nors ir nekritiškai
     panaudojo naująjį šaltinį svarbiausiame savo gyvenimo
     veikale — 9 tomų „Lietuvių tautos istorijoje". Iškeldamas
@@ -1422,13 +1508,15 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     šaltinis, iš kurio sėmė Strijkovskis. Aš ją paėmiau savojo
     veikalo pagrindu kaip vienintelį Lietuvos istorijos liudininką
     atremti priekaištams, daromiems Strijkovskiui".
+  citata_rodoma: "Iš tikrųjų T. Narbutas plačiai, nors ir nekritiškai\npanaudojo naująjį šaltinį svarbiausiame savo gyvenimo\nveikale — 9 tomų „Lietuvių tautos istorijoje\". Iškeldamas\nBychovco kronikos vertę, T. Narbutas rašė istorikui\nI. Onacevičiui, kad tai „lobių lobis, nes tai svarbiausias\nšaltinis, iš kurio sėmė Strijkovskis. Aš ją paėmiau savojo\nveikalo pagrindu kaip vienintelį Lietuvos istorijos liudininką\natremti priekaištams, daromiems Strijkovskiui\"."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186510
+    - t-008
+
 - id: c-171511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1445,7 +1533,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188622
+    - t-004
+
 - id: c-171512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1463,7 +1552,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188623
+    - t-005
+
 - id: c-171513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1485,7 +1575,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188624
+    - t-006
+
 - id: c-171514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1503,7 +1594,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188625
+    - t-007
+
 - id: c-171515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1520,35 +1612,27 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188626
+    - t-012
+
 - id: c-171516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
-    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
-    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
-    nuvertinimo priežastis - istoriko politinės simpatijos LDK ir
-    lietuvių tautai. T. Narbutas - tipiškas gente lituanus, natione
-    polonus lietuvis bajoras. Ksavero Bogušo, Ignoto Onacevičiaus,
-    Adomo Honorijaus Kirkoro ir jo kultūrinio būrelio kūryba ir
-    veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
-    tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
-    6 Jonynas I. Istorijos baruose.
-  citata_rodoma: |
     LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
     dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
     savarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­
     mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
     litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
+  citata_rodoma: "LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­\ndą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai\nsavarankiškos LDK egzistavimo pabaiga. T. Narbutas, sekda­\nmas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­\nlitiniams įvykiams ir pagal juos suskirstė veikalo turinį6."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188627
+    - t-013
+
 - id: c-171517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1566,78 +1650,50 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188628
+    - t-014
+
 - id: c-171520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Radęs Sirvydo žodyne
-    prie lenkiško žodžio Przeznaczam lietuvišką žodį Pražimiu ir
-    žinodamas, kad iš veiksmažodžių padaryti daiktavardžiai lie­
-    tuvių kalboje turi galūnę -imas, iš žodžio Pražimiu, kiek nutol­
-    damas nuo lietuvių kalbai įprastos formos (vietospražinimas),
-    padarė pramžimas“15.
-    Pakeičiamas ir M. Strijkovskio minimo arklių ir karo die­
-    vo Chaurirari pavadinimas. Lietuvių karo dievas buvęs Kovas.
-    Šitokią prielaidą padaryti T. Narbutą bus paskatinę lietuviškų
-    15 Stanevičius S. Raštai.
-  citata_rodoma: |
     Analizuodamas M. Strijkovskio minimą dievą Prokorimą,
     T. Narbutas pakeičia net jo vardą -  vadina Pramžimu (Pram-
     iimas). M. Strijkovskis šį dievą apibūdino tik kaip „patį pir­
     mutinį“ (naprzedniejszy) ir rašė, kad jam buvo aukojami balti
     gaidžiai. O T. Narbutas vadina jį „pirmutiniu ir visuotinai pa­
     plitusiu dievu“. Jo vardas reiškiąs lemtį, likimą, būtinybę.
+  citata_rodoma: "Analizuodamas M. Strijkovskio minimą dievą Prokorimą,\nT. Narbutas pakeičia net jo vardą -  vadina Pramžimu (Pram-\niimas). M. Strijkovskis šį dievą apibūdino tik kaip „patį pir­\nmutinį“ (naprzedniejszy) ir rašė, kad jam buvo aukojami balti\ngaidžiai. O T. Narbutas vadina jį „pirmutiniu ir visuotinai pa­\nplitusiu dievu“. Jo vardas reiškiąs lemtį, likimą, būtinybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188631
+    - t-017
+
 - id: c-171521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, su­
-    manymų, pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris
-    sudarys penkis arba šešis tomus, negali būti vadinamas istori­
-    ja (historia), o tik veikalais (dzieje), t. y. turi turėti kuklesnį
-    pavadinimą4. Vadinasi, iš cituoto teksto galima spręsti, kad
-    3 Šaurai? (Be datos). T. Narbutas I. Onacevičiui // Lietuvos moks­
-    lų akademijos bibliotekos rankraščių skyrius (toliau - MAB RS).
-  citata_rodoma: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
     tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
     pradėjo laišką istorikui Ignotui Onacevičiui3.
+  citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -\ntokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas\npradėjo laišką istorikui Ignotui Onacevičiui3."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188632
+    - t-018
+
 - id: c-171522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Simonas Daukantas vadinamaja­
-    me „Didžiajame lenkų-lietuvių kalbų žodyne“ žod[dzieje aiš­
-    kino kaip wejkaiaj, księga dziejovv - kniga wejkaiu, dziejopis -
-    wejkaiuraszytojas ir 1.1. Beje, žodį dziejopis (dziejopisarz) pri­
-    lygino žodžiui latopisiec, t. y. meturaszitojas\ Taigi laikantis
-    anuometinės terminijos, T. Narbuto LTI turėtų būti vadina­
-    ma „Lietuvių tautos veikalais“, o pirmieji trys tomai - „Lietu­
-    vių tautos veikalais senovėje“ - beveik identiškai S. Daukanto
-    tekstui „Pasakojimas apie veikalus lietuvių tautos senovėje“.
-    T. Narbutas sąmoningai vengė žodžio „istorija“; tarytum ne­
-    pretendavo į moksliškumą, suvokdamas save tik kaip apraši­
-    nėtoją, meturaszitoją, bet ne istoriką - net anuometiniu įsi­
-    vaizdavimu.
-  citata_rodoma: |
     Taigi skaitome: „Aš nerašau
     lietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu
     darbu; be kita ko, ir pats Livijus nesugebėtų jos parašyti -  to­
@@ -1647,13 +1703,15 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     gijos“, yra atskleisti praeities įvykių esmę, pradedant tautos
     kilmės ab ovo (pabr. T. N. -  R. G.), iki pat tų laikų, kai ji 1569
     metais, valdant Žygimantui Augustui, susijungė su Lenkija.
+  citata_rodoma: "Taigi skaitome: „Aš nerašau\nlietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu\ndarbu; be kita ko, ir pats Livijus nesugebėtų jos parašyti -  to­\nkia ji šiandien, kai nuosmukį patyrė dalykai, galėję palaikyti\njos šaunumą, yra neapdorota, tokius išbarstytus ir išblaškytus\nturi šaltinius. Mano uždavinys, kaip galima spręsti iš „Mitolo­\ngijos“, yra atskleisti praeities įvykių esmę, pradedant tautos\nkilmės ab ovo (pabr. T. N. -  R. G.), iki pat tų laikų, kai ji 1569\nmetais, valdant Žygimantui Augustui, susijungė su Lenkija."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188633
+    - t-019
+
 - id: c-171523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1677,28 +1735,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188634
+    - t-020
+
 - id: c-171524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kaip ir įprasta kiekvie­
-    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
-    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
-    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
-    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
-    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
-    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
-    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
-    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
-    taip pat skambėjo įvairiuose to krašto padavimuose. Jau vien
-    dėl šios priežasties jo darbas tapo reikšminga medžiaga, kad
-    kada nors būtų parašyta tikra (pabr. mano - R. G.) Lietuvos
-    istorija“20. Recenzento nuomone, T. Narbuto „Lietuvių mito­
-    18 Dzieje starožytne narodu Litewskiego przez Teodora Narbut-
-    ta.
-  citata_rodoma: |
     Oficialūs atgarsiai į T. Narbuto „Lietu­
     vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
     tais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­
@@ -1706,13 +1749,15 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
     miška, o antroji priklausė Juozapo Ignoto Kraševskio
     plunksnai.
+  citata_rodoma: "Oficialūs atgarsiai į T. Narbuto „Lietu­\nvių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­\ntais 1836 metais. Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188635
+    - t-021
+
 - id: c-171525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1730,7 +1775,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188636
+    - t-022
+
 - id: c-171526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1750,65 +1796,47 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188637
+    - t-023
+
 - id: c-171527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi būtų svarbu, jei­
-    gu mes, skaitydami „Lietuvių mitologiją“, sugebėtume pama­
-    tyti ne tik tai, kas pasakyta, bet ir tai, kaip tai pasakyta, kaip
-    kuriamas vaizdas, kaip niveliuojasi atskiros detalės, faktai, kaip
-    į pirmą vietą iškyla visuma, panorama, vaizdas.
-    Jau ne vieną kartą cituotame laiške I. Onacevičiui T. Nar­
-    butas savo tyrinėjimus mitologijos srityje apibūdino kaip „dar­
-    54 Ten pat. - L. VI.
-    55 Žr. šio leidinio p. 80.
-  citata_rodoma: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
     gu galima būtų manyti detaliau jų nepažinus. Nedvejojant ga­
     lima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­
     mesio, kurį galbūt net būtų galima pavadinti aistra.
+  citata_rodoma: "Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­\nlogijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­\ngu galima būtų manyti detaliau jų nepažinus. Nedvejojant ga­\nlima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­\nmesio, kurį galbūt net būtų galima pavadinti aistra."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188638
+    - t-024
+
 - id: c-171529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    mo kalba yra paredaguota (pakeisti žodžiai, jų vie­
-    ta sakinyje), pakeistos datos: šventyklos įkūrimo
-    metai iš 1285-ųjų ištaisyti į 1265-uosius, 1282-ieji
-    pakeisti 1263 metais; šventyklos išgriovimo data iš
-    1386-ųjų pataisyta į 1387-uosius; Vilniaus kated­
-    ros gaisro metai nukelti iš 1403-iųjų į 1399-uosius;
-    paženklintų plytų skaičius iš 101 ištaisytas į 122. Sia­
-    me vertime „altoriaus“ (aukuro) aprašymas ampli-
-    fikuotas žodžiais, kurių originale nėra (apie auko­
-    jimų aukuro viršaus aptvėrimą briedžių ragais). Sia­
-    me vertime pateikiami ir kitokie negu 1817 metų
-    vertime šventyklos matmenys.
-  citata_rodoma: |
     Die­
     vo Kovo stabą T. Narbutas ypač vertino laikyda­
     mas jį vienu svarbiausių savo kolekcijos egzem­
     pliorių ([Narbutt TĄ Spisanie Muzeum w Szaw-
     rach. -  L. 2. -  Nr. 9). Šio stabo kopija buvo eks­
     ponuojama Vilniaus senienų muziejuje.
+  citata_rodoma: "Die­\nvo Kovo stabą T. Narbutas ypač vertino laikyda­\nmas jį vienu svarbiausių savo kolekcijos egzem­\npliorių ([Narbutt TĄ Spisanie Muzeum w Szaw-\nrach. -  L. 2. -  Nr. 9). Šio stabo kopija buvo eks­\nponuojama Vilniaus senienų muziejuje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188640
+    - t-026
+
 - id: c-171530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1831,24 +1859,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188641
+    - t-027
+
 - id: c-171531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    T. Narbutas
-    turi omenyje geografo ir kartografo G. Brauno
-    (1541-1622) didžiųjų pasaulio miestų atlasą (Civi­
-    tates orbis terrarum).
-    P. 458* -
-    Priedas (be pavadinimo), kuriuo T. Narbutas pa­
-    pildė pirmąjį LT1 tomą, rengdamas antrąjį leidimą
-    (PE. - L. 327).
-    P. 458** - Priedas (be pavadinimo), kuriuo autorius papildė
-    pirmąjį LTI tomą, rengdamas antrąjį leidimą
-    (PEĮ.
-  citata_rodoma: |
     T. Nar­
     butas apie 1804 metų komisiją sužinojo susipaži­
     nęs su M. Višnevskio „Lenkų literatūros istorija“
@@ -1856,13 +1873,15 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     Krakow, 1844. -  T. VI. -  S. 409-411). Visi komisi­
     jos nariai T. Narbutui, kaip galima spręsti iš papil­
     dymo teksto, buvo gerai pažįstami.
+  citata_rodoma: "T. Nar­\nbutas apie 1804 metų komisiją sužinojo susipaži­\nnęs su M. Višnevskio „Lenkų literatūros istorija“\n(Wiszniewski M. Historya literatury Polskiej. -\nKrakow, 1844. -  T. VI. -  S. 409-411). Visi komisi­\njos nariai T. Narbutui, kaip galima spręsti iš papil­\ndymo teksto, buvo gerai pažįstami."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188642
+    - t-028
+
 - id: c-173867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1880,7 +1899,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190985
+    - t-029
+
 - id: c-173868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1902,8 +1922,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190986
-    - t-197827
+    - t-045
+
 - id: c-173869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1925,7 +1945,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190987
+    - t-031
+
 - id: c-173870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1947,7 +1968,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190988
+    - t-032
+
 - id: c-173871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1964,7 +1986,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190989
+    - t-033
+
 - id: c-179194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1984,7 +2007,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197447
+    - t-034
+
 - id: c-179195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2006,7 +2030,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197448
+    - t-035
+
 - id: c-179196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2028,7 +2053,9 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197449
+    - t-019
+    - t-036
+
 - id: c-179197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2049,7 +2076,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197450
+    - t-037
+
 - id: c-179198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2070,7 +2098,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197451
+    - t-038
+
 - id: c-179199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2092,7 +2121,9 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197452
+    - t-019
+    - t-039
+
 - id: c-179200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2114,7 +2145,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197453
+    - t-040
+
 - id: c-179201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2135,7 +2167,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197454
+    - t-041
+
 - id: c-179202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2152,7 +2185,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197455
+    - t-042
+
 - id: c-179355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2171,7 +2205,9 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197825
+    - t-030
+    - t-043
+
 - id: c-179356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2192,7 +2228,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197826
+    - t-044
+
 - id: c-179357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2214,4 +2251,4 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197828
+    - t-046

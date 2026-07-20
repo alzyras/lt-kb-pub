@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201333"></a>
 - t-001
-  global_id: t-201333
   teiginys: "Vratislavas, brolis Mestvino, pa sigailęs vargų savo ūkėjų tose terionėse, pąkajų padarė su kryžėjais."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184683
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vratislavas, brolis Mestvino, pa­
     sigailęs vargų savo ūkėjų tose terionėse, pąkajų
@@ -80,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201333
+    - t-001

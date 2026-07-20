@@ -31,7 +31,6 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 
 <a id="claim-t-191637"></a>
 - t-001
-  global_id: t-191637
   teiginys: "Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitlandsorte perleistos Ordinui tvirtovei statyti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 
 <a id="claim-t-191638"></a>
 - t-002
-  global_id: t-191638
   teiginys: "Dregerio skelbta sutartis mini tvirtoves, kurių vietas, pasak Teodoro Narbuto, sunku atrasti dėl blogai išrašytų pavadinimų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191637
+    - t-001
+
 - id: c-174520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -101,4 +100,4 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191638
+    - t-002

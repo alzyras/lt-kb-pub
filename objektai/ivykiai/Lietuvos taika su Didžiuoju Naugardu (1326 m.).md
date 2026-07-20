@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-89378"></a>
 - t-001
-  global_id: t-89378
   teiginys: "1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-89379"></a>
 - t-002
-  global_id: t-89379
   teiginys: "Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,5 +110,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89378
-    - t-89379
+    - t-001
+    - t-002

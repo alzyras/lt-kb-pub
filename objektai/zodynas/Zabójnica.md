@@ -37,7 +37,6 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
 
 <a id="claim-t-86630"></a>
 - t-001
-  global_id: t-86630
   teiginys: "1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,21 +85,11 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
     laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
     niaus miestiečių laivams su prekėmis, o keliantis perkėla
     visur atleidžiama nuo bet kokių mokesčių41.
-  citata_rodoma: |
-    ) didžiųjų Lietuvos kunigaikščių Vilniui
-    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
-    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
-    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
-    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
-    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
-    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
-    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
-    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40.
+  citata_rodoma: ") didžiųjų Lietuvos kunigaikščių Vilniui \nduoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­\nsandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­\nrėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto \ngyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo \nduotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86630
+    - t-001

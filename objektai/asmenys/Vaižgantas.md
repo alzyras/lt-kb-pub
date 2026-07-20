@@ -31,7 +31,6 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
 
 <a id="claim-t-78080"></a>
 - t-001
-  global_id: t-78080
   teiginys: "Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,21 +71,11 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
     dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: |
-    Nacionalinėje lietuvių valstybėje žydams liko uždara
-    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
-    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
-    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
-    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
-    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
-    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
-    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
-    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
-    žydai tarpusavyje dažnai vartojo rusų kalbą.
+  citata_rodoma: "Nacionalinėje lietuvių valstybėje žydams liko uždara \nvalstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-\njoje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-\nnių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų \nsistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-\nbiais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių \nkultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius \ndar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos \npusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad \nžydai tarpusavyje dažnai vartojo rusų kalbą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78080
+    - t-001

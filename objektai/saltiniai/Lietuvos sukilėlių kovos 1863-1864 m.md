@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-97268"></a>
 - t-001
-  global_id: t-97268
   teiginys: "„Lietuvos sukilėlių kovos 1863-1864 m.“ buvo išleista 1969 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ media_all_json: |-
 
 <a id="claim-t-97269"></a>
 - t-002
-  global_id: t-97269
   teiginys: "Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,15 +96,12 @@ media_all_json: |-
     (^119) **Be to,** **_Lietuvos sukilėlių kovos 1863-1864 m._** **(1969); ji rašė ir Pane­
     vėžio miesto istorijos klausimais (AkMD, t. 11, 1961, 125-131 p. ; t. 12, 1962)
     ir apie Zigmanto Sierakausko gyvenimą (AkMD, t. 16, 1964, 135-153 p.).
-  citata_rodoma: |
-    13, 1972, 19-38 p.**
-    (^119) **Be to,** **_Lietuvos sukilėlių kovos 1863-1864 m._** **(1969); ji rašė ir Pane­
-    vėžio miesto istorijos klausimais (AkMD, t.
+  citata_rodoma: "13, 1972, 19-38 p.**\n(^119) **Be to,** **_Lietuvos sukilėlių kovos 1863-1864 m._** **(1969); ji rašė ir Pane­\nvėžio miesto istorijos klausimais (AkMD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97268
-    - t-97269
+    - t-001
+    - t-002

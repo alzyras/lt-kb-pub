@@ -37,7 +37,6 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
 
 <a id="claim-t-02333"></a>
 - t-001
-  global_id: t-02333
   teiginys: "1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: |
-    Sumanęs suduoti Augustui smūgį skaudžiausioje
-    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
-    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-    (1706 m.).
+  citata_rodoma: "Sumanęs suduoti Augustui smūgį skaudžiausioje\nvietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,\nAugustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,\natsižadėjo Respublikos sosto ir pripažino karalium Leščinskį\n(1706 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02333
+    - t-001

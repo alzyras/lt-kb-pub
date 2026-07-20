@@ -31,7 +31,6 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
 
 <a id="claim-t-194791"></a>
 - t-001
-  global_id: t-194791
   teiginys: "Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194791
+    - t-001

@@ -38,8 +38,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 ## Teiginiai
 
 <a id="claim-t-88209"></a>
-- t-001
-  global_id: t-88209
+- t-002
   teiginys: "1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - c-84190
 
 <a id="claim-t-88210"></a>
-- t-002
-  global_id: t-88210
+- t-003
   teiginys: "1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - c-84188
 
 <a id="claim-t-88211"></a>
-- t-003
-  global_id: t-88211
+- t-001
   teiginys: "1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,7 +116,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88210
+    - t-003
+
 - id: c-84189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,7 +147,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88211
+    - t-001
+
 - id: c-84190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,4 +165,4 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88209
+    - t-002

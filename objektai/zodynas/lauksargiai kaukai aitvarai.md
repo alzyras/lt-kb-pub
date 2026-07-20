@@ -31,7 +31,6 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
 
 <a id="claim-t-03062"></a>
 - t-001
-  global_id: t-03062
   teiginys: "Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03062
+    - t-001

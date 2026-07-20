@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-195667"></a>
-- t-001
-  global_id: t-195667
+- t-002
   teiginys: "Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-178068
 
 <a id="claim-t-195668"></a>
-- t-002
-  global_id: t-195668
+- t-003
   teiginys: "Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -76,8 +74,7 @@ Nenurodyta
     - c-178069
 
 <a id="claim-t-195669"></a>
-- t-003
-  global_id: t-195669
+- t-001
   teiginys: "Vyžas pindavo iš suraitytų karnų."
   atnaujinta: "2026-07-12 11:56"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -97,23 +94,16 @@ Nenurodyta
   puslapiai: "p. 52 (PDF 50)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 52 (PDF 50)."
   citata_originali: |
-    Man tuo sykiu buvo išimtis.
-    Į mane piemens dėl dviejų priežasčių žiūrėjo geromis akimis: pirma,
-    užvakar, kai visi išvažiavo į Pašušvį, mudu su Praniuku juos priėmėme
-    į vyšnias, kurių jie iki sočiai prisivalgė; antra, netrukus prinoks sode
-    vaisiai, ir aš būsiu obuolių, kriaušių ir slyvų ponas, ko jie jau dabar
-    geidė.
-    Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vy­
-    žas pinti.
-  citata_rodoma: |
     Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti.
+  citata_rodoma: "Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195669
+    - t-001
+
 - id: c-178068
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -126,34 +116,27 @@ Nenurodyta
     snukį ir kulną*'.
     Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų
     po padu, kad jis ilgiau laikytų.
-  citata_rodoma: |
-    Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų.
+  citata_rodoma: "Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195667
+    - t-002
+
 - id: c-178069
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 54 (PDF 52)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 54 (PDF 52)."
   citata_originali: |
-    likęs vienas be Baltro, jis vėl negalėjo vyžos
-    pinti.
-    Baltras
-    atėjo
-    prievakary ir atnešė terboje žirnių anksčių.
-    Pertaisė Napaliuko dar­
-    bą ir padarė dailią, mažą vyžiukę.
-  citata_rodoma: |
     Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
+  citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
   statusas: verified
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195668
+    - t-003

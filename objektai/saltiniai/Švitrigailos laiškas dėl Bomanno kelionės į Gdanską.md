@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88514"></a>
 - t-001
-  global_id: t-88514
   teiginys: "Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88514
+    - t-001

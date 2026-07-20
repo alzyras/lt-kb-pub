@@ -39,8 +39,7 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 ## Teiginiai
 
 <a id="claim-t-82382"></a>
-- t-001
-  global_id: t-82382
+- t-003
   teiginys: "Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82382
+    - t-003

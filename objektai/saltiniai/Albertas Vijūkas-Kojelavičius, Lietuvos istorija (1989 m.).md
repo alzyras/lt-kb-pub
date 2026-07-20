@@ -12,13 +12,13 @@ datos:
   - '1989 m.'
 date_start: '1650'
 date_end: '1989'
+amziai:
+  - 'XVII'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XVII'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,8 +56,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 ## Teiginiai
 
 <a id="claim-t-184453"></a>
-- t-001
-  global_id: t-184453
+- t-007
   teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -77,8 +76,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     - c-167807
 
 <a id="claim-t-184454"></a>
-- t-002
-  global_id: t-184454
+- t-003
   teiginys: "Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -95,8 +93,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     - c-167804
 
 <a id="claim-t-184455"></a>
-- t-003
-  global_id: t-184455
+- t-002
   teiginys: "1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -115,6 +112,30 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   pagrindžia:
     - c-167806
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    A. Kojelavičiaus
+    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
+    torius buvo teisus, vadindamas save istoriku,
+    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
+    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
+    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
+    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
+    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
+    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
+    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
+    „kiekvienas matys, jog varna puošiasi svetimomis
+    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
+    ninį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-167804
@@ -130,41 +151,20 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     kad ,,Lietuvos istorija"— ne originalus veikalas: kaip
     pagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio
     kronika, jis ją esą literatūriškai ir idėjiškai perdirbęs.
-  citata_rodoma: |
-    A. Kojelavičius savo istoriją rašė pusamžiu vėliau
-    negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
-    priklausydamas Renesanso kultūrai, jis neatskiriamas
-    nuo M. Strijkovskio istorinių faktų pateikimu ir dau­
-    gelio jų aiškinimu. Šito pats neslepia, prisipažindamas,
-    kad ,,Lietuvos istorija"— ne originalus veikalas: kaip
-    pagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio
-    kronika, jis ją esą literatūriškai ir idėjiškai perdirbęs.
+  citata_rodoma: "A. Kojelavičius savo istoriją rašė pusamžiu vėliau\nnegu jo pirmtakai. Chronologiškai ir idėjiškai nebe­\npriklausydamas Renesanso kultūrai, jis neatskiriamas\nnuo M. Strijkovskio istorinių faktų pateikimu ir dau­\ngelio jų aiškinimu. Šito pats neslepia, prisipažindamas,\nkad ,,Lietuvos istorija\"— ne originalus veikalas: kaip\npagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio\nkronika, jis ją esą literatūriškai ir idėjiškai perdirbęs."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184454
+    - t-003
+
 - id: c-167806
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    A. Kojelavičiaus
-    „Lietuvos istorijoje" gausu beletristikos, vis dėlto au­
-    torius buvo teisus, vadindamas save istoriku,
-    Jo pirmtakai — Aleksandras Gvagninis (lotyniškasis
-    „Sarmatų Europos aprašymas", 1578) ir Motiejus Strij­
-    kovskis (lenkiškoji „Lenkijos, Lietuvos, Žemaitijos ir
-    visos Rusios kronika", 1582). Šiedu autoriai vaidijosi.
-    Antrasis apkaltino pirmąjį plagiatu. Jis mat davęs jam,
-    savo viršininkui, veikalą pasiskaityti, o šis begėdiškai
-    pasisavinęs darbą ir išspausdinęs savo vardu, tačiau
-    „kiekvienas matys, jog varna puošiasi svetimomis
-    plunksnomis". Šitaip rašė M. Strijkovskis apie A. Gvag-
-    ninį.
-  citata_rodoma: |
     BBK-63.3(2L)
     Vi-109
     Spausdinama pagal leidinį:
@@ -184,13 +184,15 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     M853(10)—89
     1—89
     (6) Vertimas, įvadas, paaiškinimai.
+  citata_rodoma: "BBK-63.3(2L)\nVi-109\nSpausdinama pagal leidinį:\nAlbertas Vijūkas-Kojelavičius\nLIETUVOS ISTORIJA, V., Vaga, 1988\nREDAKCINE KOM ISIJA\nJ. LANKUTIS (pirm ininkas),\nA. JOVAIŠAS, A. MALDONIS, V. MERKYS,\nE. ULČINAITĖ, H. ZABULIS\nĮvadą ir paaiškinim us parašė\nJUOZAS JURGINIS\nIš lotynų ka!bos_vertė\nLEONAS VALKŪNAS\nV\n0503020908—250\n-----------------------  Prot. Nr.\nM853(10)—89\n1—89\n(6) Vertimas, įvadas, paaiškinimai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184455
+    - t-002
+
 - id: c-167807
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -202,17 +204,11 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
     tota 1766 m., 1846 m. Varšuvoje išleista trečią kartą
     dviem tomais. A. Kojelavičiaus istorija pakartotinių
     leidimų nesusilaukė.
-  citata_rodoma: |
-    M. Strij­
-    kovskio kronika, parašyta lenkiškai, Renesanso epo­
-    choje antrąkart nebuvo išleista, ji pirmą kartą pakar­
-    tota 1766 m., 1846 m. Varšuvoje išleista trečią kartą
-    dviem tomais. A. Kojelavičiaus istorija pakartotinių
-    leidimų nesusilaukė.
+  citata_rodoma: "M. Strij­\nkovskio kronika, parašyta lenkiškai, Renesanso epo­\nchoje antrąkart nebuvo išleista, ji pirmą kartą pakar­\ntota 1766 m., 1846 m. Varšuvoje išleista trečią kartą\ndviem tomais. A. Kojelavičiaus istorija pakartotinių\nleidimų nesusilaukė."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184453
+    - t-007

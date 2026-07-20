@@ -39,7 +39,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 <a id="claim-t-55004"></a>
 - t-001
-  global_id: t-55004
   teiginys: "Ignacas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::authors"
@@ -59,7 +58,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 <a id="claim-t-55005"></a>
 - t-002
-  global_id: t-55005
   teiginys: "Mykolas Balinskis dėkojo Ignacui Onacevičiui už pagalbą istoriniais dokumentais."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -78,7 +76,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 <a id="claim-t-55006"></a>
 - t-003
-  global_id: t-55006
   teiginys: "Ignacas Onacevičius Balinskiui perdavė pastabas ir žinias, tinkamas Vilniaus istorijos darbui."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -94,8 +91,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-55570
 
 <a id="claim-t-81903"></a>
-- t-004
-  global_id: t-81903
+- t-005
   teiginys: "M. Balinskis dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -114,8 +110,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-55569
 
 <a id="claim-t-81904"></a>
-- t-005
-  global_id: t-81904
+- t-007
   teiginys: "Ignacas Onacevičius pateikė pastabų, kuriomis M. Balinskis rėmėsi taisydamas žygio į Vilnių aprašymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -131,8 +126,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-78433
 
 <a id="claim-t-81905"></a>
-- t-006
-  global_id: t-81905
+- t-004
   teiginys: "Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -151,8 +145,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-55568
 
 <a id="claim-t-81906"></a>
-- t-007
-  global_id: t-81906
+- t-009
   teiginys: "Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -171,8 +164,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-78437
 
 <a id="claim-t-81907"></a>
-- t-008
-  global_id: t-81907
+- t-006
   teiginys: "Ignacas Onacevičius perdavė M. Balinskiui pastabas ir įdomias žinias, tinkamas Vilniaus istorijos darbui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -188,8 +180,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     - c-78436
 
 <a id="claim-t-188405"></a>
-- t-009
-  global_id: t-188405
+- t-008
   teiginys: "Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas krašto praeities studijomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -209,7 +200,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 <a id="claim-t-194198"></a>
 - t-010
-  global_id: t-194198
   teiginys: "Pats miestas tiesiog visai sunai kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus Vytauto."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -223,7 +213,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 
 <a id="claim-t-200946"></a>
 - t-011
-  global_id: t-200946
   teiginys: "Suprantama, ši orientacija ne staiga atsirado, ji iš augo iš studijų universitete, ypač sekant profeso rium Ignotu Onacevičium, kuris daug dėmesio skyrė šaltinių ir literatūros pažinimui."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -269,8 +258,9 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55004
-    - t-81905
+    - t-001
+    - t-004
+
 - id: c-55569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -289,8 +279,9 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55005
-    - t-81903
+    - t-002
+    - t-005
+
 - id: c-55570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -312,7 +303,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55006
+    - t-003
+
 - id: c-78433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -335,28 +327,15 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     ranoriškai pareiškė mokslininkas
     Lietuvos istorijos žinovas Ignacas
     Onacevičius.
-  citata_rodoma: |
-    Tūkstančiui rinktinių anglų
-    21
-    To įsidėmėtino žygio į Vilnių apra­
-    šymą nepasirašę įdėjome į 1829 metų
-    Dziennik Wileński Nr. 1. Dabartinis
-    iš tiesų visiškai skiriasi nuo pirmes-
-    niojo, kurio klaidas stengėmės ištai­
-    syti, remdamiesi naujais, vėliau ap­
-    tiktais šaltiniais, būtent: F o i g t o
-    naujai išleistos Prūsijos istorijos T. V
-    ir pastabomis, kurias mums itin ge­
-    ranoriškai pareiškė mokslininkas
-    Lietuvos istorijos žinovas Ignacas
-    Onacevičius.
+  citata_rodoma: "Tūkstančiui rinktinių anglų\n21\nTo įsidėmėtino žygio į Vilnių apra­\nšymą nepasirašę įdėjome į 1829 metų \nDziennik Wileński Nr. 1. Dabartinis \niš tiesų visiškai skiriasi nuo pirmes- \nniojo, kurio klaidas stengėmės ištai­\nsyti, remdamiesi naujais, vėliau ap­\ntiktais šaltiniais, būtent: F o i g t o \nnaujai išleistos Prūsijos istorijos T. V \nir pastabomis, kurias mums itin ge­\nranoriškai pareiškė mokslininkas \nLietuvos istorijos žinovas Ignacas \nOnacevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81904
+    - t-007
+
 - id: c-78436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -383,7 +362,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81907
+    - t-006
+
 - id: c-78437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -405,29 +385,15 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m. Il t. Dar žr.
     III priedą prie II knygos.
-  citata_rodoma: |
-    Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m. Il t.
+  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m. Il t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81906
+    - t-009
+
 - id: c-171295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -448,7 +414,8 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188405
+    - t-008
+
 - id: c-176801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -473,10 +440,12 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194198
+    - t-010
+
 - id: c-184296
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaip paste­
     bėjo Zenonas Ivinskis, Daukanto laiškai, šiek tiek
@@ -495,4 +464,4 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200946
+    - t-011

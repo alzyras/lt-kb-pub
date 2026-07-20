@@ -33,7 +33,6 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 
 <a id="claim-t-201195"></a>
 - t-001
-  global_id: t-201195
   teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 
 <a id="claim-t-201196"></a>
 - t-002
-  global_id: t-201196
   teiginys: "Nekakinos Aleksandras IV padauginęs jų skaitlių, bet dar norėjo juos pagodinti, iškeikdamas visus tuos, kurie drįstų zokanyką kryžėją abydyti ar už tikti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +58,9 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 ## Citatos
 
 - id: c-184545
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­
@@ -77,11 +76,12 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201195
+    - t-001
 
 - id: c-184546
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įstatė, jog kry-
     žėjai vienos valdžios savo mistro ir kapitulos te­
@@ -100,4 +100,4 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201196
+    - t-002

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-80697"></a>
 - t-001
-  global_id: t-80697
   teiginys: "Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,14 +76,11 @@ Nenurodyta
 
     p. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr.
     p. 221, Panevėžio apylinkių partizanai, (Privati kolekcija).
-  citata_rodoma: |
-    220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.
-
-    p. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr.
+  citata_rodoma: "220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.\n\np. 220, Vokiškas pistoletas Walther pp (Walther Polizeipistole), vDKM, Artūro Užgalio nuotr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80697
+    - t-001

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-66672"></a>
 - t-001
-  global_id: t-66672
   teiginys: "Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-66673"></a>
 - t-002
-  global_id: t-66673
   teiginys: "Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66673
+    - t-002
+
 - id: c-66869
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -95,15 +94,11 @@ Nenurodyta
     1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
     draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
     ir platinti.
-  citata_rodoma: |
-    Tik jo įpėdinis Kaufmanas
-    1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-
-    draudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti
-    ir platinti.
+  citata_rodoma: "Tik jo įpėdinis Kaufmanas\n1865 m. rugsėjo mėn. 6 d. išleido specialų įsakymą, kuriuo už-\ndraudė lietuviškąsias knygas lotyniškomis raidėmis spausdinti\nir platinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66672
+    - t-001

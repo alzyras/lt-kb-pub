@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78088"></a>
-- t-001
-  global_id: t-78088
+- t-009
   teiginys: "Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-75398
 
 <a id="claim-t-78090"></a>
-- t-002
-  global_id: t-78090
+- t-003
   teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-75392
 
 <a id="claim-t-78092"></a>
-- t-003
-  global_id: t-78092
+- t-010
   teiginys: "1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ media_all_json: |-
     - c-75396
 
 <a id="claim-t-78093"></a>
-- t-004
-  global_id: t-78093
+- t-007
   teiginys: "Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ media_all_json: |-
 
 <a id="claim-t-78094"></a>
 - t-005
-  global_id: t-78094
   teiginys: "Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ media_all_json: |-
     - c-75397
 
 <a id="claim-t-78095"></a>
-- t-006
-  global_id: t-78095
+- t-002
   teiginys: "1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,8 +150,7 @@ media_all_json: |-
     - c-23764
 
 <a id="claim-t-78096"></a>
-- t-007
-  global_id: t-78096
+- t-004
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +169,7 @@ media_all_json: |-
     - c-75395
 
 <a id="claim-t-78097"></a>
-- t-008
-  global_id: t-78097
+- t-006
   teiginys: "Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -193,8 +185,7 @@ media_all_json: |-
     - c-75400
 
 <a id="claim-t-193593"></a>
-- t-009
-  global_id: t-193593
+- t-011
   teiginys: "Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -224,19 +215,15 @@ media_all_json: |-
     priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir
     skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
     reiškėjas.
-  citata_rodoma: |
-    Šių
-    bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo
-    priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir
-    skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
-    reiškėjas.
+  citata_rodoma: "Šių \nbandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo \npriimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir \nskelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios \nreiškėjas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78095
+    - t-002
+
 - id: c-75392
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -260,7 +247,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78090
+    - t-003
+
 - id: c-75394
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,7 +273,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78093
+    - t-007
+
 - id: c-75395
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -313,7 +302,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78096
+    - t-004
+
 - id: c-75396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -330,22 +320,15 @@ media_all_json: |-
     1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
     Kosciuška.
-  citata_rodoma: |
-    sušaukti Seimą, kuris turėjo pritarti
-    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
-    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
-    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
-    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
-    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
-    ikikonstitucinę „auksinių laisvių“ santvarką.
-    1794 m.
+  citata_rodoma: "sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką. \n1794 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78092
+    - t-010
+
 - id: c-75397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -370,7 +353,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78094
+    - t-005
+
 - id: c-75398
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -387,7 +371,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78088
+    - t-009
+
 - id: c-75400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -406,7 +391,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78097
+    - t-006
+
 - id: c-176268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -424,4 +410,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193593
+    - t-011

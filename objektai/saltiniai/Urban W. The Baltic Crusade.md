@@ -36,7 +36,6 @@ Dusburgietis teigia, kad urban W.
 
 <a id="claim-t-61329"></a>
 - t-001
-  global_id: t-61329
   teiginys: "W. Urbano „The Baltic Crusade“ išleista Northern Illinois University Press leidykloje De Kalbe 1975 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Dusburgietis teigia, kad urban W.
   citata_originali: |
     Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky.
-  citata_rodoma: |
-    Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
+  citata_rodoma: "Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61329
+    - t-001

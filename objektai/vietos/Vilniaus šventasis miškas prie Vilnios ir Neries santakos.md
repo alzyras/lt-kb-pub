@@ -31,9 +31,8 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
 
 <a id="claim-t-194779"></a>
 - t-001
-  global_id: t-194779
   teiginys: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,23 +41,7 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177175
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
-    takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
-    se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
-    šventi miškeliai, daugiau ar mažiau garsūs.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194779
+
 ## Citatos
 
 - id: c-177175
@@ -66,23 +49,15 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apie šio pavadinimo pras­
-    me kalbėjome straipsnyje „Šventieji medžiai. Ąžuolas“. Kadangi
-    aptinkame senovinę taip besivadinančią vietovę pirmykštėje lie-
-    luvių prosenelių tėvynėje, kurios praeitis apima penketą amžių
-    iki Kristaus gimimo5, todėl seniausios lietuvių genties tautos pra­
-    nokėjų šventyklos vietą nukeliame į Ukrainą, prie Psiolo upės, į
-    dešinįjį jos krantą, prie Romnos upės žiočių, kur ir dabar yra
-    miestelis, vadinamas Romnais (Romne).
-  citata_rodoma: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
     se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
     šventi miškeliai, daugiau ar mažiau garsūs.
+  citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194779
+    - t-001

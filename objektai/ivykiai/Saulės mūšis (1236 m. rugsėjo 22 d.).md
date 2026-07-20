@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10287"></a>
-- t-001
-  global_id: t-10287
+- t-007
   teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Nenurodyta
     - c-11907
 
 <a id="claim-t-10288"></a>
-- t-002
-  global_id: t-10288
+- t-008
   teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -102,8 +100,7 @@ Nenurodyta
     - c-11908
 
 <a id="claim-t-10289"></a>
-- t-003
-  global_id: t-10289
+- t-009
   teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Nenurodyta
     - c-11909
 
 <a id="claim-t-10290"></a>
-- t-004
-  global_id: t-10290
+- t-010
   teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -141,27 +137,17 @@ Nenurodyta
 
 <a id="claim-t-66879"></a>
 - t-005
-  global_id: t-66879
   teiginys: "Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d."
-  atnaujinta: "2026-05-31 12:45"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1236 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-66986
     - c-66987
 
 <a id="claim-t-66880"></a>
-- t-006
-  global_id: t-66880
+- t-011
   teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -181,8 +167,7 @@ Nenurodyta
     - c-66984
 
 <a id="claim-t-66881"></a>
-- t-007
-  global_id: t-66881
+- t-012
   teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -202,8 +187,7 @@ Nenurodyta
     - c-66988
 
 <a id="claim-t-66882"></a>
-- t-008
-  global_id: t-66882
+- t-006
   teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -239,19 +223,15 @@ Nenurodyta
     vietą-stovyklą. Šiaulių žemėje pagrindinė
     strateginė kelių sankryža yra Šiauliuose
     (ties dab.
-  citata_rodoma: |
-    1236 m. rugsėjį į Lietuvą įžengusios
-    didžiulės tarptautinės kryžeivių pajėgos,
-    sudarytos iš Kalavijuočių ordino bro-
-    lių ir kryžininkų iš įvairių Europos šalių,
-    „pasidalino į būrius“ ir ėmė plėšti.
+  citata_rodoma: "1236 m. rugsėjį į Lietuvą įžengusios\ndidžiulės tarptautinės kryžeivių pajėgos,\nsudarytos iš Kalavijuočių ordino bro-\nlių ir kryžininkų iš įvairių Europos šalių,\n„pasidalino į būrius“ ir ėmė plėšti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10287
+    - t-007
+
 - id: c-11908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -261,16 +241,15 @@ Nenurodyta
     žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
     ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
-  citata_rodoma: |
-    ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
-    lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
+  citata_rodoma: "ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys\nlietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10288
+    - t-008
+
 - id: c-11909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -288,7 +267,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10289
+    - t-009
+
 - id: c-11910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -313,7 +293,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10290
+    - t-010
+
 - id: c-66984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -330,7 +311,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66880
+    - t-011
+
 - id: c-66986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -356,17 +338,13 @@ Nenurodyta
     Schlözer A. L. 49, 89
     Schmid H. F. 293
     Schmidt Wilh.
-  citata_rodoma: |
-    Saulės-Šiaulių kautynės 1, 65, 66,
-    149, 158, 160, 168, 169, 181, 208,
-    210
+  citata_rodoma: "Saulės-Šiaulių kautynės 1, 65, 66,\n149, 158, 160, 168, 169, 181, 208,\n210"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66879
 - id: c-66987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -385,8 +363,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66879
-    - t-66882
+    - t-005
+    - t-006
+
 - id: c-66988
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -397,14 +376,11 @@ Nenurodyta
     Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-
     prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
     žius patvirtino jų susitarimą.
-  citata_rodoma: |
-    Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-
-    prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
-    žius patvirtino jų susitarimą.
+  citata_rodoma: "Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-\nprašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-\nžius patvirtino jų susitarimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66881
+    - t-012

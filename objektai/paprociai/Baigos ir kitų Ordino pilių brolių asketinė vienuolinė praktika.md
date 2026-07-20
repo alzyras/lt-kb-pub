@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-89443"></a>
 - t-001
-  global_id: t-89443
   teiginys: "Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-89444"></a>
 - t-002
-  global_id: t-89444
   teiginys: "Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-89445"></a>
 - t-003
-  global_id: t-89445
   teiginys: "Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,8 +98,7 @@ Nenurodyta
     - c-85402
 
 <a id="claim-t-194438"></a>
-- t-004
-  global_id: t-194438
+- t-005
   teiginys: "Apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89443
-    - t-194438
+    - t-001
+    - t-005
+
 - id: c-85402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,5 +151,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89444
-    - t-89445
+    - t-002
+    - t-003

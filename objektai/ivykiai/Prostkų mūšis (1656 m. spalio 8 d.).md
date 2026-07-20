@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78632"></a>
-- t-001
-  global_id: t-78632
+- t-009
   teiginys: "Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-11893
 
 <a id="claim-t-78633"></a>
-- t-002
-  global_id: t-78633
+- t-008
   teiginys: "Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-11896
 
 <a id="claim-t-78634"></a>
-- t-003
-  global_id: t-78634
+- t-010
   teiginys: "1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,8 +110,7 @@ Nenurodyta
     - c-75853
 
 <a id="claim-t-78635"></a>
-- t-004
-  global_id: t-78635
+- t-005
   teiginys: "1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-11893
 
 <a id="claim-t-78636"></a>
-- t-005
-  global_id: t-78636
+- t-006
   teiginys: "Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -151,8 +146,7 @@ Nenurodyta
     - c-75853
 
 <a id="claim-t-78637"></a>
-- t-006
-  global_id: t-78637
+- t-007
   teiginys: "Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -199,8 +193,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78632
-    - t-78635
+    - t-009
+    - t-005
+
 - id: c-11896
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,7 +211,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78633
+    - t-008
+
 - id: c-43108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -241,7 +237,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78637
+    - t-007
+
 - id: c-75853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -263,30 +260,15 @@ Nenurodyta
     tačiau staiga pasirodžiusios pagrindi-
 
     nės V. Gosievskio pajėgos juos užpuolė
-  citata_rodoma: |
-    Mūšis
-    Spalio 8 d. kariuomenės suartėjo ties
-    Prostkais skiriamos Elko upės. Lietuviai
-
-    E gf
-
-    apgaulingu atsitraukimo manevru išvi-
-    liojo brandenburgiečius persikelti į kita
-    krantą. Tuo tarpu G. Valdekas gavo žinią,
-    kad šiauriau Prostkų per upę keliasi toto-
-    riai. Juos sulaikyti jis pasiuntė B. Radvilos
-    kavaleriją. Taip pat jis įsakė generolo Wa-
-    lenrodto brandenburgiečiams keltis atgal,
-    tačiau staiga pasirodžiusios pagrindi-
-
-    nės V.
+  citata_rodoma: "Mūšis\nSpalio 8 d. kariuomenės suartėjo ties\nProstkais skiriamos Elko upės. Lietuviai\n\nE gf\n\napgaulingu atsitraukimo manevru išvi-\nliojo brandenburgiečius persikelti į kita\nkrantą. Tuo tarpu G. Valdekas gavo žinią,\nkad šiauriau Prostkų per upę keliasi toto-\nriai. Juos sulaikyti jis pasiuntė B. Radvilos\nkavaleriją. Taip pat jis įsakė generolo Wa-\nlenrodto brandenburgiečiams keltis atgal,\ntačiau staiga pasirodžiusios pagrindi-\n\nnės V."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78634
-    - t-78636
+    - t-010
+    - t-006
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

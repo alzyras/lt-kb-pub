@@ -36,9 +36,8 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 
 ## Teiginiai
 
-<a id="claim-t-74638"></a>
-- t-001
-  global_id: t-74638
+<a id="claim-t-74635"></a>
+- t-005
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,11 +54,11 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   temporalinis_llm_pakomentavimas: "Pradinis sakinys labiau kalbėjo apie Lietuvą, todėl perrašytas apie delegaciją."
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
-    - c-22590
     - c-72681
+    - c-22590
+
 <a id="claim-t-74636"></a>
-- t-002
-  global_id: t-74636
+- t-006
   teiginys: "Lietuvos delegacijai prie Paryžiaus taikos konferencijos vadovavo Augustinas Voldemaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     - c-22592
 
 <a id="claim-t-74637"></a>
-- t-003
-  global_id: t-74637
+- t-002
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     - c-22591
 
 <a id="claim-t-74639"></a>
-- t-004
-  global_id: t-74639
+- t-003
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     - c-22592
 
 <a id="claim-t-74640"></a>
-- t-005
-  global_id: t-74640
+- t-004
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -132,8 +128,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     - c-22590
 
 <a id="claim-t-183152"></a>
-- t-006
-  global_id: t-183152
+- t-007
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė Lietuvos vardu ir kėlė valstybės pripažinimo problemą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -172,20 +167,16 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
     delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
     jos ir veikė kuluaruose.
-  citata_rodoma: |
-    Versalio sistemoje
-    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
-    jos ir veikė kuluaruose.
+  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje\nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai\ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74638
-    - t-74640
+    - t-005
+    - t-004
+
 - id: c-22591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -203,19 +194,15 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
     gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
     tarptautiniame forume, kurdama sąlygas nepriklausomybei.
-  citata_rodoma: |
-    Memoran-
-    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
-    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
-    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
-    tarptautiniame forume, kurdama sąlygas nepriklausomybei.
+  citata_rodoma: "Memoran-\ndumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį\nį Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-\ngacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame\ntarptautiniame forume, kurdama sąlygas nepriklausomybei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74637
+    - t-002
+
 - id: c-22592
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -233,20 +220,16 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
     dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
     Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: |
-    Delegacija
-    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
-    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
-    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
-    Lietuva būtų priimta į Tautų Sąjungos bendriją.
+  citata_rodoma: "Delegacija\nbuvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-\nrant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-\ndą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad\nLietuva būtų priimta į Tautų Sąjungos bendriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74636
-    - t-74639
+    - t-006
+    - t-003
+
 - id: c-72681
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -266,22 +249,15 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
     nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
     iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-  citata_rodoma: |
-    Versalio sistemoje
-    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
-    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje
-    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
-    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
-    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje \nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai \ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje \ndirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-\nnykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs \niš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74638
+    - t-005
+
 - id: c-166537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -306,4 +282,4 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183152
+    - t-007

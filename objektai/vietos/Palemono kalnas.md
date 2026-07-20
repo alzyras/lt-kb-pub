@@ -31,9 +31,8 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
 
 <a id="claim-t-189039"></a>
 - t-001
-  global_id: t-189039
   teiginys: "Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,31 +48,7 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171928
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    218
 
-    ## Puslapis 218
-
-    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
-    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189039
 ## Citatos
 
 - id: c-171928
@@ -93,23 +68,11 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
     lemonu Kalnas).
     Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
     sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: |
-    218
-
-    ## Puslapis 218
-
-    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
-    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
+  citata_rodoma: "218\n\n## Puslapis 218\n\nnikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­\nmuno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­\ntuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo\nkitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-\ntės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­\nlemonu Kalnas).\nKaimiečiai net žino pasakojimų, vaizduojančių tą žmogų\nsudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189039
+    - t-001

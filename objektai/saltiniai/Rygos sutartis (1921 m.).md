@@ -38,8 +38,7 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
 ## Teiginiai
 
 <a id="claim-t-78118"></a>
-- t-001
-  global_id: t-78118
+- t-002
   teiginys: "1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
     - c-75425
 
 <a id="claim-t-193598"></a>
-- t-002
-  global_id: t-193598
+- t-003
   teiginys: "Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -85,19 +83,15 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
     tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
-  citata_rodoma: |
-    Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
-    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
-    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
-    su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją
-    tarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje).
+  citata_rodoma: "Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas. \nAmbasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva \npati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną \nsu Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją \ntarp Lietuvos ir Lenkijos (Vilnius liko pastarosios pusėje)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78118
+    - t-002
+
 - id: c-176273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -114,4 +108,4 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193598
+    - t-003

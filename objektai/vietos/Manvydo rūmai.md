@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86087"></a>
-- t-001
-  global_id: t-86087
+- t-002
   teiginys: "Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ media_all_json: |-
     - c-82067
 
 <a id="claim-t-86088"></a>
-- t-002
-  global_id: t-86088
+- t-001
   teiginys: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,19 +82,15 @@ media_all_json: |-
     bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
     Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
-  citata_rodoma: |
-    1396-ieji me­
-    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
-    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
-    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
-    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
+  citata_rodoma: "1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86088
+    - t-001
+
 - id: c-82067
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -115,6 +109,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86087
+    - t-002
+
 ## Ryšiai
 - Manvydo rūmai priklausė [[objektai/asmenys/Manvydas]]

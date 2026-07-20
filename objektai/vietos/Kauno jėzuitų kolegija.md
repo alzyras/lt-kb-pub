@@ -8,11 +8,11 @@ datos:
   - '1752 m.'
 date_start: '1563'
 date_end: '1752'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVIII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų 
 
 <a id="claim-t-201732"></a>
 - t-001
-  global_id: t-201732
   teiginys: "O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201732
+    - t-001

@@ -7,10 +7,10 @@ datos:
   - '1495 m.'
 date_start: '1495'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-202034"></a>
 - t-001
-  global_id: t-202034
   teiginys: "Ankstyviausiame iš išlikusių 1495 m. Kauno muitinėje renkamų muitų tvarkos išdėstyme daugiausia rašoma apie pirklių, atvykstančių į Kauną ar iš jo išvykstančių, pareigą prisistatyti muitininkams."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-202035"></a>
 - t-002
-  global_id: t-202035
   teiginys: "Apmuitinamos būdavo tos įvežamos ar išvežamos prekės, kurių susidarydavo daugiau."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -72,6 +70,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185382
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -92,7 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202034
+    - t-001
 
 - id: c-185382
   autorius: "Zigmantas Kiaupa"
@@ -113,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202035
+    - t-002

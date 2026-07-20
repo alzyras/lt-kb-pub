@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201359"></a>
 - t-001
-  global_id: t-201359
   teiginys: "Vienok noris ir taip nuveikti, kalavijonys nenorėjo dar visuotinai pasiduoti, užvis geidė kaip įmaną karūną, arba vėliavą, brostvinę apent įgauti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-201360"></a>
 - t-002
-  global_id: t-201360
   teiginys: "Ant galo bavarų kunigaikštis, savo pilį didžiais grioviais apkasęs ir pylomis apipylęs, įgulei įdavė vėliavą su savo žy me dėvėti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184709
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok noris ir taip nuveikti, kalavijonys nenorėjo
     dar visuotinai pasiduoti, užvis geidė kaip įmaną
@@ -94,11 +93,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201359
+    - t-001
 
 - id: c-184710
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip apsitvdrtinęs, kunigaikštis Ba­
     varijos leido pulkus meldžionų sarioti į apygardas,
@@ -115,4 +115,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201360
+    - t-002

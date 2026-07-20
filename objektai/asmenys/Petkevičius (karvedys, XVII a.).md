@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-202417"></a>
 - t-001
-  global_id: t-202417
   teiginys: "1698 m. balandžio 23 d. J. L. Oziębłowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pavalksnės, palivarką Ukmergės paviete Samueliui Petkevičiui."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -70,20 +69,8 @@ media_all_json: |-
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 8"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
-  citata_originali: |
-    Apie J. L. Ozięblowskj žinių išlikę labai nedaug. Žinoma, kad jis
-    buvo Jakūnų seniūnas, o nuo 1699 m. Vilniaus stalininkas, kad buvo
-    vedęs Teofilio Dunino Rajeckio dukrą Kotryną (Katarzyna), kurios pir­
-    mas vyras buvo Samuelis Komorowskis, garsus karvedys XVII a. vidu­
-    rio karų metu5. Iš dienoraščio aišku, kad J. L. Ozięblowskis turėjo
-    valdų Ukmergės paviete, ties Vidiškiais (centras, regis, buvo Radiškio
-    dvarelyje6) ir Riešėje, prie Vilniaus. 1698 m. balandžio 23 d. J. L. Ozi­
-    ęblowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pa-
-    valksnės, palivarką Ukmergės paviete Samucliui Petkevičiui7.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202417
+    - t-001

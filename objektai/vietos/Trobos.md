@@ -30,7 +30,6 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 
 <a id="claim-t-185315"></a>
 - t-001
-  global_id: t-185315
   teiginys: "Kojelavičius Trobiaus įkurtas Trobas laikė įrodymu, kad Trobius buvo Lietuvos didysis kunigaikštis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -43,7 +42,6 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 
 <a id="claim-t-193454"></a>
 - t-002
-  global_id: t-193454
   teiginys: "Kad Trobius apskritai yra buvęs didžiuo ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb vietę, pavadindamas ją nuo savo vardo Trobomis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -80,5 +78,5 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185315
-    - t-193454
+    - t-001
+    - t-002

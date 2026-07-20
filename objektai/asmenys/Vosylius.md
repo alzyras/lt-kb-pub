@@ -40,7 +40,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 
 <a id="claim-t-51190"></a>
 - t-001
-  global_id: t-51190
   teiginys: "Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -56,8 +55,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - c-36556
 
 <a id="claim-t-51191"></a>
-- t-002
-  global_id: t-51191
+- t-003
   teiginys: "Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -73,8 +71,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - c-36556
 
 <a id="claim-t-51192"></a>
-- t-003
-  global_id: t-51192
+- t-002
   teiginys: "Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -111,22 +108,16 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     mažesnių chanų.
     Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
     gabenančių karūnas.
-  citata_rodoma: |
-    Į iškilmes buvo pa­
-    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
-    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
-    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
-    mažesnių chanų.
-    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
-    gabenančių karūnas.
+  citata_rodoma: "Į iškilmes buvo pa­\nkviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­\nto anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­\nnės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug\nmažesnių chanų.\nTačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­\ngabenančių karūnas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51190
-    - t-51191
+    - t-001
+    - t-003
+
 - id: c-36557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -147,4 +138,4 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51192
+    - t-002

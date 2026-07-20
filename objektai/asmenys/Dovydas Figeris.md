@@ -28,7 +28,6 @@ Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų
 
 <a id="claim-t-202162"></a>
 - t-001
-  global_id: t-202162
   teiginys: "Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų riešutų, 400 svarų kaštonų, 3 statinės obuolių, 5 krepšiai didelių razinų, 5 statinaitės figų, 12 statinaičių silkių, 7 achteliai sviesto, 1 statinė olandiško sūrio, 2 statinės ir 10."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202162
+    - t-001

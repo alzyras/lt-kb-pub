@@ -39,7 +39,6 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
 
 <a id="claim-t-78126"></a>
 - t-001
-  global_id: t-78126
   teiginys: "1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,25 +78,11 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
     plomatijos šefui, tas pareigas ėjo diplomatai
     Stasys Lozoraitis (1940–1983 m.) ir Stasys
     Antanas Bačkis (1983–1991 m.).
-  citata_rodoma: |
-    LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
-    Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
-    renkasi dalijamus drabužius, 1948 m.
-
-    L I E T U V O S  I S T O R I J A
-    226
-    F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
-    tos JAV bankuose laikytos Baltijos valstybių
-    lėšos. Šie pinigai suteikė galimybę LDT išlai-
-    kyti savo pasiuntinybes ir personalą iki pat
-    diplomatinio darbo pabaigos.
-    LDT aukščiausia valdžia priklausė di-
-    plomatijos šefui, tas pareigas ėjo diplomatai
-    Stasys Lozoraitis (1940–1983 m.
+  citata_rodoma: "LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento \nLietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)  \nrenkasi dalijamus drabužius, 1948 m.\n\nL I E T U V O S  I S T O R I J A\n226\nF. Ruzvelto išleistas įsakymas, kuriuo įšaldy-\ntos JAV bankuose laikytos Baltijos valstybių \nlėšos. Šie pinigai suteikė galimybę LDT išlai-\nkyti savo pasiuntinybes ir personalą iki pat \ndiplomatinio darbo pabaigos. \nLDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78126
+    - t-001

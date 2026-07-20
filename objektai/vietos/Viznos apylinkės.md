@@ -31,7 +31,6 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 
 <a id="claim-t-42315"></a>
 - t-001
-  global_id: t-42315
   teiginys: "Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,11 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 
     Podolėje, Valakijoje, ragino dalyvauti ko-
     voje su totoriais.
-  citata_rodoma: |
-    Kai Livonijos magistras buvo
-    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
-    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
-    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
-
-    Podolėje, Valakijoje, ragino dalyvauti ko-
-    voje su totoriais.
+  citata_rodoma: "Kai Livonijos magistras buvo\nprie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino\npapilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių\ntuo metu kontroliuojamos Viznos apylinkes prie Narevo.\n\nPodolėje, Valakijoje, ragino dalyvauti ko-\nvoje su totoriais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42315
+    - t-001

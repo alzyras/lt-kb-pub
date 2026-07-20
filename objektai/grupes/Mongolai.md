@@ -43,8 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113191"></a>
-- t-001
-  global_id: t-113191
+- t-002
   teiginys: "1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-104471
 
 <a id="claim-t-113192"></a>
-- t-002
-  global_id: t-113192
+- t-001
   teiginys: "Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,6 @@ Nenurodyta
 
 <a id="claim-t-183665"></a>
 - t-003
-  global_id: t-183665
   teiginys: "Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -186,7 +183,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113192
+    - t-001
+
 - id: c-104471
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +209,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113191
+    - t-002
+
 - id: c-167057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -235,7 +234,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183665
+    - t-003
+
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mongolai puolė [[objektai/vietos/Lietuva]]

@@ -42,7 +42,6 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 
 <a id="claim-t-97288"></a>
 - t-001
-  global_id: t-97288
   teiginys: "Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 
 <a id="claim-t-97289"></a>
 - t-002
-  global_id: t-97289
   teiginys: "Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,22 +96,15 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
     bei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių
     keitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių
     valdytojai (bajorai, didikai, bažnyčios-vienuolynai).
-  citata_rodoma: |
-    ; 6) nuo žemės reformos iki žemės nacio­
-    nalizacijos — 1940 m.
-    Šitokis Lietuvos ūkininko santykių su žeme keitimasis per
-    septynis su viršum amžius, leidžia sudaryti šešias įvairių laikų
-    epochas. Kai šitoje periodizacijoje neatsižvelgiama į dinastinius
-    bei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių
-    keitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių
-    valdytojai (bajorai, didikai, bažnyčios-vienuolynai).
+  citata_rodoma: "; 6) nuo žemės reformos iki žemės nacio­\nnalizacijos — 1940 m.\nŠitokis Lietuvos ūkininko santykių su žeme keitimasis per\nseptynis su viršum amžius, leidžia sudaryti šešias įvairių laikų\nepochas. Kai šitoje periodizacijoje neatsižvelgiama į dinastinius\nbei tarpvalstybinius santykius, bet į vykstantį agrarinių santykių\nkeitimąsi pačioje žemdirbių tautoje, paliečiami ir stambieji žemių\nvaldytojai (bajorai, didikai, bažnyčios-vienuolynai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97289
+    - t-002
+
 - id: c-91783
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -134,4 +125,4 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97288
+    - t-001

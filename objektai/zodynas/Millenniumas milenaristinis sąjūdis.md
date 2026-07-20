@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-22008"></a>
 - t-001
-  global_id: t-22008
   teiginys: "Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus Europoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183447"></a>
 - t-002
-  global_id: t-183447
   teiginys: "Baigiantis pirmajam Kristaus epochos tūkstantmečiui gimė milenaristinis sąjūdis, susijęs su krikščioniškąja misija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22008
-    - t-183447
+    - t-001
+    - t-002

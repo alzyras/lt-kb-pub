@@ -37,9 +37,8 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 
 ## Teiginiai
 
-<a id="claim-t-111671"></a>
-- t-001
-  global_id: t-111671
+<a id="claim-t-111669"></a>
+- t-004
   teiginys: "Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,25 +53,8 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   pagrindžia:
     - c-43568
 
-- t-002
-  global_id: t-906696872
-  teiginys: ".\" Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leipūnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipūnai\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-43568
-
 <a id="claim-t-183042"></a>
-- t-003
-  global_id: t-183042
+- t-001
   teiginys: "Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -110,20 +92,15 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     smuklės ir čia - už vienos mylios (7 km)
     nuo respublikonų stovyklos Valkininkuose,
     sustojo.
-  citata_rodoma: |
-    Sapiegų
-    daliniai nužygiavo iki Lieponių (Leipūnų)
-    smuklės ir čia - už vienos mylios (7 km)
-    nuo respublikonų stovyklos Valkininkuose,
-    sustojo.
+  citata_rodoma: "Sapiegų\ndaliniai nužygiavo iki Lieponių (Leipūnų)\nsmuklės ir čia - už vienos mylios (7 km)\nnuo respublikonų stovyklos Valkininkuose,\nsustojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111671
-    - t-002
+    - t-004
+
 - id: c-166434
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -144,4 +121,4 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183042
+    - t-001

@@ -31,7 +31,6 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 
 <a id="claim-t-40283"></a>
 - t-001
-  global_id: t-40283
   teiginys: "Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,24 +68,15 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
     įtakos Lietuvos vidaus reikalams, jis vis
     labiau silpo ir nebeteko jokios politinės
     reikšmės.
-  citata_rodoma: |
-    Mūšio padariniai
-
-    Pabaisko (Šventosios) mūšyje žuvo
-    Livonijos magistras Kerskorfas, marša-
-
-    las Nesselrodė, žuvo dauguma Livonijos
-    komtūrų ir riterijos krito, paimta į ne-
-    laisvę daug Švitrigailos karių. Be to, paimta
-    daug priešo vėliavų, kurios pergalės garbei
-    buvo pakabintos Vilniaus katedroje.
+  citata_rodoma: "Mūšio padariniai\n\nPabaisko (Šventosios) mūšyje žuvo\nLivonijos magistras Kerskorfas, marša-\n\nlas Nesselrodė, žuvo dauguma Livonijos\nkomtūrų ir riterijos krito, paimta į ne-\nlaisvę daug Švitrigailos karių. Be to, paimta\ndaug priešo vėliavų, kurios pergalės garbei\nbuvo pakabintos Vilniaus katedroje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40283
+    - t-001
+
 - id: c-167137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,6 +103,8 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Kerskorfas dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

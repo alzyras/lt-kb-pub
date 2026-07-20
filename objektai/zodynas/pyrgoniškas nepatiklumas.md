@@ -48,7 +48,6 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
 
 <a id="claim-t-192141"></a>
 - t-001
-  global_id: t-192141
   teiginys: "Teodoras Narbutas „pyrgonišką nepatiklumą“ sieja su laikysena visas kronikų sakmes vadinti pasakomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +66,6 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
 
 <a id="claim-t-192142"></a>
 - t-002
-  global_id: t-192142
   teiginys: "Teodoro Narbuto vartosenoje pyrgoniškas nepatiklumas reiškia skeptišką požiūrį, kai kronikų sakmės vadinamos pasakomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -86,7 +84,6 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
 
 <a id="claim-t-192570"></a>
 - t-003
-  global_id: t-192570
   teiginys: "Teodoras Narbutas pyrgonišką nepatiklumą priskiria autoriams, kurie kronikų sakmes vadino pasakomis ir abejojo ankstyvąja Lietuvos istorija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,22 +121,16 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
     pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
     mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
     tuvos istoriją toliau XIII amžiaus1.
-  citata_rodoma: |
-    Todėl vieni tiesiog
-    priimdavo kronikininkų geriau išdėstytas išvadas apie
-    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
-    vargais negalais suregztas savąsias, o dar kiti su tikrai
-    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
-    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
-    tuvos istoriją toliau XIII amžiaus1.
+  citata_rodoma: "Todėl vieni tiesiog\npriimdavo kronikininkų geriau išdėstytas išvadas apie\ntautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė\nvargais negalais suregztas savąsias, o dar kiti su tikrai\npyrgonišku nepatiklumu, visas kronikų sakmes pasako­\nmis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­\ntuvos istoriją toliau XIII amžiaus1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192141
-    - t-192142
+    - t-001
+    - t-002
+
 - id: c-175347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -165,4 +156,4 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192570
+    - t-003

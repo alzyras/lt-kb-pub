@@ -40,8 +40,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 ## Teiginiai
 
 <a id="claim-t-75845"></a>
-- t-001
-  global_id: t-75845
+- t-005
   teiginys: "1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     - c-73530
 
 <a id="claim-t-75846"></a>
-- t-002
-  global_id: t-75846
+- t-001
   teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     - c-21687
 
 <a id="claim-t-75847"></a>
-- t-003
-  global_id: t-75847
+- t-002
   teiginys: "1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,7 +99,6 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 
 <a id="claim-t-75848"></a>
 - t-004
-  global_id: t-75848
   teiginys: "Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmos Europoje švietimo ministerijos tipo įstaigos pirmininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,8 +117,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     - c-73531
 
 <a id="claim-t-75849"></a>
-- t-005
-  global_id: t-75849
+- t-003
   teiginys: "Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,16 +149,15 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
     vyskupas Ignotas Masalskis) įkūrimas 1773 m.
-  citata_rodoma: |
-    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
+  citata_rodoma: "Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus \nvyskupas Ignotas Masalskis) įkūrimas 1773 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75846
+    - t-001
+
 - id: c-21688
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -180,18 +174,15 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
     Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
     ir Vilniaus vyskupas I. Masalskis.
-  citata_rodoma: |
-    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
-    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
-    ir Vilniaus vyskupas I. Masalskis.
+  citata_rodoma: "Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y. \nLietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas \nSimonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis \nir Vilniaus vyskupas I. Masalskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75847
+    - t-002
+
 - id: c-21689
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,18 +197,15 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
     vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
     lio 28 dieną.
-  citata_rodoma: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną.
+  citata_rodoma: "Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos \nkonfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos \nvyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-\nlio 28 dieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75849
+    - t-003
+
 - id: c-73530
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -233,23 +221,15 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
     vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
     Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: |
-    Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to
-    paties istorinio proceso dalys. 1769 m. vienas iš klasicizmo architektūros
-
-    L I E T U V O S  I S T O R I J A
-    90
-    pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740–
-    1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
-    vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
-    Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
+  citata_rodoma: "Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to \npaties istorinio proceso dalys. 1769 m. vienas iš klasicizmo architektūros\n\nL I E T U V O S  I S T O R I J A\n90\npradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– \n1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus \nvyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus \nVerkiuose, vieną iš ryškiausių klasicizmo paminklų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75845
+    - t-005
+
 - id: c-73531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -262,19 +242,14 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
     timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
     švietimo sistemą.
-  citata_rodoma: |
-    pradėjo eiti pir-
-    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
-    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
-    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
-    švietimo sistemą.
+  citata_rodoma: "pradėjo eiti pir-\nmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“. \nReikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus \nvyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-\ntimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino \nšvietimo sistemą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75848
+    - t-004
+
 ## Ryšiai
 - Ignotas Masalskis mirė [[objektai/vietos/Varšuva]]

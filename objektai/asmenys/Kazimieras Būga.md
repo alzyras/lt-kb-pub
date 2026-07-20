@@ -41,7 +41,6 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 <a id="claim-t-19054"></a>
 - t-001
-  global_id: t-19054
   teiginys: "Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 <a id="claim-t-183549"></a>
 - t-002
-  global_id: t-183549
   teiginys: "Kazimieras Būga 1902 m. pradėjo lietuvių kalbos žodyno sudarymą, kuris buvo tęsiamas vėlesniais laikotarpiais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,15 +95,15 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
     atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
     trukdant politrukams.
-  citata_rodoma: |
-    miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
+  citata_rodoma: "miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19054
+    - t-001
+
 - id: c-166942
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,4 +120,4 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183549
+    - t-002

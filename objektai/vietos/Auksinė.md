@@ -37,7 +37,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 
 <a id="claim-t-58517"></a>
 - t-001
-  global_id: t-58517
   teiginys: "Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 
 <a id="claim-t-58518"></a>
 - t-002
-  global_id: t-58518
   teiginys: "Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -122,7 +120,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58517
+    - t-001
+
 - id: c-59150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -134,16 +133,11 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
     gyvūnas), galbūt ir Auksinės upės vardas.
     Taigi su pagonišku kultu sietųsi buv.
-  citata_rodoma: |
-    Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
-    deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,
-    Priegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas
-    religinių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros
-    gyvūnas), galbūt ir Auksinės upės vardas.
+  citata_rodoma: "Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės\ndeš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,\nPriegliaus kair. intakas; šernas — daugelio Vidurio ir Centrinės Europos tautų totemas\nreliginių vaizdinių formavimosi ankstyvojoje stadijoje, vakarų baltų mitinės pasaulėžiūros\ngyvūnas), galbūt ir Auksinės upės vardas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58518
+    - t-002

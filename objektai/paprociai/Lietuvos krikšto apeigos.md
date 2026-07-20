@@ -63,8 +63,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05349"></a>
-- t-001
-  global_id: t-05349
+- t-003
   teiginys: "Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -84,8 +83,7 @@ Nenurodyta
     - c-88450
 
 <a id="claim-t-05350"></a>
-- t-002
-  global_id: t-05350
+- t-004
   teiginys: "Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -101,8 +99,7 @@ Nenurodyta
     - c-88453
 
 <a id="claim-t-05352"></a>
-- t-003
-  global_id: t-05352
+- t-006
   teiginys: "Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -118,8 +115,7 @@ Nenurodyta
     - c-88461
 
 <a id="claim-t-93035"></a>
-- t-004
-  global_id: t-93035
+- t-009
   teiginys: "1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -139,7 +135,6 @@ Nenurodyta
 
 <a id="claim-t-93036"></a>
 - t-005
-  global_id: t-93036
   teiginys: "Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -155,8 +150,7 @@ Nenurodyta
     - c-88455
 
 <a id="claim-t-93037"></a>
-- t-006
-  global_id: t-93037
+- t-012
   teiginys: "Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +166,7 @@ Nenurodyta
     - c-88444
 
 <a id="claim-t-93038"></a>
-- t-007
-  global_id: t-93038
+- t-002
   teiginys: "Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -190,8 +183,7 @@ Nenurodyta
     - c-167622
 
 <a id="claim-t-93040"></a>
-- t-008
-  global_id: t-93040
+- t-007
   teiginys: "1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose."
   atnaujinta: "2026-06-11 12:47"
   sprendimo_priezastis: "auto"
@@ -207,8 +199,7 @@ Nenurodyta
     - c-88444
 
 <a id="claim-t-93041"></a>
-- t-009
-  global_id: t-93041
+- t-008
   teiginys: "1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -229,7 +220,6 @@ Nenurodyta
 
 <a id="claim-t-93042"></a>
 - t-010
-  global_id: t-93042
   teiginys: "Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -244,9 +234,9 @@ Nenurodyta
   pagrindžia:
     - c-88446
     - c-167622
+
 <a id="claim-t-93043"></a>
 - t-011
-  global_id: t-93043
   teiginys: "Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -261,35 +251,6 @@ Nenurodyta
   pagrindžia:
     - c-88459
 
-## Reikšmingi paminėjimai
-- c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą
-    kelias dienas buvo mokoma tikėjimo tiesų. Vyrai ir moterys buvo
-    suskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atski­
-    ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
-    niu^13.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-- c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
-    krikšto teikimas neapsiribojo vien Vilniumi. Jogaila važinėjo ir
-    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
-    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
-    kuose, Kriave, Ainoje, Obolcuose^15.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
 ## Citatos
 
 - id: c-88444
@@ -303,19 +264,16 @@ Nenurodyta
     tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
     mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
     vėliau ir kitose rytinės Lietuvos vietose.
-  citata_rodoma: |
-    Taip pat
-    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
-    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
-    vėliau ir kitose rytinės Lietuvos vietose.
+  citata_rodoma: "Taip pat\ntuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­\nmergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek\nvėliau ir kitose rytinės Lietuvos vietose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93037
-    - t-93040
+    - t-012
+    - t-007
+
 - id: c-88446
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -335,7 +293,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93042
+    - t-010
+
 - id: c-88448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -358,7 +317,25 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93041
+    - t-008
+
+- id: c-88449
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą
+    kelias dienas buvo mokoma tikėjimo tiesų. Vyrai ir moterys buvo
+    suskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atski­
+    ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
+    niu^13.
+  citata_rodoma: "Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą\nkelias dienas buvo mokoma tikėjimo tiesų. Vyrai ir moterys buvo\nsuskirstomi į atskirus būrius. Kiekvienam jų buvo duodamas atski­\nras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­\nniu"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-88450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -372,20 +349,15 @@ Nenurodyta
     visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
     jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
     bės.
-  citata_rodoma: |
-    Kaip prieš metus Krokuvoje buvo įvykdy­
-    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
-    miausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo
-    visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
-    jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
-    bės.
+  citata_rodoma: "Kaip prieš metus Krokuvoje buvo įvykdy­\ntas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­\nmiausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo\nvisos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė\njau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­\nbės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05349
+    - t-003
+
 - id: c-88453
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -403,7 +375,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05350
+    - t-004
+
 - id: c-88455
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -418,16 +391,15 @@ Nenurodyta
     sų“ ir „Tikiu Dievą“^2 ).
     Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
     moterys, kiekvienam būriui suteikiant vardą.
-  citata_rodoma: |
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą.
+  citata_rodoma: "Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai\nmoterys, kiekvienam būriui suteikiant vardą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93036
+    - t-005
+
 - id: c-88456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -448,7 +420,24 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93035
+    - t-009
+
+- id: c-88457
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
+    krikšto teikimas neapsiribojo vien Vilniumi. Jogaila važinėjo ir
+    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
+    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
+    kuose, Kriave, Ainoje, Obolcuose^15.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-88459
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -467,7 +456,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93043
+    - t-011
+
 - id: c-88461
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -478,16 +468,15 @@ Nenurodyta
     ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
     niu^13. Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
     davo baltą rūbą.
-  citata_rodoma: |
-    Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
-    davo baltą rūbą.
+  citata_rodoma: "Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­\ndavo baltą rūbą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05352
+    - t-006
+
 - id: c-167622
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -509,5 +498,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93038
-    - t-93042
+    - t-002
+    - t-010

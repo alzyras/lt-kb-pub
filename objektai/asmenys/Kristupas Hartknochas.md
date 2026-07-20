@@ -39,7 +39,6 @@ Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko 
 
 <a id="claim-t-190175"></a>
 - t-001
-  global_id: t-190175
   teiginys: "Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190175
+    - t-001

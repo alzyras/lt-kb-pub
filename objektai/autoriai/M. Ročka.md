@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-88030"></a>
 - t-001
-  global_id: t-88030
   teiginys: "M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,19 +79,11 @@ media_all_json: |-
     C' ■^la ir toliau cit. pagal Gedimino laiš­
     kai, parengė V. Pašuta ir I. Štai, [vertė
     M- Ročka], Vilnius, Mintis, 1966.
-  citata_rodoma: |
-    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
-    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
-    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
-    •  -
-    55
-    C' ■^la ir toliau cit. pagal Gedimino laiš­
-    kai, parengė V. Pašuta ir I. Štai, [vertė
-    M- Ročka], Vilnius, Mintis, 1966.
+  citata_rodoma: "Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­\ndimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad \nužgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,\n•  -\n55\nC' ■^la ir toliau cit. pagal Gedimino laiš­\nkai, parengė V. Pašuta ir I. Štai, [vertė \nM- Ročka], Vilnius, Mintis, 1966."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88030
+    - t-001

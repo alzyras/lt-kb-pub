@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-42384"></a>
 - t-001
-  global_id: t-42384
   teiginys: "1949 m. rugsėjo 28 d. Šunkarių miške į pasalą pateko ir žuvo Tauro apygardos vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,14 +70,11 @@ media_all_json: |-
     suvažiavime. Žuvo 1949 m. rugsėjo
     28 d. Šakių apskrities Jankų valsčiaus
     Šunkarių miške patekęs į pasalą.
-  citata_rodoma: |
-    Žuvo 1949 m. rugsėjo
-    28 d. Šakių apskrities Jankų valsčiaus
-    Šunkarių miške patekęs į pasalą.
+  citata_rodoma: "Žuvo 1949 m. rugsėjo\n28 d. Šakių apskrities Jankų valsčiaus\nŠunkarių miške patekęs į pasalą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42384
+    - t-001

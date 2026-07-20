@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20207"></a>
 - t-001
-  global_id: t-20207
   teiginys: "1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,12 +84,11 @@ Nenurodyta
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: |
-    dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
+  citata_rodoma: "dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20207
+    - t-001

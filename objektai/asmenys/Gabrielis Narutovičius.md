@@ -31,7 +31,6 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
 
 <a id="claim-t-26441"></a>
 - t-001
-  global_id: t-26441
   teiginys: "Dvarininkas Gabrielis Narutovičius tapo Lenkijos prezidentu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,7 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26441
+    - t-001
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Stanislovas Narutavičius]]

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-40924"></a>
 - t-001
-  global_id: t-40924
   teiginys: "1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,16 +69,11 @@ media_all_json: |-
     rinktinės organizatorių, nuo 1945 m. lapkričio paskirtas jos vado pavaduo-
     toju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų
     pasitraukęs).
-  citata_rodoma: |
-    1945 m.
-    vadovavo Kretingos apskrities partizanų Klevo kuopai. Vienas iš Kardo
-    rinktinės organizatorių, nuo 1945 m. lapkričio paskirtas jos vado pavaduo-
-    toju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų
-    pasitraukęs).
+  citata_rodoma: "1945 m.\nvadovavo Kretingos apskrities partizanų Klevo kuopai. Vienas iš Kardo\nrinktinės organizatorių, nuo 1945 m. lapkričio paskirtas jos vado pavaduo-\ntoju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų\npasitraukęs)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40924
+    - t-001

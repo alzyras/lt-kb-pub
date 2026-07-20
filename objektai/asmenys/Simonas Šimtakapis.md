@@ -7,12 +7,12 @@ datos:
   - '1551 m.'
 date_start: '1551'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202065"></a>
 - t-001
-  global_id: t-202065
   teiginys: "1551 m. Kauno miestietis ir šiporius Simonas Šimtakapis sudarė tokią Kauno miesto vaito aktų knygoje įrašytą samdos sutartį: Petras Butkevičius asmeniškai stojęs savanoriškai pareiškė, kad skolingas ponui Simonui Šimtakapiui 11 kapų lietuviškųjų grašių bei 14."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202065
+    - t-001

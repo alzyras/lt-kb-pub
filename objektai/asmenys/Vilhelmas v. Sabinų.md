@@ -36,7 +36,6 @@ Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyr
 
 <a id="claim-t-201424"></a>
 - t-001
-  global_id: t-201424
   teiginys: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,9 @@ Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyr
 ## Citatos
 
 - id: c-184774
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok gi-
     lesniai į Žemaičių kraštą nebdrįso beeiti, krūpau­
@@ -80,4 +80,4 @@ Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201424
+    - t-001

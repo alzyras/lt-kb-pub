@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01732"></a>
 - t-001
-  global_id: t-01732
   teiginys: "1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01732
+    - t-001

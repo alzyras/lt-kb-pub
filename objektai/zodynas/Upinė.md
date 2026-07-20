@@ -37,7 +37,6 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 
 <a id="claim-t-189184"></a>
 - t-001
-  global_id: t-189184
   teiginys: "Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens deivę, kuriai esą aukoti balti paršeliai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 
 <a id="claim-t-189186"></a>
 - t-003
-  global_id: t-189186
   teiginys: "Narbutas pasakojo, kad Upine vadinama senė apeigomis pašventindavo upelį, kuris esą visiems metams įgydavo gydomosios galios."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,6 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 
 <a id="claim-t-197375"></a>
 - t-004
-  global_id: t-197375
   teiginys: "Senė, vadinama Upine, tomis apei gomis pašventindavo upelį, ir jis visiems metams įgydavo gy domosios galios."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -82,18 +79,6 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172072
-
-<a id="claim-t-189185"></a>
-- t-002
-  global_id: t-189185
-  teiginys: 'Narbutas rašė, kad prie Zapyškio tekėjęs mažas upelis anksčiau vadintas Upinės upeliu, o vėliau - Išganytojo vardu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Vietovės faktas susietas su Upinės upeliu ir aiškiu geografiniu kontekstu. Vėlesnės maldos ir gydymo praktikos neįtrauktos.'
-  susije_objektai: 'mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Zapyškis'
-  pagrindžia:
-    - c-002
 - susijęs iš [[objektai/zodynas/Rusalkos dugnės gudelkos.md#claim-t-189249|Rusalkos dugnės gudelkos]]: Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė Lasickio jai priskirtą tešlos globą.
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pats tai laikė nepanašu į tiesą.
 ## Reikšmingi paminėjimai
@@ -116,11 +101,9 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
     na jį ant artimiausio krūmo arba ištiesia ant kranto.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189185
+  statusas: verified
 ## Citatos
 
 - id: c-172072
@@ -142,8 +125,9 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189184
-    - t-197375
+    - t-001
+    - t-004
+
 - id: c-172074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -161,4 +145,4 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189186
+    - t-003

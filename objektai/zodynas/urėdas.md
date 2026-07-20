@@ -38,8 +38,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ## Teiginiai
 
 <a id="claim-t-12598"></a>
-- t-001
-  global_id: t-12598
+- t-002
   teiginys: "Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-14719
 
 <a id="claim-t-12599"></a>
-- t-002
-  global_id: t-12599
+- t-003
   teiginys: "Vytauto laikais įvedami lenkiški urėdai žymi administracijos pertvarką."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-14720
 
 <a id="claim-t-70375"></a>
-- t-003
-  global_id: t-70375
+- t-004
   teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,9 +88,9 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   pagrindžia:
     - c-69409
     - c-166383
+
 <a id="claim-t-200956"></a>
-- t-004
-  global_id: t-200956
+- t-006
   teiginys: "Lygia dalia kryžėjai numanė orumą to krašto, kurie kaip įmaną steigė lietuviams kelią per upį Osą užtverti, kaipogi didy sis mistras liepė urėdui kryžėjų parulbežy Pamezonijos ir Kulmijos ant skardžio stiprią pilį įkurti ir įgulę gausią tenai įdėti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-184306
 
 <a id="claim-t-200957"></a>
-- t-005
-  global_id: t-200957
+- t-007
   teiginys: "Gediminas nuo savo pusės prižadėjo jų tikybą, arba vierą, kalbą, dobę ir apsiėjimus jų bočių probočių užlaikyti ir niekam pikto nedaryti; idant jis kuo didesniai ūkinykams Kijevo pasigerintų, padėjo tenai urėdu Mintautą, kunigaikštį Alšėnų, kursai neseniai."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-184307
 
 <a id="claim-t-200958"></a>
-- t-006
-  global_id: t-200958
+- t-008
   teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -155,7 +150,8 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12598
+    - t-002
+
 - id: c-14720
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -172,7 +168,8 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12599
+    - t-003
+
 - id: c-69409
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -183,16 +180,15 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: |
-    Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
-    kanclerio urėdas, nusileido ir prispaudė antspaudą.
+  citata_rodoma: "Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-\nkanclerio urėdas, nusileido ir prispaudė antspaudą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70375
+    - t-004
+
 - id: c-166383
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -207,13 +203,16 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     rašytojas ir pamokslininkas Petras Skarga.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-184306
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Juo didesniai lietuviai laimėjo, juo didesniai vy­
     lės savo ketėjimą pasiekti, tai yra vokyčius būtinai
@@ -232,10 +231,12 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200956
+    - t-006
+
 - id: c-184307
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą regėdami, kijevionys, išėję su savo vyresnybe
     dvasiška ir ūkiška pro didžiąją angą pilės, Gedimi­
@@ -257,10 +258,12 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200957
+    - t-007
+
 - id: c-184308
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėjus svodbai, kas gal tą iškilmę aprašyti, su
     kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­
@@ -276,4 +279,4 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200958
+    - t-008

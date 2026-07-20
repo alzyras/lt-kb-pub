@@ -37,7 +37,6 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
 
 <a id="claim-t-192894"></a>
 - t-001
-  global_id: t-192894
   teiginys: "Narbutas pasakoja, kad keliaujanti tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192894
+    - t-001

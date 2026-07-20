@@ -42,8 +42,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 ## Teiginiai
 
 <a id="claim-t-111432"></a>
-- t-001
-  global_id: t-111432
+- t-002
   teiginys: "1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-30300
 
 <a id="claim-t-111433"></a>
-- t-002
-  global_id: t-111433
+- t-007
   teiginys: "Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-103026
 
 <a id="claim-t-111435"></a>
-- t-003
-  global_id: t-111435
+- t-008
   teiginys: "Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-42272
 
 <a id="claim-t-111436"></a>
-- t-004
-  global_id: t-111436
+- t-005
   teiginys: "1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +115,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-103025
 
 <a id="claim-t-111437"></a>
-- t-005
-  global_id: t-111437
+- t-001
   teiginys: "Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -196,7 +191,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111432
+    - t-002
+
 - id: c-42272
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -214,23 +210,15 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     pavienių lenkų riterių, tokių kaip Spytekas
     iš Melštyno, Krokuvos vaivada ir Podolės
     valdytojas bei kiti.
-  citata_rodoma: |
-    Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d. Vytautas
-    visą birželį telkė karius (savo lietuvius,
-    jam pavaldžių rusų kunigaikščių karius ir
-    kitus) stovykloje prie Kijevo. Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti.
+  citata_rodoma: "Pagrindinė Vytauto kariuomenė iš\nVilniaus išvyko apie gegužės 18 d. Vytautas\nvisą birželį telkė karius (savo lietuvius,\njam pavaldžių rusų kunigaikščių karius ir\nkitus) stovykloje prie Kijevo. Čia buvo ir\nTochtamišo totoriai (keli tūkstančiai), 400\npavienių lenkų riterių, tokių kaip Spytekas\niš Melštyno, Krokuvos vaivada ir Podolės\nvaldytojas bei kiti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111435
+    - t-008
+
 - id: c-103024
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -246,7 +234,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111437
+    - t-001
+
 - id: c-103025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -272,23 +261,15 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
-  citata_rodoma: |
-    Tokios iškilmės Vy­
-    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
-    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
-    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
-    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
-    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
-    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
-    73 nė Ona mirė Trakuose, o palaidota
-    Ona buvo Smolensko kunigaikščio buvo Vilniuje.
+  citata_rodoma: "Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus\npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo\npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu\npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas\njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111436
+    - t-005
+
 - id: c-103026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -312,7 +293,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111433
+    - t-007
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Priešai: [[objektai/asmenys/Timūr-Kutlukas]]

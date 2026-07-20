@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67083"></a>
-- t-001
-  global_id: t-67083
+- t-004
   teiginys: "Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-43155
 
 <a id="claim-t-67084"></a>
-- t-002
-  global_id: t-67084
+- t-005
   teiginys: "Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-43155
 
 <a id="claim-t-67085"></a>
-- t-003
-  global_id: t-67085
+- t-006
   teiginys: "Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,6 +122,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67083
-    - t-67084
-    - t-67085
+    - t-004
+    - t-005
+    - t-006

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-12321"></a>
 - t-001
-  global_id: t-12321
   teiginys: "Po mūšio buvo statomos palapinės ir trims dienoms sustota pailsėti bei susitvarkyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -73,15 +72,11 @@ Nenurodyta
     landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
     ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
     pasilsėti ir susitvarkyti.
-  citata_rodoma: |
-    Tačiau vijosi netoli. Po 4—5 va­
-    landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
-    ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
-    pasilsėti ir susitvarkyti.
+  citata_rodoma: "Tačiau vijosi netoli. Po 4—5 va­\nlandų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės\nir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms\npasilsėti ir susitvarkyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12321
+    - t-001

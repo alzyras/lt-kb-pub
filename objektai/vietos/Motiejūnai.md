@@ -31,7 +31,6 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
 
 <a id="claim-t-41939"></a>
 - t-001
-  global_id: t-41939
   teiginys: "Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
     kelią ir išsiskleidę pasuko Motiejūnų link.
     Lietuviai sugulė greta kaimo esančio miš-
     kelio pakraštyje.
-  citata_rodoma: |
-    T. Balno kariai pasiekė Motiejūnų-Giedraičių
-    kelią ir išsiskleidę pasuko Motiejūnų link.
-    Lietuviai sugulė greta kaimo esančio miš-
-    kelio pakraštyje.
+  citata_rodoma: "T. Balno kariai pasiekė Motiejūnų-Giedraičių\nkelią ir išsiskleidę pasuko Motiejūnų link.\nLietuviai sugulė greta kaimo esančio miš-\nkelio pakraštyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41939
+    - t-001

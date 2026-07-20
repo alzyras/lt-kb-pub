@@ -31,7 +31,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 <a id="claim-t-29505"></a>
 - t-001
-  global_id: t-29505
   teiginys: "Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 
 <a id="claim-t-184350"></a>
 - t-002
-  global_id: t-184350
   teiginys: "Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29505
+    - t-001
+
 - id: c-167720
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -109,4 +108,4 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184350
+    - t-002

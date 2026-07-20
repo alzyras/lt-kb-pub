@@ -31,7 +31,6 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
 
 <a id="claim-t-185316"></a>
 - t-001
-  global_id: t-185316
   teiginys: "Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,7 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168677
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.'
@@ -72,8 +71,7 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185316
+
 ## Citatos
 
 - id: c-168677
@@ -95,24 +93,11 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
     gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką.
-  citata_rodoma: |
-    Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
-    jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
-    vengti visokių atsitiktinumų, jie be didelio vargo su­
-    tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­
-    mas žymiausiųjų palydovų ir
-    T a ik o s ta ip  m a s k v ė -
-    bajorų, įžengsiąs į miestą ne­
-    rių ir A lg ir d o  s ą ly g o s
-    lyginant draugas; tarsi nuga­
-    lėtojas jis įsmeigsiąs ietį į
-    pilies vartus. Lietuvos sienos būsiančios praplėstos li­
-    gi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­
-    reiviams algą, o vadui — karo išlaidas.
+  citata_rodoma: "Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­\njojo visokių netikėtumų, ir lietuvis norėjo laiku iš­\nvengti visokių atsitiktinumų, jie be didelio vargo su­\ntarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­\nmas žymiausiųjų palydovų ir\nT a ik o s ta ip  m a s k v ė -\nbajorų, įžengsiąs į miestą ne­\nrių ir A lg ir d o  s ą ly g o s\nlyginant draugas; tarsi nuga­\nlėtojas jis įsmeigsiąs ietį į\npilies vartus. Lietuvos sienos būsiančios praplėstos li­\ngi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185316
+    - t-001

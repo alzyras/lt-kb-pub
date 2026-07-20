@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-189630"></a>
 - t-001
-  global_id: t-189630
   teiginys: "Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189630
+    - t-001

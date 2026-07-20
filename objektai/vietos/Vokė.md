@@ -38,7 +38,6 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 
 <a id="claim-t-85558"></a>
 - t-001
-  global_id: t-85558
   teiginys: "Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 
 <a id="claim-t-85559"></a>
 - t-002
-  global_id: t-85559
   teiginys: "Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 
 <a id="claim-t-85560"></a>
 - t-003
-  global_id: t-85560
   teiginys: "Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,38 +129,16 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
     būtų išlikę totorių buveinių pėdsakų
     pavadinimuose: Totoriškės, Totorių
     kapinės ir 1.1.
-  citata_rodoma: |
-    ]* -
-    Šitas, nepalankus lietuvių atžvilgiu
-    palyginimas su totoriais gal persū­
-    dytas, tačiau negalima būtų nugin­
-    čyti, kad totoriai, Vytauto Lietuvoje
-    įkurdinti, net iki mūsų laikų garsūs
-    nepriekaištinga dora, narsa ir prie­
-    raišumu savo naujai tėvynei. Jų dau­
-    gybę su visomis šeimomis į šiuos
-    kraštus turėjo būti atkėlęs šaunus
-    pergalingas karys Vytautas; be jų pa­
-    grindinės gyvenvietės prie Vokės
-    upės, be tų, kurie įsikūrė mieste ir
-    kurie apsigyveno vietovėje, vadinto­
-    je Nemėžiu, per mylią nuo Vilniaus į
-    rytus, daug jų įsikūrė pavietuose:
-    Lydos, Ašmenos ir Naugarduko ir
-    iš tiesų nėra valdos, ypač pasakyti­
-    na tai apie Vilniaus, Trakų ir Nau­
-    garduko pavietus, kur iki šiolei ne­
-    būtų išlikę totorių buveinių pėdsakų
-    pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.
+  citata_rodoma: "]* -\nŠitas, nepalankus lietuvių atžvilgiu\npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje\nįkurdinti, net iki mūsų laikų garsūs\nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos\nkraštus turėjo būti atkėlęs šaunus\npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės\nupės, be tų, kurie įsikūrė mieste ir\nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į\nrytus, daug jų įsikūrė pavietuose:\nLydos, Ašmenos ir Naugarduko ir\niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų\npavadinimuose: Totoriškės, Totorių\nkapinės ir 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85559
-    - t-85560
+    - t-002
+    - t-003
+
 - id: c-81552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -182,4 +157,4 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85558
+    - t-001

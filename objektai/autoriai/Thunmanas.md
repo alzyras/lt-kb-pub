@@ -31,7 +31,6 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
 
 <a id="claim-t-88082"></a>
 - t-001
-  global_id: t-88082
   teiginys: "Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,29 +82,11 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
     divarijai], duotas Jornandeso
     (De geticae gentis origine ac rebus ges­
     tis Cap.
-  citata_rodoma: |
-    Kraštas, ku­
-    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
-    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
-    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
-    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
-    i
-    Kol istorikai neįstengė rasti patiki­
-    mos išvados apie lietuvių tautos
-    kilmę, kol kas to dar neketinu šia­
-    me veikale aptarti; vis dėlto turiu
-    pripažinti, kad švedų mokslininko
-    Thunmano  tyrinėjimai ir prie­
-    laidos panašiausios į tiesą. Tikrai
-    tikėtina, jog vardas tautos, įsikūru­
-    sios prie Vyslos žiočių - vidivarii [vi-
-    divarijai], duotas Jornandeso
-    (De geticae gentis origine ac rebus ges­
-    tis Cap.
+  citata_rodoma: "Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba \nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.\ni\nKol istorikai neįstengė rasti patiki­\nmos išvados apie lietuvių tautos \nkilmę, kol kas to dar neketinu šia­\nme veikale aptarti; vis dėlto turiu \npripažinti, kad švedų mokslininko \nThunmano  tyrinėjimai ir prie­\nlaidos panašiausios į tiesą. Tikrai \ntikėtina, jog vardas tautos, įsikūru­\nsios prie Vyslos žiočių - vidivarii [vi- \ndivarijai], duotas Jornandeso \n(De geticae gentis origine ac rebus ges­\ntis Cap."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88082
+    - t-001

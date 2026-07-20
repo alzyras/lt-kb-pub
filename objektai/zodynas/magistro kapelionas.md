@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
 
 <a id="claim-t-58915"></a>
 - t-001
-  global_id: t-58915
   teiginys: "Dusburgiečio dedikacija rodo, kad jis buvo Kryžiuočių ordino brolis kunigas, o vėliau galėjo būti magistro kapelionas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58915
+    - t-001

@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Raudonos vėliavos
 
 ## Santrauka
@@ -53,28 +54,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-19584"></a>
-- t-001
-  global_id: t-19584
-  teiginys: "1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raudonos vėliavos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudonos vėliavos\" parinktas kaip owner_note_path. Targetas \"„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: po 1926 m.; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste."
-  pagrindžia:
-    - c-22288
-
 ## Citatos
 
 - id: c-22288
@@ -94,12 +73,9 @@ Nenurodyta
     opozicijoje esantis krikščionių demokratų blokas, tautininkai, karininkai
     ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
     studentų demonstraciją).
-  citata_rodoma: |
-    ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
+  citata_rodoma: "ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-19584

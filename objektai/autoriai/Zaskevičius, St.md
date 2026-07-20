@@ -38,7 +38,6 @@ Zaskevičius, St.
 
 <a id="claim-t-54143"></a>
 - t-001
-  global_id: t-54143
   teiginys: "St. Zaskevičius 1930 m. paskelbė darbą „Trijų elementų reikšmė Tannenbergo kautynėse“."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Zaskevičius, St.
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
     _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
-  citata_rodoma: |
-    — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
-    deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :
-    _Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,
-    St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
+  citata_rodoma: "— Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­\ndeutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54143
+    - t-001

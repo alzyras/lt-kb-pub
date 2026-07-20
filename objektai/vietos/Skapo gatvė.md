@@ -36,7 +36,6 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 
 <a id="claim-t-86234"></a>
 - t-001
-  global_id: t-86234
   teiginys: "1573 m. kunigaikštis Kristupas kapitulos sutartimi mainais atidavė sklypą Skapo gatvės kampe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86234
+    - t-001

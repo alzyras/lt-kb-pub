@@ -29,8 +29,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 ## Teiginiai
 
 <a id="claim-t-75999"></a>
-- t-001
-  global_id: t-75999
+- t-002
   teiginys: "Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,6 +73,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75999
+    - t-002
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gabrielis Narutovičius]]

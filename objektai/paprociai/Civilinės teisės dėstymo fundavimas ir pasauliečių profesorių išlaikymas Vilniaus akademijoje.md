@@ -45,7 +45,6 @@ Nenurodyta
 
 <a id="claim-t-185867"></a>
 - t-001
-  global_id: t-185867
   teiginys: "Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185867
+    - t-001

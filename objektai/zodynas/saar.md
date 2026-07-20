@@ -35,28 +35,18 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-70315"></a>
-- t-001
-  global_id: t-70315
+- t-006
   teiginys: "1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "saar: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"saar\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1427 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-14708
     - c-14709
 
 <a id="claim-t-70316"></a>
-- t-002
-  global_id: t-70316
+- t-004
   teiginys: "Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -73,8 +63,7 @@ media_all_json: |-
     - c-14707
 
 <a id="claim-t-70318"></a>
-- t-003
-  global_id: t-70318
+- t-005
   teiginys: "Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -101,17 +90,15 @@ media_all_json: |-
     puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
-  citata_rodoma: |
-    Vytauto
-    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
-    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
+  citata_rodoma: "Vytauto\nlaikais totorių valstybė kaip tik pergyveno krizį. Orda buvo\nsuskilusi, atskiri „saarai“ vedė nuolatinius karus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70316
+    - t-004
+
 - id: c-14708
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,8 +117,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70315
-    - t-70318
+    - t-005
+
 - id: c-14709
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -149,4 +136,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70315
+    - t-006

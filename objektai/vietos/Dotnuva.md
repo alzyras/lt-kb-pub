@@ -37,7 +37,6 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 
 <a id="claim-t-76241"></a>
 - t-001
-  global_id: t-76241
   teiginys: "Dotnuvoje veikusi Žemės ūkio akademija rengė specialistus žemės ūkiui."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 
 <a id="claim-t-76242"></a>
 - t-002
-  global_id: t-76242
   teiginys: "Žemės ūkio akademija Dotnuvoje papildė Kauno Vytauto Didžiojo universiteto veiklą ir rengė specialistus žemės ūkiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,18 +89,12 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
     kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
     1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
     kalbų ir istorijos, karo mokslus.
-  citata_rodoma: |
-    Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
-    akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-
-    alistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-
-    kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
-    1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
-    kalbų ir istorijos, karo mokslus.
+  citata_rodoma: "Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio\nakademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-\nalistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-\nkykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie\n1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,\nkalbų ir istorijos, karo mokslus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76241
-    - t-76242
+    - t-001
+    - t-002

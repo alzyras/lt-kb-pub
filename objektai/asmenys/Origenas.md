@@ -26,26 +26,11 @@ media_all_json: |-
 
 Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190193"></a>
-- t-001
-  global_id: t-190193
-  teiginys: 'Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Religinė interpretacija suformuluota kaip Narbuto naudojamas šaltinis ir Celsui priskirta mintis. Neperrašyta ilga citata ir nepridėta platesnio Origeno veikalo konteksto.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Celsas|Celsas]]; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]'
-  pagrindžia:
-    - c-173076
-
-## Citatos
-
-- id: c-173076
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
     Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
@@ -64,10 +49,8 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
     rengimus, tačiau tik pašvęstiems žmonėms, tai yra patyrusiems,
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190193
+  statusas: verified

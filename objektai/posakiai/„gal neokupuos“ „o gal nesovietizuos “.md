@@ -31,7 +31,6 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 
 <a id="claim-t-26353"></a>
 - t-001
-  global_id: t-26353
   teiginys: "Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26353
+    - t-001

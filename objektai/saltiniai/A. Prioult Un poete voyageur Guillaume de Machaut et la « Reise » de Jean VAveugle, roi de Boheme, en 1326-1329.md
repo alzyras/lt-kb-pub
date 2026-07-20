@@ -39,7 +39,6 @@ Prioult, A.
 
 <a id="claim-t-31594"></a>
 - t-001
-  global_id: t-31594
   teiginys: "A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Prioult, A.
     la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
     Romanes, IV, nr. 1, 1950, 3-29 p. — Vaičiulaitis, A.: _Vidurinių
     amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq.
-  citata_rodoma: |
-    — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
-    la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres
-    Romanes, IV, nr. 1, 1950, 3-29 p.
+  citata_rodoma: "— Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et\nla « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres\nRomanes, IV, nr. 1, 1950, 3-29 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31594
+    - t-001

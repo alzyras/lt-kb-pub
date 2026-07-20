@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75544"></a>
-- t-001
-  global_id: t-75544
+- t-004
   teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-75545"></a>
 - t-002
-  global_id: t-75545
   teiginys: "1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ media_all_json: |-
 
 <a id="claim-t-75546"></a>
 - t-003
-  global_id: t-75546
   teiginys: "1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,17 +129,15 @@ media_all_json: |-
     iš balkono sveikino minias. Tais metais de facto Lietuvą pripažino Nor-
     vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
     (liepos 4 d.).
-  citata_rodoma: |
-    Tais metais de facto Lietuvą pripažino Nor-
-    vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
-    (liepos 4 d.).
+  citata_rodoma: "Tais metais de facto Lietuvą pripažino Nor-\nvegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija \n(liepos 4 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75546
+    - t-003
+
 - id: c-73293
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,20 +152,15 @@ media_all_json: |-
     1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
     pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
     prindama jų pozicijas.
-  citata_rodoma: |
-    Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
-    tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
-    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
-    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
-    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
-    prindama jų pozicijas.
+  citata_rodoma: "Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-\ntendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-\nlietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija \n1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai \npradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-\nprindama jų pozicijas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75544
+    - t-004
+
 - id: c-73294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -187,17 +177,11 @@ media_all_json: |-
     kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
     tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
     iš balkono sveikino minias.
-  citata_rodoma: |
-    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
-    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
-    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
-    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
-    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
-    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.
+  citata_rodoma: "Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-\nsinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad \nDidžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių \nsusirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-\nkių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, \ntempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75545
+    - t-002

@@ -31,8 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-11668"></a>
-- t-001
-  global_id: t-11668
+- t-003
   teiginys: "Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -47,6 +46,23 @@ media_all_json: |-
   pagrindžia:
     - c-14592
 
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmiausia tai buvo 1202 met.
+    įsteigtasis „Kristaus kariuomenės brolių“ — „kardininkų“
+    ordinas. Jis turėjo tikslą garantuoti jaunutei krikščionių ko­
+    lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel­
+    bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
+    pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-14592
@@ -55,21 +71,15 @@ media_all_json: |-
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Pirmiausia tai buvo 1202 met.
-    įsteigtasis „Kristaus kariuomenės brolių“ — „kardininkų“
-    ordinas. Jis turėjo tikslą garantuoti jaunutei krikščionių ko­
-    lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel­
-    bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
-    pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
-  citata_rodoma: |
     Jis turėjo tikslą garantuoti jaunutei krikščionių ko-
     lonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-
     bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-
     pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
+  citata_rodoma: "Jis turėjo tikslą garantuoti jaunutei krikščionių ko-\nlonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-\nbėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-\npe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11668
+    - t-003

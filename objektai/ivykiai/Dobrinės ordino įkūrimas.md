@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01608"></a>
 - t-001
-  global_id: t-01608
   teiginys: "1228 m. buvo įkurtas vyskupui priklausęs riterių ordinas, pagal gyvenamąją vietą vadintas Dobrinės ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01608
+    - t-001

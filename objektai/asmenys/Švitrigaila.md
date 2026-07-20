@@ -9,21 +9,22 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1382 m.'
   - '1452 m.'
 date_start: '1382'
 date_end: '1452'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - valdovas
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '38'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/%D0%A1%D0%B2%D0%B8%D0%B4%D1%80%D0%B8%D0%B3%D0%B0%D0%B9%D0%BB%D0%BE_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%BF%D1%80%D0%B8%D0%B5%D0%B7%D0%B6%D0%B0%D0%B5%D1%82_%D0%BA_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8E_I.png'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%D0%A1%D0%B2%D0%B8%D0%B4%D1%80%D0%B8%D0%B3%D0%B0%D0%B9%D0%BB%D0%BE_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%BF%D1%80%D0%B8%D0%B5%D0%B7%D0%B6%D0%B0%D0%B5%D1%82_%D0%BA_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8E_I.png'
@@ -42,13 +43,12 @@ media_all_json: |-
 
 ## Santrauka
 
-Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą. Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai. Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.
+Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
 
 ## Teiginiai
 
 <a id="claim-t-179687"></a>
-- t-001
-  global_id: t-179687
+- t-027
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +64,7 @@ media_all_json: |-
     - c-163355
 
 <a id="claim-t-179688"></a>
-- t-002
-  global_id: t-179688
+- t-020
   teiginys: "Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -82,8 +81,7 @@ media_all_json: |-
     - c-14091
 
 <a id="claim-t-179690"></a>
-- t-003
-  global_id: t-179690
+- t-021
   teiginys: "Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ media_all_json: |-
     - c-163387
 
 <a id="claim-t-179692"></a>
-- t-004
-  global_id: t-179692
+- t-068
   teiginys: "Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,7 @@ media_all_json: |-
     - c-163394
 
 <a id="claim-t-179693"></a>
-- t-005
-  global_id: t-179693
+- t-030
   teiginys: "Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +130,7 @@ media_all_json: |-
     - c-163357
 
 <a id="claim-t-179694"></a>
-- t-006
-  global_id: t-179694
+- t-036
   teiginys: "Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -152,8 +147,7 @@ media_all_json: |-
     - c-163394
 
 <a id="claim-t-179695"></a>
-- t-007
-  global_id: t-179695
+- t-024
   teiginys: "1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -173,8 +167,7 @@ media_all_json: |-
     - c-30378
 
 <a id="claim-t-179696"></a>
-- t-008
-  global_id: t-179696
+- t-053
   teiginys: "Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -190,8 +183,7 @@ media_all_json: |-
     - c-163375
 
 <a id="claim-t-179697"></a>
-- t-009
-  global_id: t-179697
+- t-048
   teiginys: "Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -207,8 +199,7 @@ media_all_json: |-
     - c-163356
 
 <a id="claim-t-179698"></a>
-- t-010
-  global_id: t-179698
+- t-040
   teiginys: "Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,8 +215,7 @@ media_all_json: |-
     - c-163369
 
 <a id="claim-t-179699"></a>
-- t-011
-  global_id: t-179699
+- t-018
   teiginys: "Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -245,8 +235,7 @@ media_all_json: |-
     - c-163383
 
 <a id="claim-t-179700"></a>
-- t-012
-  global_id: t-179700
+- t-066
   teiginys: "1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -265,8 +254,7 @@ media_all_json: |-
     - c-163365
 
 <a id="claim-t-179701"></a>
-- t-013
-  global_id: t-179701
+- t-044
   teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -284,9 +272,9 @@ media_all_json: |-
   pagrindžia:
     - c-163376
     - c-163354
+
 <a id="claim-t-179702"></a>
-- t-014
-  global_id: t-179702
+- t-060
   teiginys: "Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -302,8 +290,7 @@ media_all_json: |-
     - c-163379
 
 <a id="claim-t-179703"></a>
-- t-015
-  global_id: t-179703
+- t-062
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -319,8 +306,7 @@ media_all_json: |-
     - c-163355
 
 <a id="claim-t-179704"></a>
-- t-016
-  global_id: t-179704
+- t-061
   teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -339,8 +325,7 @@ media_all_json: |-
     - c-163377
 
 <a id="claim-t-179705"></a>
-- t-017
-  global_id: t-179705
+- t-039
   teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -356,9 +341,9 @@ media_all_json: |-
   pagrindžia:
     - c-163385
     - c-163382
+
 <a id="claim-t-179706"></a>
-- t-018
-  global_id: t-179706
+- t-038
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -374,8 +359,7 @@ media_all_json: |-
     - c-163359
 
 <a id="claim-t-179707"></a>
-- t-019
-  global_id: t-179707
+- t-052
   teiginys: "Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -391,8 +375,7 @@ media_all_json: |-
     - c-163374
 
 <a id="claim-t-179708"></a>
-- t-020
-  global_id: t-179708
+- t-065
   teiginys: "Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -408,8 +391,7 @@ media_all_json: |-
     - c-163386
 
 <a id="claim-t-179709"></a>
-- t-021
-  global_id: t-179709
+- t-025
   teiginys: "Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -425,8 +407,7 @@ media_all_json: |-
     - c-163391
 
 <a id="claim-t-179710"></a>
-- t-022
-  global_id: t-179710
+- t-032
   teiginys: "Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -442,8 +423,7 @@ media_all_json: |-
     - c-163365
 
 <a id="claim-t-179712"></a>
-- t-023
-  global_id: t-179712
+- t-056
   teiginys: "Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -460,8 +440,7 @@ media_all_json: |-
     - c-163371
 
 <a id="claim-t-179713"></a>
-- t-024
-  global_id: t-179713
+- t-059
   teiginys: "Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -477,8 +456,7 @@ media_all_json: |-
     - c-163390
 
 <a id="claim-t-179715"></a>
-- t-025
-  global_id: t-179715
+- t-034
   teiginys: "1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -497,8 +475,7 @@ media_all_json: |-
     - c-163361
 
 <a id="claim-t-179716"></a>
-- t-026
-  global_id: t-179716
+- t-019
   teiginys: "Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -515,8 +492,7 @@ media_all_json: |-
     - c-16101
 
 <a id="claim-t-179717"></a>
-- t-027
-  global_id: t-179717
+- t-049
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -536,8 +512,7 @@ media_all_json: |-
     - c-163388
 
 <a id="claim-t-179718"></a>
-- t-028
-  global_id: t-179718
+- t-042
   teiginys: "Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -554,8 +529,7 @@ media_all_json: |-
     - c-163364
 
 <a id="claim-t-179719"></a>
-- t-029
-  global_id: t-179719
+- t-035
   teiginys: "Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -571,8 +545,7 @@ media_all_json: |-
     - c-163356
 
 <a id="claim-t-179720"></a>
-- t-030
-  global_id: t-179720
+- t-045
   teiginys: "Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -589,8 +562,7 @@ media_all_json: |-
     - c-163381
 
 <a id="claim-t-179721"></a>
-- t-031
-  global_id: t-179721
+- t-017
   teiginys: "Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -606,8 +578,7 @@ media_all_json: |-
     - c-163360
 
 <a id="claim-t-179722"></a>
-- t-032
-  global_id: t-179722
+- t-037
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -626,8 +597,7 @@ media_all_json: |-
     - c-163388
 
 <a id="claim-t-179723"></a>
-- t-033
-  global_id: t-179723
+- t-022
   teiginys: "Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -643,8 +613,7 @@ media_all_json: |-
     - c-163380
 
 <a id="claim-t-179724"></a>
-- t-034
-  global_id: t-179724
+- t-026
   teiginys: "1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -663,8 +632,7 @@ media_all_json: |-
     - c-163362
 
 <a id="claim-t-179725"></a>
-- t-035
-  global_id: t-179725
+- t-031
   teiginys: "Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -680,8 +648,7 @@ media_all_json: |-
     - c-163386
 
 <a id="claim-t-179726"></a>
-- t-036
-  global_id: t-179726
+- t-058
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -698,8 +665,7 @@ media_all_json: |-
     - c-163367
 
 <a id="claim-t-179727"></a>
-- t-037
-  global_id: t-179727
+- t-033
   teiginys: "Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -715,8 +681,7 @@ media_all_json: |-
     - c-163353
 
 <a id="claim-t-179729"></a>
-- t-038
-  global_id: t-179729
+- t-055
   teiginys: "Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -732,8 +697,7 @@ media_all_json: |-
     - c-163373
 
 <a id="claim-t-179731"></a>
-- t-039
-  global_id: t-179731
+- t-041
   teiginys: "Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -750,8 +714,7 @@ media_all_json: |-
     - c-163384
 
 <a id="claim-t-179732"></a>
-- t-040
-  global_id: t-179732
+- t-047
   teiginys: "Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -767,8 +730,7 @@ media_all_json: |-
     - c-163353
 
 <a id="claim-t-179733"></a>
-- t-041
-  global_id: t-179733
+- t-057
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -784,8 +746,7 @@ media_all_json: |-
     - c-163363
 
 <a id="claim-t-179734"></a>
-- t-042
-  global_id: t-179734
+- t-046
   teiginys: "1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -805,8 +766,7 @@ media_all_json: |-
     - c-163395
 
 <a id="claim-t-184896"></a>
-- t-043
-  global_id: t-184896
+- t-069
   teiginys: "Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -825,48 +785,31 @@ media_all_json: |-
     - c-168257
 
 <a id="claim-t-184897"></a>
-- t-044
-  global_id: t-184897
+- t-070
   teiginys: "Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168258
+    - c-168257
 
 <a id="claim-t-184898"></a>
-- t-045
-  global_id: t-184898
+- t-071
   teiginys: "Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168259
+    - c-178825
 
 <a id="claim-t-184899"></a>
-- t-046
-  global_id: t-184899
+- t-072
   teiginys: "Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -884,29 +827,8 @@ media_all_json: |-
   pagrindžia:
     - c-168260
 
-<a id="claim-t-184900"></a>
-- t-047
-  global_id: t-184900
-  teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168261
-
 <a id="claim-t-191006"></a>
-- t-048
-  global_id: t-191006
+- t-074
   teiginys: "Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -929,8 +851,7 @@ media_all_json: |-
     - c-173888
 
 <a id="claim-t-196660"></a>
-- t-049
-  global_id: t-196660
+- t-076
   teiginys: "Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos ir Žygimanto Kęstutaičio."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -943,8 +864,7 @@ media_all_json: |-
     - c-178824
 
 <a id="claim-t-196661"></a>
-- t-050
-  global_id: t-196661
+- t-077
   teiginys: "Švitrigaila buvo aprigaila k la stin gai užsupęs Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -956,8 +876,7 @@ media_all_json: |-
     - c-168258
 
 <a id="claim-t-196662"></a>
-- t-051
-  global_id: t-196662
+- t-078
   teiginys: "Švitrigaila sužinojo, kad Švitrigaila perėjęs iš Prūsijos į Livoniją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -969,8 +888,7 @@ media_all_json: |-
     - c-168260
 
 <a id="claim-t-196663"></a>
-- t-052
-  global_id: t-196663
+- t-079
   teiginys: "Drucko kunigaikščiai neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -983,8 +901,7 @@ media_all_json: |-
     - c-178825
 
 <a id="claim-t-196664"></a>
-- t-053
-  global_id: t-196664
+- t-080
   teiginys: "Taikos su Vasilijumi sąlygose buvo numatytas pažadas neremti Švitrigailos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -997,8 +914,7 @@ media_all_json: |-
     - c-178826
 
 <a id="claim-t-196665"></a>
-- t-054
-  global_id: t-196665
+- t-081
   teiginys: "Švitrigaila pareiškė, jog santuoka būsianti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -1008,6 +924,19 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168261
+
+<a id="claim-t-201564"></a>
+- t-082
+  teiginys: "Vytauto pavyzdžiu sekė Švitrigaila ir Žygimantas Kęstutaitis."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-184911
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
@@ -1414,7 +1343,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179688
+    - t-020
+
 - id: c-16101
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1432,7 +1362,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179716
+    - t-019
+
 - id: c-30378
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1450,7 +1381,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179695
+    - t-024
+
 - id: c-163353
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1481,26 +1413,16 @@ media_all_json: |-
 
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą.
-  citata_rodoma: |
-    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
-    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
-    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
-    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
-    -- • --
-    135
-
-    ## Puslapis 152
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    bandant nuversti naująjį Lietuvos valdovą.
+  citata_rodoma: "Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­\ngailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­\ntęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­\nsinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos\n-- • --\n135\n\n## Puslapis 152\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbandant nuversti naująjį Lietuvos valdovą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179727
-    - t-179732
+    - t-033
+    - t-047
+
 - id: c-163354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1514,10 +1436,12 @@ media_all_json: |-
     ku8.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
 - id: c-163355
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1532,22 +1456,16 @@ media_all_json: |-
     tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
     gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
     pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
-  citata_rodoma: |
-    , atnaujino savo pirmykštį
-    krikštą, priimdamas naują Aleksandro vardą, nes tuo laiku, kai
-    susitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas
-    buvo priėmęs stačiatikių tikėjimą^2 ). Kartu su Jogaila ir Vy­
-    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
-    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
-    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
+  citata_rodoma: ", atnaujino savo pirmykštį\nkrikštą, priimdamas naują Aleksandro vardą, nes tuo laiku, kai\nsusitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas\nbuvo priėmęs stačiatikių tikėjimą^2 ). Kartu su Jogaila ir Vy­\ntautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­\ngandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir\npirmas Lietuvos krikšto aktas, atliktas Krokuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179687
-    - t-179703
+    - t-027
+    - t-062
+
 - id: c-163356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1565,24 +1483,16 @@ media_all_json: |-
     puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
     das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
     nuteisdami jį pakarti kaip išdaviką.
-  citata_rodoma: |
-    Tačiau veltui Švit­
-    rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam
-    buvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad
-    ir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o
-    Švitrigaila su didžiuoju magistru turėjo nutraukti apgul­
-    tį54. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
-    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
-    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
-    nuteisdami jį pakarti kaip išdaviką.
+  citata_rodoma: "Tačiau veltui Švit­\nrigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam\nbuvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad\nir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o\nŠvitrigaila su didžiuoju magistru turėjo nutraukti apgul­\ntį54. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per\npuolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­\ndas, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė\nnuteisdami jį pakarti kaip išdaviką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179697
-    - t-179719
+    - t-048
+    - t-035
+
 - id: c-163357
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1594,18 +1504,15 @@ media_all_json: |-
     Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
     reiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­
     vesta valdyti Podolija.
-  citata_rodoma: |
-    Tą
-    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
-    reiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­
-    vesta valdyti Podolija.
+  citata_rodoma: "Tą\nVytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­\nreiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­\nvesta valdyti Podolija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179693
+    - t-030
+
 - id: c-163359
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1619,20 +1526,15 @@ media_all_json: |-
     kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
     nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo.
-  citata_rodoma: |
-    Dinaburgo komtūras praneša Livonijos magistrui, kad
-    Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
-    kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos
-    kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
-    nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
-    Prisikėlimo.
+  citata_rodoma: "Dinaburgo komtūras praneša Livonijos magistrui, kad\nŠvitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;\nkad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos\nkunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­\nnausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties\nPrisikėlimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179706
+    - t-038
+
 - id: c-163360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1643,17 +1545,15 @@ media_all_json: |-
     tienė Julijona, Algirdo žmona. Pas ją buvo apsigyvenęs ir
     Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
     nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
-  citata_rodoma: |
-    Pas ją buvo apsigyvenęs ir
-    Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
-    nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
+  citata_rodoma: "Pas ją buvo apsigyvenęs ir\nJogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­\nnigaikštienei, Jogaila jį paskirs Vitebsko valdytoju."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179721
+    - t-017
+
 - id: c-163361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1672,26 +1572,15 @@ media_all_json: |-
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
     nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
     kiolika dienų teplėšė Lietuvą.
-  citata_rodoma: |
-    Prūsijos ordi­
-    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
-    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
-    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
-    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
-    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
-    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
-    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
-    net iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­
-    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
-    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
-    kiolika dienų teplėšė Lietuvą.
+  citata_rodoma: "Prūsijos ordi­\nnas iš sykio griebėsi tos patogios progos pradėti karą ir nio­\nkoti tuos pavojingus jam kaimynus (1394 m.); kitais metais\nŠvitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­\ngistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę\nprie Gardino panemunės pavietus, sudegino Drohičiną, Nau­\ngarduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir\nprisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,\nnet iki Šalčininkų nusigavo51. Visa tai vyko žiemos pabaigo­\nje, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­\nnai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­\nkiolika dienų teplėšė Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179715
+    - t-034
+
 - id: c-163362
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1705,18 +1594,15 @@ media_all_json: |-
     sudarytos paliaubos tarp Lenkijos kara-
     liaus Jogailos ir jo brolio, Lietuvos didžiojo
     kunigaikščio Švitrigailos.
-  citata_rodoma: |
-    1430 m. lapkričio 7 d. buvo
-    sudarytos paliaubos tarp Lenkijos kara-
-    liaus Jogailos ir jo brolio, Lietuvos didžiojo
-    kunigaikščio Švitrigailos.
+  citata_rodoma: "1430 m. lapkričio 7 d. buvo\nsudarytos paliaubos tarp Lenkijos kara-\nliaus Jogailos ir jo brolio, Lietuvos didžiojo\nkunigaikščio Švitrigailos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179724
+    - t-026
+
 - id: c-163363
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1744,29 +1630,15 @@ media_all_json: |-
     ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
     Žygimanto ir Švitrigailos grupuočių taikiniu.
-  citata_rodoma: |
-    216
-
-    ## Puslapis 233
-
-    I I I  KNYGA
-    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
-    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
-    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
-    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
-    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
-    ir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­
-    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
-    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
-    Žygimanto ir Švitrigailos grupuočių taikiniu.
+  citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179733
+    - t-057
+
 - id: c-163364
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1788,7 +1660,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179718
+    - t-042
+
 - id: c-163365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1804,21 +1677,16 @@ media_all_json: |-
     taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
-  citata_rodoma: |
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179700
-    - t-179710
+    - t-066
+    - t-032
+
 - id: c-163367
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1850,7 +1718,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179726
+    - t-058
+
 - id: c-163369
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1870,7 +1739,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179698
+    - t-040
+
 - id: c-163371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1929,7 +1799,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179712
+    - t-056
+
 - id: c-163373
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1952,7 +1823,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179729
+    - t-055
+
 - id: c-163374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1977,7 +1849,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179707
+    - t-052
+
 - id: c-163375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1999,7 +1872,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179696
+    - t-053
+
 - id: c-163376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2013,19 +1887,15 @@ media_all_json: |-
     no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
-  citata_rodoma: |
-    Per itin galingas Švitrigailos sąjungas radosi di­
-    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
-    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
-    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
-    ku8. Silezijos, o ypač Vroclavo (1432 m.
+  citata_rodoma: "Per itin galingas Švitrigailos sąjungas radosi di­\ndesnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių\nVokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis\nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179701
+    - t-044
+
 - id: c-163377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2050,7 +1920,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179704
+    - t-061
+
 - id: c-163379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2071,7 +1942,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179702
+    - t-060
+
 - id: c-163380
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2088,20 +1960,15 @@ media_all_json: |-
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: |
-    Visose trijose Jogailos ir
-    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
-    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
-    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
-    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: "Visose trijose Jogailos ir\nSlorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi\nkiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,\nKarigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs\nbei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio\ntaryba tėra paminėta Žemaičių dovanojimo dokumente."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179723
+    - t-022
+
 - id: c-163381
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2121,7 +1988,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179720
+    - t-045
+
 - id: c-163382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2145,28 +2013,15 @@ media_all_json: |-
     Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
-  citata_rodoma: |
-    " (Didžiai gerbiamam Livonijos magistrui
-    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
-    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
-    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
-    162
-
-    ## Puslapis 179
-
-    Il KNYGA
-    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
-    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
-    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
-    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
-    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
-    mos.
+  citata_rodoma: "\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas).\nMūsų nuomonę apie šio laiško senumą patvirtina ne tik \njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku \nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį \nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-039
+
 - id: c-163383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2179,17 +2034,15 @@ media_all_json: |-
     Jogaila pasodino į jos vietą Feodorą Vesną. To negalėjo pa­
     kęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­
     štą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
-  citata_rodoma: |
-    To negalėjo pa­
-    kęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­
-    štą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
+  citata_rodoma: "To negalėjo pa­\nkęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­\nštą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179699
+    - t-018
+
 - id: c-163384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2212,7 +2065,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179731
+    - t-041
+
 - id: c-163385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2243,7 +2097,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179705
+    - t-039
+
 - id: c-163386
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2259,21 +2114,16 @@ media_all_json: |-
     siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
     nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
     tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
-  citata_rodoma: |
-    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
-    Spytkas iš Melštyno, kuris valdė Podoliją.
-    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
-    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
-    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
-    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
+  citata_rodoma: "Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius\nSpytkas iš Melštyno, kuris valdė Podoliją.\nŠita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­\nsiam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­\nnus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­\ntautas tos pirmenybės neturėjo, jis tik ją išsikovojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179708
-    - t-179725
+    - t-065
+    - t-031
+
 - id: c-163387
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2284,16 +2134,15 @@ media_all_json: |-
     piktai įžeistas, dėl ko vėl jis pasiryžo iš jų atimti Žemaičių kraštą.
     Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į
     Maskvą, o paskui pas totorius, iš čia — pas Ordiną.
-  citata_rodoma: |
-    Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į
-    Maskvą, o paskui pas totorius, iš čia — pas Ordiną.
+  citata_rodoma: "Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į\nMaskvą, o paskui pas totorius, iš čia — pas Ordiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179690
+    - t-021
+
 - id: c-163388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2329,8 +2178,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179717
-    - t-179722
+    - t-049
+    - t-037
+
 - id: c-163390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2356,7 +2206,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179713
+    - t-059
+
 - id: c-163391
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2367,17 +2218,15 @@ media_all_json: |-
     ir Žygimantas buvo Vytauto politikos tęsėjai. Vytauto mokykloje
     išaugusi didikų ir bajorų generacija vedė vad. «separatistinę » poli­
     tiką Kazimiero laikais.
-  citata_rodoma: |
-    Švitrigaila
-    ir Žygimantas buvo Vytauto politikos tęsėjai. Vytauto mokykloje
-    išaugusi didikų ir bajorų generacija vedė vad.
+  citata_rodoma: "Švitrigaila\nir Žygimantas buvo Vytauto politikos tęsėjai. Vytauto mokykloje\nišaugusi didikų ir bajorų generacija vedė vad."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179709
+    - t-025
+
 - id: c-163394
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2392,22 +2241,16 @@ media_all_json: |-
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
     tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
     bei alpių karščių.
-  citata_rodoma: |
-    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
-    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
-    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
-    lenske pulkus, apsupo tą miestą ir po keturias savaites
-    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
-    nelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­
-    kių kunigaikščių ir vėl patraukė į mūšio lauką56.
+  citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites \nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į \nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179692
-    - t-179694
+    - t-068
+    - t-036
+
 - id: c-163395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2421,19 +2264,15 @@ media_all_json: |-
     1433 m. kova vyko pietryti-
     nėse LDK žemėse tarp Lenkijos karaliaus ir
     Švitrigailos šalininkų.
-  citata_rodoma: |
-    1432 m.
-    gruodžio 8 d. Ašmenos
-    mūšyje Švitrigailos jėgos
-    buvo išsklaidytos, o jis pats
-    pabėgo į Polocką.
+  citata_rodoma: "1432 m.\ngruodžio 8 d. Ašmenos\nmūšyje Švitrigailos jėgos\nbuvo išsklaidytos, o jis pats\npabėgo į Polocką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179734
+    - t-046
+
 - id: c-168257
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2457,7 +2296,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184896
+    - t-069
+    - t-070
+
 - id: c-168258
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2489,47 +2330,20 @@ media_all_json: |-
     puldami miestus, paprastai imasi visi patyrę vadai, ta­
     čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap­
     gaulės.
-  citata_rodoma: |
-    Lietuvių metraštinin­
-    kai nemini nei šios puotos, nei šitokio pralaimėjimo.
-    Gal visa tai dėjosi anksčiau, kaip kas ne kas tvirtina,
-    bet tada ir Vytautas, ir Konradas turėjo būti tam karui
-    paskyrę kitus vadus. Tikrai žinoma, kad tais metais
-    Konradas pirmą kartą kariavo prieš Vytautą; pasitel­
-    kęs galybę svetimšalių ir nu-
-    Š iek tiek v ė lia u Švit-
-    niokojęs kraštą, jis buvo ap-
-    rigaila k la stin gai už-
-    supęs Vilnių.
+  citata_rodoma: "Lietuvių metraštinin­\nkai nemini nei šios puotos, nei šitokio pralaimėjimo. \nGal visa tai dėjosi anksčiau, kaip kas ne kas tvirtina, \nbet tada ir Vytautas, ir Konradas turėjo būti tam karui \npaskyrę kitus vadus. Tikrai žinoma, kad tais metais \nKonradas pirmą kartą kariavo prieš Vytautą; pasitel­\nkęs galybę svetimšalių ir nu- \nŠ iek tiek v ė lia u Švit- \nniokojęs kraštą, jis buvo ap- \nrigaila k la stin gai už- \nsupęs Vilnių."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184897
-    - t-196661
+    - t-077
+
 - id: c-168259
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
-    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
-    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
-    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
-    lius laikinai buvo paskyręs Spiteką. Ta pačia proga ka­
-    ralius bei Vytautas susitarė, kad Severesko kunigaikš­
-    tystėje Lietuvos didžiojo ku-
-    P a sk elb ia
-    T eo d o rą
-    nigaikščio vietininku būsiąs
-    S a n g u šk ą
-    S e v e r s k o
-    kunigaikštis Teodoras San-
-    k u n ig a ik ščiu
-    guška.
-  citata_rodoma: |
     Tuo metu jau galima buvo
     manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
     nerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­
@@ -2542,13 +2356,13 @@ media_all_json: |-
     kurstė Prūsijos bei Livonijos
     kryžiuočių magistrus prieš
     Vytautą.
+  citata_rodoma: "Tuo metu jau galima buvo\nmanyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau\nnerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­\nstovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų\nžingsnių, pasitelkdamas sve-\nK ry žiu o č ia i\nn io k o ja\ntimšalių ginklą. Jis nuolatos\nL ie tu v ą\nkurstė Prūsijos bei Livonijos\nkryžiuočių magistrus prieš\nVytautą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184898
 - id: c-168260
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2579,8 +2393,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184899
-    - t-196662
+    - t-072
+    - t-078
+
 - id: c-168261
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2598,29 +2413,17 @@ media_all_json: |-
     pagal valdovo norus, jis pareiškė, jog santuoka būsian­
     ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
     3 9 6
-  citata_rodoma: |
-    Todėl Petras, Vilniaus vyskupas,
-    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
-    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
-    pritarimu ir būtų privertęs
-    V y ta u ta s v e d a
-    Vytautą atsisakyti šio suma­
-    nymo, jeigu nebūtų parėmęs
-    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
-    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
-    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
-    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
-    3 9 6
 
     mos bažnyčia.
+  citata_rodoma: "Todėl Petras, Vilniaus vyskupas, \nlabai atkakliai priešinosi šiai santuokai, kad nebūtų pa­\nžeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­\npritarimu ir būtų privertęs \nV y ta u ta s v e d a \nVytautą atsisakyti šio suma­\nnymo, jeigu nebūtų parėmęs \nJonas Kropidlas, Kujavijos vyskupas, su karaliumi at­\nvykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus \npagal valdovo norus, jis pareiškė, jog santuoka būsian­\nti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-\n3 9 6\n\nmos bažnyčia."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184900
-    - t-196665
+    - t-081
+
 - id: c-173888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2642,7 +2445,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191006
+    - t-074
+
 - id: c-178824
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2664,7 +2468,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196660
+    - t-076
+
 - id: c-178825
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2694,7 +2499,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196663
+    - t-071
+    - t-079
+
 - id: c-178826
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2723,18 +2530,39 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196664
+    - t-080
+
+- id: c-184911
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Dažnas Vytauto rūpinimasis Lietuvos pirklių rei-
+    kalais Vokiečių ordino valstybėje aiškintinas ir tuo, kad dalis tų pirklių buvo Vytauto
+    prekybos agentai, vežantys jam prekes iš Prūsų miestų per Kauną. Vytauto pavyz-
+    džiu sekė Švitrigaila ir Žygimantas Kęstutaitis. Tiesa, tiesiogiai kauniečiai Vytauto ar
+    jo įpėdinių prekybos agentais neįvardijami, bet didžioji tokių agentų prekybos dalis
+    vyko per Kauną, miestas buvo agentų veiklos atramos taškas, tarp jų neretai pasitai-
+    kydavo kauniečių.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]
 - Kariavo prieš: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - Sudarė sutartį su: [[objektai/asmenys/Aleksas Jefremovičius]], [[objektai/asmenys/Chariničius]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - Rėmė Švitrigailą: [[objektai/grupes/Livonijos ordinas]]
-- Švitrigaila valdė [[objektai/vietos/Černigovas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]]
-- Švitrigaila keliavo į [[objektai/vietos/Kijevas]], [[objektai/vietos/Lukomlis]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vengrija]]
-- Švitrigaila mirė [[objektai/vietos/Luckas]]
-- Švitrigaila buvo palaidotas [[objektai/vietos/Vilnius]]
-- Švitrigaila puolė [[objektai/vietos/Vitebskas]]
-- Švitrigaila užėmė [[objektai/vietos/Ašmena]], [[objektai/vietos/Vitebskas]]
-- Švitrigaila surengė žygį į [[objektai/vietos/Lietuva]]
+- Švitrigaila valdė Černigovas, Kijevas, Podolija, Polockas, Smolenskas, Vitebskas, Voluinė
+- Švitrigaila keliavo į Kijevas, Lukomlis, Marienburgas, Polockas, Ukraina, Vengrija
+- Švitrigaila mirė Luckas
+- Švitrigaila buvo palaidotas Vilnius
+- Švitrigaila puolė Vitebskas
+- Švitrigaila užėmė Ašmena, Vitebskas
+- Švitrigaila surengė žygį į Lietuva
 - Švitrigaila dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Švitrigaila sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

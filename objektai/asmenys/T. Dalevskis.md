@@ -39,7 +39,6 @@ Dalevskiui, K.
 
 <a id="claim-t-40451"></a>
 - t-001
-  global_id: t-40451
   teiginys: "T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ Dalevskiui, K.
     karti sukilėlius. Teroro sąlygomis su-
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
-  citata_rodoma: |
-    Egzekucijos buvo įvykdytos B. Kolyškai,
-    Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-
-    kui, A. Mackevičiui ir kitiems.
+  citata_rodoma: "Egzekucijos buvo įvykdytos B. Kolyškai,\nZ. Sierakauskui, T. Dalevskiui, K. Kalinaus-\nkui, A. Mackevičiui ir kitiems."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40451
+    - t-001

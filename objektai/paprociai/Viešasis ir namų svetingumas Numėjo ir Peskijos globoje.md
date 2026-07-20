@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189877"></a>
 - t-001
-  global_id: t-189877
   teiginys: "Narbutas lietuvių genties tautoms priskyrė religijos pašventintą svetingumą, apėmusį šventyklų, šventų giraičių ir namijų prieglobstį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-197269"></a>
 - t-002
-  global_id: t-197269
   teiginys: "Srutis ir Mėletėlė (Strutis i M iechutele) Dievaitis su savo drauge; jie globojo augalus, tinkamus amatams, ypač dažymui."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189877
+    - t-001
+
 - id: c-179095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -120,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197269
+    - t-002

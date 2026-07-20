@@ -33,7 +33,6 @@ Pirklys galėjo laivą iškrauti tik muitininkui apžiūrėjus prekes, be to, gr
 
 <a id="claim-t-201812"></a>
 - t-001
-  global_id: t-201812
   teiginys: "Pirklys galėjo laivą iškrauti tik muitininkui apžiūrėjus prekes, be to, grasinta didele pramuitine - bauda už nuslėptas prekes."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Pirklys galėjo laivą iškrauti tik muitininkui apžiūrėjus prekes, be to, gr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201812
+    - t-001

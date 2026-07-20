@@ -39,15 +39,18 @@ function citationText(entry: EvidenceEntry): string {
     .join("\n")
 }
 
-function quoteField(entry: EvidenceEntry, key: string): string {
-  return (entry.fields.get(key)?.trim() ?? "").replaceAll("\\n", "\n")
+function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
+  return (
+    entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+    Boolean(entry.fields.get("indeksas")?.trim())
+  )
 }
 
 export function evidenceCitationQuote(entry: EvidenceEntry): string {
   return (
-    quoteField(entry, "citata_rodoma") ||
-    quoteField(entry, "citata") ||
-    quoteField(entry, "citata_originali") ||
+    entry.fields.get("citata_rodoma")?.trim() ||
+    entry.fields.get("citata")?.trim() ||
+    entry.fields.get("citata_originali")?.trim() ||
     ""
   )
 }
@@ -172,12 +175,16 @@ export function evidenceCitationQuoteForClaim(
   claimText: string,
   contextText = "",
 ): string {
-  const displayQuote = quoteField(entry, "citata_rodoma") || quoteField(entry, "citata") || ""
-  const originalQuote = quoteField(entry, "citata_originali")
-  if (displayQuote && evidenceSupportsClaim(claimText, displayQuote, contextText)) {
-    return displayQuote
+  const displayQuote =
+    entry.fields.get("citata_rodoma")?.trim() || entry.fields.get("citata")?.trim() || ""
+  const originalQuote = entry.fields.get("citata_originali")?.trim() || ""
+  if (displayQuote) {
+    // The returned excerpt is the current anchored public text. Do not fall
+    // back to an older original block when that excerpt fails the claim guard:
+    // the two fields can come from different anchors after a merge.
+    return evidenceSupportsClaim(claimText, displayQuote, contextText) ? displayQuote : ""
   }
-  return originalQuote || displayQuote
+  return originalQuote
 }
 
 export function evidenceDocumentContext(markdown: string): string {
@@ -272,7 +279,7 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
   }
 
   for (const citation of citations) {
-    if (!citationText(citation)) {
+    if (!citationText(citation) && !isIndexOnlyCitation(citation)) {
       issues.push({
         code: "empty_citation_text",
         severity: "error",
@@ -329,7 +336,7 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
         })
       }
 
-      if (overlapScore(claim, citation, contextText) === 0) {
+      if (!isIndexOnlyCitation(citation) && overlapScore(claim, citation, contextText) === 0) {
         issues.push({
           code: "citation_text_mismatch",
           severity: "warning",
@@ -356,11 +363,30 @@ export function collectCorpusEvidenceIntegrityIssues(
   const globalIds = new Map<string, string>()
 
   for (const { filePath, markdown } of documents) {
-    const claims = (parseEvidenceSections(markdown).get("Teiginiai") ?? []).filter((entry) =>
-      entry.id.startsWith("t-"),
-    )
-    for (const claim of claims) {
-      const globalId = claim.fields.get("global_id")?.trim()
+    const sections = parseEvidenceSections(markdown)
+    const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
+    // Public projection hides the raw global_id field, but retains the same
+    // identity in the preceding stable HTML anchor for client-side links.
+    const hiddenGlobalIds: string[] = []
+    const claimHeading = markdown.search(/^##\s+Teiginiai\s*$/m)
+    const claimBodyStart = claimHeading >= 0 ? markdown.indexOf("\n", claimHeading) + 1 : -1
+    const claimBody = claimBodyStart > 0 ? markdown.slice(claimBodyStart) : ""
+    const nextHeading = claimBody.search(/^##\s+/m)
+    const claimSection = nextHeading >= 0 ? claimBody.slice(0, nextHeading) : claimBody
+    let pendingGlobalId = ""
+    for (const line of claimSection.split("\n")) {
+      const anchor = line.match(/^\s*<a\s+id=["']claim-(t-\d+)["']\s*><\/a>\s*$/i)
+      if (anchor) {
+        pendingGlobalId = anchor[1]
+        continue
+      }
+      if (/^\s*-\s+t-\d+\s*$/i.test(line)) {
+        hiddenGlobalIds.push(pendingGlobalId)
+        pendingGlobalId = ""
+      }
+    }
+    claims.forEach((claim, index) => {
+      const globalId = claim.fields.get("global_id")?.trim() || hiddenGlobalIds[index] || ""
       if (!globalId) {
         issues.push({
           code: "missing_claim_global_id",
@@ -369,7 +395,7 @@ export function collectCorpusEvidenceIntegrityIssues(
           filePath,
           message: `Claim ${claim.id} has no global_id`,
         })
-        continue
+        return
       }
       const previousFile = globalIds.get(globalId)
       if (previousFile && previousFile !== filePath) {
@@ -384,7 +410,7 @@ export function collectCorpusEvidenceIntegrityIssues(
       } else {
         globalIds.set(globalId, filePath)
       }
-    }
+    })
   }
   return issues
 }

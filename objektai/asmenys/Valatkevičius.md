@@ -36,7 +36,6 @@ Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašyt
 
 <a id="claim-t-190248"></a>
 - t-001
-  global_id: t-190248
   teiginys: "Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašytų aštuonių antspaudų su žalčiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190248
+    - t-001

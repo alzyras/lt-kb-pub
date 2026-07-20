@@ -8,10 +8,10 @@ datos:
   - '1627 m.'
 date_start: '1621'
 date_end: '1627'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,7 +35,6 @@ media_all_json: |-
 
 <a id="claim-t-201864"></a>
 - t-001
-  global_id: t-201864
   teiginys: "1621 m. kitas Kauno pavieto maršalas Andrius Skorulskis, Mikalojaus Kristupo Radvilos Našlaitėlio palydovas maldininko kelionėje į Jeruzalę, išprašė iš Zigmanto Vazos sutikimą atiduoti Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201864
+    - t-001

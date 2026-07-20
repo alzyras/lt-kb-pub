@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67119"></a>
-- t-001
-  global_id: t-67119
+- t-002
   teiginys: "Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-67148
 
 <a id="claim-t-67120"></a>
-- t-002
-  global_id: t-67120
+- t-001
   teiginys: "Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -106,18 +104,15 @@ Nenurodyta
     čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
     o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
     bernatorius.
-  citata_rodoma: |
-    Nuo to laiko Klaipėdos kraštas yra negin-
-    čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
-    o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
-    bernatorius.
+  citata_rodoma: "Nuo to laiko Klaipėdos kraštas yra negin-\nčijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,\no respublikos vyriausybei ten atstovauja prezidento skiriamas gu-\nbernatorius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67120
+    - t-001
+
 - id: c-67148
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -139,16 +134,11 @@ Nenurodyta
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: |
-    Antroji dalis yra priedėlis, kuris išdėsto au-
-    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
-    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
-    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
-    atsiskaitymus ir paties statuto keitimo procedūrą.
+  citata_rodoma: "Antroji dalis yra priedėlis, kuris išdėsto au-\ntonominį statutą, būtent apibrėžia vietinių organų kompetenciją,\nnustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,\nsantykius tarp teismo organų, dviejų kalbų oficialumą, finansinius\natsiskaitymus ir paties statuto keitimo procedūrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67119
+    - t-002

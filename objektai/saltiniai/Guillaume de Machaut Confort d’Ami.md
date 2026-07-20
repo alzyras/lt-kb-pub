@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31694"></a>
 - t-001
-  global_id: t-31694
   teiginys: "Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,18 +68,11 @@ media_all_json: |-
     išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
     paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
     kaimį).
-  citata_rodoma: |
-    Šis žygis, kuriame buvo daug svečių iš
-    visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
-    žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
-    rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas
-    išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar
-    paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
-    kaimį).
+  citata_rodoma: "Šis žygis, kuriame buvo daug svečių iš\nvisur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir\nžygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.\nrašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas\nišskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar\npaėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­\nkaimį)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31694
+    - t-001

@@ -32,7 +32,6 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 
 <a id="claim-t-58716"></a>
 - t-001
-  global_id: t-58716
   teiginys: "Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,7 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Rizenburgo pilies bei miesto pastatymą
+    61. Apie Rizenburgo pilies bei miesto pastatymą
 
        Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
     bei miestą.
@@ -71,21 +70,14 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 
 
                 62.
-  citata_rodoma: |
-    Apie Rizenburgo pilies bei miesto pastatymą
-
-       Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį
-    bei miestą.
-
-
-
-                62.
+  citata_rodoma: "Apie Rizenburgo pilies bei miesto pastatymą\n\n   Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį\nbei miestą.\n\n\n\n            62."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58716
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]

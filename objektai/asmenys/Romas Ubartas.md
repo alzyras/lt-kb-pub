@@ -39,7 +39,6 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
 
 <a id="claim-t-19213"></a>
 - t-001
-  global_id: t-19213
   teiginys: "Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,12 +73,11 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
     šakų sporto varžybose už savo šalį. Paguodė pirmieji laimėjimai – disko
     metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
     vojo pirmą aukso medalį nepriklausomai Lietuvai.
-  citata_rodoma: |
-    metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
+  citata_rodoma: "metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19213
+    - t-001

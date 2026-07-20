@@ -7,6 +7,8 @@ datos:
   - '1305 m.'
 date_start: '1305'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,8 +16,6 @@ tags:
   - mūšis
   - žygis
   - ivykis
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,32 +49,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185670"></a>
-- t-001
-  global_id: t-185670
-  teiginys: "1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuva: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilypas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai rodo Pilypo smurtinį veiksmą Lietuvos pasienyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė pretenzija sugadinta OCR; citata pagrindžia faktą."
-  pagrindžia:
-    - c-169031
-
 <a id="claim-t-185671"></a>
 - t-002
-  global_id: t-185671
   teiginys: "Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -95,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-196280"></a>
 - t-003
-  global_id: t-196280
   teiginys: "1305 m. Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,6 +81,41 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169031
+
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
+    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
+    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
+    kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -140,58 +150,20 @@ Nenurodyta
     kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
     nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
     giuoti.
-  citata_rodoma: |
-    Jau kry­
-    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
-    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
-    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
-    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
-    kariuomenės dydis buvo nežinomas, vadai nežinojo,
-    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
-    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
-    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
-    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
-    kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
-    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
-    giuoti.
+  citata_rodoma: "Jau kry­\nžiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­\nkėtai užpuolė nebesisaugančių priešų ariergardą; ko­\nvėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­\nrios kitos priežasties, ar dėl to, kad ir vienos, ir kitos \nkariuomenės dydis buvo nežinomas, vadai nežinojo, \nkieno pusėje jėgos persvara; kai ir vienoje, ir kitoje \npusėje krito keletas karių, susidūrimas liovėsi. Šalti­\nniai mini, jog tuo pačiu metu kautasi Livonijoje prie \nD u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei \nkaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­\nnią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­\ngiuoti."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185670
-    - t-196280
+    - t-003
+
 - id: c-169032
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Jau kry­
-    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
-    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
-    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
-    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
-    kariuomenės dydis buvo nežinomas, vadai nežinojo,
-    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
-    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
-    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
-    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
-    kaip baigėsi. Valdovas, sugrįžęs iš Prūsijos, gavo ži­
-    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
-    giuoti. Sutelkęs karius prie
-    S u g rįžęs iš P rū sijos,
-    Gardino, jis subūrė nemažą
-    p a tra u k ia į L en k iją
-    kariuomenę ir, netrukdomas
-    mozūrų, o gal šiems nieko
-    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
-    buvo vedama slaptais ir be-
-    1306 m e ta i
-    veik nepraeinamais keliais
-    per Mazovijos miškus, įsi­
-    veržė į Didžiosios Lenkijos žemes.
-  citata_rodoma: |
     Kai valdovui
     pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
     mus, jis greitosiomis su tūkstančiu penkiais šimtais
@@ -206,10 +178,11 @@ Nenurodyta
     niai mini, jog tuo pačiu metu kautasi Livonijoje prie
     D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
     kaip baigėsi.
+  citata_rodoma: "Kai valdovui\npranešė, jog įsibrovė priešas ir degina kaimus bei kie­\nmus, jis greitosiomis su tūkstančiu penkiais šimtais\nraitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­\nžiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­\nkėtai užpuolė nebesisaugančių priešų ariergardą; ko­\nvėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­\nrios kitos priežasties, ar dėl to, kad ir vienos, ir kitos\nkariuomenės dydis buvo nežinomas, vadai nežinojo,\nkieno pusėje jėgos persvara; kai ir vienoje, ir kitoje\npusėje krito keletas karių, susidūrimas liovėsi. Šalti­\nniai mini, jog tuo pačiu metu kautasi Livonijoje prie\nD u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei\nkaip baigėsi."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185671
+    - t-002

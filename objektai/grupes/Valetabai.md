@@ -32,7 +32,6 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
 
 <a id="claim-t-193000"></a>
 - t-001
-  global_id: t-193000
   teiginys: "Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie tuvių kartos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,26 +48,7 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175770
-    - c-001
 - susijęs iš [[objektai/grupes/Lužitėnai.md#claim-t-192997|Lužitėnai]]: Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie tuvių kartos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
-    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
-    tuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,
-    kažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo
-    pradžią nuo iš Italijos atvykusių herulų?
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193000
 ## Citatos
 
 - id: c-175770
@@ -76,25 +56,17 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Taip pat neabejotina, kad senovės valetabai ir lu-
-    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
-    tuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,
-    kažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo
-    pradžią nuo iš Italijos atvykusių herulų? Tunmanas3, Jo­
-    nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne­
-    atsakė. Tą patį reikia pasakyti ir apie šio veikalo pirma­
-    me tome esantį straipsnį „Šventyklos“.
-  citata_rodoma: |
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,
     kažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo
     pradžią nuo iš Italijos atvykusių herulų?
+  citata_rodoma: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu-\nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos. Tačiau neaišku, ar jos ten gyveno nuo seno,\nkažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo\npradžią nuo iš Italijos atvykusių herulų?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193000
+    - t-001

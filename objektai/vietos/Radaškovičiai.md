@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-189047"></a>
 - t-001
-  global_id: t-189047
   teiginys: "1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189047
+    - t-001

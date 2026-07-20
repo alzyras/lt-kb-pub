@@ -45,8 +45,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 ## Teiginiai
 
 <a id="claim-t-45238"></a>
-- t-001
-  global_id: t-45238
+- t-003
   teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 
 <a id="claim-t-182929"></a>
 - t-002
-  global_id: t-182929
   teiginys: "Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,8 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182929
+    - t-002
+
 - id: c-48118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,25 +136,11 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
-  citata_rodoma: |
-    Antra vertus,
-    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
-    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
-    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
-    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
-
-    L I E T U V O S  I S T O R I J A
-    64
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
+  citata_rodoma: "Antra vertus, \ntokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido \nvisuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-\njoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš \nRusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-\n\nL I E T U V O S  I S T O R I J A\n64\ntiems karaimams, totoriams ir žydams. \nCivilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-\ndė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai \n(1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-\nvazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo \nŠiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45238
+    - t-003

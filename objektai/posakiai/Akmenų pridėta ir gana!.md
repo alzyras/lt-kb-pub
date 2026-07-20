@@ -47,19 +47,6 @@ Broliai ir svečiai juokais aiškina, kodėl skrynia tokia sunki.
 
 Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
 
-## Teiginiai
-
-<a id="claim-t-195433"></a>
-- t-001
-  global_id: t-195433
-  teiginys: "Skrynios sunkumas aiškinamas formule apie pridėtus akmenis."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177854
-
 ## Citatos
 
 - id: c-177854
@@ -73,12 +60,9 @@ Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
     „Niekaip
     kitaip,
     akmenų pridėta ir gana!“ dejuoja broliai.
-  citata_rodoma: |
-    „Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai.
+  citata_rodoma: "„Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195433

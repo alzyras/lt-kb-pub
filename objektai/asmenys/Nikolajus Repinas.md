@@ -30,8 +30,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 ## Teiginiai
 
 <a id="claim-t-40374"></a>
-- t-001
-  global_id: t-40374
+- t-002
   teiginys: "Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
     - c-42172
 
 <a id="claim-t-40375"></a>
-- t-002
-  global_id: t-40375
+- t-001
   teiginys: "Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,6 +61,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   pagrindžia:
     - c-44479
     - c-167146
+
 ## Citatos
 
 - id: c-42172
@@ -89,7 +88,8 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40374
+    - t-002
+
 - id: c-44479
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -106,22 +106,15 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
     Rusijos kariuomenės korpusui,
     puolusiam Vilnių, vadovavo generolas
     leitenantas Bogdanas Knorringas.
-  citata_rodoma: |
-    Rusijos pajėgų vadovybė
-    Rusijos pajėgų, nukreiptų prieš
-    sukilėlius, vyriausiasis vadas
-    buvo generolas leitenantas Niko-
-    lajus Repinas. Sukilėliams puolant
-    miestą, Vilniaus įgulai tiesiogiai va-
-    dovavo generolas majoras Nikolajus
-    Arsenjevas.
+  citata_rodoma: "Rusijos pajėgų vadovybė\nRusijos pajėgų, nukreiptų prieš\nsukilėlius, vyriausiasis vadas\nbuvo generolas leitenantas Niko-\nlajus Repinas. Sukilėliams puolant\nmiestą, Vilniaus įgulai tiesiogiai va-\ndovavo generolas majoras Nikolajus\nArsenjevas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40375
+    - t-001
+
 - id: c-167146
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,3 +138,5 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

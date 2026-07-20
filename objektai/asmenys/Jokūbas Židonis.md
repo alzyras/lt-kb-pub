@@ -28,7 +28,6 @@ Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilni
 
 <a id="claim-t-202173"></a>
 - t-001
-  global_id: t-202173
   teiginys: "Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilniaus pirkliui, o Marekas remontavo bajoro Jono Oginskio vytinę."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202173
+    - t-001

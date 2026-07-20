@@ -40,7 +40,6 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 
 <a id="claim-t-31763"></a>
 - t-001
-  global_id: t-31763
   teiginys: "Šležo darbas „Klaipėdos miesto istorija 1252–1466“ buvo paskelbtas „MŽ“ 1933 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,14 +73,11 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
     spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);
     2) «Mindaugas-Lietuvos karalius» (t. p. 1934), ir 3) «Kęstučio
     šeima » (t. p. 1933).
-  citata_rodoma: |
-    Pažymėtini Šležo stambesni darbai (at­
-    spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);
-    2) «Mindaugas-Lietuvos karalius» (t.
+  citata_rodoma: "Pažymėtini Šležo stambesni darbai (at­\nspaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);\n2) «Mindaugas-Lietuvos karalius» (t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31763
+    - t-001

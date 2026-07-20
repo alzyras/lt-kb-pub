@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189082"></a>
-- t-001
-  global_id: t-189082
-  teiginys: 'Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas subjektas ir pašalinti OCR lūžiai. Palikta Narbuto atribucija, nes teiginys remiasi jo radinio aprašymu; datos tikrumas nesustiprintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Trakai'
-  pagrindžia:
-    - c-171971
-
-## Citatos
-
-- id: c-171971
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Panaši į tą lazdą, kurią turėjo vyriausiasis ku­
     405
@@ -59,10 +44,8 @@ Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą,
     riewicz Metejka) tvirtina Vosyliškio vėliavininkystės žeminin­
     kų apsikeitimą žemėmis. Data nežinoma, gali būti iš XV am­
     žiaus pirmosios pusės.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189082
+  statusas: verified

@@ -37,7 +37,6 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 
 <a id="claim-t-20957"></a>
 - t-001
-  global_id: t-20957
   teiginys: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,12 +76,11 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
     kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
-  citata_rodoma: |
-    griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos
+  citata_rodoma: "griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20957
+    - t-001

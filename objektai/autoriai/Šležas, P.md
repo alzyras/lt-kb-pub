@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31095"></a>
 - t-001
-  global_id: t-31095
   teiginys: "P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,14 +68,11 @@ media_all_json: |-
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
-  citata_rodoma: |
-    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
-    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
-    schichte, t. 10, 1928, 357-368 p.
+  citata_rodoma: "— Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­\nker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-\nschichte, t. 10, 1928, 357-368 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31095
+    - t-001

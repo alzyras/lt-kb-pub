@@ -31,7 +31,6 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 
 <a id="claim-t-32039"></a>
 - t-001
-  global_id: t-32039
   teiginys: "Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,18 +63,11 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
     nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
     dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
     skolinius.
-  citata_rodoma: |
-    Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,
-    nes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos
-    žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­
-    sių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­
-    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
-    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
-    skolinius.
+  citata_rodoma: "Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,\nnes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos\nžemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­\nsių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­\nnės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­\ndami su prūsais, gotai jiems tame laikotarpyje yra davę devynius\nskolinius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32039
+    - t-001

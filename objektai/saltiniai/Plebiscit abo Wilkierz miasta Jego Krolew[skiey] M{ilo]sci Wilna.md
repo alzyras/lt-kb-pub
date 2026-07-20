@@ -28,7 +28,6 @@ Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit ab
 
 <a id="claim-t-202293"></a>
 - t-001
-  global_id: t-202293
   teiginys: "Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit abo Wilkierz 11Iiastu Jego Krolew[skiey] M{ilo]sci Wilna ..."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit ab
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202293
+    - t-001

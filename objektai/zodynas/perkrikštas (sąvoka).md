@@ -39,7 +39,6 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 
 <a id="claim-t-201186"></a>
 - t-001
-  global_id: t-201186
   teiginys: "Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 
 <a id="claim-t-201187"></a>
 - t-002
-  global_id: t-201187
   teiginys: "Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -65,7 +63,6 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 
 <a id="claim-t-201188"></a>
 - t-003
-  global_id: t-201188
   teiginys: "Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -78,7 +75,6 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 
 <a id="claim-t-201189"></a>
 - t-004
-  global_id: t-201189
   teiginys: "Die na nemetu pavyko vokyčiams ir perkrikštams , arba priemiestę, įsigrūsti ir mūran pačios pilės pri siartinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -91,7 +87,6 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 
 <a id="claim-t-201190"></a>
 - t-005
-  global_id: t-201190
   teiginys: "Daugybė perkrikštų, mindama senovės aukso amžius, palikina krikščionų švente nybes ėjo po ąžuolu senu įpratimu melstis ir savo dievą Perūną garbinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -105,8 +100,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 ## Citatos
 
 - id: c-184536
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meinhardas, nujautęs ateinančius lietuvius
     ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su­
@@ -128,11 +124,12 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201186
+    - t-001
 
 - id: c-184537
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netrukus Mein-
     hardas ant rankų padaugavionų su šiuo pasauliu
@@ -160,11 +157,12 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201187
+    - t-002
 
 - id: c-184538
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lat­
     viai, kurie iki šiol didžiai kantriai gynės, bet neb-
@@ -182,11 +180,12 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201188
+    - t-003
 
 - id: c-184539
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet tą pajutusi įgulė
     laidė rąstus ir tratino dirbamus rentinius, vienok
@@ -204,11 +203,12 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201189
+    - t-004
 
 - id: c-184540
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui, kur vien Kęstutis užėjo, ten skatino per­
     krikštus vokyčių jungą nuo savęs mesti ir grįžti į
@@ -224,4 +224,4 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201190
+    - t-005

@@ -38,7 +38,6 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
 
 <a id="claim-t-87926"></a>
 - t-001
-  global_id: t-87926
   teiginys: "1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui, kad palūkanos būtų mokamos Švč. Trejybės špitolei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,6 +75,7 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87926
+    - t-001
+
 ## Ryšiai
 - Parulis gyveno [[objektai/vietos/Vilnius]]

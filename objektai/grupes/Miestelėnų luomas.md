@@ -42,7 +42,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 
 <a id="claim-t-34346"></a>
 - t-001
-  global_id: t-34346
   teiginys: "Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų cirkuliacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 
 <a id="claim-t-34347"></a>
 - t-002
-  global_id: t-34347
   teiginys: "Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 
 <a id="claim-t-184222"></a>
 - t-003
-  global_id: t-184222
   teiginys: "Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,8 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34346
+    - t-001
+
 - id: c-35572
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -135,7 +133,8 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34347
+    - t-002
+
 - id: c-167607
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -154,4 +153,4 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184222
+    - t-003

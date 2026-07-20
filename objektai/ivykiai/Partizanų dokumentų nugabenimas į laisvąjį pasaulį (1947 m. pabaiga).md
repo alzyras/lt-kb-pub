@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-75255"></a>
 - t-001
-  global_id: t-75255
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-75257"></a>
 - t-002
-  global_id: t-75257
   teiginys: "1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -109,21 +107,15 @@ Nenurodyta
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras
-    Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-
-    tizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios
-    ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
-    dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
-    SSRS nutrauktų terorą.
+  citata_rodoma: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras\nPyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno par-\ntizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios\ništremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų vadovybės laišką\npopiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips\ndėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad\nSSRS nutrauktų terorą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75255
+    - t-001
+
 - id: c-23166
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,16 +135,11 @@ Nenurodyta
     apie sovietų okupuotoje Lietuvoje susiklosčiusią situaciją ir partizanines
     kovas, tačiau lietuvių ginkluotos kovos neparėmė, grupę rezistentų pa-
     naudojo tik šnipinėti SSRS.
-  citata_rodoma: |
-    Pirmą kartą užmegzti ryšiai tarp partizanų ir į
-    Vakarus pasitraukusių lietuvių ir jų organizacijų, Vakarai gavo tikrų žinių
-    apie sovietų okupuotoje Lietuvoje susiklosčiusią situaciją ir partizanines
-    kovas, tačiau lietuvių ginkluotos kovos neparėmė, grupę rezistentų pa-
-    naudojo tik šnipinėti SSRS.
+  citata_rodoma: "Pirmą kartą užmegzti ryšiai tarp partizanų ir į\nVakarus pasitraukusių lietuvių ir jų organizacijų, Vakarai gavo tikrų žinių\napie sovietų okupuotoje Lietuvoje susiklosčiusią situaciją ir partizanines\nkovas, tačiau lietuvių ginkluotos kovos neparėmė, grupę rezistentų pa-\nnaudojo tik šnipinėti SSRS."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75257
+    - t-002

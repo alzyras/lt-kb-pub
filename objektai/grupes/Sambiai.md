@@ -41,8 +41,7 @@ Baltų / prūsų regioninė grupė.
 ## Teiginiai
 
 <a id="claim-t-188047"></a>
-- t-001
-  global_id: t-188047
+- t-002
   teiginys: "Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -59,8 +58,7 @@ Baltų / prūsų regioninė grupė.
     - c-170875
 
 <a id="claim-t-192454"></a>
-- t-002
-  global_id: t-192454
+- t-003
   teiginys: "Narbutas Sambijos gyventojus siejo daugiausia su senovės budinais, įsikūrusiais ten lietuvių protėviams atėjus į šiuos kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Baltų / prūsų regioninė grupė.
     - c-175248
 
 <a id="claim-t-197516"></a>
-- t-003
-  global_id: t-197516
+- t-004
   teiginys: "Sambija — ne itin didelis kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa siglemžė dalies sausumos, buvęs platesnis, nes, anot kai kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my lių plotas2."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -107,38 +104,23 @@ Baltų / prūsų regioninė grupė.
     apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
     biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
     džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
+    gutį, Santvarą, Žemininką - dievus, kuriuos M. Strijkovskis
     laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
     mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
     skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
+    knochas - prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
     kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
     ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
     vu.
-  citata_rodoma: |
-    T. Narbutas ne­
-    kompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus
-    baltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­
-    gėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­
-    sijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas
-    apie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­
-    biausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­
-    džiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­
-    gutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis
-    laiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-
-    mą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­
-    skis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-
-    knochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,
-    kuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,
-    ir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­
-    vu.
+  citata_rodoma: "T. Narbutas ne­\nkompiliavo senųjų šaltinių, tačiau lietuviais laikydamas visus\nbaltus, analizuodamas vieną ar kitą jų mitologijos reiškinį, sten­\ngėsi surinkti duomenis iš visų jų gyventų arealų (Lietuvos, Prū­\nsijos, Latvijos) ir kartu juos pateikti. Pavyzdžiui, kalbėdamas\napie „didžiuosius“ lietuvių dievus, pateikia duomenis apie svar­\nbiausius lietuvių, prūsų ir kitų baltų genčių dievus. Prie „di­\ndžiųjų“ lietuvių dievų jis priskiria Praamžių (Pramžimą), Ra­\ngutį, Santvarą, Žemininką -  dievus, kuriuos M. Strijkovskis\nlaiko ypatingais lietuvių ir žemaičių dievais, priskiria Ukapir-\nmą, Perkūną, Atrimpą, Gardaitį, Poklių, kuriuos M. Strijkov­\nskis laiko lietuvių, žemaičių, sambių, latvių ir prūsų, o K. Hart-\nknochas -  prūsų dievais, priskiria Viršaitį, Patelą, Sneibratą,\nkuriuos M. Strijkovskis ir K. Hartknochas laiko prūsų dievais,\nir pagaliau priskiria Kriukį, kurį J. Lasickis laiko žemaičių die­\nvu."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188047
+    - t-002
+
 - id: c-175248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -160,7 +142,8 @@ Baltų / prūsų regioninė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192454
+    - t-003
+
 - id: c-179227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -185,4 +168,4 @@ Baltų / prūsų regioninė grupė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197516
+    - t-004

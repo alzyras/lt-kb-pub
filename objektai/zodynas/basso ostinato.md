@@ -28,7 +28,6 @@ Vorobjovas basso ostinato palyginimu apibūdino statmeninių formų srovę, kyla
 
 <a id="claim-t-200819"></a>
 - t-001
-  global_id: t-200819
   teiginys: "Vorobjovas basso ostinato palyginimu apibūdino statmeninių formų srovę, kylančią iš apatinių atramų į daugiasienių piliastrų chorą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Vorobjovas basso ostinato palyginimu apibūdino statmeninių formų srovę, kyla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200819
+    - t-001

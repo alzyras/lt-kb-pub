@@ -29,8 +29,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 ## Teiginiai
 
 <a id="claim-t-59095"></a>
-- t-001
-  global_id: t-59095
+- t-002
   teiginys: "Dusburgiečio pasakojime Marija pasirodė broliui Hermanui Saracėnui ir pakvietė jį į savo sūnaus puotą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,8 +45,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
     - c-59728
 
 <a id="claim-t-59096"></a>
-- t-002
-  global_id: t-59096
+- t-001
   teiginys: "Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,19 +73,12 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
     „Hermanai, aš tave kviečiu į savo sūnaus puotą“. Todėl brolis Hermanas išvykdamas
     kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė
     dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.
-  citata_rodoma: |
-    Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
-
-      Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
-    kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė:
-    „Hermanai, aš tave kviečiu  į savo sūnaus puotą“. Todėl brolis Hermanas išvykdamas
-    kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė
-    dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.
+  citata_rodoma: "Apie tai, kaip iš anksto buvo išpranašautas šis mūšis\n\n  Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su\nkitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė:\n„Hermanai, aš tave kviečiu  į savo sūnaus puotą“. Todėl brolis Hermanas išvykdamas\nkai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė\ndievo gimdytoja mane pasikvietė į amžinąją linksmybę“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59095
-    - t-59096
+    - t-002
+    - t-001

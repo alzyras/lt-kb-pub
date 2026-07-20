@@ -36,7 +36,6 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
 
 <a id="claim-t-41585"></a>
 - t-001
-  global_id: t-41585
   teiginys: "Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas ir transliavimas buvo perkeltas į Aklųjų ir silpnaregių biblioteką, turėjusią visą reikiamą įrangą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,20 +70,11 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
 
     Ginklas, surinktas iš 1916 m. modelio prancūziško šautuvo ir tų pačių metų modelio karabino Lebel (Berthier) dalių. Ginklo kalibras —
     8 mm, dėtuvė 5 šoviniams, Prancūzija, XX a. antrasis dešimtmetis.
-  citata_rodoma: |
-    Kai buvo užimti Lietuvos radijo ir te-
-    levizijos pastatai, radijo laidų rengimas ir
-    transliavimas buvo perkeltas į Aklųjų ir
-    silpnaregių biblioteką, turėjusią visą rei-
-    kiamą įrangą.
-
-    ## Puslapis 259
-
-    Ginklas, surinktas iš 1916 m.
+  citata_rodoma: "Kai buvo užimti Lietuvos radijo ir te-\nlevizijos pastatai, radijo laidų rengimas ir\ntransliavimas buvo perkeltas į Aklųjų ir\nsilpnaregių biblioteką, turėjusią visą rei-\nkiamą įrangą.\n\n## Puslapis 259\n\nGinklas, surinktas iš 1916 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41585
+    - t-001

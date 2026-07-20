@@ -37,7 +37,6 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
 
 <a id="claim-t-86282"></a>
 - t-001
-  global_id: t-86282
   teiginys: "Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86282
+    - t-001

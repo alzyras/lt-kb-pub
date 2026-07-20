@@ -32,7 +32,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 
 <a id="claim-t-192940"></a>
 - t-001
-  global_id: t-192940
   teiginys: "Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus Volgos žemupyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -54,9 +53,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 
 <a id="claim-t-192941"></a>
 - t-002
-  global_id: t-192941
   teiginys: "Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,10 +71,9 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175711
-    - c-002
+
 <a id="claim-t-192942"></a>
 - t-003
-  global_id: t-192942
   teiginys: "Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -97,7 +94,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 
 <a id="claim-t-192943"></a>
 - t-004
-  global_id: t-192943
   teiginys: "Teodoro Narbuto perpasakotame padavime keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -118,28 +114,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
 - susijęs iš [[objektai/ivykiai/Roksolanų įsiveržimas į Meziją.md#claim-t-191052|Roksolanų įsiveržimas į Meziją]]: Tacito cituojamame pasakojime roksolanai išžudė dvi romėnų kohortas ir įsiveržė į Meziją.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192941
 ## Citatos
 
 - id: c-175710
@@ -164,7 +138,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192940
+    - t-001
+
 - id: c-175711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -180,24 +155,15 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
     lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
     tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
     hR.
-  citata_rodoma: |
-    Tai, kad tie asai, arba osetinai, priklauso tai
-    pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
-    italų Rytų senovės tyrinėtojas Ramusio2 3.
-    51
-    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
-    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
-    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
-    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
-    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
-    hR.
+  citata_rodoma: "Tai, kad tie asai, arba osetinai, priklauso tai\npačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė\nitalų Rytų senovės tyrinėtojas Ramusio2 3.\n51\nRos-alanai, Seniausia užuomina apie roksolanus, kaip\napie sarmatą padermės tautą, gyvenusią tarp Dnepro ir\nDauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-\nlanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­\ntų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-\nhR."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192941
+    - t-002
+
 - id: c-175712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -225,7 +191,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192942
+    - t-003
+
 - id: c-175713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -247,4 +214,4 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192943
+    - t-004

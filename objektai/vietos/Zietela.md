@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-32707"></a>
 - t-001
-  global_id: t-32707
   teiginys: "Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,15 +62,11 @@ media_all_json: |-
     iš viso sužymėta 18), gali tarnauti lietuvių plotui apibrėžti, palieka
     atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
     jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
-  citata_rodoma: |
-    (^126) I SKYRIUS: LIETUVOS PROISTORĖ
-    Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo
-    Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių
-    kalbos sala. Ar XIV amž.
+  citata_rodoma: "(^126) I SKYRIUS: LIETUVOS PROISTORĖ\nLietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo\nNaugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių\nkalbos sala. Ar XIV amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32707
+    - t-001

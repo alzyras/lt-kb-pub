@@ -39,7 +39,6 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
 
 <a id="claim-t-87804"></a>
 - t-001
-  global_id: t-87804
   teiginys: "Mykolui Zaleskiui priklausė Veliuona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87804
+    - t-001

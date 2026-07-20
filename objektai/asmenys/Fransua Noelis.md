@@ -31,9 +31,8 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
 
 <a id="claim-t-190050"></a>
 - t-001
-  global_id: t-190050
   teiginys: "Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172933
-    - c-001
+
 <a id="claim-t-197395"></a>
 - t-002
-  global_id: t-197395
   teiginys: "Fransua Noelis yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -63,24 +61,6 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   pagrindžia:
     - c-179164
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Romėnai tuos pačius dievus vadino Diipotentes,
-    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
-    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
-    vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
-    motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
-    įvedė paslaptingą jų garbinimo ritualą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190050
 ## Citatos
 
 - id: c-172933
@@ -88,36 +68,21 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tačiau lygindami tuos padavimus vieną
-    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
-    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
-    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
-    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
-    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
-    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
-    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
-    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
-    graikų mitologijos Trejybė.
-    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
-    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
-    Indų trejybė - Brahma, Višnus ir Siva. Egiptiečiai turėjo savo
-    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną.
-  citata_rodoma: |
     Romėnai tuos pačius dievus vadino Diipotentes,
     Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
     vo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-
     motrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir
     įvedė paslaptingą jų garbinimo ritualą.
+  citata_rodoma: "Romėnai tuos pačius dievus vadino Diipotentes,\nDii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-\nmotrakės salos atsikėlę į Pelaponesą, atsinešė dalį Kabirų ir\nįvedė paslaptingą jų garbinimo ritualą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190050
+    - t-001
+
 - id: c-179164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -141,4 +106,4 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197395
+    - t-002

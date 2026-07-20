@@ -31,7 +31,6 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 
 <a id="claim-t-68250"></a>
 - t-001
-  global_id: t-68250
   teiginys: "Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio sostinės pilis vadinosi Perekopu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,9 +38,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   pagrindžia:
     - c-67885
     - c-166425
+
 <a id="claim-t-193193"></a>
-- t-002
-  global_id: t-193193
+- t-003
   teiginys: "Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,15 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
     totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
     Lietuva.
-  citata_rodoma: |
-    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
-    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
-    nės pilis).
+  citata_rodoma: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-\nrado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-\nnės pilis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68250
+    - t-001
+
 - id: c-166425
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -94,10 +91,12 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     naikino Auksinę Ordą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-175937
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -114,4 +113,4 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193193
+    - t-003

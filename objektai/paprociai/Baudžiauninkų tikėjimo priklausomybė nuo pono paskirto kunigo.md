@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-01930"></a>
 - t-001
-  global_id: t-01930
   teiginys: "Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,17 +74,11 @@ Nenurodyta
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
     džiauninkai). Labai maža tuomet buvo belikę katalikų kunigų,
     o dar mažiau jų mokėjo lietuviškai.
-  citata_rodoma: |
-    Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
-    Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję
-    liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,
-    (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo
-    bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
-    džiauninkai).
+  citata_rodoma: "Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.\nDidikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję\nliuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,\n(liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo\nbažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-\ndžiauninkai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01930
+    - t-001

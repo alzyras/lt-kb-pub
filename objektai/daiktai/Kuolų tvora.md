@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-194306"></a>
 - t-001
-  global_id: t-194306
   teiginys: "Mvkolo šventės dieną buvo sudarykardytą kuolų tvora, gausiai plūdo ir palei pilį kūrėsi nauji gyventojai - įvairių padermių ir įvairiais sumetimais."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194306
+    - t-001

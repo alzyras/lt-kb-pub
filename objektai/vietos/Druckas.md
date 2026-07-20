@@ -43,8 +43,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 ## Teiginiai
 
 <a id="claim-t-67840"></a>
-- t-001
-  global_id: t-67840
+- t-002
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - c-43408
 
 <a id="claim-t-67841"></a>
-- t-002
-  global_id: t-67841
+- t-001
   teiginys: "Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 <a id="claim-t-67842"></a>
 - t-003
-  global_id: t-67842
   teiginys: "Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 <a id="claim-t-184947"></a>
 - t-004
-  global_id: t-184947
   teiginys: "Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,7 +118,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 <a id="claim-t-187574"></a>
 - t-005
-  global_id: t-187574
   teiginys: "Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -168,21 +163,15 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     tankiausiai apgyventame ir turtingiausiame
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
-  citata_rodoma: |
-    Prieš metus įvykęs jų žygis
-    leido jiems „smagintis“ Vilniaus ir Polocko,
-    Vitebsko ir Drucko, Naugarduko ir Slucko
-    apylinkėse - tikrajame LDK branduolyje,
-    tankiausiai apgyventame ir turtingiausiame
-    krašte. Totoriai neturėjo pagrindo įtarti, kad
-    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67840
+    - t-002
+
 - id: c-43409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,7 +199,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67842
+    - t-003
+
 - id: c-67601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -228,7 +218,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67841
+    - t-001
+
 - id: c-168308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -262,7 +253,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184947
+    - t-004
+
 - id: c-170522
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -279,6 +271,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187574
+    - t-005
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 
 <a id="claim-t-58734"></a>
 - t-001
-  global_id: t-58734
   teiginys: "Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58734
+    - t-001

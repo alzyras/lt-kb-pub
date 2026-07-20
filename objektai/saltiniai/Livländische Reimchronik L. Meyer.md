@@ -38,7 +38,6 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
 
 <a id="claim-t-61149"></a>
 - t-001
-  global_id: t-61149
   teiginys: "L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61149
+    - t-001

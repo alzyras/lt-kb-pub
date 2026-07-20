@@ -41,8 +41,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 ## Teiginiai
 
 <a id="claim-t-193062"></a>
-- t-001
-  global_id: t-193062
+- t-002
   teiginys: "Vulfstano pasakojime Aismarės vadinamos Estmere."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
     - c-175831
 
 <a id="claim-t-193063"></a>
-- t-002
-  global_id: t-193063
+- t-001
   teiginys: "Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 
 <a id="claim-t-193064"></a>
 - t-003
-  global_id: t-193064
   teiginys: "Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai mokėję kelis mėnesius namuose išlaikyti mirusiųjų kūnus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -118,7 +115,8 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193063
+    - t-001
+
 - id: c-175830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,7 +138,8 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193064
+    - t-003
+
 - id: c-175831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,4 +162,4 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193062
+    - t-002

@@ -38,7 +38,6 @@ Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių
 
 <a id="claim-t-190536"></a>
 - t-001
-  global_id: t-190536
   teiginys: "Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių aprašymu apie Naująjį žemyną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190536
+    - t-001

@@ -41,7 +41,6 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
 
 <a id="claim-t-190220"></a>
 - t-001
-  global_id: t-190220
   teiginys: "Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190220
+    - t-001

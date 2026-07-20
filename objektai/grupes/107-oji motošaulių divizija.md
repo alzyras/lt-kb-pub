@@ -37,7 +37,6 @@ kelio iki AT) 107-oji motošaulių divizija.
 
 <a id="claim-t-40821"></a>
 - t-001
-  global_id: t-40821
   teiginys: "1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,22 +73,11 @@ kelio iki AT) 107-oji motošaulių divizija.
     TELEVIZIJOS BOKŠTO ŠTURMAS
 
     Sausio 13 d. naktį prie Televizijos bokšto budėjusių žmonių liudijimai.
-  citata_rodoma: |
-    Sovietų pajėgos
-
-    1991 m. sausio įvykiuose Lietuvoje dalyvavo
-    Vilniuje dislokuota (maždaug 5-10 min.
-    kelio iki AT) 107-oji motošaulių divizija. Be
-    įprastos lengvosios šaulių ginkluotės, mo-
-    tošauliai savo arsenale turėjo šarvuočius
-
-    TELEVIZIJOS BOKŠTO ŠTURMAS
-
-    Sausio 13 d.
+  citata_rodoma: "Sovietų pajėgos\n\n1991 m. sausio įvykiuose Lietuvoje dalyvavo\nVilniuje dislokuota (maždaug 5-10 min.\nkelio iki AT) 107-oji motošaulių divizija. Be\nįprastos lengvosios šaulių ginkluotės, mo-\ntošauliai savo arsenale turėjo šarvuočius\n\nTELEVIZIJOS BOKŠTO ŠTURMAS\n\nSausio 13 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40821
+    - t-001

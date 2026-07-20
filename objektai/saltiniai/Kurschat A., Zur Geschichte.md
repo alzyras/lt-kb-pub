@@ -30,7 +30,6 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
 
 <a id="claim-t-61113"></a>
 - t-001
-  global_id: t-61113
   teiginys: "Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61113
+    - t-001

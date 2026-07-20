@@ -39,7 +39,6 @@ Snyder T.
 
 <a id="claim-t-17697"></a>
 - t-001
-  global_id: t-17697
   teiginys: "T. Snyderis parašė knygą „Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–1999“, išleistą Vilniuje 2003 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Snyder T.
   citata_originali: |
     Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–
     1999. Vilnius, 2003.
-  citata_rodoma: |
-    Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–
-    1999. Vilnius, 2003.
+  citata_rodoma: "Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–\n1999. Vilnius, 2003."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17697
+    - t-001

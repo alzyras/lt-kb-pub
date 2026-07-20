@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-87231"></a>
 - t-001
-  global_id: t-87231
   teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-194194"></a>
 - t-002
-  global_id: t-194194
   teiginys: "1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų Valerijono konvikto gyventojams 8."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -117,7 +115,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87231
+    - t-001
+
 - id: c-176798
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -148,4 +147,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194194
+    - t-002

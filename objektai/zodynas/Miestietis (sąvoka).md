@@ -37,13 +37,19 @@ media_all_json: |-
 1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala buvo miestietis, įrašytas dėl skolų ir samdos reikalų.
 
 ## Teiginiai
+
+<a id="claim-t-202362"></a>
 - t-001
-  global_id: t-905408202
-  teiginys: '1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala buvo miestietis, įrašytas dėl skolų ir samdos reikalų.'
+  teiginys: "1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala buvo miestietis, įrašytas dėl skolų ir samdos reikalų."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185709
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -51,20 +57,8 @@ media_all_json: |-
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 2"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 2."
-  citata_originali: |
-    1542–1564 m. Kauno miesto aktų knygose minimas Jonas Kojala (dažniausiai
-    rašoma Koyalo, Coyalo, Koialo, Koeлo, retkarčiais – Koyellis, Kaiela, Kaiella, Kayello).9 Tai miestietis,
-    miesczanyn osiadli, providus, į aktų knygas įrašytas dėl skolų, samdos reikalų ir panašiai, turėjo namus
-    Didžiojoje gatvėje. įsidėmėtina 1542 m. magistrato teisme nagrinėta byla tarp velionio Stanio Kielio
-    (Kyelycz) vaikų Kotrynos (Kyelaycze) ir Martyno (Kyeleiyczicz, Kyelayczis) bei judviejų patėvio
-    Mikalojaus Puniskio dėl palikimo.10 Iš šitos bylos dokumentų sužinome, kad Jonas Kojala buvo vedęs
-    Kauno miestiečio Stanio Kielio dukrą Kotryną Kielaitę. Jonas Kojala mirė 1564 m., jo našlė dar gyveno
-    1586 m.11
-    Nežinia, ar minėti Andrius ir Motiejus buvo Jono Kojalos sūnūs.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

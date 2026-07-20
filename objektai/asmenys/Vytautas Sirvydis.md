@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-78075"></a>
 - t-001
-  global_id: t-78075
   teiginys: "Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +73,11 @@ media_all_json: |-
     litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
     kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
     buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
-  citata_rodoma: |
-    Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
-    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m.
+  citata_rodoma: "Europos čem-\npionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), \nboksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo \ngarsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis. \nŠiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-\ntauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad \npirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78075
+    - t-001

@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189766"></a>
 - t-001
-  global_id: t-189766
   teiginys: "Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,22 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172649
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
-    senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
-    vėliavos aprašymas yra straipsnyje apie herbus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189766
+
 ## Citatos
 
 - id: c-172649
@@ -88,22 +72,14 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    dės užrašytos ratu: lotyniškas užrašas, venedų runomis, pagal
-    mano aiškinimą:
-    IM M ^t:SYatPIXr!:qX:1 ^n^nnt^n
-    (Immolavit Sambūrius dux Kracho olitori). To dievaičio vardo
-    užraše raidė „o“yra įterpta į vidurį, o ne įpabaigą, vadinasi, yra
-    „Koruch“ vietoj „Kracho“, o vietoje raidės „ch“, kuri nebuvo ži­
-    noma venedų runų abėcėlėje, buvo naudojama dviguba „gg“
-    (11), kurios, sujungtos į vieną raidę, skaitoma kaip „ CH“.
-  citata_rodoma: |
     Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
     senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
     vėliavos aprašymas yra straipsnyje apie herbus.
+  citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189766
+    - t-001

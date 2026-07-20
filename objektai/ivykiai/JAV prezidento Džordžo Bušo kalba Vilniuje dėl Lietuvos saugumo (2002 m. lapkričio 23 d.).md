@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-26375"></a>
 - t-001
-  global_id: t-26375
   teiginys: "2002 m. lapkričio 23 d. Vilniuje Džordžas Bušas pareiškė, kad Lietuvos priešai taptų ir JAV priešais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26375
+    - t-001

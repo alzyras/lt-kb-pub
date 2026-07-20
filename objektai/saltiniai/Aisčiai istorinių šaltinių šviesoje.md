@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31614"></a>
 - t-001
-  global_id: t-31614
   teiginys: "J. Puzino straipsnis „Aisčiai istorinių šaltinių šviesoje“ 1948 m. paskelbtas žurnalo „Aidai“ 12 numeryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,13 +68,11 @@ media_all_json: |-
     nio kapinyno tyrinėjimai _,_ AkMD, t. 7, 1959, 43-56 p. — Petrauskaitė,
     D. : _Žiegždrių piliakalnis,_ ILKI, t. 1, 1958, 119-124 p. —Puzinas, J. :
     _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
-  citata_rodoma: |
-    —Puzinas, J. :
-    _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p.
+  citata_rodoma: "—Puzinas, J. :\n_Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31614
+    - t-001

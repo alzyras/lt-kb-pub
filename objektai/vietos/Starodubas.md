@@ -12,13 +12,13 @@ datos:
   - '2026 m.'
 date_start: '1377'
 date_end: '2026'
+amziai:
+  - 'XIV'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,8 +41,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 ## Teiginiai
 
 <a id="claim-t-185156"></a>
-- t-001
-  global_id: t-185156
+- t-004
   teiginys: "Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -61,9 +60,21 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   pagrindžia:
     - c-168517
 
+<a id="claim-t-193233"></a>
+- t-005
+  teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
+  atnaujinta: "2026-07-19 23:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175970
+    - c-182791
+
 <a id="claim-t-199855"></a>
-- t-003
-  global_id: t-199855
+- t-001
   teiginys: "Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -86,8 +97,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     - c-182789
 
 <a id="claim-t-199858"></a>
-- t-004
-  global_id: t-199858
+- t-002
   teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
   atnaujinta: "2026-07-12 23:04"
   sprendimo_priezastis: "auto"
@@ -100,16 +110,6 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-182790
-
-<a id="claim-t-193233"></a>
-- t-002
-  global_id: t-193233
-  teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-002
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -188,29 +188,9 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - susijęs iš Bereza: 1760 m. Mykolas Antanas Sapiega buvo palaidotas Berezoje.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193233
-## Citatos
-
-- id: c-168517
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  puslapiai: "PDF 603"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
+- c-001
+  santrauka: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Persigabenę per Dneprą ir pažygiavę vieną
     mylią, jie įkūrė pamiškėje stovyklą palikę prie upės
@@ -229,7 +209,20 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     ir pradėjo kruvinas kauty­
     nes, kol priešai, netikėto antpuolio pritrenkti, nespėjo
     atsigauti.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168517
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 603"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
+  citata_originali: |
     Maskvėnai tvirtino,
     kad didysis kunigaikštis jiems neleidęs stoti į atvirą
     mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
@@ -245,13 +238,33 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     pasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas
     pabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,
     didikų patartas, nesiryžo persekioti maskvėnų.
+  citata_rodoma: "Maskvėnai tvirtino,\nkad didysis kunigaikštis jiems neleidęs stoti į atvirą\nmūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei\n605\n\n## Puslapis 604\n\nįsakymų, o šaukdami ir triukšmaudami, paliko stovyk­\nlą bei gurguoles ir pasileido sprukti per miškus ir pel­\nkes. Po šio įvykio Glinskis, nelyginant sumažėjęs ne\ntik savo šalininkų, bet ir savo paties akyse, pasitraukė\nį Starodubą su išsaugotais pulkais, kuriais labiausiai\npasitikėjo. Kai, išaušus dienai, paaiškėjo, jog priešas\npabėgo, kareiviai apiplėšė stovyklą, tačiau karalius,\ndidikų patartas, nesiryžo persekioti maskvėnų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185156
+    - t-004
+
+- id: c-175970
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-182789
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -276,7 +289,8 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199855
+    - t-001
+
 - id: c-182790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -289,18 +303,32 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
     Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
     valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
-  citata_rodoma: |
-    Nuvykęs Maskvon, jis prikalbėjo
-    kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
-    1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir
-    Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo
-    valdą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį.
+  citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199858
+    - t-002
+
+- id: c-182791
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  statusas: verified
+  atnaujinta: "2026-07-12 23:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 ## Ryšiai
 - Užėmė Starodubą: [[objektai/asmenys/Skirmantas]]

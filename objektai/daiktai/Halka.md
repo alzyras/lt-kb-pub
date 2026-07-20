@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35504"></a>
-- t-001
-  global_id: t-35504
+- t-003
   teiginys: "Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-38206
 
 <a id="claim-t-35505"></a>
-- t-002
-  global_id: t-35505
+- t-004
   teiginys: "Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -94,6 +92,7 @@ Nenurodyta
   pagrindžia:
     - c-38206
     - c-36716
+
 ## Citatos
 
 - id: c-36716
@@ -110,10 +109,12 @@ Nenurodyta
     pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-38206
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -127,17 +128,12 @@ Nenurodyta
     20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
     kirto ir klojo kelią.
-  citata_rodoma: |
-    Kariuomenė buvo labai gerai ginkluota;
-    viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
-    20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
-    vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
-    kirto ir klojo kelią.
+  citata_rodoma: "Kariuomenė buvo labai gerai ginkluota;\nviena didelė kanuolė, vadinama Halka, buvo vos patraukiama\n20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes\nvasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos\nkirto ir klojo kelią."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35504
-    - t-35505
+    - t-003
+    - t-004

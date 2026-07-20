@@ -31,7 +31,6 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
 
 <a id="claim-t-191255"></a>
 - t-001
-  global_id: t-191255
   teiginys: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191255
+    - t-001

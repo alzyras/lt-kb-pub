@@ -32,7 +32,6 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
 
 <a id="claim-t-191410"></a>
 - t-001
-  global_id: t-191410
   teiginys: "Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,8 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191410
+    - t-001
+
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Heiridė]]
 - Heiraudas buvo valdovas [[objektai/grupes/Rusai]]

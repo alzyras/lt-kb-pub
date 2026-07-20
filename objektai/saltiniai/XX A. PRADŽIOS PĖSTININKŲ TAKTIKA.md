@@ -37,7 +37,6 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
 
 <a id="claim-t-39973"></a>
 - t-001
-  global_id: t-39973
   teiginys: "„XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39973
+    - t-001

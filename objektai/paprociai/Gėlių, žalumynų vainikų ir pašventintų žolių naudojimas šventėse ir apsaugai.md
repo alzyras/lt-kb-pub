@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189835"></a>
 - t-001
-  global_id: t-189835
   teiginys: "Narbutas rašo, kad kaimo žmonės pašventintas žoles laikė apsauga nuo nelaimių, baimių, piktų dvasių, ligų, krušos ir žaibo debesų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189835
+    - t-001

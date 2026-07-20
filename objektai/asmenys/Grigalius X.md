@@ -42,7 +42,6 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 
 <a id="claim-t-60125"></a>
 - t-001
-  global_id: t-60125
   teiginys: "1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 
 <a id="claim-t-200994"></a>
 - t-002
-  global_id: t-200994
   teiginys: "Gavo tuojau kryžėjai pagalbą iš Rymo ir Teu tonuos; į popiežiaus suolą buvo pakeltas Teobaldas, archidiakonas Liuticho, Gregorium X vadina mas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -81,27 +79,24 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
+    54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
                                       vimą
 
       1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
     Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
-  citata_rodoma: |
-    Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
-                                      vimą
-
-      1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
-    Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
+  citata_rodoma: "Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­\n                                  vimą\n\n  1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,\nLenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60125
+    - t-001
+
 - id: c-184344
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pamarių kunigaikščiams kerštaujant tarp
     savęs, kryžėjai nebijojos jų ir tylėjo, užvis jog
@@ -119,4 +114,4 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200994
+    - t-002

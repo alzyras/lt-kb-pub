@@ -36,7 +36,6 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 
 <a id="claim-t-31784"></a>
 - t-001
-  global_id: t-31784
   teiginys: "Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,16 +68,11 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
     riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
     Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
     nėra.
-  citata_rodoma: |
-    Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus
-    į rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­
-    riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
-    Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
-    nėra.
+  citata_rodoma: "Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus\nį rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­\nriuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.\nLenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius\nnėra."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31784
+    - t-001

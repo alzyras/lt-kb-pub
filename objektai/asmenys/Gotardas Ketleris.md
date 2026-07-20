@@ -42,8 +42,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 ## Teiginiai
 
 <a id="claim-t-87504"></a>
-- t-001
-  global_id: t-87504
+- t-002
   teiginys: "Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
     - c-83484
 
 <a id="claim-t-87505"></a>
-- t-002
-  global_id: t-87505
+- t-001
   teiginys: "1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 
 <a id="claim-t-196463"></a>
 - t-003
-  global_id: t-196463
   teiginys: "Kojelavičiaus pasakojime ordino magistras Ketleris dalyvavo seime, kuriame Livonijos atstovai nutarė dėl sąjungos su Lietuva."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87505
+    - t-001
+
 - id: c-83484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,37 +150,15 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
     rie mums su pačiomis apskritimis atitektų, šventomis apei­
     gomis, taip pat su papročiais ir ypač religija, išpažįstančia
     Augustino tikėjimą, leistume laisvai naudotis.
-  citata_rodoma: |
-    in ea sententia extitimus, omni ratione, ut nobis providendum
-    statueremus, ne cuiquam ullas ad res, a Sacrosanctae Ecclesiae
-    institutis alienas, autb-tem n-ram impertijsse videri posse­
-    mus, tamen cum non incognita nobis esset, Christianorum
-    324
-
-    ## Puslapis 341
-
-    IV KNYGA
-    Žygimantas Augustas, Dievo malone Lenkijos karalius,
-    didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir
-    1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­
-    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
-    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
-    utonų ordino Livonijoje magistras, vildamasis mūsų
-    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
-    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
-    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
-    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
-    mis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
-    rie mums su pačiomis apskritimis atitektų, šventomis apei­
-    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
-    Augustino tikėjimą, leistume laisvai naudotis.
+  citata_rodoma: "in ea sententia extitimus, omni ratione, ut nobis providendum \nstatueremus, ne cuiquam ullas ad res, a Sacrosanctae Ecclesiae \ninstitutis alienas, autb-tem n-ram impertijsse videri posse­\nmus, tamen cum non incognita nobis esset, Christianorum\n324\n\n## Puslapis 341\n\nIV KNYGA\nŽygimantas Augustas, Dievo malone Lenkijos karalius, \ndidysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir \n1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­\nsiems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­\ntriuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­\nutonų ordino Livonijoje magistras, vildamasis mūsų \ništikimybės ir pritarimo, patikėjo mums save, ordiną bei val­\ndas ir, jei juos imtumėmės ginti, pažadėjo mums perduoti \nkai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų \npusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­\nmis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­\nrie mums su pačiomis apskritimis atitektų, šventomis apei­\ngomis, taip pat su papročiais ir ypač religija, išpažįstančia \nAugustino tikėjimą, leistume laisvai naudotis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87504
+    - t-002
+
 - id: c-178705
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -204,4 +180,4 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196463
+    - t-003

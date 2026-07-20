@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31503"></a>
 - t-001
-  global_id: t-31503
   teiginys: "1296 m. žiemą Balgos komtūras galbūt tame pačiame žygyje užėmė Gardino priešpilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,15 +83,11 @@ Nenurodyta
     komtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias
     pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
     priešpilių ir juos sunaikinti.
-  citata_rodoma: |
-    Gal tame pat žygyje (1296 žiemą) Balgos
-    komtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias
-    pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
-    priešpilių ir juos sunaikinti.
+  citata_rodoma: "Gal tame pat žygyje (1296 žiemą) Balgos\nkomtūras užėmė Gardino priešpilį^8. Ordino kariuomenei pačias\npagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų\npriešpilių ir juos sunaikinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31503
+    - t-001

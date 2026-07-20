@@ -37,7 +37,6 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
 
 <a id="claim-t-191817"></a>
 - t-001
-  global_id: t-191817
   teiginys: "Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie Volgos žemupį ir Astrachanės apylinkes."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191817
+    - t-001

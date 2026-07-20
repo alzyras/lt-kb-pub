@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-68911"></a>
 - t-001
-  global_id: t-68911
   teiginys: "Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68911
+    - t-001

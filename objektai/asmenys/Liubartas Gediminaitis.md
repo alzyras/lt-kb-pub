@@ -41,7 +41,6 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
 
 <a id="claim-t-30353"></a>
 - t-001
-  global_id: t-30353
   teiginys: "Liubartas Gediminaitis mirė apie 1385 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,15 +74,11 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
     senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
     kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
-  citata_rodoma: |
-    O mirus
-    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
-    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
-    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
+  citata_rodoma: "O mirus\nsenam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų\nkažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­\nvaldė dvi svarbiausias pilis — Lucką ir Vladimirą^7."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30353
+    - t-001

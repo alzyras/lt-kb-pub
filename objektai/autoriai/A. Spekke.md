@@ -38,7 +38,6 @@ SpHL = Spekke, A.
 
 <a id="claim-t-30542"></a>
 - t-001
-  global_id: t-30542
   teiginys: "A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,12 +64,11 @@ SpHL = Spekke, A.
     SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
     džiama), Maskva 1961-1970.
     SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
-  citata_rodoma: |
-    SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951.
+  citata_rodoma: "SpHL = Spekke, A. : History of Latvia, an outline. Stockholm 1951."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30542
+    - t-001

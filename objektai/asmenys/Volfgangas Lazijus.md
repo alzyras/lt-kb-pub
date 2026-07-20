@@ -32,9 +32,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 
 <a id="claim-t-191333"></a>
 - t-001
-  global_id: t-191333
   teiginys: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,7 +52,6 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 
 <a id="claim-t-196630"></a>
 - t-002
-  global_id: t-196630
   teiginys: "Kojelavičius remiasi Volfgango Lazijaus teiginiu, kad prūsai, lietuviai, žemaičiai, latviai, jotvingiai, polovcai ir pečenegai senovėje vadinti herulais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,12 +63,10 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
   pagrindžia:
     - c-178808
 
-## Citatos
-
-- id: c-174215
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     L. 302). Istoriko minimas Jonas Sniadeckis
     (1756—1830) — tai ilgametis Vilniaus universiteto rektorius, ast­
@@ -97,7 +93,19 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
     septynis lietuvių kalbos klausimus, kurių dauguma buvo bever­
     čiai, o kiti ir visiškai kvaili, nes mes kiekvieną tą asmenį asme­
     niškai pažinojome, ir nė vienas iš jų lietuviškai nemokėjo.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174215
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Ma­
     tydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­
     ba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į
@@ -106,13 +114,15 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
     ne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris
     ją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš
     pastarojo tas užrašas buvo įdėtas į Londono „Sylloge“.
+  citata_rodoma: "Ma­\ntydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­\nba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į\nsavo „Meklenburgo istoriją“, parašytą XV amžiuje. Gal būtų pra­\ndingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu\nne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris\nją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš\npastarojo tas užrašas buvo įdėtas į Londono „Sylloge“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191333
+    - t-001
+
 - id: c-178808
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -139,4 +149,4 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196630
+    - t-002

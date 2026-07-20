@@ -31,7 +31,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 
 <a id="claim-t-70143"></a>
 - t-001
-  global_id: t-70143
   teiginys: "Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70143
+    - t-001

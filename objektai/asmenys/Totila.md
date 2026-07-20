@@ -31,7 +31,6 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 
 <a id="claim-t-191478"></a>
 - t-001
-  global_id: t-191478
   teiginys: "Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 
 <a id="claim-t-197834"></a>
 - t-002
-  global_id: t-197834
   teiginys: "Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,5 +82,5 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191478
-    - t-197834
+    - t-001
+    - t-002

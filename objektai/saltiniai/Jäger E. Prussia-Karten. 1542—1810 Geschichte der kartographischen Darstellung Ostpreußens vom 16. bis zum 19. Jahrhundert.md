@@ -39,7 +39,6 @@ Dusburgietis teigia, kad jäger E.
 
 <a id="claim-t-61090"></a>
 - t-001
-  global_id: t-61090
   teiginys: "E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad jäger E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61090
+    - t-001

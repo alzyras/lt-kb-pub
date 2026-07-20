@@ -37,7 +37,6 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
 
 <a id="claim-t-187763"></a>
 - t-001
-  global_id: t-187763
   teiginys: "Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187763
+    - t-001

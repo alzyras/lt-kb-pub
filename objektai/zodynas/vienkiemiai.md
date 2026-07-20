@@ -31,7 +31,6 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
 
 <a id="claim-t-77808"></a>
 - t-001
-  global_id: t-77808
   teiginys: "Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77808
+    - t-001

@@ -31,7 +31,6 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
 
 <a id="claim-t-21272"></a>
 - t-001
-  global_id: t-21272
   teiginys: "Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   pagrindžia:
     - c-23974
     - c-166777
+
 ## Citatos
 
 - id: c-23974
@@ -64,15 +64,15 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
     įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-
     tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
     jurisdikcijos.
-  citata_rodoma: |
-    tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
+  citata_rodoma: "tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21272
+    - t-001
+
 - id: c-166777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -98,3 +98,5 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

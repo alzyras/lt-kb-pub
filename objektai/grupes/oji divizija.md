@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80646"></a>
 - t-001
-  global_id: t-80646
   teiginys: "2-ajai divizijai buvo numatyta užimti gynybines pozicijas ruože Dimitravo ežeras–Meros upė–Augustavo kanalas–Nemunas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80646
+    - t-001

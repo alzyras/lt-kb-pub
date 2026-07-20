@@ -38,7 +38,6 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 
 <a id="claim-t-74191"></a>
 - t-001
-  global_id: t-74191
   teiginys: "Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,25 +56,16 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - c-72238
 
 <a id="claim-t-74192"></a>
-- t-002
-  global_id: t-74192
+- t-003
   teiginys: "Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> konstitucijos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krikščionių demokratų blokas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionių demokratų blokas\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-22470
     - c-166528
+
 <a id="claim-t-74194"></a>
-- t-003
-  global_id: t-74194
+- t-004
   teiginys: "Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +82,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - c-22471
 
 <a id="claim-t-74195"></a>
-- t-004
-  global_id: t-74195
+- t-002
   teiginys: "Krikščionių demokratų blokas pralaimėjo 1926 m. gegužės 8–9 d. rinkimus į 85 vietų III Seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -130,18 +119,15 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
     8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo.
-  citata_rodoma: |
-    O čia dar po kie-
-    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
-    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
-    laimėjo.
+  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės \n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74195
+    - t-002
+
 - id: c-22470
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,17 +140,13 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     džio 19 dieną sušaukė III Seimo nepaprastąjį posėdį. Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
     kuris prisiekė laikytis šalies konstitucijos.
-  citata_rodoma: |
-    Jame LKDP bloko
-    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
-    kuris prisiekė laikytis šalies konstitucijos.
+  citata_rodoma: "Jame LKDP bloko \nbalsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona, \nkuris prisiekė laikytis šalies konstitucijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-74192
 - id: c-22471
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,17 +160,15 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     kusius raumenis. Tačiau krikščionių demokratų blokas, Katalikų veikimo
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
     monopolizuoti ideologinės ir organizacinės erdvės.
-  citata_rodoma: |
-    Tačiau krikščionių demokratų blokas, Katalikų veikimo
-    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
-    monopolizuoti ideologinės ir organizacinės erdvės.
+  citata_rodoma: "Tačiau krikščionių demokratų blokas, Katalikų veikimo \ncentras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo \nmonopolizuoti ideologinės ir organizacinės erdvės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74194
+    - t-004
+
 - id: c-72238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,20 +186,15 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
-  citata_rodoma: |
-    L I E T U V O S  I S T O R I J A
-    148
-    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
-    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
-    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
-    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n148\nVisuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-\nse, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: \nLietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-\njunga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74191
+    - t-001
+
 - id: c-166528
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,3 +211,5 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -31,9 +31,8 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
 
 <a id="claim-t-189457"></a>
 - t-001
-  global_id: t-189457
   teiginys: "Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo vadinti rusų sektantus ir kitus viduramžių eretikus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,35 +48,7 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172344
-    - c-001
 - susijęs iš [[objektai/paprociai/Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje.md#claim-t-189939|Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje]]: Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo vadinti rusų sektantus ir kitus viduramžių eretikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    O kad keturių
-    elementų supainiojimas išaugo iš Dievo prigimties įvairovės,
-    396
-
-    ## Puslapis 396
-
-    tai, be abejo, yra susiję su lietuvių stabmeldyste, kurioje auto­
-    rius pastebi tą patį. Kai dėl jų vadinimo manichėjiečiais, tai
-    senų katalikų rašytojų papratimu šitaip praminti turėjo būti
-    rusų sektantai, nes vidurinių amžių autoriai paprastai mani­
-    chėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-
-    no sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­
-    žių sektantus.
-    Mat katalikai taip neapkentė manichėjiečių ir agapijonų
-    sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189457
 ## Citatos
 
 - id: c-172344
@@ -100,26 +71,11 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
     žių sektantus.
     Mat katalikai taip neapkentė manichėjiečių ir agapijonų
     sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
-  citata_rodoma: |
-    O kad keturių
-    elementų supainiojimas išaugo iš Dievo prigimties įvairovės,
-    396
-
-    ## Puslapis 396
-
-    tai, be abejo, yra susiję su lietuvių stabmeldyste, kurioje auto­
-    rius pastebi tą patį. Kai dėl jų vadinimo manichėjiečiais, tai
-    senų katalikų rašytojų papratimu šitaip praminti turėjo būti
-    rusų sektantai, nes vidurinių amžių autoriai paprastai mani­
-    chėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-
-    no sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­
-    žių sektantus.
-    Mat katalikai taip neapkentė manichėjiečių ir agapijonų
-    sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
+  citata_rodoma: "O kad keturių\nelementų supainiojimas išaugo iš Dievo prigimties įvairovės,\n396\n\n## Puslapis 396\n\ntai, be abejo, yra susiję su lietuvių stabmeldyste, kurioje auto­\nrius pastebi tą patį. Kai dėl jų vadinimo manichėjiečiais, tai\nsenų katalikų rašytojų papratimu šitaip praminti turėjo būti\nrusų sektantai, nes vidurinių amžių autoriai paprastai mani­\nchėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-\nno sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­\nžių sektantus.\nMat katalikai taip neapkentė manichėjiečių ir agapijonų\nsektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189457
+    - t-001

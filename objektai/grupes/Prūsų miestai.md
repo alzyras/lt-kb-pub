@@ -28,7 +28,6 @@ Hanzoje jie sudarė atskirą miestų grupę, vadinamą Prūsų miestais, turinč
 
 <a id="claim-t-201871"></a>
 - t-001
-  global_id: t-201871
   teiginys: "Hanzoje jie sudarė atskirą miestų grupę, vadinamą Prūsų miestais, turinčią savo ypatingų interesų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -56,4 +55,4 @@ Hanzoje jie sudarė atskirą miestų grupę, vadinamą Prūsų miestais, turinč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201871
+    - t-001

@@ -11,10 +11,10 @@ datos:
   - '1540 m.'
 date_start: '1540'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-201970"></a>
 - t-001
-  global_id: t-201970
   teiginys: "Tas raštas, kuriuo rėmėsi vaitas, turėjo būti 1540 m. Zygimanto Senojo privilegija Kauno miestui, kurioje, be kita ko, daug dėmesio buvo skiriama miesto užstatymui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,6 +59,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185317
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -82,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201970
+    - t-001

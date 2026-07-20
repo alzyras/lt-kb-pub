@@ -33,7 +33,6 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
 
 <a id="claim-t-201183"></a>
 - t-001
-  global_id: t-201183
   teiginys: "Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
 
 <a id="claim-t-201184"></a>
 - t-002
-  global_id: t-201184
   teiginys: "Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -59,7 +57,6 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
 
 <a id="claim-t-201185"></a>
 - t-003
-  global_id: t-201185
   teiginys: "Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +70,9 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
 ## Citatos
 
 - id: c-184533
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matydamas,
     Botelis, marčelga kryžėjų, norėjo savo kariauną
@@ -91,11 +89,12 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201183
+    - t-001
 
 - id: c-184534
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai, apmaudingi ant tos naujos savo
     liuosybės kalinyčios ir numanydami jos sykį, arba
@@ -115,11 +114,12 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201184
+    - t-002
 
 - id: c-184535
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jurgio konventą padės nau­
     ją įkurti ir 30 sieksnių mūrų savo pilės išgriaus bei
@@ -136,4 +136,4 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201185
+    - t-003

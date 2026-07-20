@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-25042"></a>
 - t-001
-  global_id: t-25042
   teiginys: "Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-25044"></a>
 - t-002
-  global_id: t-25044
   teiginys: "M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,6 @@ Nenurodyta
 
 <a id="claim-t-183237"></a>
 - t-003
-  global_id: t-183237
   teiginys: "1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -138,7 +135,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25042
+    - t-001
+
 - id: c-25664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -167,7 +165,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25044
+    - t-002
+
 - id: c-166625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,4 +188,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183237
+    - t-003

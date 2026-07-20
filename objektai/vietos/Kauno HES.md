@@ -30,7 +30,6 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 <a id="claim-t-21475"></a>
 - t-001
-  global_id: t-21475
   teiginys: "Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,12 +56,11 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
     tyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos
     perdirbimo įmonė, Jonavos azotinių trąšų gamykla, Ignalinos atominė
     elektrinė (AE)).
-  citata_rodoma: |
-    Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
+  citata_rodoma: "Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21475
+    - t-001

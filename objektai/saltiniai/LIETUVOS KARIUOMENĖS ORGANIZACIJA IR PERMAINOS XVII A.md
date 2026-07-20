@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-41549"></a>
 - t-001
-  global_id: t-41549
   teiginys: "Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,14 +55,11 @@ media_all_json: |-
     P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
 
     Lina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis.
-  citata_rodoma: |
-    P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“
-
-    Lina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis.
+  citata_rodoma: "P. 123, „LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A.“\n\nLina Vidauskytė, Andžej Geglis, Karolis Zikaras, dail. Andžej Geglis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41549
+    - t-001

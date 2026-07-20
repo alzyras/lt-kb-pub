@@ -31,7 +31,6 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 
 <a id="claim-t-191341"></a>
 - t-001
-  global_id: t-191341
   teiginys: "Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Pregorą arba Lipsą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 
 <a id="claim-t-191342"></a>
 - t-002
-  global_id: t-191342
   teiginys: "Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,10 +61,9 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174224
-    - c-002
+
 <a id="claim-t-197725"></a>
 - t-003
-  global_id: t-197725
   teiginys: "Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi nimą; taip jis paminėtas apie vyskupijų padalijimą pas Dusburgą (p. 478): Tertiam quoque limitavimus, sicut claudit recens mare ab occidente ad."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,7 +76,6 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 
 <a id="claim-t-197726"></a>
 - t-004
-  global_id: t-197726
   teiginys: "Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas, kaip jas buvo pratęs vadinti Dusburgas, kartais mažes nes, o kartais didesnes; jos paprastai vadinamos pagal pagrindines vietoves arba savo valdovų pilių vietovar džius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191342
+
 ## Citatos
 
 - id: c-174223
@@ -135,8 +130,9 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191341
-    - t-197725
+    - t-001
+    - t-003
+
 - id: c-174224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -157,24 +153,15 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
     džius. Beveik nėra abejonių, kad šias krašto dalis valdė
     įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
     se arba pilaitėse.
-  citata_rodoma: |
-    Čia randame detalę, kuri pasikartoja kitose provinci­
-    jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,
-    jei šaltiniai nebūtų taip sujaukti. Kiekviena provincija
-    dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
-    kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
-    nes, o kartais didesnes; jos paprastai vadinamos pagal
-    pagrindines vietoves arba savo valdovų pilių vietovar­
-    džius. Beveik nėra abejonių, kad šias krašto dalis valdė
-    įžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­
-    se arba pilaitėse.
+  citata_rodoma: "Čia randame detalę, kuri pasikartoja kitose provinci­\njose ir kuri galėtų labiau paaiškinti visos tautos istoriją,\njei šaltiniai nebūtų taip sujaukti. Kiekviena provincija\ndalijosi j mažesnes dalis, atskirus valsčius, teritorijas,\nkaip jas buvo pratęs vadinti Dusburgas, kartais mažes­\nnes, o kartais didesnes; jos paprastai vadinamos pagal\npagrindines vietoves arba savo valdovų pilių vietovar­\ndžius. Beveik nėra abejonių, kad šias krašto dalis valdė\nįžymesni savininkai, vadinami bajorais, gyvenę tvirtovė­\nse arba pilaitėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191342
+    - t-002
+
 - id: c-179310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,4 +186,4 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197726
+    - t-004

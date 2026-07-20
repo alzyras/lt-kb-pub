@@ -37,7 +37,6 @@ Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragu�
 
 <a id="claim-t-189240"></a>
 - t-001
-  global_id: t-189240
   teiginys: "Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragučio šventikais pietiniki, kitaip Puotininkais (Potinikaj)."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Narbutas Petionkos pavadinimą kildino iš senojo miško vardo, siejamo su Ragu�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189240
+    - t-001

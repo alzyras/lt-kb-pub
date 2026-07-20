@@ -31,7 +31,6 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 
 <a id="claim-t-42167"></a>
 - t-001
-  global_id: t-42167
   teiginys: "Prie Stirės įvyko Švitrigailos pajėgoms nesėkmingas mūšis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,16 +58,11 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
     gas mūšis. Jogaila apsiautė Lucką, apgula
     tęsėsi, tačiau jo pajėgos buvo atremtos —
     lietuviai sėkmingai gynėsi.
-  citata_rodoma: |
-    Prie Stirės
-    įvyko Švitrigailos pajėgoms nesékmin-
-    gas mūšis. Jogaila apsiautė Lucką, apgula
-    tęsėsi, tačiau jo pajėgos buvo atremtos —
-    lietuviai sėkmingai gynėsi.
+  citata_rodoma: "Prie Stirės\nįvyko Švitrigailos pajėgoms nesékmin-\ngas mūšis. Jogaila apsiautė Lucką, apgula\ntęsėsi, tačiau jo pajėgos buvo atremtos —\nlietuviai sėkmingai gynėsi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42167
+    - t-001

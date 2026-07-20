@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-86438"></a>
 - t-001
-  global_id: t-86438
   teiginys: "Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-82419
 
 <a id="claim-t-86439"></a>
-- t-002
-  global_id: t-86439
+- t-003
   teiginys: "Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ media_all_json: |-
     - c-82417
 
 <a id="claim-t-86440"></a>
-- t-003
-  global_id: t-86440
+- t-002
   teiginys: "Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -126,7 +123,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86439
+    - t-003
+
 - id: c-82418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -150,26 +148,15 @@ media_all_json: |-
     ta, bet apėjo schizmatikus, kurių, at­
     kakliai Fotijo nuostatų besilaikančių,
     tarp rusinu buvo nemažai.
-  citata_rodoma: |
-    Įžvalgia savo politika Vytautas, nors skaityda-
-    masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
-    ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
-    įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
-    Lietuvos interesams ginti. Didesnioji Vilniaus miestiečių da­
-    lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­
-    darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­
-    tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų
-    80
-    Miesto archyve tų privilegijų nėra li­
-    kę pėdsakų, bet jas mini K o j a ł o-
-    w i c z Miscellanea, p.
+  citata_rodoma: "Įžvalgia savo politika Vytautas, nors skaityda- \nmasis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­\nja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus \nįstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai \nLietuvos interesams ginti. Didesnioji Vilniaus miestiečių da­\nlis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­\ndarę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­\ntautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų\n80\nMiesto archyve tų privilegijų nėra li­\nkę pėdsakų, bet jas mini K o j a ł o- \nw i c z Miscellanea, p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86440
+    - t-002
+
 - id: c-82419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,4 +187,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86438
+    - t-001

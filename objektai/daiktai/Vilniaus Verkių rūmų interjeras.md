@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-45547"></a>
 - t-001
-  global_id: t-45547
   teiginys: "Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-45548"></a>
 - t-002
-  global_id: t-45548
   teiginys: "Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“ P. Benoist 1848 m. kūrinyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,17 +106,15 @@ Nenurodyta
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
     Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
     iš J. K. Vilčinskio „Vilniaus albumo“.
-  citata_rodoma: |
-    Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
-    Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
-    iš J. K. Vilčinskio „Vilniaus albumo“.
+  citata_rodoma: "Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,\nSenųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras\niš J. K. Vilčinskio „Vilniaus albumo“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45547
+    - t-001
+
 - id: c-48317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,4 +129,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45548
+    - t-002

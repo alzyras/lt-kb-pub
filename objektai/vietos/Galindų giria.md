@@ -28,7 +28,6 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
 
 <a id="claim-t-201159"></a>
 - t-001
-  global_id: t-201159
   teiginys: "Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
 ## Citatos
 
 - id: c-184509
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok tuo žygiu maž
     ką kryžėjai telaimėjo, kaipogi minavotas kamendo-
@@ -62,4 +62,4 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201159
+    - t-001

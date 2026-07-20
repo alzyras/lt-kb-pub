@@ -46,28 +46,19 @@ Nenurodyta
 
 <a id="claim-t-189859"></a>
 - t-001
-  global_id: t-189859
   teiginys: "Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172742
-    - c-001
+    - c-172744
+
 <a id="claim-t-189860"></a>
 - t-002
-  global_id: t-189860
   teiginys: "Žemesnio luomo prūsų palaidojimuose urnos dažnai būdavo užkasamos laukuose ar miškuose, virš jų supilant smėlio kauburius be akmenų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-189861"></a>
 - t-003
-  global_id: t-189861
   teiginys: "Narbutas spėjo, kad kai kurie prūsų pilkapiai naudoti kaip šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -109,7 +99,6 @@ Nenurodyta
 
 <a id="claim-t-194630"></a>
 - t-004
-  global_id: t-194630
   teiginys: "Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs asmuo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -121,27 +110,6 @@ Nenurodyta
   pagrindžia:
     - c-177028
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aplink visą pilkapį ratu eina didokų
-    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
-    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
-    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­
-    je stovėdavo urna, beveik visuomet yra pietų pusėje, priešais
-    ugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­
-    menimis ir gerai apsaugota, kad urnos viduje niekas nesuges­
-    tų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk
-    VIII lentelės« raidę).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189859
 ## Citatos
 
 - id: c-172742
@@ -149,18 +117,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    kį iš plonų dalių, todėl neatpažįstamai surūdijusį; prie kojų,
-    žemiau blauzdų, stovėjo molinis indas - lėkštas dubenėlis ke­
-    turių colių skersmens, dviejų su puse colio gylio, beveik colio
-    storio, padarytas iš juodo deginto molio, viduje lygaus pavir­
-    šiaus, lyg padengto pokostu. Tai buvo ašarinė, pastatyta į kapą
-    su ašaromis, kurių laidojant priverkė raudotojos. Kaip man
-    pasakojo, panašių dubenėlių kartais rasdavo keliolikos pėdų
-    gylyje šalia žmonių kaulų. Kaukolės likučiai buvo pažaliavę
-    nuo metalo oksidacijos: matyt, mirusysis buvo su galvos ap­
-    dangalu, papuoštu vario arba sidabro gabaliukais; jų likučių
-    nepastebėjome.
-  citata_rodoma: |
     Aplink visą pilkapį ratu eina didokų
     akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
     tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
@@ -170,13 +126,13 @@ Nenurodyta
     menimis ir gerai apsaugota, kad urnos viduje niekas nesuges­
     tų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk
     VIII lentelės« raidę).
+  citata_rodoma: "Aplink visą pilkapį ratu eina didokų\nakmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­\ntinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­\nnų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­\nje stovėdavo urna, beveik visuomet yra pietų pusėje, priešais\nugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­\nmenimis ir gerai apsaugota, kad urnos viduje niekas nesuges­\ntų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk\nVIII lentelės« raidę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189859
 - id: c-172743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -195,7 +151,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189860
+    - t-002
+
 - id: c-172744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -217,7 +174,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189861
+    - t-001
+    - t-003
+
 - id: c-177028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -233,4 +192,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194630
+    - t-004

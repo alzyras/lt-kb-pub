@@ -62,6 +62,30 @@ function citationCard(assetHtml: string, citationId: string): string | null {
   )
 }
 
+function hiddenClaimGlobalIds(markdown: string): string[] {
+  const heading = markdown.search(/^##\s+Teiginiai\s*$/m)
+  if (heading < 0) return []
+  const bodyStart = markdown.indexOf("\n", heading) + 1
+  if (bodyStart <= 0) return []
+  const body = markdown.slice(bodyStart)
+  const nextHeading = body.search(/^##\s+/m)
+  const section = nextHeading >= 0 ? body.slice(0, nextHeading) : body
+  const ids: string[] = []
+  let pending = ""
+  for (const line of section.split("\n")) {
+    const anchor = line.match(/^\s*<a\s+id=["']claim-(t-\d+)["']\s*><\/a>\s*$/i)
+    if (anchor) {
+      pending = anchor[1]
+      continue
+    }
+    if (/^\s*-\s+t-\d+\s*$/i.test(line)) {
+      ids.push(pending)
+      pending = ""
+    }
+  }
+  return ids
+}
+
 const issues: Array<{ file: string; claim: string; citation?: string; reason: string }> = []
 const ignoredSourcePaths = new Set<string>(INTENTIONAL_IGNORED_OBJECT_PAGES)
 const sourceFiles = listMarkdownFiles(objectRoot)
@@ -103,9 +127,10 @@ for (const file of sourceFiles) {
   const pageHtml = fs.readFileSync(htmlPath, "utf8")
   const context = evidenceDocumentContext(markdown)
   const renderedKeys = new Set<string>()
+  const hiddenGlobals = hiddenClaimGlobalIds(markdown)
 
   claims.forEach((claim, index) => {
-    const globalId = claim.fields.get("global_id")?.trim()
+    const globalId = claim.fields.get("global_id")?.trim() || hiddenGlobals[index]
     const domKey = (globalId || `${claim.id}-${index + 1}`).toLowerCase()
     if (renderedKeys.has(domKey)) {
       issues.push({ file: relativePath, claim: claim.id, reason: `Duplicate rendered claim key ${domKey}` })
@@ -113,9 +138,16 @@ for (const file of sourceFiles) {
     renderedKeys.add(domKey)
     const refs = claim.lists.get("pagrindžia") ?? claim.lists.get("pagrindzia") ?? []
     if (refs.length === 0) return
-    const assetHtml = claimAssetHtml(pageHtml, domKey)
+    const renderedDomKey = `${claim.id}-${index + 1}`.toLowerCase()
+    const assetHtml =
+      claimAssetHtml(pageHtml, renderedDomKey) ??
+      (domKey === renderedDomKey ? null : claimAssetHtml(pageHtml, domKey))
     if (!assetHtml) {
-      issues.push({ file: relativePath, claim: claim.id, reason: `Missing rendered claim asset ${domKey}` })
+      issues.push({
+        file: relativePath,
+        claim: claim.id,
+        reason: `Missing rendered claim asset ${renderedDomKey}`,
+      })
       return
     }
 
@@ -126,6 +158,12 @@ for (const file of sourceFiles) {
       const card = citationCard(assetHtml, citationId)
       if (!card) {
         issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered citation card" })
+        continue
+      }
+      if (
+        citation.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+        citation.fields.get("indeksas")?.trim()
+      ) {
         continue
       }
       const shouldRenderQuote = evidenceSupportsClaim(

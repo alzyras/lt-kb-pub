@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-59716"></a>
 - t-001
-  global_id: t-59716
   teiginys: "Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -103,4 +102,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59716
+    - t-001

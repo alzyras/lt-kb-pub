@@ -39,7 +39,6 @@ Savęs prakeikimo formulė, skirta priesaikai sutvirtinti.
 
 <a id="claim-t-189581"></a>
 - t-001
-  global_id: t-189581
   teiginys: "Narbutas formulę „Kad aš skradžiai prapultau“ pateikė kaip lietuvių priesaikos su užkeikimu pavyzdį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Savęs prakeikimo formulė, skirta priesaikai sutvirtinti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189581
+    - t-001

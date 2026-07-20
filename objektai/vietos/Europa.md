@@ -47,8 +47,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 ## Teiginiai
 
 <a id="claim-t-109172"></a>
-- t-001
-  global_id: t-109172
+- t-007
   teiginys: "Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-101244
 
 <a id="claim-t-109173"></a>
-- t-002
-  global_id: t-109173
+- t-005
   teiginys: "Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-101244
 
 <a id="claim-t-109174"></a>
-- t-003
-  global_id: t-109174
+- t-008
   teiginys: "Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -94,12 +91,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=36"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1725 m.; įvykio data: 2000 m.; įvykio data: apie 2000 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Vertinamasis Europos tautų apibūdinimas paliktas su Narbuto atribucija. Neplėsta jo civilizacinė priešprieša Azijai ir Afrikai."
   pagrindžia:
     - c-24120
 
 <a id="claim-t-109175"></a>
-- t-004
-  global_id: t-109175
+- t-009
   teiginys: "Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +117,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-101247
 
 <a id="claim-t-109176"></a>
-- t-005
-  global_id: t-109176
+- t-002
   teiginys: "1429 m., praėjus dvidešimt metų nuo Kėzmarko suvažiavimo, beveik užmirštas klausimas vėl sujudino Europą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +135,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-37365
 
 <a id="claim-t-109177"></a>
-- t-006
-  global_id: t-109177
+- t-001
   teiginys: "1429 m. beveik užmirštas Vytauto karūnos klausimas vėl iškilo į viešumą ir sujudino Europą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -157,8 +154,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-37365
 
 <a id="claim-t-109178"></a>
-- t-007
-  global_id: t-109178
+- t-003
   teiginys: "Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,53 +172,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-101248
 
-<a id="claim-t-188688"></a>
-- t-008
-  global_id: t-188688
-  teiginys: "Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Petras I Didysis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Petras I Didysis: mention_match, person, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Petras I Didysis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1725 m.; įvykio data: 2000 m.; įvykio data: apie 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Vertinamasis Europos tautų apibūdinimas paliktas su Narbuto atribucija. Neplėsta jo civilizacinė priešprieša Azijai ir Afrikai."
-  pagrindžia:
-    - c-171577
-    - c-006
-<a id="claim-t-192659"></a>
-- t-009
-  global_id: t-192659
-  teiginys: "Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Afrika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Afrika: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175429
-    - c-008
 <a id="claim-t-193635"></a>
-- t-010
-  global_id: t-193635
+- t-011
   teiginys: "Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -235,8 +186,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-176306
 
 <a id="claim-t-197462"></a>
-- t-011
-  global_id: t-197462
+- t-012
   teiginys: "Visa tai, sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -248,8 +198,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-171577
 
 <a id="claim-t-197876"></a>
-- t-012
-  global_id: t-197876
+- t-013
   teiginys: "Saturnas, Borėjas, palaimintoji Atlantidos sala egzistavo Siaurės Europoje arba dingu siose salose, kurios buvo Lediniuotojoje jūroje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -261,8 +210,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-175429
 
 <a id="claim-t-200777"></a>
-- t-013
-  global_id: t-200777
+- t-014
   teiginys: "Vorobjovas Vilnių apibūdino kaip Europos stilių istoriją nuo gotikos iki empiro atskleidžiantį miestą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -1553,8 +1501,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188688
 - c-008
   santrauka: 'Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1573,8 +1519,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192659
+
 ## Citatos
 
 - id: c-24120
@@ -1593,7 +1538,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109174
+    - t-008
+
 - id: c-37365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1606,18 +1552,16 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     Lietuvai ramybės. Praėjus dvidešimt metų nuo Kėzmarko su­
     važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
     viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
-  citata_rodoma: |
-    Praėjus dvidešimt metų nuo Kėzmarko su­
-    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
-    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
+  citata_rodoma: "Praėjus dvidešimt metų nuo Kėzmarko su­\nvažiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į\nviešumą ir sujudinti visą Europą. Tai atsitiko 1429 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109176
-    - t-109177
+    - t-002
+    - t-001
+
 - id: c-101244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1659,47 +1603,16 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     grobuoniško
     Prūsijos Kryžiuočių
     ordino.
-  citata_rodoma: |
-    Čiurlionis ir E. M unchas:_ Melancholija ir šviesa
-    Stasys Šalkauskis
-    Raštai, IX tomas
-    Vincas Vyčinas
-    Raštai, III tomas
-
-    ## Puslapis 496
-
-    MYKOLAS BALINSKIS
-    galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
-    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras
-    Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • -
-    kronikų ir senųjų, archyvuose saugomų rankraščių išrinkti
-    padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
-    daugybę privilegijų^ kuriomis'j o gyv
-    naudojosi, ne tik atgaivinti amžinin
-    nius, keleto amžių, įvykius toje sosti
-    ir galimybės man leido, prisidt
-    Lietuvos istorijos įvykių aiškinim
-    mums patiems, o Europai visai neg
-    • riterių žygiais ir išmintingiausia Mindaugo, Gedimino,
-    Algirdo, Kęstučio, Jogailos ir Vytauto politika,
-    istorija menkame plote išsitenkančios Tautos,
-    kuri pati viena, savosios pagonybės atskirta
-    nuo kitų Europos šalių, vien savo
-    narsos dėka įstengė atremti bai­
-    sius mongolų antpuolius,
-    pažaboti Rusią ir nesileisti
-    pavergiama godžiai
-    grobuoniško
-    Prūsijos Kryžiuočių
-    ordino.
+  citata_rodoma: "Čiurlionis ir E. M unchas:_ Melancholija ir šviesa\nStasys Šalkauskis \nRaštai, IX tomas\nVincas Vyčinas \nRaštai, III tomas\n\n## Puslapis 496\n\nMYKOLAS BALINSKIS\ngalingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki \nmūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios centras \nLietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš įvairių • - \nkronikų ir senųjų, archyvuose saugomų rankraščių išrinkti \npadavimus, bylojančius apie Vilniaus kilmę, tas teises ir \ndaugybę privilegijų^ kuriomis'j o gyv \nnaudojosi, ne tik atgaivinti amžinin \nnius, keleto amžių, įvykius toje sosti \nir galimybės man leido, prisidt \nLietuvos istorijos įvykių aiškinim \nmums patiems, o Europai visai neg \n• riterių žygiais ir išmintingiausia Mindaugo, Gedimino, \nAlgirdo, Kęstučio, Jogailos ir Vytauto politika, \nistorija menkame plote išsitenkančios Tautos, \nkuri pati viena, savosios pagonybės atskirta \nnuo kitų Europos šalių, vien savo \nnarsos dėka įstengė atremti bai­\nsius mongolų antpuolius, \npažaboti Rusią ir nesileisti \npavergiama godžiai \ngrobuoniško \nPrūsijos Kryžiuočių \nordino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109172
-    - t-109173
+    - t-007
+    - t-005
+
 - id: c-101247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1712,20 +1625,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
     ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
     kokį svarbesnį Europos politikos klausimą.
-  citata_rodoma: |
-    ) griežtomis priemonėmis pakirto jos rytietiškos san-
-    tvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į
-    Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
-    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
-    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
-    kokį svarbesnį Europos politikos klausimą.
+  citata_rodoma: ") griežtomis priemonėmis pakirto jos rytietiškos san-\ntvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į\nEuropą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija\ntaip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su\nja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant\nkokį svarbesnį Europos politikos klausimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109175
+    - t-009
+
 - id: c-101248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1737,18 +1645,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
     Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
     kurti bendrą Europos aukštojo mokslo erdvę.
-  citata_rodoma: |
-    Aukštasis mokslas iš da-
-    lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
-    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
-    kurti bendrą Europos aukštojo mokslo erdvę.
+  citata_rodoma: "Aukštasis mokslas iš da-\nlies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą, \nLietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-\nkurti bendrą Europos aukštojo mokslo erdvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109178
+    - t-003
+
 - id: c-171577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1773,8 +1678,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188688
-    - t-197462
+    - t-012
+
 - id: c-175429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1792,20 +1697,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     ten, kur ambrozija sruveno, auksinis, palaimintasis die­
     vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
     1 Šis pavadinimas turėtų reikšti kinų protėvius.
-  citata_rodoma: |
-    Tie pirmykščiai žmonės esą buvę hi­
-    perborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą
-    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
-    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
-    siose salose, kurios buvo Lediniuotojoje jūroje.
+  citata_rodoma: "Tie pirmykščiai žmonės esą buvę hi­\nperborėjai. Apolonas ir Diana į Graikiją, Ozyris į Egiptą \natvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji \nAtlantidos sala egzistavo Siaurės Europoje arba dingu­\nsiose salose, kurios buvo Lediniuotojoje jūroje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192659
-    - t-197876
+    - t-013
+
 - id: c-176306
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1823,7 +1723,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193635
+    - t-011
+
 - id: c-184122
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1843,8 +1744,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200777
+    - t-014
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Persai]], [[objektai/asmenys/Snorro Sturleson]]
 - Puolė Europą: [[objektai/grupes/Hunai]]
-- Turėjo priklausinį: [[objektai/vietos/Lietuva]]
+- Turėjo priklausinį: Lietuva

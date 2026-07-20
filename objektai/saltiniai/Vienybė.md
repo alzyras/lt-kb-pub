@@ -36,7 +36,6 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 
 <a id="claim-t-02307"></a>
 - t-001
-  global_id: t-02307
   teiginys: "„Vienybė“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio skaitymo“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02307
+    - t-001

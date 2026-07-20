@@ -30,8 +30,7 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
 ## Teiginiai
 
 <a id="claim-t-35229"></a>
-- t-001
-  global_id: t-35229
+- t-002
   teiginys: "Mikalojus Sapienskis lenkų didikų susirinkime kalbėjo kaip Vytauto atstovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     - c-38096
 
 <a id="claim-t-35230"></a>
-- t-002
-  global_id: t-35230
+- t-001
   teiginys: "Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,17 +73,15 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     aplankė Vytautą. Rado čia ir Vytauto sekretorių ar kanclerį
     Mikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­
     tautui jo karūnacijos projektą.
-  citata_rodoma: |
-    Rado čia ir Vytauto sekretorių ar kanclerį
-    Mikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­
-    tautui jo karūnacijos projektą.
+  citata_rodoma: "Rado čia ir Vytauto sekretorių ar kanclerį\nMikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­\ntautui jo karūnacijos projektą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35230
+    - t-001
+
 - id: c-38096
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -98,16 +94,11 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się
     wnieść na królewską godność, a z księstwa Litewskiego nowe uczynić
     królewstwo“.
-  citata_rodoma: |
-    (^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­
-    kė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość
-    król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się
-    wnieść na królewską godność, a z księstwa Litewskiego nowe uczynić
-    królewstwo“.
+  citata_rodoma: "(^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­\nkė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość\nkról Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się\nwnieść na królewską godność, a z księstwa Litewskiego nowe uczynić\nkrólewstwo“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35229
+    - t-002

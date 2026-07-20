@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189965"></a>
 - t-001
-  global_id: t-189965
   teiginys: "Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,27 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172848
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    293
 
-    ## Puslapis 293
-
-    džiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­
-    pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
-    jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
-    vedę*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189965
 ## Citatos
 
 - id: c-172848
@@ -100,19 +79,11 @@ Nenurodyta
     pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
     jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
     vedę*.
-  citata_rodoma: |
-    293
-
-    ## Puslapis 293
-
-    džiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­
-    pročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­
-    jant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­
-    vedę*.
+  citata_rodoma: "293\n\n## Puslapis 293\n\ndžiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­\npročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­\njant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­\nvedę*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189965
+    - t-001

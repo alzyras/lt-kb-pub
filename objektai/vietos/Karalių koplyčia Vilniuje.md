@@ -37,7 +37,6 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
 
 <a id="claim-t-86193"></a>
 - t-001
-  global_id: t-86193
   teiginys: "1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86193
+    - t-001

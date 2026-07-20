@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-191036"></a>
 - t-001
-  global_id: t-191036
   teiginys: "Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Nenurodyta
 
 <a id="claim-t-191037"></a>
 - t-002
-  global_id: t-191037
   teiginys: "Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-197558"></a>
 - t-003
-  global_id: t-197558
   teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Nenurodyta
 
 <a id="claim-t-197559"></a>
 - t-004
-  global_id: t-197559
   teiginys: "Netikėtai gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga na daug išžudė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191036
-    - t-197558
+    - t-001
+    - t-003
+
 - id: c-173919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -157,5 +154,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191037
-    - t-197559
+    - t-002
+    - t-004

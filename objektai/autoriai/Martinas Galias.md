@@ -30,8 +30,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 ## Teiginiai
 
 <a id="claim-t-88032"></a>
-- t-001
-  global_id: t-88032
+- t-002
   teiginys: "Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     - c-84010
 
 <a id="claim-t-194200"></a>
-- t-002
-  global_id: t-194200
+- t-003
   teiginys: "Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -79,23 +77,15 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     Vladislavovo pilis - 800 šarvuotų­
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
-  citata_rodoma: |
-    c)
-    Id. Ibid. Capit VIII, p. 51. Martinas
-    Galias pasakoja, kad Poznanė duo­
-    davo 1 300 šarvuotųjų ir 4 000 gin­
-    kluotų skydais, Gnieznas - 1 500
-    šarvuotųjų ir 5 000 pėstininkų;
-    Vladislavovo pilis - 800 šarvuotų­
-    jų, 2 000 su skydais, Gdečas - 300
-    pirmųjų ir 2 000 antrųjų.
+  citata_rodoma: "c)\nId. Ibid. Capit VIII, p. 51. Martinas \nGalias pasakoja, kad Poznanė duo­\ndavo 1 300 šarvuotųjų ir 4 000 gin­\nkluotų skydais, Gnieznas - 1 500 \nšarvuotųjų ir 5 000 pėstininkų; \nVladislavovo pilis - 800 šarvuotų­\njų, 2 000 su skydais, Gdečas - 300 \npirmųjų ir 2 000 antrųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88032
+    - t-002
+
 - id: c-176803
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -114,4 +104,4 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194200
+    - t-003

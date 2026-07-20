@@ -39,7 +39,6 @@ LMS = Litovskaja Metrika.
 
 <a id="claim-t-29917"></a>
 - t-001
-  global_id: t-29917
   teiginys: "„Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ LMS = Litovskaja Metrika.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29917
+    - t-001

@@ -33,7 +33,6 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
 
 <a id="claim-t-201692"></a>
 - t-001
-  global_id: t-201692
   teiginys: "Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miesto valdiniais, kurie privalėjo mokėti miestui, kaip jų kolektyviniam savininkui, činšą ir atlikti kai kurias kitas prievoles."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
 
 <a id="claim-t-201693"></a>
 - t-002
-  global_id: t-201693
   teiginys: "Viršutinėje Nemuno terasoje plytėjo Freda."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,7 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201692
+    - t-001
 
 - id: c-185040
   autorius: "Zigmantas Kiaupa"
@@ -95,4 +93,4 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201693
+    - t-002

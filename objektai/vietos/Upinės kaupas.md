@@ -37,7 +37,6 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
 
 <a id="claim-t-188970"></a>
 - t-001
-  global_id: t-188970
   teiginys: "Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
 
 <a id="claim-t-194756"></a>
 - t-002
-  global_id: t-194756
   teiginys: "Prie upelio, dešinėje vieš kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me dinė koplytėlė su Nukryžiuotoju."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188970
+    - t-001
+
 - id: c-177152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -108,4 +107,4 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194756
+    - t-002

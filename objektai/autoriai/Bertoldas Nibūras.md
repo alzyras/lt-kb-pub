@@ -31,7 +31,6 @@ Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielai
 
 <a id="claim-t-191583"></a>
 - t-001
-  global_id: t-191583
   teiginys: "Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191583
+    - t-001

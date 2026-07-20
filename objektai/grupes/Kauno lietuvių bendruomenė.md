@@ -7,10 +7,10 @@ datos:
   - '1579 m.'
 date_start: '1579'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-201886"></a>
 - t-001
-  global_id: t-201886
   teiginys: "Štai 1579 m. balandžio 13 d. Steponas Batoras siuntė savo komisarus spręsti Kauno miestiečių ginčų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201886
+    - t-001

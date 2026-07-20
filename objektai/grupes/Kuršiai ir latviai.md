@@ -31,7 +31,6 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
 
 <a id="claim-t-189519"></a>
 - t-001
-  global_id: t-189519
   teiginys: "Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189519
+    - t-001

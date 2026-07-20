@@ -36,7 +36,6 @@ Towarszystwo szubrawców w Wilnie.
 
 <a id="claim-t-88483"></a>
 - t-001
-  global_id: t-88483
   teiginys: "J. Bielińskio „Towarszystwo szubrawców w Wilnie“ buvo išleista Vilniuje 1910 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Towarszystwo szubrawców w Wilnie.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88483
+    - t-001

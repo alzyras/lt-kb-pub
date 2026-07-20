@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-32025"></a>
 - t-001
-  global_id: t-32025
   teiginys: "St. Zajączkowskio „Żmudź w początkach unii polsko-litewskiej“ paskelbtas PamZH II tome 1930 m., p. 337-344."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,19 +69,11 @@ media_all_json: |-
     (^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS
 
     **9.
-  citata_rodoma: |
-    — Zajączkowski,
-    St. : _Żmudź w początkach unii polsko-litewskiej_ , PamZH, II, 1930, 337-
-    344 p.
-
-
-    (^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS
-
-    **9.
+  citata_rodoma: "— Zajączkowski,\nSt. : _Żmudź w początkach unii polsko-litewskiej_ , PamZH, II, 1930, 337-\n344 p.\n\n\n(^280) XI SKYRIUS: VALSTYBĖS IŠKILIMAS\n\n**9."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32025
+    - t-001

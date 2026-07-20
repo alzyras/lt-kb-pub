@@ -49,20 +49,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-08290"></a>
-- t-001
-  global_id: t-08290
-  teiginys: "Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10247
-
 <a id="claim-t-192494"></a>
 - t-002
-  global_id: t-192494
   teiginys: "Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -83,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-192495"></a>
 - t-003
-  global_id: t-192495
   teiginys: "Gintaras šaltinyje apibūdinamas kaip kietas, blizgus, skaidrus ir dėl šių savybių senovėje prilygintas brangakmeniams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -104,7 +91,6 @@ Nenurodyta
 
 <a id="claim-t-192496"></a>
 - t-004
-  global_id: t-192496
   teiginys: "Narbutas mini pasakojimą, kad gintaro viduje esantys vandens lašai didėja ir mažėja kintant mėnuliui, bet neišdžiūva."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -161,23 +147,17 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
-    arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
-    vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
-    gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
-    kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
-  citata_rodoma: |
-    Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
-    arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
-    vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
-    gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
-    kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
+        arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
+        vaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,
+        gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
+        kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
+  citata_rodoma: "Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,\narba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos\nvaišino, kaip šiandien iš gudiškumo yra sakoma, apieras jiems darė, degindami gyvulius, vašką,\ngintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,\nkasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-08290
 - id: c-175284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -202,7 +182,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192494
+    - t-002
+
 - id: c-175285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -228,7 +209,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192495
+    - t-003
+
 - id: c-175286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -252,4 +234,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192496
+    - t-004

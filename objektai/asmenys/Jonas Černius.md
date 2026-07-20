@@ -39,8 +39,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 ## Teiginiai
 
 <a id="claim-t-170075"></a>
-- t-001
-  global_id: t-170075
+- t-002
   teiginys: "1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     - c-154757
 
 <a id="claim-t-170076"></a>
-- t-002
-  global_id: t-170076
+- t-001
   teiginys: "Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,18 +89,15 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: |
-    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
-    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
-    tijos gavo po dvi ministrų vietas.
+  citata_rodoma: "Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono \nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170076
+    - t-001
+
 - id: c-154757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -116,13 +111,11 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
     kariuomenę, apginkluoti ją sunkiaisiais ginklais ir koordinuoti bendrus
     1938 m. manevruose kariuomenės vadas S. Raštikis (centre)
     ir gen. J. Černius (dešinėje)
-  citata_rodoma: |
-    1938 m. manevruose kariuomenės vadas S. Raštikis (centre)
-    ir gen. J. Černius (dešinėje)
+  citata_rodoma: "1938 m. manevruose kariuomenės vadas S. Raštikis (centre)  \nir gen. J. Černius (dešinėje)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170075
+    - t-002

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87037"></a>
-- t-001
-  global_id: t-87037
+- t-003
   teiginys: "Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Nenurodyta
     - c-83017
 
 <a id="claim-t-87039"></a>
-- t-002
-  global_id: t-87039
+- t-001
   teiginys: "Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Nenurodyta
     - c-83018
 
 <a id="claim-t-194183"></a>
-- t-003
-  global_id: t-194183
+- t-004
   teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,26 +112,15 @@ Nenurodyta
     20
     Vilniaus kapitulos archy­
     vas: MSS, vad. Acta, tai yra*
-  citata_rodoma: |
-    Jogaila tam pasipriešino,
-    tad šia dingstimi negalima buvo į
-    Vilnių vykti. Tie patys metraštinin­
-    kai pasakoja, kad 300 vežimų, įvai­
-    rios žvėrienos prikrauti, atvažiavę į
-    miestą ir kad Vytauto bajorai suva­
-    žiavę į miestą iš įvairių pusių, bet
-    vienas jų, matyt, išdavęs paslaptį, o
-    apie Sudimantą nėra užsiminta.
-    20
-    Vilniaus kapitulos archy­
-    vas: MSS, vad.
+  citata_rodoma: "Jogaila tam pasipriešino, \ntad šia dingstimi negalima buvo į \nVilnių vykti. Tie patys metraštinin­\nkai pasakoja, kad 300 vežimų, įvai­\nrios žvėrienos prikrauti, atvažiavę į \nmiestą ir kad Vytauto bajorai suva­\nžiavę į miestą iš įvairių pusių, bet \nvienas jų, matyt, išdavęs paslaptį, o \napie Sudimantą nėra užsiminta.\n20\nVilniaus kapitulos archy­\nvas: MSS, vad."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87037
+    - t-003
+
 - id: c-83018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,29 +143,15 @@ Nenurodyta
     kluotų vyrų, tuose vežimuose pa-
     slėptų, įvairiais keliais į ten buvo
     įvežti.
-  citata_rodoma: |
-    31
-    Strijkovskis, 1.465, o juo sekda­
-    mas ir K o j e 1  a v i č i u s, p. 361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių. Trejetą šimtų narsių ir ištikimų
-    jam riterių iš Žemaitijos išsiuntė
-    pirm, kad persirengę, tarsi nauji at­
-    vykėliai pirkliai, prasigavę į miestą
-    issiskirstytų po įvairias smukles; po
-    t° keletą šimtų vežimų, kailių ir šie-
-    no prikrautų, su šešiais šimtais gin­
-    kluotų vyrų, tuose vežimuose pa-
-    slėptų, įvairiais keliais į ten buvo
-    įvežti.
+  citata_rodoma: "31\nStrijkovskis, 1.465, o juo sekda­\nmas ir K o j e 1  a v i č i u s, p. 361, \nplačiai aprašo, kokių gudrybių tą­\nkart ėmėsi Kęstutis, puldamas Vil- \nnių. Trejetą šimtų narsių ir ištikimų \njam riterių iš Žemaitijos išsiuntė \npirm, kad persirengę, tarsi nauji at­\nvykėliai pirkliai, prasigavę į miestą \nissiskirstytų po įvairias smukles; po \nt° keletą šimtų vežimų, kailių ir šie- \nno prikrautų, su šešiais šimtais gin­\nkluotų vyrų, tuose vežimuose pa- \nslėptų, įvairiais keliais į ten buvo \nįvežti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87039
+    - t-001
+
 - id: c-176793
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -207,4 +179,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194183
+    - t-004

@@ -8,12 +8,12 @@ datos:
   - '1987 m.'
 date_start: '1962'
 date_end: '1987'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'XX a.'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Chicago, 1987; Forstreuter Kurt.
 
 <a id="claim-t-202205"></a>
 - t-001
-  global_id: t-202205
   teiginys: "Chicago, 1987; Forstreuter Kurt."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Chicago, 1987; Forstreuter Kurt.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202205
+    - t-001

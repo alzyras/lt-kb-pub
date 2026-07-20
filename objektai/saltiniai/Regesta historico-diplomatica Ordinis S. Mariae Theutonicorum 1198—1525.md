@@ -39,7 +39,6 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
 
 <a id="claim-t-61268"></a>
 - t-001
-  global_id: t-61268
   teiginys: "„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61268
+    - t-001

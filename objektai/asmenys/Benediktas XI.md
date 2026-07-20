@@ -42,7 +42,6 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
 
 <a id="claim-t-60246"></a>
 - t-001
-  global_id: t-60246
   teiginys: "1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,19 +66,15 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Benediktą XI, popiežių, ir Albrechtą, karalių
+    96. Apie Benediktą XI, popiežių, ir Albrechtą, karalių
 
       1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino
     vienuolis, ir Albrechtas, Romos karalius (Mart. p. 440; Ptol. p. 1224).
-  citata_rodoma: |
-    Apie Benediktą XI, popiežių, ir Albrechtą, karalių
-
-      1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino
-    vienuolis, ir Albrechtas, Romos karalius (Mart. p. 440; Ptol. p. 1224).
+  citata_rodoma: "Apie Benediktą XI, popiežių, ir Albrechtą, karalių\n\n  1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino\nvienuolis, ir Albrechtas, Romos karalius (Mart. p. 440; Ptol. p. 1224)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60246
+    - t-001

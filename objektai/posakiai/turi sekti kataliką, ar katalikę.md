@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-31572"></a>
 - t-001
-  global_id: t-31572
   teiginys: "Įsakyme frazė „turi sekti kataliką, ar katalikę“ taikyta vedusiems rusę ar ištekėjusioms už ruso ir siejo juos su Romos krikštu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-184363"></a>
 - t-002
-  global_id: t-184363
   teiginys: "Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -79,18 +77,15 @@ media_all_json: |-
     butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti
     kataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali
     būti verčiami net kūno bausmėmis »^20.
-  citata_rodoma: |
-    Įsakyme buvo įsakmiai pažymėta : jeigu kas
-    butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti
-    kataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali
-    būti verčiami net kūno bausmėmis »^20.
+  citata_rodoma: "Įsakyme buvo įsakmiai pažymėta : jeigu kas\nbutų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti\nkataliką, ar katalikę » ir priimti Romos krikštą. Prie to jie « gali\nbūti verčiami net kūno bausmėmis »^20."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31572
+    - t-001
+
 - id: c-167733
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -110,4 +105,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184363
+    - t-002

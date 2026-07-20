@@ -7,10 +7,10 @@ datos:
   - '1587 m.'
 date_start: '1587'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201944"></a>
 - t-001
-  global_id: t-201944
   teiginys: "Kauno miestiečių tokia rotušė netenkino, nes beveik 30 metų ji vis dar buvo statoma."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185291
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -74,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201944
+    - t-001

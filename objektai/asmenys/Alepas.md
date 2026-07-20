@@ -62,10 +62,9 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 ## Teiginiai
 
 <a id="claim-t-187909"></a>
-- t-001
-  global_id: t-187909
+- t-007
   teiginys: "Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
@@ -78,10 +77,9 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170890
-    - c-001
+
 <a id="claim-t-187910"></a>
-- t-002
-  global_id: t-187910
+- t-009
   teiginys: "Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -101,10 +99,9 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170892
 
 <a id="claim-t-187911"></a>
-- t-003
-  global_id: t-187911
+- t-008
   teiginys: "Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
@@ -117,10 +114,9 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170890
-    - c-001
+
 <a id="claim-t-187912"></a>
-- t-004
-  global_id: t-187912
+- t-010
   teiginys: "Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -137,8 +133,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170891
 
 <a id="claim-t-187913"></a>
-- t-005
-  global_id: t-187913
+- t-011
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -155,29 +150,20 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-170894
 
 <a id="claim-t-190646"></a>
-- t-006
-  global_id: t-190646
+- t-012
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alepas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=117"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alepas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-173529
+    - c-170894
 
 <a id="claim-t-190647"></a>
-- t-007
-  global_id: t-190647
+- t-013
   teiginys: "Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -200,8 +186,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     - c-173530
 
 <a id="claim-t-197388"></a>
-- t-008
-  global_id: t-197388
+- t-014
   teiginys: "Alepas taikindavo dalinius kunigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo mokėti jam atlygį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -230,9 +215,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187909
-    - t-187911
+- t-187911
 - c-005
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -252,6 +235,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-170890
@@ -259,33 +243,21 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kadangi tiek pat metų
-    ėjo vyriausiojo žynio pareigas, lieka 93 metai apibrėžti laikui
-    nuo Alepo krikšto iki Lizdeikai perimant vyriausiojo žynio pa­
-    reigas. Todėl anksčiau buvusia tvarka iki Lizdeikos galėjo būti
-    trys arba keturi vyriausieji žyniai. Politinė padėtis jau buvo
-    nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
-    autoritetas pamažu turėjo silpnėti15.
-    Vis dėlto jie darė didelę įtaką visuomenės mąstymui - ar
-    tai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,
-    ar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­
-    rias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;
-    pagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­
-    sirodyti, ir kitokiais panašiais prasimanymais.
-  citata_rodoma: |
     Paskutinis Prūsijos
     Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
     rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
     je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
     žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
+  citata_rodoma: "Paskutinis Prūsijos\nKrivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­\nrėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-\nje, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­\nžiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187909
-    - t-187911
+    - t-007
+    - t-008
+
 - id: c-170891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -303,48 +275,34 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
     kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas
     kryžiuočius.
-  citata_rodoma: |
-    Tasai senelis ir toliau nematė
-    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
-    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
-    kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
-    kryžiuočius.
+  citata_rodoma: "Tasai senelis ir toliau nematė\nbūdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti\napie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­\nkietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas\nkryžiuočius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187912
+    - t-010
+
 - id: c-170892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Todėl vyriausiųjų žy­
-    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
-    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
-    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
-    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
-    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
-    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
-    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
-    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
-    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
-    ir garantuotų sau politinę ramybę.
-  citata_rodoma: |
     Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
     žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
     pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
     ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
     ir garantuotų sau politinę ramybę.
+  citata_rodoma: "Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­\nžinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo\npažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­\nti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą\nir garantuotų sau politinę ramybę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187910
+    - t-009
+
 - id: c-170894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -360,19 +318,16 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
     tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
     metais visuotinai buvo priimtas krikščionių tikėjimas.
-  citata_rodoma: |
-    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
-    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
-    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
-    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
-    metais visuotinai buvo priimtas krikščionių tikėjimas.
+  citata_rodoma: "Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­\ngį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­\nčionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­\ntė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387\nmetais visuotinai buvo priimtas krikščionių tikėjimas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187913
+    - t-011
+    - t-012
+
 - id: c-173529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -388,24 +343,15 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
     nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
     mokėti jam atlygį. Pas krašto valdovus siųsdavo pasiuntinius;
     šie visuomet būdavo taikos pasiuntiniai.
-  citata_rodoma: |
-    Atlikdamas apei­
-    gas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­
-    puoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais.
-    Per dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­
-    tologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­
-    čiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo
-    trečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­
-    nigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo
-    mokėti jam atlygį.
+  citata_rodoma: "Atlikdamas apei­\ngas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­\npuoštą kaspinais, grandinėlėmis, karoliukais, brangakmeniais. \nPer dešinįjį petį persijuosdavo įuosta arba diržu, išrašytu mi­\ntologiniais žodžiais ir Perkūno ženklais. Vyriausiasis žynys bu­\nčiavo išlaikomas visuomenės lėšomis taip, kad jam atitekdavo \ntrečdalis grobio, atkovoto iš priešo. Jis taikindavo dalinius ku­\nnigaikščius, kurių nemaža buvo Lietuvoje, ir už tai reikalavo \nmokėti jam atlygį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190646
-    - t-197388
+    - t-014
+
 - id: c-173530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -426,4 +372,4 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190647
+    - t-013

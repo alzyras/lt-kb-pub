@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185846"></a>
 - t-001
-  global_id: t-185846
   teiginys: "Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185846
+    - t-001

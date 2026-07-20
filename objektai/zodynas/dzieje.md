@@ -55,10 +55,9 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 ## Teiginiai
 
 <a id="claim-t-192298"></a>
-- t-001
-  global_id: t-192298
+- t-002
   teiginys: "Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> ab ovo: 0.83"
@@ -72,10 +71,9 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175112
-    - c-001
+
 <a id="claim-t-192299"></a>
-- t-002
-  global_id: t-192299
+- t-003
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -112,8 +110,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192298
+
 ## Citatos
 
 - id: c-175112
@@ -121,58 +118,32 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai turėtų būti metai po „Lietuvių mito­
-    logijos“ pasirodymo, t. y. laukiant LTI antro tomo —
-    1836 metai arba 1837 metų pradžia. Taigi skaitome: „Aš
-    nerašau lietuvių tautos istorijos, nes neįstengčiau susi­
-    doroti su tokiu darbu; be kita ko, ir pats Livijus nesuge­
-    bėtų jos parašyti — tokia ji šiandien, kai nuosmukį pa­
-    tyrė dalykai, galėję palaikyti jos šaunumą, yra neapdo­
-    rota, tokius išbarstytus ir išblaškytus turi šaltinius. Ma­
-    no uždavinys, kaip galima spręsti iš „Mitologijos“, yra
-    atskleisti praeities įvykių esmę, pradedant tautos kilmės
-    ab ovo (pabr.
-  citata_rodoma: |
     Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,
     pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis
     arba šešis tomus, negali būti vadinamas istorija (historia), o tik
     veikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą2.
+  citata_rodoma: "Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,\npastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis\narba šešis tomus, negali būti vadinamas istorija (historia), o tik\nveikalais (dzieje), t. y. turi turėti kuklesnį pavadinimą2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192298
+    - t-002
+
 - id: c-175113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    si, iš cituoto teksto galima spręsti, jog T. Narbutas la­
-    bai aišikiai atribojo tai, kas šiandien mūsų ausiai skamba
-    visiškai identiškai. Simonas Daukantas vadinamajame
-    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
-    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
-    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t. Beje,
-    žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „lato-
-    pisiec“, t. y. „meturaszitojas“1. Taigi, laikantis anuome­
-    tinės terminijos, T. Narbuto LTI turėtų būti vadinama
-    „Lietuvių tautos veikalais“, o pirmieji trys tomai — „Lie­
-    tuvių
-    tautos
-    veikalais
-    senovėje“ — beveik identiškai
-    S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
-    tautos senovėje“.
-  citata_rodoma: |
     „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
     aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
     kalu“.
+  citata_rodoma: "„Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“\naiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-\nkalu“."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192299
+    - t-003

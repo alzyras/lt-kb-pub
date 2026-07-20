@@ -28,7 +28,6 @@ Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsm
 
 <a id="claim-t-201261"></a>
 - t-001
-  global_id: t-201261
   teiginys: "Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsmu, o džiaugsmas tikyba."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsm
 ## Citatos
 
 - id: c-184611
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pačios šven­
     tės tų dievų buvo su metų laikais ir jų linksmybė­
@@ -65,4 +65,4 @@ Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201261
+    - t-001

@@ -33,7 +33,6 @@ To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs vi
 
 <a id="claim-t-201143"></a>
 - t-001
-  global_id: t-201143
   teiginys: "To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs visus meldžionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės upies ir Draudžiu ežero ant kalno stiprioj vietoj ir neprieinamoj pilį padirbo, kurią pravardavo taip pat Christburgu ir tenai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs vi
 ## Citatos
 
 - id: c-184493
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matydamas, Vida, kryžėjų rėdytojas, užsikėto
     naują pilį įkurti. To dėjęsis, liepė visų pirma me­
@@ -67,4 +67,4 @@ To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201143
+    - t-001

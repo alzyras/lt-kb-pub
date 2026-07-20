@@ -40,7 +40,6 @@ Dusburgietis teigia, kad kubicka W.
 
 <a id="claim-t-60733"></a>
 - t-001
-  global_id: t-60733
   teiginys: "W. Kubicka parengė senosios prūsų kalbos bibliografiją iki 1965 metų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad kubicka W.
 
 <a id="claim-t-194448"></a>
 - t-002
-  global_id: t-194448
   teiginys: "Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,7 +81,8 @@ Dusburgietis teigia, kad kubicka W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60733
+    - t-001
+
 - id: c-176938
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -99,4 +98,4 @@ Dusburgietis teigia, kad kubicka W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194448
+    - t-002

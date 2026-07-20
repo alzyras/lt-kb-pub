@@ -56,7 +56,6 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
 
 <a id="claim-t-195619"></a>
 - t-001
-  global_id: t-195619
   teiginys: "Dvarponiai šioje apybraižoje turėjo gertuves kaimuose, prie vieškelių ir kryžkelių."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -74,20 +73,12 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
   puslapiai: "p. 82 (PDF 80)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 82 (PDF 80)."
   citata_originali: |
-    Bravarninkai turėdavo
-    degtinės
-    parduoti.
-    Taip
-    buvo karališkių kaimuose.
-    Kiekvienas dvarponis turėjo savo bravarą,
-    kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­
-    kelių.
-  citata_rodoma: |
     Kiekvienas dvarponis turėjo savo bravarą, kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryžkelių.
+  citata_rodoma: "Kiekvienas dvarponis turėjo savo bravarą, kiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryžkelių."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195619
+    - t-001

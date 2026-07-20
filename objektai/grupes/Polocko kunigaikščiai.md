@@ -31,7 +31,6 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
 
 <a id="claim-t-187772"></a>
 - t-001
-  global_id: t-187772
   teiginys: "Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -49,23 +48,7 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170711
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
-    locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
-    Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
-    patekimo Lietuvos valdžion XIII a. viduryje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187772
+
 ## Citatos
 
 - id: c-170711
@@ -73,25 +56,15 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    M. Strijkovskis savo kronikoje (1766 m. lei­
-    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
-    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
-    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
-    Kukovaičio mirt) nekalbama, o vietoj spragos, buvusios BK rank­
-    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
-    Užpildydami spragą, dedame tos vietos vertimą iš PS antrosios re­
-    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
-    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
-    dakcijos nuorašų tekstais.
-  citata_rodoma: |
     1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
     locko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko
     Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko
     patekimo Lietuvos valdžion XIII a. viduryje.
+  citata_rodoma: "1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­\nlocko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko \nLatvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko \npatekimo Lietuvos valdžion XIII a. viduryje."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187772
+    - t-001

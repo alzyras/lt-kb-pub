@@ -27,26 +27,11 @@ media_all_json: |-
 
 Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189570"></a>
-- t-001
-  global_id: t-189570
-  teiginys: 'Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Raw dainos sąrašas sutrauktas į vieną sakinį apie posakį ir jo funkciją Narbuto argumente. Kilmės teorija palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Ukmergė; mentioned_place: Upės (Oppen) kaimas'
-  pagrindžia:
-    - c-172458
-
-## Citatos
-
-- id: c-172458
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     456
 
@@ -69,10 +54,8 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
     Tobie matuniu pięč krow,
     Tobie siestruniu pięč zlotych pierscieni,
     A tobie bracie dziewaję Lolewkę.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189570
+  statusas: verified

@@ -7,10 +7,10 @@ datos:
   - '1442 m.'
 date_start: '1442'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrau
 
 <a id="claim-t-201802"></a>
 - t-001
-  global_id: t-201802
   teiginys: "Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrausta svečių tarpusavio prekyba ir įvestas privalomas vietos pirklių tarpininkavimas tarp svečių (ius emporii, Stapelkauftrecht)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201802
+    - t-001

@@ -8,13 +8,13 @@ datos:
   - '1221 m.'
 date_start: '1221'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - pilis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Deltuva
 
 ## Santrauka
@@ -37,8 +38,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 ## Teiginiai
 
 <a id="claim-t-121296"></a>
-- t-001
-  global_id: t-121296
+- t-002
   teiginys: "Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,28 +53,10 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   pagrindžia:
     - c-111138
 
-<a id="claim-t-121297"></a>
-- t-002
-  global_id: t-121297
-  teiginys: "Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų ."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Deltuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Deltuva\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-111138
-
 <a id="claim-t-188684"></a>
 - t-003
-  global_id: t-188684
   teiginys: "Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,7 +73,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171573
-    - c-002
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188593|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190642|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.
@@ -111,29 +92,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 - susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
 - susijęs iš Nalšėnai: Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Apie tai dar bus mūsų is­
-    torijos tęsinyje.
-    221
-
-    ## Puslapis 221
-
-    Kukovaitis (Kukowojtis)
-    Sudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­
-    patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
-    laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
-    įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188684
 ## Citatos
 
 - id: c-111138
@@ -147,38 +105,20 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
     Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
     tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
     šeima, bajorais ir palydovais (družina).
-  citata_rodoma: |
-    Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
-    opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.
-    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
-    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
-    šeima, bajorais ir palydovais (družina).
+  citata_rodoma: "Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų\nopozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.\nPradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­\ntas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo\nšeima, bajorais ir palydovais (družina)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121296
-    - t-121297
+    - t-002
+
 - id: c-171573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
-    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
-    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
-    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
-    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
-    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
-    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
-    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
-    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
-    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
-    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
-    bešališkumu.
-  citata_rodoma: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
     221
@@ -190,12 +130,11 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
     patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
     laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
     įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
+  citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188684
-## Ryšiai
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]
+    - t-003

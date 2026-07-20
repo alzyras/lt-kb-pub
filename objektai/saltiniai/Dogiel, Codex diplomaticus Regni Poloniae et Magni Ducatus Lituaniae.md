@@ -38,7 +38,6 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
 
 <a id="claim-t-191832"></a>
 - t-001
-  global_id: t-191832
   teiginys: "Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojamas kaip 1758, 1759 ir 1764 m. Vilniuje leista šaltinių publikacija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191832
+    - t-001

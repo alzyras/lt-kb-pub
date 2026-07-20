@@ -33,7 +33,6 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
 
 <a id="claim-t-185460"></a>
 - t-001
-  global_id: t-185460
   teiginys: "A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jonui Sapiegai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
 
 <a id="claim-t-188330"></a>
 - t-002
-  global_id: t-188330
   teiginys: "Neseckis teigė, kad Sapiegų giminės protėvio herbe buvo pavaizduotos trys lelijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185460
+    - t-001
+
 - id: c-171223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -107,4 +106,4 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188330
+    - t-002

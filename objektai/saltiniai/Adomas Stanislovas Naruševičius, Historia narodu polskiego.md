@@ -30,7 +30,6 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 
 <a id="claim-t-191699"></a>
 - t-001
-  global_id: t-191699
   teiginys: "Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog poloviečiai buvę rusų kaimynai iš rytų ir vakarų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 
 <a id="claim-t-191700"></a>
 - t-002
-  global_id: t-191700
   teiginys: "Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191699
+    - t-001
+
 - id: c-174582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -115,4 +114,4 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191700
+    - t-002

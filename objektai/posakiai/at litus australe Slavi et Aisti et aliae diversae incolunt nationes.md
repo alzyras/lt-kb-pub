@@ -39,7 +39,6 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
 
 <a id="claim-t-31554"></a>
 - t-001
-  global_id: t-31554
   teiginys: "Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,17 +71,11 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
     glijos karaliaus Alfredo Didžiojo jūrininkas Wulfstanas buvo pasku­
     tinis (880-890 m.), kuris savo pranešime minėjo aisčių vardui arti­
     mus žodžius (Eastlande, Estum, Estmere).
-  citata_rodoma: |
-    Apie 830 m. Ka­
-    roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minėjo
-    pietiniame Baltijos krante «slavus ir aisčius » (« at litus australe
-    Slavi et Aisti et aliae diversae incolunt nationes »). Pagaliau An­
-    glijos karaliaus Alfredo Didžiojo jūrininkas Wulfstanas buvo pasku­
-    tinis (880-890 m.
+  citata_rodoma: "Apie 830 m. Ka­\nroliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minėjo\npietiniame Baltijos krante «slavus ir aisčius » (« at litus australe\nSlavi et Aisti et aliae diversae incolunt nationes »). Pagaliau An­\nglijos karaliaus Alfredo Didžiojo jūrininkas Wulfstanas buvo pasku­\ntinis (880-890 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31554
+    - t-001

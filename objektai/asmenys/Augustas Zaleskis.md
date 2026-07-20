@@ -39,7 +39,6 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
 
 <a id="claim-t-18838"></a>
 - t-001
-  global_id: t-18838
   teiginys: "Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,12 +74,11 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
     A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos.
-  citata_rodoma: |
-    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
+  citata_rodoma: "nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18838
+    - t-001

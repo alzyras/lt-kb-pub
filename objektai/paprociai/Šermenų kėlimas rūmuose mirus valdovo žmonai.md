@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185927"></a>
 - t-001
-  global_id: t-185927
   teiginys: "Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185927
+    - t-001

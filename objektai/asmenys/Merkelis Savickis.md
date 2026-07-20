@@ -30,7 +30,6 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
 
 <a id="claim-t-194310"></a>
 - t-001
-  global_id: t-194310
   teiginys: "Dva sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194310
+    - t-001

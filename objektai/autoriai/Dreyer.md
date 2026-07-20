@@ -30,7 +30,6 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 
 <a id="claim-t-88055"></a>
 - t-001
-  global_id: t-88055
   teiginys: "Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,18 +59,11 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
     ir Šiaurės Vokietijos pajūrio miestams; laiškas pajūrio mies­
     tams įdėtas dar irDreyerio veikale (Specimen Juris pubi.
     Lubec., p. 183), be to, daug tikslesnis negu Kotzebue.
-  citata_rodoma: |
-    627)
-    Iki šiol iš Kotzebue Prūsijos istorijos (Aeltere Preuss.
-    Geschichte T. Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik
-    dominikonų ordinui, Mažesniesiems broliams (minoritams)
-    ir Šiaurės Vokietijos pajūrio miestams; laiškas pajūrio mies­
-    tams įdėtas dar irDreyerio veikale (Specimen Juris pubi.
-    Lubec., p. 183), be to, daug tikslesnis negu Kotzebue.
+  citata_rodoma: "627)\nIki šiol iš Kotzebue Prūsijos istorijos (Aeltere Preuss. \nGeschichte T. Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik \ndominikonų ordinui, Mažesniesiems broliams (minoritams) \nir Šiaurės Vokietijos pajūrio miestams; laiškas pajūrio mies­\ntams įdėtas dar irDreyerio veikale (Specimen Juris pubi. \nLubec., p. 183), be to, daug tikslesnis negu Kotzebue."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88055
+    - t-001

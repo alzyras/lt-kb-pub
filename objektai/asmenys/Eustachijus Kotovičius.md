@@ -41,7 +41,6 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 
 <a id="claim-t-87663"></a>
 - t-001
-  global_id: t-87663
   teiginys: "Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,24 +82,11 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
     mūrinis namas buvo likęs, o kai pastarasis 1737 metais per
     miesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­
     remontuoti stovėjo.
-  citata_rodoma: |
-    1677. Akademijos Rektorius t. Paulius Bochenas, neturė­
-    damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­
-    nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­
-    gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos
-    750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­
-    kupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­
-    siais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­
-    lygindami Collegium rektoriai, prie funduotos 4 000 auksinų
-    sumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­
-    ję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono
-    mūrinis namas buvo likęs, o kai pastarasis 1737 metais per
-    miesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­
-    remontuoti stovėjo.
+  citata_rodoma: "1677. Akademijos Rektorius t. Paulius Bochenas, neturė­\ndamas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­\nnardinų gatvėje Vilniaus kanauninkui maloningajam kuni­\ngui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos \n750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­\nkupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­\nsiais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­\nlygindami Collegium rektoriai, prie funduotos 4 000 auksinų \nsumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­\nję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono \nmūrinis namas buvo likęs, o kai pastarasis 1737 metais per \nmiesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­\nremontuoti stovėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87663
+    - t-001

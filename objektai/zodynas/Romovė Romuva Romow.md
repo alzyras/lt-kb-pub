@@ -31,9 +31,8 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
 
 <a id="claim-t-189138"></a>
 - t-001
-  global_id: t-189138
   teiginys: "Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškino jį kaip susilaikymo, pamaldumo bei taikos vietą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172026
-    - c-001
+
 <a id="claim-t-189139"></a>
 - t-002
-  global_id: t-189139
   teiginys: "Narbutas rašė, kad Dusburgietis Romovę vaizdavo kaip kadaise Prūsijoje buvusį šventą miestą ir krivio buveinę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
 
 <a id="claim-t-189140"></a>
 - t-003
-  global_id: t-189140
   teiginys: "Narbutas teigė, kad paskutiniais stabmeldystės amžiais Romovių būta keliose vietose ir jose gyveno atskiri kriviai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -94,26 +91,6 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   pagrindžia:
     - c-172028
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškino jį kaip susilaikymo, pamaldumo bei taikos vietą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    235
-
-    ## Puslapis 235
-
-    clžiu. Romovės šventyklos mitologinis pavadinimas siejamas
-    su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
-    susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
-    mas .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189138
 ## Citatos
 
 - id: c-172026
@@ -121,20 +98,6 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    ko: „Įvairios šiaurės tautos manė, jog žmogus, turintis su savi­
-    mi ąžuolo amalą, ne tik negalėjo būti sužeistas, bet buvo tik­
-    ras, kad sužeis kiekvieną, į kurį paleis strėlę“. Jeigu atrodytų
-    nepriimtina, kad šiaurėje augo visada žaliuojančių ąžuolų rū­
-    šis, tai būtų galima manyti, kad tie šventieji ąžuolai, augę Ro-
-    movėje ir prie Upsalos, turėjo tankiai priaugusias amalo ša­
-    kas. Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
-    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
-    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
-    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
-    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
-    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
-    mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: |
     235
 
     ## Puslapis 235
@@ -143,13 +106,15 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
     su ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė
     susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
     mas .
+  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189138
+    - t-001
+
 - id: c-172027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -173,7 +138,8 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189139
+    - t-002
+
 - id: c-172028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -197,4 +163,4 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189140
+    - t-003

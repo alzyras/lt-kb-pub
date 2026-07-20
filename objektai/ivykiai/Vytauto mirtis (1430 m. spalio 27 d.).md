@@ -8,12 +8,12 @@ datos:
   - '1430 m.'
 date_start: '1430'
 date_end: ''
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,8 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66992"></a>
-- t-001
-  global_id: t-66992
+- t-003
   teiginys: "1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-04920
 
 <a id="claim-t-66993"></a>
-- t-002
-  global_id: t-66993
+- t-004
   teiginys: "Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-04921
 
 <a id="claim-t-66995"></a>
-- t-003
-  global_id: t-66995
+- t-001
   teiginys: "Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,6 +104,32 @@ Nenurodyta
   pagrindžia:
     - c-67071
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
+    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
+    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-04920
@@ -114,40 +137,34 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
-    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
-    žmonos vežime. Iš patalo daugiau nebepakilo.
-  citata_rodoma: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
+  citata_rodoma: "Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-\nkelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo\nžmonos vežime. Iš patalo daugiau nebepakilo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66992
+    - t-003
+
 - id: c-04921
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Pa­
-    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
-    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
-    lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
-    gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
-  citata_rodoma: |
     Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
+  citata_rodoma: "Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-\ngailai ir liepęs jam nuo iždo ir pilių atiduoti raktus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66993
+    - t-004
+
 - id: c-67071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,4 +182,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66995
+    - t-001

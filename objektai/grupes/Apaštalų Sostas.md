@@ -31,7 +31,6 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 
 <a id="claim-t-172076"></a>
 - t-001
-  global_id: t-172076
   teiginys: "Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     - c-156501
 
 <a id="claim-t-172078"></a>
-- t-002
-  global_id: t-172078
+- t-003
   teiginys: "Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     - c-156504
 
 <a id="claim-t-172079"></a>
-- t-003
-  global_id: t-172079
+- t-002
   teiginys: "Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,7 +114,8 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172076
+    - t-001
+
 - id: c-156502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,33 +143,15 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
     mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
     kapitulai, jos turtui bei valdiniams.
-  citata_rodoma: |
-    Savo ir minėto miesto vardu [ta­
-    rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
-    jurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai
-    savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
-    kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus
-    vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­
-    nigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­
-    vavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek
-    tik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­
-    teikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo
-    Motiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­
-    vo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­
-    ras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­
-    kupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo
-    legatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,
-    ir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad
-    prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
-    mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
-    kapitulai, jos turtui bei valdiniams.
+  citata_rodoma: "Savo ir minėto miesto vardu [ta­\nrėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos \njurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai \nsavo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, \nkad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus \nvyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­\nnigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­\nvavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek \ntik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­\nteikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo \nMotiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­\nvo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­\nras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­\nkupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo \nlegatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises, \nir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad \nprasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­\nmo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus \nkapitulai, jos turtui bei valdiniams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172079
+    - t-002
+
 - id: c-156504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -198,4 +178,4 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172078
+    - t-003

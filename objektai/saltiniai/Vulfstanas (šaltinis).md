@@ -33,7 +33,6 @@ Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesniej
 
 <a id="claim-t-201453"></a>
 - t-001
-  global_id: t-201453
   teiginys: "Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesnieji Lietuvos tautos rašy tojai, ką tuojau alvienas skaitytojas regės."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesniej
 ## Citatos
 
 - id: c-184803
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemaičiai mokėję šaltį padirbti, dėl ko gi jų
     lavonai taip ilgai laikomi negedę: kaipo 2 bački
@@ -65,4 +65,4 @@ Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesniej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201453
+    - t-001

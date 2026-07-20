@@ -39,7 +39,6 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
 
 <a id="claim-t-201254"></a>
 - t-001
-  global_id: t-201254
   teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
 ## Citatos
 
 - id: c-184604
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
@@ -70,4 +70,4 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201254
+    - t-001

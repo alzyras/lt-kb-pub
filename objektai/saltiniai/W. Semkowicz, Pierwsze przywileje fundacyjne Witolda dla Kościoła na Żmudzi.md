@@ -36,7 +36,6 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
 
 <a id="claim-t-31983"></a>
 - t-001
-  global_id: t-31983
   teiginys: "W. Semkowicziaus „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“ išspausdintas KH 44 tome 1930 m., p. 348-355."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
     fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.
     — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
     XIV a.
-  citata_rodoma: |
-    — Semkowicz, W. : _Pierwsze przywileje
-    fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.
-    — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
-    XIV a.
+  citata_rodoma: "— Semkowicz, W. : _Pierwsze przywileje\nfundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.\n— Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš\nXIV a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31983
+    - t-001

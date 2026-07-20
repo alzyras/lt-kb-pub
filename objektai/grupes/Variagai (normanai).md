@@ -33,7 +33,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-31364"></a>
 - t-001
-  global_id: t-31364
   teiginys: "Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-192477"></a>
 - t-002
-  global_id: t-192477
   teiginys: "Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,9 +70,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 <a id="claim-t-192478"></a>
 - t-003
-  global_id: t-192478
   teiginys: "Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,26 +87,7 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175272
-    - c-003
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai jų ka­
-    ringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo
-    rusų variagų vardu. Apie juos mes dar kalbėsime chro­
-    nologine mūsų pasakojimo tvarka. Čia tik pateikiame
-    anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
-    stabą, jog senovės geografai šią variagų-lietuvių tautą
-    žinojo gitonų vardu1.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192478
+
 ## Citatos
 
 - id: c-33361
@@ -123,18 +101,15 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių.
-  citata_rodoma: |
-    Kai Dniepro baseine
-    prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos
-    kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius
-    santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
+  citata_rodoma: "Kai Dniepro baseine\nprasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos\nkariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius\nsantykius. Šitaip per Gudijos plotus Lietuvon dar IX amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31364
+    - t-001
+
 - id: c-175271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,23 +130,13 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192477
+    - t-002
+
 - id: c-175272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Istoriniai pastebėjimai. Laikui bėgant, Rusios kraštas
-    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
-    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
-    Žemaitijos buvo beveik neperžengiama taip, kad beveik
-    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
-    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
-    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
-    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
-    ria visiems laikams buvo nustatyta minėtų valstybių sie­
-    na, o Rusia buvo padalyta į dvi nelygias dalis2.
-  citata_rodoma: |
     Tai jų ka­
     ringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo
     rusų variagų vardu. Apie juos mes dar kalbėsime chro­
@@ -179,10 +144,11 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
     anksčiau mūsų Surovieckio padarytą ir labai teisingą pa­
     stabą, jog senovės geografai šią variagų-lietuvių tautą
     žinojo gitonų vardu1.
+  citata_rodoma: "Tai jų ka­\nringa ir sumani giminė vėlesniaisiais amžiais išgarsėjo\nrusų variagų vardu. Apie juos mes dar kalbėsime chro­\nnologine mūsų pasakojimo tvarka. Čia tik pateikiame\nanksčiau mūsų Surovieckio padarytą ir labai teisingą pa­\nstabą, jog senovės geografai šią variagų-lietuvių tautą\nžinojo gitonų vardu1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192478
+    - t-003

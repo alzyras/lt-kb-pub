@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-195298"></a>
 - t-001
-  global_id: t-195298
   teiginys: "Balana pateikiama kaip senosios gadynės apšvietimo priemonė, tiesiogiai sutapatinta su „skala“."
-  atnaujinta: "2026-07-12 01:46"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -85,15 +84,11 @@ Nenurodyta
     dailės kūriniams,
     pilniems
     naivumo ir tragizmo.
-  citata_rodoma: |
-    Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,
-    liudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,
-    vj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,
-    daug meldėsi, daug dirbo, daug gėrė ir lėbavo.
+  citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją, \nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, \nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, \ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195298
+    - t-001

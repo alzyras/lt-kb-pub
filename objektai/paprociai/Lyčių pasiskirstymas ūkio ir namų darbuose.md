@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07791"></a>
-- t-001
-  global_id: t-07791
+- t-002
   teiginys: "Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -80,17 +79,11 @@ Nenurodyta
         gerbė, beje, suolus, staktas, palanges, duris iš vidaus ir lauko, kaip sakiau, švietė^376 , nuotakos
         sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
         plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
-  citata_rodoma: |
-    Tuo tarpu motriškosios po namus trūsėjo. Žiemą linus šukavo, vilnas kedino ir verpė, vienos audė audeklus,
-    beje: audimus, samplėšinius^373 , viennyčius, trinyčius, šešioliknyčius, milus, kecius^374 , kitos arė,
-    sėjo, šieną pjovė ir grėbė, javus nuo dirvų valijo^375 , daržus ravėjo, gyvulius liuobė bei kutino ir namus
-    gerbė, beje, suolus, staktas, palanges, duris iš vidaus ir lauko, kaip sakiau, švietė^376 , nuotakos
-    sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
-    plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
+  citata_rodoma: "Tuo tarpu motriškosios po namus trūsėjo. Žiemą linus šukavo, vilnas kedino ir verpė, vienos audė audeklus,\nbeje: audimus, samplėšinius^373 , viennyčius, trinyčius, šešioliknyčius, milus, kecius^374 , kitos arė,\nsėjo, šieną pjovė ir grėbė, javus nuo dirvų valijo^375 , daržus ravėjo, gyvulius liuobė bei kutino ir namus\ngerbė, beje, suolus, staktas, palanges, duris iš vidaus ir lauko, kaip sakiau, švietė^376 , nuotakos\nsau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė\nplikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07791
+    - t-002

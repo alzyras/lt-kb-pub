@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-80643"></a>
 - t-001
-  global_id: t-80643
   teiginys: "1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,23 +73,11 @@ media_all_json: |-
     220-asis Kutuzovo ordino pulkas. Jam
     vadovavo majoras Jacenka ir štabo virši-
     ninkas majoras Buiničius.
-  citata_rodoma: |
-    1945 m.
-    gegužės 16 dienos mūšyje
-
-    dalyvavo apie 90 partizanų
-
-    NKVD pajėgos
-
-    Partizanus kalniškės miške puolė 1-ojo
-    Pabaltijo fronto NKvp kariuomenės
-    220-asis Kutuzovo ordino pulkas. Jam
-    vadovavo majoras Jacenka ir štabo virši-
-    ninkas majoras Buiničius.
+  citata_rodoma: "1945 m.\ngegužės 16 dienos mūšyje\n\ndalyvavo apie 90 partizanų\n\nNKVD pajėgos\n\nPartizanus kalniškės miške puolė 1-ojo\nPabaltijo fronto NKvp kariuomenės\n220-asis Kutuzovo ordino pulkas. Jam\nvadovavo majoras Jacenka ir štabo virši-\nninkas majoras Buiničius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80643
+    - t-001

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20233"></a>
 - t-001
-  global_id: t-20233
   teiginys: "Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-183229"></a>
 - t-002
-  global_id: t-183229
   teiginys: "Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -118,5 +116,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20233
-    - t-183229
+    - t-001
+    - t-002

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-49168"></a>
-- t-001
-  global_id: t-49168
+- t-002
   teiginys: "Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-43084
 
 <a id="claim-t-49169"></a>
-- t-002
-  global_id: t-49169
+- t-003
   teiginys: "1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-43083
 
 <a id="claim-t-49170"></a>
-- t-003
-  global_id: t-49170
+- t-001
   teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -133,24 +130,16 @@ Nenurodyta
     Sudarius Liublino uniją, aplinkybės kurį
     laiką neleido imtis rimtų karo veiksmų.
     1570 m.
-  citata_rodoma: |
-    Šios aplinkybės pastūmėjo LDK gana
-    nepalankiomis sąlygomis 1569 m. sudaryti
-    su Lenkija Liublino uniją, tikintis karinės
-    pagalbos, kuri leistų pasiekti persilaužimą
-    kare su Maskva ir likviduoti egezistencinį
-    pavojų Lietuvai.
-
-    Sudarius Liublino uniją, aplinkybės kurį
-    laiką neleido imtis rimtų karo veiksmų.
+  citata_rodoma: "Šios aplinkybės pastūmėjo LDK gana\nnepalankiomis sąlygomis 1569 m. sudaryti\nsu Lenkija Liublino uniją, tikintis karinės\npagalbos, kuri leistų pasiekti persilaužimą\nkare su Maskva ir likviduoti egezistencinį\npavojų Lietuvai.\n\nSudarius Liublino uniją, aplinkybės kurį\nlaiką neleido imtis rimtų karo veiksmų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49169
-    - t-49170
+    - t-003
+    - t-001
+
 - id: c-43084
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -169,4 +158,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49168
+    - t-002

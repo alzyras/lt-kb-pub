@@ -31,7 +31,6 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
 
 <a id="claim-t-41145"></a>
 - t-001
-  global_id: t-41145
   teiginys: "Sausio 13-osios dienos brolija vienijo Sausio įvykių dalyvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41145
+    - t-001

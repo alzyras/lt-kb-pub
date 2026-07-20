@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-77960"></a>
 - t-001
-  global_id: t-77960
   teiginys: "Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77960
+    - t-001

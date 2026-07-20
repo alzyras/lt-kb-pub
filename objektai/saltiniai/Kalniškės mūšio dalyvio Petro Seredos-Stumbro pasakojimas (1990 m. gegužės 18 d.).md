@@ -47,8 +47,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 ## Teiginiai
 
 <a id="claim-t-78855"></a>
-- t-001
-  global_id: t-78855
+- t-003
   teiginys: "Petro Seredos-Stumbro pasakojime nurodoma, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų apsupo NKVD kariuomenė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -67,8 +66,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
     - c-11240
 
 <a id="claim-t-78856"></a>
-- t-002
-  global_id: t-78856
+- t-005
   teiginys: "Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,8 +82,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
     - c-43260
 
 <a id="claim-t-78857"></a>
-- t-003
-  global_id: t-78857
+- t-004
   teiginys: "Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,7 +118,8 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78855
+    - t-003
+
 - id: c-43260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -139,21 +137,12 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 
     »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
     kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro.
-  citata_rodoma: |
-    “
-
-    MŪŠIO DALYVIO ATSIMINIMAI
-
-    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
-    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
-
-    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
-    kariuomenė.
+  citata_rodoma: "“\n\nMŪŠIO DALYVIO ATSIMINIMAI\n\nAlytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-\nlyvio Petro Seredos-Stumbro pasakojimo ištrauka:\n\n»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD\nkariuomenė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78856
-    - t-78857
+    - t-005
+    - t-004

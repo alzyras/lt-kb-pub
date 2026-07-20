@@ -39,7 +39,6 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 
 <a id="claim-t-100111"></a>
 - t-001
-  global_id: t-100111
   teiginys: "J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100111
+    - t-001

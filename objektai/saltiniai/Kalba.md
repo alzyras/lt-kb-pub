@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-34909"></a>
 - t-001
-  global_id: t-34909
   teiginys: "„Kalba“ buvo bendrinės kalbos žurnalo pirmasis sąsiuvinis, redaguotas Prano Skardžiaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-34910"></a>
 - t-002
-  global_id: t-34910
   teiginys: "„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34909
+    - t-001
+
 - id: c-36135
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -89,4 +88,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34910
+    - t-002

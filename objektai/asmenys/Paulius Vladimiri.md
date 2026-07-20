@@ -31,7 +31,6 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
 
 <a id="claim-t-35261"></a>
 - t-001
-  global_id: t-35261
   teiginys: "Paulius Vladimiri vyko kartu su Lietuvos delegacija į visuotinį Bažnyčios susirinkimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
 
 <a id="claim-t-35262"></a>
 - t-002
-  global_id: t-35262
   teiginys: "Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +75,15 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
     tą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­
     krikštyti lietuvius kardu ir ugnimi. Tuo jis tik sulaikė lietuvius
     nuo krikšto, kurio negalima kardu skelbti^1 ).
-  citata_rodoma: |
-    Paulius Vladimiri išleido dar raš­
-    tą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­
-    krikštyti lietuvius kardu ir ugnimi. Tuo jis tik sulaikė lietuvius
-    nuo krikšto, kurio negalima kardu skelbti^1 ).
+  citata_rodoma: "Paulius Vladimiri išleido dar raš­\ntą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­\nkrikštyti lietuvius kardu ir ugnimi. Tuo jis tik sulaikė lietuvius\nnuo krikšto, kurio negalima kardu skelbti^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35262
+    - t-002
+
 - id: c-38111
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -101,16 +96,11 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
     mas delegaciją priėmė labai entuziastiškai, nes buvo tai pirmo­
     ji Kristų pažinusios Lietuvos delegacija visuotiniame Bažny­
     čios susirinkime.
-  citata_rodoma: |
-    Kartu su jais vyko taip pat žymus
-    lenkas Paulius Vladimiri, būrys dvariškių ir riterių. Susirinki­
-    mas delegaciją priėmė labai entuziastiškai, nes buvo tai pirmo­
-    ji Kristų pažinusios Lietuvos delegacija visuotiniame Bažny­
-    čios susirinkime.
+  citata_rodoma: "Kartu su jais vyko taip pat žymus\nlenkas Paulius Vladimiri, būrys dvariškių ir riterių. Susirinki­\nmas delegaciją priėmė labai entuziastiškai, nes buvo tai pirmo­\nji Kristų pažinusios Lietuvos delegacija visuotiniame Bažny­\nčios susirinkime."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35261
+    - t-001

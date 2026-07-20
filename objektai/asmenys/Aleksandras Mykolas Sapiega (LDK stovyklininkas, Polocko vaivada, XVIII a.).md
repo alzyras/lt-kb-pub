@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200687"></a>
-- t-001
-  global_id: t-200687
+- t-004
   teiginys: "1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
@@ -66,22 +65,8 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 8"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 8."
-  citata_originali: |
-    Kanauninkas rūpinosi ne tik savo giminės, bet ir kitų didikų namų statyba bei remontu
-    LDK sostinėje, jam svarbūs buvo ir kitų bajorų giminių pirkimo, įsikūrimo faktai ir jų
-    aplinkybės. Laiške LDK stovyklininkui Aleksandrui Mykolui Sapiegai 1749 m. jis minėjo
-    ir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt
-    koadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,
-    kad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose.
-  citata_rodoma: |
-    Aplinkybės. Laiške LDK stovyklininkui Aleksandrui Mykolui Sapiegai 1749 m. jis minėjo
-    ir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt
-    koadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,
-    kad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 10:44"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200687
+    - t-004

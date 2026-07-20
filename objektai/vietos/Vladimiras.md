@@ -57,8 +57,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 ## Teiginiai
 
 <a id="claim-t-181161"></a>
-- t-001
-  global_id: t-181161
+- t-019
   teiginys: "Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -78,8 +77,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-32556
 
 <a id="claim-t-185204"></a>
-- t-002
-  global_id: t-185204
+- t-020
   teiginys: "Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -99,8 +97,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-168565
 
 <a id="claim-t-194989"></a>
-- t-003
-  global_id: t-194989
+- t-021
   teiginys: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-32555
 
 <a id="claim-t-201116"></a>
-- t-004
-  global_id: t-201116
+- t-023
   teiginys: "Visų pirma, įėjęs į Volynijos kraš tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su gyventojais susinėrusi, didžiai kantriai gynės, vil damos veikios pagalbos nuo lauko ateinančios, kas ir nutiko: pats kunigaikštis Volynijos, patelkęs rim tus pulkus."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -163,7 +159,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194989
+    - t-021
+
 - id: c-32556
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -180,7 +177,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181161
+    - t-019
+
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -204,25 +202,19 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     kitais suartėję; lietuviai jau pradėjo krikti, nes skitai,
     įprastinėmis užuolankomis puldami sparnus, nuolatos
     ardė eiles, neleisdami sudaryti pastovios rikiuotės.
-  citata_rodoma: |
-    Pir­
-    mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
-    Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
-    tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
-    atrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo
-    metu su savo krašto kariuomene ir atėjusiais į pagal­
-    bą skitais atvyko Vladimiras, ketindamas nuvaryti prie­
-    šą nuo sienų.
+  citata_rodoma: "Pir­\nmąjį smūgį jis nukreipė į Volynės pasienį: apsupo \nVladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­\ntą atkakliai puolė iš visų pusių, vis dėlto miestiečiai \natrėmė puolimą, vildamiesi, jog neužtruks parama. Tuo \nmetu su savo krašto kariuomene ir atėjusiais į pagal­\nbą skitais atvyko Vladimiras, ketindamas nuvaryti prie­\nšą nuo sienų."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185204
+    - t-020
+
 - id: c-184466
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visų pirma, įėjęs į Volynijos kraš­
     tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su
@@ -245,7 +237,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201116
+    - t-023
+
 ## Ryšiai
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Užėmė Vladimirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

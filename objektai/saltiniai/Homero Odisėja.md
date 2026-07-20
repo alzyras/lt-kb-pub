@@ -30,7 +30,6 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
 
 <a id="claim-t-191778"></a>
 - t-001
-  global_id: t-191778
   teiginys: "Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
 
 <a id="claim-t-191779"></a>
 - t-002
-  global_id: t-191779
   teiginys: "Teodoras Narbutas nurodė, kad Homero „Odisėjos“ IV ir XV giesmėse minimas elektronas senovėje laikytas brangiuoju metalu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,8 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191778
+    - t-001
+
 - id: c-174661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -108,4 +107,4 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191779
+    - t-002

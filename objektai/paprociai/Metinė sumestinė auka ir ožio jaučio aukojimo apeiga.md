@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-189768"></a>
 - t-001
-  global_id: t-189768
   teiginys: "Narbutas metinę sumestinę auką aprašo kaip metų pabaigos švenčių apeigą, per kurią keli kaimai surinkdavo gėrybių jaučiui ir ožiui pirkti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-189770"></a>
 - t-002
-  global_id: t-189770
   teiginys: "Narbutas nurodo, kad apie 1520 m. kroniką rašęs Grunau prūsų kaimiečių apeigas pasakojo kaip savo akimis matęs liudytojas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,6 @@ Nenurodyta
 
 <a id="claim-t-197261"></a>
 - t-004
-  global_id: t-197261
   teiginys: "Žinome, kad per panašias apeigas skam bėdavo lietuviška muzika."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -109,15 +106,6 @@ Nenurodyta
   pagrindžia:
     - c-179091
 
-<a id="claim-t-194626"></a>
-- t-003
-  global_id: t-194626
-  teiginys: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
@@ -140,11 +128,9 @@ Nenurodyta
     indą semia ąsotėliu arba taure.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194626
+  statusas: verified
 ## Citatos
 
 - id: c-172651
@@ -166,7 +152,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189768
+    - t-001
+
 - id: c-172653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -187,7 +174,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189770
+    - t-002
+
 - id: c-179091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -206,4 +194,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197261
+    - t-004

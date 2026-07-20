@@ -33,7 +33,6 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
 
 <a id="claim-t-200805"></a>
 - t-001
-  global_id: t-200805
   teiginys: "Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika galėjo turėti reikšmės Jogailaičių ryšiai su Niderlandais."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200805
+    - t-001

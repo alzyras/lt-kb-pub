@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202047"></a>
 - t-001
-  global_id: t-202047
   teiginys: "Kauno miestiečių pasiuntiniai turėdavo susirasti užtarėjų tarp aukštų valstybės pareigūnų ar valdovo dvaro žmonių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185394
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -74,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202047
+    - t-001

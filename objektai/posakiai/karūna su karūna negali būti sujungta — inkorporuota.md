@@ -49,7 +49,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 <a id="claim-t-36006"></a>
 - t-001
-  global_id: t-36006
   teiginys: "Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną."
   atnaujinta: "2026-05-20 21:06"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -66,7 +65,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 <a id="claim-t-36007"></a>
 - t-002
-  global_id: t-36007
   teiginys: "Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -99,20 +97,15 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
     nebegalėję būti, nes karūna su karūna negali bū­
     ti sujungta — inkorporuota^3 ).
-  citata_rodoma: |
-    Tas
-    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
-    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
-    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
-    nebegalėję būti, nes karūna su karūna negali bū­
-    ti sujungta — inkorporuota^3 ).
+  citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36006
+    - t-001
+
 - id: c-38386
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,20 +122,11 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     gerai suprato, kad laisva ir paveldima Lietuvos karalija
     būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
     išlaikant dinastijos teises savo rankose.
-  citata_rodoma: |
-    Tas
-    projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
-    tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
-    bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
-    nebegalėję būti, nes karūna su karūna negali bū­
-    ti sujungta — inkorporuota^3 ). Be to, Jogaila labai
-    gerai suprato, kad laisva ir paveldima Lietuvos karalija
-    būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
-    išlaikant dinastijos teises savo rankose.
+  citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 ). Be to, Jogaila labai\ngerai suprato, kad laisva ir paveldima Lietuvos karalija\nbūtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,\nišlaikant dinastijos teises savo rankose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36007
+    - t-002

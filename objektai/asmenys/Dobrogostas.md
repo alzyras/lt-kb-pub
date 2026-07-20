@@ -41,8 +41,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 ## Teiginiai
 
 <a id="claim-t-82253"></a>
-- t-001
-  global_id: t-82253
+- t-003
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-78741
 
 <a id="claim-t-82254"></a>
-- t-002
-  global_id: t-82254
+- t-001
   teiginys: "Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-78744
 
 <a id="claim-t-82255"></a>
-- t-003
-  global_id: t-82255
+- t-005
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +90,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-78741
 
 <a id="claim-t-82256"></a>
-- t-004
-  global_id: t-82256
+- t-002
   teiginys: "Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą tvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -111,8 +107,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-78743
 
 <a id="claim-t-82257"></a>
-- t-005
-  global_id: t-82257
+- t-004
   teiginys: "1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -168,26 +163,16 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     užuominomis, kurias aptikau Vil­
     niaus kapitulos ar Karaliauč. slapt.
     archyvo dokumentuose.
-  citata_rodoma: |
-    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
-    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
-    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
-    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
-    piežių išprašyti bulės, patvirtinančios naujo ganytojo
-    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
-    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
-    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
-    bet ir kai kuriais padavimais ar
-    užuominomis, kurias aptikau Vil­
-    niaus kapitulos ar Karaliauč.
+  citata_rodoma: "O keturi naujai įvesti prelatų ir aštuoni kanauninkų \ntitulai buvo atiduoti uoliausiems lenkų kunigams, platinan­\ntiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­\nkupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­\npiežių išprašyti bulės, patvirtinančios naujo ganytojo \nišrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat \naprūpino ją nemenkomis pajamomis: be turtingos Klodovo \nklebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam\nbet ir kai kuriais padavimais ar \nužuominomis, kurias aptikau Vil­\nniaus kapitulos ar Karaliauč."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82253
-    - t-82255
+    - t-003
+    - t-005
+
 - id: c-78742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -210,7 +195,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82257
+    - t-004
+
 - id: c-78743
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -230,7 +216,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82256
+    - t-002
+
 - id: c-78744
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -253,6 +240,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82254
+    - t-001
+
 ## Ryšiai
 - Paskyrė Dobrogostą: [[objektai/asmenys/Urbonas VI]]

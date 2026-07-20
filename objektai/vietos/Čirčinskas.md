@@ -31,7 +31,6 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 
 <a id="claim-t-86271"></a>
 - t-001
-  global_id: t-86271
   teiginys: "Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,22 +70,11 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
     diščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais -
     šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
     nui.
-  citata_rodoma: |
-    Taip pat kitus kaimus prie Teterino dvaro, išsi­
-    dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­
-    gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­
-    šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome
-    minėtam Teterino dvarui. Taip pat [dovanojame] turtą, va­
-    dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­
-    mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai
-    ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo-
-    diščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais -
-    šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
-    nui.
+  citata_rodoma: "Taip pat kitus kaimus prie Teterino dvaro, išsi­\ndėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­\ngaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­\nšyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome \nminėtam Teterino dvarui. Taip pat [dovanojame] turtą, va­\ndinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­\nmėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai \nir dvarą, vadinamą Horodišče, ir Losičius su visomis Horo- \ndiščės ir Losičių žemėmis ir, žinoma, su visais kaimiečiais - \nšios žemės kadaise priklausė Bełsko kunigaikščiui Semio­\nnui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86271
+    - t-001

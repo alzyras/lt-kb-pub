@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-39278"></a>
 - t-001
-  global_id: t-39278
   teiginys: "Rusiškas pėstininkų graižtvinis šautuvas kapsuline spyna pagamintas 1847 m. Tuloje, o 1855 m. perdarytas iš titnaginio į kapsulinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39278
+    - t-001

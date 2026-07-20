@@ -39,7 +39,6 @@ Dusburgietis teigia, kad mayhoff.
 
 <a id="claim-t-60681"></a>
 - t-001
-  global_id: t-60681
   teiginys: "C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad mayhoff.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60681
+    - t-001

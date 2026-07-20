@@ -39,7 +39,6 @@ Bubnys A.
 
 <a id="claim-t-17708"></a>
 - t-001
-  global_id: t-17708
   teiginys: "A. Bubnys parašė veikalą „Vokiečių okupuota Lietuva (1941–1944)“, išleistą Vilniuje 1998 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,12 +65,11 @@ Bubnys A.
   citata_originali: |
     Vilnius, 1996.
     Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
-  citata_rodoma: |
-    Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.
+  citata_rodoma: "Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17708
+    - t-001

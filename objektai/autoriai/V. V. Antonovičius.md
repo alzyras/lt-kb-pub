@@ -31,7 +31,6 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
 
 <a id="claim-t-31053"></a>
 - t-001
-  global_id: t-31053
   teiginys: "V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,15 +61,11 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
     vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
     bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai
     apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
-  citata_rodoma: |
-    Odesos universiteto istorikas V. V. Antono­
-    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
-    bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai
-    apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
+  citata_rodoma: "Odesos universiteto istorikas V. V. Antono­\nvičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­\nbės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai\napie Vytenį ir Gediminą buvo išversti ir lietuviškai^134."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31053
+    - t-001

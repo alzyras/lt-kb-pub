@@ -39,7 +39,6 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
 
 <a id="claim-t-35173"></a>
 - t-001
-  global_id: t-35173
   teiginys: "Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +76,11 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
     tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
     Cemblaką. Patriarcho tas metropolitas buvo iškeiktas, bet iš­
     silaikė savo soste iki mirties.
-  citata_rodoma: |
-    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
-    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
-    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
-    priešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­
-    tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
-    Cemblaką. Patriarcho tas metropolitas buvo iškeiktas, bet iš­
-    silaikė savo soste iki mirties.
+  citata_rodoma: "Vytautas tą savos metropolijos svarbą suprato labai gerai ir po\nvisokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti\nklausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho\npriešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­\ntuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį\nCemblaką. Patriarcho tas metropolitas buvo iškeiktas, bet iš­\nsilaikė savo soste iki mirties."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35173
+    - t-001

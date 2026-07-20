@@ -33,7 +33,6 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
 
 <a id="claim-t-201162"></a>
 - t-001
-  global_id: t-201162
   teiginys: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
 ## Citatos
 
 - id: c-184512
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lygia dalia antrą
     kartą rudenį sugrįžęs vos ne vos su dideliu vargu
@@ -74,4 +74,4 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201162
+    - t-001

@@ -40,8 +40,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 <a id="claim-t-87405"></a>
-- t-001
-  global_id: t-87405
+- t-002
   teiginys: "1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - c-83385
 
 <a id="claim-t-87406"></a>
-- t-002
-  global_id: t-87406
+- t-001
   teiginys: "Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 
 <a id="claim-t-87407"></a>
 - t-003
-  global_id: t-87407
   teiginys: "Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,27 +120,15 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     ir Eišiškių valdytojas, monopolis
     kaskart vis didesnę žalą daro mies­
     tui, norėjo jo privilegiją atšaukti.
-  citata_rodoma: |
-    1619 m.
-    56
-    Miesto aktuose yra: karaliaus Stepo­
-    no patvirtinimas sutarties tarp po­
-    no Martyno Paleckio ir jo žmonos,
-    dabar ponios Rainos Sluščiankos, ir
-    miesto dėl stiklo liejyklos ir stiklo su­
-    pirkimo. Buvo taip: Vilniaus vaitas
-    ir burmistrai, matydami, kad Palec­
-    kio, kuris buvo karaliaus maršalka
-    ir Eišiškių valdytojas, monopolis
-    kaskart vis didesnę žalą daro mies­
-    tui, norėjo jo privilegiją atšaukti.
+  citata_rodoma: "1619 m.\n56\nMiesto aktuose yra: karaliaus Stepo­\nno patvirtinimas sutarties tarp po­\nno Martyno Paleckio ir jo žmonos, \ndabar ponios Rainos Sluščiankos, ir \nmiesto dėl stiklo liejyklos ir stiklo su­\npirkimo. Buvo taip: Vilniaus vaitas \nir burmistrai, matydami, kad Palec­\nkio, kuris buvo karaliaus maršalka \nir Eišiškių valdytojas, monopolis \nkaskart vis didesnę žalą daro mies­\ntui, norėjo jo privilegiją atšaukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87407
+    - t-003
+
 - id: c-83385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,7 +159,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87405
+    - t-002
+
 - id: c-83386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -192,23 +178,11 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
     32 33
     Žr. III priedą.
-  citata_rodoma: |
-    Taip pat, kad miesto
-    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
-    dienius darbininkus, visiems padienininkams nuo tol nu­
-    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
-    vyzdžiu.
-    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
-    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
-    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
-    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
-    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
-    32 33
-    Žr.
+  citata_rodoma: "Taip pat, kad miesto \ngyventojai savo reikmėms galėtų lengviau pasisamdyti pa­\ndienius darbininkus, visiems padienininkams nuo tol nu­\nrodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­\nvyzdžiu.\nTais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­\nlo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus \nišradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­\nšalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­\ntinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-\n32 33\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87406
+    - t-001

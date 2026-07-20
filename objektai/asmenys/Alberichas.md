@@ -39,7 +39,6 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
 
 <a id="claim-t-191934"></a>
 - t-001
-  global_id: t-191934
   teiginys: "Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kuršą, Letoniją, Vitlandiją ir Sembą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191934
+    - t-001

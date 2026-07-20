@@ -31,8 +31,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Teiginiai
 
 <a id="claim-t-63618"></a>
-- t-001
-  global_id: t-63618
+- t-003
   teiginys: "Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
 <a id="claim-t-63619"></a>
 - t-002
-  global_id: t-63619
   teiginys: "Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,17 +76,15 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
     kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
     mesniems žygiams.
-  citata_rodoma: |
-    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
-    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams.
+  citata_rodoma: "To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­\nkas. Vytautą rado jis Rittersverdery, berengiantį planus toli­\nmesniems žygiams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63619
+    - t-002
+
 - id: c-36319
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -102,17 +98,11 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
 
     (^1) ) Tuo klausimu žiur.
-  citata_rodoma: |
-    Būdamas Jogailos pasiuntinys, pasiūlė jis
-    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
-    Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
-    simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
-
-    (^1) ) Tuo klausimu žiur.
+  citata_rodoma: "Būdamas Jogailos pasiuntinys, pasiūlė jis\nsavo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti\nLietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų\nsimpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir\n\n(^1) ) Tuo klausimu žiur."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63618
+    - t-003

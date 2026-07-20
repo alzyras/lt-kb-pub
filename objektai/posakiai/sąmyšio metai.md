@@ -40,7 +40,6 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 
 <a id="claim-t-31571"></a>
 - t-001
-  global_id: t-31571
   teiginys: "„Sąmyšio metai“ (1604–1612) neturėjo reikšmingesnių atliepimų tarptautinio svorio netenkančioje Abiejų Tautų Respublikoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,17 +69,11 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
     pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
     mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
     «abiejų tautų » respublikoje.
-  citata_rodoma: |
-    Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
-    garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
-    Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
-    pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
-    mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
-    «abiejų tautų » respublikoje.
+  citata_rodoma: "Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei\ngarsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per\nDimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—\npagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­\nmingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje\n«abiejų tautų » respublikoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31571
+    - t-001

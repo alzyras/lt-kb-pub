@@ -31,7 +31,6 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 
 <a id="claim-t-72087"></a>
 - t-001
-  global_id: t-72087
   teiginys: "Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72087
+    - t-001

@@ -39,7 +39,6 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 
 <a id="claim-t-78067"></a>
 - t-001
-  global_id: t-78067
   teiginys: "Mikalojaus Husoviano 1523 m. išleista poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,16 +76,11 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
     renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
     mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
     laikus parodyti kaip idealą savo laikų visuomenei.
-  citata_rodoma: |
-    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
-    mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
-    renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
-    mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
-    laikus parodyti kaip idealą savo laikų visuomenei.
+  citata_rodoma: "Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-\nmavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras \nrenesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-\nmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto \nlaikus parodyti kaip idealą savo laikų visuomenei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78067
+    - t-001

@@ -38,7 +38,6 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 
 <a id="claim-t-78141"></a>
 - t-001
-  global_id: t-78141
   teiginys: "1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,17 +68,11 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
     žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
     Lietuvos istorijai iki Liublino unijos.
-  citata_rodoma: |
-    likviduojama Uni-
-    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-    Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
-    kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
-    žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
-    Lietuvos istorijai iki Liublino unijos.
+  citata_rodoma: "likviduojama Uni-\ntų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas. \nDar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų \nkalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-\nžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos \nLietuvos istorijai iki Liublino unijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78141
+    - t-001

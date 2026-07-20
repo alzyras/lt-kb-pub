@@ -14,11 +14,11 @@ datos:
   - '1551 m.'
 date_start: '1468'
 date_end: '1551'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
 
 <a id="claim-t-201765"></a>
 - t-001
-  global_id: t-201765
   teiginys: "Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstanti beveik nuolatiniu mokesčiu."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
 
 <a id="claim-t-201766"></a>
 - t-002
-  global_id: t-201766
   teiginys: "Panašus sidabrinės sąrašas, tik išsamesnis, su daugiau miestų, buvo sudarytas 1551 m. Pagal jį Vilniui buvo skirta 500 kapų grašių norma."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,7 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201765
+    - t-001
 
 - id: c-185113
   autorius: "Zigmantas Kiaupa"
@@ -103,4 +101,4 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201766
+    - t-002

@@ -39,7 +39,6 @@ Zajączkowski, St.
 
 <a id="claim-t-31928"></a>
 - t-001
-  global_id: t-31928
   teiginys: "St. Zajączkowskio „Przymierze polsko-litewskie 1325 r.“ paskelbta 1926 m. „Kwartalnik Historyczny“ 40 tome, 567-617 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,19 +55,15 @@ Zajączkowski, St.
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    — Zajączkowski,
+    Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
-    Lwów 1929 (daug apie 1325 m.
-  citata_rodoma: |
-    — Zajączkowski,
-    St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —
-    (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
-    Lwów 1929 (daug apie 1325 m.
+    Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
+  citata_rodoma: "— Zajączkowski,\nSt. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —\n(”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_\nLwów 1929 (daug apie 1325 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31928
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-78050"></a>
 - t-001
-  global_id: t-78050
   teiginys: "Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,17 +72,11 @@ media_all_json: |-
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
     tuvos emigrantai arba kilusios iš jų šeimų.
-  citata_rodoma: |
-    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
-    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
-    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
-    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
-    (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
-    tuvos emigrantai arba kilusios iš jų šeimų.
+  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria \nne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-\ntas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), \no juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson \n(Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-\ntuvos emigrantai arba kilusios iš jų šeimų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78050
+    - t-001

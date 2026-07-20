@@ -8,16 +8,16 @@ datos:
   - '1280 m.'
 date_start: '1280'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - mokslininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,9 +43,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 
 ## Teiginiai
 
-<a id="claim-t-56969"></a>
-- t-001
-  global_id: t-56969
+<a id="claim-t-56968"></a>
+- t-003
   teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 
 <a id="claim-t-56970"></a>
 - t-002
-  global_id: t-56970
   teiginys: "Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-57669
 
 <a id="claim-t-194472"></a>
-- t-003
-  global_id: t-194472
+- t-005
   teiginys: "Apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-57669
 
 <a id="claim-t-194908"></a>
-- t-004
-  global_id: t-194908
+- t-006
   teiginys: "Tai nugirdęs kronikininkas Vitechindas3, savo ruož tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku mu, rašo apie makedonus, po Aleksandro Didžiojo mirties atvykusius į prūsų kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -112,7 +108,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 
 <a id="claim-t-194909"></a>
 - t-007
-  global_id: t-194909
   teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -122,34 +117,10 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177305
-    - c-003
+    - c-179299
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    207
-    Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
-    išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
-    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
-    nijos karalystės valdžios galybė, padažnėjo grobikiškų
-    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
-    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
-    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
-    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
-    giančios jų valdžios įtakos; netgi esama nedidelių dings­
-    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194909
 ## Citatos
 
 - id: c-57669
@@ -170,9 +141,10 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56969
-    - t-56970
-    - t-194472
+    - t-003
+    - t-002
+    - t-005
+
 - id: c-177304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -194,39 +166,13 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194908
+    - t-006
+
 - id: c-177305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Mirus
-    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
-    nijos karalystės valdžios galybė, padažnėjo grobikiškų
-    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
-    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
-    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
-    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
-    giančios jų valdžios įtakos; netgi esama nedidelių dings­
-    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
-    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
-    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
-    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
-    ninkai (§63). Visa tai įtikina, jog gelonai atskirai ir sa­
-    varankiškai rengė tolimus žygius, o jų naudos suvilioti
-    tęsė juos gana ilgus metus. Mes žinome iš Romos impe­
-    rijos istorijos, kad 21 metais prieš Kristaus gimimą, kai
-    Oktaviano Augusto valdomo ginklo šlovė sušvito Rytuose,
-    partų karalius Fraatas grąžino anksčiau iš Rraso atimtus
-    romėnų erelius, o Augusto posūnis Tiberijus, surengęs
-    laimingą žygį į Armėniją, grąžino jos sostą Tigranui; ki­
-    tas karvedys — Germanuos prokonsulas Lentulas — tais
-    pačiais metais kažkur prie Dunojaus sumušė grobikiškus
-    būrius gelonų, kariavusių nepriklausomai nei nuo alanų,
-    nei nuo .sarmatų, Vėliau romėnai sudarė su gelonais tai­
-    kos sutartį, ir atsirado abipusė sąjunga, įpareigojusi ge-
-    1 Ammian Marcelin.
-  citata_rodoma: |
     207
     Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
     išnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus
@@ -239,13 +185,15 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     giančios jų valdžios įtakos; netgi esama nedidelių dings­
     čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
     tus.
+  citata_rodoma: "207\nVėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar\nišnirdavo kai kurių faktų, susijusių su mūsų tema. Mirus\nAleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­\nnijos karalystės valdžios galybė, padažnėjo grobikiškų\nžygių įvairių agresyvių tautų, besiskverbiančių vis toliau\nį pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­\nniąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai\nliko kairiojoje Dnepro pakrantėje savarankiški, be sle­\ngiančios jų valdžios įtakos; netgi esama nedidelių dings­\nčių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­\ntus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194909
+    - t-007
+
 - id: c-179299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -266,10 +214,11 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     ninkai (§63).
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]

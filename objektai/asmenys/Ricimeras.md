@@ -31,7 +31,6 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 
 <a id="claim-t-191311"></a>
 - t-001
-  global_id: t-191311
   teiginys: "Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,10 +51,9 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174193
-    - c-001
+
 <a id="claim-t-191975"></a>
 - t-002
-  global_id: t-191975
   teiginys: "Narbutas pasakoja, kad Ricimeras, atsikratęs Majorijano, neteko vieningos imperijos valdžios ir imperijos vadovu iškėlė Severą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 
 <a id="claim-t-197811"></a>
 - t-003
-  global_id: t-197811
   teiginys: "Imperatoriaus sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su darė beveik vien Italija, vadovu Severą ir šaukėsi pa galbos iš Konstantinopolio."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191311
+
 ## Citatos
 
 - id: c-174193
@@ -138,24 +134,15 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     Su jais atvyko Orestas ir Eduka; pirmasis vadovavo miš­
     riai germanų kariuomenei, antrasis atėjo iš Noriko su
     herulais ir jų sąjungininkais, t. y. rugiais ir turcilingais.
-  citata_rodoma: |
-    Einanti savo politinio gyvenimo saulė­
-    lydžio link galinga Cezarių valstybė 457 metais, kai
-    aukščiausias svebų samdytas karvedys Ricimeras, pa­
-    ėmęs valdžią į savo rankas, pademonstravo ypatingą
-    silpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs
-    Avitas, kurį po Genseriko užpuolimo visigotai išrinko
-    imperatoriumi. Jis, Ricimerui įsakius, atsisakė savo aukš­
-    to posto. Vietoj jo purpurais buvo padabintas Majorija-
-    nas, kuris būtų buvęs vienas garbingiausių monarchų,
-    jei būtų valdęs ne tuo apverktinu žlugimo metu.
+  citata_rodoma: "Einanti savo politinio gyvenimo saulė­\nlydžio link galinga Cezarių valstybė 457 metais, kai\naukščiausias svebų samdytas karvedys Ricimeras, pa­\nėmęs valdžią į savo rankas, pademonstravo ypatingą\nsilpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs\nAvitas, kurį po Genseriko užpuolimo visigotai išrinko\nimperatoriumi. Jis, Ricimerui įsakius, atsisakė savo aukš­\nto posto. Vietoj jo purpurais buvo padabintas Majorija-\nnas, kuris būtų buvęs vienas garbingiausių monarchų,\njei būtų valdęs ne tuo apverktinu žlugimo metu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191311
+    - t-001
+
 - id: c-174857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -177,5 +164,5 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191975
-    - t-197811
+    - t-002
+    - t-003

@@ -41,7 +41,6 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 
 <a id="claim-t-77827"></a>
 - t-001
-  global_id: t-77827
   teiginys: "Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,16 +71,11 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
     1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
     „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
     ministerija), 2001; Lietuva, 1991 sausio 13.
-  citata_rodoma: |
-    Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono
-    valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918–
-    1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
-    „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
-    ministerija), 2001; Lietuva, 1991 sausio 13.
+  citata_rodoma: "Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono \nvalstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918–\n1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio \n„Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų \nministerija), 2001; Lietuva, 1991 sausio 13."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77827
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-77807"></a>
 - t-001
-  global_id: t-77807
   teiginys: "Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77807
+    - t-001

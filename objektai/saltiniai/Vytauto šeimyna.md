@@ -37,7 +37,6 @@ Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1
 
 <a id="claim-t-31978"></a>
 - t-001
-  global_id: t-31978
   teiginys: "Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1933 m. „Praeities“ 2 tomo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1
     (Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­
     minas, Jadvyga ir kt.) Lietuviškoje Enciklopedijoje (Kaune) rodė
     jo gilią erudiciją.
-  citata_rodoma: |
-    Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
-    iš Praeities 2, 1933). Labai ilgi straipsniai iš Lietuvos istorijos
-    (Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­
-    minas, Jadvyga ir kt.
+  citata_rodoma: "Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.\niš Praeities 2, 1933). Labai ilgi straipsniai iš Lietuvos istorijos\n(Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­\nminas, Jadvyga ir kt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31978
+    - t-001

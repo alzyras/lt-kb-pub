@@ -51,7 +51,6 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
 
 <a id="claim-t-195415"></a>
 - t-001
-  global_id: t-195415
   teiginys: "Vietoje „laimingą rasą“ giedojime sakydavo „dovanok mums gerą orą“."
   atnaujinta: "2026-07-12 02:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -68,22 +67,12 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
   puslapiai: "p. 23 (PDF 21)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 23 (PDF 21)."
   citata_originali: |
-    Va jos turinys:
-    Pone Karaliau, Dieve Abraomo,
-    Dovanok mums laimingą rasą,
-    Idant pažintų žmonės Tave,
-    Jog tu esi Ponas Dievas mūsų,
-    O ne rūstaukis ant mūsų.
-    Susimilk ant mūsų, susimilk ant mūsų,
-    Susimilk ant sutvėrimo savo!
-    Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimin­
-    gą rasą“ sako „dovanok mums gerą orą“ .
-  citata_rodoma: |
     Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimingą rasą“ sako „dovanok mums gerą orą“ .
+  citata_rodoma: "Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimingą rasą“ sako „dovanok mums gerą orą“ ."
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195415
+    - t-001

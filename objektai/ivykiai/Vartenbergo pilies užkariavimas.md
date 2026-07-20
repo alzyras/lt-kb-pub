@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-62522"></a>
 - t-001
-  global_id: t-62522
   teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -78,18 +77,11 @@ Nenurodyta
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
     kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
     brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
-  citata_rodoma: |
-    Apie Vartenbergo pilies užkariavimą
-
-      Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų
-    persekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar
-    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
-    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
-    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
+  citata_rodoma: "Apie Vartenbergo pilies užkariavimą\n\n  Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų\npersekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar\ndidesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,\nkuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du\nbrolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62522
+    - t-001

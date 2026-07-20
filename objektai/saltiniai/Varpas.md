@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78120"></a>
-- t-001
-  global_id: t-78120
+- t-002
   teiginys: "1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-75428
 
 <a id="claim-t-78121"></a>
-- t-002
-  global_id: t-78121
+- t-001
   teiginys: "„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78121
+    - t-001
+
 - id: c-75428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,16 +119,11 @@ media_all_json: |-
     Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
     tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
     1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: |
-    Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
-    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
-    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
-    1902 m. „Varpą“ leidusios organizacijos pagrindu.
+  citata_rodoma: "Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą \ncaro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.\nBene rimčiausias krikščionių demokratų konkurentas etninių lietuvių \ntautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi \n1902 m. „Varpą“ leidusios organizacijos pagrindu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78120
+    - t-002

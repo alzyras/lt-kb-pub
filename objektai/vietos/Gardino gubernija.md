@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-101721"></a>
-- t-001
-  global_id: t-101721
+- t-005
   teiginys: "1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-101723"></a>
 - t-002
-  global_id: t-101723
   teiginys: "Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-24126
 
 <a id="claim-t-101724"></a>
-- t-003
-  global_id: t-101724
+- t-001
   teiginys: "1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -98,7 +95,6 @@ media_all_json: |-
 
 <a id="claim-t-101725"></a>
 - t-004
-  global_id: t-101725
   teiginys: "1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -116,18 +112,6 @@ media_all_json: |-
   pagrindžia:
     - c-95150
 
-<a id="claim-t-188698"></a>
-- t-005
-  global_id: t-188698
-  teiginys: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Istorinės Lietuvos apibrėžimas paliktas su Narbuto atribucija kaip interpretacinis teiginys. Nepridėta „litvinų“ apibūdinimo, nes vietos objektui pakanka gubernijų sąsajos.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: 'Gardino gubernija priklausė Lietuva'
-  pagrindžia:
-    - c-004
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
@@ -143,11 +127,9 @@ media_all_json: |-
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188698
+  statusas: verified
 ## Citatos
 
 - id: c-24125
@@ -162,17 +144,15 @@ media_all_json: |-
     nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: |
-    1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
-    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
-    dėjusiai veikti generalgubernatoriaus institucijai.
+  citata_rodoma: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos \nGardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-\ndėjusiai veikti generalgubernatoriaus institucijai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101724
+    - t-001
+
 - id: c-24126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,17 +166,15 @@ media_all_json: |-
     Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
     istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
     bernijos šiaurinis pakraštys.
-  citata_rodoma: |
-    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
-    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
-    bernijos šiaurinis pakraštys.
+  citata_rodoma: "Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, \nistoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-\nbernijos šiaurinis pakraštys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101723
+    - t-002
+
 - id: c-95150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,18 +191,12 @@ media_all_json: |-
     joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
-  citata_rodoma: |
-    1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies
-    apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-
-    skirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-
-    joms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-
-    berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
-    Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
+  citata_rodoma: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies \napskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos pri-\nskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino guberni-\njoms, todėl caro valdžia etnografiškai lietuviška ėmė laikyti tik Kauno gu-\nberniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje \nVilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101721
-    - t-101725
+    - t-005
+    - t-004

@@ -50,7 +50,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 
 <a id="claim-t-55252"></a>
 - t-001
-  global_id: t-55252
   teiginys: "Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, veikė energingiau ir teikė karaliaus iždui nemaža pajamų."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::places"
@@ -67,7 +66,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 
 <a id="claim-t-55253"></a>
 - t-002
-  global_id: t-55253
   teiginys: "Lietuvos Metrikos žinioje nurodyta, kad Vilniaus monetų kalykla per ketverius metus davė valdovui 60 920 auksinų pajamų."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::places"
@@ -84,7 +82,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 
 <a id="claim-t-85154"></a>
 - t-003
-  global_id: t-85154
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::places"
@@ -128,7 +125,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55252
+    - t-001
+
 - id: c-55854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +152,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55253
+    - t-002
+
 - id: c-81228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -176,4 +175,4 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85154
+    - t-003

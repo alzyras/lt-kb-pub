@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-194311"></a>
 - t-001
-  global_id: t-194311
   teiginys: "Paveldėtojų parduodamų Svečių na mų pardavimo kopija: Vilniaus ar klininko Mykolo Grigaravičiaus VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai vams."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194311
+    - t-001

@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-89407"></a>
 - t-001
-  global_id: t-89407
   teiginys: "1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-89408"></a>
 - t-002
-  global_id: t-89408
   teiginys: ") Ordino valdas pavyslyje iki Kristburgo (III, 192)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -116,5 +114,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89407
-    - t-89408
+    - t-001
+    - t-002

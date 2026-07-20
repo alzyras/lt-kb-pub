@@ -31,7 +31,6 @@ Tai buvo vergai.
 
 <a id="claim-t-03214"></a>
 - t-001
-  global_id: t-03214
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Tai buvo vergai.
 
 <a id="claim-t-182989"></a>
 - t-002
-  global_id: t-182989
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,5 +76,5 @@ Tai buvo vergai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03214
-    - t-182989
+    - t-001
+    - t-002

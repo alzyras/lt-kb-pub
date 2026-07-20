@@ -38,7 +38,6 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
 
 <a id="claim-t-31629"></a>
 - t-001
-  global_id: t-31629
   teiginys: "„Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
     « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »
     (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo
     Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
-  citata_rodoma: |
-    Tai buvo, šaltiniais paremta studijėlė,
-    « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »
-    (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo
-    Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
+  citata_rodoma: "Tai buvo, šaltiniais paremta studijėlė,\n« Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »\n(atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo\nČekijos politika Venceliui mirus » (atsp. iš Židinio 1930)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31629
+    - t-001

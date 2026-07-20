@@ -9,14 +9,14 @@ datos:
   - '1646 m.'
 date_start: '1539'
 date_end: '1646'
+amziai:
+  - 'XVI'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - organizacija
   - grupe
-amziai:
-  - 'XVI'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,8 +49,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 ## Teiginiai
 
 <a id="claim-t-54837"></a>
-- t-001
-  global_id: t-54837
+- t-003
   teiginys: "Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::groups"
@@ -70,8 +69,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - c-55859
 
 <a id="claim-t-54838"></a>
-- t-002
-  global_id: t-54838
+- t-001
   teiginys: "1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::groups"
@@ -90,8 +88,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - c-55859
 
 <a id="claim-t-54839"></a>
-- t-003
-  global_id: t-54839
+- t-002
   teiginys: "Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::groups"
@@ -113,12 +110,9 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - susijęs iš Inocento X patvirtinimas dėl Vilniaus arkikonfratrijos: Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.
 - susijęs iš Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai: Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.
 - susijęs iš [[objektai/zodynas/arkibrolija arkikonfratrija.md#claim-t-86582|arkibrolija arkikonfratrija]]: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.
-## Citatos
-
-- id: c-55859
-  autorius: "Michał Baliński"
-  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išlikę
     dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais
@@ -131,7 +125,21 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
     piežius Inocentas X irgi patvirtino.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-001
+
+## Citatos
+
+- id: c-55859
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
     1539 metais
     kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-
     jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib-
@@ -142,12 +150,13 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-
     piežius Inocentas X irgi patvirtino.
+  citata_rodoma: "1539 metais \nkardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-\njonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib- \nrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au-\ngustui, buvo funduota arkikonfratrija ir tais pačiais metais \nlapkričio 27 dieną to paties vyskupo surengtas iškilmingas \nįvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539 \nmetų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-\nfratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-\npiežius Inocentas X irgi patvirtino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54837
-    - t-54838
-    - t-54839
+    - t-003
+    - t-001
+    - t-002

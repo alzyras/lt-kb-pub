@@ -31,7 +31,6 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
 
 <a id="claim-t-74025"></a>
 - t-001
-  global_id: t-74025
   teiginys: "Jėzuitai steigė vidurines mokyklas, vadintas kolegijomis, o stambesniuose centruose kūrė universitetams prilygusias akademijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Visur, kur tik leido valdžia, jie ėmė steigti savo mokyklas, pradėdami nuo v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74025
+    - t-001

@@ -7,12 +7,12 @@ datos:
   - '1974 m.'
 date_start: '1974'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad potkowski E.
 
 <a id="claim-t-61237"></a>
 - t-001
-  global_id: t-61237
   teiginys: "E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad potkowski E.
   temporalinis_llm_pakomentavimas: "Citata palaiko autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61869
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Potkowski E. Rycerze w habitach.— Warszawa, 1974.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61237
+
 ## Citatos
 
 - id: c-61869
@@ -74,14 +60,12 @@ Dusburgietis teigia, kad potkowski E.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Toppen M Einleitung.—SRP, 1, S. 3—20.
-    Toeppen M. Historisch-comparative Geographie von Preussen.
-  citata_rodoma: |
     Potkowski E. Rycerze w habitach.— Warszawa, 1974.
+  citata_rodoma: "Potkowski E. Rycerze w habitach.— Warszawa, 1974."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61237
+    - t-001

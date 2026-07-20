@@ -49,26 +49,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189754"></a>
-- t-001
-  global_id: t-189754
-  teiginys: 'Vilniaus Perkūno šventyklos aukuro aprašymas vertime papildytas žodžiais apie aukuro viršaus aptvėrimą briedžių ragais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas objektas ir pašalintas OCR bei redakcinis triukšmas. Nepridėta daugiau datų ar vertimo istorijos, nes teiginiui pakanka citatos dalies apie aukurą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-172637
-
-## Citatos
-
-- id: c-172637
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Vilniaus Perkūno šventyklos aukuro aprašymas vertime papildytas žodžiais apie aukuro viršaus aptvėrimą briedžių ragais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Palyginti su 1817 metų tekstu, šio verti­
     509
@@ -87,10 +72,8 @@ Nenurodyta
     jimų aukuro viršaus aptvėrimą briedžių ragais). Sia­
     me vertime pateikiami ir kitokie negu 1817 metų
     vertime šventyklos matmenys.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189754
+  statusas: verified

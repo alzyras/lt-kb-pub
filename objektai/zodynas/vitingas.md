@@ -32,7 +32,6 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 
 <a id="claim-t-192270"></a>
 - t-001
-  global_id: t-192270
   teiginys: "Vitingais buvo vadinami senųjų prūsų bajorai, pasidavę ordinui ir jam tarnavę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -51,8 +50,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175097
 
 <a id="claim-t-192271"></a>
-- t-002
-  global_id: t-192271
+- t-003
   teiginys: "Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -68,10 +66,9 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175099
-    - c-003
+
 <a id="claim-t-192272"></a>
-- t-003
-  global_id: t-192272
+- t-002
   teiginys: "Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -87,10 +84,9 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175099
-    - c-003
+
 <a id="claim-t-192273"></a>
-- t-004
-  global_id: t-192273
+- t-006
   teiginys: "Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -110,7 +106,6 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 
 <a id="claim-t-192274"></a>
 - t-005
-  global_id: t-192274
   teiginys: "Teodoras Narbutas rašo, kad iš vitingų buvo renkamas vyriausias karvedys."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -129,8 +124,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175098
 
 <a id="claim-t-192275"></a>
-- t-006
-  global_id: t-192275
+- t-004
   teiginys: "Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -168,9 +162,8 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192271
-    - t-192272
+- t-192272
+
 ## Citatos
 
 - id: c-175097
@@ -184,20 +177,15 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
     tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
     krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.
-  citata_rodoma: |
-    Kitas aukštesnysis luo-
-    mas buvo atėjūnai vokiečiai bajorai, kurie čia gavo
-    dvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe
-    buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
-    tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
-    krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.
+  citata_rodoma: "Kitas aukštesnysis luo-\nmas buvo atėjūnai vokiečiai bajorai, kurie čia gavo\ndvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe\nbuvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam\ntarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-\nkrausčiusių vokiečių riterių, kai kurie įstodavo į ordiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192270
+    - t-001
+
 - id: c-175098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -209,19 +197,17 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-
     laueri.
-  citata_rodoma: |
-    Prireikus jie vadovavo ginkluotiems žmo­
-    nėms, be to, iš jų buvo renkamas vyriausias karvedys,
-    kuriuo pastaruoju laiku buvo vitingas Glaudė.
+  citata_rodoma: "Prireikus jie vadovavo ginkluotiems žmo­\nnėms, be to, iš jų buvo renkamas vyriausias karvedys,\nkuriuo pastaruoju laiku buvo vitingas Glaudė."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192273
-    - t-192274
-    - t-192275
+    - t-006
+    - t-005
+    - t-004
+
 - id: c-175099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -244,20 +230,12 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     tik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­
     lonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo
     jiems žiauriai žudyti lietuvių tautą.
-  citata_rodoma: |
-    Kaip savo valdų ponai ir turtingiausi krašto savininkai, jie
-    vadinami bajorais ir, kaip anų skandinavų, vadinamų vi­
-    kingais, vitingais, įpėdiniai, išsaugojo šį titulą, nors ir
-    priėmė jiems priklausančių sembų tautybę. Sis aiškini­
-    mas labiausiai tikėtinas, nes viena bajorų kasta, buvusi
-    tik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­
-    lonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo
-    jiems žiauriai žudyti lietuvių tautą.
+  citata_rodoma: "Kaip savo valdų ponai ir turtingiausi krašto savininkai, jie\nvadinami bajorais ir, kaip anų skandinavų, vadinamų vi­\nkingais, vitingais, įpėdiniai, išsaugojo šį titulą, nors ir\npriėmė jiems priklausančių sembų tautybę. Sis aiškini­\nmas labiausiai tikėtinas, nes viena bajorų kasta, buvusi\ntik Sambijoje ir vadinta Withingen, pelnė kryžiuočių ma­\nlonę, pirmiausia parsidavė vokiečiams ir visuomet padėjo\njiems žiauriai žudyti lietuvių tautą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192271
-    - t-192272
+    - t-003
+    - t-002

@@ -36,7 +36,6 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
 
 <a id="claim-t-201417"></a>
 - t-001
-  global_id: t-201417
   teiginys: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,9 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
 ## Citatos
 
 - id: c-184767
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kujavos, į Kul-
     m iją .
@@ -68,4 +68,4 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201417
+    - t-001

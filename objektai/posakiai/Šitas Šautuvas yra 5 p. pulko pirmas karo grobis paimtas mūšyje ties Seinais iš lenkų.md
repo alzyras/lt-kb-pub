@@ -37,7 +37,6 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 
 <a id="claim-t-41480"></a>
 - t-001
-  global_id: t-41480
   teiginys: "Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
     telkta 11 batalionų (apie 7 000 karių bei apie
     100 kulkosvaidžių), 3 baterijos (12 artilerijos
     pabūklų) ir 1 raitininkų eskadronas.
-  citata_rodoma: |
-    Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p. pulko pirmas
-
-    karo grobis paimtas mūšyje ties Seinais iš lenkų“
-
-    Rengiantis 1920 m.
+  citata_rodoma: "Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p. pulko pirmas\n\nkaro grobis paimtas mūšyje ties Seinais iš lenkų“\n\nRengiantis 1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41480
+    - t-001

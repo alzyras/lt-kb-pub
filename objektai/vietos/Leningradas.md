@@ -39,7 +39,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 
 <a id="claim-t-99931"></a>
 - t-001
-  global_id: t-99931
   teiginys: "1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 
 <a id="claim-t-184391"></a>
 - t-002
-  global_id: t-184391
   teiginys: "1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -110,19 +108,15 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     das 1949.
     GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
     knjazej XIV-XVI vv.
-  citata_rodoma: |
-    Kozlovskij, Kijevas 1868.
-    GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-
-    das 1949.
-    GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
-    knjazej XIV-XVI vv.
+  citata_rodoma: "Kozlovskij, Kijevas 1868.\nGrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-\ndas 1949.\nGrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych\nknjazej XIV-XVI vv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99931
+    - t-001
+
 - id: c-167759
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -138,4 +132,4 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184391
+    - t-002

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20518"></a>
 - t-001
-  global_id: t-20518
   teiginys: "Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,12 +90,11 @@ Nenurodyta
     bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
-  citata_rodoma: |
-    bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
+  citata_rodoma: "bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20518
+    - t-001

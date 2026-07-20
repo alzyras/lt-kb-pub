@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-08478"></a>
 - t-001
-  global_id: t-08478
   teiginys: "Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu."
   atnaujinta: "2026-05-31 12:44"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08478
+    - t-001

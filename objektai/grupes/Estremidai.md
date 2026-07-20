@@ -31,7 +31,6 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
 
 <a id="claim-t-192980"></a>
 - t-001
-  global_id: t-192980
   teiginys: "Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo Šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,34 +48,7 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175750
-    - c-001
 - susijęs iš [[objektai/asmenys/Hamilkaras.md#claim-t-191276|Hamilkaras]]: Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo Šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Krašte, kurio sostinė buvo šis miestas,
-    gyveno labiausiai klestėjusi prekyboje, sumani, turtinga,
-    vaišinga senovės Ispanijos gentis. Ten atplaukdavo net
-    drąsių šiaurinių jūrų keliautojų laivų, ypač estremidų;
-    taip seni ¡geografai vadina ¡pakrančių gyventojus, įsikūru­
-    sius nuo šiandienio šv. Vincento kyšulio iki Vakarų
-    Prancūzijos ir Pietų Anglijos krantų, nes šis jūros ¡są­
-    156
-
-    ## Puslapis 154
-
-    siauris buvo vadinamas Estremida; šie žmonės atgaben­
-    davo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo
-    turbūt iš Baltijos jūros gotų gentis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192980
 ## Citatos
 
 - id: c-175750
@@ -84,19 +56,6 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Plečiantis prekybai ir didėjant
-    kartaĮginiečių galybei, nebuvo apsiribojama vien šia pre­
-    kyba, keičiantis antrų ar trečių rankų pristatytomis šiau­
-    rinių kraštų brangenybėmis. Buvo nutarta patiems daryti
-    atradimus tolimose Vakarų pasaulio pakrantėse. Dėl to
-    apie 450 metus prieš Kristaus gimimą iš Kartaginos buvo
-    išsiųsti už Heraklio stulpų du puikūs keliautojai: vienas
-    jų, Hanonas, su daugybe laivų, prikrautų įvairiausių reik­
-    menų, pasuko į pietus ir palei Afrikos krantus nuplaukė
-    net iki Bajadoro kyšulio. Šio žygio mums nereikšmingas
-    smulkmenas praleisime. Antras keliautojas, kurio pavardė
-    Hamilkaras, su antru žygio būriu išvyko į šiaurę.
-  citata_rodoma: |
     Krašte, kurio sostinė buvo šis miestas,
     gyveno labiausiai klestėjusi prekyboje, sumani, turtinga,
     vaišinga senovės Ispanijos gentis. Ten atplaukdavo net
@@ -111,10 +70,11 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
     siauris buvo vadinamas Estremida; šie žmonės atgaben­
     davo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo
     turbūt iš Baltijos jūros gotų gentis.
+  citata_rodoma: "Krašte, kurio sostinė buvo šis miestas,\ngyveno labiausiai klestėjusi prekyboje, sumani, turtinga,\nvaišinga senovės Ispanijos gentis. Ten atplaukdavo net\ndrąsių šiaurinių jūrų keliautojų laivų, ypač estremidų;\ntaip seni ¡geografai vadina ¡pakrančių gyventojus, įsikūru­\nsius nuo šiandienio šv. Vincento kyšulio iki Vakarų\nPrancūzijos ir Pietų Anglijos krantų, nes šis jūros ¡są­\n156\n\n## Puslapis 154\n\nsiauris buvo vadinamas Estremida; šie žmonės atgaben­\ndavo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo\nturbūt iš Baltijos jūros gotų gentis."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192980
+    - t-001

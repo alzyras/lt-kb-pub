@@ -40,7 +40,6 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
 
 <a id="claim-t-34716"></a>
 - t-001
-  global_id: t-34716
   teiginys: "1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34716
+    - t-001

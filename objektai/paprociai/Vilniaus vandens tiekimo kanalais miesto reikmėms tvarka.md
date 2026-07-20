@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87310"></a>
 - t-001
-  global_id: t-87310
   teiginys: "Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,4 +202,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87310
+    - t-001

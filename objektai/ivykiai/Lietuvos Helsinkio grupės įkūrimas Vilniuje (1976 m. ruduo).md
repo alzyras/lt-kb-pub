@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75140"></a>
-- t-001
-  global_id: t-75140
+- t-003
   teiginys: "1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-73045
 
 <a id="claim-t-75141"></a>
-- t-002
-  global_id: t-75141
+- t-001
   teiginys: "1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-73045
 
 <a id="claim-t-193572"></a>
-- t-003
-  global_id: t-193572
+- t-004
   teiginys: "Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -134,8 +131,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75140
-    - t-75141
+    - t-003
+    - t-001
+
 - id: c-176249
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193572
+    - t-004

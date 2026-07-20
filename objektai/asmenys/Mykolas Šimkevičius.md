@@ -28,7 +28,6 @@ Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysi
 
 <a id="claim-t-202114"></a>
 - t-001
-  global_id: t-202114
   teiginys: "Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysis) burmistras Mykolas Šimkevičius, tarėjas Povilas Bivilis ir bendruomenės prisiekusieji."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202114
+    - t-001

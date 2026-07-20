@@ -31,7 +31,6 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
 
 <a id="claim-t-192873"></a>
 - t-001
-  global_id: t-192873
   teiginys: "Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankstyvų gyvenviečių prie Dnestro ir Dnepro žiočių vėliau tapo turtingos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192873
+    - t-001

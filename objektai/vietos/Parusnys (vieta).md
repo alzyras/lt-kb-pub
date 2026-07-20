@@ -39,7 +39,6 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
 
 <a id="claim-t-201129"></a>
 - t-001
-  global_id: t-201129
   teiginys: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
 ## Citatos
 
 - id: c-184479
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nemintąs Erikas, viešpats danų, re­
     gėdamas tokias neteisybes, vokyčių daromas per­
@@ -76,4 +76,4 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201129
+    - t-001

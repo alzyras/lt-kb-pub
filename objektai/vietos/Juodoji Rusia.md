@@ -40,7 +40,6 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 
 <a id="claim-t-68026"></a>
 - t-001
-  global_id: t-68026
   teiginys: "Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 
 <a id="claim-t-68027"></a>
 - t-002
-  global_id: t-68027
   teiginys: "Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,18 +84,15 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
     Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
     se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
     (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
-  citata_rodoma: |
-    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
-    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
-    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
-    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
+  citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,\nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje\n(Melnikas, gal Brasta) ir net Voluinėje (Luckas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68026
+    - t-001
+
 - id: c-32075
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -108,15 +103,11 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
     žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
     sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
     tytus vietininkus (« namiestniki ») ir tijūnus.
-  citata_rodoma: |
-    Jam priklausė betarpiškai Vilniaus
-    žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
-    sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
-    tytus vietininkus (« namiestniki ») ir tijūnus.
+  citata_rodoma: "Jam priklausė betarpiškai Vilniaus\nžemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio\nsritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­\ntytus vietininkus (« namiestniki ») ir tijūnus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68027
+    - t-002

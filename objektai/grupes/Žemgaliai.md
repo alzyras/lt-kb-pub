@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-192967"></a>
 - t-001
-  global_id: t-192967
   teiginys: "Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ media_all_json: |-
 
 <a id="claim-t-200937"></a>
 - t-002
-  global_id: t-200937
   teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ media_all_json: |-
 
 <a id="claim-t-200938"></a>
 - t-003
-  global_id: t-200938
   teiginys: "Seniai jau buvo įkyrėjusi žemgaliams kruvina vergyba kalavijonų, kurie ant garso tos pergalės patrako ir, tikybos krikščionų išsižadėję, vėl su lie tuviais ir žemaičiais susinėrė, užvis paskubino tą ermyderį Nameiksis, didžiai išmintingas žemgalis, kuriam."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -104,10 +101,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192967
+    - t-001
+
 - id: c-184287
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nuo tenai Otokaras leidos Pragaru
     pagal žemyn lig girios, Tvangste vadinamos, kur­
@@ -131,10 +130,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200937
+    - t-002
+
 - id: c-184288
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To
     dėjęsis, rėdytojas danų Eilertas, surinkęs dar mun­
@@ -163,4 +164,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200938
+    - t-003

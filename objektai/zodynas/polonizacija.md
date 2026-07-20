@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-22251"></a>
 - t-001
-  global_id: t-22251
   teiginys: "Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ media_all_json: |-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
     70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
     kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: |
-    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
+  citata_rodoma: "ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22251
+    - t-001

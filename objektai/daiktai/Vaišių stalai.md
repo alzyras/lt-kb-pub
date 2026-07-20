@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-55058"></a>
 - t-001
-  global_id: t-55058
   teiginys: "Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "gap::items"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-81865"></a>
 - t-002
-  global_id: t-81865
   teiginys: "Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -120,7 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55058
+    - t-001
+
 - id: c-78407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -148,4 +147,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81865
+    - t-002

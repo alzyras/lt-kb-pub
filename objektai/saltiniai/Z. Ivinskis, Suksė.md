@@ -38,7 +38,6 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
 
 <a id="claim-t-30131"></a>
 - t-001
-  global_id: t-30131
   teiginys: "Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30131
+    - t-001

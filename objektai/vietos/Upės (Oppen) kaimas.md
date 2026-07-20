@@ -31,7 +31,6 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 
 <a id="claim-t-189074"></a>
 - t-001
-  global_id: t-189074
   teiginys: "Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė šventyklos liekanoms."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,6 +69,7 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - susijęs iš [[objektai/paprociai/Maldelė ir lašinių palties auka Perkūnui.md#claim-t-189782|Maldelė ir lašinių palties auka Perkūnui]]: Narbutas teigė, kad Perkūnui skirta maldelė buvo išrašyta runomis ant paminklų prie Penės upės tarp Elbės ir Oderio.
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas Dievaitį aprašo kaip Pajūrio kaimo fetišą, kurį lokalizuoja Raseinių apskrityje, tikriausiai prie Jūros upės.
 - susijęs iš Lenkų tautos istorija: Naruševičius „Lenkijos istorijos“ pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus, arba Maroszy, upės pakrantėje.
+- susijęs iš Słownik geograficzny królestwa Polskiego: Radziszewka yra maždaug 4 km nuo Vidiškių ir 15 km nuo Ukmergės, prie Šventosios upės.
 - susijęs iš Aldeskos upė: Pasak Narbuto, Dionyzas iš Charakso Aldeskos upės žiotis prie Šiaurės jūros siejo su gintaro radimo vieta.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
@@ -256,4 +256,4 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189074
+    - t-001

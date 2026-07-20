@@ -60,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-192054"></a>
 - t-001
-  global_id: t-192054
   teiginys: "Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -82,10 +81,9 @@ Nenurodyta
     - c-174926
 
 <a id="claim-t-192055"></a>
-- t-002
-  global_id: t-192055
+- t-003
   teiginys: "Narbutas priduria, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.83"
@@ -98,12 +96,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174925
-    - c-001
+
 <a id="claim-t-192492"></a>
-- t-003
-  global_id: t-192492
+- t-004
   teiginys: "Narbutas pridėjo pastabą, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,7 +116,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174925
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -141,9 +138,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192055
-    - t-192492
+- t-192492
+
 ## Citatos
 
 - id: c-174925
@@ -151,30 +147,21 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Saurų dvaro muziejaus kataloge T. Nar­
-    butas rašė: „Ašarinės: viena pagaminta iš stiklo, su ašaromis;
-    antra stiklinis rutulėlis, bet viduje tuščias, su kapiliaro dydžio
-    skylute; trečia panaši j ypatingos formos buteliuką; ketvirtosios,
-    keramikinės, [belikusi] tik nuolauža, ypač meistriškai padaryta ir
-    medžiaga labai reta. Visos jos iš įvairių palaidojimų“ ([Narbutt TĄ
-    Spisanie Muzeum w Szawrach. L. 3. Nr. 32). Ašarines, greta die­
-    vo Kovo statulėlės, T. Narbutas laikė pačiais vertingiausiais savo
-    kolekcijos
-    egzemplioriais.
-  citata_rodoma: |
     „Akmeniniai kirviai randami laukuose ir prie senų sody­
     bų,
     bet
     ne
     kapavietėse“
+  citata_rodoma: "„Akmeniniai kirviai randami laukuose ir prie senų sody­\nbų,\nbet\nne\nkapavietėse“"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192055
-    - t-192492
+    - t-003
+    - t-004
+
 - id: c-174926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -188,19 +175,11 @@ Nenurodyta
     žangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­
     tojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­
     dirbystę ir gyvulininkystę.
-  citata_rodoma: |
-    Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
-    kituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­
-    tijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti
-    ateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną
-    į miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­
-    žangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­
-    tojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­
-    dirbystę ir gyvulininkystę.
+  citata_rodoma: "Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir\nkituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­\ntijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti\nateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną\nį miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­\nžangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­\ntojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­\ndirbystę ir gyvulininkystę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192054
+    - t-001

@@ -30,7 +30,6 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
 
 <a id="claim-t-41503"></a>
 - t-001
-  global_id: t-41503
   teiginys: "6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,26 +74,11 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
 
     6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakoja, kaip jo va-
     dovaujama kuopa kontratakavo puolančias lenkų pajėgas ruože tarp Seinų ir Gibų.
-  citata_rodoma: |
-    Tuo tikslu Marijampolės grupė buvo
-
-    Nepriklausomybės
-    kovos
-
-    |
-
-    a
-
-    ## Puslapis 202
-
-    KONTRATAKA
-
-    6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakoja, kaip jo va-
-    dovaujama kuopa kontratakavo puolančias lenkų pajėgas ruože tarp Seinų ir Gibų.
+  citata_rodoma: "Tuo tikslu Marijampolės grupė buvo\n\nNepriklausomybės\nkovos\n\n|\n\na\n\n## Puslapis 202\n\nKONTRATAKA\n\n6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakoja, kaip jo va-\ndovaujama kuopa kontratakavo puolančias lenkų pajėgas ruože tarp Seinų ir Gibų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41503
+    - t-001

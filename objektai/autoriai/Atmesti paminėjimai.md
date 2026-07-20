@@ -8,16 +8,16 @@ datos:
   - '1416 m.'
 date_start: '1332'
 date_end: '1416'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - autorius
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 
 <a id="claim-t-193513"></a>
 - t-001
-  global_id: t-193513
   teiginys: "Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 
 <a id="claim-t-193514"></a>
 - t-002
-  global_id: t-193514
   teiginys: "Atmesti paminėjimai pats neturėjo nė vieno didesnio laivo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176194
 
 <a id="claim-t-193516"></a>
-- t-003
-  global_id: t-193516
+- t-004
   teiginys: "Atmesti paminėjimai laikė šias pilis apsuptas ištisas dvidešimt dienų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -79,8 +76,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176196
 
 <a id="claim-t-193518"></a>
-- t-004
-  global_id: t-193518
+- t-006
   teiginys: "Atmesti paminėjimai atėmė iš lietuvių bei žemaičių keletą pilių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,8 +88,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176198
 
 <a id="claim-t-193521"></a>
-- t-005
-  global_id: t-193521
+- t-009
   teiginys: "Atmesti paminėjimai vėliau niekada jau nebegalėjo pasiekti ankstesnio didingumo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -104,22 +99,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   pagrindžia:
     - c-176201
 
-<a id="claim-t-193523"></a>
-- t-006
-  global_id: t-193523
-  teiginys: "Atmesti paminėjimai taip pat nuoširdžiai trokštąs taikos, ir išsiuntė raštą, kurio Žygimantas buvo prašęs."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176203
-
 <a id="claim-t-193524"></a>
-- t-007
-  global_id: t-193524
+- t-012
   teiginys: "Atmesti paminėjimai priprašė Vladislovą parašyti Žygimantui laišką ir priminti, kad nuolatinis bylos sprendimo atidėliojimas galįs pakenkti Glinskio vardui ir padėčiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -131,8 +112,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176204
 
 <a id="claim-t-193528"></a>
-- t-008
-  global_id: t-193528
+- t-016
   teiginys: "Atmesti paminėjimai skirstė į lietuvius ir rusus, atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -144,8 +124,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     - c-176208
 
 <a id="claim-t-196336"></a>
-- t-009
-  global_id: t-196336
+- t-019
   teiginys: "Atmesti paminėjimai ir pats h u žgniaužia N augarjame dalyvavo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -156,12 +135,10 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   pagrindžia:
     - c-178634
 
-## Citatos
-
-- id: c-176193
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau nei viena, nei kita pergalė negalė­
     jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
@@ -186,34 +163,14 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     to p rū su s p rieš Lietu-
     neapsirinku spėliodamas, su­
     kurstyti Pelužio.
-  citata_rodoma: |
-    Tame mūšyje žuvo keli tūkstančiai lie­
-    tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
-    ėmė, daugybę po miškus klaidžiojančių vėliau išžudė
-    kaimiečiai. Tačiau nei viena, nei kita pergalė negalė­
-    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
-    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
-    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
-    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
-    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
-    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
-    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
-    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
-    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
-    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
-    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
-    tulą.
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193513
-- id: c-176194
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Atmesti paminėjimai pats neturėjo nė vieno didesnio laivo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiek tiek vėliau Ernekė, Ragainės
     komtūras, ieškodamas progos karui ar pataikaudamas,
@@ -243,7 +200,116 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
     kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
     jie galės ne tik susikauti, bet ir nugalėti.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Atmesti paminėjimai atėmė iš lietuvių bei žemaičių keletą pilių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat teutonų riterių, arba kryžiuočių,
+    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
+    3 3 5
+
+    nelyginant kokia arena, kur galima pelnyti karo šlovę,
+    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
+    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
+    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą. Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-007
+  santrauka: 'Atmesti paminėjimai priprašė Vladislovą parašyti Žygimantui laišką ir priminti, kad nuolatinis bylos sprendimo atidėliojimas galįs pakenkti Glinskio vardui ir padėčiai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat jį išdavyste atvirai kaltino Jonas Zaberezinskis,
+    kuris, negalėdamas užmiršti Aleksandro laikais patir­
+    tų skriaudų, karštai rūpinosi visuomenei svarbiais rei­
+    kalais. Žygimantui šis dalykas nebuvo nežinomas, jis
+    įtarė išdavystę, tačiau kol kas apie ją tylėjo, neno­
+    rėdamas staigiu sprendimu pagreitinti ligos, kurios ne­
+    galima pagydyti. Galop, Jonui Sapiegai nutvėrus svar­
+    5 9 6
+
+    bius išdavystės įrodymus ir juos pateikus karaliui,
+    Žygimanto neapykanta Glinskiui, nors ir slepiama, iš­
+    kilo į viešumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Atmesti paminėjimai skirstė į lietuvius ir rusus, atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    nys degė kerštu prieš tų kraštų gyventojus dėl jų religijos. Tačiau
+    ir Rusia buvo krikščioniška, lietuviai ją nukariavo, būdami pagonys,
+    tuos nukariavimus autorius smulkiai aprašo, tačiau niekur neužsi­
+    mena, kad, užimant Polocką, Kijevą ar kurį kitą Rusios miestą, bū­
+    tų nukentėjusios cerkvės, vienuolynai ar graikų apeigų krikščionys
+    žemdirbiai. A. Kojelavičius, kaip ir kiti
+    jėzuitų ordino nariai, pra­
+    voslavus laiko blogais krikščionimis, atskalūnais (schizmatikais), pra­
+    eityje
+    talkininkavusiais
+    pagonims žygiuose
+    prieš
+    katalikus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-176193
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tame mūšyje žuvo keli tūkstančiai lie­
+    tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
+    ėmė, daugybę po miškus klaidžiojančių vėliau išžudė
+    kaimiečiai. Tačiau nei viena, nei kita pergalė negalė­
+    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
+    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
+    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
+    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą.
+  citata_rodoma: "Tame mūšyje žuvo keli tūkstančiai lie­\ntuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­\nėmė, daugybę po miškus klaidžiojančių vėliau išžudė\nkaimiečiai. Tačiau nei viena, nei kita pergalė negalė­\njusi, pasak metraštininkų, atsverti nuostolių, kuriuos\nLenkija tais metais patyrė iš lietuvių: Lukovo apylin­\nkės, Sandomiro bei Liublino žemės tapo visiškai nu­\nniokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­\nmingai puolė priešą, kryžiuočių riteriai, pavergę vi­\nsas prūsų gentis, pradėjo rengti žygius į Lietuvą gal\nsuvokę, jog laikas patogus išpuoliams, o gal, jeigu\ndėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­\ndaug tuo metu gyveno tremtyje tarp kryžiuočių; kai\nvaldžia atsidūrė kitos šeimos rankose, jis susimanė,\nsvetur gyvendamas, įsigyti didžiojo kunigaikščio ti­\ntulą."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-176194
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
     nas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies
@@ -271,13 +337,15 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     nei ietimis, nei strėlėmis, o
     jis pats neturėjo nė vieno di­
     desnio laivo.
+  citata_rodoma: "Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą. Surminas,\ndegdamas visuotine neapykanta ir kęsdamas skausmą\ndėl neseniai patirtų nuostolių, baisiai širdo, kad prie­\nšas kuo ramiausiai jo akyse plaukioja, tačiau atvirai\nnieko negalėjo padaryti, nes\nK a rin iu  v y liu m i pa-\nšie, atokiau nuo kranto plau-\nim a m a s\nk ry žiu o č ių\nkdami,\nbuvo\nnepasiekiami\nla iv a s\nnei ietimis, nei strėlėmis, o\njis pats neturėjo nė vieno di­\ndesnio laivo."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193514
+    - t-002
+
 - id: c-176196
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -298,46 +366,20 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     šaunumui bei drąsai, jeigu silpna ranka, bemaž nieko
     neveikdama, klote iškloja nesuskaitomas narsiausių
     karių krūvas?
-  citata_rodoma: |
-    Tuo tarpu Gedimi­
-    nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
-    jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias
-    pilis apsuptas ištisas dvidešimt dienų. Artėdami prie
-    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
-    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
-    ginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­
-    toti geležinius vamzdžius, kurie, užtaisyti paraku ir
-    sviediniais, purkšdami liepsnojantį paraką, be galo
-    smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
-    šą.
+  citata_rodoma: "Tuo tarpu Gedimi­\nnas, norėdamas padėti apsuptai Veliuonai, su didelėmis\njėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias\npilis apsuptas ištisas dvidešimt dienų. Artėdami prie\ngynybinio pylimo, lietuviai čia patyrė smarkų pralai­\nmėjimą, nes buvo pavartoti ligi tol neregėti negirdėti\nginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­\ntoti geležinius vamzdžius, kurie, užtaisyti paraku ir\nsviediniais, purkšdami liepsnojantį paraką, be galo\nsmarkiai ir su baisiu trenksmu išmeta sviedinį į prie­\nšą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193516
+    - t-004
+
 - id: c-176198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat teutonų riterių, arba kryžiuočių,
-    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
-    3 3 5
-
-    nelyginant kokia arena, kur galima pelnyti karo šlovę,
-    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
-    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
-    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
-    čių į Prūsiją. Riterių magistras Konradas su savo bei
-    svetimšalių kariuomene pava-
-    Įsiv e ržia į L ietu vą
-    sario pabaigoje patraukė į
-    Lietuvą. Nusiaubęs dideliuose
-    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
-    lietuvių bei žemaičių keletą pilių.
-  citata_rodoma: |
     Nusiaubęs dideliuose
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
     lietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­
@@ -350,13 +392,15 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     m ū šį
     iškelia
     jo žygių šlovę.
+  citata_rodoma: "Nusiaubęs dideliuose\nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš\nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto\ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo\nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal\nPrieš\nm ū šį\niškelia\njo žygių šlovę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193518
+    - t-006
+
 - id: c-176201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -385,7 +429,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193521
+    - t-009
+
 - id: c-176203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -414,29 +459,15 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     kunigaikščiu.
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193523
 - id: c-176204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat jį išdavyste atvirai kaltino Jonas Zaberezinskis,
-    kuris, negalėdamas užmiršti Aleksandro laikais patir­
-    tų skriaudų, karštai rūpinosi visuomenei svarbiais rei­
-    kalais. Žygimantui šis dalykas nebuvo nežinomas, jis
-    įtarė išdavystę, tačiau kol kas apie ją tylėjo, neno­
-    rėdamas staigiu sprendimu pagreitinti ligos, kurios ne­
-    galima pagydyti. Galop, Jonui Sapiegai nutvėrus svar­
-    5 9 6
-
-    bius išdavystės įrodymus ir juos pateikus karaliui,
-    Žygimanto neapykanta Glinskiui, nors ir slepiama, iš­
-    kilo į viešumą.
-  citata_rodoma: |
     Tvarkydamas savo pairusius reikalus,
     pirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­
     dislovą, bet šį kartą ir ten ne viskas išėjo taip, kaip
@@ -446,32 +477,20 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     Vladislovo pasiuntinio atvyko pats Glinskis, maldau­
     damas karalių viešai bylą išnagrinėti ir kuo greičiausiai
     paskelbti karališkąjį sprendimą vieno ar kito naudai.
+  citata_rodoma: "Tvarkydamas savo pairusius reikalus,\npirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­\ndislovą, bet šį kartą ir ten ne viskas išėjo taip, kaip\nnorėjo. Jis priprašė Vladislovą parašyti Žygimantui laiš­\nką ir priminti, kad nuolatinis bylos sprendimo atidėlio­\njimas galįs pakenkti Glinskio vardui ir padėčiai. Po\nVladislovo pasiuntinio atvyko pats Glinskis, maldau­\ndamas karalių viešai bylą išnagrinėti ir kuo greičiausiai\npaskelbti karališkąjį sprendimą vieno ar kito naudai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193524
+    - t-012
+
 - id: c-176208
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    nys degė kerštu prieš tų kraštų gyventojus dėl jų religijos. Tačiau
-    ir Rusia buvo krikščioniška, lietuviai ją nukariavo, būdami pagonys,
-    tuos nukariavimus autorius smulkiai aprašo, tačiau niekur neužsi­
-    mena, kad, užimant Polocką, Kijevą ar kurį kitą Rusios miestą, bū­
-    tų nukentėjusios cerkvės, vienuolynai ar graikų apeigų krikščionys
-    žemdirbiai. A. Kojelavičius, kaip ir kiti
-    jėzuitų ordino nariai, pra­
-    voslavus laiko blogais krikščionimis, atskalūnais (schizmatikais), pra­
-    eityje
-    talkininkavusiais
-    pagonims žygiuose
-    prieš
-    katalikus.
-  citata_rodoma: |
     Lietuvos
     Didžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,
     atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.
@@ -482,13 +501,15 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     tarusių ir ukrainiečių)
     kalba. Ta pačia kalba parašyti ir Lietuvos
     statutai.
+  citata_rodoma: "Lietuvos\nDidžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,\natsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.\n15 Rusų metraščiais autorius\nvadina Lietuvos\nmetraščius, nes\njie parašyti Lietuvos Didžiojoje Kunigaikštystėje vartota rusų (bal­\ntarusių ir ukrainiečių)\nkalba. Ta pačia kalba parašyti ir Lietuvos\nstatutai."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193528
+    - t-016
+
 - id: c-178634
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -519,4 +540,4 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196336
+    - t-019

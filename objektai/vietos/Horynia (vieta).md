@@ -33,7 +33,6 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
 
 <a id="claim-t-202402"></a>
 - t-001
-  global_id: t-202402
   teiginys: "Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį turtą iššvaisčiusios moters, o pati moteris pavadinta „baidykle“."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -51,15 +50,8 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 19"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
-  citata_originali: |
-    Tądien buvau nekokios sveikatos.
-    06 27 Šiandien iš pašto gavau žinią apie JM Karaliaus, mūsų valdovo,
-    kuris birželio 17 fatis cessit Varšuvoje. Šiandien baidyklė Tiškevičienė iš
-    Horynios mirė nuskurdusi, savo nekilnojamą turtą iššvaisčiusi.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202402
+    - t-001

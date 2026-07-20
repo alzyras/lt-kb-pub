@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-03201"></a>
 - t-001
-  global_id: t-03201
   teiginys: "1933 m. Lietuva nepuolimo sutartį papildė sutartimi, apibūdinusia užpuoliko sąvoką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ media_all_json: |-
     su minėtu laišku ligi 1944 metų.
     1933 metais Lietuva tą nepuolimo sutartį papildė kita su-
     tartimi, kuri apibūdino užpuoliko sąvoką.
-  citata_rodoma: |
-    1933 metais Lietuva tą nepuolimo sutartį papildė kita su-
-    tartimi, kuri apibūdino užpuoliko sąvoką.
+  citata_rodoma: "1933 metais Lietuva tą nepuolimo sutartį papildė kita su-\ntartimi, kuri apibūdino užpuoliko sąvoką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03201
+    - t-001

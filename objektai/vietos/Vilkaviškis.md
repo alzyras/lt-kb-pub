@@ -41,7 +41,6 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 
 <a id="claim-t-69569"></a>
 - t-001
-  global_id: t-69569
   teiginys: "Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -83,17 +82,11 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
     kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: |
-    atsisvei-
-    kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
-    sutvarkyti laiko stoka. Bet tai tebuvo tik diplomatiškas atsi-
-    kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
-    kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
-    mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
+  citata_rodoma: "atsisvei-\nkindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi\nsutvarkyti laiko stoka. Bet tai tebuvo tik diplomatiškas atsi-\nkalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,\nkad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-\nmene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69569
+    - t-001

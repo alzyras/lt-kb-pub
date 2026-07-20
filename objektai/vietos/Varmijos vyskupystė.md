@@ -39,8 +39,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 ## Teiginiai
 
 <a id="claim-t-02829"></a>
-- t-001
-  global_id: t-02829
+- t-002
   teiginys: "1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - c-03067
 
 <a id="claim-t-02830"></a>
-- t-002
-  global_id: t-02830
+- t-001
   teiginys: "1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,23 +98,15 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     kvietė Vilniaus vys-
     kupas Protasevi-
     čius.
-  citata_rodoma: |
-    Jėzuitų į Lenkiją
-    atkvietė garsus katali-
-    kybės gynėjas Varmi-
-    jos vyskupas St. Hozi-
-    jas (1564 m.). Jie buvo
-    įkurdinti Varmijos vys-
-    kupystės centre Brauns-
-    berge, o iš ten paplito
-    po visą Lenkiją. 1569
+  citata_rodoma: "Jėzuitų į Lenkiją\natkvietė garsus katali-\nkybės gynėjas Varmi-\njos vyskupas St. Hozi-\njas (1564 m.). Jie buvo\nįkurdinti Varmijos vys-\nkupystės centre Brauns-\nberge, o iš ten paplito\npo visą Lenkiją. 1569"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02829
+    - t-002
+
 - id: c-03068
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -132,6 +122,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02830
+    - t-001
+
 ## Ryšiai
 - Varmijos vyskupystė priklausė [[objektai/vietos/Lenkija]]

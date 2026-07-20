@@ -38,7 +38,6 @@ Dusburgietis teigia, kad rybelis A.
 
 <a id="claim-t-60777"></a>
 - t-001
-  global_id: t-60777
   teiginys: "A. Rybelis parašė darbą „Senoji lietuvių pasaulėžiūra“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad rybelis A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60777
+    - t-001

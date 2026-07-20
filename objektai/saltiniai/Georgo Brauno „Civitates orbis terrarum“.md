@@ -38,7 +38,6 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
 
 <a id="claim-t-190497"></a>
 - t-001
-  global_id: t-190497
   teiginys: "Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190497
+    - t-001

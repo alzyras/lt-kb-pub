@@ -8,14 +8,14 @@ datos:
   - '1531 m.'
 date_start: '1399'
 date_end: '1531'
+amziai:
+  - 'XIV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
   - daiktas
-amziai:
-  - 'XIV'
-  - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-11542"></a>
-- t-001
-  global_id: t-11542
+- t-002
   teiginys: "Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -77,6 +76,20 @@ Nenurodyta
   pagrindžia:
     - c-14270
 
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
+    likęs didžiojo altoriaus kryžius^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-14270
@@ -85,19 +98,15 @@ Nenurodyta
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
   indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
   citata_originali: |
-    Bet ši katedra 1399 metais sudegė. Ta­
+    Bet ši katedra 1399 metais sudegė. Ta-
     da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
+    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš-
     likęs didžiojo altoriaus kryžius^2 ).
-  citata_rodoma: |
-    Bet ši katedra 1399 metais sudegė. Ta­
-    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
-    likęs didžiojo altoriaus kryžius^2 ).
+  citata_rodoma: "Bet ši katedra 1399 metais sudegė. Ta-\nda Vytautas buvo pastatęs naują gotiško stiliaus katedrą,\nbet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš-\nlikęs didžiojo altoriaus kryžius^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11542
+    - t-002

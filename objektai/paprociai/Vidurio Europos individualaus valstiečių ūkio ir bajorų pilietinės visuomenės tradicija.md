@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54366"></a>
 - t-001
-  global_id: t-54366
   teiginys: "Lietuvoje, kaip ir Vidurio Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis ir formavosi bajorų pilietinė visuomenė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-166727
 
 <a id="claim-t-183337"></a>
-- t-002
-  global_id: t-183337
+- t-003
   teiginys: "Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams – Vidurio Europai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -115,5 +113,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54366
-    - t-183337
+    - t-001
+    - t-003

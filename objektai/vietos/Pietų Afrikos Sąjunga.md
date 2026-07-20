@@ -29,9 +29,8 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 
 ## Teiginiai
 
-<a id="claim-t-77145"></a>
-- t-001
-  global_id: t-77145
+<a id="claim-t-77144"></a>
+- t-002
   teiginys: "Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,14 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
-  citata_rodoma: |
-    Per 20 metų iš
-    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
-    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
+  citata_rodoma: "Per 20 metų iš\nšalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,\nvykę į Palestiną, Pietų Afrikos Sąjungą ir JAV."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77145
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Žydai]]

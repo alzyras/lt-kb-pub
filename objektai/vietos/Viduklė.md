@@ -40,7 +40,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 <a id="claim-t-69561"></a>
 - t-001
-  global_id: t-69561
   teiginys: "Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 <a id="claim-t-69562"></a>
 - t-002
-  global_id: t-69562
   teiginys: "1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,19 +89,15 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
-  citata_rodoma: |
-    Kaip jau matėme, 1416 metais Vytautas
-    Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias:
-    Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­
-    žiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­
-    kimo pasiuntiniai—Lvovo vysk.
+  citata_rodoma: "Kaip jau matėme, 1416 metais Vytautas\nVarniuose pastatė katedrą ir aštuonias parapijines bažnyčias:\nViduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­\nžiuose, Airiogaloje, Veliuonoje. Atvykę Konstancijos susirin­\nkimo pasiuntiniai—Lvovo vysk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69562
+    - t-002
+
 - id: c-68865
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -123,4 +117,4 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69561
+    - t-001

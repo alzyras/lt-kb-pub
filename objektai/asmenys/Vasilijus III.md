@@ -31,7 +31,6 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
 <a id="claim-t-40501"></a>
 - t-001
-  global_id: t-40501
   teiginys: "Išgirdęs apie pralaimėjimą, Vasilijus III paliko įgulą ir pasitraukė iš Smolensko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,11 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
-  citata_rodoma: |
-    Išgirdęs apie pralaimėjimą,
-    Vasilijus 111 palikęs įgulą pasi-
-    traukė iš Smolensko. Lietuvai
-
-    vėl atiteko Mstislavlis, Dubrovnos,
-    Kryčevo pilys.
+  citata_rodoma: "Išgirdęs apie pralaimėjimą,\nVasilijus 111 palikęs įgulą pasi-\ntraukė iš Smolensko. Lietuvai\n\nvėl atiteko Mstislavlis, Dubrovnos,\nKryčevo pilys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40501
+    - t-001

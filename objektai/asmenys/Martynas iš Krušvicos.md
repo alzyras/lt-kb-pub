@@ -32,7 +32,6 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
 
 <a id="claim-t-60384"></a>
 - t-001
-  global_id: t-60384
   teiginys: "Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60384
+    - t-001

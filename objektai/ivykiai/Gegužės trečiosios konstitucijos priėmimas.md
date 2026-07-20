@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-75098"></a>
 - t-001
-  global_id: t-75098
   teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-22928
 
 <a id="claim-t-75099"></a>
-- t-002
-  global_id: t-75099
+- t-005
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-73014
 
 <a id="claim-t-75102"></a>
-- t-003
-  global_id: t-75102
+- t-004
   teiginys: "Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -111,21 +108,13 @@ Nenurodyta
     - c-166609
 
 <a id="claim-t-75103"></a>
-- t-004
-  global_id: t-75103
+- t-003
   teiginys: "Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės trečiosios konstitucijos priėmimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės trečiosios konstitucijos priėmimas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-22930
+    - c-73014
 
 ## Citatos
 
@@ -143,18 +132,15 @@ Nenurodyta
     cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
     klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
     į Prancūzijos didžiąją revoliuciją.
-  citata_rodoma: |
-    Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
-    cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
-    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
-    į Prancūzijos didžiąją revoliuciją.
+  citata_rodoma: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-\ncūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-\nklaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi \nį Prancūzijos didžiąją revoliuciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75098
+    - t-001
+
 - id: c-22930
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,18 +154,13 @@ Nenurodyta
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: |
-    Tvarkyti valstybės reikalus valdovui turi pa-
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
-    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
-    karo, policijos komisijų – pirmininkai (ministrai).
+  citata_rodoma: "Tvarkyti valstybės reikalus valdovui turi pa-\ndėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai \nkuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, \nkaro, policijos komisijų – pirmininkai (ministrai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-75103
 - id: c-73014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,7 +186,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75099
+    - t-005
+    - t-003
+
 - id: c-166609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,4 +207,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75102
+    - t-004

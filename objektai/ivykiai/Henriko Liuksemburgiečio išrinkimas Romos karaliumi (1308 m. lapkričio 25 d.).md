@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-62281"></a>
 - t-001
-  global_id: t-62281
   teiginys: "1308 m. lapkričio 25 d. Vokietijos elektoriai vieningai išrinko Henriką Liuksemburgietį Romos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,21 +80,16 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi
+    105. Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi
 
        Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai
     vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart. p. 444; Ptol. p.
     1230).
-  citata_rodoma: |
-    Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi
-
-       Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai
-    vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart. p. 444; Ptol. p.
-    1230).
+  citata_rodoma: "105. Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi\n\n   Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai\nvieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart. p. 444; Ptol. p.\n1230)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62281
+    - t-001

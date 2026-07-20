@@ -30,7 +30,6 @@ Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūs
 
 <a id="claim-t-190488"></a>
 - t-001
-  global_id: t-190488
   teiginys: "Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūsų Lietuvos, tarme."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190488
+    - t-001

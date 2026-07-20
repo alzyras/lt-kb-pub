@@ -49,7 +49,6 @@ Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazi
 
 <a id="claim-t-195539"></a>
 - t-001
-  global_id: t-195539
   teiginys: "Plačiukas į gertuvę atėjo su svečiu ir ten sėdo gerti."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -66,18 +65,12 @@ Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazi
   puslapiai: "p. 102 (PDF 100)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 102 (PDF 100)."
   citata_originali: |
-    Štai Linartai du broliu, abu mėgdavo išgerti,
-    o su skatikais trumpa.
-    Sėdi jie vieną kartą gertuvėje ir galvoja, bene atsitiks kaip gurkšnelį
-    paragauti.
-    Ateina į gertuvę Plačiukas, atsiveda kokį svečią ir, su­
-    sėdę už stalo, geria.
-  citata_rodoma: |
     Ateina į gertuvę Plačiukas, atsiveda kokį svečią ir, susėdę už stalo, geria.
+  citata_rodoma: "Ateina į gertuvę Plačiukas, atsiveda kokį svečią ir, susėdę už stalo, geria."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195539
+    - t-001

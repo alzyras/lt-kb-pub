@@ -41,8 +41,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 ## Teiginiai
 
 <a id="claim-t-64646"></a>
-- t-001
-  global_id: t-64646
+- t-003
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 
 <a id="claim-t-64647"></a>
 - t-002
-  global_id: t-64647
   teiginys: "J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     - c-36661
 
 <a id="claim-t-64648"></a>
-- t-003
-  global_id: t-64648
+- t-001
   teiginys: "J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -111,7 +108,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64647
+    - t-002
+
 - id: c-36662
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -131,7 +129,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64646
+    - t-003
+
 - id: c-65317
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -151,4 +150,4 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64648
+    - t-001

@@ -30,7 +30,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 
 <a id="claim-t-67258"></a>
 - t-001
-  global_id: t-67258
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -39,8 +38,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67241
 
 <a id="claim-t-67259"></a>
-- t-002
-  global_id: t-67259
+- t-006
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +47,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67241
 
 <a id="claim-t-67261"></a>
-- t-003
-  global_id: t-67261
+- t-002
   teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +57,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 
 <a id="claim-t-67263"></a>
 - t-004
-  global_id: t-67263
   teiginys: "Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,8 +66,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67238
 
 <a id="claim-t-67264"></a>
-- t-005
-  global_id: t-67264
+- t-003
   teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +75,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67239
 
 <a id="claim-t-67265"></a>
-- t-006
-  global_id: t-67265
+- t-005
   teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,16 +99,15 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: |
-    Tuo būdu buvo paliktas nepaliestas _liberum veto,_ ga-
-    rantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias
+  citata_rodoma: "Tuo būdu buvo paliktas nepaliestas _liberum veto,_ ga-\nrantuota, kad karaliai bus tik renkami, kad kitatikiai turės lygias"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67263
+    - t-004
+
 - id: c-67239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,21 +121,15 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     vai, tai tuo tarpu _veto_ buvo
     paliktas. Užtat buvo priimtas
     seimo darbų statutas.
-  citata_rodoma: |
-    Jie sva-
-    jojo net panaikinti _liberum
-    veto,_ bet kadangi tam pasi-
-    priešino Rusų ir Prūsų atsto-
-    vai, tai tuo tarpu _veto_ buvo
-    paliktas. Užtat buvo priimtas
-    seimo darbų statutas.
+  citata_rodoma: "Jie sva-\njojo net panaikinti _liberum\nveto,_ bet kadangi tam pasi-\npriešino Rusų ir Prūsų atsto-\nvai, tai tuo tarpu _veto_ buvo\npaliktas. Užtat buvo priimtas\nseimo darbų statutas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67264
+    - t-003
+
 - id: c-67240
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -157,16 +144,15 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
-  citata_rodoma: |
-    Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė
-    neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
+  citata_rodoma: "Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė\nneklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67265
+    - t-005
+
 - id: c-67241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -179,18 +165,16 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
-  citata_rodoma: |
-    visi savo laisvės pagrindu laikė
-    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
-    _(nihil de те, sine те)._
+  citata_rodoma: "visi savo laisvės pagrindu laikė\nšį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane\"\n_(nihil de те, sine те)._"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67258
-    - t-67259
+    - t-001
+    - t-006
+
 - id: c-67245
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -203,13 +187,11 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     atstovai suvažiuodavo į seimą, žinoma, negalėdavo tarp savęs
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
-  citata_rodoma: |
-    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
-    turėdavo iširti.
+  citata_rodoma: "Visada atsirasdavo, kas pasakydavo _„veto\",_ ir seimas\nturėdavo iširti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67261
+    - t-002

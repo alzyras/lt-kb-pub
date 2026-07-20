@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-100022"></a>
 - t-001
-  global_id: t-100022
   teiginys: "Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-31318
 
 <a id="claim-t-100023"></a>
-- t-002
-  global_id: t-100023
+- t-003
   teiginys: "Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ Nenurodyta
     - c-31319
 
 <a id="claim-t-100024"></a>
-- t-003
-  global_id: t-100024
+- t-002
   teiginys: "1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,6 @@ Nenurodyta
 
 <a id="claim-t-100025"></a>
 - t-004
-  global_id: t-100025
   teiginys: "Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,7 +137,6 @@ Nenurodyta
 
 <a id="claim-t-194981"></a>
 - t-005
-  global_id: t-194981
   teiginys: "Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje."
   atnaujinta: "2026-07-06 13:01"
   sprendimo_priezastis: "auto"
@@ -167,20 +162,17 @@ Nenurodyta
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
-  citata_rodoma: |
-    1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
-    vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
-    Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
-    24.000 Lietuvoje buvusių lenkų karo belaisvių.
+  citata_rodoma: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino\nvedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters\nAldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi\n24.000 Lietuvoje buvusių lenkų karo belaisvių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100022
-    - t-100024
-    - t-194981
+    - t-001
+    - t-002
+    - t-005
+
 - id: c-31319
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -193,18 +185,15 @@ Nenurodyta
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
-  citata_rodoma: |
-    Jo 1325 m. sutartis buvo pir­
-    masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
-    čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
-    mečio.
+  citata_rodoma: "Jo 1325 m. sutartis buvo pir­\nmasis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­\nčiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­\nmečio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100023
+    - t-003
+
 - id: c-31320
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -223,4 +212,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100025
+    - t-004

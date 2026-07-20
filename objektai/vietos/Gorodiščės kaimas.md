@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-189002"></a>
 - t-001
-  global_id: t-189002
   teiginys: "1780 metais Narbutas sename apkase arba pilies pylime prie Gorodiščės kaimo rado didžiuliam varpui priklausiusį gabalą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189002
+    - t-001

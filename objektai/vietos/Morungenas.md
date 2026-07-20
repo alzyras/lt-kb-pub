@@ -38,8 +38,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Teiginiai
 
 <a id="claim-t-58598"></a>
-- t-001
-  global_id: t-58598
+- t-002
   teiginys: "Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
     - c-59230
 
 <a id="claim-t-58599"></a>
-- t-002
-  global_id: t-58599
+- t-001
   teiginys: "1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -91,13 +89,14 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58598
+    - t-002
+
 - id: c-59231
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Morungeno pilies pastatymą
+    2. Apie Morungeno pilies pastatymą
 
       1327  viešpaties metais  brolis Hermanas, Elbingo komtūras  bei  didysis Ordino
     špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,
@@ -107,23 +106,14 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 
 
                              3.
-  citata_rodoma: |
-    Apie Morungeno pilies pastatymą
-
-      1327  viešpaties metais  brolis Hermanas, Elbingo komtūras  bei  didysis Ordino
-    špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,
-    gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.
-
-
-
-
-                             3.
+  citata_rodoma: "Apie Morungeno pilies pastatymą\n\n  1327  viešpaties metais  brolis Hermanas, Elbingo komtūras  bei  didysis Ordino\nšpitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,\ngavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.\n\n\n\n\n                         3."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58599
+    - t-001
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]

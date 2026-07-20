@@ -10,13 +10,13 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-amziai:
-  - 'XIV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XIV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64908"></a>
-- t-001
-  global_id: t-64908
+- t-004
   teiginys: "XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-30988
 
 <a id="claim-t-64909"></a>
-- t-002
-  global_id: t-64909
+- t-003
   teiginys: "Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -86,10 +84,9 @@ Nenurodyta
     - c-14298
 
 <a id="claim-t-194614"></a>
-- t-003
-  global_id: t-194614
+- t-005
   teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,22 +95,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177013
-    - c-003
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Mat jiems patikėdavo saugoti brangiuosius metalus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
-    vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
-    jiems patikėdavo saugoti brangiuosius metalus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194614
+
 ## Citatos
 
 - id: c-14298
@@ -128,18 +110,15 @@ Nenurodyta
     rodė didelį duosnumą. Valgydamas ir gerdamas susivaldė, per
     visą savo gyvenimą nevartojo vyno ir jokio kito gėrimo, o tik
     gryną vandenį.
-  citata_rodoma: |
-    Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
-    jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
-    linių ir kitokių brangenybių, kurias paskui kitiems dalindamas
-    rodė didelį duosnumą.
+  citata_rodoma: "Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­\njo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­\nlinių ir kitokių brangenybių, kurias paskui kitiems dalindamas\nrodė didelį duosnumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64909
+    - t-003
+
 - id: c-30988
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,39 +128,28 @@ Nenurodyta
     jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
     sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
     mas buvo turtingas^5.
-  citata_rodoma: |
-    Kunigaikščiai turėjo
-    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
-    mas buvo turtingas^5.
+  citata_rodoma: "Kunigaikščiai turėjo\nsukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­\nmas buvo turtingas^5."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64908
+    - t-004
+
 - id: c-177013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Taigi čia aiškus
-    tiktai dviejų žodžių sutapimas dviejose viena kitai svetimose
-    kalbose. Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
-    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
-    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
-    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
-    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
-    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
-    provincijoje.
-  citata_rodoma: |
     Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
     vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
     jiems patikėdavo saugoti brangiuosius metalus.
+  citata_rodoma: "Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­\nvusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat\njiems patikėdavo saugoti brangiuosius metalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194614
+    - t-005

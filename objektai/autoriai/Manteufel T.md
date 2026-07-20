@@ -40,7 +40,6 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 
 <a id="claim-t-60651"></a>
 - t-001
-  global_id: t-60651
   teiginys: "T. Manteufelis siejo Kristaus brolių ordiną su 1223 m. vyskupo ir kunigaikščio Konrado sutartimi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60651
+    - t-001

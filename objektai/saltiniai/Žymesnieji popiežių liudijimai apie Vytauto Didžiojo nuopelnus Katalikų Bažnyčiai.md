@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-32030"></a>
 - t-001
-  global_id: t-32030
   teiginys: "„Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai“ 1929 m. paskelbti TK 7–8 numeryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,15 +79,11 @@ media_all_json: |-
     Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
     Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
     fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
-  citata_rodoma: |
-    — _Žymesnieji popiežių liudijimai apie Vytauto
-    Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
-    Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
-    fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
+  citata_rodoma: "— _Žymesnieji popiežių liudijimai apie Vytauto\nDidžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —\nSalmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­\nfürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32030
+    - t-001

@@ -40,8 +40,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Teiginiai
 
 <a id="claim-t-43651"></a>
-- t-001
-  global_id: t-43651
+- t-002
   teiginys: "Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - c-47055
 
 <a id="claim-t-43652"></a>
-- t-002
-  global_id: t-43652
+- t-001
   teiginys: "Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 <a id="claim-t-201063"></a>
 - t-003
-  global_id: t-201063
   teiginys: "Tas pats mistras ateinantį metą, norėdamas žem galius sudrausti, užėmė jiems Jelgavą ir tenai sau pilį įkūrė ir Mitau pramanė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -108,21 +105,15 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-  citata_rodoma: |
-    Visai Livonijai bu-
-    vo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir
-    plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta ku-
-    nigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-
-    vesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.
-    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
-    klausomos iki 1582 m.
+  citata_rodoma: "Visai Livonijai bu-\nvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir\nplati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta ku-\nnigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-\nvesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.\nŠitos sutarties nepripažino tik Rygos miestas; jis liko nepri-\nklausomos iki 1582 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43651
+    - t-002
+
 - id: c-47056
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,20 +126,19 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: |
-    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43652
+    - t-001
+
 - id: c-184413
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Parsibastęs mistras į Rygą nusiuntė ži­
     nią į Kuršą kalavijonims, idant saugotųsi ir nenu-
@@ -167,4 +157,4 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201063
+    - t-003

@@ -31,7 +31,6 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 
 <a id="claim-t-20866"></a>
 - t-001
-  global_id: t-20866
   teiginys: "Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 
 <a id="claim-t-183502"></a>
 - t-002
-  global_id: t-183502
   teiginys: "Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
     nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų
     visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją
     į Prokrusto komunistinę lovą sovietmečiu nepavyko.
-  citata_rodoma: |
-    visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją
+  citata_rodoma: "visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20866
+    - t-001
+
 - id: c-166896
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -113,4 +111,4 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183502
+    - t-002

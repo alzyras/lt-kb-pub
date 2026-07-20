@@ -31,7 +31,6 @@ Tuskenis.
 
 <a id="claim-t-19390"></a>
 - t-001
-  global_id: t-19390
   teiginys: "E. Tuskenis redagavo leidinį „Lithuania in European Politics“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,12 +47,11 @@ Tuskenis.
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics.
-  citata_rodoma: |
-    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
+  citata_rodoma: "Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19390
+    - t-001

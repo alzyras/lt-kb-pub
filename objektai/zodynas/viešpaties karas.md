@@ -31,9 +31,8 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 
 <a id="claim-t-58941"></a>
 - t-001
-  global_id: t-58941
   teiginys: "Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,25 +44,7 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59573
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
-    riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
-    ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
-    Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
-    Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
-    linksmybę“ (II. 8).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58941
+
 ## Citatos
 
 - id: c-59573
@@ -71,24 +52,17 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
-    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
-    Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
-    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
-    ekspansija į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
-    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
-    pagonys prūsai ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
-  citata_rodoma: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
     riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus
     ginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins
     Kristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.
     Šie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną
     linksmybę“ (II. 8).
+  citata_rodoma: "Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino\nriterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus\nginklus“). Ypatingas dėmesys skiriamas kalavijui, nes „Kristaus karių“ kalavijas sunaikins\nKristaus kryžiaus priešus: „jaunikaitį draug ir mergaitę, žindomą kūdikį draug su seniu“.\nŠie „geri darbai“ apsaugo kalaviją iškėlusį „nuo pragaro bausmių“, „veda  jį  į amžiną\nlinksmybę“ (II. 8)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58941
+    - t-001

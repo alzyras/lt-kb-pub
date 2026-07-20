@@ -36,8 +36,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
 ## Teiginiai
 
 <a id="claim-t-93130"></a>
-- t-001
-  global_id: t-93130
+- t-002
   teiginys: "1390 m. gegužės 26 d. į Karaliaučių atvykę žemaičių atstovai pasižadėjo laikytis savo „karaliaus Vytauto“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     - c-88528
 
 <a id="claim-t-93131"></a>
-- t-002
-  global_id: t-93131
+- t-001
   teiginys: "Kryžiuočių akyse Vytauto prestižas turėjo pakilti, nes jiems Vytautas buvo ne tik pabėgėlis, bet ir Žemaičių karalius."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93131
+    - t-001
+
 - id: c-88528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -107,15 +106,11 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
     bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
     visišką prekybos laisvę.
-  citata_rodoma: |
-    Gegužės 26 d. jie pasižadėjo laiky­
-    tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
-    bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
-    visišką prekybos laisvę.
+  citata_rodoma: "Gegužės 26 d. jie pasižadėjo laiky­\ntis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo\nbei prekybos sutartį, garantuodami kryžiuočiams savo krašte\nvisišką prekybos laisvę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93130
+    - t-002

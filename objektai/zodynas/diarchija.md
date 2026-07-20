@@ -42,8 +42,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 ## Teiginiai
 
 <a id="claim-t-131654"></a>
-- t-001
-  global_id: t-131654
+- t-012
   teiginys: "Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas dualizmu arba diarchija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -59,8 +58,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-120214
 
 <a id="claim-t-131655"></a>
-- t-002
-  global_id: t-131655
+- t-011
   teiginys: "Diarchija apibūdinama kaip dviejų asmenų valdymo sistema, susidariusi Algirdo ir Kęstučio laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -76,8 +74,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-14686
 
 <a id="claim-t-131656"></a>
-- t-003
-  global_id: t-131656
+- t-010
   teiginys: "Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -94,8 +91,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-14686
 
 <a id="claim-t-131657"></a>
-- t-004
-  global_id: t-131657
+- t-006
   teiginys: "Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -113,8 +109,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - c-120212
 
 <a id="claim-t-183413"></a>
-- t-005
-  global_id: t-183413
+- t-013
   teiginys: "Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -161,23 +156,16 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
     to laikais.
-  citata_rodoma: |
-    Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
-    būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­
-    mu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,
-    kuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­
-    da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
-    dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
-    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
-    to laikais.
+  citata_rodoma: "Baigdami šį darbą norėtume dar išspręsti vieną klausimą,\nbūtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­\nmu^2 ), geriau diarchija^3 ), t. y. dviejų asmenų valdymo sistema,\nkuri buvo susidariusi Algirdo ir Kęstučio valdymo laikais, ka­\nda Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­\ndyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,\nkuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­\nto laikais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-131655
-    - t-131656
+    - t-011
+    - t-010
+
 - id: c-120212
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -191,18 +179,15 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
-  citata_rodoma: |
-    Toks Lietu­
-    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
-    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
-    (1377). Jam mirus Vilniaus d.
+  citata_rodoma: "Toks Lietu­\nvos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­\ntorikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas\n(1377). Jam mirus Vilniaus d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-131657
+    - t-006
+
 - id: c-120214
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -217,19 +202,15 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
-  citata_rodoma: |
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
-    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
-    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
-    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
-    (1377).
+  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­\nvos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­\ntorikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas\n(1377)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-131654
+    - t-012
+
 - id: c-166807
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,4 +229,4 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183413
+    - t-013

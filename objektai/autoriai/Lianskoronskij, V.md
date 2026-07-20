@@ -39,7 +39,6 @@ Lianskoronskij, V.
 
 <a id="claim-t-29547"></a>
 - t-001
-  global_id: t-29547
   teiginys: "V. Lianskoronskij rašė apie Vytauto 1399 m. žygį prieš totorius ir mūšį prie Vorsklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Lianskoronskij, V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29547
+    - t-001

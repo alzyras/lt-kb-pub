@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-26493"></a>
 - t-001
-  global_id: t-26493
   teiginys: "Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,25 +87,11 @@ media_all_json: |-
     ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    129
-    Teritorija, apie kurią lietuvių svajota: „Lituania Propria“
-    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
-    (Paryžius, 1920))
-
-    L I E T U V O S  I S T O R I J A
-    130
-    KOVA DĖL NEPRIKLAUSOMYBĖS
-    Lietuvos planai: nuo autonomijos
-    iki nepriklausomybės
-    N
-    aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m.
+  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n129\nTeritorija, apie kurią lietuvių svajota: „Lituania Propria“  \n(žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ \n(Paryžius, 1920))\n\nL I E T U V O S  I S T O R I J A\n130\nKOVA DĖL NEPRIKLAUSOMYBĖS\nLietuvos planai: nuo autonomijos  \niki nepriklausomybės\nN\naują impulsą savo veiklai Europos šalių tautiniai są-\njūdžiai gavo 1914 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26493
+    - t-001

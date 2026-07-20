@@ -30,7 +30,6 @@ Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiau
 
 <a id="claim-t-191450"></a>
 - t-001
-  global_id: t-191450
   teiginys: "Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiaurės tautų lopšį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191450
+    - t-001

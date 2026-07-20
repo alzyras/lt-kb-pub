@@ -47,8 +47,7 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
 ## Teiginiai
 
 <a id="claim-t-192261"></a>
-- t-001
-  global_id: t-192261
+- t-003
   teiginys: "Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +66,6 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
 
 <a id="claim-t-192262"></a>
 - t-002
-  global_id: t-192262
   teiginys: "Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -85,8 +83,7 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
     - c-175093
 
 <a id="claim-t-192263"></a>
-- t-003
-  global_id: t-192263
+- t-001
   teiginys: "Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -105,7 +102,6 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
 
 <a id="claim-t-197700"></a>
 - t-004
-  global_id: t-197700
   teiginys: "Be to, ir Pretorijus sako, jog prūsai ir rusai iš pradžių priklausė vienai genčiai; variagų vardą jis kildina iš grynai prūsiško žodžio Warejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį duoklę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -137,6 +133,7 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175093
@@ -156,21 +153,14 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
     jog ne vienai senovės prūsų kartai tenka garbė už tai,
     1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
     \Warrejas.
-  citata_rodoma: |
-    Be to, ir Pretorijus sako,
-    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
-    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
-    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
-    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
-    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
-    krivičiams.
+  citata_rodoma: "Be to, ir Pretorijus sako,\njog prūsai ir rusai iš pradžių priklausė vienai genčiai;\nvariagų vardą jis kildina iš grynai prūsiško žodžio Wa-\nrejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį\nduoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,\njog 859 metais variagai paskyrė kailių duoklę, be kitų, ir\nkrivičiams."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192261
-    - t-192262
-    - t-192263
-    - t-197700
+    - t-003
+    - t-002
+    - t-001
+    - t-004

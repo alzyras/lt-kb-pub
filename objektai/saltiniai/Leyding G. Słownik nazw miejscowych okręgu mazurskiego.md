@@ -36,7 +36,6 @@ Dusburgietis teigia, kad leyding G.
 
 <a id="claim-t-61128"></a>
 - t-001
-  global_id: t-61128
   teiginys: "G. Leydingo „Słownik nazw miejscowych okręgu mazurskiego“ antroji dalis apie fiziografinius pavadinimus išleista Poznanėje 1959 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad leyding G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61128
+    - t-001

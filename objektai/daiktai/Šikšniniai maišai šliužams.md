@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-194807"></a>
 - t-001
-  global_id: t-194807
   teiginys: "Žmonėms pareikalavus, vienas iš die vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti, bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,33 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177203
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Žmonėms pareikalavus, vienas iš die vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti, bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    211
 
-    ## Puslapis 211
-
-    Gandras
-    Atsitiko taip, kad priviso daugybė šliužų, kurie žmonėms ėmė
-    darytis nebepakenčiami. Žmonėms pareikalavus, vienas iš die­
-    vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni­
-    nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti,
-    bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra.
-    Tarp tų, kurie nešė maišus, buvo viena moteris, apsitaisiusi bal­
-    tais marškiniais ir juodu sijonu (taip ir šiandien vasarą vilki lie­
-    tuvaitės). Ji, negalėdama nugalėti smalsumo, atrišo maišą, ir iš
-    jo išsmukę šliužai vėl po pasaulį išsilakstė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194807
 ## Citatos
 
 - id: c-177203
@@ -91,17 +64,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Istorija mena, kad jis buvo vieno iš senovės
-    lietuvių dievų sūnus, jo motina buvo žynė. Taigi po tų pergalių
-    ir daugelio kitų didvyriškų žygių jis įgijo lietuvių tautos vadų
-    vado vardą. Jo įpėdiniai buvo labai garbinami, gyveno krašte
-    metais pateikė man išrašams pasidaryti rankraštinę ketvirčio lapo
-    formato knygą, rašytą labai juodu rašalu ir lygiu raštu ant gražaus
-    popieriaus. Įrištas į pergamentinį apdarą su pakraščiuose įspausto­
-    mis arabeskomis, per vidurį - puošni gotikinė rozetė. Antraštė Co­
-    dex selectus (Rinktinis kodeksas) - spalvotomis raidėmis, rašytomis
-    faktūra, iliuminuota gėlėmis.
-  citata_rodoma: |
     211
 
     ## Puslapis 211
@@ -116,10 +78,11 @@ Nenurodyta
     tais marškiniais ir juodu sijonu (taip ir šiandien vasarą vilki lie­
     tuvaitės). Ji, negalėdama nugalėti smalsumo, atrišo maišą, ir iš
     jo išsmukę šliužai vėl po pasaulį išsilakstė.
+  citata_rodoma: "211\n\n## Puslapis 211\n\nGandras\nAtsitiko taip, kad priviso daugybė šliužų, kurie žmonėms ėmė\ndarytis nebepakenčiami. Žmonėms pareikalavus, vienas iš die­\nvų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni­\nnių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti,\nbet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra.\nTarp tų, kurie nešė maišus, buvo viena moteris, apsitaisiusi bal­\ntais marškiniais ir juodu sijonu (taip ir šiandien vasarą vilki lie­\ntuvaitės). Ji, negalėdama nugalėti smalsumo, atrišo maišą, ir iš\njo išsmukę šliužai vėl po pasaulį išsilakstė."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194807
+    - t-001

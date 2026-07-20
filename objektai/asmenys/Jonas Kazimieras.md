@@ -4,14 +4,16 @@ pavadinimas: 'Jonas Kazimieras'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1666 m.'
+  - '1576 m.'
   - '1667 m.'
-date_start: '1666'
+date_start: '1576'
 date_end: '1667'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XVI'
   - 'XVII'
 sukurta: ''
 atnaujinta: ''
@@ -41,7 +43,6 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 
 <a id="claim-t-87912"></a>
 - t-001
-  global_id: t-87912
   teiginys: "Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,9 +62,8 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 
 <a id="claim-t-188551"></a>
 - t-002
-  global_id: t-188551
   teiginys: "Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,30 +79,34 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171440
-    - c-002
+
+<a id="claim-t-201527"></a>
+- t-003
+  teiginys: "Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno miesto konfirmacinės privilegijos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184874
+
+<a id="claim-t-201528"></a>
+- t-004
+  teiginys: "1655 m. Jonas Kazimieras nusprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui prisiekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184875
+- susijęs iš [[objektai/asmenys/Jonas Kazimieras Rudamina.md#claim-t-202415|Jonas Kazimieras Rudamina]]: Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87352|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Nuo
-    amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
-    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
-    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
-    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
-    būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
-    ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
-    rių rusų sektantų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188551
 ## Citatos
 
 - id: c-83891
@@ -122,38 +126,20 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     bet ją Jonas Kazimieras panaikina sausio 15 d.
     dekretu - 1667
     15.
-  citata_rodoma: |
-    Andrius Katavičius, didysis Lietuvos
-    raštininkas, kovo 31 d. - 1666
-    neteisėtai gauna privilegiją Vilniaus vaitystei,
-    bet ją Jonas Kazimieras panaikina sausio 15 d.
-    dekretu - 1667
-    15.
+  citata_rodoma: "Andrius Katavičius, didysis Lietuvos\nraštininkas, kovo 31 d. - 1666\nneteisėtai gauna privilegiją Vilniaus vaitystei,\nbet ją Jonas Kazimieras panaikina sausio 15 d. \ndekretu - 1667\n15."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87912
+    - t-001
+
 - id: c-171440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
-    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
-    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
-    čioje. Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
-    želio 21 dieną2.
-    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
-    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
-    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
-    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
-    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
-    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
-    kėjimą.
-  citata_rodoma: |
     Nuo
     amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
     mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
@@ -162,10 +148,47 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
     ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
     rių rusų sektantų.
+  citata_rodoma: "Nuo\namžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas\nmus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš\ntų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos\npatriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu\nbūriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­\nma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­\nrių rusų sektantų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188551
+    - t-002
+
+- id: c-184874
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir
+    1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno
+    miesto konfirmacinės privilegijos.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-184875
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tai įvyko tik pačioje kalbamo laikotarpio pabaigoje. 1655 m. Jonas Kazimieras nu-
+    sprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui pri-
+    siekę, yra miesto piliečiai, turi teisę naudotis visomis miestiečių teisėmis; kad tiems
+    liuteronams, kurie Kaune jau yra įsikūrę ar atėję užkuriais, bet miesto teise dar nesi-
+    naudoja, neturi būti draudžiama prisiekti miestui ir tapti miestiečiais, tačiau naujai
+    atvykstančius ar atvyksiančius liuteronus į Kauno miestą priimti draudžiama; kad
+    leidžiama rinkti į magistratą 6 liuteronus: 3 tarėjus ir 3 suolininkus.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

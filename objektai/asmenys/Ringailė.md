@@ -39,8 +39,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Teiginiai
 
 <a id="claim-t-93490"></a>
-- t-001
-  global_id: t-93490
+- t-003
   teiginys: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
 <a id="claim-t-93492"></a>
 - t-002
-  global_id: t-93492
   teiginys: "Vytautas pasiuntė seserį Ringailę įkaitu, laiduodamas sutartį su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -93,16 +91,15 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
     muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
     mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
-  citata_rodoma: |
-    Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
-      mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
+  citata_rodoma: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-\n  mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93492
+    - t-002
+
 - id: c-88853
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -118,6 +115,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93490
+    - t-003
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

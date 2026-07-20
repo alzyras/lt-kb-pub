@@ -31,7 +31,6 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 
 <a id="claim-t-03027"></a>
 - t-001
-  global_id: t-03027
   teiginys: "Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03027
+    - t-001

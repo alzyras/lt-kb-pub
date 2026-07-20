@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-192886"></a>
 - t-001
-  global_id: t-192886
   teiginys: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192886
+    - t-001

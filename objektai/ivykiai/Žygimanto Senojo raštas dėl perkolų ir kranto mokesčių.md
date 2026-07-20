@@ -8,11 +8,11 @@ datos:
   - '1623 m.'
 date_start: '1538'
 date_end: '1623'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201973"></a>
 - t-001
-  global_id: t-201973
   teiginys: "Nors Žygimantas Senasis numatė 100 kapų grašių baudą tiems, kurie nesilaikys šio jo nurodymo, matyt, kad Kauno pirklių bėdos Lietuvos upėse nesibaigė, nes 1552 ir 1556 m. Žygimantas Augustas kartojo 1538 m. rašto nurodymus neimti neįprasto dvigubo mokesčio."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -58,6 +57,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185320
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -80,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201973
+    - t-001

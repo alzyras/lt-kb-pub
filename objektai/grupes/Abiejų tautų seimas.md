@@ -37,7 +37,6 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
 
 <a id="claim-t-189511"></a>
 - t-001
-  global_id: t-189511
   teiginys: "Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų metų pabaiga."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189511
+    - t-001

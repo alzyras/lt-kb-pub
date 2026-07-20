@@ -31,7 +31,6 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
 
 <a id="claim-t-192107"></a>
 - t-001
-  global_id: t-192107
   teiginys: "Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -47,7 +46,7 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174988
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.'
@@ -72,8 +71,7 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192107
+
 ## Citatos
 
 - id: c-174988
@@ -81,23 +79,6 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
-    ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
-    LTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,
-    tiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau
-    atsiradusi heruiiškoji lietuvių tautos genezės teorija —
-    dviejų pirmųjų junginys. T. Narbutas buvo skaitęs ir
-    XVIII amžiaus pabaigos vokiečių publicisto ir istoriko
-    Augusto Liudviko fon Slėcerio tyrinėjimus, žinojo ir jo
-    nuomonę, jog lietuviai iki pat jų valstybės sukūrimo bu­
-    vo didelė, galinga, bet barbariška tauta, o Palemonas —
-    išgalvota asmenybė. Šio teiginio šalininkai buvo ir Ksa­
-    veras Bogušas, ir Jokimas Lelevelis, bet istorikas sten­
-    1 Saurai?
-    (Be datos.) T. Narbutas I. Onacevičiui // Lietuvos
-    Mokslų Akademijos bibliotekos Rankraščių skyrius (toliau — MAB
-    RS).
-  citata_rodoma: |
     T. Narbutas laiške Ignui Onacevičiui rašė: „Antrą to­
     mą paskyriau lietuvių tautos versmėms tyrinėti“1. Savo
     tikslą sukonkretino taip: „Šių raštų pirmą tomą skyrėme
@@ -105,10 +86,11 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
     ginius paminklus, iš kurių trykšta istorijos šaltiniai, o
     šiame tome dėstysime pačią istoriją“, t. y. „ieškosime
     vardo ir šlovės tos tautos, kuri davė mums pradžią“2.
+  citata_rodoma: "T. Narbutas laiške Ignui Onacevičiui rašė: „Antrą to­\nmą paskyriau lietuvių tautos versmėms tyrinėti“1. Savo\ntikslą sukonkretino taip: „Šių raštų pirmą tomą skyrėme\ntam, kad atskleistume brangius lietuvio širdžiai mitolo­\nginius paminklus, iš kurių trykšta istorijos šaltiniai, o\nšiame tome dėstysime pačią istoriją“, t. y. „ieškosime\nvardo ir šlovės tos tautos, kuri davė mums pradžią“2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192107
+    - t-001

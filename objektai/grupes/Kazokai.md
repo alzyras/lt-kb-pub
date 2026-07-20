@@ -41,8 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-65304"></a>
-- t-001
-  global_id: t-65304
+- t-006
   teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,9 +56,9 @@ media_all_json: |-
   pagrindžia:
     - c-42707
     - c-167047
+
 <a id="claim-t-65305"></a>
-- t-002
-  global_id: t-65305
+- t-003
   teiginys: "Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ media_all_json: |-
     - c-42704
 
 <a id="claim-t-65306"></a>
-- t-003
-  global_id: t-65306
+- t-004
   teiginys: "Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ media_all_json: |-
     - c-42705
 
 <a id="claim-t-65307"></a>
-- t-004
-  global_id: t-65307
+- t-002
   teiginys: "1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -114,8 +111,7 @@ media_all_json: |-
     - c-22455
 
 <a id="claim-t-65308"></a>
-- t-005
-  global_id: t-65308
+- t-001
   teiginys: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,7 @@ media_all_json: |-
     - c-22454
 
 <a id="claim-t-65309"></a>
-- t-006
-  global_id: t-65309
+- t-005
   teiginys: "Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -267,18 +262,15 @@ media_all_json: |-
     kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
     kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
-  citata_rodoma: |
-    1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
-    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
-    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
-    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
+  citata_rodoma: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti\nkazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-\nkę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-\nrų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65308
+    - t-001
+
 - id: c-22455
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -290,16 +282,15 @@ media_all_json: |-
     Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-  citata_rodoma: |
-    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
-    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
+  citata_rodoma: "Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-\nzokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65307
+    - t-002
+
 - id: c-42704
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -315,23 +306,15 @@ media_all_json: |-
     mis jėgomis su visa Lietuvos kariuomene
     nublokšti švedus į šiaurėje esantį pelkėtą
     mišką ir ten juos sunaikinti.
-  citata_rodoma: |
-    Šio sparno jėga - reitarų
-    sutelkta ugnis, husarų geležinis smūgis,
-    Lietuvos totorių ir kazokų manevringumas
-    persekiojant bėgantį priešą. Sparno užda-
-    vinys - apeiti priešininko dešinįjį sparną,
-    nustumti jį nuo Dauguvos kranto ir bendro-
-    mis jėgomis su visa Lietuvos kariuomene
-    nublokšti švedus į šiaurėje esantį pelkėtą
-    mišką ir ten juos sunaikinti.
+  citata_rodoma: "Šio sparno jėga - reitarų\nsutelkta ugnis, husarų geležinis smūgis,\nLietuvos totorių ir kazokų manevringumas\npersekiojant bėgantį priešą. Sparno užda-\nvinys - apeiti priešininko dešinįjį sparną,\nnustumti jį nuo Dauguvos kranto ir bendro-\nmis jėgomis su visa Lietuvos kariuomene\nnublokšti švedus į šiaurėje esantį pelkėtą\nmišką ir ten juos sunaikinti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65305
+    - t-003
+
 - id: c-42705
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -343,19 +326,15 @@ media_all_json: |-
     Neatlaikę puolimo, kazokai ėmė trauk-
     tis. LDK didysis etmonas pasiuntė ke-
     letą lengvosios kavalerijos - „lisovčikų“
-  citata_rodoma: |
-    Pirmiausiai janičarai (turkų pėstininkai),
-    o po to ir turkų kavalerija atakavo atski-
-    rai įsikūrusių Ukrainos kazokų stovyklą.
-    Neatlaikę puolimo, kazokai ėmė trauk-
-    tis.
+  citata_rodoma: "Pirmiausiai janičarai (turkų pėstininkai),\no po to ir turkų kavalerija atakavo atski-\nrai įsikūrusių Ukrainos kazokų stovyklą.\nNeatlaikę puolimo, kazokai ėmė trauk-\ntis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65306
+    - t-004
+
 - id: c-42706
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -380,7 +359,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65309
+    - t-005
+
 - id: c-42707
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -401,7 +381,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65304
+    - t-006
+
 - id: c-167047
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -420,6 +401,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]]

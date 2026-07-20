@@ -41,8 +41,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 ## Teiginiai
 
 <a id="claim-t-172067"></a>
-- t-001
-  global_id: t-172067
+- t-004
   teiginys: "Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156497
 
 <a id="claim-t-172069"></a>
-- t-002
-  global_id: t-172069
+- t-010
   teiginys: "Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156494
 
 <a id="claim-t-172070"></a>
-- t-003
-  global_id: t-172070
+- t-009
   teiginys: "Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156496
 
 <a id="claim-t-172071"></a>
-- t-004
-  global_id: t-172071
+- t-006
   teiginys: "Anglų lankininkų narsa ir sumanumas kartu su patrankų poveikiu lėmė didžiausius Lietuvos smūgius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156496
 
 <a id="claim-t-172072"></a>
-- t-005
-  global_id: t-172072
+- t-003
   teiginys: "Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156499
 
 <a id="claim-t-172073"></a>
-- t-006
-  global_id: t-172073
+- t-007
   teiginys: "Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,10 +144,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156499
 
 <a id="claim-t-172074"></a>
-- t-007
-  global_id: t-172074
+- t-002
   teiginys: "Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne."
-  atnaujinta: "2026-05-31 14:13"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -166,11 +159,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   semantiniai_rysiai: "Anglai prekiavo su Lietuva (0.62); Anglai gyveno Lietuva (0.60)"
   pagrindžia:
     - c-10105
-    - c-10106
 
 <a id="claim-t-172075"></a>
-- t-008
-  global_id: t-172075
+- t-005
   teiginys: "Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -279,7 +270,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172074
+    - t-002
+
 - id: c-10106
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -288,11 +280,10 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-172074
 - id: c-156493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -310,7 +301,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172075
+    - t-005
+
 - id: c-156494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -370,7 +362,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172069
+    - t-010
+
 - id: c-156496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -395,31 +388,16 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
     mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
     vo likimą31.
-  citata_rodoma: |
-    Arkikomtūro laiškas Romos
-    - •
-    123
-
-    ## Puslapis 140
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
-    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
-    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
-    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
-    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
-    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
-    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
-    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
-    vo likimą31.
+  citata_rodoma: "Arkikomtūro laiškas Romos\n- •\n123\n\n## Puslapis 140\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPatrankų, apie kurias neseniai buvo sužinota, baisūs pa­\ndariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose\nįgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo\npagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-\nšėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­\nti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­\ntutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito\nmūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­\nvo likimą31."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172070
-    - t-172071
+    - t-009
+    - t-006
+
 - id: c-156497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -473,7 +451,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172067
+    - t-004
+
 - id: c-156499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -497,5 +476,5 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172072
-    - t-172073
+    - t-003
+    - t-007

@@ -42,8 +42,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 ## Teiginiai
 
 <a id="claim-t-66077"></a>
-- t-001
-  global_id: t-66077
+- t-002
   teiginys: "1863 m. sukilimui slopinti Vilniaus karinėje apygardoje buvo sutelkta šimtatūkstantinė Rusijos armija, vėliau padidinta dar 1,5 karto."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     - c-22722
 
 <a id="claim-t-66078"></a>
-- t-002
-  global_id: t-66078
+- t-001
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 
 <a id="claim-t-66079"></a>
 - t-003
-  global_id: t-66079
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 
 <a id="claim-t-66080"></a>
 - t-004
-  global_id: t-66080
   teiginys: "1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,20 +165,16 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
     deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
     Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
-  citata_rodoma: |
-    Peterburge subrendo ir buvo surašytas Targovicos
-    (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-
-    jos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-
-    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
-    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.
+  citata_rodoma: "Peterburge subrendo ir buvo surašytas Targovicos\n(miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederaci-\njos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie\nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66078
-    - t-66079
+    - t-001
+    - t-003
+
 - id: c-22722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,19 +189,15 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     tūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po
     Krymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims
     karo veiksmų Baltijos pakrantėse.
-  citata_rodoma: |
-    Šį kartą valdžia sukilimo
-    slopinimui pasirengė – Vilniaus karinėje apygardoje buvo sutelkta šimta-
-    tūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po
-    Krymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims
-    karo veiksmų Baltijos pakrantėse.
+  citata_rodoma: "Šį kartą valdžia sukilimo\nslopinimui pasirengė – Vilniaus karinėje apygardoje buvo sutelkta šimta-\ntūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po\nKrymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims\nkaro veiksmų Baltijos pakrantėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66077
+    - t-002
+
 - id: c-42911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -222,20 +210,15 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus.
-  citata_rodoma: |
-    Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus.
+  citata_rodoma: "Tais pa-\nčiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66080
+    - t-004
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]
 - Rusijos kariuomenė užėmė [[objektai/vietos/Livonija]], [[objektai/vietos/Minskas]], [[objektai/vietos/Vilnius]]

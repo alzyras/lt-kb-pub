@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-20156"></a>
-- t-001
-  global_id: t-20156
+- t-002
   teiginys: "Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,21 +74,19 @@ Nenurodyta
     - c-22898
 
 <a id="claim-t-20157"></a>
-- t-002
-  global_id: t-20157
+- t-001
   teiginys: "Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1931 m.; įvykio data: 1931 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje aprašytą rinkimų mechanizmą."
   pagrindžia:
-    - c-22897
+    - c-166601
 
 <a id="claim-t-183214"></a>
 - t-003
-  global_id: t-183214
   teiginys: "1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -117,15 +114,13 @@ Nenurodyta
     dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
     apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie –
     prezidentą.
-  citata_rodoma: |
-    dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
+  citata_rodoma: "dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-20157
 - id: c-22898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,15 +134,15 @@ Nenurodyta
     į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
-  citata_rodoma: |
-    džio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Panašiai A. Smetona
+  citata_rodoma: "džio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Panašiai A. Smetona"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20156
+    - t-002
+
 - id: c-166601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,4 +160,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183214
+    - t-001
+    - t-003

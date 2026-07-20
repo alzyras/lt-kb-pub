@@ -31,7 +31,6 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
 
 <a id="claim-t-185473"></a>
 - t-001
-  global_id: t-185473
   teiginys: "Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185473
+    - t-001

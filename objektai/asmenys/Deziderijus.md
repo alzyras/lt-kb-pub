@@ -31,7 +31,6 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
 
 <a id="claim-t-186195"></a>
 - t-001
-  global_id: t-186195
   teiginys: "Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186195
+    - t-001

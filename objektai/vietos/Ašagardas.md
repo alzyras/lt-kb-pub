@@ -31,9 +31,8 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
 
 <a id="claim-t-188979"></a>
 - t-001
-  global_id: t-188979
   teiginys: "Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,26 +48,7 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171868
-    - c-001
 - susijęs iš [[objektai/zodynas/Murgai.md#claim-t-189315|Murgai]]: Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Milda mūšio lauke dalydavosi su Odinu.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
-    dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
-    murgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,
-    ji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-
-    madzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę
-    riterių vėlės. Jos karietą traukdavo dvejetas katinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188979
 ## Citatos
 
 - id: c-171868
@@ -76,28 +56,17 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    (Rymwidowi) suteikia žemę prie Merkio upės Trakų apskrity­
-    je. Ten pasakyta, kad duota kaip atpildas už didesnės, nei įsta­
-    tymais garantuojama, laisvės siekiančių Merkinės valsčiaus
-    valstiečių maišto nuslopinimą, taip pat už sugavimą maišti­
-    ninkų vado, vardu Leicis (Lejczis), kuris, paniekindamas jo
-    didenybės karaliaus orumą ir rimtumą, išdrįso paduoti kara­
-    liui katiną, sakydamas, kad tai esąs stabmeldiškosios laisvės
-    (Lietwii) ženklas.
-    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
-    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
-    dodavo laisvės deivės simboliu.
-  citata_rodoma: |
     Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
     dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
     murgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,
     ji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-
     madzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę
     riterių vėlės. Jos karietą traukdavo dvejetas katinų.
+  citata_rodoma: "Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­\ndalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas\nmurgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,\nji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-\nmadzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę\nriterių vėlės. Jos karietą traukdavo dvejetas katinų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188979
+    - t-001

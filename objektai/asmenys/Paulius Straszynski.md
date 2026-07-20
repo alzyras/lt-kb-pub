@@ -28,7 +28,6 @@ Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį liet
 
 <a id="claim-t-200884"></a>
 - t-001
-  global_id: t-200884
   teiginys: "Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį lietuvių kalbą bažnyčiose ir menkinusį lietuviškumą."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200884
+    - t-001

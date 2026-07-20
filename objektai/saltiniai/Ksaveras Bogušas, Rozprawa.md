@@ -30,7 +30,6 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
 
 <a id="claim-t-191702"></a>
 - t-001
-  global_id: t-191702
   teiginys: "Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
 
 <a id="claim-t-191703"></a>
 - t-002
-  global_id: t-191703
   teiginys: "Narbuto teigimu, Ksavero Bogušo veikaluose rasti įrodymai rodė, kad herulai keliavo į Reitgotiją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
 
 <a id="claim-t-197678"></a>
 - t-003
-  global_id: t-197678
   teiginys: "Tai patvirtinančių įrodymų randame Ksavero Bogušo veikaluose3; iš jų sužinome, jog herulų keliauta į Reitgotiją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -103,6 +100,7 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-174584
@@ -124,7 +122,8 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191702
+    - t-001
+
 - id: c-174585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -142,20 +141,12 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
     Reitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­
     kia lietuvių genčių gyvenamus pamario kraštus4, prie
     kurių priklausė ir H i r i j a (§ 240).
-  citata_rodoma: |
-    Tad artimiausias ir saugiausias herulų kelias vingiavo į
-    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
-    kur buvo visai netoli iki herulų gimtosios Jūros upės
-    krantų. Tai patvirtinančių įrodymų randame Ksavero Bo-
-    gušo veikaluose3; iš jų sužinome, jog herulų keliauta į
-    Reitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­
-    kia lietuvių genčių gyvenamus pamario kraštus4, prie
-    kurių priklausė ir H i r i j a (§ 240).
+  citata_rodoma: "Tad artimiausias ir saugiausias herulų kelias vingiavo į \nŠiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš \nkur buvo visai netoli iki herulų gimtosios Jūros upės \nkrantų. Tai patvirtinančių įrodymų randame Ksavero Bo- \ngušo veikaluose3; iš jų sužinome, jog herulų keliauta į \nReitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­\nkia lietuvių genčių gyvenamus pamario kraštus4, prie \nkurių priklausė ir H i r i j a (§ 240)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191703
-    - t-197678
+    - t-002
+    - t-003

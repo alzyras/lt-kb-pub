@@ -36,7 +36,6 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
 
 <a id="claim-t-61131"></a>
 - t-001
-  global_id: t-61131
   teiginys: "Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61131
+    - t-001

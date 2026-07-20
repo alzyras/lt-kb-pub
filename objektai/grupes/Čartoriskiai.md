@@ -30,8 +30,7 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 ## Teiginiai
 
 <a id="claim-t-45273"></a>
-- t-001
-  global_id: t-45273
+- t-004
   teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +99,8 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45273
+    - t-004
+
 ## Ryšiai
 - Rėmė Čartoriskiai: [[objektai/asmenys/Jekaterina II]]
 - Čartoriskiai siuntė į [[objektai/vietos/Petrapilis]]

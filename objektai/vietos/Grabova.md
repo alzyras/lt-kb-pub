@@ -39,8 +39,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 ## Teiginiai
 
 <a id="claim-t-67983"></a>
-- t-001
-  global_id: t-67983
+- t-002
   teiginys: "1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     - c-37389
 
 <a id="claim-t-67984"></a>
-- t-002
-  global_id: t-67984
+- t-001
   teiginys: "Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -93,19 +91,15 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
 
     (^1) ) Hirt.
-  citata_rodoma: |
-    Toliau Vytautas prekybos reikalus gynė beveik visose su
-    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
-    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
-
-    (^1) ) Hirt.
+  citata_rodoma: "Toliau Vytautas prekybos reikalus gynė beveik visose su\nOrdinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­\nrimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­\n\n(^1) ) Hirt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67983
+    - t-002
+
 - id: c-67692
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -121,15 +115,11 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
 
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: |
-    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
-    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
-    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
-    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
+  citata_rodoma: "Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis\nsu Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-\nrimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-\nkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67984
+    - t-001

@@ -31,7 +31,6 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
 
 <a id="claim-t-60775"></a>
 - t-001
-  global_id: t-60775
   teiginys: "M. Ročka cituojamas aiškinant tendenciją lietuvių praeitį sieti su tikrais ar menamais senovės Romos įvykiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60775
+    - t-001

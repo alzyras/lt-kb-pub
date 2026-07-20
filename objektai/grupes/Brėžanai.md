@@ -31,7 +31,6 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 
 <a id="claim-t-192994"></a>
 - t-001
-  global_id: t-192994
   teiginys: "Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 
 <a id="claim-t-197492"></a>
 - t-002
-  global_id: t-197492
   teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -83,6 +81,7 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-175764
@@ -101,20 +100,12 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
     žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
     tuvių kartos.
-  citata_rodoma: |
-    Bet
-    šis pavadinimas aprėpė įvairias arti viena kitos taikiai
-    gyvenusias arba tam tikrai lygai priklausiusias gentis, o
-    ta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
-    Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
-    rulai. Taip pat neabejotina, kad senovės valetabai ir lu-
-    žitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­
-    tuvių kartos.
+  citata_rodoma: "Bet \nšis pavadinimas aprėpė įvairias arti viena kitos taikiai \ngyvenusias arba tam tikrai lygai priklausiusias gentis, o \nta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės. \nŠiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu- \nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192994
-    - t-197492
+    - t-001
+    - t-002

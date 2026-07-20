@@ -39,7 +39,6 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
 
 <a id="claim-t-61060"></a>
 - t-001
-  global_id: t-61060
   teiginys: "Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
   temporalinis_llm_pakomentavimas: "Citata palaiko leidinio laikotarpį ir leidimo duomenis."
   pagrindžia:
     - c-61692
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m.'
@@ -69,8 +68,7 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61060
+
 ## Citatos
 
 - id: c-61692
@@ -81,13 +79,11 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
     1 (1231 —1340), Mainz, 1860.
     Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.
     Prochaska.— Cracoviae, 1882.
-  citata_rodoma: |
-    Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.
-    Prochaska.— Cracoviae, 1882.
+  citata_rodoma: "Codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376— 1430 / Collectus opera A.\nProchaska.— Cracoviae, 1882."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61060
+    - t-001

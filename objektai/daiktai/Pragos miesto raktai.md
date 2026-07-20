@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-35550"></a>
 - t-001
-  global_id: t-35550
   teiginys: "Pragos gyventojai iškilmingai sutiko Kaributą, įteikė jam miesto raktus ir pavedė karo vadovybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,15 +80,11 @@ Nenurodyta
     to raktus ir pavedė karo vadovybę.
     Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
     tus.
-  citata_rodoma: |
-    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
-    to raktus ir pavedė karo vadovybę.
-    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
-    tus.
+  citata_rodoma: "Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­\nto raktus ir pavedė karo vadovybę.\nCiesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­\ntus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35550
+    - t-001

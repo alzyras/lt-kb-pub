@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-31077"></a>
 - t-001
-  global_id: t-31077
   teiginys: "A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
-  citata_rodoma: |
-    — Vaičiulaitis, A.: _Vidurinių
-    amžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq. (tas pat
-    su papildymais : LASD, III, 1940, 315-319 p.). — Werminghoee, A. :
-    _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
-    Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p.
+  citata_rodoma: "— Vaičiulaitis, A.: _Vidurinių\namžių poetas Machaid Lietuvoje,_ Židinys, t. 29, 1939, 178-sqq. (tas pat\nsu papildymais : LASD, III, 1940, 315-319 p.). — Werminghoee, A. :\n_Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_\nArchiv, f. Urkundenforschung, t. 5, 1914, 21-40 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31077
+    - t-001

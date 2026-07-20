@@ -37,7 +37,6 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 
 <a id="claim-t-40845"></a>
 - t-001
-  global_id: t-40845
   teiginys: "MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,7 +65,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    UŽPELKIŲ KAUTYNĖS 241
+    1949 m. rugpjūčio 13 d. UŽPELKIŲ KAUTYNĖS 241
 
     fo}
     j=
@@ -89,34 +88,11 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
     gikų pagrindą sudarė atrinkti iš stribų gretų ir kitų sovietinių
     respublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat
     agentai buvo verbuojami iš suimtųjų partizanų.
-  citata_rodoma: |
-    UŽPELKIŲ KAUTYNĖS 241
-
-    fo}
-    j=
-    o
-    a
-    o
-    Qa
-    nn
-    co
-    ia
-    co
-    ae
-
-    ## Puslapis 244
-
-    NKVD SMOGIKAI
-
-    MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
-    tinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-
-    gikų pagrindą sudarė atrinkti iš stribų gretų ir kitų sovietinių
-    respublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat
-    agentai buvo verbuojami iš suimtųjų partizanų.
+  citata_rodoma: "UŽPELKIŲ KAUTYNĖS 241\n\nfo}\nj=\no\na\no\nQa\nnn\nco\nia\nco\nae\n\n## Puslapis 244\n\nNKVD SMOGIKAI\n\nMGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-\ntinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-\ngikų pagrindą sudarė atrinkti iš stribų gretų ir kitų sovietinių\nrespublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat\nagentai buvo verbuojami iš suimtųjų partizanų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40845
+    - t-001

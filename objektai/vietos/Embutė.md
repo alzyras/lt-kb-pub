@@ -37,7 +37,6 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 
 <a id="claim-t-41712"></a>
 - t-001
-  global_id: t-41712
   teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,20 +72,14 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
     vyko. Kurše tarp lietuvių ir Ordino vyko
     nuolatinės kovos, abi pusės jų metu pa-
     tyrė didelių nuostolių.
-  citata_rodoma: |
-    Mindaugo - „Lietuvos galingo karaliaus“
-    pajėgos įsiveržė į Kuršą, su piliadaužė-
-    mis puolė Ordino anksčiau užvaldytą
-    Embutės pilį, tačiau jos užimti nepa-
-    vyko. Kurše tarp lietuvių ir Ordino vyko
-    nuolatinės kovos, abi pusės jų metu pa-
-    tyrė didelių nuostolių.
+  citata_rodoma: "Mindaugo - „Lietuvos galingo karaliaus“\npajėgos įsiveržė į Kuršą, su piliadaužė-\nmis puolė Ordino anksčiau užvaldytą\nEmbutės pilį, tačiau jos užimti nepa-\nvyko. Kurše tarp lietuvių ir Ordino vyko\nnuolatinės kovos, abi pusės jų metu pa-\ntyrė didelių nuostolių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41712
+    - t-001
+
 ## Ryšiai
 - Puolė Embutę: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

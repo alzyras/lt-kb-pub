@@ -31,9 +31,8 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
 
 <a id="claim-t-191329"></a>
 - t-001
-  global_id: t-191329
   teiginys: "Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,30 +48,7 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174211
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Tai patvir­
-    tina Nestoro pateiktos žinios, kad skandinavams priklau­
-    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
-    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
-    vimais, Frotono III valdymą sieja su III krikščioniškosios
-    eros amžiumi.
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191329
+
 ## Citatos
 
 - id: c-174211
@@ -91,22 +67,11 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
     esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
     mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
     pat gyveno III amžiuje3.
-  citata_rodoma: |
-    Tai patvir­
-    tina Nestoro pateiktos žinios, kad skandinavams priklau­
-    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
-    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
-    vimais, Frotono III valdymą sieja su III krikščioniškosios
-    eros amžiumi.
-    234
-    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
-    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
-    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
-    pat gyveno III amžiuje3.
+  citata_rodoma: "Tai patvir­\ntina Nestoro pateiktos žinios, kad skandinavams priklau­\nsė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs\ndanų istorijos įvykius, palygintus su tiksliausiais skaičia­\nvimais, Frotono III valdymą sieja su III krikščioniškosios\neros amžiumi.\n234\nIslandų sakmėse, vadinamose šiaurinėmis sagomis,\nesama žinių apie įžymų rusų karalių, vadinamą Zugurla-\nmu, kuris, anot Torfėjo chronologinių skaičiavimų, taip\npat gyveno III amžiuje3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191329
+    - t-001

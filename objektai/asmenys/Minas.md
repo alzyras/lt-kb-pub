@@ -30,7 +30,6 @@ Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines
 
 <a id="claim-t-190185"></a>
 - t-001
-  global_id: t-190185
   teiginys: "Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines apeigas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,25 +47,7 @@ Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173068
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines apeigas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
-    tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
-    kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
-    jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
-    kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
-    sias slaptas apeigas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190185
+
 ## Citatos
 
 - id: c-173068
@@ -74,27 +55,17 @@ Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Būdavo dėstomas rinktinių fi­
-    losofų moralės mokslas, dievybė buvo vaizduojama subtili, ne­
-    materiali, nepriekaištinga, gyva, tobuliausia. Visuomet naktį,
-    tomis valandomis, kai fantazija pasiekia aukščiausią lygį, kai
-    tyla ir tamsa pažadina didžiausiems apmąstymams, visokie įtai­
-    symai, ugnys, šešėliai, visokiausios sąmonės apgaulės pagyvin­
-    davo tas šventas iškilmes.
-    Lietuviai turėjo savo slaptas apeigas, kurias joms pasišven-
-    tusieji ne kiekvienam atskleisdavo, todėl išsamesnės žinios apie
-    jas dingo kartu su jų netektimi.
-  citata_rodoma: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
     kad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina
     jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­
     kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
     sias slaptas apeigas.
+  citata_rodoma: "Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri\ntauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,\nkad jos atsirado senų senovėje. Egiptiečiai visiškai nesivadina\njų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­\nkus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­\nsias slaptas apeigas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190185
+    - t-001

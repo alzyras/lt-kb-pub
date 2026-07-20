@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185631"></a>
 - t-001
-  global_id: t-185631
   teiginys: "Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-185632"></a>
 - t-002
-  global_id: t-185632
   teiginys: "Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-196234"></a>
 - t-003
-  global_id: t-196234
   teiginys: "Gavęs žinią, kad Skirgaila skuba iš Rusios pralaužti apsupimo žiedo, Vytautas nutraukė apsupimą ir išvyko link Prūsijos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -132,32 +129,16 @@ Nenurodyta
     a p su p im ą
     apsupimą ir išvyko link Prū­
     sijos.
-  citata_rodoma: |
-    Porą kartų pa-
-    Puola,
-    p a tird a m a s
-    bandė visomis jėgomis pulti
-    nuostolių
-    pilis ir abu kartus buvo at­
-    stumti su nuostoliais. Tuo
-    metu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­
-    rėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat
-    gandai nepaprastai padidino Skirgailos jėgas, gal, žlu­
-    gus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal
-    dėl kitų sumetimų Vytautas vos išgirdęs, jog artėja
-    Skirgaila, skubiai nutraukė
-    N u tra u k ia
-    a p su p im ą
-    apsupimą ir išvyko link Prū­
-    sijos.
+  citata_rodoma: "Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais. Tuo \nmetu jie gavo žinią, kad Skirgaila skuba iš Rusios, no­\nrėdamas pralaužti apsupimo žiedą. Gal iš baimės, mat \ngandai nepaprastai padidino Skirgailos jėgas, gal, žlu­\ngus viltims, nenorėdamas ilgiau gaišti toje vietoje, gal \ndėl kitų sumetimų Vytautas vos išgirdęs, jog artėja\nSkirgaila, skubiai nutraukė \nN u tra u k ia \na p su p im ą \napsupimą ir išvyko link Prū­\nsijos."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185631
-    - t-196234
+    - t-001
+    - t-003
+
 - id: c-168993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -187,4 +168,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185632
+    - t-002

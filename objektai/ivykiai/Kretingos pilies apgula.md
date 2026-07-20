@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201287"></a>
 - t-001
-  global_id: t-201287
   teiginys: "Kaipogi tuo pačiu laiku tuointimpos kovės že maičiai su kalavijonimis ir kitais meldžionimis, už vis įgulė Krečių pilės, šiandien Kretingos, su Klai pėdos įgulė, kuriai įkyrėjus beramdyti tuointimpinius antpuolius žemaičių, kamendotas Klaipėdos no rėjo jiems."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184637
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Siuntė pulkus į Prūsus.
     Kaipogi tuo pačiu laiku tuointimpos kovės že­
@@ -73,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201287
+    - t-001

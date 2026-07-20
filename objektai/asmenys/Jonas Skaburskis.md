@@ -31,7 +31,6 @@ Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis 
 
 <a id="claim-t-80735"></a>
 - t-001
-  global_id: t-80735
   teiginys: "Jonas Skaburskis buvo 4-ojo pėstininkų pulko eilinis, savo prisiminimuose aprašęs generolo Žukausko apsilankymą fronte."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80735
+    - t-001

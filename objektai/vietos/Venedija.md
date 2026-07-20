@@ -27,26 +27,11 @@ media_all_json: |-
 
 Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-192909"></a>
-- t-001
-  global_id: t-192909
-  teiginys: 'Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, o etnonimo aiškinimas paliktas su Narbuto atribucija. Nepridėtas platesnis slavų kilmės aiškinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; llm_object: [[objektai/grupes/Venedai|Venedai]]'
-  pagrindžia:
-    - c-175679
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192479|Venedai]]: Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta.
-## Citatos
-
-- id: c-175679
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     101
 
@@ -57,10 +42,12 @@ Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą,
     nuo jo ir slavai buvo vadinami venedų tauta1.
     88
     Slavai.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-192909
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-192479|Venedai]]: Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta.

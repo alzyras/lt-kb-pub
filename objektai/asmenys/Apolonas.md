@@ -27,25 +27,11 @@ media_all_json: |-
 
 Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194128"></a>
-- t-001
-  global_id: t-194128
-  teiginys: 'Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas Apolono vaidmuo Palemono pasakojime. Kunigaikščio titulas ir legendinis pabėgimas palikti su metraščio atribucija.'
-  pagrindžia:
-    - c-176741
-
-## Citatos
-
-- id: c-176741
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     APIE ROMOS KUNIGAIKŠTI PALEMONĄ
     IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE
@@ -58,10 +44,8 @@ Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo 
     Rožės herbo 7  — Hektoras 8 .
     Ir išplaukė jis Viduržemio jūra, pasiėmęs su savi­
     mi vieną astronomą, kuris nusivokė apie žvaigždes.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194128
+  statusas: verified

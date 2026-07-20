@@ -43,7 +43,6 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
 
 <a id="claim-t-195083"></a>
 - t-001
-  global_id: t-195083
   teiginys: "1507 m. dokumente minimas objektas stovėjo Vilniaus Didžiojoje gatvėje, arti Švč. Trejybės vienuolyno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,19 +71,11 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
     jybės vienuolyno palei skersgatvį, o
     iš kitos pusės - už Žmitkovų Chmi-
     zinų vaikų namų.
-  citata_rodoma: |
-    Przedający
-    przyciskają pieczęc ojca swego. Pisan w
-    miestie Wileńskom, roku 1507 dnia Igo
-    Maja [Kuris stovėjo Vilniaus mies­
-    te, Didžiojoje gatvėje, arti Švč. Tre­
-    jybės vienuolyno palei skersgatvį, o
-    iš kitos pusės - už Žmitkovų Chmi-
-    zinų vaikų namų.
+  citata_rodoma: "Przedający \nprzyciskają pieczęc ojca swego. Pisan w \nmiestie Wileńskom, roku 1507 dnia Igo \nMaja [Kuris stovėjo Vilniaus mies­\nte, Didžiojoje gatvėje, arti Švč. Tre­\njybės vienuolyno palei skersgatvį, o \niš kitos pusės - už Žmitkovų Chmi- \nzinų vaikų namų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195083
+    - t-001

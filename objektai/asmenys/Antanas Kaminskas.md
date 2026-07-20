@@ -31,7 +31,6 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 
 <a id="claim-t-39710"></a>
 - t-001
-  global_id: t-39710
   teiginys: "Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 
 <a id="claim-t-183727"></a>
 - t-002
-  global_id: t-183727
   teiginys: "Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,8 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39710
+    - t-001
+
 - id: c-167115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,4 +100,4 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183727
+    - t-002

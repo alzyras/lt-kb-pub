@@ -38,7 +38,6 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
 
 <a id="claim-t-30128"></a>
 - t-001
-  global_id: t-30128
   teiginys: "Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30128
+    - t-001

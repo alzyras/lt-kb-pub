@@ -31,7 +31,6 @@ Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos
 
 <a id="claim-t-192834"></a>
 - t-001
-  global_id: t-192834
   teiginys: "Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos karaliui ir padėjo rengti karo žygius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192834
+    - t-001

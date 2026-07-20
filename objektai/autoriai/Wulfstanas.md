@@ -31,8 +31,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 ## Teiginiai
 
 <a id="claim-t-97232"></a>
-- t-001
-  global_id: t-97232
+- t-003
   teiginys: "Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - c-91714
 
 <a id="claim-t-97233"></a>
-- t-002
-  global_id: t-97233
+- t-001
   teiginys: "Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -58,8 +56,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - c-91713
 
 <a id="claim-t-97234"></a>
-- t-003
-  global_id: t-97234
+- t-002
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +73,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 
 <a id="claim-t-97235"></a>
 - t-004
-  global_id: t-97235
   teiginys: "Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,19 +111,15 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
 
     (^1) ) Klim.
-  citata_rodoma: |
-    Tas žinias jis sako
-    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
-    lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
-
-    (^1) ) Klim.
+  citata_rodoma: "Tas žinias jis sako\ngavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose\nlankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano\n\n(^1) ) Klim."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97235
+    - t-004
+
 - id: c-91712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -147,7 +139,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97234
+    - t-002
+
 - id: c-91713
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -164,7 +157,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97233
+    - t-001
+
 - id: c-91714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -181,4 +175,4 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97232
+    - t-003

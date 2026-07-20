@@ -31,7 +31,6 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
 
 <a id="claim-t-86524"></a>
 - t-001
-  global_id: t-86524
   teiginys: "Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86524
+    - t-001

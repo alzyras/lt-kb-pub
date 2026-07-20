@@ -37,7 +37,6 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
 
 <a id="claim-t-192128"></a>
 - t-001
-  global_id: t-192128
   teiginys: "I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -63,16 +62,11 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
     Paprastas žydelis daugiau domisi savo tauta nei lietu­
     viai. Kortos, romanai, garderobai — tokios yra jų dory­
     bės.
-  citata_rodoma: |
-    Mažai yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės
-      tokie abejingi ir taip nesirūpina savo krašto reikalais.
-      Paprastas žydelis daugiau domisi savo tauta nei lietu­
-      viai. Kortos, romanai, garderobai — tokios yra jų dory­
-      bės.
+  citata_rodoma: "Mažai yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės\n  tokie abejingi ir taip nesirūpina savo krašto reikalais.\n  Paprastas žydelis daugiau domisi savo tauta nei lietu­\n  viai. Kortos, romanai, garderobai — tokios yra jų dory­\n  bės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192128
+    - t-001

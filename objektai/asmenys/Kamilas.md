@@ -30,7 +30,6 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
 
 <a id="claim-t-190170"></a>
 - t-001
-  global_id: t-190170
   teiginys: "Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadino romėnus galams kopiant į Kapitolijų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190170
+    - t-001

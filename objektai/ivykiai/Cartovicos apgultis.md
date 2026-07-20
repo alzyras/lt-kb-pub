@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201316"></a>
 - t-001
-  global_id: t-201316
   teiginys: "Stepono dieną, 26 gruo džio mėnesio, pilį Cartovicą apgulė; pirmasis ant puolis nevyko, antrasis ir trečiasis taip pat, lygia dalia ir kiti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184666
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą
     patį metą sukėlęs didžią kariauną savo krašte ir
@@ -72,4 +72,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201316
+    - t-001

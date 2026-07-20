@@ -39,7 +39,6 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
 
 <a id="claim-t-78038"></a>
 - t-001
-  global_id: t-78038
   teiginys: "V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +76,11 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
     L I E T U V O S  I S T O R I J A
     174
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-  citata_rodoma: |
-    du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-    Architektas V. Landsbergis-Žemkalnis
-
-    L I E T U V O S  I S T O R I J A
-    174
-    lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
+  citata_rodoma: "du lietuviai, Steponas Darius ir Stasys Girėnas, mažu \n„Pienocentro“ pastatas Kaune (apie 1938).  \nArchitektas V. Landsbergis-Žemkalnis\n\nL I E T U V O S  I S T O R I J A\n174\nlėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78038
+    - t-001

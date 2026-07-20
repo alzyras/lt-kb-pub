@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01845"></a>
 - t-001
-  global_id: t-01845
   teiginys: "Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,15 +81,11 @@ Nenurodyta
     ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
-  citata_rodoma: |
-    Paskui prasidėjo
-    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
-    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
-    miesto (1640 m.).
+  citata_rodoma: "Paskui prasidėjo\nilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-\nniuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už\nmiesto (1640 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01845
+    - t-001

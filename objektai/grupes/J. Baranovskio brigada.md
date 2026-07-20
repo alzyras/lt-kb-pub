@@ -31,7 +31,6 @@ Baranovskio brigada atakuoja 2-ojo pėst.
 
 <a id="claim-t-40892"></a>
 - t-001
-  global_id: t-40892
   teiginys: "Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ Baranovskio brigada atakuoja 2-ojo pėst.
     ir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių
     pasitraukti. Į lietuvių užnugarį prasiveržia plk. M. Butkievičiaus kavalerijos
     brigada ir iki dienos pabaigos ji pasiekia Videniškio rajoną.
-  citata_rodoma: |
-    Jašiūnai
-
-    a
-    nčionėliai
-
-    ghiškis
-
-    @ Lapkričio 17 d. gen. J. Baranovskio brigada atakuoja 2-ojo pėst. p. pozicijas
-    ir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių
-    pasitraukti.
+  citata_rodoma: "Jašiūnai\n\na\nnčionėliai\n\nghiškis\n\n@ Lapkričio 17 d. gen. J. Baranovskio brigada atakuoja 2-ojo pėst. p. pozicijas\nir po visą dieną trukusių atkaklių kautynių priverčia lietuvius iš Giedraičių\npasitraukti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40892
+    - t-001

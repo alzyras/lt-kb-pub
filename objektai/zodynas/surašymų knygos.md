@@ -28,7 +28,6 @@ Vadinamosiose Surašymų knygose yra XVI a.
 
 <a id="claim-t-201815"></a>
 - t-001
-  global_id: t-201815
   teiginys: "Vadinamosiose Surašymų knygose yra XVI a."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Vadinamosiose Surašymų knygose yra XVI a.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201815
+    - t-001

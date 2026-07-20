@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-103837"></a>
 - t-001
-  global_id: t-103837
   teiginys: "Prieš kautynes karalius šventino riterius ir priėmė Ordino pasiuntinius, o mūšio metu buvo saugomas 60 raitelių."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-103838"></a>
 - t-002
-  global_id: t-103838
   teiginys: "Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103837
+    - t-001
+
 - id: c-96903
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -118,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103838
+    - t-002

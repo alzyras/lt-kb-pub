@@ -68,8 +68,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20823"></a>
-- t-001
-  global_id: t-20823
+- t-006
   teiginys: "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -85,8 +84,7 @@ media_all_json: |-
     - c-23546
 
 <a id="claim-t-20824"></a>
-- t-002
-  global_id: t-20824
+- t-005
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::customs"
@@ -121,15 +119,15 @@ Nenurodyta
     muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
-  citata_rodoma: |
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+  citata_rodoma: "500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20824
+    - t-005
+
 - id: c-23546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -146,14 +144,11 @@ Nenurodyta
     biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
     platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
     eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
-  citata_rodoma: |
-    Svarbiausia Vytauto jubiliejinių renginių mintis – tautos vienybė per
-    sukeltą platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios
-    LDK praeityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
+  citata_rodoma: "biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20823
+    - t-006

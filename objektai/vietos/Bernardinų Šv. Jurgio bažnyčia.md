@@ -7,10 +7,10 @@ datos:
   - '1617 m.'
 date_start: '1617'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
 
 <a id="claim-t-201704"></a>
 - t-001
-  global_id: t-201704
   teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
 
 <a id="claim-t-201705"></a>
 - t-002
-  global_id: t-201705
   teiginys: "Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201704
+    - t-001
 
 - id: c-185052
   autorius: "Zigmantas Kiaupa"
@@ -90,4 +88,4 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201705
+    - t-002

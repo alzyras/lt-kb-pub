@@ -32,7 +32,6 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 
 <a id="claim-t-193799"></a>
 - t-001
-  global_id: t-193799
   teiginys: "Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193799
+    - t-001

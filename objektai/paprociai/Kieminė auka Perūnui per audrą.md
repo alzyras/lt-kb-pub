@@ -48,8 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07784"></a>
-- t-001
-  global_id: t-07784
+- t-003
   teiginys: "Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -65,8 +64,7 @@ Nenurodyta
     - c-09940
 
 <a id="claim-t-07785"></a>
-- t-002
-  global_id: t-07785
+- t-004
   teiginys: "Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -92,39 +90,32 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
-    krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
-    tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
-    varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
-    javų to kipšo, melsiu tave šia palčia lašinių.“^
-  citata_rodoma: |
-    Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
-    krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
-    tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
-    varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
-    javų to kipšo, melsiu tave šia palčia lašinių.“^
+        krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
+        tankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar
+        varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
+        javų to kipšo, melsiu tave šia palčia lašinių.“^
+  citata_rodoma: "Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo\nkrušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,\ntankiai lašinių paltį į kukšterą įkabinęs, kepurę nuvožęs, apnešė tris kartus apsuk savo rugius ar\nvarstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano\njavų to kipšo, melsiu tave šia palčia lašinių.“^"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07785
+    - t-004
+
 - id: c-09940
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
-    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
-    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
-  citata_rodoma: |
-    Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
-    puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
-    dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
+        puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
+        dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
+  citata_rodoma: "Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams\npuotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam\ndėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07784
+    - t-003

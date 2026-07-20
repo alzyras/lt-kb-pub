@@ -39,8 +39,7 @@ Jį valdė Vilniaus generalgubernatorius.
 ## Teiginiai
 
 <a id="claim-t-45820"></a>
-- t-001
-  global_id: t-45820
+- t-003
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,9 +57,9 @@ Jį valdė Vilniaus generalgubernatorius.
   pagrindžia:
     - c-48499
     - c-166819
+
 <a id="claim-t-45822"></a>
 - t-002
-  global_id: t-45822
   teiginys: "Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Jį valdė Vilniaus generalgubernatorius.
     - c-48497
 
 <a id="claim-t-182947"></a>
-- t-003
-  global_id: t-182947
+- t-001
   teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -117,7 +115,8 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182947
+    - t-001
+
 - id: c-48497
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,7 +133,8 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45822
+    - t-002
+
 - id: c-48499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,22 +149,15 @@ Jį valdė Vilniaus generalgubernatorius.
     reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
     įstatymų aktuose.
-  citata_rodoma: |
-    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
-    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
-    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
-    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
-    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
-    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
-    reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
-    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+  citata_rodoma: "Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-\nnančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė \nryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-\nvas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-\nmus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai \nišmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių \nreforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta \nvykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45820
+    - t-003
+
 - id: c-166819
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,3 +175,5 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

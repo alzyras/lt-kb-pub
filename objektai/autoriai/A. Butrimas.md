@@ -39,7 +39,6 @@ Butrimas ir kiti.
 
 <a id="claim-t-63304"></a>
 - t-001
-  global_id: t-63304
   teiginys: "A. Butrimas buvo vienas 2009 m. Vilniuje išleistos knygos „Lietuva 1009–2009“ sudarytojų."
   atnaujinta: "2026-05-30 14:17"
   sprendimo_priezastis: "auto"
@@ -64,15 +63,13 @@ Butrimas ir kiti.
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
   indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
-    Lietuva
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
-  citata_rodoma: |
-    Lietuva
-    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009;
+    Chicago, 2010; Lietuva
+    1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.
+  citata_rodoma: "Chicago, 2010; Lietuva\n1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63304
+    - t-001

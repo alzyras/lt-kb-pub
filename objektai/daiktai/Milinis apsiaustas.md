@@ -47,22 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195346"></a>
-- t-001
-  global_id: t-195346
-  teiginys: "Elgetai dovanotas ir vėliau broliui atiduotas drabužis."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177751
-    - c-177750
-- susijęs iš [[objektai/paprociai/„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys.md#claim-t-195385|„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys]]: Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais.
-- susijęs iš [[objektai/zodynas/Dieveriai.md#claim-t-195633|Dieveriai]]: Dieveriai šiame šaltinyje yra vyro broliai.
-- susijęs iš [[objektai/zodynas/Mošės.md#claim-t-195632|Mošės]]: Mošės šiame šaltinyje yra vyro seserys.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -82,15 +66,13 @@ Nenurodyta
     Kai pamatė brolis,
     tamstų
     kerdžius: „Dovanok, brolyti, man tą apsiaustą“ .
-  citata_rodoma: |
-    Kai pamatė brolis, tamstų kerdžius: „Dovanok, brolyti, man tą apsiaustą“ .
+  citata_rodoma: "Kai pamatė brolis, tamstų kerdžius: „Dovanok, brolyti, man tą apsiaustą“ ."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195346
 - id: c-177751
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -103,12 +85,15 @@ Nenurodyta
     užtikau laidotuves — gi man šeimininkė
     šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino
     dūšią.“ Su dovana tiesiai patraukiau ant namų.
-  citata_rodoma: |
-    užtikau laidotuves — gi man šeimininkė šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino dūšią.“
+  citata_rodoma: "užtikau laidotuves — gi man šeimininkė šmakšt ir padavė apynaujį milinį apsiaustą: „Pasimelsk už Valentino dūšią.“"
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195346
+## Teiginiai
+
+- susijęs iš [[objektai/paprociai/„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys.md#claim-t-195385|„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys]]: Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais.
+- susijęs iš [[objektai/zodynas/Dieveriai.md#claim-t-195633|Dieveriai]]: Dieveriai šiame šaltinyje yra vyro broliai.
+- susijęs iš [[objektai/zodynas/Mošės.md#claim-t-195632|Mošės]]: Mošės šiame šaltinyje yra vyro seserys.

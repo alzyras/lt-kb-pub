@@ -54,8 +54,7 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
 ## Teiginiai
 
 <a id="claim-t-195622"></a>
-- t-001
-  global_id: t-195622
+- t-002
   teiginys: "Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas."
   atnaujinta: "2026-07-12 08:46"
   sprendimo_priezastis: "gap::vocabulary"
@@ -80,12 +79,11 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
     Žydai ėmė sakyti, kad tai
     ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad
     tai teisybė, — ir vienas kitas ėmė gerti likerį.
-  citata_rodoma: |
-    Žydai ėmė sakyti, kad tai ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad tai teisybė, — ir vienas kitas ėmė gerti likerį.
+  citata_rodoma: "Žydai ėmė sakyti, kad tai ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad tai teisybė, — ir vienas kitas ėmė gerti likerį."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195622
+    - t-002

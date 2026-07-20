@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-91925"></a>
 - t-001
-  global_id: t-91925
   teiginys: "Prūsai turėjo šventųjų giraičių, laukų ir vandenų, kuriuose niekas nedrįso kirsti medžių, dirbti žemės ar žvejoti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91925
+    - t-001

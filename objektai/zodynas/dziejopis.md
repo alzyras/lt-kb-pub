@@ -54,8 +54,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
 ## Teiginiai
 
 <a id="claim-t-192300"></a>
-- t-001
-  global_id: t-192300
+- t-002
   teiginys: "Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -73,8 +72,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
     - c-175114
 
 <a id="claim-t-192301"></a>
-- t-002
-  global_id: t-192301
+- t-003
   teiginys: "Narbutas nurodė: Simonas Daukantas žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „latopisiec“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -92,8 +90,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
     - c-175114
 
 <a id="claim-t-192302"></a>
-- t-003
-  global_id: t-192302
+- t-004
   teiginys: "Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -111,8 +108,7 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
     - c-175114
 
 <a id="claim-t-192303"></a>
-- t-004
-  global_id: t-192303
+- t-001
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -152,17 +148,14 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
     senovėje“ — beveik identiškai
     S. Daukanto tekstui „Pasakojimas apie veikalus lietuvių
     tautos senovėje“.
-  citata_rodoma: |
-    „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
-    aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-
-    kalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t.
+  citata_rodoma: "„Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“\naiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-\nkalu“, „dziejopis“ — „wejkaluraszytojas“ ir t. t."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192300
-    - t-192301
-    - t-192302
-    - t-192303
+    - t-002
+    - t-003
+    - t-004
+    - t-001

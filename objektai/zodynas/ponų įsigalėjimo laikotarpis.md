@@ -38,7 +38,6 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 
 <a id="claim-t-74034"></a>
 - t-001
-  global_id: t-74034
   teiginys: "A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,16 +76,11 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: |
-    Zigmanto santykiai su Lenkija ir jo mirtis 173
-    5. Jogaila 174
-    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
-    laikotarpis
-    I.
+  citata_rodoma: "Zigmanto santykiai su Lenkija ir jo mirtis 173\n5. Jogaila 174\nB. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo\nlaikotarpis\nI."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74034
+    - t-001

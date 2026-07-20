@@ -31,8 +31,7 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 ## Teiginiai
 
 <a id="claim-t-81606"></a>
-- t-001
-  global_id: t-81606
+- t-003
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 
 <a id="claim-t-81607"></a>
 - t-002
-  global_id: t-81607
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,8 +65,7 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     - c-78199
 
 <a id="claim-t-81608"></a>
-- t-003
-  global_id: t-81608
+- t-001
   teiginys: "Žalgirio mūšyje Smolensko pulkai liko centre tarp lietuvių ir lenkų, vadovaujami Lengvenio sūnaus Jurgio."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -100,7 +97,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81608
+    - t-001
+
 - id: c-78199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -124,25 +122,12 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
-  citata_rodoma: |
-    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
-    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
-    162
-
-    ## Puslapis 179
-
-    Il KNYGA
-    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
-    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
-    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
-    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
-    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
-    mos.
+  citata_rodoma: "Mūsų nuomonę apie šio laiško senumą patvirtina ne tik\njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku\nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį\nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81606
-    - t-81607
+    - t-003
+    - t-002

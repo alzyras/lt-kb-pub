@@ -37,7 +37,6 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 
 <a id="claim-t-02908"></a>
 - t-001
-  global_id: t-02908
   teiginys: "Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,15 +78,11 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
     sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
     o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
     fliktas su Lenkija.
-  citata_rodoma: |
-    Visuotinis T. S-gos susirinkimas, be
-    to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą
-    suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo
-    padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
+  citata_rodoma: "Visuotinis T. S-gos susirinkimas, be\nto, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą\nsuvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo\npadaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02908
+    - t-001

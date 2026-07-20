@@ -38,8 +38,7 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 ## Teiginiai
 
 <a id="claim-t-55001"></a>
-- t-001
-  global_id: t-55001
+- t-002
   teiginys: "Grzybowski, įvardytas pranciškonu, rašė, kad Goštautas Vilniuje įkūrė vienuolyną ir vertė miestiečius į Kristaus tikėjimą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::authors"
@@ -55,8 +54,7 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
     - c-55565
 
 <a id="claim-t-81900"></a>
-- t-002
-  global_id: t-81900
+- t-004
   teiginys: "Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -73,7 +71,6 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 
 <a id="claim-t-81901"></a>
 - t-003
-  global_id: t-81901
   teiginys: "Grzybowskis teigė, kad Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į Kristaus tikėjimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::authors"
@@ -127,8 +124,9 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55001
-    - t-81901
+    - t-002
+    - t-003
+
 - id: c-78432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,4 +155,4 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-81900
+    - t-004

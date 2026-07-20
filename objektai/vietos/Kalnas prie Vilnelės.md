@@ -37,7 +37,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 <a id="claim-t-86073"></a>
 - t-001
-  global_id: t-86073
   teiginys: "1580 m. prie Kasparo Bekešo kapo ant kalno prie Vilnelės buvo pastatytas apvalaus bokšto pavidalo paminklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 <a id="claim-t-86074"></a>
 - t-002
-  global_id: t-86074
   teiginys: "Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86074
+    - t-002
+
 - id: c-82053
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -122,19 +121,11 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
     [Vyskupo seminarijos fundacija iš
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
-  citata_rodoma: |
-    Vilniaus turguje 1580 metų birželio 18 dieną
-    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
-    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
-    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
-    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
-    [Vyskupo seminarijos fundacija iš
-    vyskupo stalo dvaro, vadinamo
-    Vozgėliškėmis [Vaisgėliškis].
+  citata_rodoma: "Vilniaus turguje 1580 metų birželio 18 dieną \nbuvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­\nvystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 \nmetais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, \npastačius apvalaus bokšto pavidalo paminklą, išlikusį iki\n[Vyskupo seminarijos fundacija iš \nvyskupo stalo dvaro, vadinamo \nVozgėliškėmis [Vaisgėliškis]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86073
+    - t-001

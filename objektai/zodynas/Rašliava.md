@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-168690"></a>
-- t-001
-  global_id: t-168690
+- t-005
   teiginys: "Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,16 @@ Nenurodyta
     - c-153486
 
 <a id="claim-t-168692"></a>
-- t-002
-  global_id: t-168692
+- t-004
   teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-153490
+    - c-153486
 
 <a id="claim-t-168695"></a>
-- t-003
-  global_id: t-168695
+- t-006
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -117,16 +114,16 @@ Nenurodyta
     dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
-  citata_rodoma: |
-    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
-    publicistišką charakterį.
+  citata_rodoma: "Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo\npublicistišką charakterį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168690
+    - t-005
+    - t-004
+
 - id: c-153487
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -141,17 +138,15 @@ Nenurodyta
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
-  citata_rodoma: |
-    Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
-    raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
-    kinga, maištaujanti lenkų globojama valstybė.
+  citata_rodoma: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų\nraštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-\nkinga, maištaujanti lenkų globojama valstybė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-168695
+    - t-006
+
 - id: c-153490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,13 +157,9 @@ Nenurodyta
     mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
     ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
     tiek visuomenė, tiek mokykla.
-  citata_rodoma: |
-    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
-    ūgėjo.
+  citata_rodoma: "Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-\nūgėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-168692

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87246"></a>
 - t-001
-  global_id: t-87246
   teiginys: "Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-87247"></a>
 - t-002
-  global_id: t-87247
   teiginys: "Trijuose laiškuose antspaudo niekintojai buvo pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87247
+    - t-002
+
 - id: c-83226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -129,4 +128,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87246
+    - t-001

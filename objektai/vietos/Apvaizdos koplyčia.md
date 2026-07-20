@@ -28,7 +28,6 @@ Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampi
 
 <a id="claim-t-200799"></a>
 - t-001
-  global_id: t-200799
   teiginys: "Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampio plano pastatas su lengvu kupolu."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200799
+    - t-001

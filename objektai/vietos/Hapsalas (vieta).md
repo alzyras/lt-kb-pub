@@ -33,7 +33,6 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
 
 <a id="claim-t-201163"></a>
 - t-001
-  global_id: t-201163
   teiginys: "Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
 ## Citatos
 
 - id: c-184513
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuojau
     susirinkę 10 000 igumių pakėlė sau karvedį ir danų
@@ -62,4 +62,4 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201163
+    - t-001

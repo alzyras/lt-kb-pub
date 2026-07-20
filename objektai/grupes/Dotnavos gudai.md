@@ -55,7 +55,6 @@ Vietinė etninė bendruomenė.
 
 <a id="claim-t-195511"></a>
 - t-001
-  global_id: t-195511
   teiginys: "Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -66,7 +65,6 @@ Vietinė etninė bendruomenė.
 
 <a id="claim-t-195512"></a>
 - t-002
-  global_id: t-195512
   teiginys: "Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -83,21 +81,13 @@ Vietinė etninė bendruomenė.
   puslapiai: "p. 151 (PDF 149)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 151 (PDF 149)."
   citata_originali: |
-    Praaušus atsikelia šeiminin­
-    kė ir žadina visus kelti ir valgyti pusryčių.
-    Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną
-    ne dieną pradėdamas, bet visada eidamas valgyti
-    pusryčių.
-    Mums
-    įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyven­
-    ti su mumis ir skiriasi kalba ir būdu.
-  citata_rodoma: |
     Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu.
+  citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195511
-    - t-195512
+    - t-001
+    - t-002

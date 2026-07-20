@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05370"></a>
-- t-001
-  global_id: t-05370
+- t-005
   teiginys: "Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Nenurodyta
     - c-05435
 
 <a id="claim-t-97142"></a>
-- t-002
-  global_id: t-97142
+- t-008
   teiginys: "Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +84,7 @@ Nenurodyta
     - c-91655
 
 <a id="claim-t-97143"></a>
-- t-003
-  global_id: t-97143
+- t-007
   teiginys: "XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -123,7 +120,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05370
+    - t-005
+
 - id: c-91653
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -144,7 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97143
+    - t-007
+
 - id: c-91655
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -160,15 +159,11 @@ Nenurodyta
     miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
-  citata_rodoma: |
-    Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-
-    miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
-    kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
-    kestį sidabriniais pinigais).
+  citata_rodoma: "Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-\nminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-\nkėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-\nkestį sidabriniais pinigais)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97142
+    - t-008

@@ -7,10 +7,10 @@ datos:
   - '1404 m.'
 date_start: '1404'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Prekybos tvarkos straipsniai buvo pakartoti 1404 m. Racionžo taikos sutartyje.
 
 <a id="claim-t-202255"></a>
 - t-001
-  global_id: t-202255
   teiginys: "Prekybos tvarkos straipsniai buvo pakartoti 1404 m. Racionžo taikos sutartyje."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Prekybos tvarkos straipsniai buvo pakartoti 1404 m. Racionžo taikos sutartyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202255
+    - t-001

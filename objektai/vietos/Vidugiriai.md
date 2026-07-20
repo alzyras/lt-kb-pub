@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-42268"></a>
 - t-001
-  global_id: t-42268
   teiginys: "6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ media_all_json: |-
 
 <a id="claim-t-42269"></a>
 - t-002
-  global_id: t-42269
   teiginys: "Vidugirių kaime rasta ką tik iš Eglainės atvykusių 6-ojo pėstininkų pulko batalionų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ media_all_json: |-
 
 <a id="claim-t-42270"></a>
 - t-003
-  global_id: t-42270
   teiginys: "1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,7 +107,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42269
+    - t-002
+
 - id: c-45404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,20 +121,15 @@ media_all_json: |-
     mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
 
     1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA 201
-  citata_rodoma: |
-    Tuojau pasirodė ir pulko vadas pulkininkas
-
-    1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio
-    mūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno
-
-    1920 m.
+  citata_rodoma: "Tuojau pasirodė ir pulko vadas pulkininkas\n\n1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio\nmūšyje netoli Vidugirio kaimo Itn. Jono Kuklierio kūno\n\n1920 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42270
+    - t-003
+
 - id: c-45405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -150,18 +143,11 @@ media_all_json: |-
     vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
     vusį to paties pulko I batalioną Vidugirių kaime.
     „Vidugirių kaimą pasiekėme po pietų.
-  citata_rodoma: |
-    “ |
-
-    | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-
-    mena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir
-    vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
-    vusį to paties pulko I batalioną Vidugirių kaime.
-    „Vidugirių kaimą pasiekėme po pietų.
+  citata_rodoma: "“ |\n\n| 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-\nmena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir\nvadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-\nvusį to paties pulko I batalioną Vidugirių kaime.\n„Vidugirių kaimą pasiekėme po pietų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42268
+    - t-001

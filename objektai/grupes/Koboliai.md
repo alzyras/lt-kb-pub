@@ -30,7 +30,6 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
 
 <a id="claim-t-189456"></a>
 - t-001
-  global_id: t-189456
   teiginys: "Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdavo jų sudėtą skiedrų krūvą ir sugadintą pieną."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189456
+    - t-001

@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-180060"></a>
 - t-001
-  global_id: t-180060
   teiginys: "Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-180061"></a>
 - t-002
-  global_id: t-180061
   teiginys: "1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą."
   atnaujinta: "2026-05-31 14:18"
   sprendimo_priezastis: "auto"
@@ -93,7 +91,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180061
+    - t-002
+
 - id: c-163690
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,4 +111,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180060
+    - t-001

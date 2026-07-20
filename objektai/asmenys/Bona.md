@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Bona'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -12,7 +13,7 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - karalienė
+  - miestas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'
@@ -37,8 +38,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 ## Teiginiai
 
 <a id="claim-t-87467"></a>
-- t-001
-  global_id: t-87467
+- t-003
   teiginys: "Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +54,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-83449
 
 <a id="claim-t-87468"></a>
-- t-002
-  global_id: t-87468
+- t-001
   teiginys: "Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-83448
 
 <a id="claim-t-87469"></a>
-- t-003
-  global_id: t-87469
+- t-002
   teiginys: "Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 
 <a id="claim-t-87470"></a>
 - t-004
-  global_id: t-87470
   teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,6 +103,30 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   temporalinis_llm_pakomentavimas: "Citata palaiko Bonos pritarimą, o įvardis turi būti išskleistas į asmens vardą."
   pagrindžia:
     - c-83447
+
+<a id="claim-t-201518"></a>
+- t-005
+  teiginys: "Tai buvo Žygimanto Senojo žmona Bona."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184865
+
+<a id="claim-t-201519"></a>
+- t-006
+  teiginys: "Kauno miestiečių ginčais buvo susirūpinusi ką tik iš Grigo Astiko Kauno seniūni ją išpirkusi Bona."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184866
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173124|Bona Sforca]]: Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
@@ -155,35 +176,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     pirmieji to dokumento žodžiai:
     „Mes, didysis kunigaikštis Vytautas,
     švento krikšto metu gavęs Aleksan­
-    dro vardą" ir 1.
-  citata_rodoma: |
-    Veiklus, santūrus, kilnus, my­
-    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
-    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
-    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
-    geri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­
-    sius: juk visos Vytauto dorybės tik jo paties, gyvenusio
-    85
-    Tiesa, šimtmečiu vėliau karalienė
-    Bona pagerbė Vytauto atminimą
-    antkapiniu marmuro paminklu di­
-    džiojo altoriaus dešinėje pusėje. Iš
-    vieno Vytauto dovanojimo akto Tra­
-    kų miestui, 1384 metų rugpjūčio 23
-    dieną rašyto, aišku, kaip tatai ir iš
-    istorijos žinoma, kad tuo metu jis jau
-    buvęs krikščionis, ką liudija patys
-    pirmieji to dokumento žodžiai:
-    „Mes, didysis kunigaikštis Vytautas,
-    švento krikšto metu gavęs Aleksan­
-    dro vardą" ir 1.
+    dro vardą" ir 1.1.
+  citata_rodoma: "Veiklus, santūrus, kilnus, my­\nlintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika, \ntačiau ūmus, per daug ambicingas, kartais siekiantis savo \ntikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto \ngeri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­\nsius: juk visos Vytauto dorybės tik jo paties, gyvenusio\n85\nTiesa, šimtmečiu vėliau karalienė \nBona pagerbė Vytauto atminimą \nantkapiniu marmuro paminklu di­\ndžiojo altoriaus dešinėje pusėje. Iš \nvieno Vytauto dovanojimo akto Tra­\nkų miestui, 1384 metų rugpjūčio 23 \ndieną rašyto, aišku, kaip tatai ir iš \nistorijos žinoma, kad tuo metu jis jau \nbuvęs krikščionis, ką liudija patys \npirmieji to dokumento žodžiai:\n„Mes, didysis kunigaikštis Vytautas, \nšvento krikšto metu gavęs Aleksan­\ndro vardą\" ir 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87469
+    - t-002
+
 - id: c-83447
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,7 +204,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87470
+    - t-004
+
 - id: c-83448
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -223,7 +226,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87468
+    - t-001
+
 - id: c-83449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -241,4 +245,38 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87467
+    - t-003
+
+- id: c-184865
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Tik vieno laikotarpio toks Kauno miesto užtarėjas ir tarsi savotiškas miesto prie-
+    vaizdas yra žinomas. Tai buvo Žygimanto Senojo žmona Bona. Ji labai aktyviai veikė
+    Lietuvoje rūpindamasi domeno valdomis ir apskritai valdovo ūkiniais reikalais.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-184866
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kaip galima spręsti iš dokumento konteksto, jie tai darė
+    naudodamiesi savo tarnybine padėtimi, vaito ir burmistro galia.
+    Kauno miestiečių ginčais buvo susirūpinusi ką tik iš Grigo Astiko Kauno seniūni­
+    ją išpirkusi Bona. Kaip galima spręsti iš sprendimo formuluočių, ji palaikė miestiečių
+    bendruomenę.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

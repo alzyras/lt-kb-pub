@@ -49,19 +49,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195347"></a>
-- t-001
-  global_id: t-195347
-  teiginys: "Elgetos nešiojamas gynybos ir pasiramstymo daiktas."
-  atnaujinta: "2026-07-12 01:47"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177752
-- susijęs iš Valatkaičių dvaras: Valatkaičių dvare buvo žinomi pikti šunys.
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -75,12 +62,13 @@ Nenurodyta
   citata_originali: |
     — Gi kad ir taip nieks neina. Žinai, ponaiti, kad elgeta su šuni­
     mis nesugyvena. Del jų elgeta turi nešioti lazdą ir rimbą.
-  citata_rodoma: |
-    Del jų elgeta turi nešioti lazdą ir rimbą.
+  citata_rodoma: "Del jų elgeta turi nešioti lazdą ir rimbą."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195347
+## Teiginiai
+
+- susijęs iš Valatkaičių dvaras: Valatkaičių dvare buvo žinomi pikti šunys.

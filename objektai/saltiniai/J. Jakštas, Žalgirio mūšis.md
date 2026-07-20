@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31727"></a>
 - t-001
-  global_id: t-31727
   teiginys: "J. Jakšto „Žalgirio mūšis“ paskelbtas Lietuvių enciklopedijos 35 tome, p. 158–163."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,13 +63,11 @@ media_all_json: |-
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964.
-  citata_rodoma: |
-    — (”) _Žalgirio mūšis,_ LE, t. 35,
-    158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959.
+  citata_rodoma: "— (”) _Žalgirio mūšis,_ LE, t. 35,\n158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31727
+    - t-001

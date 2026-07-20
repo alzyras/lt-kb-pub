@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20316"></a>
 - t-001
-  global_id: t-20316
   teiginys: "1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, taip pat priimta Lietuvos SSR suvereniteto deklaracija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
     dėl Lietuvos SSR valstybinio suvereniteto.
-  citata_rodoma: |
-    čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+  citata_rodoma: "čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20316
+    - t-001

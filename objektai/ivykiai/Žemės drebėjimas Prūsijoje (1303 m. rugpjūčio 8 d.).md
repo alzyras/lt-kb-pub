@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-62549"></a>
 - t-001
-  global_id: t-62549
   teiginys: "1303 m. rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus sudrebėjo žemė ir pastatai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -82,16 +81,11 @@ Nenurodyta
     Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
     Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
     šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
-  citata_rodoma: |
-    Apie žemės drebėjimą Prūsijos žemėje
-
-      Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
-    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė
-    šis antgamtiškas žemės drebėjimas, paaiškės vėliau.
+  citata_rodoma: "Apie žemės drebėjimą Prūsijos žemėje\n\n  Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.\nTris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs. Ką reiškė\nšis antgamtiškas žemės drebėjimas, paaiškės vėliau."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62549
+    - t-001

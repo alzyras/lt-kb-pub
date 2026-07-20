@@ -40,8 +40,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 ## Teiginiai
 
 <a id="claim-t-43757"></a>
-- t-001
-  global_id: t-43757
+- t-002
   teiginys: "Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     - c-46601
 
 <a id="claim-t-43759"></a>
-- t-002
-  global_id: t-43759
+- t-001
   teiginys: "1309 m. didžiajam magistrui persikėlus į Prūsus, Marijenburgas tapo ordino centru."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 
 <a id="claim-t-193212"></a>
 - t-003
-  global_id: t-193212
   teiginys: "Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43757
+    - t-002
+
 - id: c-47097
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -132,16 +130,15 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
     m. ir didysis magistras
     persikėlė į Prūsus. Tuo būdu ordino centras pasidarė Ma-
     rijenburgas.
-  citata_rodoma: |
-    Tuo būdu ordino centras pasidarė Ma-
-    rijenburgas.
+  citata_rodoma: "Tuo būdu ordino centras pasidarė Ma-\nrijenburgas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43759
+    - t-001
+
 - id: c-175956
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -160,7 +157,8 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193212
+    - t-003
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Marijenburgas priklausė [[objektai/vietos/Lenkija]]

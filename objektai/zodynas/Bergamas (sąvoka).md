@@ -33,7 +33,6 @@ Vorobjovas Vilniaus gatvių vaizdus lygino su Venecija, Bergamu ir kitais turist
 
 <a id="claim-t-200826"></a>
 - t-001
-  global_id: t-200826
   teiginys: "Vorobjovas Vilniaus gatvių vaizdus lygino su Venecija, Bergamu ir kitais turistų lankomais miestais."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Vorobjovas Vilniaus gatvių vaizdus lygino su Venecija, Bergamu ir kitais turist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200826
+    - t-001

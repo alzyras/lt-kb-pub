@@ -36,7 +36,6 @@ Dusburgietis teigia, kad pakarklis P.
 
 <a id="claim-t-61210"></a>
 - t-001
-  global_id: t-61210
   teiginys: "P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad pakarklis P.
   temporalinis_llm_pakomentavimas: "Citata pateikia pakankamą bibliografinį faktą apie publikavimo vietą ir metus."
   pagrindžia:
     - c-61842
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
@@ -66,8 +65,7 @@ Dusburgietis teigia, kad pakarklis P.
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61210
+
 ## Citatos
 
 - id: c-61842
@@ -78,13 +76,11 @@ Dusburgietis teigia, kad pakarklis P.
     207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
     žinynas, 1933, t. 25, Nr. 101, p. 171—185.
-  citata_rodoma: |
-    Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų
-    žinynas, 1933, t. 25, Nr. 101, p. 171—185.
+  citata_rodoma: "Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų\nžinynas, 1933, t. 25, Nr. 101, p. 171—185."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61210
+    - t-001

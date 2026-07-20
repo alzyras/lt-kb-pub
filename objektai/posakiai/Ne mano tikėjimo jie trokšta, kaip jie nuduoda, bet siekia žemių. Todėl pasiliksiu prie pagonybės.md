@@ -31,7 +31,6 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
 
 <a id="claim-t-31550"></a>
 - t-001
-  global_id: t-31550
   teiginys: "Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31550
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-80649"></a>
 - t-001
-  global_id: t-80649
   teiginys: "3-iajai divizijai buvo numatyta užimti gynybines pozicijas ruože Vištyčio ežeras–Rūdelė–Smalėnai–Klevai–Dimitravo ežeras."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80649
+    - t-001

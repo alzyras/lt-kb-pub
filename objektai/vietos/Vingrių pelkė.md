@@ -31,7 +31,6 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
 
 <a id="claim-t-185318"></a>
 - t-001
-  global_id: t-185318
   teiginys: "Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti šv. Mergelės Marijos bažnyčią."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
 
 <a id="claim-t-196757"></a>
 - t-002
-  global_id: t-196757
   teiginys: "Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti šv. Mergelės Marijos bažnyčią."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -80,19 +78,12 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
     nyčią. Pirmtakų krauju sudrėkintas laukas, įpėdiniams
     negailint triūso, atnešė gausų pamaldumo derlių, ku­
     riuo mes ligi šiol džiaugiamės.
-  citata_rodoma: |
-    Be to, paskelbtas įstatymas, leidžian­
-    tis ilgainiui krikščionims netrukdomiems viešose ir už­
-    darose vietose skelbti savo tikėjimo tiesas. Naują to
-    paties ordino vienuolių būrį pakvietė Goštautas į Vil­
-    nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­
-    dėdamas pastatyti ten pat šv. Mergelės Marijos baž­
-    nyčią.
+  citata_rodoma: "Be to, paskelbtas įstatymas, leidžian­\ntis ilgainiui krikščionims netrukdomiems viešose ir už­\ndarose vietose skelbti savo tikėjimo tiesas. Naują to\npaties ordino vienuolių būrį pakvietė Goštautas į Vil­\nnių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­\ndėdamas pastatyti ten pat šv. Mergelės Marijos baž­\nnyčią."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185318
-    - t-196757
+    - t-001
+    - t-002

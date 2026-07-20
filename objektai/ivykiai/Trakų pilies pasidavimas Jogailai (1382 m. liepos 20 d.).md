@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35886"></a>
 - t-001
-  global_id: t-35886
   teiginys: "1382 m. liepos 20 d. Trakų pilies įgula pasidavė Jogailai, o pilyje buvo pastatyti jo kareiviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-35887"></a>
 - t-002
-  global_id: t-35887
   teiginys: "Skirgaila Trakų piliai ginti iš maršalkos gavo dovanų kelias dideles armotas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35886
+    - t-001
+
 - id: c-38325
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,15 +120,11 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
     Dabar Kęstučio padėtis žymiai pablogėjo.
-  citata_rodoma: |
-    Skir­
-    gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
-    lių armotų.
-    Dabar Kęstučio padėtis žymiai pablogėjo.
+  citata_rodoma: "Skir­\ngaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­\nlių armotų.\nDabar Kęstučio padėtis žymiai pablogėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35887
+    - t-002

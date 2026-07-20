@@ -62,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-195363"></a>
 - t-001
-  global_id: t-195363
   teiginys: "Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti."
   atnaujinta: "2026-07-12 02:18"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -82,17 +81,12 @@ Nenurodyta
   puslapiai: "p. 49 (PDF 47)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 49 (PDF 47)."
   citata_originali: |
-    Kerdžiaus triūba verta vietos muziejuje. Spėdami vadinkime ją trimitu.
-    Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar
-    nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites
-    karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: bari­
-    nė, ingelčikas, suktinis.
-  citata_rodoma: |
     Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis.
+  citata_rodoma: "Kerdžius Iešmantas savo trimitą gerai valdė: vasaros dieną, dar nevisai išaušus, eina per kiemą ir trimituoja, vadinasi, kelia mergaites karvių melžti; ir tai ne paprastas trimitavimas, bet žinomi šokiai: barinė, ingelčikas, suktinis."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195363
+    - t-001

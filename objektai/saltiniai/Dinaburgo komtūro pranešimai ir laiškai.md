@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-88302"></a>
 - t-001
-  global_id: t-88302
   teiginys: "Slaptajame archyve buvo saugomi 65 Dinaburgo komtūro laiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88302
+    - t-001

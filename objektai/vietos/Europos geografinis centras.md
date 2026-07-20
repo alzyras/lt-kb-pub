@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-76260"></a>
-- t-001
-  global_id: t-76260
+- t-009
   teiginys: "Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -70,8 +69,7 @@ Nenurodyta
     - c-16568
 
 <a id="claim-t-76261"></a>
-- t-002
-  global_id: t-76261
+- t-008
   teiginys: "Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -88,8 +86,7 @@ Nenurodyta
     - c-73884
 
 <a id="claim-t-76262"></a>
-- t-003
-  global_id: t-76262
+- t-007
   teiginys: "Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -105,8 +102,7 @@ Nenurodyta
     - c-24123
 
 <a id="claim-t-76263"></a>
-- t-004
-  global_id: t-76263
+- t-006
   teiginys: "Geografinis Europos centras nurodomas Lietuvoje."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -157,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76260
+    - t-009
+
 - id: c-24123
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,19 +175,16 @@ Nenurodyta
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
-  citata_rodoma: |
-    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
-    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
-    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
-    Lietuvoje, kurioje ir yra geografinis Europos centras.
+  citata_rodoma: "Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-\ntarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines\nGraikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta\nLietuvoje, kurioje ir yra geografinis Europos centras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76262
-    - t-76263
+    - t-007
+    - t-006
+
 - id: c-73884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -210,4 +204,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76261
+    - t-008

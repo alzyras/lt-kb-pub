@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-185738"></a>
 - t-001
-  global_id: t-185738
   teiginys: "Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-185739"></a>
 - t-002
-  global_id: t-185739
   teiginys: "Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-196202"></a>
 - t-003
-  global_id: t-196202
   teiginys: "Gavęs žinią apie lietuvių siautėjimą, karalius Liudvikas trumpiausiu keliu per Sanoko kalvynus patraukė iš Vengrijos į Lenkiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -105,7 +102,6 @@ Nenurodyta
 
 <a id="claim-t-196203"></a>
 - t-004
-  global_id: t-196203
   teiginys: "Kojelavičiaus pasakojime Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir susitarė dėl paliaubų, turėjusių sustabdyti karą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -154,8 +150,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185738
-    - t-196202
+    - t-001
+    - t-003
+
 - id: c-169100
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -185,5 +182,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185739
-    - t-196203
+    - t-002
+    - t-004

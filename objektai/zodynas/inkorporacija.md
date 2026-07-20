@@ -70,8 +70,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ## Teiginiai
 
 <a id="claim-t-47923"></a>
-- t-001
-  global_id: t-47923
+- t-004
   teiginys: "Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -90,8 +89,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     - c-32651
 
 <a id="claim-t-47924"></a>
-- t-002
-  global_id: t-47924
+- t-003
   teiginys: "1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -123,16 +121,12 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
     voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
     pati didžiojo kunigaikščio institucija.
-  citata_rodoma: |
-    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
-    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
-    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
-    pati didžiojo kunigaikščio institucija.
+  citata_rodoma: "1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą\nleno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­\nvoje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir\npati didžiojo kunigaikščio institucija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47923
-    - t-47924
+    - t-004
+    - t-003

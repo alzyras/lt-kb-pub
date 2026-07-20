@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200471"></a>
-- t-001
-  global_id: t-200471
+- t-002
   teiginys: "1754 m. Antanas Davainis Solohubas minėtas kaip Mykolo Ksavero Sapiegos politinis konkurentas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183846
 
 <a id="claim-t-200472"></a>
-- t-002
-  global_id: t-200472
+- t-003
   teiginys: "1754 m. Antanas Davainis Solohubas apsistodavo pas Hanyzą prie Šv. Jono bažnyčios."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-183846
 
 <a id="claim-t-200473"></a>
-- t-003
-  global_id: t-200473
+- t-001
   teiginys: "Antanas Davainis Solohubas buvo LDK artilerijos generolas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -100,7 +97,6 @@ media_all_json: |-
 
 <a id="claim-t-200474"></a>
 - t-004
-  global_id: t-200474
   teiginys: "1754 m. J. D. Lopacinskis rašė, kad Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -140,30 +136,11 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 11"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
-  citata_originali: |
-    1756 m. jis rašė,
-    kad, pabuvęs seimelyje, mąstė, jog jau bus laiko užtektinai savo reikalams, bet atvyko
-    vyresnysis Mstislavlio vaivadaitis (greičiausiai Juozapas Sapiega – būsimasis LDK raiky-
-    tojas) ir dabar reikia su juo užsiimti [47]. 1754 m. dėl konkurencijos jis perspėjo tuometį
-    Anykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos
-    generolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas
-    Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
-    Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
-    Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
-  citata_rodoma: |
-    1754 m. dėl konkurencijos jis perspėjo tuometį
-    Anykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos
-    generolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas
-    Benediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną
-    Paplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas
-    Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:25"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200471
-    - t-200472
-    - t-200473
-    - t-200474
+    - t-002
+    - t-003
+    - t-001
+    - t-004

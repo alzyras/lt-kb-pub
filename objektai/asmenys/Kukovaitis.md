@@ -10,15 +10,15 @@ datos:
   - '1221 m.'
 date_start: '1220'
 date_end: '1221'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-186133"></a>
 - t-001
-  global_id: t-186133
   teiginys: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -62,9 +61,8 @@ media_all_json: |-
 
 <a id="claim-t-188571"></a>
 - t-002
-  global_id: t-188571
   teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,9 +74,8 @@ media_all_json: |-
 
 <a id="claim-t-188572"></a>
 - t-003
-  global_id: t-188572
   teiginys: "Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,7 +94,6 @@ media_all_json: |-
 
 <a id="claim-t-193943"></a>
 - t-005
-  global_id: t-193943
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-196529"></a>
-- t-006
-  global_id: t-196529
+- t-007
   teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -124,8 +119,7 @@ media_all_json: |-
     - c-169494
 
 <a id="claim-t-196843"></a>
-- t-007
-  global_id: t-196843
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -138,8 +132,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-197419"></a>
-- t-008
-  global_id: t-197419
+- t-012
   teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -149,16 +142,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171460
-
-<a id="claim-t-193942"></a>
-- t-004
-  global_id: t-193942
-  teiginys: '4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-004
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184587|Vokiečiai]]: Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
@@ -168,6 +151,27 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78878|baskakas]]: 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78879|baskakas]]: 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
+    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
+    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
+    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
+    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
+    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
+    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
+    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
+    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
+    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
+    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
+    bešališkumu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-004
   santrauka: '4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -187,11 +191,10 @@ media_all_json: |-
     Lucko ir Pinsko kunigaikštį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193942
+  statusas: verified
+
 ## Citatos
 
 - id: c-169494
@@ -229,8 +232,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186133
-    - t-196529
+    - t-001
+    - t-007
+
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -246,40 +250,20 @@ media_all_json: |-
     lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
     nies, degančios kiekvieną naktį, naudingumo jūrininkams.
-  citata_rodoma: |
-    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
-    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
-    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
-    to kalno, matomas toli iš jūros.
-    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
-    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
-    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
-    lučių.
+  citata_rodoma: "Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies- \ntas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­\nmėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­\nto kalno, matomas toli iš jūros.\nLietuvos ir Prūsijos archeologų surinkti duomenys patiks­\nlina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri- \nmės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­\nlučių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197419
+    - t-012
+
 - id: c-171461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lyginant lietuvių mitologiją su senąja graikų ir romėnų
-    mitologija, be pritempimo ir be kokio nors išankstinio įsitiki­
-    nimo savaime krito į akis panašumai ir beveik tapatumai. Greta
-    to, vertindami pastangas mitologų, norinčių įtvirtinti priešin­
-    gą nuomonę, kaip antai S tenderio1, atkakliai ieškojusio duo­
-    menų tokiai nuomonei pagrįsti, radome vien tik tuščius spė­
-    liojimus, etimologinę painiavą ir kažkokį užsispyrimą ginant
-    savo įsivaizdavimą. Dabar šioje antrojoje knygoje užsibrėžė­
-    me tikslą smulkiai išnarstyti visą mitologiją, paaiškinti tai, ką
-    pasakėme pirmojoje, ir, pateikdami duomenis, nušviečiančius
-    lietuvių tautos senovę, dar uoliau ieškoti tiesos su tokiu pačiu
-    bešališkumu.
-  citata_rodoma: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
     221
@@ -291,14 +275,16 @@ media_all_json: |-
     patavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­
     laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
     įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
+  citata_rodoma: "Apie tai dar bus mūsų is­\ntorijos tęsinyje.\n221\n\n## Puslapis 221\n\nKukovaitis (Kukowojtis)\nSudvejintas lietuvių kunigaikštis, Živinbudo II sūnus, vieš­\npatavo visoje Užnerio Lietuvoje, mirė 1221 metais, buvo pa­\nlaidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai\nįvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188571
-    - t-188572
+    - t-002
+    - t-003
+
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -317,9 +303,10 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193943
-    - t-196843
+    - t-005
+    - t-008
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
+- Kukovaitis buvo valdovas Naugardukas
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

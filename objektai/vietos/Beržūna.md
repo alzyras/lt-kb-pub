@@ -31,7 +31,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 
 <a id="claim-t-192812"></a>
 - t-001
-  global_id: t-192812
   teiginys: "Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,10 +48,9 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175582
-    - c-001
+
 <a id="claim-t-192813"></a>
 - t-002
-  global_id: t-192813
   teiginys: "Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,10 +68,9 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175583
-    - c-002
+
 <a id="claim-t-197862"></a>
 - t-003
-  global_id: t-197862
   teiginys: "Plytėjo ilga įlanka, arba kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai ežerėliai1."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -117,8 +114,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192812
 - c-002
   santrauka: 'Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -139,8 +134,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192813
+
 ## Citatos
 
 - id: c-175582
@@ -167,29 +161,15 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
     žemiau Kijevo virstančią didele upe — tikruoju senovės
     Boristeniu.
-  citata_rodoma: |
-    Tų įdubų juos­
-    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
-    grindinės upės vandens lygis buvo gerokai aukštesnis,
-    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
-    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
-    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
-    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
-    ežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-
-    dneprės slėnį, plaukė maždaug varsto atstumu savo slė­
-    niu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­
-    šiniąją, senų geografų vadinamą Borysthenis occidentale
-    latus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją
-    šaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,
-    žemiau Kijevo virstančią didele upe — tikruoju senovės
-    Boristeniu.
+  citata_rodoma: "Tų įdubų juos­\ntos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­\ngrindinės upės vandens lygis buvo gerokai aukštesnis,\ntekėdavo visais metų laikais. Plytėjo ilga įlanka, arba\nkairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­\nlios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­\nje, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai\nežerėliai1. Pagaliau Pripetė ten, kur ji dabar įteka į Pa-\ndneprės slėnį, plaukė maždaug varsto atstumu savo slė­\nniu lygiagrečiai su kairiąja Dnepro vaga ir sudarė jo de­\nšiniąją, senų geografų vadinamą Borysthenis occidentale\nlatus vagą, kuri įsiliejo priešais Desnos žiotis į kairiąją\nšaką ar kiek žemiau ir sudarė pagrindinę Dnepro vagą,\nžemiau Kijevo virstančią didele upe — tikruoju senovės\nBoristeniu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192812
+    - t-001
+
 - id: c-175583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -213,25 +193,15 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     čių. Šio ploto centras yra Rogačiovo miestas, kurio apy­
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­
     žiaus paminklų.
-  citata_rodoma: |
-    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
-    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
-    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
-    palei senas Rusijos sienas su Lietuvos valstybe, de­
-    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
-    Lietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-
-    žūnos upių žemupio uždarame plote, o kairiojoje Dnepro
-    pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­
-    čių. Šio ploto centras yra Rogačiovo miestas, kurio apy­
-    linkėse plyti nesuskaičiuojama gausybė šių senojo am­
-    žiaus paminklų.
+  citata_rodoma: "Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau\ndaugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau\nSklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti\npalei senas Rusijos sienas su Lietuvos valstybe, de­\nšiniojoje driekiasi už Borisovo apskrities net iki tikrosios\nLietuvos. Daugiausia pilkapių aptinkama Drutės ir Ber-\nžūnos upių žemupio uždarame plote, o kairiojoje Dnepro\npakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio­\nčių. Šio ploto centras yra Rogačiovo miestas, kurio apy­\nlinkėse plyti nesuskaičiuojama gausybė šių senojo am­\nžiaus paminklų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192813
+    - t-002
+
 - id: c-179369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -255,4 +225,4 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197862
+    - t-003

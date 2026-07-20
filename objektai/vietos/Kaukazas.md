@@ -32,7 +32,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 
 <a id="claim-t-32211"></a>
 - t-001
-  global_id: t-32211
   teiginys: "Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 
 <a id="claim-t-192669"></a>
 - t-002
-  global_id: t-192669
   teiginys: "Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -124,19 +122,15 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
     Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
     pasirodė apie trečio tūkstantmečio pr.
-  citata_rodoma: |
-    Jos nešėjai
-    indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­
-    liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.
-    Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
-    pasirodė apie trečio tūkstantmečio pr.
+  citata_rodoma: "Jos nešėjai\nindoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­\nliavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą.\nKaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie\npasirodė apie trečio tūkstantmečio pr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32211
+    - t-001
+
 - id: c-175439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -157,4 +151,4 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192669
+    - t-002

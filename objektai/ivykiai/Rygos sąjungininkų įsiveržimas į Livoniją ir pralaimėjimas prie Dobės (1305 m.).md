@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31474"></a>
 - t-001
-  global_id: t-31474
   teiginys: "1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,14 +82,11 @@ Nenurodyta
     laikė su lietuviais sąjungą. Kaip Rygos sąjungininkai, šie vėl 1305
     m. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo
     veiksmus tęsė iki 1307 m. vasaros^36.
-  citata_rodoma: |
-    Kaip Rygos sąjungininkai, šie vėl 1305
-    m. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo
-    veiksmus tęsė iki 1307 m. vasaros^36.
+  citata_rodoma: "Kaip Rygos sąjungininkai, šie vėl 1305\nm. įsiveržė Livonijon. Nors prie Dobės jie pralaimėjo, bet karo\nveiksmus tęsė iki 1307 m. vasaros^36."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31474
+    - t-001

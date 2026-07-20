@@ -7,15 +7,15 @@ datos:
   - '1835 m.'
 date_start: '1835'
 date_end: ''
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rašytojas
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 
 <a id="claim-t-190298"></a>
 - t-001
-  global_id: t-190298
   teiginys: "Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Petersburski“ ir priklausė Juozapui Ignotui Kraševskiui."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,10 +49,9 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173181
-    - c-001
+
 <a id="claim-t-197307"></a>
 - t-002
-  global_id: t-197307
   teiginys: "Juozapas Ignotas Kraševskis jau nebenuėjo nuo arenos, keldama dvilypę, kontraversišką sumaištį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 
 <a id="claim-t-197308"></a>
 - t-003
-  global_id: t-197308
   teiginys: "Juozapas Ignotas Kraševskis susitiko su caro pasiuntiniais, pareiškusiais pageidavimą taikytis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -77,25 +74,6 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   pagrindžia:
     - c-179120
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Petersburski“ ir priklausė Juozapui Ignotui Kraševskiui.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
-    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
-    lapių) buvo anoniminė 1835 metų recenzija18.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190298
 ## Citatos
 
 - id: c-173181
@@ -110,21 +88,15 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
     plunksnai.
     Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
     lapių) buvo anoniminė 1835 metų recenzija18.
-  citata_rodoma: |
-    Tai buvo dvi didelės recenzijos: pirmoji iš­
-    spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
-    roji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­
-    miška, o antroji priklausė Juozapo Ignoto Kraševskio
-    plunksnai.
-    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
-    lapių) buvo anoniminė 1835 metų recenzija18.
+  citata_rodoma: "Tai buvo dvi didelės recenzijos: pirmoji iš­\nspausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­\nroji -  oficioze „Tygodnik Petersburski“. Pirmoji buvo anoni­\nmiška, o antroji priklausė Juozapo Ignoto Kraševskio\nplunksnai.\nBene pati reikšmingiausia, ypač didelės apimties (25 pus­\nlapių) buvo anoniminė 1835 metų recenzija18."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190298
+    - t-001
+
 - id: c-179119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,7 +114,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197307
+    - t-002
+
 - id: c-179120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -165,4 +138,4 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197308
+    - t-003

@@ -36,10 +36,9 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66402"></a>
-- t-001
-  global_id: t-66402
+- t-006
   teiginys: "Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -51,11 +50,9 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10140
-    - c-10141
 
 <a id="claim-t-66404"></a>
-- t-002
-  global_id: t-66404
+- t-004
   teiginys: "Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -98,6 +95,7 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-10138
@@ -111,7 +109,7 @@ media_all_json: |-
     - kandidatas: Žemgaliai
     - potencialus_teiginys: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
     - public_note:
-    - saltinis: [[objektai/saltiniai/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md]]
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
     - vieta_saltinyje: offset: 215924-216217; match: exact
     - santrauka: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
     - pagrindzia:
@@ -120,15 +118,15 @@ media_all_json: |-
         rubežiaus^804 , kurią slapta didžiai vėlai, jau krikščionimis būdami, dar lankę žemaičiai, parusėnai ir
         žemgaliai, arba kuržemininkai, minėdami savo laimingas dienas ir tardami save angis broliais
         buvusius; bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
-  citata_rodoma: |
-    bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
+  citata_rodoma: "bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66404
+    - t-004
+
 - id: c-10140
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -143,7 +141,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66402
+    - t-006
+
 - id: c-10141
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -156,5 +155,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66402

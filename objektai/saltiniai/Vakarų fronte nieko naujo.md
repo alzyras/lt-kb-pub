@@ -36,7 +36,6 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 
 <a id="claim-t-96066"></a>
 - t-001
-  global_id: t-96066
   teiginys: "E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96066
+    - t-001

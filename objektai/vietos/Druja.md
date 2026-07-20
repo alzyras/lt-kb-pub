@@ -42,8 +42,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 ## Teiginiai
 
 <a id="claim-t-83317"></a>
-- t-001
-  global_id: t-83317
+- t-007
   teiginys: "Iš versmės Paplaujoje ištekantis upelis vadinosi Druja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     - c-79673
 
 <a id="claim-t-83319"></a>
-- t-002
-  global_id: t-83319
+- t-004
   teiginys: "1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     - c-79673
 
 <a id="claim-t-83320"></a>
-- t-003
-  global_id: t-83320
+- t-006
   teiginys: "Sapiegų senjorai Vilniuje paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +93,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     - c-79675
 
 <a id="claim-t-83321"></a>
-- t-004
-  global_id: t-83321
+- t-001
   teiginys: "Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -115,7 +111,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 
 <a id="claim-t-200894"></a>
 - t-005
-  global_id: t-200894
   teiginys: "Cituojamas kunigas rašė, kad anksčiau buvo Drujos vikarijus, vėliau Graužiškių klebonas ir galiausiai tapo vadinamas „litvomanu“."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -166,7 +161,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Miesto archyve: Žygimanto Seno­
+    Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,
     1534 metų liepos 4 dieną, ir kita, iš­
     samesnė, išleista Vilniuje, 1535 metų
@@ -190,39 +185,16 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     einančio iš daubos ir vedančio iš da­
     bartinio Markučių dvaro į namelį, va­
     dintą Jeruzalimu, Paplaujoje.
-  citata_rodoma: |
-    Miesto archyve: Žygimanto Seno­
-    jo privilegija, datuota Rūdninkuose,
-    1534 metų liepos 4 dieną, ir kita, iš­
-    samesnė, išleista Vilniuje, 1535 metų
-    liepos 17 dieną, su karaliaus parašu.
-    Iš tos versmės ištekantis upelis vadi­
-    nosi Druja, nes yra miesto archyve ka­
-    raliaus Žygimanto Augusto laiškas,
-    rašytas rusų kalba iš Liublino, datuo­
-    tas 1538 metų rugsėjo 1 dieną, su
-    Lietuvos antspaudu ir raštininko Os-
-    tafiejaus [Eustachijaus] parašu, įspė­
-    jantis ponią Kiščiną, Vitebsko vaiva-
-    dienę, kad nestabdytų vandens,
-    vamzdžiais nuvesto į miestą, iš Dru­
-    jos upės Paplaujoje, tekančios netoli
-    Ziupronių kelio, nes tam yra kara­
-    liaus leidimas, kurį ji privalanti gerb­
-    ti. Toji Kiščina valdė Markučius ir ant
-    kalno prie Vilnelės turėjo didelius
-    kaimo stiliaus namus, - prie kelio, iš­
-    einančio iš daubos ir vedančio iš da­
-    bartinio Markučių dvaro į namelį, va­
-    dintą Jeruzalimu, Paplaujoje.
+  citata_rodoma: "Miesto archyve: Žygimanto Seno­\njo privilegija, datuota Rūdninkuose, \n1534 metų liepos 4 dieną, ir kita, iš­\nsamesnė, išleista Vilniuje, 1535 metų \nliepos 17 dieną, su karaliaus parašu. \nIš tos versmės ištekantis upelis vadi­\nnosi Druja, nes yra miesto archyve ka­\nraliaus Žygimanto Augusto laiškas, \nrašytas rusų kalba iš Liublino, datuo­\ntas 1538 metų rugsėjo 1 dieną, su \nLietuvos antspaudu ir raštininko Os- \ntafiejaus [Eustachijaus] parašu, įspė­\njantis ponią Kiščiną, Vitebsko vaiva- \ndienę, kad nestabdytų vandens, \nvamzdžiais nuvesto į miestą, iš Dru­\njos upės Paplaujoje, tekančios netoli \nZiupronių kelio, nes tam yra kara­\nliaus leidimas, kurį ji privalanti gerb­\nti. Toji Kiščina valdė Markučius ir ant \nkalno prie Vilnelės turėjo didelius \nkaimo stiliaus namus, - prie kelio, iš­\neinančio iš daubos ir vedančio iš da­\nbartinio Markučių dvaro į namelį, va­\ndintą Jeruzalimu, Paplaujoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83317
-    - t-83319
+    - t-007
+    - t-004
+
 - id: c-79675
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -249,8 +221,9 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83320
-    - t-83321
+    - t-006
+    - t-001
+
 - id: c-184237
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -285,4 +258,4 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200894
+    - t-005

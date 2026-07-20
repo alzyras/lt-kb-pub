@@ -31,7 +31,6 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 
 <a id="claim-t-40318"></a>
 - t-001
-  global_id: t-40318
   teiginys: "Karininkas M. Pečiulionis vadovavo nepilnos sudėties 4-ajai baterijai, turėjusiai tris patrankas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 
 <a id="claim-t-40319"></a>
 - t-002
-  global_id: t-40319
   teiginys: "K. Ladygos kolonos karius, supusius Kaniūkų kaimą, rėmė karininko M. Pečiulionio artilerija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,13 +73,14 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40318
+    - t-001
+
 - id: c-44444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    a ;
+    Puolimo eiga . a ;
     raudonosios armijos kario
 
     Puolimas buvo
@@ -92,22 +91,11 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
     remiami karin. M. Pečiulionio artileri-
     jos, ėmė supti Kaniūkų kaimą, kuriame
     laikėsi bolševikai.
-  citata_rodoma: |
-    a ;
-    raudonosios armijos kario
-
-    Puolimas buvo
-    pradėtas gegu-
-    žės 31 d. Karin.
-    K. Ladygos ko-
-    lonos kariai,
-    remiami karin. M. Pečiulionio artileri-
-    jos, ėmė supti Kaniūkų kaimą, kuriame
-    laikėsi bolševikai.
+  citata_rodoma: "a ;\nraudonosios armijos kario\n\nPuolimas buvo\npradėtas gegu-\nžės 31 d. Karin.\nK. Ladygos ko-\nlonos kariai,\nremiami karin. M. Pečiulionio artileri-\njos, ėmė supti Kaniūkų kaimą, kuriame\nlaikėsi bolševikai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40319
+    - t-002

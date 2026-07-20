@@ -40,8 +40,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 ## Teiginiai
 
 <a id="claim-t-173439"></a>
-- t-001
-  global_id: t-173439
+- t-002
   teiginys: "Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams."
   atnaujinta: "2026-05-31 14:14"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     - c-157740
 
 <a id="claim-t-173440"></a>
-- t-002
-  global_id: t-173440
+- t-001
   teiginys: "Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija."
   atnaujinta: "2026-05-31 14:14"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 
 <a id="claim-t-201061"></a>
 - t-003
-  global_id: t-201061
   teiginys: "Visų pirma susibi čiuliavo su gyventojais salos Gotlando, kurioje 500 kareivių sutelkęs ir kryžių paženklinęs, išleido į Padaugavį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -137,7 +134,8 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173440
+    - t-001
+
 - id: c-157740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -156,10 +154,12 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173439
+    - t-002
+
 - id: c-184411
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie
@@ -175,4 +175,4 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201061
+    - t-003

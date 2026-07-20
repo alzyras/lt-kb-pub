@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-42148"></a>
 - t-001
-  global_id: t-42148
   teiginys: "Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija ir rėmė Lietuvos pėstininkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,14 +62,11 @@ media_all_json: |-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
-  citata_rodoma: |
-    Rugsėjo 22 d. „Gediminas“ susirėmė su
-    lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
-    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
+  citata_rodoma: "Rugsėjo 22 d. „Gediminas“ susirėmė su\nlenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-\nkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42148
+    - t-001

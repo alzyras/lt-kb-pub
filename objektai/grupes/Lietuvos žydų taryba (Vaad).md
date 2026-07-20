@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74811"></a>
-- t-001
-  global_id: t-74811
+- t-002
   teiginys: "1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,15 +73,11 @@ media_all_json: |-
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: |
-    1920 m. nacionali-
-    nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
-    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
-    spręsti visus socialinius ir kultūrinius žydų reikalus.
+  citata_rodoma: "1920 m. nacionali-\nnėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-\nferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo\nspręsti visus socialinius ir kultūrinius žydų reikalus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74811
+    - t-002

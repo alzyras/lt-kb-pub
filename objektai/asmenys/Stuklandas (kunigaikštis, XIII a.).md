@@ -41,7 +41,6 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
 
 <a id="claim-t-201399"></a>
 - t-001
-  global_id: t-201399
   teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
 
 <a id="claim-t-201400"></a>
 - t-002
-  global_id: t-201400
   teiginys: "Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -68,8 +66,9 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
 ## Citatos
 
 - id: c-184749
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­
@@ -96,11 +95,12 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201399
+    - t-001
 
 - id: c-184750
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip Otokarui su kryžėjais kariaujant samionis
     ir kitus žemaičius tarp upių Pragaro ir Nemuno,
@@ -121,4 +121,4 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201400
+    - t-002

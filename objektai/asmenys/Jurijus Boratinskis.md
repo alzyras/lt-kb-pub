@@ -33,7 +33,6 @@ media_all_json: |-
 
 <a id="claim-t-40242"></a>
 - t-001
-  global_id: t-40242
   teiginys: "Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,16 +64,11 @@ media_all_json: |-
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos
     ir V. Gosievskio pajėgas.
-  citata_rodoma: |
-    Šklovo mūšyje taip pat dalyvavo ir kuni-
-    gaikščio Jurijaus Boratinskio vadovaujamos
-    pajėgos.
-
-    J.
+  citata_rodoma: "Šklovo mūšyje taip pat dalyvavo ir kuni-\ngaikščio Jurijaus Boratinskio vadovaujamos\npajėgos.\n\nJ."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40242
+    - t-001

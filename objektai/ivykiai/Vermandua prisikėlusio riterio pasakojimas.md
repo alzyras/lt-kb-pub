@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62524"></a>
 - t-001
-  global_id: t-62524
   teiginys: "Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Nenurodyta
       Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių
     išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
     cit.).
-  citata_rodoma: |
-    Apie tai, kaip prisikėlė vienas miręs riteris
-
-      Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių
-    išpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.
-    cit.).
+  citata_rodoma: "Apie tai, kaip prisikėlė vienas miręs riteris\n\n  Vermandua  [grafystėje]  atgijo vienas miręs  riteris, daug ką  daugeliui žmonių\nišpranašavo ir ilgai išgyveno, nei valgydamas, nei gerdamas (Ptol. loc. cit.; Mart. lot.\ncit.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62524
+    - t-001

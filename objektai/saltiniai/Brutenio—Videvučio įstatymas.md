@@ -30,7 +30,6 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 
 <a id="claim-t-61055"></a>
 - t-001
-  global_id: t-61055
   teiginys: "Brutenio—Videvučio įstatyme pabrėžiama, kad niekas nesikreiptų į prūsų dievus be Krivio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61055
+    - t-001

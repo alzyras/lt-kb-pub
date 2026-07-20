@@ -7,12 +7,12 @@ datos:
   - '1984 m.'
 date_start: '1984'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad zinkevičius Z.
 
 <a id="claim-t-61386"></a>
 - t-001
-  global_id: t-61386
   teiginys: "Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad zinkevičius Z.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-62018
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61386
+
 ## Citatos
 
 - id: c-62018
@@ -74,15 +60,12 @@ Dusburgietis teigia, kad zinkevičius Z.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    — Питания гiдронiмiки, Киiв, 1971, с. 131—137.
-    Седов В. В. Этногеография Восточной Европы середины I тысячелетия и. э. по
-    данным археологии и Иордана.
-  citata_rodoma: |
     Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
+  citata_rodoma: "Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61386
+    - t-001

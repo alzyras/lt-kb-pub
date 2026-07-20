@@ -32,7 +32,6 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 <a id="claim-t-36543"></a>
 - t-001
-  global_id: t-36543
   teiginys: "Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,20 +65,11 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
     būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
-  citata_rodoma: |
-    Jos buvo pravestos nuo
-    Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš
-    čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­
-    vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­
-    lininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių
-    pakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo
-    būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
-    skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
-    tuvą nuo didesnės vokiečių įtakos1 2).
+  citata_rodoma: "Jos buvo pravestos nuo\nMozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš\nčia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­\nvintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­\nlininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių\npakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo\nbūdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji\nskyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­\ntuvą nuo didesnės vokiečių įtakos1 2)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36543
+    - t-001

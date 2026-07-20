@@ -28,7 +28,6 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip
 
 <a id="claim-t-202339"></a>
 - t-001
-  global_id: t-202339
   teiginys: "Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip Lietuvos valdovo dovaną."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -46,18 +45,8 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą kaip
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Brangius apdarus Lietuvos valdovai dažnai dovanodavo svetim-
-    šaliams35. Jais dažnai būdavo apdovanojami ir didikai, miestiečiai
-    bei tarnai. Antai Vilniaus miestiečiui Matui iš iždo išmokėta dvidešimt
-    kapų grašių, o jo žmonai duota kiaunenos skrandinė36. Karaliaus
-    virėjui Pauliui duotos 7 uolektys gelumbės iš Lietuvos Brastos muiti-
-    nės37, totorius Tahiras Bohdanovičius lapės kailio šūbą gavo iš Trakų
-    rakto, Vorodackis – 7 uolektis angliškosios gelumbės iš iždo38.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202339
+    - t-001

@@ -31,7 +31,6 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 
 <a id="claim-t-40156"></a>
 - t-001
-  global_id: t-40156
   teiginys: "J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,21 +68,11 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
     šlaistėsi tanketėmis, virš medžių skraidė
     lėktuvas, o kvartalinėse linijose buvo išsi-
     dėstę kulkosvaidžius.
-  citata_rodoma: |
-    Karas po karo
-
-    ## Puslapis 224
-
-    MUSIO DALYVIO ATSIMINIMAI
-
-    Prisimena mūšio dalyvis J. Juška:
-
-    „Daug tą dieną žuvo mūsiškių, bet gal
-    ne mažiau žuvo ir okupantų kariaunos.
+  citata_rodoma: "Karas po karo\n\n## Puslapis 224\n\nMUSIO DALYVIO ATSIMINIMAI\n\nPrisimena mūšio dalyvis J. Juška:\n\n„Daug tą dieną žuvo mūsiškių, bet gal\nne mažiau žuvo ir okupantų kariaunos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40156
+    - t-001

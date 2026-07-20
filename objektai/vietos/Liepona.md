@@ -31,7 +31,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 
 <a id="claim-t-32306"></a>
 - t-001
-  global_id: t-32306
   teiginys: "Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
     Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
-  citata_rodoma: |
-    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
-    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
-    Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
+  citata_rodoma: "Sūduvos dykroje toliau siena buvo nužymėta upių krantais :\nvisu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo\nŠešupėn. Šešupės krantu ji ėjo per girių masyvus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32306
+    - t-001

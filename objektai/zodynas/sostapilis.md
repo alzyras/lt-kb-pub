@@ -31,7 +31,6 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 
 <a id="claim-t-28563"></a>
 - t-001
-  global_id: t-28563
   teiginys: "Mindaugo sostapilio ieškota keliose Žemaičių vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   pagrindžia:
     - c-28467
     - c-167728
+
 ## Citatos
 
 - id: c-28467
@@ -63,7 +63,8 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28563
+    - t-001
+
 - id: c-167728
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -80,3 +81,5 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

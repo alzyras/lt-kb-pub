@@ -37,7 +37,6 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 
 <a id="claim-t-39014"></a>
 - t-001
-  global_id: t-39014
   teiginys: "1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,6 +82,7 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39014
+    - t-001
+
 ## Ryšiai
 - Virgoličiaus rinktinė keliavo į [[objektai/vietos/Šiauliai]]

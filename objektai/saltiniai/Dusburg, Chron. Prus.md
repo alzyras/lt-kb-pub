@@ -28,7 +28,6 @@ Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuome
 
 <a id="claim-t-201437"></a>
 - t-001
-  global_id: t-201437
   teiginys: "Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuome
 ## Citatos
 
 - id: c-184787
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Norėdamas kuomet tenai norą dievų tautai
     apreikšti, visų pirma ties visuomet žaliuojančiu
@@ -55,4 +55,4 @@ Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuome
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201437
+    - t-001

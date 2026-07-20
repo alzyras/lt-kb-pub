@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-194803"></a>
 - t-001
-  global_id: t-194803
   teiginys: "Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -57,26 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177199
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Čio­
-    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
-    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
-    pagrobiantis vėlę.
-    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
-    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
-    lentelėje. Skaitykite straipsnį apie herbus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194803
+
 ## Citatos
 
 - id: c-177199
@@ -91,18 +71,11 @@ Nenurodyta
     Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
     dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
     lentelėje. Skaitykite straipsnį apie herbus.
-  citata_rodoma: |
-    Čio­
-    nykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena
-    įnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,
-    pagrobiantis vėlę.
-    Vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti
-    dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV
-    lentelėje. Skaitykite straipsnį apie herbus.
+  citata_rodoma: "Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę.\nVėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti\ndievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV\nlentelėje. Skaitykite straipsnį apie herbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194803
+    - t-001

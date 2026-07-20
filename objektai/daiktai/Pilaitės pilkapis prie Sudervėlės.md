@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87090"></a>
 - t-001
-  global_id: t-87090
   teiginys: "Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87090
+    - t-001

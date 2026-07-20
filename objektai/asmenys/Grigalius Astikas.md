@@ -3,20 +3,22 @@ tipas: asmuo
 pavadinimas: 'Grigalius Astikas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1581 m.'
 date_start: '1581'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - miestas
   - vyskupas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +42,6 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 
 <a id="claim-t-87510"></a>
 - t-001
-  global_id: t-87510
   teiginys: "Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,6 +58,18 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
   temporalinis_llm_pakomentavimas: "Antraštės triukšmas pašalintas, palikta citatos remiama faktinė informacija."
   pagrindžia:
     - c-83489
+
+<a id="claim-t-201521"></a>
+- t-002
+  teiginys: "Kauno miestiečių ginčais buvo susirūpinusi ką tik iš Grigo Astiko Kauno seniūni ją išpirkusi Bona."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184868
 
 ## Citatos
 
@@ -96,4 +109,22 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87510
+    - t-001
+
+- id: c-184868
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kaip galima spręsti iš dokumento konteksto, jie tai darė
+    naudodamiesi savo tarnybine padėtimi, vaito ir burmistro galia.
+    Kauno miestiečių ginčais buvo susirūpinusi ką tik iš Grigo Astiko Kauno seniūni­
+    ją išpirkusi Bona. Kaip galima spręsti iš sprendimo formuluočių, ji palaikė miestiečių
+    bendruomenę.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

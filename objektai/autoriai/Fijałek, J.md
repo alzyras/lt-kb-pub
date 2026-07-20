@@ -39,7 +39,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 <a id="claim-t-54116"></a>
 - t-001
-  global_id: t-54116
   teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 <a id="claim-t-54117"></a>
 - t-002
-  global_id: t-54117
   teiginys: "J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -72,16 +70,12 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
     1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
     polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
     ner_ (1382-90), Marburg a. L. 1956.
-  citata_rodoma: |
-    Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
-    1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der
-    polnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­
-    ner_ (1382-90), Marburg a. L. 1956.
+  citata_rodoma: "Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,\n1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der\npolnisch-litauischen Union. Die Regierung des Hochmeisters Konrad Zöll­\nner_ (1382-90), Marburg a. L. 1956."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54116
-    - t-54117
+    - t-001
+    - t-002

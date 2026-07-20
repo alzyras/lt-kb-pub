@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-87998"></a>
 - t-001
-  global_id: t-87998
   teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ media_all_json: |-
   pagrindžia:
     - c-83978
     - c-83980
+
 <a id="claim-t-87999"></a>
-- t-002
-  global_id: t-87999
+- t-003
   teiginys: "Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ media_all_json: |-
     - c-83977
 
 <a id="claim-t-88000"></a>
-- t-003
-  global_id: t-88000
+- t-004
   teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87999
+    - t-003
+
 - id: c-83978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,30 +141,15 @@ media_all_json: |-
     Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
     Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
-  citata_rodoma: |
-    XVI
-
-    ## Puslapis 17
-
-    MYKOLAS B A L I N S K I S
-    niaus
-    MIESTO ISTORIJA
-    Haec omnia, quae credidi esse patriae necessaria,
-    quae scribere mihi fas erat, vobis exponere arbitror:
-    vestrum judicium, non de mea voluntate, sed de opere exoro.
-    „Visa, ką maniau būsiant reikalinga tėvynei ir
-    ką man derėjo parašyti, nutariau išdėstyti jums,
-    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ —
-    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
-    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
-    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
+  citata_rodoma: "XVI\n\n## Puslapis 17\n\nMYKOLAS B A L I N S K I S\nniaus\nMIESTO ISTORIJA\nHaec omnia, quae credidi esse patriae necessaria, \nquae scribere mihi fas erat, vobis exponere arbitror: \nvestrum judicium, non de mea voluntate, sed de opere exoro.\n„Visa, ką maniau būsiant reikalinga tėvynei ir \nką man derėjo parašyti, nutariau išdėstyti jums, \nket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — \nRotundas  (Augustinas Mieleckis), Vilniaus vaitas, \nMikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam \nsavąją Lietuvos istoriją, kurios rankraštis yra dingęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87998
+    - t-001
+
 - id: c-83979
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -198,7 +182,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88000
+    - t-004
+
 - id: c-83980
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,29 +211,11 @@ media_all_json: |-
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
     Il
     TOMAS.
-  citata_rodoma: |
-    w fUUnie/,
-
-    ## Puslapis 222
-
-    206
-
-    ## Puslapis 223
-
-    MYKOLAS B A L I N S K I S
-    n i a u s
-    MIESTO ISTORIJA
-    Haec omnia, quae credidi esse patriae necessaria,
-    quae scribere mihi fas erat, vobis exponere arbitror:
-    vestrum judicium, non de mea voluntate, sed de opere exoro.
-    „Visa, ką maniau kūsiant reikalinga tėvynei ir
-    ką man derėjo parašyti, nutariau išdėstyti jums,
-    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą,“ —
-    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
-    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
-    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
+  citata_rodoma: "w fUUnie/,\n\n## Puslapis 222\n\n206\n\n## Puslapis 223\n\nMYKOLAS B A L I N S K I S\nn i a u s\nMIESTO ISTORIJA\nHaec omnia, quae credidi esse patriae necessaria, \nquae scribere mihi fas erat, vobis exponere arbitror: \nvestrum judicium, non de mea voluntate, sed de opere exoro.\n„Visa, ką maniau kūsiant reikalinga tėvynei ir \nką man derėjo parašyti, nutariau išdėstyti jums, \nket meldžiu įvertinti ne mano ketinimus, o pačią knygą,“ — \nRotundas  (Augustinas Mieleckis), Vilniaus vaitas, \nMikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam \nsavąją Lietuvos istoriją, kurios rankraštis yra dingęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

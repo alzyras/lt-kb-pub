@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201370"></a>
 - t-001
-  global_id: t-201370
   teiginys: "Kas ir nutiko; Bernheimas, marčelga kryžėjų, antpuolęs pilį Cartovicą, varu įsigrūdo ir, iškirtęs visus tenai ginklą pakeliančius, savo įgulę įdėjo, o sugrietą grobį su iždu Sviatopelko ir kitais jo turtais, tarp kurių pačią galvą šv."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184720
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tame širdgile marčelga, zokano, nujautęs pilė j Car-
     tovicos silpną įgulę tesant, sutarė ją antpulti, vil­
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201370
+    - t-001

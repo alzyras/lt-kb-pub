@@ -55,8 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66775"></a>
-- t-001
-  global_id: t-66775
+- t-006
   teiginys: "Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-43089
 
 <a id="claim-t-66776"></a>
-- t-002
-  global_id: t-66776
+- t-008
   teiginys: "Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -89,8 +87,7 @@ Nenurodyta
     - c-43090
 
 <a id="claim-t-66777"></a>
-- t-003
-  global_id: t-66777
+- t-011
   teiginys: "Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,8 +103,7 @@ Nenurodyta
     - c-43090
 
 <a id="claim-t-66779"></a>
-- t-004
-  global_id: t-66779
+- t-007
   teiginys: "1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -126,8 +122,7 @@ Nenurodyta
     - c-167067
 
 <a id="claim-t-66780"></a>
-- t-005
-  global_id: t-66780
+- t-009
   teiginys: "Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,8 +142,7 @@ Nenurodyta
     - c-43086
 
 <a id="claim-t-66781"></a>
-- t-006
-  global_id: t-66781
+- t-005
   teiginys: "1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -166,8 +160,7 @@ Nenurodyta
     - c-43086
 
 <a id="claim-t-183675"></a>
-- t-007
-  global_id: t-183675
+- t-012
   teiginys: "1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -220,8 +213,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66780
-    - t-66781
+    - t-009
+    - t-005
+
 - id: c-43089
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -253,7 +247,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66775
+    - t-006
+
 - id: c-43090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -281,8 +276,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66776
-    - t-66777
+    - t-008
+    - t-011
+
 - id: c-167067
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -308,5 +304,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66779
-    - t-183675
+    - t-007
+    - t-012

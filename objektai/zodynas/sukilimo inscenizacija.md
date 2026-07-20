@@ -37,7 +37,6 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
 
 <a id="claim-t-77785"></a>
 - t-001
-  global_id: t-77785
   teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,4 +93,4 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77785
+    - t-001

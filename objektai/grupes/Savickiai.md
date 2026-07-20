@@ -38,7 +38,6 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 
 <a id="claim-t-86823"></a>
 - t-001
-  global_id: t-86823
   teiginys: "Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,6 +78,7 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86823
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

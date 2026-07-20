@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-82633"></a>
-- t-001
-  global_id: t-82633
+- t-003
   teiginys: "1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-79097
 
 <a id="claim-t-82634"></a>
-- t-002
-  global_id: t-82634
+- t-001
   teiginys: "Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ media_all_json: |-
     - c-21921
 
 <a id="claim-t-82635"></a>
-- t-003
-  global_id: t-82635
+- t-004
   teiginys: "Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,19 +107,15 @@ media_all_json: |-
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: |
-    Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
+  citata_rodoma: "Išvaryti ir politiš-\nkai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino\niš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-\ndos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją\npoliciją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82634
+    - t-001
+
 - id: c-79097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -138,20 +131,12 @@ media_all_json: |-
     ## Puslapis 13
 
     Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
-  citata_rodoma: |
-    Ba­
-    linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
-    nį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir
-    XII
-
-    ## Puslapis 13
-
-    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+  citata_rodoma: "Ba­\nlinskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­\nnį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir\nXII\n\n## Puslapis 13\n\nRusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82633
-    - t-82635
+    - t-003
+    - t-004

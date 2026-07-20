@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-194621"></a>
-- t-002
-  global_id: t-194621
+- t-003
   teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,6 @@ Nenurodyta
   pagrindžia:
     - c-177020
 
-<a id="claim-t-187991"></a>
-- t-001
-  global_id: t-187991
-  teiginys: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys jau yra glaustas ir pilnas sakinys apie auką už mirusius bičiulius. Narbuto atribucija tinkama, o Strijkovskio citatos detalės nepridėtos.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_object: [[objektai/daiktai/Smilkalai|Smilkalai]]'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
@@ -95,11 +85,9 @@ Nenurodyta
     nėmis dainomis“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187991
+  statusas: verified
 ## Citatos
 
 - id: c-177020
@@ -119,4 +107,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194621
+    - t-003

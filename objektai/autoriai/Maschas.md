@@ -30,7 +30,6 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
 
 <a id="claim-t-190372"></a>
 - t-001
-  global_id: t-190372
   teiginys: "Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -51,9 +50,8 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
 
 <a id="claim-t-194667"></a>
 - t-002
-  global_id: t-194667
   teiginys: "Sunku susekti, kada ir kas dovanojo arba kas Masch."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,24 +60,7 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177064
-    - c-002
 - susijęs iš [[objektai/autoriai/Wogenas.md#claim-t-190462|Wogenas]]: Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Sunku susekti, kada ir kas dovanojo arba kas Masch.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Sunku susekti, kada ir kas dovanojo arba kas
-    6
-    Masch. Altertümer der Obotriten (p. 151, piešinys nr. 15); Bulga­
-    rinas. Rusija. - T. L -  Piešinys nr. 3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194667
 ## Citatos
 
 - id: c-173255
@@ -99,26 +80,22 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190372
+    - t-001
+
 - id: c-177064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tęsdami šią istoriją, išdėstysime mūsų duomenis apie jį,
-    arba apie tapataus vardo valdovą, gyvenusį toje epochoje. Čia
-    pateiksime tokį pastebėjimą.
-    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
-    duota natūralaus dydžio III lentelės 17-ajame piešinyje.
-  citata_rodoma: |
     Sunku susekti, kada ir kas dovanojo arba kas
     6
     Masch. Altertümer der Obotriten (p. 151, piešinys nr. 15); Bulga­
     rinas. Rusija. - T. L -  Piešinys nr. 3.
+  citata_rodoma: "Sunku susekti, kada ir kas dovanojo arba kas\n6\nMasch. Altertümer der Obotriten (p. 151, piešinys nr. 15); Bulga­\nrinas. Rusija. - T. L -  Piešinys nr. 3."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194667
+    - t-002

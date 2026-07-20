@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-189023"></a>
 - t-001
-  global_id: t-189023
   teiginys: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,6 +85,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189023
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]

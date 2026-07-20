@@ -31,7 +31,6 @@ St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
 
 <a id="claim-t-191858"></a>
 - t-001
-  global_id: t-191858
   teiginys: "St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191858
+    - t-001

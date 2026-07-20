@@ -31,7 +31,6 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 
 <a id="claim-t-03237"></a>
 - t-001
-  global_id: t-03237
   teiginys: "Krašte buvo daug žirgynų, nes kunigaikščiui karo reikalams reikėjo arklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 
 <a id="claim-t-03238"></a>
 - t-002
-  global_id: t-03238
   teiginys: "Netoli Kauno buvo žirgynas, kuriame auginta 800 arklių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,17 +68,15 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
     reikalui privalė arklių, tai krašte buvo daug žirgynų. Kai
     kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
     buvo 800 arklių žirgynas.
-  citata_rodoma: |
-    Kai
-    kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
-    buvo 800 arklių žirgynas.
+  citata_rodoma: "Kai\nkur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno\nbuvo 800 arklių žirgynas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03238
+    - t-002
+
 - id: c-03476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -92,13 +88,11 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
     ir vebrų kailiukais — kiaunininkais ir vebrininkais,
     kurie žuvimis — žuvininkais. Kadangi kunigaikštis karo
     reikalui privalė arklių, tai krašte buvo daug žirgynų.
-  citata_rodoma: |
-    Kadangi kunigaikštis karo
-    reikalui privalė arklių, tai krašte buvo daug žirgynų.
+  citata_rodoma: "Kadangi kunigaikštis karo\nreikalui privalė arklių, tai krašte buvo daug žirgynų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03237
+    - t-001

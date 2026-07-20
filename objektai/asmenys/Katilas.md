@@ -30,7 +30,6 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
 
 <a id="claim-t-190232"></a>
 - t-001
-  global_id: t-190232
   teiginys: "Antspaudas priklausė Katilui (Koczel) 1617 metais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,22 +47,7 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   semantiniai_rysiai: "Antspaudas priklausė Katilas (0.98)"
   pagrindžia:
     - c-173115
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Antspaudas priklausė Katilui (Koczel) 1617 metais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
-    rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
-    Antspaudas priklausė Katilui (Koczel) 1617 metais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190232
+
 ## Citatos
 
 - id: c-173115
@@ -71,22 +55,17 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ponas Tadas Vo­
-    lianskis skaito Y 'icpti'b> „Mattez (MATTEZ)“, taiyra „Mal-
-    jasz“, arba Matas**.
-    IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
-    miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai
-    (Stank Stankiewicz Jursza).
-  citata_rodoma: |
     IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
     rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
     Antspaudas priklausė Katilui (Koczel) 1617 metais.
+  citata_rodoma: "IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­\nrio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.\nAntspaudas priklausė Katilui (Koczel) 1617 metais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190232
+    - t-001
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Antspaudas]]

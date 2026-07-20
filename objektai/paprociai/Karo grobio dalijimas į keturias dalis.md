@@ -47,8 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07781"></a>
-- t-001
-  global_id: t-07781
+- t-002
   teiginys: "Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -64,8 +63,7 @@ Nenurodyta
     - c-09936
 
 <a id="claim-t-200944"></a>
-- t-002
-  global_id: t-200944
+- t-003
   teiginys: "Minavonei dar tos pergalės tokį įstatymą padėjęs, jog alvieną grobį, karėj gautą ir namo pargabentą, dalys į 4 dalis, kurio viena dalis teks dievams, kaipo savo užtarytojams, antra viešpačiui ir jo tarnams, kurie nuo dievų pergalę išmeldė, 3 dalį gavo tie."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -87,24 +85,22 @@ Nenurodyta
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
-    dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
-    kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
-    per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
-  citata_rodoma: |
-    Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
-    dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
-    kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
-    per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
+        dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
+        kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
+        per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
+  citata_rodoma: "Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo\ndievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo\nkareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir\nper kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07781
+    - t-002
+
 - id: c-184294
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi Brutenis sukvietęs visus kareivius ties
     savo rūmais, idant savo dievams padėkavotų ir mei­
@@ -134,4 +130,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200944
+    - t-003

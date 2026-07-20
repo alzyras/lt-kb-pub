@@ -46,8 +46,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36115"></a>
-- t-001
-  global_id: t-36115
+- t-003
   teiginys: "Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -63,8 +62,7 @@ media_all_json: |-
     - c-38437
 
 <a id="claim-t-36116"></a>
-- t-002
-  global_id: t-36116
+- t-004
   teiginys: "Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -101,7 +99,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36116
+    - t-004
+
 - id: c-38437
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -114,16 +113,11 @@ media_all_json: |-
     imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
     grąžinta^1 ).
-  citata_rodoma: |
-    Vis tik, sako Halec­
-    kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
-    imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
-    ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
-    grąžinta^1 ).
+  citata_rodoma: "Vis tik, sako Halec­\nkis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­\nimtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,\nji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo\ngrąžinta^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36115
+    - t-003

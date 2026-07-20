@@ -39,7 +39,6 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 
 <a id="claim-t-30848"></a>
 - t-001
-  global_id: t-30848
   teiginys: "M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,15 +64,12 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
   citata_originali: |
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**
-    (^15) **Plg.
-  citata_rodoma: |
-    (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
-    Polska, Litewska etc_** **., I, 1846, 370-372 p.**
-    (^15) **Plg.
+    (^15) **Plg. Ad.
+  citata_rodoma: "(^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika\nPolska, Litewska etc_** **., I, 1846, 370-372 p.**\n(^15) **Plg."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30848
+    - t-001

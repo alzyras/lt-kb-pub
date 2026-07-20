@@ -31,7 +31,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 
 <a id="claim-t-03170"></a>
 - t-001
-  global_id: t-03170
   teiginys: "Baudžiavos laikais servitutai buvo valstiečių teisės dvaro miškuose ganyti, šienauti, žvejoti dvaro ežeruose ir kirstis malkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 
 <a id="claim-t-03171"></a>
 - t-002
-  global_id: t-03171
   teiginys: "Muravjovas įsakė už servitutus suteikti valstiečiams kitų patogumų arba palikti servitutų teises, jei dvarininkai nesutiktų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +49,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 
 <a id="claim-t-182977"></a>
 - t-003
-  global_id: t-182977
   teiginys: "Muravjovas įsakė komisijoms už servitutus suteikti valstiečiams kitokių patogumų arba palikti servitutų teises galioti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -84,19 +81,15 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     tutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur
     nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų
     paliktos, kaip buvusios.
-  citata_rodoma: |
-    Sužinojęs apie
-    tai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servi-
-    tutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur
-    nors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų
-    paliktos, kaip buvusios.
+  citata_rodoma: "Sužinojęs apie\ntai, Muravjovas įsakė tikrinamosioms komisijoms, kad už servi-\ntutus valstiečiams būtų suteikta kitokių patogumų, o jeigu kur\nnors dvarininkai nesutiktų jų duoti, tai kad servitutų teisės būtų\npaliktos, kaip buvusios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03171
+    - t-002
+
 - id: c-03409
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,17 +102,15 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
     čius. Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
     servitutus, t. y. teises dvaro miškuose ganyti, šienau-
     ti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų.
-  citata_rodoma: |
-    Valstiečiai, eidami baudžiavą, turėjo vadinamuosius
-    servitutus, t. y. teises dvaro miškuose ganyti, šienau-
-    ti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų.
+  citata_rodoma: "Valstiečiai, eidami baudžiavą, turėjo vadinamuosius\nservitutus, t. y. teises dvaro miškuose ganyti, šienau-\nti, dvaro ežeruose žvejoti ir giriose pasikirsti malkų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03170
+    - t-001
+
 - id: c-166375
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -139,4 +130,4 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182977
+    - t-003

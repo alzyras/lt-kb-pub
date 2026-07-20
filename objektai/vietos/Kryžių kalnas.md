@@ -38,7 +38,6 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 
 <a id="claim-t-21527"></a>
 - t-001
-  global_id: t-21527
   teiginys: "Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 
 <a id="claim-t-183612"></a>
 - t-002
-  global_id: t-183612
   teiginys: "Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,8 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21527
-    - t-183612
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jonas Paulius II]]

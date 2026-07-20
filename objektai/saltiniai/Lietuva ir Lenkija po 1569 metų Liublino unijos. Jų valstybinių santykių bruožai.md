@@ -38,7 +38,6 @@ Moksli­ niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenk
 
 <a id="claim-t-29918"></a>
 - t-001
-  global_id: t-29918
   teiginys: "„Lietuva ir Lenkija po 1569 metų Liublino unijos. Jų valstybinių santykių bruožai“ buvo plati disertacija, išspausdinta 1938 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Moksli­ niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29918
+    - t-001

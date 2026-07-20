@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-100180"></a>
 - t-001
-  global_id: t-100180
   teiginys: "„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-100180
+    - t-001

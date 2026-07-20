@@ -8,10 +8,10 @@ datos:
   - '1627 m.'
 date_start: '1625'
 date_end: '1627'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-202042"></a>
 - t-001
-  global_id: t-202042
   teiginys: "Tai vis buvę burtų ar bandymų pakenkti įtarimai, ir besiskundžiantieji taip užsitikrindavo teisę bylinėtis, jei kas nors bloga nutiktų."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,6 +59,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185389
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -82,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202042
+    - t-001

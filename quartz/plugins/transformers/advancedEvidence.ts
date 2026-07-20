@@ -148,6 +148,8 @@ const CLAIM_ADVANCED_KEYS = [
 ]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
+const CITATION_MODE_KEY = "citatos_rezimas"
+const CITATION_INDEX_KEY = "indeksas"
 const ADVANCED_RESOLVE_STOPWORDS = new Set(["tame"])
 
 interface EvidenceEntry {
@@ -688,6 +690,12 @@ function citationSupportsClaim(
   citationEntry: EvidenceEntry,
   documentContext: string,
 ): boolean {
+  if (
+    citationEntry.fields.get(CITATION_MODE_KEY)?.trim() === "indeksas" &&
+    citationEntry.fields.get(CITATION_INDEX_KEY)?.trim()
+  ) {
+    return true
+  }
   return evidenceSupportsClaim(
     claimEntry.fields.get("teiginys") ?? "",
     citationQuote(citationEntry, claimEntry, documentContext),
@@ -767,15 +775,20 @@ function renderCitationCard(
   const quote = citationQuote(citationEntry, claimEntry, documentContext)
   const originalQuote = citationEntry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
   const quoteIsExcerpt = Boolean(originalQuote && quote.trim() !== originalQuote)
+  const indexOnly =
+    citationEntry.fields.get(CITATION_MODE_KEY)?.trim() === "indeksas" &&
+    Boolean(citationEntry.fields.get(CITATION_INDEX_KEY)?.trim())
   const rows = advancedRows(citationEntry, quote, resolveIndex)
   const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
   const contributorHtml = citationContributorRows(citationEntry)
   const sourceHtml = source
     ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
     : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
-  const quoteHtml = quote
-    ? `${quoteIsExcerpt ? '<div class="claim-citation-quote-label">Rodoma citatos ištrauka</div>' : '<div class="claim-citation-quote-label">Citata</div>'}<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
-    : `<p class="claim-citation-missing">Citatos tekstas nerastas.</p>`
+  const quoteHtml = indexOnly
+    ? `<div class="claim-citation-index-label">Bibliografinis indeksas</div><p class="claim-citation-index">${advancedCell(citationEntry.fields.get(CITATION_INDEX_KEY)?.trim() ?? "")}</p>`
+    : quote
+      ? `${quoteIsExcerpt ? '<div class="claim-citation-quote-label">Rodoma citatos ištrauka</div>' : '<div class="claim-citation-quote-label">Citata</div>'}<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
+      : `<p class="claim-citation-missing">Citatos tekstas nerastas.</p>`
   const advancedHtml =
     rows.length > 0
       ? `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`

@@ -7,10 +7,10 @@ datos:
   - '1463 m.'
 date_start: '1463'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-202250"></a>
 - t-001
-  global_id: t-202250
   teiginys: "1463 m. Kazimiero Jogailaičio privilegija Kauno miestui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202250
+    - t-001

@@ -40,28 +40,18 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 ## Teiginiai
 
 <a id="claim-t-67256"></a>
-- t-001
-  global_id: t-67256
+- t-002
   teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aš tave pasodinsiu Auksinėj Ordoj...\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-14556
     - c-14557
 
 <a id="claim-t-67257"></a>
-- t-002
-  global_id: t-67257
+- t-001
   teiginys: "Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Maskva: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,7 +64,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Maskva (0.68)"
   pagrindžia:
     - c-14555
-    - c-14557
 
 ## Citatos
 
@@ -96,7 +85,8 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67257
+    - t-001
+
 - id: c-14556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -111,11 +101,10 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     Vielikom kniaženii, na vsiej ruskoj ziemli" ...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-67256
 - id: c-14557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,16 +118,11 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
     Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
     tijoje ir valdysiu visą Rusiją^2 ).
-  citata_rodoma: |
-    Rusų kronikos aiškina, kad
-    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
-    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
-    tijoje ir valdysiu visą Rusiją^2 ).
+  citata_rodoma: "Rusų kronikos aiškina, kad\nsu Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro\nKotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­\ntijoje ir valdysiu visą Rusiją^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67256
-    - t-67257
+    - t-002

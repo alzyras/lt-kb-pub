@@ -38,7 +38,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 
 <a id="claim-t-02783"></a>
 - t-001
-  global_id: t-02783
   teiginys: "Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,16 +86,11 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
     dalis teko Lietuvai.
-  citata_rodoma: |
-    Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
-    kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
-    dalis teko Lietuvai.
+  citata_rodoma: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-\nkupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o\nDanai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-\ntenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos\ndalis teko Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02783
+    - t-001

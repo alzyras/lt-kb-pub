@@ -40,7 +40,6 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 <a id="claim-t-19084"></a>
 - t-001
-  global_id: t-19084
   teiginys: "Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
     sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
     tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
     mokratinės Respublikos vyriausybėms.
-  citata_rodoma: |
-    dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam
+  citata_rodoma: "dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19084
+    - t-001

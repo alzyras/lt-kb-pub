@@ -37,7 +37,6 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 
 <a id="claim-t-88489"></a>
 - t-001
-  global_id: t-88489
   teiginys: "Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,24 +82,11 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
     (Iš Vilniaus kapitulos archyvo rankraščių)
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
-  citata_rodoma: |
-    P. Valerijonas
-
-    ## Puslapis 394
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
-    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
-    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
-    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
-    1533 METAIS
-    (Iš Vilniaus kapitulos archyvo rankraščių)
-    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
-    aniae, Russiae, totiusq.
+  citata_rodoma: "P. Valerijonas\n\n## Puslapis 394\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, \nRAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU  \n1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO \nJ TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES \n1533 METAIS\n(Iš Vilniaus kapitulos archyvo rankraščių)\nSigismundus DEI gratia Rex Pol oniae Magnus Dux Litu- \naniae, Russiae, totiusq."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88489
+    - t-001

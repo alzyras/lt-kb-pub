@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Domininkas Burba
 
 ## Santrauka
@@ -43,21 +44,12 @@ Domininkas Burba yra šio straipsnio autorius.
 
 <a id="claim-t-200432"></a>
 - t-001
-  global_id: t-200432
   teiginys: "Domininkas Burba yra šio straipsnio autorius."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-19 23:55"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Domininkas Burba: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Domininkas Burba\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
-    - c-183822
     - c-183823
 - susijęs iš [[objektai/asmenys/Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.).md#claim-t-200481|Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.)]]: Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.
 - susijęs iš Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją: Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltinis apie jo ankstyvą karjerą ir XVIII a. vidurio Vilniaus bajorų gyvenimą.
@@ -69,61 +61,17 @@ Domininkas Burba yra šio straipsnio autorius.
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 1"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
-  citata_originali: |
-    97, No. 1, pp. 26–46, 2015
-    Bajorų gyvenimo peripetijos XVIII amžiaus
-    vidurio Lietuvos Didžiosios Kunigaikštystės
-    sostinėje pagal Vilniaus kanauninko
-    Jono Dominyko Lopacinskio asmeninę
-    korespondenciją
-    Burba Domininkas
-    Lietuvos edukologijos universitetas, Istorijos fakultetas, Lietuvos istorijos katedra, T. Ševčenkos g. 31, Vilnius,
-    el. p.: domininkasb@gmail.com
-    Anotacija.
-  citata_rodoma: |
-    Bajorų gyvenimo peripetijos XVIII amžiaus
-    vidurio Lietuvos Didžiosios Kunigaikštystės
-    sostinėje pagal Vilniaus kanauninko
-    Jono Dominyko Lopacinskio asmeninę
-    korespondenciją
-    Burba Domininkas
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-200432
+
 - id: c-183823
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 21"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 21."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    The Twists and Turns of the Life of the Nobility in the
-    Capital of the Grand Duchy of Lithuania of the Mid-18th
-    Century according to Personal Correspondence of the
-    Canon of Vilnius Jan Dominik Łopaciński
-    Domininkas Burba
-    Lithuanian University of Educational Sciences, Faculty of History, Department of History of Lithuania,
-    T. Ševčenkos str. 31, Vilnius, e-mail: domininkasb@gmail.com
-    Summary
-    The future bishop of Samogitia and the canon of Vilnius Jan Dominik Łopaciński left abundant
-    correspondence on the life of the nobility in the capital city of the Grand Duchy of Lithuania
-    in the mid-18th century (1730–1762). Most of his addressees were lords or the noblemen of the
-    higher-than-average rank. The letters refer to political problems – mostly the news on the dietines
-    (sejmiks) of Vilnius, Smolensk, Starodub taking place in the capital.
-  citata_rodoma: |
-    The Twists and Turns of the Life of the Nobility in the
-    Capital of the Grand Duchy of Lithuania of the Mid-18th
-    Century according to Personal Correspondence of the
-    Canon of Vilnius Jan Dominik Łopaciński
-    Domininkas Burba
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 02:56"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200432
+    - t-001

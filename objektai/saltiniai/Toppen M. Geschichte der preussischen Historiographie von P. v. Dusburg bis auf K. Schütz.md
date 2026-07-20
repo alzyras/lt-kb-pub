@@ -9,12 +9,12 @@ datos:
   - '1900 m.'
 date_start: '1801'
 date_end: '1900'
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,9 +38,8 @@ Dusburgietis teigia, kad toppen M.
 
 <a id="claim-t-61320"></a>
 - t-001
-  global_id: t-61320
   teiginys: "M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,21 +54,7 @@ Dusburgietis teigia, kad toppen M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia šaltinio pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61952
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
-    Schütz.—Berlin, 1853.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61320
+
 ## Citatos
 
 - id: c-61952
@@ -77,17 +62,13 @@ Dusburgietis teigia, kad toppen M.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Иванов В. В., Топоров В. Н. Исследования в области славянских древностей:
-    Лексические и фразеологические вопросы реконструкции текстов. — М., 1974.
-    Иванов В. В., Топоров В. Н. Мифологические географические названия как
-    источник для реконструкции этногенеза и древнейшей истории славян.
-  citata_rodoma: |
     Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
     Schütz.—Berlin, 1853.
+  citata_rodoma: "Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.\nSchütz.—Berlin, 1853."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61320
+    - t-001

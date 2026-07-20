@@ -32,7 +32,6 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 
 <a id="claim-t-87748"></a>
 - t-001
-  global_id: t-87748
   teiginys: "M. Balinskis skaitytojams pristatė Karolinos Praniauskaitės poeziją kartu su Žemaitijos kultūriniu sąjūdžiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: |
-    Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
-    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
-    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
+  citata_rodoma: "Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis \nsupažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­\nrolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87748
+    - t-001

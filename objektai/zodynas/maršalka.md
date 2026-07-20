@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-70234"></a>
 - t-001
-  global_id: t-70234
   teiginys: "Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,15 +94,11 @@ media_all_json: |-
     tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
-  citata_rodoma: |
-    Žuvusiam maršalkai Schindekopui pamin-
-    klinis kryžius buvo pastatytas tuojau po
-    mūšio; jam sugriuvus, ant tų pačių pa-
-    matų 1835 m. buvo šis pastatytas.
+  citata_rodoma: "Žuvusiam maršalkai Schindekopui pamin-\nklinis kryžius buvo pastatytas tuojau po\nmūšio; jam sugriuvus, ant tų pačių pa-\nmatų 1835 m. buvo šis pastatytas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70234
+    - t-001

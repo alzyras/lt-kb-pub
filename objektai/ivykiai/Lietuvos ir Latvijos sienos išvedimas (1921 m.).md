@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-66694"></a>
 - t-001
-  global_id: t-66694
   teiginys: "Vedant Lietuvos ir Latvijos sieną, dalis lietuviškų valsčių atiteko Latvijai, o kai kurie latviški valsčiai ar jų dalys - Lietuvai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-66696"></a>
 - t-002
-  global_id: t-66696
   teiginys: "1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66696
+    - t-002
+
 - id: c-66884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -122,4 +121,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66694
+    - t-001

@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31751"></a>
 - t-001
-  global_id: t-31751
   teiginys: "K. Forstreuterio „Die Bekehrung Gedimins und der Deutsche Orden“ 1928 m. paskelbtas AP 5 tome, 239–268 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,14 +69,11 @@ media_all_json: |-
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: |
-    —
-    Forstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_
-    AP, t. 5, 1928, 239-268 p.
+  citata_rodoma: "—\nForstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_\nAP, t. 5, 1928, 239-268 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31751
+    - t-001

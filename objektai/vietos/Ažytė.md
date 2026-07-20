@@ -45,20 +45,8 @@ Ažytė šiame šaltinyje yra upelis.
 
 ## Teiginiai
 
-<a id="claim-t-195473"></a>
-- t-001
-  global_id: t-195473
-  teiginys: "Ažytė vietos žmonių atmintyje minima kaip vaikystės maudynių vieta."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177896
-
 <a id="claim-t-195474"></a>
-- t-002
-  global_id: t-195474
+- t-001
   teiginys: "Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, o vasarą būna sausas."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -66,17 +54,6 @@ Ažytė šiame šaltinyje yra upelis.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177894
-
-<a id="claim-t-195475"></a>
-- t-003
-  global_id: t-195475
-  teiginys: "Pasakotojo dabartyje Ažytė buvo sausa."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177895
 - susijęs iš Duburys: Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku.
 ## Citatos
 
@@ -93,15 +70,15 @@ Ažytė šiame šaltinyje yra upelis.
     Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi
     per vasarą esti sausas; o dar neseniai, XIX amžiaus viduryje, maudė­
     si joje gyvuliai ir žmonės.
-  citata_rodoma: |
-    Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi per vasarą esti sausas;
+  citata_rodoma: "Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi per vasarą esti sausas;"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195474
+    - t-001
+
 - id: c-177895
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -114,15 +91,13 @@ Ažytė šiame šaltinyje yra upelis.
     didelis akmuo, prie kurio galėdavome prieiti tik tada, kai vanduo nu­
     sekdavo; jis gulėjo dešinėje upelio pusėje.
     Šiandien Ažytė sausa.
-  citata_rodoma: |
-    Šiandien Ažytė sausa.
+  citata_rodoma: "Šiandien Ažytė sausa."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195475
 - id: c-177896
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -137,12 +112,9 @@ Ažytė šiame šaltinyje yra upelis.
     Tuomet užneštą medį pamatome iš-
     lindusį iš upės kranto.
     Augdami maudėmės Ažytėje.
-  citata_rodoma: |
-    Augdami maudėmės Ažytėje.
+  citata_rodoma: "Augdami maudėmės Ažytėje."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195473

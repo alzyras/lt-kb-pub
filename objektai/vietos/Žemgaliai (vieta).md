@@ -33,7 +33,6 @@ Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj 
 
 <a id="claim-t-201182"></a>
 - t-001
-  global_id: t-201182
   teiginys: "Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj , Parusny, Žemai čiuose ir Žemgaliuose, arba Kuržemėj2."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj 
 ## Citatos
 
 - id: c-184532
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nė viena taip didžiai
     barva joms netiko, kaip balta, dėl to gi, tikėjimą
@@ -64,4 +64,4 @@ Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201182
+    - t-001

@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-87027"></a>
 - t-001
-  global_id: t-87027
   teiginys: "1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-87028"></a>
 - t-002
-  global_id: t-87028
   teiginys: "Senosios Goštauto liepos vardo tradicija galėjo būti priskirta vėlesniam laikotarpiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87028
+    - t-002
+
 - id: c-83007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -162,4 +161,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87027
+    - t-001

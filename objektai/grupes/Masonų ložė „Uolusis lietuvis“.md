@@ -40,8 +40,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 ## Teiginiai
 
 <a id="claim-t-65916"></a>
-- t-001
-  global_id: t-65916
+- t-002
   teiginys: "1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
     - c-55456
 
 <a id="claim-t-65917"></a>
-- t-002
-  global_id: t-65917
+- t-003
   teiginys: "1819 m. Michał Balińskis įstojo į masonų ložę „Uolusis lietuvis“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
     - c-55456
 
 <a id="claim-t-65918"></a>
-- t-003
-  global_id: t-65918
+- t-001
   teiginys: "„Uolusis lietuvis“ („Gorliwy Litwin“) buvo vadinama garsiausiąja lože."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -100,7 +97,6 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 
 <a id="claim-t-183171"></a>
 - t-004
-  global_id: t-183171
   teiginys: "Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -144,8 +140,9 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65916
-    - t-65917
+    - t-002
+    - t-003
+
 - id: c-166558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -164,5 +161,5 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65918
-    - t-183171
+    - t-001
+    - t-004

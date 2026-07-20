@@ -35,7 +35,6 @@ Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš ašt
 
 <a id="claim-t-190240"></a>
 - t-001
-  global_id: t-190240
   teiginys: "Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš aštuonių antspaudų su žalčiais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš ašt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190240
+    - t-001

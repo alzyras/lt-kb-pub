@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201984"></a>
 - t-001
-  global_id: t-201984
   teiginys: "Pažymėtinos krosnys, kurių kokliuose buvo vaizduojamas miesto herbas ir suolininkų kolegijos simbolis šv."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-201985"></a>
 - t-002
-  global_id: t-201985
   teiginys: "Kauno rotušės krosnies koklis su šv."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,6 +64,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185332
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -84,7 +85,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201984
+    - t-001
 
 - id: c-185332
   autorius: "Zigmantas Kiaupa"
@@ -99,4 +100,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201985
+    - t-002

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-87095"></a>
 - t-001
-  global_id: t-87095
   teiginys: "Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87095
+    - t-001

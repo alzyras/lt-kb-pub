@@ -33,7 +33,6 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
 
 <a id="claim-t-199235"></a>
 - t-001
-  global_id: t-199235
   teiginys: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntinius, primindami jam, kad jis tu rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo užstatyta Žemaitija7 ."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "auto"
@@ -43,7 +42,7 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181754
-    - c-177407
+
 ## Citatos
 
 - id: c-181754
@@ -51,37 +50,6 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   puslapiai: "PDF 107"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 107."
-  citata_originali: |
-    O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
-    Vytautą savo pasiuntinius, primindami jam, kad jis tu­
-    rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
-    užstatyta Žemaitija7. Didysis kunigaikštis Vytautas
-    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
-    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
-    o pinigų jums atiduoti neturiu."
-    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
-    kęs nusiuntė jiems visą auksinų sumą.
-  citata_rodoma: |
-    O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
-    Vytautą savo pasiuntinius, primindami jam, kad jis tu­
-    rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo
-    užstatyta Žemaitija7 . Didysis kunigaikštis Vytautas
-    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
-    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
-    o pinigų jums atiduoti neturiu."
-    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
-    kęs nusiuntė jiems visą auksinų sumą.
-  statusas: verified
-  atnaujinta: "2026-07-12 23:02"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199235
-- id: c-177407
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
     Vytautą savo pasiuntinius, primindami jam, kad jis tu­
@@ -94,8 +62,9 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
     kęs nusiuntė jiems visą auksinų sumą.
   citata_rodoma: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį \nVytautą savo pasiuntinius, primindami jam, kad jis tu­\nrįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo \nužstatyta Žemaitija7 . Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199235
+    - t-001

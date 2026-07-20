@@ -33,7 +33,6 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
 
 <a id="claim-t-201175"></a>
 - t-001
-  global_id: t-201175
   teiginys: "Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj bažnyčią jiems įkūrė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
 ## Citatos
 
 - id: c-184525
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­
@@ -66,4 +66,4 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201175
+    - t-001

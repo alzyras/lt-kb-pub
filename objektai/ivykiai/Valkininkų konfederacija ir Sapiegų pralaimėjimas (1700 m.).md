@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78641"></a>
-- t-001
-  global_id: t-78641
+- t-006
   teiginys: "Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-75862
 
 <a id="claim-t-78642"></a>
-- t-002
-  global_id: t-78642
+- t-001
   teiginys: "Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,35 +115,16 @@ Nenurodyta
 
     4 DIDŽIOJI |
 
-    I.
-  citata_rodoma: |
-    O LDK bajorijai taip ir nepavyko
-
-    deklaruojamų bajoriškosios lygybės idealų,
-    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
-    versti gyvenimo tikrove. Valkininkų mūšis
-    dažnai siejamas su ilgainiui Lietuvą apė-
-    musios suirutės pradžia, privedusios šalį
-    prie situacijos, kai jos likimą labiau nei ji
-    pati ėmė lemti jos kaimynai.
-
-    ## Puslapis 143
-
-    BEZDEZO (ANTOPOLIO) MUSIS 1771
-
-    Ki
-    | LIETUVOS
-
-    4 DIDŽIOJI |
-
-    I.
+    I. KUNIGAIKŠTYSTĖ
+  citata_rodoma: "O LDK bajorijai taip ir nepavyko\n\ndeklaruojamų bajoriškosios lygybės idealų,\ndėl kurių ji ir pakilo į ginkluotą kovą, pa-\nversti gyvenimo tikrove. Valkininkų mūšis\ndažnai siejamas su ilgainiui Lietuvą apė-\nmusios suirutės pradžia, privedusios šalį\nprie situacijos, kai jos likimą labiau nei ji\npati ėmė lemti jos kaimynai.\n\n## Puslapis 143\n\nBEZDEZO (ANTOPOLIO) MUSIS 1771\n\nKi\n| LIETUVOS\n\n4 DIDŽIOJI |\n\nI."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78642
+    - t-001
+
 - id: c-75862
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -166,4 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78641
+    - t-006

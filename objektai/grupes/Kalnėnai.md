@@ -38,8 +38,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 ## Teiginiai
 
 <a id="claim-t-65268"></a>
-- t-001
-  global_id: t-65268
+- t-008
   teiginys: "Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -55,27 +54,16 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     - c-10116
 
 <a id="claim-t-65270"></a>
-- t-002
-  global_id: t-65270
+- t-005
   teiginys: "Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalnėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalnėnai\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-10114
-    - c-10115
     - c-10116
 
 <a id="claim-t-65271"></a>
-- t-003
-  global_id: t-65271
+- t-006
   teiginys: "Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -84,8 +72,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
     - c-10114
 
 <a id="claim-t-65272"></a>
-- t-004
-  global_id: t-65272
+- t-007
   teiginys: "Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -151,8 +138,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65270
-    - t-65271
+    - t-006
+
 - id: c-10115
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -167,8 +154,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65270
-    - t-65272
+    - t-007
+
 - id: c-10116
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -186,5 +173,5 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65268
-    - t-65270
+    - t-008
+    - t-005

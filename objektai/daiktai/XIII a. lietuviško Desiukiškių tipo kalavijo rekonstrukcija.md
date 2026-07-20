@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-40800"></a>
 - t-001
-  global_id: t-40800
   teiginys: "XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40800
+    - t-001

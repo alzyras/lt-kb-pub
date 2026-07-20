@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-39499"></a>
 - t-001
-  global_id: t-39499
   teiginys: "Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39499
+    - t-001

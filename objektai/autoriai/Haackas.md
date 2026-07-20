@@ -31,7 +31,6 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
 
 <a id="claim-t-64601"></a>
 - t-001
-  global_id: t-64601
   teiginys: "Fr. Haacko žodynas datuojamas 1730 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,4 +54,4 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64601
+    - t-001

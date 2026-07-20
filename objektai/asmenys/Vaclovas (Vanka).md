@@ -7,15 +7,15 @@ datos:
   - '1320 m.'
 date_start: '1320'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
 
 <a id="claim-t-60452"></a>
 - t-001
-  global_id: t-60452
   teiginys: "Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,22 +55,7 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   temporalinis_llm_pakomentavimas: "Išplėstas asmens vaidmuo ir pašalinta nereikalinga šaltinio atribucija."
   pagrindžia:
     - c-61084
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
-    Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
-    kelius vakaruose ir šiaurėje blokavo Ordinas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60452
+
 ## Citatos
 
 - id: c-61084
@@ -79,19 +63,14 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Inovroclave
-    šiuo reikalu vyko teismas, kuriame dalyvavo popiežiaus skirti teisėjai. Nors teismo
-    sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
-    ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
-    nemažas politinis lenkų laimėjimas59.
-  citata_rodoma: |
     Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
     Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
     kelius vakaruose ir šiaurėje blokavo Ordinas).
+  citata_rodoma: "Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).\nMazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus\nkelius vakaruose ir šiaurėje blokavo Ordinas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60452
+    - t-001

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67075"></a>
-- t-001
-  global_id: t-67075
+- t-005
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +76,9 @@ Nenurodyta
   pagrindžia:
     - c-43153
     - c-167082
+
 <a id="claim-t-67077"></a>
-- t-002
-  global_id: t-67077
+- t-003
   teiginys: "Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -117,8 +116,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67075
-    - t-67077
+    - t-005
+    - t-003
+
 - id: c-167082
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,3 +136,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

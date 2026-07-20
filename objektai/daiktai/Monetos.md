@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-192081"></a>
 - t-001
-  global_id: t-192081
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo kalamos monetos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -81,10 +80,9 @@ Nenurodyta
     - c-174951
 
 <a id="claim-t-192082"></a>
-- t-002
-  global_id: t-192082
+- t-003
   teiginys: "Narbutas nurodė: 1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.85"
@@ -101,7 +99,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174950
-    - c-001
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189988|Tadas Volianskis]]: Tadas Volianskis atsiuntė Narbutui Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190982|Tadas Volianskis]]: Tadas Volianskis Narbutui atsiuntė panašios monetos piešinį ir manė, kad Lietuvoje rasta moneta priklauso lietuviškiems paminklams.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-190691|Antanas Marcinovskis]]: Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją.
@@ -150,8 +147,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192082
+
 ## Citatos
 
 - id: c-174950
@@ -159,33 +155,21 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Informacija, kuria autorius papildė paragrafą, rengdamas ant­
-    rąjį LTI leidimą (PEĮ. L. 26). Tekste minimi faktai paimti iš mi­
-    nėto T. Volianskio laiško (P. 12).
-    94 /Ten
-    pat,
-    nenurodyta
-    vieta/
-    Prilvico statulėlių rinkinyje, remiantis Mašo (Mascho) ir Vogeno
-    (Wogen) informacija, dievukas, turintis užrašą Szwaixtiks, neati­
-    tinka tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo
-    vardas kilęs iš žodžio žvaigždė (Zwajgida), bet savo išvaizda jis
-    visiškai nepanašus į Apoloną, Tai barzdotas senis su žibintu ran­
-    koje.
-  citata_rodoma: |
     Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­
     kininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­
     bama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­
     pai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai
     pastatyto kalavijo ženklą. Moneta labai plona, labai apgadinta ir išliko
     lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių.
+  citata_rodoma: "Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie Drus­\nkininkų, lauke, kuriame yra daug laidojimų, apie kuriuos čia kal­\nbama. Vienoje pusėje pavaizduotas Gedimino šeimos herbas Stul­\npai. Antra pusė gerokai pažeista, galima įžiūrėti tik statmenai\npastatyto kalavijo ženklą. Moneta labai plona, labai apgadinta ir išliko\nlik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192082
+    - t-003
+
 - id: c-174951
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,22 +186,11 @@ Nenurodyta
     daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
-  citata_rodoma: |
-    Lietuvos
-    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
-    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
-    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
-    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
-    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
-    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
+  citata_rodoma: "Lietuvos\nateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo\nlaikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­\nmyninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­\nbinėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-\npaliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­\nkluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­\nčiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­\ndaus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais\n(Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­\nnetos, liejami pabūklai, varpai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192081
+    - t-001

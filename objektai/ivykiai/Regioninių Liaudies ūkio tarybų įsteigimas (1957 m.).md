@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20462"></a>
 - t-001
-  global_id: t-20462
   teiginys: "1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,7 +74,6 @@ Nenurodyta
 
 <a id="claim-t-183268"></a>
 - t-002
-  global_id: t-183268
   teiginys: "1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas, pramonės valdymas turėjo pereiti iš šakinio į teritorinį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -121,5 +119,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20462
-    - t-183268
+    - t-001
+    - t-002

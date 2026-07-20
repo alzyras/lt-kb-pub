@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas
 
 ## Santrauka
@@ -52,27 +53,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-59559"></a>
-- t-001
-  global_id: t-59559
-  teiginys: "Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lanzanija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lanzanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lanzanijos nobiliai kartu pripažino Kristijono valdžią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kristijonas valdė Lubava (0.76); Kristijonas valdė Lanzanija (0.76)"
-  pagrindžia:
-    - c-60191
-
 <a id="claim-t-196956"></a>
 - t-002
-  global_id: t-196956
   teiginys: "Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,5 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59559
-    - t-196956
+    - t-002

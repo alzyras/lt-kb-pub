@@ -30,7 +30,6 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
 
 <a id="claim-t-191784"></a>
 - t-001
-  global_id: t-191784
   teiginys: "Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panonijos su vandalais bėgo nuo gotų, kuriuos vijo hunai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191784
+    - t-001

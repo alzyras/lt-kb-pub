@@ -38,7 +38,6 @@ Dusburgietis teigia, kad šeliagovičius M.
 
 <a id="claim-t-60833"></a>
 - t-001
-  global_id: t-60833
   teiginys: "Šeliagovičius M. 1984 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį „Senovės baltų atgarsis“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad šeliagovičius M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60833
+    - t-001

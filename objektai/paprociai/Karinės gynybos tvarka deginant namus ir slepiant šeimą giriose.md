@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07776"></a>
-- t-001
-  global_id: t-07776
+- t-004
   teiginys: "Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -76,15 +75,11 @@ Nenurodyta
         iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
         po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
-  citata_rodoma: |
-    Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
-    iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
-    krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
-    po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
+  citata_rodoma: "Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs\niš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį\nkrikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės\npo laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07776
+    - t-004

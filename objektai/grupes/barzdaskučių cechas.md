@@ -7,10 +7,10 @@ datos:
   - '1643 m.'
 date_start: '1643'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Tačiau jie kartu su kitais cecho nariais buvo įpareigoti kiekvieną savaitę i
 
 <a id="claim-t-201877"></a>
 - t-001
-  global_id: t-201877
   teiginys: "Tačiau jie kartu su kitais cecho nariais buvo įpareigoti kiekvieną savaitę išklausyti Kauno parapinėje bažnyčioje Mišių arba nuo jų atsipirkti 3lietuviškųjų grašių bauda."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Tačiau jie kartu su kitais cecho nariais buvo įpareigoti kiekvieną savaitę i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201877
+    - t-001

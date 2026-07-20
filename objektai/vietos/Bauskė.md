@@ -34,7 +34,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 <a id="claim-t-83202"></a>
 - t-001
-  global_id: t-83202
   teiginys: "Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 <a id="claim-t-184930"></a>
 - t-002
-  global_id: t-184930
   teiginys: "Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -68,10 +66,9 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168291
-    - c-002
+
 <a id="claim-t-194250"></a>
 - t-003
-  global_id: t-194250
   teiginys: "Li vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Helmenas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė, Ryga, Šmetenė."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -92,40 +89,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - susijęs iš Mintauja: Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.
 - susijęs iš Vilnius: Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto.
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas vakare pasiekė Vilnių ir svarbiausias rūmų vertybes suvežė į dominikonų vienuolyną.
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Seimo darbe dalyvavo ir ordino magistras Ket-
-    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
-    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
-    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
-    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
-    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
-    7 0 3
-
-    ## Puslapis 702
-
-    iždo padarytas išlaidas, Livo-
-    S u la rties są ly g o s
-    nijos riterių ordinas atiduo­
-    dąs
-    Lietuvai visas
-    žemes
-    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
-    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
-    pilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis
-    užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
-    tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
-    šimtus tūkstančių florinų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184930
 ## Citatos
 
 - id: c-79575
@@ -154,33 +117,13 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83202
+    - t-001
+
 - id: c-168291
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Seimo darbe dalyvavo ir ordino magistras Ket-
-    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
-    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
-    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
-    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
-    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
-    7 0 3
-
-    iždo padarytas išlaidas, Livo-
-    S u la rties są ly g o s
-    nijos riterių ordinas atiduo­
-    dąs
-    Lietuvai visas
-    žemes
-    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
-    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
-    pilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis
-    užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
-    tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
-    šimtus tūkstančių florinų.
-  citata_rodoma: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
     kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
@@ -203,13 +146,15 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
     tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
     šimtus tūkstančių florinų.
+  citata_rodoma: "Seimo darbe dalyvavo ir ordino magistras Ket-\nleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus\nkunigaikščio Mikalojaus Radvilos paraginti, nusprendė,\nkad Livonija sudaranti su Lietuva sąjungą ir pereinanti\nį Žygimanto Augusto, Lietuvos didžiojo kunigaikš­\nčio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos\n7 0 3\n\n## Puslapis 702\n\niždo padarytas išlaidas, Livo-\nS u la rties są ly g o s\nnijos riterių ordinas atiduo­\ndąs\nLietuvai visas\nžemes\nabiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-\nklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­\npilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis\nužbaigus karą ir sutarus taiką, Livonija turėsianti teisę\ntas žemes išpirkti užmokėjusi Lietuvos pinigais šešis\nšimtus tūkstančių florinų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184930
+    - t-002
+
 - id: c-176846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -245,4 +190,4 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194250
+    - t-003

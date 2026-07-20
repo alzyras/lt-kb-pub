@@ -47,8 +47,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
 ## Teiginiai
 
 <a id="claim-t-195471"></a>
-- t-001
-  global_id: t-195471
+- t-002
   teiginys: "1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -58,8 +57,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     - c-177893
 
 <a id="claim-t-195472"></a>
-- t-002
-  global_id: t-195472
+- t-001
   teiginys: "1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -97,15 +95,15 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     vasarą pradėjęs lietuvių kalbos studijas
     kažkur Lietuvos šiaurėje;
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
-  citata_rodoma: |
-    1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
+  citata_rodoma: "1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195472
+    - t-001
+
 - id: c-177893
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -131,12 +129,11 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
     Karaliaučius, Vilnius, Ryga), ypač 1910 m. dainų rinkimas šiaurės
     rytų Lietuvoje (apie tai plačiau Niemio ir Sabaliausko „Lietuvių dai­
     nos ir giesmės“ knygoje) ir 1911 m.
-  citata_rodoma: |
-    1904 m. rugp. ir rūgs. mėnesiais nauja kelionė į Archangelsko guberniją, į senų runų rinkimo vietą.
+  citata_rodoma: "1904 m. rugp. ir rūgs. mėnesiais nauja kelionė į Archangelsko guberniją, į senų runų rinkimo vietą."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195471
+    - t-002

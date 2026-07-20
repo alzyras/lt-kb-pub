@@ -28,7 +28,6 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
 
 <a id="claim-t-201240"></a>
 - t-001
-  global_id: t-201240
   teiginys: "To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
 
 <a id="claim-t-201241"></a>
 - t-002
-  global_id: t-201241
   teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -55,8 +53,9 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
 ## Citatos
 
 - id: c-184590
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To vildamos, pradėjo Konra­
     das Dobrynės pilį dirbti ant skardžio upės Dre-
@@ -77,11 +76,12 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201240
+    - t-001
 
 - id: c-184591
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet ne taip veikiai nusibengė kerštai mozūrų
     kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
@@ -95,4 +95,4 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201241
+    - t-002

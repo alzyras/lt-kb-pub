@@ -31,7 +31,6 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 
 <a id="claim-t-41063"></a>
 - t-001
-  global_id: t-41063
   teiginys: "J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,14 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
     tilerijos baterijų pozicijas, išžudė
     jų tarnybas ir sugadino pabūk-
     lus.
-  citata_rodoma: |
-    J. K. Chodkevičius pasiuntė ke-
-    lias raitarų ir „lisovčikų“ vėliavas
-    į kontrataką.
+  citata_rodoma: "J. K. Chodkevičius pasiuntė ke-\nlias raitarų ir „lisovčikų“ vėliavas\nį kontrataką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41063
+    - t-001
+
 ## Ryšiai
 - Lisovčikai puolė [[objektai/grupes/Janičarai]]

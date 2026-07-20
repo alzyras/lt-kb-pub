@@ -37,7 +37,6 @@ Kurklių vlsč.
 
 <a id="claim-t-38498"></a>
 - t-001
-  global_id: t-38498
   teiginys: "1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Kurklių vlsč.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38498
+    - t-001

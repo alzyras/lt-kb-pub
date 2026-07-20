@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-62464"></a>
 - t-001
-  global_id: t-62464
   teiginys: "Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -75,16 +74,11 @@ Nenurodyta
       Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
     dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
     jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
-  citata_rodoma: |
-    Apie saldžią rasą, užkritusią pasėlius
-
-      Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš
-    dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai
-    jautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.).
+  citata_rodoma: "Apie saldžią rasą, užkritusią pasėlius\n\n  Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš\ndangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai\njautė medaus kvapą (Ptol. loc. cit.; Mart. loc. cit.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62464
+    - t-001

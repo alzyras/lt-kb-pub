@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-191485"></a>
 - t-001
-  global_id: t-191485
   teiginys: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ media_all_json: |-
 
 <a id="claim-t-201048"></a>
 - t-002
-  global_id: t-201048
   teiginys: "Yra raštuose randama, jog tą metą Vsevolodas, kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135 pus Daugavos lietuvių kraštą Lotaviją, arba Letgaliją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurjevą, arba Tarapatą, įsilaužęs, bet koksai galas."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -103,10 +101,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191485
+    - t-001
+
 - id: c-184398
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įgavę tokiu pragumu lietu­
     viai pergalę ir nepaseikimus turtus grįžo namon.
@@ -126,4 +126,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201048
+    - t-002

@@ -9,13 +9,13 @@ datos:
   - '1938 m.'
 date_start: '1293'
 date_end: '1938'
-amziai:
-  - 'XIII'
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,20 +38,18 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 ## Teiginiai
 
 <a id="claim-t-175164"></a>
-- t-001
-  global_id: t-175164
+- t-005
   teiginys: "Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159323
-    - c-005
+
 <a id="claim-t-175165"></a>
-- t-002
-  global_id: t-175165
+- t-006
   teiginys: "Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mituva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,12 +64,11 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   temporalinis_llm_pakomentavimas: "Citata remia ir tapatinimą, ir jo ribotumą; pradinis teiginys nutrūkęs."
   pagrindžia:
     - c-159317
-    - c-001
+
 <a id="claim-t-175166"></a>
 - t-003
-  global_id: t-175166
   teiginys: "H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pagraudė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,10 +80,9 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159319
-    - c-003
+
 <a id="claim-t-175167"></a>
-- t-004
-  global_id: t-175167
+- t-007
   teiginys: "H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -98,8 +94,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - c-159320
 
 <a id="claim-t-175169"></a>
-- t-005
-  global_id: t-175169
+- t-002
   teiginys: "H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -115,55 +110,6 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   pagrindžia:
     - c-159318
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
-    tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
-    Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
-    Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
-    rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
-    nerandame.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175165
-- c-003
-  santrauka: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
-    pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
-    p. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis
-    J., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen
-    G., Die Besiedlung..., 2, p. 205).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175166
-- c-005
-  santrauka: 'Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
-    intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
-    kelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.
-    35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-175164
 ## Citatos
 
 - id: c-159317
@@ -171,29 +117,21 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Kai šitaip
-    paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių,
-    kur nužudė ir paėmė į nelaisvę daug žmonių; kai su dideliu grobiu traukė namo, susidūrė
-    su būreliu lietuvių, kurie pavargę atsiliko nuo ne vieną kartą minėtosios karaliaus
-    kariuomenės, ir du iš jų nukovė.
-    309 (302). Apie brolio Zigfrido, didžiojo bei Prūsijos žemės magistro, mirtį
-    Tų metų kovo 5 dieną vyriausioje būstinėje Marienburge pasimirė brolis Zigfridas iš
-    Foichtvangeno, Teutonų ordino didysis magistras, o jį palaidojo Kulmenzėje, katedros
-    bažnyčioje.
-  citata_rodoma: |
     D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
     tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
     Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
     Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
     rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
     nerandame.
+  citata_rodoma: "D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,\ntapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;\nTarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die\nBesiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko\nrj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų\nnerandame."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175165
+    - t-006
+
 - id: c-159318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -213,34 +151,27 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175169
+    - t-002
+
 - id: c-159319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
-    sudeginimą
-    Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
-    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
-    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
-    262 (255). Apie penktąją atskalūnybę ir apie bausmę už ją
-    Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis
-    Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P. K., Rinktiniai raštai,
-    p. 29) bandoma sieti su XIII a.
-  citata_rodoma: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
     pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
     p. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis
     J., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen
     G., Die Besiedlung..., 2, p. 205).
+  citata_rodoma: "544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių\npietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,\np. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis\nJ., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen\nG., Die Besiedlung..., 2, p. 205)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175166
+    - t-003
+
 - id: c-159320
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -254,34 +185,22 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175167
+    - t-007
+
 - id: c-159323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Pagraudės valsčiaus nusiaubimą 1311 metais
-    Neilgai trukus po to, kai pasitraukė karalius ir jo kariuomenė, brolis Fridrichas iš
-    Vildenbergo, Karaliaučiaus komtūras, patraukė su didele kariuomene tuo pačiu keliu,
-    kuriuo neseniai žygiavo minėtasis karalius, ir tuo metu, kai minėtosios kariuomenės
-    vyrai buvo sugrįžę namo ir ilsėjosi po sunkaus žygio, dėkodami savo dievams už jiems
-    suteiktą šiame kare pagalbą, įsiveržė į Pagraudės valsčių ir jį siaubingai nuniokojo,
-    žudydamas žmones ir viską grobdamas. Jis taip nusiaubė tą valsčių, kad ilgus metus jis
-    negalėjo atsigauti.
-    308 (301). Apie Gardino pilies apylinkių nusiaubimą 1311 metais
-    Tuo metu brolis Otonas iš Bergo ir 5 broliai su 400 Notangos raitelių nužygiavo link
-    Gardino pilies; kai jie priėjo pelkes, kuriomis teka upė, vardu Bebras, kariuomenės
-    vedliai dvi dienas klaidžiojo, nerasdami tikro kelio, o šitaip patvarkė dieviškoji apvaizda,
-    nes minėtosios karaliaus kariuomenės žmonės dar nebuvo sugrįžę namo.
-  citata_rodoma: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
     intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
     kelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.
     35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).
+  citata_rodoma: "561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos\nintakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)\nkelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.\n35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175164
+    - t-005

@@ -31,7 +31,6 @@ Vakarų Europos riterio rekonstrukcija.
 
 <a id="claim-t-80641"></a>
 - t-001
-  global_id: t-80641
   teiginys: "„Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Vakarų Europos riterio rekonstrukcija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80641
+    - t-001

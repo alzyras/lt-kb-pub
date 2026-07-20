@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80579"></a>
-- t-001
-  global_id: t-80579
+- t-003
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ media_all_json: |-
     - c-77300
 
 <a id="claim-t-80580"></a>
-- t-002
-  global_id: t-80580
+- t-001
   teiginys: "Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ media_all_json: |-
     - c-77298
 
 <a id="claim-t-80581"></a>
-- t-003
-  global_id: t-80581
+- t-002
   teiginys: "Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -111,7 +108,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80580
+    - t-001
+
 - id: c-77300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -137,5 +135,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80579
-    - t-80581
+    - t-003
+    - t-002

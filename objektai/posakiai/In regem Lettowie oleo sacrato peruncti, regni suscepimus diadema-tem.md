@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-99999"></a>
 - t-001
-  global_id: t-99999
   teiginys: "Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,17 +58,11 @@ media_all_json: |-
     (^118) **« In regem Lettowie oleo sacrato peruncti, regni suscepimus diadema-
     tem » (LUB I, 243).**
     (^119) **LReim 3493-96.
-  citata_rodoma: |
-    für
-    Ostforschung, 1954, 360-386).**
-
-    (^118) **« In regem Lettowie oleo sacrato peruncti, regni suscepimus diadema-
-    tem » (LUB I, 243).**
-    (^119) **LReim 3493-96.
+  citata_rodoma: "für\nOstforschung, 1954, 360-386).**\n\n(^118) **« In regem Lettowie oleo sacrato peruncti, regni suscepimus diadema-\ntem » (LUB I, 243).**\n(^119) **LReim 3493-96."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99999
+    - t-001

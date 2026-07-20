@@ -40,7 +40,6 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 
 <a id="claim-t-87499"></a>
 - t-001
-  global_id: t-87499
   teiginys: "1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 
 <a id="claim-t-87500"></a>
 - t-002
-  global_id: t-87500
   teiginys: "1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87500
+    - t-002
+
 - id: c-83479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -135,4 +134,4 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87499
+    - t-001

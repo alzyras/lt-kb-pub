@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87233"></a>
 - t-001
-  global_id: t-87233
   teiginys: "1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-87234"></a>
 - t-002
-  global_id: t-87234
   teiginys: "Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,7 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87234
+    - t-002
+
 - id: c-83213
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,4 +144,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87233
+    - t-001

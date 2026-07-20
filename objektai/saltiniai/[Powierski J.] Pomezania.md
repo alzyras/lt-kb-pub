@@ -30,7 +30,6 @@ Dusburgietis teigia, kad [Powierski J.] Pomezania.— SSS, t.
 
 <a id="claim-t-61252"></a>
 - t-001
-  global_id: t-61252
   teiginys: "J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Dusburgietis teigia, kad [Powierski J.] Pomezania.— SSS, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61252
+    - t-001

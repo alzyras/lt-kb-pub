@@ -39,10 +39,9 @@ Vartojamos formos: `žiuponais`.
 ## Teiginiai
 
 <a id="claim-t-07692"></a>
-- t-001
-  global_id: t-07692
+- t-003
   teiginys: "Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -54,11 +53,9 @@ Vartojamos formos: `žiuponais`.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09621
-    - c-09622
 
 <a id="claim-t-07693"></a>
-- t-002
-  global_id: t-07693
+- t-004
   teiginys: "Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -81,28 +78,25 @@ Vartojamos formos: `žiuponais`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
-  citata_rodoma: |
-    Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
+  citata_rodoma: "Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07692
-    - t-07693
+    - t-003
+    - t-004
+
 - id: c-09622
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
-  citata_rodoma: |
-    Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
+  citata_rodoma: "Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-07692

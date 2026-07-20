@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201277"></a>
 - t-001
-  global_id: t-201277
   teiginys: "Tasai su rimta kariauna grūdos per Lukavą į Sandomirą, tenai, kur užėjo, ten teriojo ir dre vėj o -nei nuo ko nedraudžiamas; pagriejęs neapseikimas gėrybes, pačių imtinių būk 6000 jau namo varęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184627
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mykolo Liubline mūro bažnyčią įkū­
     rė, kuri liig šiai dienai dar tebėra.
@@ -80,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201277
+    - t-001

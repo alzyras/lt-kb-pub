@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186622"></a>
-- t-001
-  global_id: t-186622
+- t-002
   teiginys: "Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -63,10 +62,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169901
-    - c-001
+
 <a id="claim-t-186623"></a>
-- t-002
-  global_id: t-186623
+- t-001
   teiginys: "Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -82,7 +80,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169901
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -101,9 +99,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186622
-    - t-186623
+- t-186623
+
 ## Citatos
 
 - id: c-169901
@@ -111,36 +108,18 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
-    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
-    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
-    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
-    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
-    Kunigaikštystės. Ir su visais tais miestais prisijungė
-    prie Mazovijos ir ėmė tarnauti Mykoliukui
-    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
-    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
-    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
-    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
-    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
-    vo mažametis. Ir tas Goštautas didžiojo kunigaikščio
-    įsakymu nuvyko į tuos miestus, ir juos įveikė ginklo
-    jėga, ir visus pilnutinai sugrąžino Didžiajai Kunigaikš­
-    tystei
-    o Jurgis Nosuta pabėgo į Mazoviją, nes jis
-    LlHuvoi
-  citata_rodoma: |
     Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
     Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
     tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,
     Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
     žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
     siuntiniais ponus Mykolą ir Joną Kęsgailas1 1 .
+  citata_rodoma: "Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį\nJurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­\ntystės šeimininku Jogailos sūnų karalaitį Kazimierą l0 ,\nLietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų\nžemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­\nsiuntiniais ponus Mykolą ir Joną Kęsgailas1 1 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186622
-    - t-186623
+    - t-002
+    - t-001

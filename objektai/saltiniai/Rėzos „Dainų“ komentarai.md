@@ -30,9 +30,8 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
 
 <a id="claim-t-190558"></a>
 - t-001
-  global_id: t-190558
   teiginys: "Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūsų šalyje vadinto „Bier“ ir apibūdinamas kaip saldesnis bei šviesesnis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,24 +47,7 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173441
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūsų šalyje vadinto „Bier“ ir apibūdinamas kaip saldesnis bei šviesesnis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ponas Rėza „Dainų“ komentaruose pažy­
-    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
-    Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
-    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
-    be jokių prieskonių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190558
+
 ## Citatos
 
 - id: c-173441
@@ -78,16 +60,11 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
     Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
     vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
     be jokių prieskonių.
-  citata_rodoma: |
-    Ponas Rėza „Dainų“ komentaruose pažy­
-    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
-    Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­
-    vėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:
-    be jokių prieskonių.
+  citata_rodoma: "Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier. Alus yra malonesnis gerti, saldesnis, šviesesnis3. O seno­\nvėje, sako tas pats autorius, mažai skyrėsi nuo midaus, daryt:\nbe jokių prieskonių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190558
+    - t-001

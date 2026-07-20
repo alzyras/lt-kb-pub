@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-42467"></a>
 - t-001
-  global_id: t-42467
   teiginys: "Karų kulminaciniai momentai leidinyje suprantami kaip mūšiai, per kuriuos rodoma kovų už Lietuvos valstybę istorija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183714"></a>
 - t-002
-  global_id: t-183714
   teiginys: "Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -80,19 +78,15 @@ media_all_json: |-
     įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
     nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
     tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: |
-    Šio leidinio tikslas - per karų kulminacinius momen-
-    tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
-    istoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-
-    tojas galėtų susikurti įvairių laikotarpių Lietuvos kario
-    įvaizdį.
+  citata_rodoma: "Šio leidinio tikslas - per karų kulminacinius momen-\ntus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę\nistoriją. Knygą stengtasi gausiai iliustruoti, kad skaity-\ntojas galėtų susikurti įvairių laikotarpių Lietuvos kario\nįvaizdį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42467
+    - t-001
+
 - id: c-167102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,4 +106,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183714
+    - t-002

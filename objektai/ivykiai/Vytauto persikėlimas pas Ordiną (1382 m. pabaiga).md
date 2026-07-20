@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92948"></a>
-- t-001
-  global_id: t-92948
+- t-002
   teiginys: "Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -71,8 +70,7 @@ Nenurodyta
     - c-88389
 
 <a id="claim-t-92949"></a>
-- t-002
-  global_id: t-92949
+- t-001
   teiginys: "1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-88388
 
 <a id="claim-t-184236"></a>
-- t-003
-  global_id: t-184236
+- t-004
   teiginys: "Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -112,8 +109,7 @@ Nenurodyta
     - c-167620
 
 <a id="claim-t-194944"></a>
-- t-004
-  global_id: t-194944
+- t-005
   teiginys: "Pirmi Vytauto žygiai tėviškei atgauti (1382—1384) Kęstučio mirtis ir Jogailos santykiai su Ordinu."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -145,7 +141,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92949
+    - t-001
+
 - id: c-88389
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -164,7 +161,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92948
+    - t-002
+
 - id: c-167620
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -181,7 +179,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184236
+    - t-004
+
 - id: c-177340
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -199,4 +198,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194944
+    - t-005

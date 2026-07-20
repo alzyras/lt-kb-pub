@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87113"></a>
 - t-001
-  global_id: t-87113
   teiginys: "Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -140,4 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87113
+    - t-001

@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-28554"></a>
 - t-001
-  global_id: t-28554
   teiginys: "Ordinas į Žemaičius siuntė kamarninkus žmonėms teisti ir valdyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-28555"></a>
 - t-002
-  global_id: t-28555
   teiginys: "Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28555
+    - t-002
+
 - id: c-28459
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -97,4 +96,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28554
+    - t-001

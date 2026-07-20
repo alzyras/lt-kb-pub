@@ -38,8 +38,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 ## Teiginiai
 
 <a id="claim-t-89675"></a>
-- t-001
-  global_id: t-89675
+- t-003
   teiginys: "Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - c-85616
 
 <a id="claim-t-89676"></a>
-- t-002
-  global_id: t-89676
+- t-001
   teiginys: "Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - c-85617
 
 <a id="claim-t-200971"></a>
-- t-003
-  global_id: t-200971
+- t-004
   teiginys: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -86,8 +83,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - c-184321
 
 <a id="claim-t-200972"></a>
-- t-004
-  global_id: t-200972
+- t-005
   teiginys: "Kryžėjai, norėdami iš peties rengtis į karę, visų pirma su susiedais susitaikino, kaipogi su Boleslovu kunigaikščiu suderėjo ir senąsias pažines apent at naujino."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -132,17 +128,15 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
     gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
     vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: |
-    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-      gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-      vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: "Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-\n  gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo\n  vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89675
+    - t-003
+
 - id: c-85617
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,10 +166,12 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89676
+    - t-001
+
 - id: c-184321
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Karalius lenkų Boleslovas, jutęs tą nelaimą Vai­
     tiekaus, liepė jo kūną nuo netikėlių, noris visų bran­
@@ -199,10 +195,12 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200971
+    - t-004
+
 - id: c-184322
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuodu vyru, steigdamu iš vieno, pradėjo zo-
     kaną kelti ir stiprinti, noris buvo ir tą metą lie­
@@ -225,4 +223,4 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200972
+    - t-005

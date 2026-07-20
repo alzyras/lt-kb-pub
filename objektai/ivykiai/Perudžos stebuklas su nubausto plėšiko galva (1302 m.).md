@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62429"></a>
 - t-001
-  global_id: t-62429
   teiginys: "1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,22 +89,11 @@ Nenurodyta
 
 
           93.
-  citata_rodoma: |
-    Apie vieną švenčiausiosios mergelės stebuklą
-
-      1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai
-    gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:
-    „Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose
-    to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir
-    įvyko.
-
-
-
-          93.
+  citata_rodoma: "Apie vieną švenčiausiosios mergelės stebuklą\n\n  1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai\ngerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu:\n„Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose\nto prašęs, neleidžia man numirti, kol nebūsiu išpažinęs visų savo nuodėmių”. Šitaip ir\nįvyko.\n\n\n\n      93."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62429
+    - t-001

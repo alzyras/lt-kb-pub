@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-20355"></a>
 - t-001
-  global_id: t-20355
   teiginys: "1991 m. rugsėjo 17 d. Lietuva priimta į Jungtines Tautas, o 1993 m. – į Europos Tarybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,12 +90,11 @@ Nenurodyta
     (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
-  citata_rodoma: |
-    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
+  citata_rodoma: "nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20355
+    - t-001

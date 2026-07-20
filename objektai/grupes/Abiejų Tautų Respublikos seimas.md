@@ -10,11 +10,11 @@ datos:
   - '1653 m.'
 date_start: '1581'
 date_end: '1653'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-201836"></a>
 - t-001
-  global_id: t-201836
   teiginys: "1601 m. Abiejų Tautų Respublikos seime priimtoje konstitucijoje buvo teigiama: Pasiuntinių prašymu ir bendru leidimu amžiniems laikams suteikiame Kauno pavieto gyventojams mūrinĮ briaunuotą bokštą Kauno pilyje, kurĮ suremontuoti savo sąskaita privalo ir turės."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ media_all_json: |-
 
 <a id="claim-t-201837"></a>
 - t-002
-  global_id: t-201837
   teiginys: "1631 m. Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-201838"></a>
 - t-003
-  global_id: t-201838
   teiginys: "Komisarai buvo įgalioti ištirti tokios padėties priežastis ir pranešti apie jas seimui, o Prūsijos hercogas paragintas sutvarkyti laivybą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -77,7 +74,6 @@ media_all_json: |-
 
 <a id="claim-t-201839"></a>
 - t-004
-  global_id: t-201839
   teiginys: "1581 m. Kauno pavieto pasiuntinių pastangomis šie reikalai net buvo patekę į Abiejų Tautų Respublikos seimo darbotvarkę."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -108,7 +104,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201836
+    - t-001
 
 - id: c-185184
   autorius: "Zigmantas Kiaupa"
@@ -125,7 +121,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201837
+    - t-002
 
 - id: c-185185
   autorius: "Zigmantas Kiaupa"
@@ -142,7 +138,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201838
+    - t-003
 
 - id: c-185186
   autorius: "Zigmantas Kiaupa"
@@ -159,4 +155,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201839
+    - t-004

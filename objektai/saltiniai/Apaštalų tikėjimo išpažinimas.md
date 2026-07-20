@@ -30,7 +30,6 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
 
 <a id="claim-t-61047"></a>
 - t-001
-  global_id: t-61047
   teiginys: "Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -44,25 +43,7 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61679
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
-    begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
-    tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
-    negali tavęs išganyti, tad išpažink žydų tikėjimą“. Brolis Henrikas atsakė: „Tikiu dievą
-    tėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau
-    abu išnyko.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61047
+
 ## Citatos
 
 - id: c-61679
@@ -70,25 +51,17 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
-    Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
-    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
-    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
-    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė į nelaisvę ir dar kartą iki
-    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
-    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
-    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
-  citata_rodoma: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo
     tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas
     negali tavęs išganyti, tad išpažink žydų tikėjimą“. Brolis Henrikas atsakė: „Tikiu dievą
     tėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau
     abu išnyko.
+  citata_rodoma: "Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius\nbegardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo\ntiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas\nnegali tavęs išganyti, tad išpažink žydų tikėjimą“. Brolis Henrikas atsakė: „Tikiu dievą\ntėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau\nabu išnyko."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61047
+    - t-001

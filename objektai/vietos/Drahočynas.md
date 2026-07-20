@@ -36,8 +36,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 ## Teiginiai
 
 <a id="claim-t-36199"></a>
-- t-001
-  global_id: t-36199
+- t-002
   teiginys: "Drahočynas buvo viena iš krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     - c-38476
 
 <a id="claim-t-36200"></a>
-- t-002
-  global_id: t-36200
+- t-001
   teiginys: "Drahočyno apylinkėse buvo minima Mozūrijos siena kaip viena kraštutinių valstybės ribų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,7 +71,6 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 
 <a id="claim-t-184302"></a>
 - t-003
-  global_id: t-184302
   teiginys: "Vytautas Drahočyne pastatė bažnyčią."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -109,21 +106,15 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
     Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
     Varmijos)^1 ).
-  citata_rodoma: |
-    Abu
-    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
-    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
-    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
-    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
-    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
-    Varmijos)^1 ).
+  citata_rodoma: "Abu\nmagistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­\njos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,\nBrastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su\nKęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių\nOrdino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir\nVarmijos)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36199
+    - t-002
+
 - id: c-38477
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -135,19 +126,15 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
     1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­
     langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir
     Pronskas.
-  citata_rodoma: |
-    Ji apėmė visą aukštutinę ir vidurinę Dauguvą, Nemuno,
-    pietų Būgo, Dniepro ir aukštutinės Okos upynus, kas sudarė apie
-    1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­
-    langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir
-    Pronskas.
+  citata_rodoma: "Ji apėmė visą aukštutinę ir vidurinę Dauguvą, Nemuno,\npietų Būgo, Dniepro ir aukštutinės Okos upynus, kas sudarė apie\n1.000.000 kv. kilometru plotą. Kraštutinės jos ribos buvo Pa­\nlanga ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir\nPronskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36200
+    - t-001
+
 - id: c-167675
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -170,4 +157,4 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184302
+    - t-003

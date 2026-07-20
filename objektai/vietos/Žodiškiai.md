@@ -31,7 +31,6 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
 
 <a id="claim-t-02942"></a>
 - t-001
-  global_id: t-02942
   teiginys: "Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02942
+    - t-001

@@ -31,7 +31,6 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 
 <a id="claim-t-192849"></a>
 - t-001
-  global_id: t-192849
   teiginys: "Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 
 <a id="claim-t-192850"></a>
 - t-002
-  global_id: t-192850
   teiginys: "Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,7 +73,6 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 
 <a id="claim-t-197906"></a>
 - t-003
-  global_id: t-197906
   teiginys: "Orestas, nedrįsęs atvirai pasiprie šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,9 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192849
-    - t-197906
+    - t-001
+    - t-003
+
 - id: c-175620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -127,6 +125,7 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192850
+    - t-002
+
 ## Ryšiai
 - Apgulė Paviją: [[objektai/asmenys/Odoakras]]

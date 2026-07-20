@@ -36,7 +36,6 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 
 <a id="claim-t-58519"></a>
 - t-001
-  global_id: t-58519
   teiginys: "Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 
 <a id="claim-t-58520"></a>
 - t-002
-  global_id: t-58520
   teiginys: "Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,17 +83,15 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
     piliakalnio, kair. Auksinės krante, upės vingio kyšulyje, yra kalva, netoli kurios buvęs
     Romovupių k. Greta — plačiose apylinkėse vyraujanti, upelių ir girių apsupta Obeliškių
     kalva (joje 1845 m. pastatyta bažnyčia).
-  citata_rodoma: |
-    Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,
-    t. 32, d. 1, p. 178; d. 2, p. 309), įrengto kyšulyje (aikštelė dabar deformuota, jos dydis
-    —30x 80 m, su gynybiniu grioviu ir maždaug 3 m aukščio pylimu).
+  citata_rodoma: "Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,\nt. 32, d. 1, p. 178; d. 2, p. 309), įrengto kyšulyje (aikštelė dabar deformuota, jos dydis\n—30x 80 m, su gynybiniu grioviu ir maždaug 3 m aukščio pylimu)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58519
+    - t-001
+
 - id: c-59152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -110,4 +106,4 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58520
+    - t-002

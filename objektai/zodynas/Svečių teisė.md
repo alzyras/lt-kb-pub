@@ -28,7 +28,6 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
 
 <a id="claim-t-201784"></a>
 - t-001
-  global_id: t-201784
   teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
 
 <a id="claim-t-201785"></a>
 - t-002
-  global_id: t-201785
   teiginys: "Vienas iš svarbiausių šios srities pasiekimų buvo Kauno svečių teisės, įskaitant sankrovos teisę, susiformavimas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -70,7 +68,7 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201784
+    - t-001
 
 - id: c-185132
   autorius: "Zigmantas Kiaupa"
@@ -88,4 +86,4 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201785
+    - t-002

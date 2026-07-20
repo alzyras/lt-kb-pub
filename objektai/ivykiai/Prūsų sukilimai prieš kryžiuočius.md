@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01782"></a>
 - t-001
-  global_id: t-01782
   teiginys: "Prūsų sukilimams aprimstant, ordinas kviesdavosi paramą iš Vokietijos ir kitų kraštų, o prūsai būdavo įveikiami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ Nenurodyta
     naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
     sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
     davo nuveikiami.
-  citata_rodoma: |
-    Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš
-    naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
-    sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
-    davo nuveikiami.
+  citata_rodoma: "Kai sukilimai aprimdavo, ordinas kiekvieną kartą turėdavo iš\nnaujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-\nsišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-\ndavo nuveikiami."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01782
+    - t-001

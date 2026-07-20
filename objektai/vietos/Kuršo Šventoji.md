@@ -31,7 +31,6 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
 
 <a id="claim-t-32290"></a>
 - t-001
-  global_id: t-32290
   teiginys: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
     Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
     Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
     čių ordino valstybę į dvi dalis.
-  citata_rodoma: |
-    Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo
-    Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
-    Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
-    čių ordino valstybę į dvi dalis.
+  citata_rodoma: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo\nPalangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —\nŽemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­\nčių ordino valstybę į dvi dalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32290
+    - t-001

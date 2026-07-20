@@ -43,8 +43,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Teiginiai
 
 <a id="claim-t-89225"></a>
-- t-001
-  global_id: t-89225
+- t-006
   teiginys: "Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-22744
 
 <a id="claim-t-89226"></a>
-- t-002
-  global_id: t-89226
+- t-004
   teiginys: "Lietuvių kalbos ir savimonės teritorijai siaurėjant rytuose bei pietuose, Lietuvos vardas su LDK ribomis išplito į plačias rytų slavų žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-85208
 
 <a id="claim-t-89227"></a>
-- t-003
-  global_id: t-89227
+- t-005
   teiginys: "Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-85209
 
 <a id="claim-t-89228"></a>
-- t-004
-  global_id: t-89228
+- t-003
   teiginys: "Slavų ekspansija artėjo prie Lietuvos žemių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-42934
 
 <a id="claim-t-89230"></a>
-- t-005
-  global_id: t-89230
+- t-007
   teiginys: "Vokiečių puolimas ir slavų ekspansija, manoma, sutrukdė Lietuvos valstybei ir vardui aprėpti platesnes baltų genčių žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,8 +124,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-85208
 
 <a id="claim-t-182923"></a>
-- t-006
-  global_id: t-182923
+- t-001
   teiginys: "Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -149,8 +143,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-166326
 
 <a id="claim-t-188343"></a>
-- t-007
-  global_id: t-188343
+- t-002
   teiginys: "Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -170,7 +163,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-188344"></a>
 - t-008
-  global_id: t-188344
   teiginys: "Narbutas nurodė, kad Bandkė slavų Gurovidą siejo su lietuvių Gurku, bet pats tokį tapatinimą laikė klaida."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -191,7 +183,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-188346"></a>
 - t-009
-  global_id: t-188346
   teiginys: "Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -209,12 +200,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171239
-    - c-008
+
 <a id="claim-t-188347"></a>
 - t-010
-  global_id: t-188347
   teiginys: "Narbutas slavų Sievą ir lietuvių Pergrubę lygino su antikine Flora, remdamasis slavų kronikose išlikusiu stabo atvaizdu."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -223,10 +213,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171240
-    - c-009
+
 <a id="claim-t-188348"></a>
 - t-011
-  global_id: t-188348
   teiginys: "Narbutas aiškino, kad užrašas „Nijota“ sieja slavų Cererą arba lietuvių Krūminę su požemine deive Prozerpina."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -247,9 +236,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-188349"></a>
 - t-012
-  global_id: t-188349
   teiginys: "Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -265,12 +253,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171242
-    - c-011
+
 <a id="claim-t-188350"></a>
 - t-013
-  global_id: t-188350
   teiginys: "Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -286,10 +273,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171243
-    - c-012
+
 <a id="claim-t-188351"></a>
 - t-014
-  global_id: t-188351
   teiginys: "Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -310,7 +296,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-188353"></a>
 - t-015
-  global_id: t-188353
   teiginys: "Narbutas vardus Nar, Nėr, Nor ir Nur aiškino kaip pirmykštės lietuvių kalbos, bendros su slavų kalba, vandens reikšmes."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -331,9 +316,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-188354"></a>
 - t-016
-  global_id: t-188354
   teiginys: "Narbutas rašė, kad slavai uosį skyrė Jupiteriui, vadintam Jesse."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -341,11 +325,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171247
-    - c-015
+    - c-171236
+    - c-171244
+
 <a id="claim-t-190620"></a>
 - t-017
-  global_id: t-190620
   teiginys: "Narbutas pakirptuvių paprotį laikė bendru lietuviams ir slavams ir ketino aprašyti jo eigą savo apylinkėje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -359,9 +343,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-190621"></a>
 - t-018
-  global_id: t-190621
   teiginys: "Narbutas teigė, kad pakirptuvių, rusiškai Zastryžyny, apeigos buvo įprastos slavų kiltims ir bendros daugeliui Europos tautų."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -377,12 +360,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173504
-    - c-017
+
 <a id="claim-t-190622"></a>
 - t-019
-  global_id: t-190622
   teiginys: "Narbutas vertino slavų vestuvių papročius kaip linkusius į svaigalus, nepadorias dainas ir kraštutinumus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -391,10 +373,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173505
-    - c-018
+
 <a id="claim-t-192466"></a>
 - t-020
-  global_id: t-192466
   teiginys: "Narbutui slavų istorija buvo lietuvių praeitį išryškinantis fonas, todėl jis slavų gentis aprašė abėcėline tvarka."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -408,7 +389,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-192467"></a>
 - t-021
-  global_id: t-192467
   teiginys: "Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino skirtinga valdžia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -429,7 +409,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-192468"></a>
 - t-022
-  global_id: t-192468
   teiginys: "Narbutas spėjo, kad skandinavai per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus, gabenusius prekes į pietus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -450,7 +429,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-192469"></a>
 - t-023
-  global_id: t-192469
   teiginys: "Narbutas perpasakojo legendą, kurioje keliautojai per slavų Roksolaniją, venedų ir alanų žemes pateko į Livoniją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -472,9 +450,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 <a id="claim-t-192470"></a>
 - t-024
-  global_id: t-192470
   teiginys: "Narbutas manė, kad lietuvių protėvių gyvenvietės prie Rosės galėjo išlikti iki IV amžiaus, kol jas ėmė spausti slavų gentys."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -490,10 +467,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175264
-    - c-023
+
 <a id="claim-t-192472"></a>
-- t-025
-  global_id: t-192472
+- t-026
   teiginys: "Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -512,10 +488,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175266
-    - c-025
+
 <a id="claim-t-192473"></a>
-- t-026
-  global_id: t-192473
+- t-027
   teiginys: "Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -534,10 +509,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175267
-    - c-026
+
 <a id="claim-t-192474"></a>
-- t-027
-  global_id: t-192474
+- t-028
   teiginys: "Narbutas rašė, kad senovės tyrinėtojai vilkų tautą laikė viena seniausių slaviškų genčių, persikėlusių į Oderio žemupį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -555,10 +529,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175268
-    - c-027
+
 <a id="claim-t-192475"></a>
-- t-028
-  global_id: t-192475
+- t-029
   teiginys: "V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -577,23 +550,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175269
-    - c-028
-<a id="claim-t-194601"></a>
-- t-029
-  global_id: t-194601
-  teiginys: "Egiptiečiai turėjo savo Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką slavų Tryzną."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177000
-    - c-029
+
 <a id="claim-t-194602"></a>
-- t-030
-  global_id: t-194602
+- t-031
   teiginys: "Galbūt neįsižeis slavų seno vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko lonistų ir jie gyveno vienoje iš seniausių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -605,8 +564,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-177001
 
 <a id="claim-t-197224"></a>
-- t-031
-  global_id: t-197224
+- t-032
   teiginys: "Nežinia, kas buvo užrašyta, bet vis dėlto vienas žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai ar figūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -618,8 +576,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-177000
 
 <a id="claim-t-197520"></a>
-- t-032
-  global_id: t-197520
+- t-033
   teiginys: "Ten juos pažino Divonis; juos valdė kažkoks Mazovijos slavų ka raliukas ar viršininkas, vadinamas Masosu, kuriam jie mo kėjo duoklę vaikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -631,8 +588,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     - c-179228
 
 <a id="claim-t-197521"></a>
-- t-033
-  global_id: t-197521
+- t-034
   teiginys: "Jis įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš ką baisiai mirčiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1049,190 +1005,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - susijęs iš Gorodecas: Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos.
 - susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
 ## Reikšmingi paminėjimai
-- c-008
-  santrauka: 'Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Stenderis, tuose savo latvių mitologijos straipsniuo­
-    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
-    mės ir tiesos.
-    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
-    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
-    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
-    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
-    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
-    bloga.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188346
-- c-009
-  santrauka: 'Narbutas slavų Sievą ir lietuvių Pergrubę lygino su antikine Flora, remdamasis slavų kronikose išlikusiu stabo atvaizdu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Skaityk straipsnį „Šventės“.
-    Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
-    vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
-    kas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą
-    jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
-    čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
-    koje laikančią obuolį, kairėje -  vynuogių kekę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188347
-- c-011
-  santrauka: 'Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    28
-    Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
-    rėjo rusvus, šviesiai pilkus (ruse) plaukus. Ukrainoje jas vadinaMaivAz
-    nuo žodžio mavvczat’-  miaukti, rėkti katino balsu, kadangi tos būty­
-    bės turėjo įprotį kelti kačių muziką per dabartines Sekmines. Štai ir
-    naujas kačių muzikos kilmės išaiškinimas!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188349
-- c-012
-  santrauka: 'Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus
-    būta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio
-    žmogų (kažkas panašaus į mūsiškį Alcį); tai rodo vieno Prilvico
-    stabo piešinys6. Pagal runų įrašo šifruotą tai turėtų būti Belbogas
-    (Bielboh)*.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188350
-- c-015
-  santrauka: 'Narbutas rašė, kad slavai uosį skyrė Jupiteriui, vadintam Jesse.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Pasakojimas apie stebuklingus medžius
-    mini uosį.
-    241
-
-    ## Puslapis 241
-
-    Slavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­
-    navai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­
-    venę dievai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188354
-- c-017
-  santrauka: 'Narbutas teigė, kad pakirptuvių, rusiškai Zastryžyny, apeigos buvo įprastos slavų kiltims ir bendros daugeliui Europos tautų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Moterys dar kartą dainuoja graudžią dai­
-    ną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu
-    ir
-    355
-
-    ## Puslapis 355
-
-    neša aplink duonkubilį, duoną deda ant stalo, alų išpila ant
-    slenksčio .
-    Pakirptuvių, rusiškai Zastryžyny, apeigos, įprastinės slavų
-    kiltims, buvo bendros daugeliui senovės Siaurės ir Pietų Eu­
-    ropos tautų. Jos siekia labai tolimas Europos senovės epochas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190621
-- c-018
-  santrauka: 'Narbutas vertino slavų vestuvių papročius kaip linkusius į svaigalus, nepadorias dainas ir kraštutinumus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Visose tautose,
-    ratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­
-    dų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių
-    ištikimybei, mergiškai skaistybei ir panašiai. Ypač slavai, mėgs­
-    tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­
-    pročiuose nuslysta į kraštutinumą; net pagyvenusios moterys
-    pirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­
-    rungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­
-    tuvių genties tautose šito negalima susekti -  nei jų kalboje,
-    nei tautinėse dainose nėra nieko panašaus; joms net trūksta
-    tokių žodžių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190622
-- c-023
-  santrauka: 'Narbutas manė, kad lietuvių protėvių gyvenvietės prie Rosės galėjo išlikti iki IV amžiaus, kol jas ėmė spausti slavų gentys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip mes taip pat nedve­
-    jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
-    protėviai gyveno prie Rosės upės, tekančios per šiandienę
-    Volkovysko apskritį. Jų gyvenviečių galėjo būti net iki
-    IV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš
-    Nemuno aukštupio pusės pradėjo spausti slavų gentys.
-    217
-    Turime padaryti dar vieną ekskursą, kad galėtume
-    deramai isuprasti šiame veikale glūdintį aiškinimo būdą
-    ir kartu pataikytume į kelią, kuris kiekvieną skaitytoją
-    gali nuvesti ten, kur įmanoma patikrinti čia dėstomus
-    dalykus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192470
-- c-025
-  santrauka: 'Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    230
-
-    ## Puslapis 241
-
-    233
-    Danijos karalius Frotonas III su galingu laivynu ir
-    sausumos kariuomene rengė žygius į Baltijos jūros ryti­
-    nes pakrantes. Pirmiausia jis kariavo su slavais, kurių
-    karvedys Strunikas1 buvo nukautas. Pasak istorinių skai­
-    čiavimų, šios kautynės jvykusios danams išsilaipinus kaž­
-    kur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot
-    kitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės
-    slavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-
-    lobusių iš žuvininkystės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192472
 - c-026
   santrauka: 'Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1251,30 +1023,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192473
-- c-027
-  santrauka: 'Narbutas rašė, kad senovės tyrinėtojai vilkų tautą laikė viena seniausių slaviškų genčių, persikėlusių į Oderio žemupį.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
-    gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
-    ryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas
-    nėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp
-    jų kontaktai nebuvo nutrūkę.
-    Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
-    slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų
-    eroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­
-    jose upės pakrantėse ar net salose, esančiose prie jos
-    įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
-    lijos pakrantėse.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192474
 - c-028
   santrauka: 'V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1296,8 +1044,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192475
 - c-029
   santrauka: 'Egiptiečiai turėjo savo Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką slavų Tryzną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1313,8 +1059,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194601
+
 ## Citatos
 
 - id: c-22744
@@ -1328,17 +1073,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: |
-    Aisčiai, kaip ir beveik visi Europos gy-
-    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
-    čios indoeuropiečių, arba arijų, tautų grupės.
+  citata_rodoma: "Aisčiai, kaip ir beveik visi Europos gy-\nventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-\nčios indoeuropiečių, arba arijų, tautų grupės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89225
+    - t-006
+
 - id: c-42934
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1352,20 +1095,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Lietuvos valstybė
 
     x1 a.
-  citata_rodoma: |
-    Slavų ekspansija
-    artėjo prie Lietuvos žemių.
-
-    Lietuvos valstybė
-
-    x1 a.
+  citata_rodoma: "Slavų ekspansija\nartėjo prie Lietuvos žemių.\n\nLietuvos valstybė\n\nx1 a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89228
+    - t-003
+
 - id: c-85208
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1380,21 +1118,16 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
     Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: |
-    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
-    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
-    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
-    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva.
+  citata_rodoma: "Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-\nnama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-\ngai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į \nrytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-\nrija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti \nLietuva, o šiandien ją vadiname istorine Lietuva."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89226
-    - t-89230
+    - t-004
+    - t-007
+
 - id: c-85209
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1405,18 +1138,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
     nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
     sų, jotvingių, lietuvių ir latvių tautos.
-  citata_rodoma: |
-    Vėliau,
-    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
-    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos.
+  citata_rodoma: "Vėliau, \nI tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-\nnių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-\nsų, jotvingių, lietuvių ir latvių tautos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89227
+    - t-005
+
 - id: c-166326
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1433,7 +1163,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182923
+    - t-001
+
 - id: c-171236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1454,7 +1185,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188343
+    - t-002
+    - t-016
+
 - id: c-171237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1474,25 +1207,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188344
+    - t-008
+
 - id: c-171239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Labai sukrės­
-    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
-    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
-    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
-    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
-    tautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
-    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
-    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
-    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
-    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
-    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
-    buvo deivė, kaip vadinosi vyriausiasis dievas.
-  citata_rodoma: |
     Stenderis, tuose savo latvių mitologijos straipsniuo­
     se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
     mės ir tiesos.
@@ -1502,27 +1223,20 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
     tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
     bloga.
+  citata_rodoma: "Stenderis, tuose savo latvių mitologijos straipsniuo­\nse saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­\nmės ir tiesos.\nSlavai garbino tą pačią dievybę, vadindami įvairiais tar­\nmiškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,\nDajebog. Lietuvos rusinai savo pasakojimuose taip pat mini\nDolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­\ntūna, būdama permaininga, vieniems būdavo gera, o kitiems -\nbloga."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188346
+    - t-009
+
 - id: c-171240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Antikos laikais
-    buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip
-    pastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar
-    kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
-    kais (Mildawnikas). Iš tenykščių vietų pasakojimų matyti, kad
-    Lietuvos aukso amžiuje Kaunas su apylinkėmis buvo tikra Lie­
-    tuvos Kitera. Nuostabi vietovė, marios savaime augančių gė­
-    lių, puošnesnių už kitas laukines.
-  citata_rodoma: |
     Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
     vai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­
@@ -1530,13 +1244,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     jauną ir gražią mergaitę su palaidais, žemiau kelių krintan­
     čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
     koje laikančią obuolį, kairėje -  vynuogių kekę.
+  citata_rodoma: "Skaityk straipsnį „Šventės“.\nTai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-\nvai (Siewa), kurios stabo atvaizdas išliko slavų kronikose; kaž­\nkas panašaus, aišku, buvo ir Pergrubė. Ją vaizdavo kaip nuogą\njauną ir gražią mergaitę su palaidais, žemiau kelių krintan­\nčiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­\nkoje laikančią obuolį, kairėje -  vynuogių kekę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188347
+    - t-010
+
 - id: c-171241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1555,59 +1271,47 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188348
+    - t-011
+
 - id: c-171242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pajauta (Pojata)
-    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
-    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
-    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
-    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
-    šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
-    rybėmis, dievintomis anais amžiais.
-  citata_rodoma: |
     28
     Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
     rėjo rusvus, šviesiai pilkus (ruse) plaukus. Ukrainoje jas vadinaMaivAz
     nuo žodžio mavvczat’-  miaukti, rėkti katino balsu, kadangi tos būty­
     bės turėjo įprotį kelti kačių muziką per dabartines Sekmines. Štai ir
     naujas kačių muzikos kilmės išaiškinimas!
+  citata_rodoma: "28\nSlavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­\nrėjo rusvus, šviesiai pilkus (ruse) plaukus. Ukrainoje jas vadinaMaivAz\nnuo žodžio mavvczat’-  miaukti, rėkti katino balsu, kadangi tos būty­\nbės turėjo įprotį kelti kačių muziką per dabartines Sekmines. Štai ir\nnaujas kačių muzikos kilmės išaiškinimas!"
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188349
+    - t-012
+
 - id: c-171243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    nikininkų, kaip manė kai kurie8; jo vardas iki šiol skamba Ne­
-    muno žemupio kaimiečių lūpose. Prie Sredniko miestelio, lie­
-    tuviškai Seredžiaus, žemiau Dubysos žiočių, yra atskirtas nuo
-    kitų apvalus kalnas, ant kurio yra pylimas, arba senos piliavie-
-    tės liekana; šis kalnas iki šiol vadinamas Palemono kalnu (Pa­
-    lemonu Kalnas).
-    Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
-    sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
-  citata_rodoma: |
     Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus
     būta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio
     žmogų (kažkas panašaus į mūsiškį Alcį); tai rodo vieno Prilvico
     stabo piešinys6. Pagal runų įrašo šifruotą tai turėtų būti Belbogas
     (Bielboh)*.
+  citata_rodoma: "Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus\nbūta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio\nžmogų (kažkas panašaus į mūsiškį Alcį); tai rodo vieno Prilvico\nstabo piešinys6. Pagal runų įrašo šifruotą tai turėtų būti Belbogas\n(Bielboh)*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188350
+    - t-013
+
 - id: c-171244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1629,7 +1333,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188351
+    - t-014
+    - t-016
+
 - id: c-171246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1654,22 +1360,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188353
+    - t-015
+
 - id: c-171247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Žino­
-    ma, kad frygų garbintos dievų motinos stabas buvo netašytas
-    paprasto akmens gabalas; tokį stabą jie davė Romos pasiunti­
-    niams, kurie pas juos buvo atvykę jo prašyti. Akmuo, kurį Jo­
-    kūbas patepė ir paskyrė Ikiamžinajam dievui, vėliau buvo stab­
-    meldžių garbinamas kaip dievas. Luno Heliogabalo stabas, kurį
-    Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
-    buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
-    tęs iš dangaus (akmuo - meteoritas).
-  citata_rodoma: |
     Pasakojimas apie stebuklingus medžius
     mini uosį.
     241
@@ -1679,13 +1376,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Slavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­
     navai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­
     venę dievai.
+  citata_rodoma: "Pasakojimas apie stebuklingus medžius\nmini uosį.\n241\n\n## Puslapis 241\n\nSlavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­\nnavai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­\nvenę dievai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188354
 - id: c-173503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1705,22 +1402,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190620
+    - t-017
+
 - id: c-173504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O žvalgonis, įsipylęs į krepšelį aguonų ir smulkių grūdų,
-    prie kiekvienų durų apibarsto jaunąją ir sako: „Mūsų dievai
-    duos tau visko, jei būsi ištikima tikėjimui, kuriame mirė tavo
-    protėviai, ir jei savo ūkį tvarkysi akylai ir kuo rūpestingiau“.
-    Baigę šį vaikščiojimą, nuima nuo akių raištį. Prisiartina jauni­
-    kis, žynys geria alų ir vaišina jaunavedžius, taip pat svečius,
-    pagaliau, pripylęs pilną taurę, meta jauniesiems po kojų, sa­
-    kydamas: „Tokia yra savavališkos meilės auka“; jaunikis su­
-    traiško taurę koja.
-  citata_rodoma: |
     Moterys dar kartą dainuoja graudžią dai­
     ną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu
     ir
@@ -1733,31 +1421,20 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Pakirptuvių, rusiškai Zastryžyny, apeigos, įprastinės slavų
     kiltims, buvo bendros daugeliui senovės Siaurės ir Pietų Eu­
     ropos tautų. Jos siekia labai tolimas Europos senovės epochas.
+  citata_rodoma: "Moterys dar kartą dainuoja graudžią dai­\nną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu\nir\n355\n\n## Puslapis 355\n\nneša aplink duonkubilį, duoną deda ant stalo, alų išpila ant\nslenksčio .\nPakirptuvių, rusiškai Zastryžyny, apeigos, įprastinės slavų\nkiltims, buvo bendros daugeliui senovės Siaurės ir Pietų Eu­\nropos tautų. Jos siekia labai tolimas Europos senovės epochas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190621
+    - t-018
+
 - id: c-173505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Ar būtų galima
-    įsivaizduoti, kad vaidila, pakviestas raminti ligonio žodžiais apie
-    būsimą laime, uždusintų jį pagalve, jei būrimai parodys neiš­
-    vengiamos jo mirties ženklus? Vaidila ir visi buvo įsitikinę, kad
-    po mirties jie stos prieš teisėją ir anksčiau mirusių žmonių vė­
-    les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
-    vėlėms padarytą skriaudą? Juk mirtingai būtybei net sekundė
-    gyvenimo yra malonus turtas.
-    Negalime neigti, kad senovės lietuviai nesmerkė savižudy­
-    bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo
-    tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos
-    silpnoji pusė.
-  citata_rodoma: |
     Visose tautose,
     ratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­
     dų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių
@@ -1769,13 +1446,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     tuvių genties tautose šito negalima susekti -  nei jų kalboje,
     nei tautinėse dainose nėra nieko panašaus; joms net trūksta
     tokių žodžių.
+  citata_rodoma: "Visose tautose,\nratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­\ndų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių\ništikimybei, mergiškai skaistybei ir panašiai. Ypač slavai, mėgs­\ntantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­\npročiuose nuslysta į kraštutinumą; net pagyvenusios moterys\npirmos rodo pavyzdį: jų dainos girtą vestuvių pavakarę nu­\nrungia bet kokį senovės cinizmo įsivaizdavimą. Priešingai, lie­\ntuvių genties tautose šito negalima susekti -  nei jų kalboje,\nnei tautinėse dainose nėra nieko panašaus; joms net trūksta\ntokių žodžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190622
+    - t-019
+
 - id: c-175260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1803,7 +1482,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192466
+    - t-020
+
 - id: c-175261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1828,7 +1508,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192467
+    - t-021
+
 - id: c-175262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1851,7 +1532,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192468
+    - t-022
+
 - id: c-175263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1873,34 +1555,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192469
+    - t-023
+
 - id: c-175264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turime padaryti dar vieną ekskursą, kad galėtume
-    deramai isuprasti šiame veikale glūdintį aiškinimo būdą
-    ir kartu pataikytume į kelią, kuris kiekvieną skaitytoją
-    gali nuvesti ten, kur įmanoma patikrinti čia dėstomus
-    dalykus. Daugelį metų tiriant krašto senienas, lankantis
-    įvairiose lietuvių genties gyvenamosiose vietovėse, su ste­
-    binančiu vienodumu krinta į akis tokie reiškiniai: kur tik
-    žemė yra palanki žemdirbystei, juoda, sausa, puri, žodžiu,
-    derlinga, ten matyti, kad žmonės įsikūrė seniau, anks­
-    čiau iškirsti miškai ir daugiau dirbamos žemės, daug senų
-    kapų, pilkapių, kelių, kapinių, daug apie seniai praėjusių
-    žmonių kartų gyvenimą pasakojančių liekanų; sprendžiant
-    iš jų veido bruožų, drabužių, kalbos, papročių, įpročių,
-    žemės dirbimo būdo ir įvairių įrankių, čionykščiai gyven­
-    tojai savo prigimtimi yra labiau sumišę su kitomis [genti­
-    mis arba įvairių tautų žmonėmis. O ten, kur žemė savo
-    gamtinėmis savybėmis nepalanki žemdirbystei, smėlėta,
-    užtvindyta nenaudingų pelkių, apaugusi krūmais ir miš­
-    kais, žmonių gyventa daug vėliau, mažiau ir senų genčių
-    gyvenimo pėdsakų arba stinga paminklų, įrodančių šių
-    gyvenviečių senumą, arba jie labai reti.
-  citata_rodoma: |
     Taip mes taip pat nedve­
     jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
     protėviai gyveno prie Rosės upės, tekančios per šiandienę
@@ -1913,33 +1574,20 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     ir kartu pataikytume į kelią, kuris kiekvieną skaitytoją
     gali nuvesti ten, kur įmanoma patikrinti čia dėstomus
     dalykus.
+  citata_rodoma: "Taip mes taip pat nedve­\njodami pripažįstame tą istorinę tiesą, kad lietuvių tautos\nprotėviai gyveno prie Rosės upės, tekančios per šiandienę\nVolkovysko apskritį. Jų gyvenviečių galėjo būti net iki\nIV amžiaus po Kristaus gimimo ar kiek vėliau, kol iš\nNemuno aukštupio pusės pradėjo spausti slavų gentys.\n217\nTurime padaryti dar vieną ekskursą, kad galėtume\nderamai isuprasti šiame veikale glūdintį aiškinimo būdą\nir kartu pataikytume į kelią, kuris kiekvieną skaitytoją\ngali nuvesti ten, kur įmanoma patikrinti čia dėstomus\ndalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192470
+    - t-024
+
 - id: c-175266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Pasak istorinių skai­
-    čiavimų, šios kautynės jvykusios danams išsilaipinus kaž­
-    kur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot
-    kitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės
-    slavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-
-    lobusių iš žuvininkystės. Tas pats karalius, vėliau įsiver­
-    žęs giliau į Rytų kraštų, vedė kažkokio hunų ar chunų
-    karaliaus dukrą. Tai, be abejonės, buvęs valdovas Chuni-
-    gardijos, kurios sostinė buvo Chue miestas; jį slavai vė­
-    liau pavadino Kijevu. Apie tai jau kalbėta (§92). Šią
-    karalaitę, nenorėjusią už jo tekėti, Frotonas paviliojęs ste­
-    buklingu gėrimu, bet netrukus ją palikęs. įžeistas išdavi­
-    kiškai pamestos karalienės tėvas susijungė su rusais ir pa­
-    skelbė žentui karą, kuris baigėsi danų karaliaus pergale.
-  citata_rodoma: |
     230
 
     ## Puslapis 241
@@ -1954,13 +1602,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     kitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės
     slavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-
     lobusių iš žuvininkystės.
+  citata_rodoma: "230\n\n## Puslapis 241\n\n233\nDanijos karalius Frotonas III su galingu laivynu ir\nsausumos kariuomene rengė žygius į Baltijos jūros ryti­\nnes pakrantes. Pirmiausia jis kariavo su slavais, kurių\nkarvedys Strunikas1 buvo nukautas. Pasak istorinių skai­\nčiavimų, šios kautynės jvykusios danams išsilaipinus kaž­\nkur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot\nkitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės\nslavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-\nlobusių iš žuvininkystės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192472
+    - t-026
+
 - id: c-175267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1981,28 +1631,14 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192473
-    - t-197521
+    - t-027
+    - t-034
+
 - id: c-175268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
-    slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų
-    eroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­
-    jose upės pakrantėse ar net salose, esančiose prie jos
-    įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
-    lijos pakrantėse. Aleksandrijos geografas aiškiai iš pat
-    pradžių įvardijo ten gyvenusią veltų tautą (Welty, Wele-
-    ty-Lutyki). Eustachijus Tiškevičius rašė, jog priešistori­
-    nius laikus siekiantys vietovardžiai tęsiasi skersai per vi­
-    są Lietuvą, t. y. nuo Beržūnos iki pat Neries žemupio
-    Jau iš pat pradžių turime atkreipti dėmesį į tai, jog
-    miestų, upių ir įvairių kitų geografinių vietovių pavadi­
-    nimai amžiams bėgant ir įvairių tautų kalbose gali kisti,
-    tačiau bet kuris žodis nėra vien ore sugautas garsas.
-  citata_rodoma: |
     Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
     gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
     ryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas
@@ -2014,13 +1650,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     jose upės pakrantėse ar net salose, esančiose prie jos
     įtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­
     lijos pakrantėse.
+  citata_rodoma: "Be to, reikia manyti, jog šį bendrą tautų lizdą svetima\ngentis dalijo nemažą laiko tarpą, nes latvių tarmė labai\nryškiai nutolo nuo gimtosios lietuvių kalbos; šis faktas\nnėra toks ryškus nei prūsų, nei he rūtų kalbose, nes tarp\njų kontaktai nebuvo nutrūkę.\nVisi senovės tyrinėtojai sutinka, jog vilkų tauta buvo\nslaviška gentis, be to, viena iš pačių seniausių, kuri mūsų\neroje turėjo persikelti jūra į Oderio žemupį ir įsikurti abie­\njose upės pakrantėse ar net salose, esančiose prie jos\nįtekėjimo į jūrą. Jų gyvenviečių būta net Bretanės ir Ang­\nlijos pakrantėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192474
+    - t-028
+
 - id: c-175269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2040,26 +1678,15 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     krantų. Tai patvirtinančių įrodymų randame Ksavero Bo-
     gušo veikaluose3; iš jų sužinome, jog herulų keliauta į
     Reitgotiją.
-  citata_rodoma: |
-    V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi
-    slavų gyvenamosios vietovės po vandalų ir longobardi}
-    revoliucijų, įvykusių IV amžiaus pabaigoje ir V amžiaus
-    pradžioje; jos lėmė germanų išsikėlimą iš šių kraštų į
-    Pietus2. Slavai visuomet buvo svetingi, daug jų kartų
-    buvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno
-    arčiau Baltijos jūros ir kurių gyvenamosios vietos tęsėsi
-    nuo Vyslos dešiniosios pakrantės iki Nemuno žemupio.
-    Tad artimiausias ir saugiausias herulų kelias vingiavo į
-    Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš
-    kur buvo visai netoli iki herulų gimtosios Jūros upės
-    krantų.
+  citata_rodoma: "V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi\nslavų gyvenamosios vietovės po vandalų ir longobardi}\nrevoliucijų, įvykusių IV amžiaus pabaigoje ir V amžiaus\npradžioje; jos lėmė germanų išsikėlimą iš šių kraštų į\nPietus2. Slavai visuomet buvo svetingi, daug jų kartų\nbuvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno\narčiau Baltijos jūros ir kurių gyvenamosios vietos tęsėsi\nnuo Vyslos dešiniosios pakrantės iki Nemuno žemupio.\nTad artimiausias ir saugiausias herulų kelias vingiavo į\nŠiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš\nkur buvo visai netoli iki herulų gimtosios Jūros upės\nkrantų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192475
+    - t-029
+
 - id: c-177000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2084,8 +1711,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194601
-    - t-197224
+    - t-032
+
 - id: c-177001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2110,7 +1737,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194602
+    - t-031
+
 - id: c-179228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2132,11 +1760,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197520
+    - t-033
+
 ## Ryšiai
 - Puolė Slavai: [[objektai/asmenys/Jarmerikas]]
 - Kariavo prieš: [[objektai/asmenys/Frotonas III]]
 - Buvo užkariauta: [[objektai/asmenys/Jarmerikas]]
-- Slavai puolė [[objektai/vietos/Danija]]
-- Slavai užėmė [[objektai/vietos/Baltijos jūra]]
-- Slavai gyveno [[objektai/vietos/Pamaris]]
+- Slavai puolė Danija
+- Slavai užėmė Baltijos jūra
+- Slavai gyveno Pamaris

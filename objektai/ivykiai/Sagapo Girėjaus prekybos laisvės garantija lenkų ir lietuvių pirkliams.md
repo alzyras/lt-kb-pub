@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-202323"></a>
 - t-001
-  global_id: t-202323
   teiginys: "Penktajame dešimtmetyje pagal sutartį su Žygimantu Senuoju Krymo chanas Sagapas Girėjus per pasiuntinį Aligačį laidavo lenkų ir lietuvių pirklių prekybos laisvę Kafoje ir Perekope, už tai gaudamas gelumbės už 50 000 auksinų per metus."
   atnaujinta: "2026-07-19 11:47"
   sprendimo_priezastis: "auto"
@@ -52,23 +51,17 @@ Nenurodyta
   pagrindžia:
     - c-185670
 
+## Reikšmingi paminėjimai
+Nenurodyta
+
 ## Citatos
 
 - id: c-185670
   šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
   puslapiai: "p. 59 (PDF 2)"
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
-  citata_originali: |
-    Iki pat XVI a. audiniai minimi tarpvalstybinėse sutartyse. An-
-    tai penktame dešimtmetyje pagal sutartį su Žygimantu Senuoju
-    Krymo chanas Sagapas (Sahibas!) Girėjus per savo pasiuntinį
-    kunigaikštį Aligačį laidavo prekybos laisvę lenkų ir lietuvių pir-
-    kliams Kafoje ir Perekope, ir už tai jam pažadėta kasmet siųsti
-    gelumbės už 50 000 auksinų44.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 11:47"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202323
+    - t-001

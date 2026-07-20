@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-179454"></a>
 - t-001
-  global_id: t-179454
   teiginys: "1423 m. gegužę Veliuonoje didysis magistras ir Livonijos magistras ieškojo formalių priekabių Melno taikos sutarčiai sugriauti."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179454
+    - t-001

@@ -31,9 +31,8 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
 
 <a id="claim-t-189028"></a>
 - t-001
-  global_id: t-189028
   teiginys: "Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,34 +48,7 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171917
-    - c-001
 - susijęs iš Rytų Sibiras: Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Rei­
-    kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui
-    ir kiekvienam rašytojui -  skalę, kurią net būtų galima tikslinti
-    atsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­
-    nikoje teigiamus dalykus, idant nepasirodytum toks kaip švento
-    atminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.
-    II priedas
-    Apie N erčios upę
-    Papildymas apie ypatumą visų kraštų vandenų pavadini­
-    mo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.
-    Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­
-    je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:
-    lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko
-    miestas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189028
 ## Citatos
 
 - id: c-171917
@@ -84,24 +56,6 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai pačiai deivei, arba Laimai, priklausė ir Laumės (Lau-
-    ma) vardas, nors kai kurie jį skiria ir laiko visiškai priešingu,
-    arba piktosios dievybės vadu, tuo tarpu Laima turėjusi pri­
-    klausyti prie gerųjų; tačiau iš mūsų tyrimų įvairiose lietuvių
-    žemės vietose matyti, kad tie vardai ir ypatumų įvaizdžiai yra
-    primityvūs, atsiradę jau iš smunkančios mitologijos.
-    IV priedas
-    Apie aukštųjų žynių ženklus
-    Vieno piliečio dvarininko, kurio pavardės nurodyti netu­
-    riu leidimo, privačioje bibliotekoje yra rankraštinė Bažnyčios
-    istorija, sukompiliuota kažkokio jėzuito susidedanti iš daugy­
-    bės išrašų iš kronikų ir įvairiausių raštų, susijusių su minėtuo­
-    ju dalyku, o ypač Lenkijos, Lietuvos, Prūsijos, Kuršo, Livoni­
-    jos ir Estijos bažnyčiomis; apima 38 lankus, prirašytus smul­
-    kiu raštu; pradžioje pagal sunumeravimą trūksta 20 puslapių.
-    Pereito amžiaus pirmosios pusės rašysena, ketvirčio lapo for­
-    mato.
-  citata_rodoma: |
     Rei­
     kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui
     ir kiekvienam rašytojui -  skalę, kurią net būtų galima tikslinti
@@ -116,10 +70,11 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
     je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:
     lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko
     miestas.
+  citata_rodoma: "Rei­\nkia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui\nir kiekvienam rašytojui -  skalę, kurią net būtų galima tikslinti\natsižvelgiant į galimą atsiradimą įrodymų, patvirtinančių kro­\nnikoje teigiamus dalykus, idant nepasirodytum toks kaip švento\natminimo Lėrbergas su tariamo Šiaurės popiežiaus išradimu.\nII priedas\nApie N erčios upę\nPapildymas apie ypatumą visų kraštų vandenų pavadini­\nmo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.\nPrie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­\nje, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:\nlai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko\nmiestas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189028
+    - t-001

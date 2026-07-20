@@ -53,7 +53,6 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
 
 <a id="claim-t-195674"></a>
 - t-001
-  global_id: t-195674
   teiginys: "1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
   atnaujinta: "2026-07-12 12:31"
   sprendimo_priezastis: "coverage-gap-overlap-repair"
@@ -70,21 +69,12 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
   puslapiai: "p. 9 (PDF 8)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 9 (PDF 8)."
   citata_originali: |
-    Kaip jis griauždavosi, kai kurį laiką nebuvo mūsų atstovo Suomijoj,
-    Tuomet jis Lietuvą atstovaudavo ir gindavo, kaip jos atstovas.
-    Ag ir
-    Lietuvos paskelbimą de jure
-    Suomijoj tik jis pagreitino.
-    Pasinau­
-    dojęs proga, kai 1921 m. rudenį į Helsinkus atvyko „Eltos“ direkto­
-    rius prof. dr. Eretas, jis kelias dienas vaikščiojo po valstybės įstaigas,
-    kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo.
-  citata_rodoma: |
     1921 m. rudenį į Helsinkus atvyko „Eltos“ direktorius prof. dr. Eretas ... kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo.
+  citata_rodoma: "1921 m. rudenį į Helsinkus atvyko „Eltos“ direktorius prof. dr. Eretas ... kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo."
   statusas: verified
   atnaujinta: "2026-07-12 12:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195674
+    - t-001

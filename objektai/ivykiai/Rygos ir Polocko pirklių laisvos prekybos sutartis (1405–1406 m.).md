@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-34554"></a>
 - t-001
-  global_id: t-34554
   teiginys: "1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,4 +94,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34554
+    - t-001

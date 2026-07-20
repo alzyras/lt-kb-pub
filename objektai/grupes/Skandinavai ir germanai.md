@@ -32,7 +32,6 @@ Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, 
 
 <a id="claim-t-189535"></a>
 - t-001
-  global_id: t-189535
   teiginys: "Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, latviai ir lietuviai vartojo panašius pavadinimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189535
+    - t-001

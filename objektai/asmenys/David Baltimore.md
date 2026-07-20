@@ -36,8 +36,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 ## Teiginiai
 
 <a id="claim-t-78048"></a>
-- t-002
-  global_id: t-78048
+- t-001
   teiginys: "David Baltimore'as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,18 +51,6 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   temporaliniai_duomenys: "įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą."
-  pagrindžia:
-    - c-21647
-
-<a id="claim-t-78048"></a>
-- t-001
-  global_id: t-903176992
-  teiginys: 'David Baltimore''as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.'
-  sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika'
-  temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą.'
   pagrindžia:
     - c-21647
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
@@ -97,22 +84,11 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: |
-    O juk
-    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
-    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
-    reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
-    nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
-    rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
-    Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-
-    damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
-    siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
-    premija).
+  citata_rodoma: "O juk \nreikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai \nsusijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-\nreatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, \nnuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-\nrensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda \nElion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV bū-\ndamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-\nsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. \npremija)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78048
     - t-001

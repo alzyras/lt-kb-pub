@@ -37,7 +37,6 @@ Krakių vlsč.
 
 <a id="claim-t-38492"></a>
 - t-001
-  global_id: t-38492
   teiginys: "1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Krakių vlsč.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38492
+    - t-001

@@ -39,7 +39,6 @@ Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński
 
 <a id="claim-t-29456"></a>
 - t-001
-  global_id: t-29456
   teiginys: "Ch. Wl. Chojnaccy parengė bibliografinį darbą „Materiały do bibliografii bitwy pod Grunwaldem“, išspausdintą 1960 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29456
+    - t-001

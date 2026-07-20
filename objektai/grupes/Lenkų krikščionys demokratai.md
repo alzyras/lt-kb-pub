@@ -31,7 +31,6 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 
 <a id="claim-t-74516"></a>
 - t-001
-  global_id: t-74516
   teiginys: "Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 
 <a id="claim-t-74517"></a>
 - t-002
-  global_id: t-74517
   teiginys: "Vilniaus vyskupijoje lenkų krikščionys demokratai vadovavosi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,19 +77,15 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
     nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu.
-  citata_rodoma: |
-    Vyskupi-
-    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
-    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
-    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
-    nimu.
+  citata_rodoma: "Vyskupi-\njoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų\nnacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV\nteritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-\nnimu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74516
+    - t-001
+
 - id: c-72551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,4 +106,4 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74517
+    - t-002

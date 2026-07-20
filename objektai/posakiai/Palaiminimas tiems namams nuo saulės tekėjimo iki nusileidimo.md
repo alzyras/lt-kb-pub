@@ -47,19 +47,6 @@ Tai ritualinė elgetos palaiminimo formulė. Vartojimo kontekstas: įėjęs elge
 
 Ritualinė elgetos palaiminimo formulė.
 
-## Teiginiai
-
-<a id="claim-t-195443"></a>
-- t-001
-  global_id: t-195443
-  teiginys: "Pateikiama pilna namų palaiminimo formulė."
-  atnaujinta: "2026-07-12 02:46"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177864
-
 ## Citatos
 
 - id: c-177864
@@ -68,18 +55,10 @@ Ritualinė elgetos palaiminimo formulė.
   puslapiai: "p. 137 (PDF 135)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 137 (PDF 135)."
   citata_originali: |
-    Arklys
-    ir paršas maitinami duona.
-    Vaikščiodavo dar ir kitokių. Kitas, įėjęs į grįčią, pasako pagarbi­
-    nimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki
-    nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčio-
-    je užsilaiko.
-  citata_rodoma: |
     Kitas, įėjęs į grįčią, pasako pagarbinimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčioje užsilaiko.
+  citata_rodoma: "Kitas, įėjęs į grįčią, pasako pagarbinimą ir paskui: „Palaiminimas tiems namams nuo saulės tekėjimo iki nusileidimo, šeimininkams, jų vaikeliams ir visiems, kurie šioje grįčioje užsilaiko."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195443

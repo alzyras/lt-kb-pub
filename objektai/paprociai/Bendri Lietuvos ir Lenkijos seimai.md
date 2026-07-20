@@ -44,8 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01934"></a>
-- t-001
-  global_id: t-01934
+- t-002
   teiginys: "Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Nenurodyta
     - c-02172
 
 <a id="claim-t-01936"></a>
-- t-002
-  global_id: t-01936
+- t-001
   teiginys: "Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Nenurodyta
 
 <a id="claim-t-01937"></a>
 - t-003
-  global_id: t-01937
   teiginys: "Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,19 +110,15 @@ Nenurodyta
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
-  citata_rodoma: |
-    Šiuo susita-
-    rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
-    tų bendrą seimą, bendrai vienoje vietoje
-    rinktąjį valdovą, bendrą apsaugą ir bendrus
-    pinigus.
+  citata_rodoma: "Šiuo susita-\nrimu buvo norima įkurti viena jungtinė valstybė, kuri turė-\ntų bendrą seimą, bendrai vienoje vietoje\nrinktąjį valdovą, bendrą apsaugą ir bendrus\npinigus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01934
+    - t-002
+
 - id: c-02173
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -143,7 +136,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01937
+    - t-003
+
 - id: c-02174
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,4 +156,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01936
+    - t-001

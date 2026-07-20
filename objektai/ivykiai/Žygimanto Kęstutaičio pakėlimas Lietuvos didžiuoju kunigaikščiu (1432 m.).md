@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185686"></a>
 - t-001
-  global_id: t-185686
   teiginys: "1432 m. karaliaus pasiuntiniai įtikino Žygimantą Kęstutaitį sutikti su valdovo ir valstybės keltais reikalavimais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-185687"></a>
 - t-002
-  global_id: t-185687
   teiginys: "Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -92,7 +90,6 @@ Nenurodyta
 
 <a id="claim-t-196306"></a>
 - t-003
-  global_id: t-196306
   teiginys: "Lenkijos senatas nutarė skubiai siųsti į Lietuvą pasiuntinybę pas Žygimantą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,7 +103,6 @@ Nenurodyta
 
 <a id="claim-t-196307"></a>
 - t-004
-  global_id: t-196307
   teiginys: "Priesaika patvirtintame susitarime Žygimantas įsipareigojo laikytis Lietuvos ir Lenkijos unijos ir be karaliaus pritarimo nesiekti karaliaus titulo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Nenurodyta
 
 <a id="claim-t-196308"></a>
 - t-005
-  global_id: t-196308
   teiginys: "Vilniaus Stanislovo katedroje paskelbus popiežiaus raštą, Žygimantas ir Lietuvos Didžiosios Kunigaikštystės gyventojai atleisti nuo priesaikos Boleslovui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -164,8 +159,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185686
-    - t-196306
+    - t-001
+    - t-003
+
 - id: c-169048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,8 +186,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185687
-    - t-196308
+    - t-002
+    - t-005
+
 - id: c-178620
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -229,4 +226,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196307
+    - t-004

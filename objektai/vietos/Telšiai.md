@@ -31,7 +31,6 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 
 <a id="claim-t-02787"></a>
 - t-001
-  global_id: t-02787
   teiginys: "Telšiuose buvo uždarytas vienuolynas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
     prisidėję prie sukilėlių. Buvo uždaryta daugybė vienuolynų
     (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
     ir kt.).
-  citata_rodoma: |
-    Buvo uždaryta daugybė vienuolynų
-    (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
-    ir kt.).
+  citata_rodoma: "Buvo uždaryta daugybė vienuolynų\n(Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose\nir kt.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02787
+    - t-001

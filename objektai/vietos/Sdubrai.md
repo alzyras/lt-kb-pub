@@ -31,7 +31,6 @@ Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randa
 
 <a id="claim-t-189063"></a>
 - t-001
-  global_id: t-189063
   teiginys: "Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randamas ašarinių nuolaužas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189063
+    - t-001

@@ -41,8 +41,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 ## Teiginiai
 
 <a id="claim-t-73958"></a>
-- t-001
-  global_id: t-73958
+- t-005
   teiginys: "Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 <a id="claim-t-73959"></a>
 - t-002
-  global_id: t-73959
   teiginys: "Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - c-32594
 
 <a id="claim-t-73960"></a>
-- t-003
-  global_id: t-73960
+- t-001
   teiginys: "Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -94,7 +91,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 <a id="claim-t-73961"></a>
 - t-004
-  global_id: t-73961
   teiginys: "Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -110,8 +106,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - c-32593
 
 <a id="claim-t-73964"></a>
-- t-005
-  global_id: t-73964
+- t-003
   teiginys: "Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +124,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 <a id="claim-t-193257"></a>
 - t-006
-  global_id: t-193257
   teiginys: "Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -170,19 +164,16 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija
     nuo Salyno į Šešupę. Toliau siena apytikriai buvo nužymėta upė­
     mis (Šešupė, Neta, Bebras, Narevas).
-  citata_rodoma: |
-    Bet Užnemunė
-    buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija
-    nuo Salyno į Šešupę. Toliau siena apytikriai buvo nužymėta upė­
-    mis (Šešupė, Neta, Bebras, Narevas).
+  citata_rodoma: "Bet Užnemunė\nbuvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija\nnuo Salyno į Šešupę. Toliau siena apytikriai buvo nužymėta upė­\nmis (Šešupė, Neta, Bebras, Narevas)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73960
-    - t-73961
+    - t-001
+    - t-004
+
 - id: c-32594
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -200,8 +191,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73958
-    - t-73959
+    - t-005
+    - t-002
+
 - id: c-37872
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -219,23 +211,15 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
-  citata_rodoma: |
-    Jos buvo pravestos nuo
-    Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš
-    čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­
-    vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­
-    lininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių
-    pakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo
-    būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
-    skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
-    tuvą nuo didesnės vokiečių įtakos1 2).
+  citata_rodoma: "Jos buvo pravestos nuo\nMozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš\nčia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­\nvintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­\nlininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių\npakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo\nbūdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji\nskyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­\ntuvą nuo didesnės vokiečių įtakos1 2)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73964
+    - t-003
+
 - id: c-175989
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -254,4 +238,4 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193257
+    - t-006

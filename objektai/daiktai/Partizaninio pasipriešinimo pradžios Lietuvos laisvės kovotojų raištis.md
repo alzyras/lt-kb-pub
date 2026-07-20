@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-40745"></a>
 - t-001
-  global_id: t-40745
   teiginys: "Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,15 +77,11 @@ Nenurodyta
     Pietų Lietuvoje, GAM.
 
     p. 224, Dainavos apygardos partizanai, GAM.
-  citata_rodoma: |
-    p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas
-    Pietų Lietuvoje, GAM.
-
-    p.
+  citata_rodoma: "p. 224, Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas\nPietų Lietuvoje, GAM.\n\np."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40745
+    - t-001

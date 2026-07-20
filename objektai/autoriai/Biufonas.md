@@ -27,25 +27,11 @@ media_all_json: |-
 
 Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis prasidėjo nuo ašigalių.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-191635"></a>
-- t-001
-  global_id: t-191635
-  teiginys: 'Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis prasidėjo nuo ašigalių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Biufono sistemą, kaip ją pateikia Narbutas. Interpretacinis rėmas paliktas atribuuotas.'
-  pagrindžia:
-    - c-174517
-
-## Citatos
-
-- id: c-174517
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+- c-001
+  santrauka: 'Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis prasidėjo nuo ašigalių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     36
 
@@ -56,10 +42,8 @@ Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis pras
     Humboltas** tvirtina, jog, kai skystoji materija staiga
     atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
     gijos, kad ji buvo karšta tarsi raudonai įkaitinta geležis.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-191635
+  statusas: verified

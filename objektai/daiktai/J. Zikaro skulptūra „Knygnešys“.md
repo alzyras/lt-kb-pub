@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-77926"></a>
 - t-001
-  global_id: t-77926
   teiginys: "J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,18 +90,11 @@ Nenurodyta
     118
     griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
     Lietuvą nesustabdė.
-  citata_rodoma: |
-    Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
-    Knygnešys. J. Zikaro skulptūra (1939 m.)
-
-    L I E T U V O S  I S T O R I J A
-    118
-    griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
-    Lietuvą nesustabdė.
+  citata_rodoma: "Nors valdžia ir žandarai knygnešius gaudė ir baudė dar \nKnygnešys. J. Zikaro skulptūra (1939 m.)\n\nL I E T U V O S  I S T O R I J A\n118\ngriežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į \nLietuvą nesustabdė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77926
+    - t-001

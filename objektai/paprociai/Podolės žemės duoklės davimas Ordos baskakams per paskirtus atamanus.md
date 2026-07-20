@@ -46,8 +46,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09544"></a>
-- t-001
-  global_id: t-09544
+- t-003
   teiginys: "Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
@@ -73,14 +72,11 @@ Nenurodyta
     Podolėje veikė jų paskirti atamanai, kurie
     nuo Podolės žemės duodavo duoklę at-
     vykstantiems Ordos baskakams.
-  citata_rodoma: |
-    Podolėje veikė jų paskirti atamanai, kurie
-    nuo Podolės žemės duodavo duoklę at-
-    vykstantiems Ordos baskakams.
+  citata_rodoma: "Podolėje veikė jų paskirti atamanai, kurie\nnuo Podolės žemės duodavo duoklę at-\nvykstantiems Ordos baskakams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-09544
+    - t-003

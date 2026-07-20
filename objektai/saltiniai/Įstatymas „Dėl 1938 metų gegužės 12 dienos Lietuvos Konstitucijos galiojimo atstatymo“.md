@@ -38,7 +38,6 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 
 <a id="claim-t-21325"></a>
 - t-001
-  global_id: t-21325
   teiginys: "Priėmus įstatymą dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo, šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio sustabdytas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 
 <a id="claim-t-183389"></a>
 - t-002
-  global_id: t-183389
   teiginys: "Įstatymas dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo buvo priimtas siekiant atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -106,5 +104,5 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21325
-    - t-183389
+    - t-001
+    - t-002

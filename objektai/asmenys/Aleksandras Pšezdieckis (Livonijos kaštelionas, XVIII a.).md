@@ -38,7 +38,6 @@ Aleksandras Pšezdieckis buvo Livonijos kaštelionas. 1730 m. kanauninkas derėj
 
 <a id="claim-t-200494"></a>
 - t-001
-  global_id: t-200494
   teiginys: "Aleksandras Pšezdieckis buvo Livonijos kaštelionas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Aleksandras Pšezdieckis buvo Livonijos kaštelionas. 1730 m. kanauninkas derėj
 
 <a id="claim-t-200495"></a>
 - t-002
-  global_id: t-200495
   teiginys: "1730 m. kanauninkas derėjosi su Livonijos kaštelionu Aleksandru Pšezdieckiu dėl Dombrovnos prie Oršos ir Skuodo valdų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,26 +81,9 @@ Aleksandras Pšezdieckis buvo Livonijos kaštelionas. 1730 m. kanauninkas derėj
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    Istorija / 2015, t. 97, Nr. 1
-    Pvz., apie ekonominius sandorius 1730 m. Merkinės seniūnui Antanui Kazimierui
-    Sapiegai kanauninkas rašė, kad su Livonijos kaštelionu Aleksandru Pšezdieckiu (Alek-
-    sander Przezdziecki) derėjosi dėl Dombrovnos (netoli Oršos) bei Skuodo valdų, buvo
-    sudarytas trejų metų nuomos kontraktas, vienų metų Skuodo valdos nuomos sutartis
-    su Ninevskiu (Niniewski). Su Bžezinskiais (Brzezińscy) derėjosi dėl įkeistų Dirvėnų (?)
-    valdų Livonijos vaivadijoje [2].
-  citata_rodoma: |
-    Pvz., apie ekonominius sandorius 1730 m. Merkinės seniūnui Antanui Kazimierui
-    Sapiegai kanauninkas rašė, kad su Livonijos kaštelionu Aleksandru Pšezdieckiu (Alek-
-    sander Przezdziecki) derėjosi dėl Dombrovnos (netoli Oršos) bei Skuodo valdų, buvo
-    sudarytas trejų metų nuomos kontraktas, vienų metų Skuodo valdos nuomos sutartis
-    su Ninevskiu (Niniewski). Su Bžezinskiais (Brzezińscy) derėjosi dėl įkeistų Dirvėnų (?)
-    valdų Livonijos vaivadijoje [2].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200494
-    - t-200495
+    - t-001
+    - t-002

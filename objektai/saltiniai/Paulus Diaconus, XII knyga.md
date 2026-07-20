@@ -30,7 +30,6 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
 
 <a id="claim-t-194898"></a>
 - t-001
-  global_id: t-194898
   teiginys: "Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -41,27 +40,7 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177294
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Gotų pakurstyti he­
-    rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­
-    1 Paulus
-    Diaconus.
-    Lib.
-    XII,
-    P.
-    259.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194898
+
 ## Citatos
 
 - id: c-177294
@@ -69,14 +48,6 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    2 Malabato vardas, yra lietuviškas.; mitologijoje tokią formą turi
-    dievo Alabačio vardas. Kiti istorikai vadina jį Naulobatu, Naulobates,
-    bet toks
-    vardas
-    yra
-    dar
-    lietuviškesnis.
-  citata_rodoma: |
     Gotų pakurstyti he­
     rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­
     1 Paulus
@@ -85,10 +56,11 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
     XII,
     P.
     259.
+  citata_rodoma: "Gotų pakurstyti he­\nrulai, surinkę savo jaunimą ir narsaus Malabato2 vado­\n1 Paulus\nDiaconus.\nLib.\nXII,\nP.\n259."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194898
+    - t-001

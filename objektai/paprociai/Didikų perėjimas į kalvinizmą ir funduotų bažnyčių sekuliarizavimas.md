@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-54226"></a>
 - t-001
-  global_id: t-54226
   teiginys: "XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-166696
 
 <a id="claim-t-183306"></a>
-- t-002
-  global_id: t-183306
+- t-003
   teiginys: "Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -125,5 +123,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54226
-    - t-183306
+    - t-001
+    - t-003

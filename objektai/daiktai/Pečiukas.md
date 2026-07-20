@@ -49,16 +49,14 @@ Nenurodyta
 
 <a id="claim-t-195328"></a>
 - t-001
-  global_id: t-195328
   teiginys: "Akmenų krosnelė, kūrenama šviesai klojime."
-  atnaujinta: "2026-07-12 01:47"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177721
     - c-177720
-    - c-177719
+    - c-177721
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -82,42 +80,29 @@ Nenurodyta
     ugnis ir švietė klojimą.
     Malkas vartodavo alksnines ar liepines, nes
     jos nesproginėja ir liepsningai dega.
-  citata_rodoma: |
-    Malkas vartodavo alksnines ar liepines, nes jos nesproginėja ir liepsningai dega.
+  citata_rodoma: "Malkas vartodavo alksnines ar liepines, nes jos nesproginėja ir liepsningai dega."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195328
 - id: c-177720
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 67 (PDF 65)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 67 (PDF 65)."
   citata_originali: |
-    Skusdamas prasiblai-
-    vau, ir toliau ne miegas rūpi, bet šiaip taip atmesti bulbes, lėkti į klo­
-    jimą.
-    Klojime liepdavo man kurstyti „pečiuką“ ,
-    kad kuliant
-    būtų
-    šviesiu.
-    Ant papėdės bent pusės masto aukštumo buvo sukrauta ak­
-    menų krosnelė su plačia ir aukšta kakta; toje
-    krosnelėje
-    kūrenosi
-    ugnis ir švietė klojimą.
-  citata_rodoma: |
     Ant papėdės bent pusės masto aukštumo buvo sukrauta akmenų krosnelė su plačia ir aukšta kakta; toje krosnelėje kūrenosi ugnis ir švietė klojimą.
+  citata_rodoma: "Ant papėdės bent pusės masto aukštumo buvo sukrauta akmenų krosnelė su plačia ir aukšta kakta; toje krosnelėje kūrenosi ugnis ir švietė klojimą."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195328
+    - t-001
+
 - id: c-177721
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -132,12 +117,11 @@ Nenurodyta
     kad kuliant
     būtų
     šviesiu.
-  citata_rodoma: |
-    Klojime liepdavo man kurstyti „pečiuką“ , kad kuliant būtų šviesiu.
+  citata_rodoma: "Klojime liepdavo man kurstyti „pečiuką“ , kad kuliant būtų šviesiu."
   statusas: verified
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195328
+    - t-001

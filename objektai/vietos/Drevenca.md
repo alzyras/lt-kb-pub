@@ -31,8 +31,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 ## Teiginiai
 
 <a id="claim-t-83305"></a>
-- t-001
-  global_id: t-83305
+- t-002
   teiginys: "Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - c-79664
 
 <a id="claim-t-83306"></a>
-- t-002
-  global_id: t-83306
+- t-001
   teiginys: "Sąjungininkai priėjo Drevencos upę ties Kauerniku ir rado kryžiuočių saugomą perėjimą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 
 <a id="claim-t-83307"></a>
 - t-003
-  global_id: t-83307
   teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +79,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     - c-79663
 
 <a id="claim-t-184303"></a>
-- t-004
-  global_id: t-184303
+- t-005
   teiginys: "Sąjungininkai priėjo Drevencos upę ties Kauerniku."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -142,7 +138,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83306
+    - t-001
+
 - id: c-79663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,21 +154,15 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
     pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
     iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
     kardo, kiti į nelaisvę papuolę.
-  citata_rodoma: |
-    Tuo lai­
-    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
-    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
-    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
-    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
-    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
-    kardo, kiti į nelaisvę papuolę.
+  citata_rodoma: "Tuo lai­\nku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos\n(Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių\nir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per\npusantrų metų žuvo apie dvidešimt tūkstančių krikščionių\niš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio\nkardo, kiti į nelaisvę papuolę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83307
+    - t-003
+
 - id: c-79664
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -189,7 +180,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83305
+    - t-002
+
 - id: c-167676
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -208,6 +200,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184303
+    - t-005
+
 ## Ryšiai
 - Gynė Drevencą: [[objektai/grupes/Kryžiuočių ordinas]]

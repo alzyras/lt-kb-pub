@@ -39,8 +39,7 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
 ## Teiginiai
 
 <a id="claim-t-70055"></a>
-- t-001
-  global_id: t-70055
+- t-005
   teiginys: "Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     - c-14677
 
 <a id="claim-t-70056"></a>
-- t-002
-  global_id: t-70056
+- t-003
   teiginys: "Vakarų Bažnyčios schizma trukdė Romos popiežiams veiksmingai spausti Ordiną."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     - c-14677
 
 <a id="claim-t-70057"></a>
-- t-003
-  global_id: t-70057
+- t-006
   teiginys: "1414 m. visuotinis bažnyčios susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą ir spręsti tikėjimo klausimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,7 +92,6 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
 
 <a id="claim-t-70058"></a>
 - t-004
-  global_id: t-70058
   teiginys: "Konstancijos susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -128,17 +124,16 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos
     popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai pa­
     spausti, todėl jis popiežių ir neklausė.
-  citata_rodoma: |
-    kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos
-    popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai
+  citata_rodoma: "kadangi šituo laiku buvo Vakarų Bažnyčios schizma ir Romos\npopiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70055
-    - t-70056
+    - t-005
+    - t-003
+
 - id: c-14678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -152,14 +147,12 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
     daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų tau­
     tų taiką, — tai katalikiška Vak. Europos visuomenė labai juo
     domėjosi ir į Konstancijos miestą (dabart.
-  citata_rodoma: |
-    turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
-    daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų
+  citata_rodoma: "turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti\ndaug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70057
-    - t-70058
+    - t-006
+    - t-004

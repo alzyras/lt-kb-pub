@@ -31,7 +31,6 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 
 <a id="claim-t-22138"></a>
 - t-001
-  global_id: t-22138
   teiginys: "Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
     cialdemokratinę orientaciją.
-  citata_rodoma: |
-    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+  citata_rodoma: "turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22138
+    - t-001

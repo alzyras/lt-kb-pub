@@ -31,7 +31,6 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 
 <a id="claim-t-36005"></a>
 - t-001
-  global_id: t-36005
   teiginys: "Posakiu „juo didesnis žmogus, juo didesnes ir klaidas gali padaryti“ aiškinta, kad Vytautas savo politikoje nebuvo laisvas nuo klaidų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,19 +67,11 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
     tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
     prielankumo Lenkijai, bet iš prielankumo tai Vak.
-  citata_rodoma: |
-    Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj
-    savo politikoj: juo didesnis žmogus, juo didesnes ir klaidas gali
-    padaryti ir tuo labiau, kad Vytautas, kaip ir daugelis kitų valdo­
-    vų, buvo žymus savo dideliu individualumu: kartais darė tai, kas
-    jam patiko, o ne tai, kas buvo sveika ir naudinga visai valstybei.
-    Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
-    tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš
-    prielankumo Lenkijai, bet iš prielankumo tai Vak.
+  citata_rodoma: "Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj\nsavo politikoj: juo didesnis žmogus, juo didesnes ir klaidas gali\npadaryti ir tuo labiau, kad Vytautas, kaip ir daugelis kitų valdo­\nvų, buvo žymus savo dideliu individualumu: kartais darė tai, kas\njam patiko, o ne tai, kas buvo sveika ir naudinga visai valstybei.\nJei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­\ntauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš\nprielankumo Lenkijai, bet iš prielankumo tai Vak."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36005
+    - t-001

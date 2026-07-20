@@ -31,7 +31,6 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
 
 <a id="claim-t-95926"></a>
 - t-001
-  global_id: t-95926
   teiginys: "Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-95926
+    - t-001

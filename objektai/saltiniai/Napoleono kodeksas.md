@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-25300"></a>
 - t-001
-  global_id: t-25300
   teiginys: "1807 m. Varšuvos kunigaikštystė buvo Napoleono globojama valstybė, kurioje įvestas civilinis Napoleono kodeksas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-25300
+    - t-001

@@ -38,7 +38,6 @@ Martynas Tiškevičius buvo Vitebsko kaštelionas. 1757 m. Vitebsko kaštelionas
 
 <a id="claim-t-200487"></a>
 - t-001
-  global_id: t-200487
   teiginys: "Martynas Tiškevičius buvo Vitebsko kaštelionas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Martynas Tiškevičius buvo Vitebsko kaštelionas. 1757 m. Vitebsko kaštelionas
 
 <a id="claim-t-200488"></a>
 - t-002
-  global_id: t-200488
   teiginys: "1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -84,19 +82,9 @@ Martynas Tiškevičius buvo Vitebsko kaštelionas. 1757 m. Vitebsko kaštelionas
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    Tai buvo
-    paskata surengti dar vieną seimelį, prieštaraujantį šiam [53].Minėtos ir politinės derybos.
-    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
-    Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
-  citata_rodoma: |
-    1757 m. laiške vienam iš Sapiegų jis pasakojo, kad priėmė Vitebsko kaštelioną Martyną
-    Tiškevičių ir tarėsi dėl seimelio reikalų bei Sapiegų interesų [52].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200487
-    - t-200488
+    - t-001
+    - t-002

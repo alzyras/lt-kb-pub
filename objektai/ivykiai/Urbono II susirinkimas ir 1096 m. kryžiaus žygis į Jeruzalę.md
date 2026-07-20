@@ -27,6 +27,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę
 
 ## Santrauka
@@ -53,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-89409"></a>
 - t-001
-  global_id: t-89409
   teiginys: "Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-89410"></a>
 - t-002
-  global_id: t-89410
   teiginys: "1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,21 +91,12 @@ Nenurodyta
 
 <a id="claim-t-89411"></a>
 - t-003
-  global_id: t-89411
   teiginys: "Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje vokiečiai minimi kaip Petro žygio dalyviai, kurie užėmė ir Jeruzalės miestą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vokiečiai užėmė Jeruzalė (0.74)"
   pagrindžia:
-    - c-85368
+    - c-85369
 
 ## Citatos
 
@@ -132,23 +122,15 @@ Nenurodyta
     šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
     arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
     su vienu ir Petros — su vienu sufraganu.
-  citata_rodoma: |
-    Taigi 1096 viešpaties metais anksčiau
-    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
-    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
-    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
-    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
-    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
-    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
-    su vienu ir Petros — su vienu sufraganu.
+  citata_rodoma: "Taigi 1096 viešpaties metais anksčiau\nminėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir\nužėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą\nbei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę\nkitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip\nšventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi\narkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —\nsu vienu ir Petros — su vienu sufraganu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89410
-    - t-89411
+    - t-002
+
 - id: c-85369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,4 +160,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89409
+    - t-001
+    - t-003

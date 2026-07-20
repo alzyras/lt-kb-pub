@@ -7,13 +7,13 @@ datos:
   - '1309 m.'
 date_start: '1309'
 date_end: ''
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - religinis-terminas
   - sąvoka
+amziai:
+  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
 
 <a id="claim-t-58892"></a>
 - t-001
-  global_id: t-58892
   teiginys: "1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -54,28 +53,7 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   temporalinis_llm_pakomentavimas: "Citata pagrindžia liturginį nurodymą, o pradinis teiginys nutrūkęs."
   pagrindžia:
     - c-59524
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie [giesmę] „Sveika, Marija“
 
-      Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
-    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
-    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
-    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
-    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
-
-                 306 (299).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-58892
 ## Citatos
 
 - id: c-59524
@@ -95,23 +73,11 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
 
 
                  306 (299).
-  citata_rodoma: |
-    Apie [giesmę] „Sveika, Marija“
-
-      Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis
-    Zigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų
-    antifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą
-    „Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai
-    mergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.
-
-
-
-
-                 306 (299).
+  citata_rodoma: "Apie [giesmę] „Sveika, Marija“\n\n  Tuo metu, 1309 metais brolius kamavo galybė visokeriopų vargų. Todėl tas pats brolis\nZigfridas, magistras, nutarė, kad broliai vienuoliai po atskirų liturginių valandų giedotų\nantifoną: „Sveika, karaliene“ su atsakymu: „Kiekvienoje priespaudoje“ bei kolektą\n„Apsaugok, viešpatie“, o broliai pasauliečiai — vieną „Sveika, Marija“ švenčiausiajai\nmergelei pagerbti, kad per jos užtarimą ši sumaištis šiek tiek aprimtų.\n\n\n\n\n             306 (299)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58892
+    - t-001

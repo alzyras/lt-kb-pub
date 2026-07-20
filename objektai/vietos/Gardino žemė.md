@@ -32,7 +32,6 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
 
 <a id="claim-t-32171"></a>
 - t-001
-  global_id: t-32171
   teiginys: "Gardino žemė su artimiausiomis pilimis buvo pradinis Mindaugo laimikis užimant Lietuvai artimiausias krivičių sritis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,16 +62,14 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
     pastoviai veržtis rytų link. Gardino žemė su artimiausiomis pilimis
     buvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai
     artimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas.
-  citata_rodoma: |
-    Gardino žemė su artimiausiomis pilimis
-    buvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai
-    artimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas.
+  citata_rodoma: "Gardino žemė su artimiausiomis pilimis\nbuvo pradinis laimikis. Užimdamas Nemuno kairėje porą Lietuvai\nartimiausių krivičių sričių, šituo keliu ėjo ir Mindaugas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32171
+    - t-001
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-51016"></a>
-- t-001
-  global_id: t-51016
+- t-002
   teiginys: "Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-36303
 
 <a id="claim-t-51017"></a>
-- t-002
-  global_id: t-51017
+- t-001
   teiginys: "Ghillebert de Lannoy minėjo, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -77,18 +75,15 @@ media_all_json: |-
     bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
-  citata_rodoma: |
-    Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
-    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
-    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
-    de Lannoy, buvo siuntinėjami totorių kalba raštai.
+  citata_rodoma: "Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­\nbos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo\nkun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert\nde Lannoy, buvo siuntinėjami totorių kalba raštai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51016
-    - t-51017
+    - t-002
+    - t-001
+
 ## Ryšiai
 - Ghillebert de Lannoy keliavo į [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]

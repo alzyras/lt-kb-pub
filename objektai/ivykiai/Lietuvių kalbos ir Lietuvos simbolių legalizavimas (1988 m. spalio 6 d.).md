@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20264"></a>
 - t-001
-  global_id: t-20264
   teiginys: "1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinį statusą ir legalizavo Lietuvos simbolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: |
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+  citata_rodoma: "lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20264
+    - t-001

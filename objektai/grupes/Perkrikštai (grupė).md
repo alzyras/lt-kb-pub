@@ -33,7 +33,6 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
 
 <a id="claim-t-201243"></a>
 - t-001
-  global_id: t-201243
   teiginys: "Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
 ## Citatos
 
 - id: c-184593
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Patys kryžėjai jau
     užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne
@@ -78,4 +78,4 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201243
+    - t-001

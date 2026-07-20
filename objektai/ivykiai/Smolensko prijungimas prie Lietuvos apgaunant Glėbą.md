@@ -42,7 +42,6 @@ Nenurodyta
 
 <a id="claim-t-185774"></a>
 - t-001
-  global_id: t-185774
   teiginys: "Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185774
+    - t-001

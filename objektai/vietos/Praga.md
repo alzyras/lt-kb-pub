@@ -42,8 +42,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 ## Teiginiai
 
 <a id="claim-t-71956"></a>
-- t-001
-  global_id: t-71956
+- t-002
   teiginys: "Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-32351
 
 <a id="claim-t-71957"></a>
-- t-002
-  global_id: t-71957
+- t-007
   teiginys: "Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-32351
 
 <a id="claim-t-71958"></a>
-- t-003
-  global_id: t-71958
+- t-004
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-37656
 
 <a id="claim-t-71959"></a>
-- t-004
-  global_id: t-71959
+- t-001
   teiginys: "J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -120,7 +116,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 
 <a id="claim-t-71960"></a>
 - t-005
-  global_id: t-71960
   teiginys: "Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-37657
 
 <a id="claim-t-71962"></a>
-- t-006
-  global_id: t-71962
+- t-003
   teiginys: "Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -154,8 +148,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-37655
 
 <a id="claim-t-183077"></a>
-- t-007
-  global_id: t-183077
+- t-006
   teiginys: "Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -212,7 +205,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71959
+    - t-001
+
 - id: c-32351
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -224,20 +218,16 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
     Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
     pradėtą kovą.
-  citata_rodoma: |
-    Ilgą
-    laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­
-    cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
-    Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
-    pradėtą kovą.
+  citata_rodoma: "Ilgą\nlaiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­\ncus dux Lithuaniae », savo dienas baigė Pragoje (1380).\nKryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283\npradėtą kovą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71956
-    - t-71957
+    - t-002
+    - t-007
+
 - id: c-37655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -252,20 +242,15 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     tikslu atnaujino ir praplatino Krokuvos universitetą (1400).
     Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
     santykius su Vok.
-  citata_rodoma: |
-    Lietuviams kunigams rengti
-    karalienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­
-    rie mokėsi teologijos Pragos universitete, o Jogaila tuo pat
-    tikslu atnaujino ir praplatino Krokuvos universitetą (1400).
-    Taip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos
-    santykius su Vok.
+  citata_rodoma: "Lietuviams kunigams rengti\nkaralienė Jadvyga įsteigė Pragoję bendrabutį studentams, ku­\nrie mokėsi teologijos Pragos universitete, o Jogaila tuo pat\ntikslu atnaujino ir praplatino Krokuvos universitetą (1400).\nTaip įvedamas Lietuvoje krikštas griežtai pakeitė ir jos\nsantykius su Vok."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71962
+    - t-003
+
 - id: c-37656
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -286,7 +271,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71958
+    - t-004
+
 - id: c-37657
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -300,18 +286,15 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
-  citata_rodoma: |
-    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
-    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
-    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
-    linkybėms, Vytautas nuo to sumanymo atsisakė.
+  citata_rodoma: "Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų\npasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą\nsavo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­\nlinkybėms, Vytautas nuo to sumanymo atsisakė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71960
+    - t-005
+
 - id: c-166467
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -330,7 +313,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183077
+    - t-006
+
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Praga priklausė [[objektai/vietos/Varšuva]]

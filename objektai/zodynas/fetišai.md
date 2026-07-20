@@ -31,7 +31,6 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
 
 <a id="claim-t-189358"></a>
 - t-001
-  global_id: t-189358
   teiginys: "Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusdievių ir sudievintų dangaus kūnų priskyrė ir fetišus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189358
+    - t-001

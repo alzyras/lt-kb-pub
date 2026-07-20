@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20463"></a>
 - t-001
-  global_id: t-20463
   teiginys: "Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
     išlaisvinti režimo įbaugintus žmones.
-  citata_rodoma: |
-    namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
+  citata_rodoma: "namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20463
+    - t-001

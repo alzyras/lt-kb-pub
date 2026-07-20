@@ -41,7 +41,6 @@ Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning 
 
 <a id="claim-t-200726"></a>
 - t-001
-  global_id: t-200726
   teiginys: "Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning buvo gėrimas poromis, skiriamas nuo hwirfingsdryckia."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -67,19 +66,8 @@ Vikingų visuomenėje, kai kurių Laužiko minimų autorių teigimu, twimenning 
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 7"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 7."
-  citata_originali: |
-    (Sturluson [2016]: 41).
-    Beje, kai kurie autoriai teigia, vikingų visuomenėje buvus skirtumą tarp „gėrimo
-    poromis“ (vadinto twimenning) ir „gėrimo iš vienos taurės, leidžiant ją ratu“ (hwir-
-    fingsdryckia) (Strinnholm 1839: 340).
-    Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos tau-
-    rės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyz-
-    džiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremo-
-    nialo, dalis.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200726
+    - t-001

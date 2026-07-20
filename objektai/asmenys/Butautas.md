@@ -39,8 +39,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ## Teiginiai
 
 <a id="claim-t-93195"></a>
-- t-001
-  global_id: t-93195
+- t-002
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,6 +88,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93195
+    - t-002
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

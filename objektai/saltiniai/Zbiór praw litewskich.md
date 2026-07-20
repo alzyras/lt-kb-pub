@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-32018"></a>
 - t-001
-  global_id: t-32018
   teiginys: "„Zbiór praw litewskich“ išleistas Poznanėje 1841 m.; cituojami leidinio p. 1–2."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +62,14 @@ media_all_json: |-
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    **
+    (^18) **CDV, I, 29-30 (nr. 16).**
     (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**
-    (^20) **CDV, I, 13-15 p.
-  citata_rodoma: |
-    **
-    (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**
-    (^20) **CDV, I, 13-15 p.
+    (^20) **CDV, I, 13-15 p.**
+  citata_rodoma: "**\n(^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**\n(^20) **CDV, I, 13-15 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32018
+    - t-001

@@ -32,7 +32,6 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 
 <a id="claim-t-192596"></a>
 - t-001
-  global_id: t-192596
   teiginys: "Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 
 <a id="claim-t-201014"></a>
 - t-002
-  global_id: t-201014
   teiginys: "Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -84,10 +82,12 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192596
+    - t-001
+
 - id: c-184364
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas moka aiškiai* Lietuvos ir
     gudų kalbą, tas gal tą aiškiai regėti, kaipogi šios
@@ -110,4 +110,4 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201014
+    - t-002

@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202411"></a>
 - t-001
-  global_id: t-202411
   teiginys: "Lapkričio 28 d. dienoraščio autorius vyko į Daugpilio Livonijos seimelį, nors daugelis jo valdų priklausė Breslaujos pavietui."
   atnaujinta: "2026-07-19 13:11"
   sprendimo_priezastis: "auto"
@@ -68,18 +67,8 @@ Nenurodyta
   šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
   puslapiai: "PDF 16"
   indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 16."
-  citata_originali: |
-    Lapkričio 28 d.
-    jis kažkodėl vyksta į Daugpilį, į Livonijos seimelį, nors daugelis jo
-    valdų priklauso lyg ir Breslaujos pavietui. Apie Daugpilio seimelį tik
-    paminima, kad prasidėjo gruodžio 1 d., o 2 d. išrinkti ir išvardinti
-    pasiuntiniai į Seimą, 4 d. jis išvyko namo. Tos dienos įrašo pabaigoje
-    pažymėta, kad Tuo pačiu metu Breslaujos seimelis iro dėl žemės teisėjo
-    šalininkų [kaltės].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-202411
+    - t-001

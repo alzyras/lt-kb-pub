@@ -32,7 +32,6 @@ dr. Baptista Cigala^16.
 
 <a id="claim-t-28952"></a>
 - t-001
-  global_id: t-28952
   teiginys: "Vienos universiteto dr. Baptista Cigala vadovavo imperatoriaus Zigmanto teisininkų delegacijai pas Vytautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ dr. Baptista Cigala^16.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28952
+    - t-001

@@ -31,7 +31,6 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 
 <a id="claim-t-15246"></a>
 - t-001
-  global_id: t-15246
   teiginys: "Bosnija ir Hercegovina buvo viena iš šalių, kuriose Lietuvos kariai dalyvavo tarptautinėse misijose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     prie stabilumo ir taikos palaikymo ne tik Europoje, bet ir už jos ribų. Apskri-
     tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
-  citata_rodoma: |
-    Apskri-
-    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
-    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
+  citata_rodoma: "Apskri-\ntai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-\nvinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-15246
+    - t-001

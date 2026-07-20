@@ -28,7 +28,6 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
 
 <a id="claim-t-201406"></a>
 - t-001
-  global_id: t-201406
   teiginys: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
 ## Citatos
 
 - id: c-184756
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tenai belėbaujant lie­
     tuviams, du vyresniuoju susivaržė didžiai gražia
@@ -63,4 +63,4 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201406
+    - t-001

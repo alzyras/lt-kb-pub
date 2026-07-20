@@ -35,8 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88181"></a>
-- t-001
-  global_id: t-88181
+- t-002
   teiginys: "Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ media_all_json: |-
     - c-84162
 
 <a id="claim-t-88182"></a>
-- t-002
-  global_id: t-88182
+- t-004
   teiginys: "Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ media_all_json: |-
     - c-84163
 
 <a id="claim-t-88184"></a>
-- t-003
-  global_id: t-88184
+- t-001
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,20 +96,15 @@ media_all_json: |-
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
-  citata_rodoma: |
-    136, N533
-    Dinaburgo komtūro pranešimas Livonijos magistrui apie
-    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
-    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
-    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
-    riausiai 1399).
+  citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88184
+    - t-001
+
 - id: c-84162
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,7 +145,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88181
+    - t-002
+
 - id: c-84163
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,19 +161,11 @@ media_all_json: |-
     Originalą atitinka:
     Dr. Hennigas
     Karai.
-  citata_rodoma: |
-    Gertrūdą.
-    Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­
-    jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­
-    tolių už 60 000 sidabro luitų.
-    Dinaburgo komtūras
-    (parašas)
-    Originalą atitinka:
-    Dr.
+  citata_rodoma: "Gertrūdą.\nDar man sako pasiuntinys, kad, pasak Vilniaus gyvento­\njų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­\ntolių už 60 000 sidabro luitų.\nDinaburgo komtūras \n(parašas)\nOriginalą atitinka:\nDr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88182
+    - t-004

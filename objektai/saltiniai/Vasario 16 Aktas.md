@@ -50,8 +50,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-71831"></a>
-- t-001
-  global_id: t-71831
+- t-017
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą."
   atnaujinta: "2026-06-10 12:34"
   sprendimo_priezastis: "auto"
@@ -69,8 +68,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-16301
 
 <a id="claim-t-71832"></a>
-- t-002
-  global_id: t-71832
+- t-014
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei Lietuvos Nepriklausomybės diena."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -85,9 +83,8 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   pagrindžia:
     - c-70349
 
-<a id="claim-t-71838"></a>
-- t-003
-  global_id: t-71838
+<a id="claim-t-71833"></a>
+- t-021
   teiginys: "1918 m. Vasario 16 Aktas savo dvasia buvo artimas Kovo 11 Aktui, kuris nebesirėmė tautų apsisprendimo teise."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,8 +104,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-23995
 
 <a id="claim-t-71834"></a>
-- t-004
-  global_id: t-71834
+- t-020
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei davė pradžią tikrai Lietuvos nepriklausomybei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -124,8 +120,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-70349
 
 <a id="claim-t-71835"></a>
-- t-005
-  global_id: t-71835
+- t-019
   teiginys: "1918 m. vasario 16 d. Vilniuje Taryba paskelbė atkurianti nepriklausomą Lietuvos valstybę su sostine Vilniumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,8 +139,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - c-16301
 
 <a id="claim-t-71837"></a>
-- t-006
-  global_id: t-71837
+- t-015
   teiginys: "1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -182,23 +176,16 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: |
-    Parengus abiem pu-
-    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
-    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
-    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
-    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
-    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
-    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
-    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
+  citata_rodoma: "Parengus abiem pu-\nsėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-\nją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,\npaskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą\nLietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų\nvalstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-\ntybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys\nSteigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71831
-    - t-71835
+    - t-017
+    - t-019
+
 - id: c-23994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,20 +202,15 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
-  citata_rodoma: |
-    Kovo 23 dieną Berlyne A. Smetonos vadovau-
-    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
+  citata_rodoma: "Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui\nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos\nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…\ngruodžio 11-osios rezoliucijos pagrindu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71837
+    - t-015
+
 - id: c-23995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -256,25 +238,15 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: |
-    Kovo 11 Aktas savo dvasia arti-
-    mas Lietuvos Tarybos 1918 m. pa-
-    skelbtam Vasario 16 Aktui, tačiau
-    nebesirėmė visuotinai pripažinta
-    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
-    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
-    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
-    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
-    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
-    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
-    teritoriją.
+  citata_rodoma: "Kovo 11 Aktas savo dvasia arti-\nmas Lietuvos Tarybos 1918 m. pa-\nskelbtam Vasario 16 Aktui, tačiau \nnebesirėmė visuotinai pripažinta \ntautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-\nsės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-\ntuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“ \nreferendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-\nreigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su \nsavo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą \nteritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71838
+    - t-021
+
 - id: c-70349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -299,5 +271,5 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71832
-    - t-71834
+    - t-014
+    - t-020

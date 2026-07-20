@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-62328"></a>
 - t-001
-  global_id: t-62328
   teiginys: "Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,20 +71,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62886
-
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Mazovijos kunigaikštis Konradas galėjo bandyti atsipirkti nuo prūsų antpuolių po 1216-1217 m. iki Mazovijos nusiaubimo 1222 arba 1224-1225 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
-    1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;
-    Powierski J. Przekaz..., p. 409—410).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 
 ## Citatos
 
@@ -104,21 +89,26 @@ Nenurodyta
     šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
     netikėlių pasiuntiniams jų drabužius bei žirgus165. Tačiau šitai nepagelbėjo ir nesušvelnino
     jų nuožmumo, todėl jie po senovei siaubė minėtąją žemę, kaip jau anksčiau esame sakę.
-  citata_rodoma: |
-    Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
-
-       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
-    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
-    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
-    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
-    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
-    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
-    netikėlių pasiuntiniams jų drabužius bei žirgus165. Tačiau šitai nepagelbėjo ir nesušvelnino
-    jų nuožmumo, todėl jie po senovei siaubė minėtąją žemę, kaip jau anksčiau esame sakę.
+  citata_rodoma: "Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą\n\n   Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai\ndar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir\nįbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,\nreikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų\npatenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,\nšiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems\nnetikėlių pasiuntiniams jų drabužius bei žirgus165. Tačiau šitai nepagelbėjo ir nesušvelnino\njų nuožmumo, todėl jie po senovei siaubė minėtąją žemę, kaip jau anksčiau esame sakę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62328
+    - t-001
+
+- id: c-62888
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
+    1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;
+    Powierski J. Przekaz..., p. 409—410).
+  citata_rodoma: "Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po\n1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;\nPowierski J. Przekaz..., p. 409—410)."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

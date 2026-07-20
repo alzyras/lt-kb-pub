@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-32136"></a>
 - t-001
-  global_id: t-32136
   teiginys: "1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,15 +70,11 @@ media_all_json: |-
     niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
-  citata_rodoma: |
-    1300 jie vėl pasirodė Dobry­
-    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
+  citata_rodoma: "1300 jie vėl pasirodė Dobry­\nniaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32136
+    - t-001

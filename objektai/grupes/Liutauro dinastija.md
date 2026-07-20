@@ -32,7 +32,6 @@ Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems ta
 
 <a id="claim-t-189522"></a>
 - t-001
-  global_id: t-189522
   teiginys: "Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems tauta dėkojo už tautinį gyvenimą ir pakluso jų valiai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189522
+    - t-001

@@ -51,7 +51,6 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
 
 <a id="claim-t-195419"></a>
 - t-001
-  global_id: t-195419
   teiginys: "Sutvarkant vežimą šaukiama „Krikštynos, prikeltuvės“."
   atnaujinta: "2026-07-12 02:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -68,21 +67,13 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
   puslapiai: "p. 34 (PDF 32)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 34 (PDF 32)."
   citata_originali: |
-    Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at-
-    važiuodamos buvo pasitvarkslavę šienviržėmis virvėmis.
-    Mergaitė,
-    eidama pirm arklio, nežiūri, kaip yra su tekiniais, dėlto tankiai atsi­
-    tinka vežimui pavirsti, bet tai menkas vargas; mūsų mergaitės važiuo­
-    ja ne vienos, paskui jas važiuoja kitų kiemų mergaitės su šienu. Tuo-
-    jaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­
-    tynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato.
-  citata_rodoma: |
     Tuojaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­
     tynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato.
+  citata_rodoma: "Tuojaus subėga kelios, dar atsiranda vienas vyras ir besijuokdami: „Krikš­\ntynos, prikeltuvės“ , berėkaud.ami, kaip bematai, vežimą pastato."
   statusas: verified
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195419
+    - t-001

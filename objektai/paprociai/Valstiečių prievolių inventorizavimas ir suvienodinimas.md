@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-02041"></a>
 - t-001
-  global_id: t-02041
   teiginys: "Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02041
+    - t-001

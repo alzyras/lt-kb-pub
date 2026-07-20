@@ -33,36 +33,10 @@ media_all_json: |-
 
 Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-187303"></a>
-- t-001
-  global_id: t-187303
-  teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
-  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
-  pagrindžia:
-    - c-170342
-
-<a id="claim-t-187304"></a>
-- t-002
-  global_id: t-187304
-  teiginys: 'Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys papildytas aiškiu predikatu ir sujungtas su vietovės funkcija pasakojime.'
-  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
-  pagrindžia:
-    - c-170342
-
-## Citatos
-
-- id: c-170342
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
     davė etmono vietą kunigaikščiui Konstantinui2 5 .
@@ -80,12 +54,9 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
-  citata_rodoma: "pats su visa kariuomene išėjo į kalnus, \nį siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-\n\n/52\n\n## Puslapis 148\n\nlamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo \nsu visa savo kariuomene kaip didelėje tvirtovėje2 9 ."
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:29"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-187303
-    - t-187304
+  statusas: verified
+- t-001

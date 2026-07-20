@@ -37,7 +37,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-01540"></a>
 - t-001
-  global_id: t-01540
   teiginys: "„Žiburys“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų, veikusių kartu su „Rytu“ ir „Saule“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 <a id="claim-t-182933"></a>
 - t-002
-  global_id: t-182933
   teiginys: "Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -91,17 +89,15 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
-  citata_rodoma: |
-    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
-    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
-    jampolėje „Žiburys".
+  citata_rodoma: "Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-\nkalams, būtent Vilniuje „Rytas\", Kaune „Saulė\" ir Mari-\njampolėje „Žiburys\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01540
+    - t-001
+
 - id: c-166334
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -119,4 +115,4 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182933
+    - t-002

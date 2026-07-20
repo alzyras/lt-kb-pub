@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-01860"></a>
 - t-001
-  global_id: t-01860
   teiginys: "XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,15 +69,11 @@ Nenurodyta
     džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
     sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-  citata_rodoma: |
-    Po ilgų kovų, XIII amž. pra-
-    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
-    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
-    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
+  citata_rodoma: "Po ilgų kovų, XIII amž. pra-\ndžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė\nsau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-\nriavęs didelius aisčių plotus, sukūrė ten savo valstybę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01860
+    - t-001

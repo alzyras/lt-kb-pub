@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20429"></a>
 - t-001
-  global_id: t-20429
   teiginys: "1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,12 +83,11 @@ Nenurodyta
     publika. Sovietinio teroro ir trėmimų pradžia.
     1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
-  citata_rodoma: |
-    nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
+  citata_rodoma: "nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20429
+    - t-001

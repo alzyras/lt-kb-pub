@@ -35,8 +35,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 ## Teiginiai
 
 <a id="claim-t-88187"></a>
-- t-001
-  global_id: t-88187
+- t-002
   teiginys: "Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     - c-84166
 
 <a id="claim-t-88188"></a>
-- t-002
-  global_id: t-88188
+- t-001
   teiginys: "Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88187
+    - t-002
+
 - id: c-84167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -109,24 +108,11 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     čio brolio, sūnui - subėgę vienas po
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
-  citata_rodoma: |
-    33
-    Žr. Hermano C  o  r  neri o,
-    dominikono, Kroniką, Naruševi­
-    čiau s t. VII, p. 342, kuris byloja:
-    Cives oppidi Vilnae, magis faventes Ja-
-    $il, filio Olgerdi, fratris Keystuti, cu-
-    currerunt unus post alium, ac si furem
-    quemdam insequerentur ad castrum
-    [Vilniaus miesto miestiečiai, labiau
-    palankūs Jogailai - Algirdo, Kęstu­
-    čio brolio, sūnui - subėgę vienas po
-    kito ir tarsi kokį piktadarį nuvarę į
-    pilį].
+  citata_rodoma: "33\nŽr. Hermano C  o  r  neri o, \ndominikono, Kroniką, Naruševi­\nčiau s t. VII, p. 342, kuris byloja: \nCives oppidi Vilnae, magis faventes Ja- \n$il, filio Olgerdi, fratris Keystuti, cu- \ncurrerunt unus post alium, ac si furem \nquemdam insequerentur ad castrum \n[Vilniaus miesto miestiečiai, labiau\npalankūs Jogailai - Algirdo, Kęstu­\nčio brolio, sūnui - subėgę vienas po \nkito ir tarsi kokį piktadarį nuvarę į \npilį]."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88188
+    - t-001

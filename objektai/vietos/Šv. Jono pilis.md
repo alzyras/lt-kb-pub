@@ -31,7 +31,6 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
 
 <a id="claim-t-194990"></a>
 - t-001
-  global_id: t-194990
   teiginys: "Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194990
+    - t-001

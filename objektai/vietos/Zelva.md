@@ -30,7 +30,6 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
 
 <a id="claim-t-42348"></a>
 - t-001
-  global_id: t-42348
   teiginys: "Liepos 4 d. prie Zelvos LDK kariuomenė patyrė antrąjį pralaimėjimą, ATR pajėgoms traukiantis visu frontu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,18 +65,11 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
     trauktis visu frontu, liepos
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
-  citata_rodoma: |
-    Birželio 18 d. Lenkijos kariuo-
-    menė prie Zelencų sumušė rusus,
-    tačiau didelėms priešų pajėgoms
-    spaudžiant ATR pajėgos turėjo
-    trauktis visu frontu, liepos
-    4 d. LDK kariuomenė patyrė an-
-    trąjį pralaimėjimą prie Zelvos.
+  citata_rodoma: "Birželio 18 d. Lenkijos kariuo-\nmenė prie Zelencų sumušė rusus,\ntačiau didelėms priešų pajėgoms\nspaudžiant ATR pajėgos turėjo\ntrauktis visu frontu, liepos\n4 d. LDK kariuomenė patyrė an-\ntrąjį pralaimėjimą prie Zelvos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42348
+    - t-001

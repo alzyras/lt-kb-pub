@@ -66,8 +66,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 ## Teiginiai
 
 <a id="claim-t-12411"></a>
-- t-001
-  global_id: t-12411
+- t-006
   teiginys: "1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -85,8 +84,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - c-14183
 
 <a id="claim-t-12412"></a>
-- t-002
-  global_id: t-12412
+- t-007
   teiginys: "Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -105,8 +103,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - c-14184
 
 <a id="claim-t-12413"></a>
-- t-003
-  global_id: t-12413
+- t-008
   teiginys: "Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -123,7 +120,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 <a id="claim-t-66868"></a>
 - t-004
-  global_id: t-66868
   teiginys: "Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -140,7 +136,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 <a id="claim-t-66869"></a>
 - t-005
-  global_id: t-66869
   teiginys: "Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -158,8 +153,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - c-66975
 
 <a id="claim-t-66870"></a>
-- t-006
-  global_id: t-66870
+- t-003
   teiginys: "Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -176,8 +170,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - c-66974
 
 <a id="claim-t-66871"></a>
-- t-007
-  global_id: t-66871
+- t-002
   teiginys: "1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -234,7 +227,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12411
+    - t-006
+
 - id: c-14184
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -252,22 +246,15 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     kija dėl Dobrynės, nutraukė visus ryšius su Karūna, žinodamas,
     kad savarankiškumas, o ypač nedraugingas Lietuvos pasielgi­
     mas su Lenkija, negalėjo būti jos toleruojamas.
-  citata_rodoma: |
-    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
-    gistro suvažiavimas^1 ). Vytautas atvyko su puikia ir gau­
-    sia svita. Čia jisai, laikydamas save aukščiausiu Lietuvos kun.
-    (nors tas titulas priklausė tik Jogailai; jo vartojimas, sako Koch.,
-    yra aiškus Vytauto stokojimas lojalumo Jogailai ir Lenkijai),
-    atidavė Ordinui visą Žemaitiją^2 ), o iškilmingai patvirtindamas
-    visus reikalavimus kryžiuočių, besigrumiančių tuo metu su Len­
-    kija dėl Dobrynės, nutraukė visus ryšius su Karūna
+  citata_rodoma: "sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­\ngistro suvažiavimas^1 ). Vytautas atvyko su puikia ir gau­\nsia svita. Čia jisai, laikydamas save aukščiausiu Lietuvos kun.\n(nors tas titulas priklausė tik Jogailai; jo vartojimas, sako Koch.,\nyra aiškus Vytauto stokojimas lojalumo Jogailai ir Lenkijai),\natidavė Ordinui visą Žemaitiją^2 ), o iškilmingai patvirtindamas\nvisus reikalavimus kryžiuočių, besigrumiančių tuo metu su Len­\nkija dėl Dobrynės, nutraukė visus ryšius su Karūna"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12412
+    - t-007
+
 - id: c-14185
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -287,7 +274,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12413
+    - t-008
+
 - id: c-66972
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -306,7 +294,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66871
+    - t-002
+
 - id: c-66973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -320,17 +309,15 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     Salyno « amžinoji » taika, kurios pastovus įgyvendinimas būtų
     reiškęs ne tik grynai lietuvių gyvenamų žemių atidavimą ordinui,
     bet ir visišką Lietuvos nustūmimą nuo jūros, palietė dar kitus
-  citata_rodoma: |
-    Salyno « amžinoji » taika, kurios pastovus įgyvendinimas būtų
-    reiškęs ne tik grynai lietuvių gyvenamų žemių atidavimą ordinui,
-    bet ir visišką Lietuvos nustūmimą nuo jūros, palietė dar kitus
+  citata_rodoma: "Salyno « amžinoji » taika, kurios pastovus įgyvendinimas būtų\nreiškęs ne tik grynai lietuvių gyvenamų žemių atidavimą ordinui,\nbet ir visišką Lietuvos nustūmimą nuo jūros, palietė dar kitus"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66868
+    - t-004
+
 - id: c-66974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -349,7 +336,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66870
+    - t-003
+
 - id: c-66975
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -373,4 +361,4 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66869
+    - t-005

@@ -28,7 +28,6 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
 
 <a id="claim-t-201431"></a>
 - t-001
-  global_id: t-201431
   teiginys: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
 ## Citatos
 
 - id: c-184781
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienas jų — istorikas ir rašytojas Augustas
     Friedrichas Kotzebue, išleidęs „Senosios Prūsijos is­
@@ -60,4 +60,4 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201431
+    - t-001

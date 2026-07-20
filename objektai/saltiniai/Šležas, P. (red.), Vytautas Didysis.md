@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-32024"></a>
 - t-001
-  global_id: t-32024
   teiginys: "P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ media_all_json: |-
     Buches der Historia Poloniae des Johannes
     Długosz. Witold und Polen in den Jahren 1427-1430_ , AM, t. 30, 1893.
     — Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930.
-  citata_rodoma: |
-    — Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930.
+  citata_rodoma: "— Šležas, P. (red.) : _Vytautas Didysis,_ Kaunas 1930."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32024
+    - t-001

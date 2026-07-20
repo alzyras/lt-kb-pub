@@ -36,7 +36,6 @@ Dusburgietis teigia, kad savukynas B.
 
 <a id="claim-t-61283"></a>
 - t-001
-  global_id: t-61283
   teiginys: "B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad savukynas B.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61283
+    - t-001

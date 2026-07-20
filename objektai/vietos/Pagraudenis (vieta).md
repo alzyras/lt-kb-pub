@@ -41,7 +41,6 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
 
 <a id="claim-t-201137"></a>
 - t-001
-  global_id: t-201137
   teiginys: "Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
 
 <a id="claim-t-201138"></a>
 - t-002
-  global_id: t-201138
   teiginys: "Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -68,8 +66,9 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
 ## Citatos
 
 - id: c-184487
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu mistras kry­
     žėjų ginklaudino dvi kariauni ant lietuvių: vieną
@@ -92,11 +91,12 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201137
+    - t-001
 
 - id: c-184488
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kryžė­
     jai, turėdami tą už ženklą atenčios nelaimos, grįžo
@@ -121,4 +121,4 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201138
+    - t-002

@@ -38,8 +38,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 ## Teiginiai
 
 <a id="claim-t-52464"></a>
-- t-001
-  global_id: t-52464
+- t-002
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     - c-46415
 
 <a id="claim-t-52465"></a>
-- t-002
-  global_id: t-52465
+- t-001
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -86,16 +84,12 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
     ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
-  citata_rodoma: |
-    Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
-    sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-
-    navai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.
-    XIII amž.
+  citata_rodoma: "Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-\nsidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-\nnavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.\nXIII amž."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52464
-    - t-52465
+    - t-002
+    - t-001

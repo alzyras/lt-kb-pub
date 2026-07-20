@@ -35,8 +35,7 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 ## Teiginiai
 
 <a id="claim-t-31954"></a>
-- t-001
-  global_id: t-31954
+- t-002
   teiginys: "V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
     - c-33732
 
 <a id="claim-t-31955"></a>
-- t-002
-  global_id: t-31955
+- t-001
   teiginys: "V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,17 +85,15 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
     Apaštalų Sostui. Mindaugo karališkos karūnos klausimas nebesutiko **
 
     (^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259.
-  citata_rodoma: |
-    Mindaugo karališkos karūnos klausimas nebesutiko **
-
-    (^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259.
+  citata_rodoma: "Mindaugo karališkos karūnos klausimas nebesutiko **\n\n(^99) **V. T. Pašuto,** **_Očerki po istorii Galicko-Volynskoj Rusi_** **, 1950, 259."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31955
+    - t-001
+
 - id: c-33732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -106,14 +102,11 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
     — (”) PaRL. — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
     Litovskogo gosudarstva,_ Izvestija Akad.
-  citata_rodoma: |
-    — Pašuto, V. T. : _Očerki
-    po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii
-    Litovskogo gosudarstva,_ Izvestija Akad.
+  citata_rodoma: "— Pašuto, V. T. : _Očerki\npo istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii\nLitovskogo gosudarstva,_ Izvestija Akad."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31954
+    - t-002

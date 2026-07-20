@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-20524"></a>
 - t-001
-  global_id: t-20524
   teiginys: "Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
     giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
     laikotarpį.
-  citata_rodoma: |
-    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
+  citata_rodoma: "giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20524
+    - t-001

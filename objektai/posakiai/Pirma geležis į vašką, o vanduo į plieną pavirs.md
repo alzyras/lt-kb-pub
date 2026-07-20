@@ -37,7 +37,6 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
 
 <a id="claim-t-86877"></a>
 - t-001
-  global_id: t-86877
   teiginys: "Laiške žadėta, kad pirma geležis į vašką, o vanduo į plieną pavirs, nei bus sulaužytas ar atšauktas duotas žodis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86877
+    - t-001

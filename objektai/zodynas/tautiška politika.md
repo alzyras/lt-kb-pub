@@ -37,7 +37,6 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
 <a id="claim-t-72766"></a>
 - t-001
-  global_id: t-72766
   teiginys: "Vytenis, vykdydamas tautišką politiką ir kovodamas su Ordinu, rado sąjungininkų tarp krikščionių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
 <a id="claim-t-72768"></a>
 - t-002
-  global_id: t-72768
   teiginys: "Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +66,6 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
 <a id="claim-t-193160"></a>
 - t-003
-  global_id: t-193160
   teiginys: "Vytenis varė visiškai tokią pat tautišką politiką, kaip ir Traidenis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -92,16 +89,15 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
     Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
     damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
-  citata_rodoma: |
-    Varydamas tautišką politiką ir kovo-
-    damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
+  citata_rodoma: "Varydamas tautišką politiką ir kovo-\ndamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72766
+    - t-001
+
 - id: c-71139
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,20 +109,15 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
     Marijenburgas, —
     nuo 1309 m. kryžiuočių ordino magistro būstinė.
-  citata_rodoma: |
-    **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
-    Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
-    damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
-
-    Marijenburgas, —
-    nuo 1309 m.
+  citata_rodoma: "**Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis\nVytenio politikos vaisius. Varydamas tautišką politiką ir kovo-\ndamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.\n\nMarijenburgas, —\nnuo 1309 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72768
+    - t-002
+
 - id: c-175912
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,4 +133,4 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193160
+    - t-003

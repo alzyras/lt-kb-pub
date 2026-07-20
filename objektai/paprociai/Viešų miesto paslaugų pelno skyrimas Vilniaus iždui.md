@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-87186"></a>
 - t-001
-  global_id: t-87186
   teiginys: "Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -128,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87186
+    - t-001

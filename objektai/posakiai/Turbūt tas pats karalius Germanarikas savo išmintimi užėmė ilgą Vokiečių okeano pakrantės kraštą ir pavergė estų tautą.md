@@ -31,7 +31,6 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
 
 <a id="claim-t-192118"></a>
 - t-001
-  global_id: t-192118
   teiginys: "Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -67,19 +66,11 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
     vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
     ni estus, kalbėdamas apie karingus Odoakro vadovauja­
     mus herulus, kilusius iš estų tautos.
-  citata_rodoma: |
-    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
-      riko įtaką Europos vakaruose gyvenančioms tautoms ir
-      gentims, sako: „Turbūt tas pats karalius Germanarikas
-      savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
-      kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
-      vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
-      ni estus, kalbėdamas apie karingus Odoakro vadovauja­
-      mus herulus, kilusius iš estų tautos.
+  citata_rodoma: "Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-\n  riko įtaką Europos vakaruose gyvenančioms tautoms ir\n  gentims, sako: „Turbūt tas pats karalius Germanarikas\n  savo išmintimi užėmė ilgą Vokiečių okeano pakrantės\n  kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­\n  vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­\n  ni estus, kalbėdamas apie karingus Odoakro vadovauja­\n  mus herulus, kilusius iš estų tautos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192118
+    - t-001

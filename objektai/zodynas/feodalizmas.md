@@ -31,8 +31,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 ## Teiginiai
 
 <a id="claim-t-82051"></a>
-- t-001
-  global_id: t-82051
+- t-009
   teiginys: "Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78550
 
 <a id="claim-t-82052"></a>
-- t-002
-  global_id: t-82052
+- t-006
   teiginys: "Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78554
 
 <a id="claim-t-82054"></a>
-- t-003
-  global_id: t-82054
+- t-005
   teiginys: "Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +72,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78551
 
 <a id="claim-t-82055"></a>
-- t-004
-  global_id: t-82055
+- t-007
   teiginys: "Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,8 +88,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78552
 
 <a id="claim-t-82056"></a>
-- t-005
-  global_id: t-82056
+- t-008
   teiginys: "Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,8 +97,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78551
 
 <a id="claim-t-82057"></a>
-- t-006
-  global_id: t-82057
+- t-001
   teiginys: "Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -119,8 +113,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - c-78549
 
 <a id="claim-t-82058"></a>
-- t-007
-  global_id: t-82058
+- t-010
   teiginys: "Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -135,9 +128,9 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindžia:
     - c-78553
     - c-166346
+
 <a id="claim-t-82059"></a>
-- t-008
-  global_id: t-82059
+- t-004
   teiginys: "Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -174,7 +167,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82057
+    - t-001
+
 - id: c-78550
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -185,17 +179,15 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
     lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
-  citata_rodoma: |
-    Tik Lietuvos feoda-
-    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
-    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
+  citata_rodoma: "Tik Lietuvos feoda-\nlizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo\nne tiek bajorijos, kiek sritinių kunigaikščių teisėmis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82051
+    - t-009
+
 - id: c-78551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,23 +206,16 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
     tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
     prieš jų feodalinius valdovus.
-  citata_rodoma: |
-    Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
-    mės valdų savininkams metus klajoklišką gyvenimo būdą,
-    miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau
-    baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius
-    ir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­
-    puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
-    tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
-    prieš jų feodalinius valdovus.
+  citata_rodoma: "Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­\nmės valdų savininkams metus klajoklišką gyvenimo būdą,\nmiestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau\nbaronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius\nir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­\npuoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai\ntarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale\nprieš jų feodalinius valdovus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82054
-    - t-82056
+    - t-005
+    - t-008
+
 - id: c-78552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -250,8 +235,9 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82055
-    - t-82059
+    - t-007
+    - t-004
+
 - id: c-78553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -263,15 +249,15 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
-  citata_rodoma: |
-    Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
+  citata_rodoma: "Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82058
+    - t-010
+
 - id: c-78554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -291,7 +277,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82052
+    - t-006
+
 - id: c-166346
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -307,3 +294,5 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

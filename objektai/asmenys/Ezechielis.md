@@ -30,7 +30,6 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
 
 <a id="claim-t-191394"></a>
 - t-001
-  global_id: t-191394
   teiginys: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191394
+    - t-001

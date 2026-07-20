@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-41089"></a>
 - t-001
-  global_id: t-41089
   teiginys: "Vieną dieną po pietų dvylika Mokomosios kuopos vyrų, vadovaujamų vyresniojo puskarininkio, išvyko į žvalgybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-183664"></a>
 - t-002
-  global_id: t-183664
   teiginys: "Dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, kuriai vadovavo vyresnysis puskarininkis."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -77,16 +75,15 @@ media_all_json: |-
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
     žvalgybą, jiems vadovavo vyresnysis puskarininkis. Žvalgyba susi-
     tiko su keturiasdešimt lenkų raitelių.
-  citata_rodoma: |
-    „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
-    žvalgybą, jiems vadovavo vyresnysis puskarininkis.
+  citata_rodoma: "„Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į\nžvalgybą, jiems vadovavo vyresnysis puskarininkis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41089
+    - t-001
+
 - id: c-167056
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,4 +99,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183664
+    - t-002

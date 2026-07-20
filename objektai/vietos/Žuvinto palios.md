@@ -36,8 +36,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 ## Teiginiai
 
 <a id="claim-t-42414"></a>
-- t-001
-  global_id: t-42414
+- t-002
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     - c-45488
 
 <a id="claim-t-42415"></a>
-- t-002
-  global_id: t-42415
+- t-001
   teiginys: "Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 
 <a id="claim-t-183821"></a>
 - t-003
-  global_id: t-183821
   teiginys: "Dalis iš apsupties pasitraukusių partizanų rado prieglobstį Žuvinto paliose."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,8 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42415
+    - t-001
+
 - id: c-45488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -151,39 +149,15 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
     šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
     kulką iš vamzdžio, bet ir pertaisydavo spyną.
-  citata_rodoma: |
-    Žuvinto ežeras ir Palios buvo apsupti
-    šarvuočių. Lėktuvai raketų šūviais nuro-
-    dydavo įtartinas ežero vietas, o ginkluotų
-    kareivių pilnos valtys tuoj pat plaukdavo jų
-
-    Karas po karo
-
-    ## Puslapis 230
-
-    E
-    -
-    "a
-    a“
-    2
-    1
-    wy
-    st
-    a“
-    2
-
-    PUSIAU AUTOMATINIAI ŠAUTUVAI
-
-    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
-    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
-    kulką iš vamzdžio, bet ir pertaisydavo spyną.
+  citata_rodoma: "Žuvinto ežeras ir Palios buvo apsupti\nšarvuočių. Lėktuvai raketų šūviais nuro-\ndydavo įtartinas ežero vietas, o ginkluotų\nkareivių pilnos valtys tuoj pat plaukdavo jų\n\nKaras po karo\n\n## Puslapis 230\n\nE\n-\n\"a\na“\n2\n1\nwy\nst\na“\n2\n\nPUSIAU AUTOMATINIAI ŠAUTUVAI\n\nDar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose\nšūvio metu išsiskirianti parako dujų energija ne tik išstumdavo\nkulką iš vamzdžio, bet ir pertaisydavo spyną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42414
+    - t-002
+
 - id: c-167206
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -201,6 +175,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183821
+    - t-003
+
 ## Ryšiai
 - Puolė Žuvinto palios: [[objektai/grupes/NKVD]]

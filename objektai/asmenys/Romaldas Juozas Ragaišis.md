@@ -39,7 +39,6 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
 
 <a id="claim-t-19206"></a>
 - t-001
-  global_id: t-19206
   teiginys: "Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,12 +78,11 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
     prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
-  citata_rodoma: |
-    Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
+  citata_rodoma: "Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19206
+    - t-001

@@ -38,7 +38,6 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
 
 <a id="claim-t-188994"></a>
 - t-001
-  global_id: t-188994
   teiginys: "Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė tapo jo antrąja tėvyne."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
 
 <a id="claim-t-192655"></a>
 - t-003
-  global_id: t-192655
   teiginys: "Narbutas rašo, kad egiptiečiai gintarą žinojo Sacal vardu."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,19 +75,6 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175425
-
-<a id="claim-t-192654"></a>
-- t-002
-  global_id: t-192654
-  teiginys: 'Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutvarkytas OCR ir išnašos lūžis, paliekant tik citatoje esančią interpretaciją. Prielaida palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Egiptiečiai|Egiptiečiai]]; mentioned_group: [[objektai/grupes/Kolchai|Kolchai]]; mentioned_place: Azovas; llm_object: Egiptas'
-  semantiniai_rysiai: '[[objektai/grupes/Kolchai|Kolchai]] keliavo į Egiptas'
-  pagrindžia:
-    - c-002
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
@@ -111,11 +96,9 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
     vė pagrindą manyti, kad kolchai išėjo į Egiptą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192654
+  statusas: verified
 ## Citatos
 
 - id: c-171883
@@ -137,7 +120,8 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188994
+    - t-001
+
 - id: c-175425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -157,4 +141,4 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192655
+    - t-003

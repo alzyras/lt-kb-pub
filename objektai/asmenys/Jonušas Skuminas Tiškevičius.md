@@ -7,12 +7,12 @@ datos:
   - '1611 m.'
 date_start: '1611'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
 
 <a id="claim-t-202179"></a>
 - t-001
-  global_id: t-202179
   teiginys: "Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202179
+    - t-001

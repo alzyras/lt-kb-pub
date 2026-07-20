@@ -31,7 +31,6 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
 
 <a id="claim-t-40153"></a>
 - t-001
-  global_id: t-40153
   teiginys: "J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40153
+    - t-001

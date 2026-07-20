@@ -31,7 +31,6 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 
 <a id="claim-t-186017"></a>
 - t-001
-  global_id: t-186017
   teiginys: "Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 
 <a id="claim-t-186018"></a>
 - t-002
-  global_id: t-186018
   teiginys: "Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -71,7 +69,6 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 
 <a id="claim-t-196593"></a>
 - t-003
-  global_id: t-196593
   teiginys: "Stanislovas, paskelbęs kautynes lemiančiomis jo padėtį, paliko kitus rezerve ir su savo kariais stojo pirmosiose rikiuotės eilėse."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -85,7 +82,6 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 
 <a id="claim-t-196594"></a>
 - t-004
-  global_id: t-196594
   teiginys: "Kojelavičiaus pasakojime Stanislovas, kijeviečiams atstūmus lietuvius nuo sienų, gėdingai pabėgo į Riazanę ir neteko vilčių."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -131,23 +127,16 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     ginklus ir rankas, kurios, jo vedamos, sėkmingai lie­
     jo galybės priešų kraują, šito užteksią jiems įtikėti
     būsima pergale.
-  citata_rodoma: |
-    Įgavo drąsos ir
-    Stanislovas, iš anksto paskel­
-    bęs, jog šios kautynės lemiančios jo padėtį, todėl vi­
-    sus kitus paliko rezerve, o pats su savo kariais atsi­
-    stojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar
-    neregėdamas, skatino savo vyrus į kovą. Tegu jie ne­
-    užmirštą jo paskatų ir savo narsumo, kurį rodę dau­
-    gelyje pergalingų kovų.
+  citata_rodoma: "Įgavo drąsos ir \nStanislovas, iš anksto paskel­\nbęs, jog šios kautynės lemiančios jo padėtį, todėl vi­\nsus kitus paliko rezerve, o pats su savo kariais atsi­\nstojo pirmosiose rikiuotės eilėse. Gediminas, priešų dar \nneregėdamas, skatino savo vyrus į kovą. Tegu jie ne­\nužmirštą jo paskatų ir savo narsumo, kurį rodę dau­\ngelyje pergalingų kovų."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186017
-    - t-196593
+    - t-001
+    - t-003
+
 - id: c-169379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -168,5 +157,5 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186018
-    - t-196594
+    - t-002
+    - t-004

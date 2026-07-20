@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-88423"></a>
 - t-001
-  global_id: t-88423
   teiginys: "1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88423
+    - t-001

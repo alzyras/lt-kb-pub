@@ -36,7 +36,6 @@ Jablonskis buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » 
 
 <a id="claim-t-31810"></a>
 - t-001
-  global_id: t-31810
   teiginys: "Jablonskis buvo vienas iš 1961 m. išleistų „Lietuvos archeologijos bruožų“ redaktorių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,11 @@ Jablonskis buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » 
     Jis buvo ypač akmens amžiaus (mezolito) specialistas, ir Lietuvoje
     buvo surinkęs gausių radinių, duodamas, be kitko, progos vyriausiai
     dukrai Rimutei Rimantienei šitoje srityje tapti žymia proistorike.
-  citata_rodoma: |
-    Jablonskis
-    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
-    Jis buvo ypač akmens amžiaus (mezolito) specialistas, ir Lietuvoje
-    buvo surinkęs gausių radinių, duodamas, be kitko, progos vyriausiai
-    dukrai Rimutei Rimantienei šitoje srityje tapti žymia proistorike.
+  citata_rodoma: "Jablonskis\nbuvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).\nJis buvo ypač akmens amžiaus (mezolito) specialistas, ir Lietuvoje\nbuvo surinkęs gausių radinių, duodamas, be kitko, progos vyriausiai\ndukrai Rimutei Rimantienei šitoje srityje tapti žymia proistorike."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31810
+    - t-001

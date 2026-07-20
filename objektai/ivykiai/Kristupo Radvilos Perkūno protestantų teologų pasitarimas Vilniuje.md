@@ -7,10 +7,10 @@ datos:
   - '1585 m.'
 date_start: '1585'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-201950"></a>
 - t-001
-  global_id: t-201950
   teiginys: "Tiesa, Kauno liuteronai kviečiami neatsisakydavo dalyvauti liuteronų ir kalvinų susiėjimuose, kaip antai 1585 m. Kristupo Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitarime, kuriuo buvo siekiama suartinti kalvinus ir."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -56,6 +55,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185297
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -76,4 +78,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201950
+    - t-001

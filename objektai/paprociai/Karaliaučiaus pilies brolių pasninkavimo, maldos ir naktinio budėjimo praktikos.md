@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62681"></a>
-- t-001
-  global_id: t-62681
+- t-002
   teiginys: "Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,10 +69,9 @@ Nenurodyta
     - c-63426
 
 <a id="claim-t-62682"></a>
-- t-002
-  global_id: t-62682
+- t-001
   teiginys: "Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Albertas: 0.83"
@@ -86,11 +84,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63424
-    - c-63426
 
 <a id="claim-t-194440"></a>
-- t-003
-  global_id: t-194440
+- t-005
   teiginys: "Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,8 +98,7 @@ Nenurodyta
     - c-63424
 
 <a id="claim-t-194441"></a>
-- t-004
-  global_id: t-194441
+- t-006
   teiginys: "Apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -113,13 +108,11 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63426
+    - c-63424
 
-## Citatos
-
-- id: c-63424
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
@@ -129,21 +122,39 @@ Nenurodyta
     kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais ir trikdė jam
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-003
+    - t-005
+    - t-007
+
+## Citatos
+
+- id: c-63424
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
     Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje
 
       Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
     Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
     budėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
     pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
+  citata_rodoma: "Apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje\n\n  Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.\nJie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis\nbudėjo ir klūpojo bažnyčioje. Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios\npilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62682
-    - t-194440
+    - t-001
+    - t-005
+    - t-006
+
 - id: c-63426
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,23 +169,12 @@ Nenurodyta
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
     susigėdęs atstojo ir nebedrįso daugiau rodytis.
-  citata_rodoma: |
-    Apie kito brolio gyvenimą toje pačioje pilyje
-
-      Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
-    Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas
-    jam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją
-    naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi
-    kas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam
-    ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
-    dievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
-    susigėdęs atstojo ir nebedrįso daugiau rodytis.
+  citata_rodoma: "Apie kito brolio gyvenimą toje pačioje pilyje\n\n  Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus\nTeutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas\njam šios laimės, ėmė regzti visokiausių pinklių, norėdamas jam sukliudyti. Todėl pirmąją\nnaktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi\nkas naktį ištisus metus, mat velnias jam rodėsi įvairiausiais pavidalais  ir trikdė jam\nramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas\ndievui. Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo\nsusigėdęs atstojo ir nebedrįso daugiau rodytis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62681
-    - t-62682
-    - t-194441
+    - t-002
+    - t-006

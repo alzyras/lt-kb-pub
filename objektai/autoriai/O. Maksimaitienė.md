@@ -36,7 +36,6 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 
 <a id="claim-t-30883"></a>
 - t-001
-  global_id: t-30883
   teiginys: "O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,16 +75,11 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
     veiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
     166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
-  citata_rodoma: |
-    ;
-    O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
-    veiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
-    166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
-    apie to laiko žemėvaldos klausimus rašė L.
+  citata_rodoma: ";\nO. Maksimaitienė pateikė duomenų apie sukilėlių kovinius\nveiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-\n166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;\napie to laiko žemėvaldos klausimus rašė L."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30883
+    - t-001

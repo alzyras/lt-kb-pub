@@ -41,25 +41,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194080"></a>
-- t-001
-  global_id: t-194080
-  teiginys: 'Vislica viduramžiais buvo viena iš Mažosios Lenkijos bajorų suvažiavimų vietų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Subjektas išskleistas iš citatos pastabos apie Vislicą, o sakinys susietas su užrašo objektu. Opatovo aprašymas atmestas kaip šalutinė ir nesusijusi pastaba.'
-  pagrindžia:
-    - c-176693
-
-## Citatos
-
-- id: c-176693
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Vislica viduramžiais buvo viena iš Mažosios Lenkijos bajorų suvažiavimų vietų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km
     j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės
@@ -71,10 +57,8 @@ Nenurodyta
     *  Vlsllca — Lenkijos Kielcų vaivadijos miestas (apie 60 km
     j šiaurės rytus nuo Krokuvos!; viduramžiais buvo viena iš Mažo­
     sios Lenkijos bajorų suvažiavimų vielų.
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194080
+  statusas: not_found

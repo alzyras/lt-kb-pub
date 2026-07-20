@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40170"></a>
-- t-001
-  global_id: t-40170
+- t-002
   teiginys: "J. Čaplikas puolė Jestšembną, sustabdė lenkus ir galėjo atsitraukti į Gruškų-Liepynės liniją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-44368
 
 <a id="claim-t-40171"></a>
-- t-002
-  global_id: t-40171
+- t-001
   teiginys: "J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40171
+    - t-001
+
 - id: c-44368
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -92,15 +91,11 @@ media_all_json: |-
     Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
     naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
     tęsia nevaisingą Suvalkų puolimą.
-  citata_rodoma: |
-    Čaplikas puola Jestšembną, tai sustabdo len-
-    kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.
-
-    Rugsėjo 5 d.
+  citata_rodoma: "Čaplikas puola Jestšembną, tai sustabdo len-\nkus ir jis gali atsitraukti į Gruškų-Liepynės liniją.\n\nRugsėjo 5 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40170
+    - t-002

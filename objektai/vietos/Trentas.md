@@ -31,7 +31,6 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
 
 <a id="claim-t-192906"></a>
 - t-001
-  global_id: t-192906
   teiginys: "Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės kimbrų ainiai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192906
+    - t-001

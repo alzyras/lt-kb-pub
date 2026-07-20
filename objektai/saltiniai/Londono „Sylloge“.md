@@ -30,7 +30,6 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
 
 <a id="claim-t-190515"></a>
 - t-001
-  global_id: t-190515
   teiginys: "Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190515
+    - t-001

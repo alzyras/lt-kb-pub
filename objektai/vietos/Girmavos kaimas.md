@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 
 <a id="claim-t-90456"></a>
 - t-001
-  global_id: t-90456
   teiginys: "Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -45,10 +44,9 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86292
-    - c-002
+
 <a id="claim-t-90457"></a>
 - t-002
-  global_id: t-90457
   teiginys: "Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90456
+
 ## Citatos
 
 - id: c-86291
@@ -97,22 +94,15 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
     pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
-  citata_rodoma: |
-    Apie Girmavos valsčiaus nuniokojimą
-
-      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
-    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
-    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
-    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
-    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
+  citata_rodoma: "Apie Girmavos valsčiaus nuniokojimą\n\n  Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną\naprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90457
+    - t-002
+
 - id: c-86292
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,16 +117,11 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
-  citata_rodoma: |
-    Kristburgo komtūras, brolis Henrikas,
-    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
-    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
-    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
-    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai.
+  citata_rodoma: "Kristburgo komtūras, brolis Henrikas,\nvadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą\nprieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų\npilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug\nžmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90456
+    - t-001

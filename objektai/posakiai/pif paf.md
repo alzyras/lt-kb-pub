@@ -37,7 +37,6 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
 
 <a id="claim-t-41475"></a>
 - t-001
-  global_id: t-41475
   teiginys: "Filmo „Jausmai“ scenoje lietuviškasis Rembo pasisako už „pif paf“ - ginkluotą pasipriešinimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,23 +74,11 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
     Ką daryti, kai neturim valstybės, kai pristinga gu-
     drumo, neužtenka ryžto kovoti, kai jau žuvę paskutiniai he-
     rojai?
-  citata_rodoma: |
-    O ko verta Vytauto Žalakevičiaus
-    ir Almanto Grikevičiaus „Jausmų“ (1968) scena, kurioje, į užjūrį
-    planuojant persikelti rezistencijos vadams, svarstoma tolesnė
-    taikios (kada nustoti aukojus kraują, kai lietuvių tauta ir taip
-    maža) ir ginkluotos rezistencijos alternatyva Lietuvoje,
-    * olietuviškasis Rembo (jį vaidina legendinis Valaitis)
-    net ir tada pasisako už „pif paf“ - už ginkluotą
-    pasipriešinimą.
-
-    Ką daryti, kai neturim valstybės, kai pristinga gu-
-    drumo, neužtenka ryžto kovoti, kai jau žuvę paskutiniai he-
-    rojai?
+  citata_rodoma: "O ko verta Vytauto Žalakevičiaus\nir Almanto Grikevičiaus „Jausmų“ (1968) scena, kurioje, į užjūrį\nplanuojant persikelti rezistencijos vadams, svarstoma tolesnė\ntaikios (kada nustoti aukojus kraują, kai lietuvių tauta ir taip\nmaža) ir ginkluotos rezistencijos alternatyva Lietuvoje,\n* olietuviškasis Rembo (jį vaidina legendinis Valaitis)\nnet ir tada pasisako už „pif paf“ - už ginkluotą\npasipriešinimą.\n\nKą daryti, kai neturim valstybės, kai pristinga gu-\ndrumo, neužtenka ryžto kovoti, kai jau žuvę paskutiniai he-\nrojai?"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41475
+    - t-001

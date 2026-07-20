@@ -31,9 +31,8 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
 
 <a id="claim-t-189258"></a>
 - t-001
-  global_id: t-189258
   teiginys: "Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius)."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172146
-    - c-001
+
 <a id="claim-t-189259"></a>
 - t-002
-  global_id: t-189259
   teiginys: "Narbutas Vylingosios vardą veikiau sieja su Vilnia, kurią apibūdina kaip kadaise laivybai tikusią, sraunią ir vingiuotą upę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,24 +69,6 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   pagrindžia:
     - c-172147
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
-    nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
-    das savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,
-    perfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189258
 ## Citatos
 
 - id: c-172146
@@ -96,29 +76,21 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Nebent pripažintume,
-    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
-    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
-    įeina vanduo.
-    Yra vietų šlapiose pievose, kadaise užlietose vandeniu, pa­
-    našiai kaip Dugnai (Dugny) mano kaimelyje. Kaimiečiai iki
-    šiol tebepasakoja, kad ten, meldynuose, pasirodančios skais­
-    čios, nuogos mergos. Jos šokančios, linksmai išdykaujančios;
-    vargas tam, kurį suvilios jų klastingas gundymas.
-  citata_rodoma: |
     Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
     nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
     das savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,
     perfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­
     vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
     niaus arsenalo įtekančiai į Viliją.
+  citata_rodoma: "Čia negalime praleisti dar vieno Vilijos upės vardo aiški­\nnimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­\ndas savo žodyne (p. 446) rašo: Zdrada, Dolus, fraus, falacia,\nperfidia -  lietuviškai Vylius (Wilius). Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189258
+    - t-001
+
 - id: c-172147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -141,4 +113,4 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189259
+    - t-002

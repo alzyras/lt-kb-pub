@@ -28,7 +28,6 @@ Visiškai aišku, kad miestas, kaip naujakurys, 10 metų atleidžiamas nuo čin�
 
 <a id="claim-t-202259"></a>
 - t-001
-  global_id: t-202259
   teiginys: "Visiškai aišku, kad miestas, kaip naujakurys, 10 metų atleidžiamas nuo činšo, t."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Visiškai aišku, kad miestas, kaip naujakurys, 10 metų atleidžiamas nuo čin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202259
+    - t-001

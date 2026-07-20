@@ -7,12 +7,12 @@ datos:
   - '1541 m.'
 date_start: '1541'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykol
 
 <a id="claim-t-202193"></a>
 - t-001
-  global_id: t-202193
   teiginys: "O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių Kulvietį ir Vainą Pacevičių."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202193
+    - t-001

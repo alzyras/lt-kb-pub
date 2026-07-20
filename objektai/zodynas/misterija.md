@@ -30,7 +30,6 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
 
 <a id="claim-t-34250"></a>
 - t-001
-  global_id: t-34250
   teiginys: "Misterijos „Likimo keliais“ turinį sudaro pasakojimas apie Vincą Višvilį, siekusį prikelti Žvaigždikį, tai yra Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34250
+    - t-001

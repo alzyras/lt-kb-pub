@@ -35,9 +35,8 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
 
 ## Teiginiai
 
-<a id="claim-t-75484"></a>
-- t-001
-  global_id: t-75484
+<a id="claim-t-75482"></a>
+- t-003
   teiginys: "SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
     - c-23884
 
 <a id="claim-t-75483"></a>
-- t-002
-  global_id: t-75483
+- t-001
   teiginys: "Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,25 +100,15 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: |
-    Kovo 11 Aktas savo dvasia arti-
-    mas Lietuvos Tarybos 1918 m. pa-
-    skelbtam Vasario 16 Aktui, tačiau
-    nebesirėmė visuotinai pripažinta
-    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
-    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
-    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
-    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
-    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
-    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
-    teritoriją.
+  citata_rodoma: "Kovo 11 Aktas savo dvasia arti-\nmas Lietuvos Tarybos 1918 m. pa-\nskelbtam Vasario 16 Aktui, tačiau \nnebesirėmė visuotinai pripažinta \ntautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-\nsės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-\ntuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“ \nreferendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-\nreigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su \nsavo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą \nteritoriją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75483
+    - t-001
+
 - id: c-23884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,16 +123,11 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
     Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
     SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
     atšaukti Kovo 11 Aktą.
-  citata_rodoma: |
-    Belaukiant tarptautinio
-    Lietuvos pripažinimo
-    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
-    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
-    atšaukti Kovo 11 Aktą.
+  citata_rodoma: "Belaukiant tarptautinio  \nLietuvos pripažinimo\nApie Lietuvos nepriklausomybę nieko nenorėjo girdėti \nSSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo \natšaukti Kovo 11 Aktą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75484
+    - t-003

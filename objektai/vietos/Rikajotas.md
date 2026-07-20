@@ -31,7 +31,6 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
 
 <a id="claim-t-188967"></a>
 - t-001
-  global_id: t-188967
   teiginys: "Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nuomonę, kad ji galėjusi būti ta pati vieta kaip Romovė."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188967
+    - t-001

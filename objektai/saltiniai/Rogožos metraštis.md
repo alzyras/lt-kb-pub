@@ -37,8 +37,7 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 ## Teiginiai
 
 <a id="claim-t-08845"></a>
-- t-001
-  global_id: t-08845
+- t-004
   teiginys: "Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -54,8 +53,7 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     - c-11147
 
 <a id="claim-t-08846"></a>
-- t-002
-  global_id: t-08846
+- t-003
   teiginys: "Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -89,19 +87,15 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     pabrėžia Algirdo „mokėjimą kariauti“,
     „kariavimą gudrumu“, iškeliami jo kari-
     niai sugebėjimai.
-  citata_rodoma: |
-    Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nu-
-    švietusio Rogožos metraščio autorius
-    pabrėžia Algirdo „mokėjimą kariauti“,
-    „kariavimą gudrumu“, iškeliami jo kari-
-    niai sugebėjimai.
+  citata_rodoma: "Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nu-\nšvietusio Rogožos metraščio autorius\npabrėžia Algirdo „mokėjimą kariauti“,\n„kariavimą gudrumu“, iškeliami jo kari-\nniai sugebėjimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08845
+    - t-004
+
 - id: c-11148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -120,17 +114,11 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: |
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a. pirmosios pusės
-    rusų Tverės sąvade - Rogožos metraštyje
-    prieš 6871 (1363) m. sakoma, kad rudenį
-    Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“.
+  citata_rodoma: "Mėlynųjų Vandenų įvykių pagrindi-\nniai šaltiniai: žinios xv a. pirmosios pusės\nrusų Tverės sąvade - Rogožos metraštyje\nprieš 6871 (1363) m. sakoma, kad rudenį\nAlgirdas „Mėlynuosius Vandenis ir Baltąją\npakrantę nukariavo“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08846
+    - t-003

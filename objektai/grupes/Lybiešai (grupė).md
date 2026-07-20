@@ -33,7 +33,6 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
 
 <a id="claim-t-201250"></a>
 - t-001
-  global_id: t-201250
   teiginys: "Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
 ## Citatos
 
 - id: c-184600
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliais vadinos žemaičių saulėtekinis galas,
     tai yra gyvenančių paventy ir padaugavy. Nes jog
@@ -73,4 +73,4 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201250
+    - t-001

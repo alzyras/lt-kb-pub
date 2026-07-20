@@ -31,7 +31,6 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
 
 <a id="claim-t-186223"></a>
 - t-001
-  global_id: t-186223
   teiginys: "Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186223
+    - t-001

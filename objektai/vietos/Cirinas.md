@@ -30,10 +30,9 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
 ## Teiginiai
 
 <a id="claim-t-187215"></a>
-- t-001
-  global_id: t-187215
+- t-002
   teiginys: "LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
@@ -47,12 +46,9 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
   pagrindžia:
     - c-170284
 
-## Citatos
-
-- id: c-170284
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Savo ruožtu Vytau­
     tas siekė iškelti j chanus savo kandidatus, kurie vykdytų Lietuvos
@@ -68,14 +64,27 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
     dą, bei ir vėl buvo sugrįžusio Edlgėįaus išstumtas į LDK teritoriją
     ir 1409 m, pavasarį, Vytautui leidus, su broliais ir šalininkais sto­
     vyklavo prie Kijevo.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170284
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus
     nuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną
     po dešinei.
+  citata_rodoma: "1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus \nnuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną \npo dešinei."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187215
+    - t-002

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75395"></a>
-- t-001
-  global_id: t-75395
+- t-003
   teiginys: "Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas Sierakauskas pateko į nelaisvę ir buvo viešai pakartas Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-73196
 
 <a id="claim-t-75396"></a>
-- t-002
-  global_id: t-75396
+- t-001
   teiginys: "Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -104,20 +102,12 @@ Nenurodyta
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     109
     nas Mackevičius.
-  citata_rodoma: |
-    Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
-    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
-    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    109
-    nas Mackevičius.
+  citata_rodoma: "Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos \nvadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje. \nPo Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) \nsukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-\n\n3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )\n109\nnas Mackevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75395
-    - t-75396
+    - t-003
+    - t-001

@@ -37,7 +37,6 @@ Sokolovski, Dr.
 
 <a id="claim-t-36113"></a>
 - t-001
-  global_id: t-36113
   teiginys: "Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Sokolovski, Dr.
   citata_originali: |
     I.
     Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.
-  citata_rodoma: |
-    Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900.
+  citata_rodoma: "Sokolovski, Dr. Pr. Aug„ Dzieje Polski, tom. II, Warszawa, 1900."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36113
+    - t-001

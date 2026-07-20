@@ -31,7 +31,6 @@ Raibikio, ltn.
 
 <a id="claim-t-39634"></a>
 - t-001
-  global_id: t-39634
   teiginys: "Raibikis buvo 1-ojo bataliono leitenantas, kurio pasigedo pulko vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Raibikio, ltn.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39634
+    - t-001

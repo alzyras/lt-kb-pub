@@ -37,7 +37,6 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
 
 <a id="claim-t-88472"></a>
 - t-001
-  global_id: t-88472
   teiginys: "Rotundas 1560 m. vasario 12 d. Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,27 +79,11 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
     Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
     Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
-  citata_rodoma: |
-    XVI
-
-    ## Puslapis 17
-
-    MYKOLAS B A L I N S K I S
-    niaus
-    MIESTO ISTORIJA
-    Haec omnia, quae credidi esse patriae necessaria,
-    quae scribere mihi fas erat, vobis exponere arbitror:
-    vestrum judicium, non de mea voluntate, sed de opere exoro.
-    „Visa, ką maniau būsiant reikalinga tėvynei ir
-    ką man derėjo parašyti, nutariau išdėstyti jums,
-    ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ —
-    Rotundas  (Augustinas Mieleckis), Vilniaus vaitas,
-    Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
-    savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
+  citata_rodoma: "XVI\n\n## Puslapis 17\n\nMYKOLAS B A L I N S K I S\nniaus\nMIESTO ISTORIJA\nHaec omnia, quae credidi esse patriae necessaria, \nquae scribere mihi fas erat, vobis exponere arbitror: \nvestrum judicium, non de mea voluntate, sed de opere exoro.\n„Visa, ką maniau būsiant reikalinga tėvynei ir \nką man derėjo parašyti, nutariau išdėstyti jums, \nket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — \nRotundas  (Augustinas Mieleckis), Vilniaus vaitas, \nMikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam \nsavąją Lietuvos istoriją, kurios rankraštis yra dingęs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88472
+    - t-001

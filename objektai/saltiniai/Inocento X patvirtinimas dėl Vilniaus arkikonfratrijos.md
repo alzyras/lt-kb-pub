@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-88428"></a>
 - t-001
-  global_id: t-88428
   teiginys: "Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88428
+    - t-001

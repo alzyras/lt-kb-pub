@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-77820"></a>
 - t-001
-  global_id: t-77820
   teiginys: "Visi 79 kandidatai 1940 m. rinkimuose į Liaudies seimą atstovavo Lietuvos darbo liaudies sąjungai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-77821"></a>
 - t-002
-  global_id: t-77821
   teiginys: "Oficialiais duomenimis, 99,19 proc. balsavusiųjų 1940 m. liepos 14-15 d. rinkimuose balsavo už Lietuvos darbo liaudies sąjungos kandidatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77821
+    - t-002
+
 - id: c-75144
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,4 +114,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77820
+    - t-001

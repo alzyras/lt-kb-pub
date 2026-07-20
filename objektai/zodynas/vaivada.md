@@ -46,24 +46,15 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 
 <a id="claim-t-12600"></a>
 - t-001
-  global_id: t-12600
   teiginys: "Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vaivada: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vaivada\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-160263
+    - c-14722
 
 <a id="claim-t-176248"></a>
 - t-002
-  global_id: t-176248
   teiginys: "Lenkų karalystėje buvusios dignitorijos, kėdės ir urėdai turėjo būti įsteigti Vilniuje, įskaitant Vilniaus vaivadą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
@@ -79,8 +70,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - c-14722
 
 <a id="claim-t-184643"></a>
-- t-003
-  global_id: t-184643
+- t-004
   teiginys: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -100,12 +90,11 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-168004
-    - c-004
+
 <a id="claim-t-187532"></a>
-- t-004
-  global_id: t-187532
+- t-006
   teiginys: "Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-07-19 17:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,10 +113,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170482
-    - c-005
+
 <a id="claim-t-193163"></a>
-- t-005
-  global_id: t-193163
+- t-007
   teiginys: "Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -400,41 +388,45 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Po to prasidėjo ilgos tarpusavio rietenos, kurias
-    nuolat kurstė ir Vytautas, ir
-    lenkai, siuntinėdami žygūnus:
-    Lietuvos didysis kunigaikštis
-    stengėsi iš lenkų išgauti suti­
-    kimą, o šie — priversti Vy­
-    tautą atsisakyti savo sumany­
-    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
-    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
-    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
-    dovo reikalavimus.
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184643
+  statusas: verified
 - c-005
   santrauka: 'Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
-    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
-    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
-    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
-    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
-    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
+    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187532
+  statusas: verified
+
 ## Citatos
 
 - id: c-14722
@@ -452,7 +444,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176248
+    - t-001
+    - t-002
+
 - id: c-46936
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -470,7 +464,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193163
+    - t-007
+
 - id: c-160263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -481,38 +476,18 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     „dignitates, sedes et officia, prout in regno Poloniae instituta
     sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
     tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: |
-    „dignitates, sedes et officia, prout in regno Poloniae instituta
-    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
-    tellanus vilnensis et demum in Trokky“...^2 ).
+  citata_rodoma: "„dignitates, sedes et officia, prout in regno Poloniae instituta\nsunt, instituentur et locabantur in Vilna scilicet palatinus et cas­\ntellanus vilnensis et demum in Trokky“...^2 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-12600
 - id: c-168004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
-    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
-    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
-    suktiems imperatoriaus sumanymams, nusileistų žmo­
-    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
-    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
-    tą. Štai todėl karalius po senato posėdžio, net neatsi­
-    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
-    Atvykęs į Lenkiją, jis sukvie-
-    Išsiskiisto Lucko su-
-    tė Korčine seimą, norėdamas,
-    važiavimo dalyviai
-    kad karalystės luomai nu­
-    spręstų, kaip dera priešintis
-    nesaikingiems Vytauto potroškiams.
-  citata_rodoma: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir
     lenkai, siuntinėdami žygūnus:
@@ -524,38 +499,31 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
     Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
     dovo reikalavimus.
+  citata_rodoma: "Po to prasidėjo ilgos tarpusavio rietenos, kurias\nnuolat kurstė ir Vytautas, ir\nlenkai, siuntinėdami žygūnus:\nLietuvos didysis kunigaikštis\nstengėsi iš lenkų išgauti suti­\nkimą, o šie — priversti Vy­\ntautą atsisakyti savo sumany­\nmo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­\nniaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.\nLuomų susirinkime jie trumpai, bet aiškiai išdėstė val­\ndovo reikalavimus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184643
+    - t-004
+
 - id: c-170482
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
-    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
-    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
-    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
-    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
-    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
-    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
-    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
-    vardj — „in Arena" arba „na Piaskach".
-  citata_rodoma: |
     4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
     kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
     j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
     iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
     vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
     tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+  citata_rodoma: "4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­\nkotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias \nj vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas \niš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus \nvaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­\ntautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458)."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187532
+    - t-006

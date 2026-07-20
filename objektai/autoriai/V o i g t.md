@@ -28,7 +28,6 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
 
 <a id="claim-t-201428"></a>
 - t-001
-  global_id: t-201428
   teiginys: "Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui cistersų Olivos, drausda mas jį, idant liautųsi nuo tokių netaikų, skelbiant ne- 1 V o i g t, Preus."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
 ## Citatos
 
 - id: c-184778
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pajutęs tą, popiežius Inocentas III nurašė
     graudžią gromatą opatui cistersų Olivos, drausda­
@@ -55,4 +55,4 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201428
+    - t-001

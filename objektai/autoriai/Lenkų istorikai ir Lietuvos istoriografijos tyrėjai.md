@@ -37,8 +37,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 ## Teiginiai
 
 <a id="claim-t-179509"></a>
-- t-001
-  global_id: t-179509
+- t-008
   teiginys: "Po II pasaulinio karo jaunoji lenkų istorikų karta ėmė įžvalgiau ir objektyviau vertinti Lietuvos praeitį."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163216
 
 <a id="claim-t-179510"></a>
-- t-002
-  global_id: t-179510
+- t-020
   teiginys: "Po II pasaulinio karo J. Ochmańskio ir P. Lossowskio darbai rodė įžvalgesnį jaunosios lenkų istorikų kartos požiūrį į Lietuvos praeitį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +69,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163216
 
 <a id="claim-t-179511"></a>
-- t-003
-  global_id: t-179511
+- t-001
   teiginys: "J. Latkowskis pirmasis bandė nustatyti Lietuvos valstybės pradžios datą ir moksliškai tyrinėti karaliaus Mindaugo laikus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -88,8 +85,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163215
 
 <a id="claim-t-179514"></a>
-- t-004
-  global_id: t-179514
+- t-002
   teiginys: "O. Haleckis gausiais raštais paliko plačius pėdsakus Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -105,8 +101,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163206
 
 <a id="claim-t-179515"></a>
-- t-005
-  global_id: t-179515
+- t-009
   teiginys: "M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama ir sulaukė kelių laidų."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -124,8 +119,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163209
 
 <a id="claim-t-179516"></a>
-- t-006
-  global_id: t-179516
+- t-016
   teiginys: "O. Balzeris tyrinėjo Lenkijos ir Lietuvos unijos aktus ir leido svarbius teisės istorijos šaltinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -141,8 +135,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163203
 
 <a id="claim-t-179517"></a>
-- t-007
-  global_id: t-179517
+- t-005
   teiginys: "O. Balzeris buvo teisės istorikas ir svarbių šaltinių, tarp jų „Corpus iuris polonici“, leidėjas."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -158,8 +151,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163203
 
 <a id="claim-t-179518"></a>
-- t-008
-  global_id: t-179518
+- t-012
   teiginys: "Lenkų bibliografija Lietuvos istorijos klausimais buvo tokia gausi, kad aptarti pasirinkti svarbiausi Gediminaičių epochos tyrinėtojai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,8 +167,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163211
 
 <a id="claim-t-179519"></a>
-- t-009
-  global_id: t-179519
+- t-011
   teiginys: "W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -192,8 +183,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163205
 
 <a id="claim-t-179520"></a>
-- t-010
-  global_id: t-179520
+- t-015
   teiginys: "A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -209,8 +199,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163214
 
 <a id="claim-t-179521"></a>
-- t-011
-  global_id: t-179521
+- t-010
   teiginys: "J. Voigtas 1827-1838 m. veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -229,8 +218,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163210
 
 <a id="claim-t-179522"></a>
-- t-012
-  global_id: t-179522
+- t-013
   teiginys: "St. Zajączkowskis skyrė dėmesio Lietuvos istorijai, rašė apie žemaičius, jotvingius ir kitus XIII-XV a. Lietuvos klausimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -246,8 +234,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-30678
 
 <a id="claim-t-179523"></a>
-- t-013
-  global_id: t-179523
+- t-022
   teiginys: "J. Voigtas 1827-1838 m. devyniatomiame veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -266,8 +253,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163210
 
 <a id="claim-t-179524"></a>
-- t-014
-  global_id: t-179524
+- t-003
   teiginys: "A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -283,8 +269,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163214
 
 <a id="claim-t-179525"></a>
-- t-015
-  global_id: t-179525
+- t-018
   teiginys: "W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -303,8 +288,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163201
 
 <a id="claim-t-179526"></a>
-- t-016
-  global_id: t-179526
+- t-004
   teiginys: "Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -320,8 +304,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-30681
 
 <a id="claim-t-179527"></a>
-- t-017
-  global_id: t-179527
+- t-007
   teiginys: "W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -339,8 +322,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163201
 
 <a id="claim-t-179528"></a>
-- t-018
-  global_id: t-179528
+- t-021
   teiginys: "M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -359,8 +341,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-163209
 
 <a id="claim-t-179529"></a>
-- t-019
-  global_id: t-179529
+- t-006
   teiginys: "K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -393,7 +374,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179522
+    - t-013
+
 - id: c-30681
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -410,7 +392,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179526
+    - t-004
+
 - id: c-163201
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -423,19 +406,16 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
     visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
     iš 1947 m.
-  citata_rodoma: |
-    Čia reikia paminėti ir
-    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
-    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
-    iš 1947 m.
+  citata_rodoma: "Čia reikia paminėti ir\nW. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.\nvisuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra\niš 1947 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179525
-    - t-179527
+    - t-018
+    - t-007
+
 - id: c-163203
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -447,18 +427,16 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
     teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
     ir kt.) leidėjas O. Balzeris.
-  citata_rodoma: |
-    Juos tyrinėjo
-    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
-    ir kt.) leidėjas O. Balzeris.
+  citata_rodoma: "Juos tyrinėjo\nteisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici\nir kt.) leidėjas O. Balzeris."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179516
-    - t-179517
+    - t-016
+    - t-005
+
 - id: c-163205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -479,7 +457,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179519
+    - t-011
+
 - id: c-163206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -493,18 +472,15 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
     dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
     žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
-  citata_rodoma: |
-    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
-    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
-    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
-    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
+  citata_rodoma: "Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais\nraštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug\ndėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­\nžiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179514
+    - t-002
+
 - id: c-163207
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -517,17 +493,15 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
     Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
     Jakubowskis.
-  citata_rodoma: |
-    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
-    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
-    Jakubowskis.
+  citata_rodoma: "Daug dėmesio atskiriems Gediminaičių laikų klausimams ir\nLietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.\nJakubowskis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179529
+    - t-006
+
 - id: c-163209
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -542,19 +516,16 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
     gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
     anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: |
-    Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų.
+  citata_rodoma: "Iš senesniųjų isto­\nrikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­\ngaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija\nanuomet buvo labai vertinama ir susilaukė keletos laidų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179515
-    - t-179528
+    - t-009
+    - t-021
+
 - id: c-163210
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -568,20 +539,16 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
     iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
     des deutschen Ritterordens_ (1857-1859) ir CDPr.
-  citata_rodoma: |
-    Buvęs
-    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
-    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
-    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
-    des deutschen Ritterordens_ (1857-1859) ir CDPr.
+  citata_rodoma: "Buvęs\nKaraliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte\nPreusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva\niki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte\ndes deutschen Ritterordens_ (1857-1859) ir CDPr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179521
-    - t-179523
+    - t-010
+    - t-022
+
 - id: c-163211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -596,20 +563,15 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
     Mindaugo laikus^126.
-  citata_rodoma: |
-    Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
-    gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
-    tojais, ir tai labiausiai iš Gediminaičių epochos.
-    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
-    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
-    Mindaugo laikus^126.
+  citata_rodoma: "Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia\ngausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­\ntojais, ir tai labiausiai iš Gediminaičių epochos.\nJ. Latkowskis buvo pirmasis, kuris bandė nustatyti\nLietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus\nMindaugo laikus^126."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179518
+    - t-012
+
 - id: c-163214
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -629,25 +591,16 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
     1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
     ProW), bet dar davė daug atskirų tyrinėjimų^131.
-  citata_rodoma: |
-    **
-
-
-    84 ĮVADAS
-
-    Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus
-    lenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik
-    taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
-    1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
-    ProW), bet dar davė daug atskirų tyrinėjimų^131.
+  citata_rodoma: "**\n\n\n84 ĮVADAS\n\nSavo raštų gausumu apie XIV-XV amžiaus Lietuvą visus\nlenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik\ntaip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą\n1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,\nProW), bet dar davė daug atskirų tyrinėjimų^131."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179520
-    - t-179524
+    - t-015
+    - t-003
+
 - id: c-163215
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -666,7 +619,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179511
+    - t-001
+
 - id: c-163216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -678,16 +632,12 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
     rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
     kitų darbai.
-  citata_rodoma: |
-    Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
-    ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
-    rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
-    kitų darbai.
+  citata_rodoma: "Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija\nėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip\nrodo gausus J. Ochmańskio raštai, P. Lossowskio ir\nkitų darbai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179509
-    - t-179510
+    - t-008
+    - t-020

@@ -39,8 +39,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 ## Teiginiai
 
 <a id="claim-t-07711"></a>
-- t-001
-  global_id: t-07711
+- t-004
   teiginys: "Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -49,8 +48,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
     - c-09640
 
 <a id="claim-t-07712"></a>
-- t-002
-  global_id: t-07712
+- t-003
   teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -66,13 +64,12 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
-  citata_rodoma: |
-    Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
+  citata_rodoma: "Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07711
-    - t-07712
+    - t-004
+    - t-003

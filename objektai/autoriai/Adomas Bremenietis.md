@@ -43,7 +43,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-30554"></a>
 - t-001
-  global_id: t-30554
   teiginys: "Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-188391"></a>
 - t-002
-  global_id: t-188391
   teiginys: "Narbutas rašė, kad Adomas Bremenietis mini šventąjį ąžuolą, augusį Švedijoje netoli Upsalos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-188392"></a>
 - t-003
-  global_id: t-188392
   teiginys: "Narbutas teigė, kad, Adomo Bremeniečio pranešimu, švedų protėviai ypač laikėsi šventųjų ąžuolų tradicijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -105,9 +102,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-188393"></a>
 - t-004
-  global_id: t-188393
   teiginys: "Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,11 +111,10 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171284
-    - c-004
+    - c-171283
+
 <a id="claim-t-188394"></a>
 - t-005
-  global_id: t-188394
   teiginys: "Narbutas citavo Adomą Bremenietį apie Upsalos žynius: „de sacerdotibus, qui ad Ubsolam Daemonibus astare solebant“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -141,7 +136,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-190679"></a>
 - t-006
-  global_id: t-190679
   teiginys: "Adomas Bremenietis, Narbuto perteikimu, rašė apie didžiulę Baltijos jūros salą, vadintą Estlandija."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -162,7 +156,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-190680"></a>
 - t-007
-  global_id: t-190680
   teiginys: "Adomas Bremenietis, Narbuto aiškinimu, Balticum vardą siejo su Baltijos pakrančių baltais, priskirtais lietuvių genties tautoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -183,7 +176,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 
 <a id="claim-t-190681"></a>
 - t-008
-  global_id: t-190681
   teiginys: "Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -201,10 +193,9 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173563
-    - c-008
+
 <a id="claim-t-197575"></a>
 - t-009
-  global_id: t-197575
   teiginys: "Adomas Bremenietis priskyrė Lenkijai visą Prūsiją net iki Baltijos jūros; kaimynystėje jis randa rusus, kuriuos netinkamai vadina rutėnais, t."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -217,24 +208,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - susijęs iš [[objektai/posakiai/homines humanissimi.md#claim-t-31557|homines humanissimi]]: Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.
 - susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
-    šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
-    apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
-    mas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie
-    tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
-    krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
-    šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188393
 - c-008
   santrauka: 'Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -253,8 +226,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190681
+
 ## Citatos
 
 - id: c-32896
@@ -271,22 +243,15 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
     (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
     gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
-  citata_rodoma: |
-    O « Europos šiaurės Tacitas »,
-    arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta
-    Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas
-    Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė
-    daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius
-    su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
-    (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
-    gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
+  citata_rodoma: "O « Europos šiaurės Tacitas »,\narkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta\nHammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas\nSkandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė\ndaugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius\nsu švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»\n(« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą\ngelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30554
+    - t-001
+
 - id: c-171282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -308,7 +273,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188391
+    - t-002
+
 - id: c-171283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -330,21 +296,14 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188392
+    - t-003
+    - t-004
+
 - id: c-171284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
-    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
-    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
-    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
-    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
-    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
-    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
-    davo karalių, ponų ir prastuomenės didžios pagarbos.
-  citata_rodoma: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
     apiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­
@@ -352,13 +311,13 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     tai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad
     krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
     šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
+  citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188393
 - id: c-171285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -378,7 +337,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188394
+    - t-005
+
 - id: c-173561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -398,7 +358,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190679
+    - t-006
+
 - id: c-173562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -416,7 +377,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190680
+    - t-007
+
 - id: c-173563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -438,20 +400,12 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     jo amžiuje žinomas Rusias: vieną, per kurios vidurį plau­
     kė Nemunas iki lietuvių žemių, ir antrą, kurią kirto išėjęs
     iš Lietuvos5.
-  citata_rodoma: |
-    Ra-
-    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
-    sienas, mini Rusios problemą. Jis priskyrė Lenkijai visą
-    Prūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­
-    sus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4.
-    Tie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­
-    jusią Rusios vardą, kuris susimaišė su Nemuno aukštupio
-    slaviškumu.
+  citata_rodoma: "Ra- \ndevikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos \nsienas, mini Rusios problemą. Jis priskyrė Lenkijai visą \nPrūsiją net iki Baltijos jūros; kaimynystėje jis randa ru­\nsus, kuriuos netinkamai vadina rutėnais, t. y. rusinais4. \nTie ir vėlesni kronikininkai žinojo šią lietuvių žemę, turė­\njusią Rusios vardą, kuris susimaišė su Nemuno aukštupio \nslaviškumu."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190681
-    - t-197575
+    - t-008
+    - t-009

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-63385"></a>
-- t-001
-  global_id: t-63385
+- t-003
   teiginys: "1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-64427
 
 <a id="claim-t-63386"></a>
-- t-002
-  global_id: t-63386
+- t-001
   teiginys: "Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -97,8 +95,7 @@ Nenurodyta
     - c-166680
 
 <a id="claim-t-63387"></a>
-- t-003
-  global_id: t-63387
+- t-002
   teiginys: "Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-64429
 
 <a id="claim-t-63389"></a>
-- t-004
-  global_id: t-63389
+- t-005
   teiginys: "Žalgirio pergalė pakirto Vokiečių ordino hegemoniją ir pašalino jo egzistencinę grėsmę Lietuvai bei Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,8 +131,7 @@ Nenurodyta
     - c-64428
 
 <a id="claim-t-63390"></a>
-- t-005
-  global_id: t-63390
+- t-004
   teiginys: "Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja."
   atnaujinta: "2026-05-30 15:09"
   sprendimo_priezastis: "auto"
@@ -155,7 +150,6 @@ Nenurodyta
 
 <a id="claim-t-183291"></a>
 - t-006
-  global_id: t-183291
   teiginys: "1410 m. Žalgirio mūšyje jungtinė Lenkijos ir Lietuvos kariuomenė sutriuškino Vokiečių ordiną."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -187,23 +181,6 @@ Nenurodyta
 - susijęs iš St. Zaskevičius, Trijų elementų reikšmė Tannenbergo kautynėse: St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ.
 - susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
-## Reikšmingi paminėjimai
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Įėjo Vengrijos
-    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
-    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
-    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-64427
@@ -219,22 +196,15 @@ Nenurodyta
     1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
     vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
     šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
-  citata_rodoma: |
-    Apskritai Vytauto planas buvo įžūlus
-    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
-    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
-    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
-    somis Ordino pajėgomis.
-    1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
-    vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
-    šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
+  citata_rodoma: "Apskritai Vytauto planas buvo įžūlus \nir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo \npuolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-\ngiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-\nsomis Ordino pajėgomis. \n1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 \nvėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-\nšais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63385
+    - t-003
+
 - id: c-64428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -247,22 +217,16 @@ Nenurodyta
     riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: |
-    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
-    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
-    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
-    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
-    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
-    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
-    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
+  citata_rodoma: "Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors \nreikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai, \nbūtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė \negzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-\nriją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-\nlijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino \nteritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63389
-    - t-63390
+    - t-005
+    - t-004
+
 - id: c-64429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -274,20 +238,35 @@ Nenurodyta
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
     buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
     jūros.
-  citata_rodoma: |
-    Žalgirio mūšis
-    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
-    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
-    galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
-    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
-    jūros.
+  citata_rodoma: "Žalgirio mūšis\nNors popiežius uždraudė Vokiečių ordinui kariauti su ap-\nsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo \ngalinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis \nbuvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie \njūros."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63387
+    - t-002
+
+- id: c-64430
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
+  citata_rodoma: "Įėjo Vengrijos\nir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem\nnuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du\nkardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino\nmagistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam\nsusirėmimui ir su tais ginklais stoti drąsiai į kautynes at­\nviram lauke, bet nesislapstyti giriose, kaip iki šiol."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-166680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -295,7 +274,7 @@ Nenurodyta
   citata_originali: |
     1392–1430
     žymiausio Lietuvos valdovo Vytauto valdymo metai.
-    1410
+    1410 
     Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
     sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
     tencijai.
@@ -305,7 +284,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63386
-    - t-183291
+    - t-001
+    - t-006
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

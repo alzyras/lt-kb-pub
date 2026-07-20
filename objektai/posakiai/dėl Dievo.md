@@ -31,7 +31,6 @@ Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir die
 
 <a id="claim-t-189577"></a>
 - t-001
-  global_id: t-189577
   teiginys: "Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir dievų šaukimu būti liudytojais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir die
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189577
+    - t-001

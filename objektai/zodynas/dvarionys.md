@@ -31,7 +31,6 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
 
 <a id="claim-t-187554"></a>
 - t-001
-  global_id: t-187554
   teiginys: "Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -50,33 +49,7 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170504
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
-    NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR
-    LENKUOS VALDOVO ALEKSANDRO SUSIPYKIMĄ SU LIETUVOS
-    DIDIKAIS IR JO  PARALYŽIAVIMĄ
-    Tą patį rudenį1  pasiekė žinia karalių Aleksandrą,
-    kad totoriai, perėję Pripetės upę, siaubia valsčius. Ka­
-    ralius parašė Slucko kunigaikščiui Simonui Mykolai­
-    čiui 2  ir išsiuntė jam į pagalbą Podolės vaivadaitį poną
-    Joną Bučackį3 , o su juo savo dvarionis — lietuvius ir
-    rusus— ir nemaža vengrų algininkų. O Slucko kuni­
-    gaikštis Simonas su ponu vaivadaičiu ir su visais minė­
-    tais dvarionimis vijosi totorius ir nedaugelį jų pasivijo
-    už šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo
-    jų tik pusantro šimto.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-187554
+
 ## Citatos
 
 - id: c-170504
@@ -84,22 +57,6 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Ir ponas Iljiničius kreipėsi į Lietuvos Didžiosios Kuni­
-    gaikštystės Ponų Tarybą, pirmiausia į kunigaikštį Vai­
-    tiekų Taborą41, Vilniaus vyskupą, ir į Mikalojų Rad­
-    vilą, Vilniaus vaivadą42, ir į Trakų vaivadą poną Za-
-    berezinskį43, ir į poną Stanislovą Jonavičių, Žemaičių
-    seniūną, ir į Polocko vaivadą, poną Stanislovą Glebavi­
-    čių, ir į poną Stanislovą Petravičių Kišką, Smolensko
-    vietininką. Visi tie didikai, remdamiesi savąja krašto
-    privilegija, duota karaliaus sėdant jam į didžiojo ku­
-    nigaikščio sostą, neužleido Lydos Droždžai — paprastam
-    žmogui, o paliko ją Iljiničiui. Mat, regėjo privilegijoje
-    parašyta, kad nevalia atimti iš kieno nors garbę ir pa­
-    reiginę vietą, nebent drauge su herbu 44. Ir karalius už
-    tai užpyko. Ir išgirdo tai Mikalojus Mikolajaitis Rad­
-    vila.
-  citata_rodoma: |
     APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
     NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR
     LENKUOS VALDOVO ALEKSANDRO SUSIPYKIMĄ SU LIETUVOS
@@ -114,10 +71,11 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
     tais dvarionimis vijosi totorius ir nedaugelį jų pasivijo
     už šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo
     jų tik pusantro šimto.
+  citata_rodoma: "APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR\nNAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR \nLENKUOS VALDOVO ALEKSANDRO SUSIPYKIMĄ SU LIETUVOS \nDIDIKAIS IR JO  PARALYŽIAVIMĄ\nTą patį rudenį1  pasiekė žinia karalių Aleksandrą, \nkad totoriai, perėję Pripetės upę, siaubia valsčius. Ka­\nralius parašė Slucko kunigaikščiui Simonui Mykolai­\nčiui 2  ir išsiuntė jam į pagalbą Podolės vaivadaitį poną \nJoną Bučackį3 , o su juo savo dvarionis — lietuvius ir \nrusus— ir nemaža vengrų algininkų. O Slucko kuni­\ngaikštis Simonas su ponu vaivadaičiu ir su visais minė­\ntais dvarionimis vijosi totorius ir nedaugelį jų pasivijo \nuž šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo \njų tik pusantro šimto."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187554
+    - t-001

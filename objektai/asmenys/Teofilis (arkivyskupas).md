@@ -39,7 +39,6 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 
 <a id="claim-t-97510"></a>
 - t-001
-  global_id: t-97510
   teiginys: "Po arkivyskupo Teofilio mirties apie 1330 m. nebuvo paskirtas naujas įpėdinis."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 
 <a id="claim-t-97511"></a>
 - t-002
-  global_id: t-97511
   teiginys: "Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97510
+    - t-001
+
 - id: c-91985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -119,16 +118,11 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
     m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis.
-  citata_rodoma: |
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
-    naujas įpėdinis.
+  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97511
+    - t-002

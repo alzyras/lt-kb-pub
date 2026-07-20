@@ -37,7 +37,6 @@ Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 138
 
 <a id="claim-t-77856"></a>
 - t-001
-  global_id: t-77856
   teiginys: "Lietuvos istorijos autoriai Lietuvą iki Jogailos tapimo Lenkijos karaliumi 1386 m. vadina „savotiška arba nesistemine karalyste“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 138
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77856
+    - t-001

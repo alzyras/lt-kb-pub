@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-39558"></a>
 - t-001
-  global_id: t-39558
   teiginys: "1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,6 +80,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39558
+    - t-001
+
 ## Ryšiai
 - Jonas (Čekijos karalius) keliavo į [[objektai/vietos/Prūsija]]

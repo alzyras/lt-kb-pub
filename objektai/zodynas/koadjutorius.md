@@ -32,7 +32,6 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 
 <a id="claim-t-03036"></a>
 - t-001
-  global_id: t-03036
   teiginys: "Jurgis Radvila buvo vyskupo Protasevičiaus koadjutorius ir pačių jėzuitų į katalikybę atverstas vyskupas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 
 
     verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
-  citata_rodoma: |
-    Jais ypatingai rūpinosi vysk.
-    Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę at-
-    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
+  citata_rodoma: "Jais ypatingai rūpinosi vysk.\nProtasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę at-\nverstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-03036
+    - t-001

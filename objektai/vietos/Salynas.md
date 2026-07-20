@@ -39,8 +39,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 ## Teiginiai
 
 <a id="claim-t-51874"></a>
-- t-001
-  global_id: t-51874
+- t-002
   teiginys: "1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37708
 
 <a id="claim-t-51876"></a>
-- t-002
-  global_id: t-51876
+- t-007
   teiginys: "1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 
 <a id="claim-t-51877"></a>
 - t-003
-  global_id: t-51877
   teiginys: "Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37709
 
 <a id="claim-t-51878"></a>
-- t-004
-  global_id: t-51878
+- t-008
   teiginys: "1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37709
 
 <a id="claim-t-51879"></a>
-- t-005
-  global_id: t-51879
+- t-004
   teiginys: "1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37710
 
 <a id="claim-t-51880"></a>
-- t-006
-  global_id: t-51880
+- t-001
   teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -149,8 +143,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37707
 
 <a id="claim-t-183089"></a>
-- t-007
-  global_id: t-183089
+- t-005
   teiginys: "Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -238,7 +231,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51880
+    - t-001
+
 - id: c-37708
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -251,18 +245,16 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     ke ir totorius. Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
     sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
     gistro suvažiavimas^1 ).
-  citata_rodoma: |
-    Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
-    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
-    gistro suvažiavimas^1 ).
+  citata_rodoma: "Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­\nsta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­\ngistro suvažiavimas^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51874
-    - t-51876
+    - t-002
+    - t-007
+
 - id: c-37709
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -275,20 +267,16 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
     kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
     ke, pas karalių Zigmantą.
-  citata_rodoma: |
-    Tų pačių
-    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
-    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
-    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
-    ke, pas karalių Zigmantą.
+  citata_rodoma: "Tų pačių\nmetų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir\nRusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­\nkyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­\nke, pas karalių Zigmantą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51877
-    - t-51878
+    - t-003
+    - t-008
+
 - id: c-37710
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -304,7 +292,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-51879
+    - t-004
+
 - id: c-166477
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -322,6 +311,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183089
+    - t-005
+
 ## Ryšiai
 - Salynas priklausė [[objektai/vietos/Nemunas]]

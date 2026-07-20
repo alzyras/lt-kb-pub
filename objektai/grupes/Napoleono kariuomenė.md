@@ -39,8 +39,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 ## Teiginiai
 
 <a id="claim-t-43516"></a>
-- t-001
-  global_id: t-43516
+- t-002
   teiginys: "Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     - c-47009
 
 <a id="claim-t-43517"></a>
-- t-002
-  global_id: t-43517
+- t-001
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -90,17 +88,15 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
     sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
     boje.
-  citata_rodoma: |
-    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
-    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
-    boje.
+  citata_rodoma: "Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau\nsujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-\nboje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43517
+    - t-001
+
 - id: c-47009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,17 +105,15 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
     **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
     Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
     riuomenė pakeliui viską plėšė.
-  citata_rodoma: |
-    Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.
-    Išbadėjusi ir nuskurusi ka-
-    riuomenė pakeliui viską plėšė.
+  citata_rodoma: "Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.\nIšbadėjusi ir nuskurusi ka-\nriuomenė pakeliui viską plėšė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43516
+    - t-002
+
 - id: c-166314
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -136,6 +130,8 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Napoleono kariuomenė užėmė [[objektai/vietos/Lietuva]]

@@ -37,7 +37,6 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 
 <a id="claim-t-74054"></a>
 - t-001
-  global_id: t-74054
   teiginys: "Pirmojo pasaulio lietuvių kongreso prezidiumas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74054
+    - t-001

@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-186617"></a>
 - t-001
-  global_id: t-186617
   teiginys: "Po Žalgirio mūšio 1413 m. buvo apkrikštyta Žemaitija, o 1417 m. įsteigta Žemaičių vyskupija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -73,9 +72,9 @@ Nenurodyta
   pagrindžia:
     - c-169899
     - c-169900
+
 <a id="claim-t-186618"></a>
-- t-002
-  global_id: t-186618
+- t-006
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas paskyrė kanauninkus, apdovanojo bažnyčią turtais ir įsakė perkrikštyti Žemaitiją į krikščionių tikėjimą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -90,10 +89,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-    - c-001
+
 <a id="claim-t-186619"></a>
-- t-003
-  global_id: t-186619
+- t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -108,10 +106,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-    - c-001
+
 <a id="claim-t-186621"></a>
-- t-005
-  global_id: t-186621
+- t-007
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -126,7 +123,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -154,10 +151,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186618
-    - t-186619
+- t-186619
     - t-186621
+
 ## Citatos
 
 - id: c-169898
@@ -165,25 +161,6 @@ Nenurodyta
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Didysis kunigaikštis Vytautas
-    atsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­
-    bar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją,
-    o pinigų jums atiduoti neturiu."
-    Bet netrukus Vytautas ėmė rinkti pinigus ir surin­
-    kęs nusiuntė jiems visą auksinų sumą. Paėmę auksą,
-    jie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­
-    mybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­
-    mušti bei nuniokoti 8,
-    Tais pačiais metais Vytautas įsteigė Žemaičių vys­
-    kupiją ir pastatė švento Petro bažnyčią Medininkuose,
-    kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
-    nauninkus, apdovanojo bažnyčią turtais9 ir įsakė visą
-    Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­
-    čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug
-    bažnyčiųl0, todėl Vytautas pramintas antruoju dievo
-    apaštalu", kadangi jis pačius atkakliausius stabmel­
-    džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: |
     Tais pačiais metais Vytautas įsteigė Žemaičių vys­
     kupiją ir pastatė švento Petro bažnyčią Medininkuose,
     kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
@@ -193,15 +170,17 @@ Nenurodyta
     bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
+  citata_rodoma: "Tais pačiais metais Vytautas įsteigė Žemaičių vys­\nkupiją ir pastatė švento Petro bažnyčią Medininkuose, \nkuriuos žemaičiai dabar Varniais vadina; paskyrė ka­\nnauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą \nŽemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­\nčionių, apkrikštijo visą Užnerio žemę ir įkūrė daug \nbažnyčiųl0 , todėl Vytautas pramintas antruoju dievo \napaštalu\", kadangi jis pačius atkakliausius stabmel­\ndžius atvertė į krikščionių tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186618
-    - t-186619
-    - t-186621
+    - t-006
+    - t-005
+    - t-007
+
 - id: c-169899
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,21 +193,15 @@ Nenurodyta
     to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
     įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
     sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-  citata_rodoma: |
-    Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
-    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
-    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
-    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
-    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
-    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
-    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+  citata_rodoma: "Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-\nnytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-\ntauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai \npadaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186617
+    - t-001
+
 - id: c-169900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,17 +215,11 @@ Nenurodyta
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
-  citata_rodoma: |
-    Tai
-    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
-    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
-    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
-    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
-    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
-    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
-    Katalikų bažnyčia.
+  citata_rodoma: "Tai \npadaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-\nto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), \nįsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai \nsklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. \nBe to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-\nją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su \nKatalikų bažnyčia."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

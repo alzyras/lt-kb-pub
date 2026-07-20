@@ -39,7 +39,6 @@ Dusburgietis teigia, kad powierski J.
 
 <a id="claim-t-61239"></a>
 - t-001
-  global_id: t-61239
   teiginys: "J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,14 +61,11 @@ Dusburgietis teigia, kad powierski J.
     Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
     1977, 11, s.
-  citata_rodoma: |
-    Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
-    polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.
-      Powierski J.
+  citata_rodoma: "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków\npolsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.\n  Powierski J."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61239
+    - t-001

@@ -7,13 +7,13 @@ datos:
   - '1655 m.'
 date_start: '1655'
 date_end: ''
-amziai:
-  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - okupacija
   - ivykis
+amziai:
+  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,9 +49,8 @@ Nenurodyta
 
 <a id="claim-t-193477"></a>
 - t-001
-  global_id: t-193477
   teiginys: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,24 +59,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-176178
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
-    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
-    A. Kojelavičius dalyvavo ordino narių susirinkime
-    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
-    tiniu. Jos reikalais važinėjo į Romą!
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-193477
+
 ## Citatos
 
 - id: c-176178
@@ -85,24 +67,16 @@ Nenurodyta
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Po to iškel­
-    dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
-    ku bei kolegijos kunigu. Varšuvoje jis 1677 m. ir
-    mirė.
-    Toks ordino vadovybės elgesys su savo' nariu, tu­
-    rinčiu aukščiausius mokslo laipsnius ir didelę pedago­
-    ginę patirtį, verčia daryti prielaidą, kad šis iš Vijūkų
-    kilęs bajorėlis galėjo būti jai kuo nors nepageidautinas.
-  citata_rodoma: |
     1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
     okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
     A. Kojelavičius dalyvavo ordino narių susirinkime
     Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
     tiniu. Jos reikalais važinėjo į Romą!
+  citata_rodoma: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių\nokupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.\nA. Kojelavičius dalyvavo ordino narių susirinkime\nVaršuvoje, kur išrenkamas Lietuvos provincijos įgalio­\ntiniu. Jos reikalais važinėjo į Romą!"
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193477
+    - t-001

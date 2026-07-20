@@ -32,7 +32,6 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 
 <a id="claim-t-22196"></a>
 - t-001
-  global_id: t-22196
   teiginys: "Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 
 <a id="claim-t-183437"></a>
 - t-002
-  global_id: t-183437
   teiginys: "Po stačiatikių civilizacinio pranašumo praradimo Lietuvos valstybėje iškilo konfesinio dualizmo problema."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,15 +81,15 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
     ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
     našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
     negalėjo pretenduoti) problemą.
-  citata_rodoma: |
-    našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
+  citata_rodoma: "našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22196
+    - t-001
+
 - id: c-166832
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,4 +107,4 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183437
+    - t-002

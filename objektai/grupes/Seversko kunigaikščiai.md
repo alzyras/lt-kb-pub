@@ -30,8 +30,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
 ## Teiginiai
 
 <a id="claim-t-185437"></a>
-- t-001
-  global_id: t-185437
+- t-002
   teiginys: "Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos apibūdino kaip valstybės išdavimą ir valdų prijungimą prie Maskvos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -51,10 +50,9 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
     - c-168798
 
 <a id="claim-t-193339"></a>
-- t-002
-  global_id: t-193339
+- t-003
   teiginys: "Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,9 +60,40 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
-    - c-176067
     - c-178543
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat prieš keletą mėnesių labai turtingi
+    ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
+    tinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu­
+    sę ir pradėjo su savo kariaunomis puldinėti karaliaus
+    valdas. Sužinojęs apie šiuos
+    M a s k v o s galia auga,
+    įvykius, karalius tiek tepada-
+    b e t karaliu s K a zim ie-
+    rė, kad išsiuntė pas Vasilje-
+    ras
+    sten g ia si to ne-
+    vičių
+    pasiuntinį
+    Stanislovą
+    m a ty ti
+    Strumilą Petravičių protes­
+    tuoti dėl paliaubų sulaužymo.
+    O visos ginkluotos jėgos pasuko į Vengriją. Nenoromis
+    Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
+    prieš brolį ir jam kenkti; šį kartą, beje, jam dar prasčiau
+    pasisekė nei prieš metus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-168798
@@ -92,34 +121,13 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185437
+    - t-002
+
 - id: c-176067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Mat prieš keletą mėnesių labai turtingi
-    ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
-    tinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu­
-    sę ir pradėjo su savo kariaunomis puldinėti karaliaus
-    valdas. Sužinojęs apie šiuos
-    M a s k v o s galia auga,
-    įvykius, karalius tiek tepada-
-    b e t karaliu s K a zim ie-
-    rė, kad išsiuntė pas Vasilje-
-    ras
-    sten g ia si to ne-
-    vičių
-    pasiuntinį
-    Stanislovą
-    m a ty ti
-    Strumilą Petravičių protes­
-    tuoti dėl paliaubų sulaužymo.
-    O visos ginkluotos jėgos pasuko į Vengriją. Nenoromis
-    Jonas sutiko dalyvauti tame žygyje, nes turėjo kovoti
-    prieš brolį ir jam kenkti; šį kartą, beje, jam dar prasčiau
-    pasisekė nei prieš metus.
-  citata_rodoma: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
     Susirinko gausybė didikų, ypač daug — iš Seversko že­
@@ -137,13 +145,13 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
     stolį po kito. Visi ketino senate sutartinai paraginti ir
     šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
     tos žemės gynyba.
+  citata_rodoma: "Apie šiuos susitarimus karalius nieko nežinojo, mat\ntuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.\nSusirinko gausybė didikų, ypač daug — iš Seversko že­\nmės, nes visus juos baugino\nSeversko\nku n igaikš-\ndėl pavojingo artumo kaimy-\nčiai\natsiskiria\nnuo\nninės Maskvos galybė ir ver-\nL ie tu v o s\ntė labiau rūpintis valstybe,\nkuri iro, patirdama vieną nuo­\nstolį po kito. Visi ketino senate sutartinai paraginti ir\nšiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti\ntos žemės gynyba."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-193339
 - id: c-178543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -175,6 +183,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193339
+    - t-003
+
 ## Ryšiai
 - Seversko kunigaikščiai gyveno [[objektai/vietos/Seversko Naugardas]]

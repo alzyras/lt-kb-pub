@@ -44,8 +44,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 ## Teiginiai
 
 <a id="claim-t-07968"></a>
-- t-001
-  global_id: t-07968
+- t-003
   teiginys: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
   atnaujinta: "2026-05-20 21:56"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -61,8 +60,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     - c-10413
 
 <a id="claim-t-07969"></a>
-- t-002
-  global_id: t-07969
+- t-004
   teiginys: "Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -92,17 +90,15 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
         pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
         tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
-  citata_rodoma: |
-    Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
-    pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
-    tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
+  citata_rodoma: "Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai\npamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi\ntauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07969
+    - t-004
+
 - id: c-10413
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -111,14 +107,11 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
     Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
         Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
         paskendę.
-  citata_rodoma: |
-    Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
-    Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
-    paskendę.
+  citata_rodoma: "Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,\nKimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj\npaskendę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-07968
+    - t-003

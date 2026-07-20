@@ -31,7 +31,6 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 
 <a id="claim-t-40058"></a>
 - t-001
-  global_id: t-40058
   teiginys: "B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 
 <a id="claim-t-40059"></a>
 - t-002
-  global_id: t-40059
   teiginys: "Etmono svainis B. Zenavičius žuvo mūšyje su turkais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,18 +72,15 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
     atakavo puolančius turkus
     “8 iš dešinės, o Kuchovičiaus iš
     kairės. Jau sunkiai sergantis J. K. Chod-
-  citata_rodoma: |
-    B. Zenavičiaus LDK husarai
-    atakavo puolančius turkus
-    “8 iš dešinės, o Kuchovičiaus iš
-    kairės. Jau sunkiai sergantis J.
+  citata_rodoma: "B. Zenavičiaus LDK husarai\natakavo puolančius turkus\n“8 iš dešinės, o Kuchovičiaus iš\nkairės. Jau sunkiai sergantis J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40058
+    - t-001
+
 - id: c-44304
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,15 +97,11 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
     bandė pulti, bet mūšio metu turkų vadui
     į galvą pataikė kulka ir jo kariuomenė
     pasitraukė.
-  citata_rodoma: |
-    Šiame mūšyje žuvo etmono svainis
-    B. Zenavičius.
-
-    Rugsėjo 15 d.
+  citata_rodoma: "Šiame mūšyje žuvo etmono svainis\nB. Zenavičius.\n\nRugsėjo 15 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40059
+    - t-002

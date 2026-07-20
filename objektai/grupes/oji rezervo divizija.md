@@ -31,7 +31,6 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
 
 <a id="claim-t-80644"></a>
 - t-001
-  global_id: t-80644
   teiginys: "Sukilėliams delsiant pulti Vilnių, prie miesto artėjo rusų 1-oji rezervo divizija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80644
+    - t-001

@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31435"></a>
 - t-001
-  global_id: t-31435
   teiginys: "Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,7 @@ Nenurodyta
   pagrindžia:
     - c-33408
     - c-167709
+
 ## Citatos
 
 - id: c-33408
@@ -84,19 +84,15 @@ Nenurodyta
     1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,
     kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
     resais, 1381 m. persikėlė į Maskvos žemes.
-  citata_rodoma: |
-    Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
-    Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
-    1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,
-    kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
-    resais, 1381 m.
+  citata_rodoma: "Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.\nPrieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė\n1381 pavasarį atvirą maištą. O Lietuvos metropolitas Kiprijonas,\nkuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­\nresais, 1381 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31435
+    - t-001
+
 - id: c-167709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -113,3 +109,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

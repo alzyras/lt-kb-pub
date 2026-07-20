@@ -31,8 +31,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 ## Teiginiai
 
 <a id="claim-t-40368"></a>
-- t-001
-  global_id: t-40368
+- t-003
   teiginys: "Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 
 <a id="claim-t-40369"></a>
 - t-002
-  global_id: t-40369
   teiginys: "Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     - c-44475
 
 <a id="claim-t-40370"></a>
-- t-003
-  global_id: t-40370
+- t-001
   teiginys: "Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -102,23 +99,15 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     bejotinai mūšyje patyrė smūgį ir Ordinas,
     jis po mūšio nežygiavo gilyn į Lietuvą, bet
     grįžo atgal į Prūsiją.
-  citata_rodoma: |
-    Rusų metraščiai taip pat mini, kad „su-
-    mušė vokiečiai Lietuvą, nukovė Lietuvos
-    40 tūkstančių“, kad buvo nukautas „kuni-
-    gaikštis Narimantas Gediminaitis (Algirdo
-    ir Kęstučio brolis), o su juo kunigaikščių ir
-    vaivadų, ir Lietuvos daugybė“. Tačiau nea-
-    bejotinai mūšyje patyrė smūgį ir Ordinas,
-    jis po mūšio nežygiavo gilyn į Lietuvą, bet
-    grįžo atgal į Prūsiją.
+  citata_rodoma: "Rusų metraščiai taip pat mini, kad „su-\nmušė vokiečiai Lietuvą, nukovė Lietuvos\n40 tūkstančių“, kad buvo nukautas „kuni-\ngaikštis Narimantas Gediminaitis (Algirdo\nir Kęstučio brolis), o su juo kunigaikščių ir\nvaivadų, ir Lietuvos daugybė“. Tačiau nea-\nbejotinai mūšyje patyrė smūgį ir Ordinas,\njis po mūšio nežygiavo gilyn į Lietuvą, bet\ngrįžo atgal į Prūsiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40370
+    - t-001
+
 - id: c-44475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -134,20 +123,15 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 
     valdė Narimantas, t.y. Lietuvos vietininkas.
     Orechovo ir Veliuonos pilys buvo paimtos.
-  citata_rodoma: |
-    Rugpjūčio pradžioje švedai paėmė
-    Orechovą - svarbų strateginį punktą
-    Ladogos paežerėje, prie Nevos ištakų, kurį
-
-    valdė Narimantas, t.y. Lietuvos vietininkas.
-    Orechovo ir Veliuonos pilys buvo paimtos.
+  citata_rodoma: "Rugpjūčio pradžioje švedai paėmė\nOrechovą - svarbų strateginį punktą\nLadogos paežerėje, prie Nevos ištakų, kurį\n\nvaldė Narimantas, t.y. Lietuvos vietininkas.\nOrechovo ir Veliuonos pilys buvo paimtos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40369
+    - t-002
+
 - id: c-44476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,18 +150,14 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     Ladogos paežerėje, prie Nevos ištakų, kurį
 
     valdė Narimantas, t.y. Lietuvos vietininkas.
-  citata_rodoma: |
-    Rugpjūčio pradžioje švedai paėmė
-    Orechovą - svarbų strateginį punktą
-    Ladogos paežerėje, prie Nevos ištakų, kurį
-
-    valdė Narimantas, t.
+  citata_rodoma: "Rugpjūčio pradžioje švedai paėmė\nOrechovą - svarbų strateginį punktą\nLadogos paežerėje, prie Nevos ištakų, kurį\n\nvaldė Narimantas, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40368
+    - t-003
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

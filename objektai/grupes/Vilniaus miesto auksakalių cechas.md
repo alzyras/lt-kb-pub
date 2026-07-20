@@ -47,7 +47,6 @@ Vilniaus miesto amatininkų cechas.
 
 <a id="claim-t-55091"></a>
 - t-001
-  global_id: t-55091
   teiginys: "Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::groups"
@@ -64,7 +63,6 @@ Vilniaus miesto amatininkų cechas.
 
 <a id="claim-t-55092"></a>
 - t-002
-  global_id: t-55092
   teiginys: "Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::groups"
@@ -81,7 +79,6 @@ Vilniaus miesto amatininkų cechas.
 
 <a id="claim-t-55093"></a>
 - t-003
-  global_id: t-55093
   teiginys: "Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::groups"
@@ -126,8 +123,9 @@ Vilniaus miesto amatininkų cechas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55091
-    - t-55092
+    - t-001
+    - t-002
+
 - id: c-55903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,4 +150,4 @@ Vilniaus miesto amatininkų cechas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55093
+    - t-003

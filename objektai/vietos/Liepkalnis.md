@@ -36,8 +36,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 ## Teiginiai
 
 <a id="claim-t-41863"></a>
-- t-001
-  global_id: t-41863
+- t-002
   teiginys: "Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
     - c-43580
 
 <a id="claim-t-41864"></a>
-- t-002
-  global_id: t-41864
+- t-001
   teiginys: "Dauguma divizijos turėtų šešių pabūklų buvo išdėstyta Liepkalnio įtvirtinimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41863
+    - t-002
+
 - id: c-45180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,19 +100,11 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
     padaliniai - apie 1000 karių, tik 420 tu-
     réjo šautuvus, taip pat 7 artilerijos pabū-
     klus.
-  citata_rodoma: |
-    Divizija
-    turėjo 6 pabūklus, kurių dauguma buvo iš-
-    dėstyta įtvirtinimuose Liepkalnyje. Vilniaus
-    miesto įgulą sudarė nedideli 4-ojo ir 8-ojo
-    pėstininkų regimentų ir raitelių atsarginiai
-    padaliniai - apie 1000 karių, tik 420 tu-
-    réjo šautuvus, taip pat 7 artilerijos pabū-
-    klus.
+  citata_rodoma: "Divizija\nturėjo 6 pabūklus, kurių dauguma buvo iš-\ndėstyta įtvirtinimuose Liepkalnyje. Vilniaus\nmiesto įgulą sudarė nedideli 4-ojo ir 8-ojo\npėstininkų regimentų ir raitelių atsarginiai\npadaliniai - apie 1000 karių, tik 420 tu-\nréjo šautuvus, taip pat 7 artilerijos pabū-\nklus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41864
+    - t-001

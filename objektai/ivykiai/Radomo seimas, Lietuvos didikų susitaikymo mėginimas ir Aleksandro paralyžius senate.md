@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-185765"></a>
 - t-001
-  global_id: t-185765
   teiginys: "Radomo seime, Kojelavičiaus pasakojimu, karalius Aleksandras lenkams pažadėjo atsižvelgti į jų reikalavimus, bet sprendimą ketino perduoti lietuvių seimui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185765
+    - t-001

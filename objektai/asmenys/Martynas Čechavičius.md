@@ -7,12 +7,12 @@ datos:
   - '1633 m.'
 date_start: '1633'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202147"></a>
 - t-001
-  global_id: t-202147
   teiginys: "1633 m. Kauno miestas skundėsi Vladislovui Vazai, kad Kauno pavieto gėralų mokesčio rinkikas Martynas Čechavi čius išgavo Kauno pavieto kaptūrinio (tarpkaralmečio) teismo sprendimą, kuriuo Kauno miestas buvęs įpareigotas sumokėti rinkikui 1 500 auksinų baudą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202147
+    - t-001

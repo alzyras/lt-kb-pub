@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-35843"></a>
 - t-001
-  global_id: t-35843
   teiginys: "Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35843
+    - t-001

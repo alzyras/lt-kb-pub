@@ -28,7 +28,6 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
 
 <a id="claim-t-200795"></a>
 - t-001
-  global_id: t-200795
   teiginys: "Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Kotrynos bažnyčios išorės architektūrinį tipą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200795
+    - t-001

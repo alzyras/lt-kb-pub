@@ -47,29 +47,9 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
 ## Teiginiai
 
 <a id="claim-t-192214"></a>
-- t-001
-  global_id: t-192214
-  teiginys: "Narbutas nurodo, kad vėlesniais laikais Lietuvoje Bortiku vadinti artileristai."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Barta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bortikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Barta: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bortikas\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175070
-    - c-001
-<a id="claim-t-192215"></a>
 - t-002
-  global_id: t-192215
-  teiginys: "Narbutas Bortiką aiškina kaip vyrą, apsiginklavusį šoviniais, arba šaulį."
-  atnaujinta: "2026-07-12 22:34"
+  teiginys: "Narbutas nurodo, kad vėlesniais laikais Lietuvoje Bortiku vadinti artileristai."
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Barta: 0.83"
@@ -83,12 +63,29 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175070
-    - c-001
+
+<a id="claim-t-192215"></a>
+- t-001
+  teiginys: "Narbutas Bortiką aiškina kaip vyrą, apsiginklavusį šoviniais, arba šaulį."
+  atnaujinta: "2026-07-19 17:58"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Barta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bortikas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Barta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bortikas\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-175070
+
 <a id="claim-t-192555"></a>
 - t-003
-  global_id: t-192555
   teiginys: "Narbutas Bortiką sieja su Bartoje gyvenusia gentimi ir aiškina kaip šoviniais apsiginklavusį šaulį."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,24 +101,7 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175070
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
-    tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
-    šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
-    artileristus3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192214
-    - t-192215
-    - t-192555
+
 ## Citatos
 
 - id: c-175070
@@ -129,23 +109,17 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Tai kažkada buvo turtinga ir tankiai gyve­
-    nama provincija, turėjusi kelias labai galingas tvirtoves.
-    Rytuose ji ribojosi su Sūduva, pietuose — su Galinda,
-    vakaruose — su Varmija, o šiaurėje — su Natangija ir
-    Nadruva.
-    1 Sledzenie początkow Narodow Slawianskich.
-  citata_rodoma: |
     Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
     tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį
     šoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino
     artileristus3.
+  citata_rodoma: "Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­\ntis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį\nšoviniais šaulį. Vėlesniais laikais Lietuvoje taip vadino\nartileristus3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192214
-    - t-192215
-    - t-192555
+    - t-002
+    - t-001
+    - t-003

@@ -36,7 +36,6 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
 
 <a id="claim-t-191757"></a>
 - t-001
-  global_id: t-191757
   teiginys: "Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
 
 <a id="claim-t-191758"></a>
 - t-002
-  global_id: t-191758
   teiginys: "Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, priklausomu nuo Lietuvos didžiojo kunigaikščio ir mokėjusiu duoklę."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -102,7 +100,8 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191757
+    - t-001
+
 - id: c-174640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -124,4 +123,4 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191758
+    - t-002

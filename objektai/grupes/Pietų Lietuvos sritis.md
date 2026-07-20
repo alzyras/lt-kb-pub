@@ -38,7 +38,6 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 
 <a id="claim-t-54152"></a>
 - t-001
-  global_id: t-54152
   teiginys: "1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -90,37 +89,11 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
-  citata_rodoma: |
-    Lietuvos partizanų vadų
-    suvažiavimas. Minaičių kaimas
-    (tarp Radviliškio ir Baisogalos),
-    1949 m. vasario 11 d. Pakeliui
-
-    į suvažiavimą susitikę Vakarų
-    Lietuvos (Jūros) ir Pietų Lietuvos
-    (Nemuno) partizanų atstovai ir
-    vadai. Antroje eilėje (stovi) iš kairės:
-    ketvirtas - Vakarų Lietuvos srities
-    štabo viršininkas Vytautas Gužas-
-    Kardas, penktas - Tauro apygardos
-    vadas Aleksandras Grybinas-Faus-
-    tas, septintas — Vakarų Lietuvos sri-
-    ties vadas Aleksandras Milaševičius-
-    Ruonis, devintas - Pietų Lietuvos
-    srities vadas Adolfas Ramanauskas-
-    Vanagas, dešimtas - Kęstučio
-    apygardos štabo viršininkas
-    Robertas Gedvilas-Remigijus, vie-
-    nuoliktas - Vakarų Lietuvos srities
-    Agitacijos ir propagandos skyriaus
-    viršininkas Antanas Liesys-Idenas
-
-    pateko į iš anksto parengtą pasalą ir pa-
-    tyrę nuostolių buvo priversti grįžti atgal.
+  citata_rodoma: "Lietuvos partizanų vadų\nsuvažiavimas. Minaičių kaimas\n(tarp Radviliškio ir Baisogalos),\n1949 m. vasario 11 d. Pakeliui\n\nį suvažiavimą susitikę Vakarų\nLietuvos (Jūros) ir Pietų Lietuvos\n(Nemuno) partizanų atstovai ir\nvadai. Antroje eilėje (stovi) iš kairės:\nketvirtas - Vakarų Lietuvos srities\nštabo viršininkas Vytautas Gužas-\nKardas, penktas - Tauro apygardos\nvadas Aleksandras Grybinas-Faus-\ntas, septintas — Vakarų Lietuvos sri-\nties vadas Aleksandras Milaševičius-\nRuonis, devintas - Pietų Lietuvos\nsrities vadas Adolfas Ramanauskas-\nVanagas, dešimtas - Kęstučio\napygardos štabo viršininkas\nRobertas Gedvilas-Remigijus, vie-\nnuoliktas - Vakarų Lietuvos srities\nAgitacijos ir propagandos skyriaus\nviršininkas Antanas Liesys-Idenas\n\npateko į iš anksto parengtą pasalą ir pa-\ntyrę nuostolių buvo priversti grįžti atgal."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54152
+    - t-001

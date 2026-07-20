@@ -31,9 +31,8 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
 
 <a id="claim-t-189564"></a>
 - t-001
-  global_id: t-189564
   teiginys: "Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172452
-    - c-001
+
 <a id="claim-t-189565"></a>
 - t-002
-  global_id: t-189565
   teiginys: "Narbutas užrašą „ZEMAJTAS: MINZIOS“ skydelio pusėje aiškino kaip „Žemaičių moneta“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,25 +69,6 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   pagrindžia:
     - c-172453
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo, siejo su skaitymu „MENDOK: U“ ir „KUNI: DI“.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
-    mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
-    pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
-    žmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­
-    DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
-    čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
-    gaikštį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189564
 ## Citatos
 
 - id: c-172452
@@ -97,15 +76,6 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tik jos radimas šalia vieti­
-    nės primena, kad iki Mindaugo laikų, arba iki XIII amžiaus
-    antrosios pusės, čionykščių gyventojų rankose būta antikinių
-    monetų rinkinių, laikytų šalia vietinių.
-    III lentelė, 16-asis piešinys. Pagrindinė pusė: jauno žmo­
-    gaus, vainikuoto kunigaikščio mitra, biustas veidu į priekį; iš
-    kairės - vėliava su dviem įkirpimais. Senovinės liutnios pavi­
-    dalo apvadėlis.
-  citata_rodoma: |
     Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­
     mis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,
     pasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už
@@ -113,13 +83,15 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
     DOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­
     čio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­
     gaikštį.
+  citata_rodoma: "Aplinkui iškilus apvadas iš lapelių ar širdžių. Užrašas runo­\nmis; priešais žmogų -  runos, peskaitomos iš viršaus į apačią ir,\npasak išnagrinėjusio mokovo, reiškiančios MENDOK: U; už\nžmogaus -  iš apačios į viršų -  KUNI: DI. Santrumpoje MEN­\nDOK raidė U galėtų reikšti tam tikrą skaičių arba kunigaikš­\nčio pravardės pradinę raidę. Kunigas Didis reiškia didįjį kuni­\ngaikštį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189564
+    - t-001
+
 - id: c-172453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -137,4 +109,4 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189565
+    - t-002

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-28835"></a>
 - t-001
-  global_id: t-28835
   teiginys: "1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28835
+    - t-001

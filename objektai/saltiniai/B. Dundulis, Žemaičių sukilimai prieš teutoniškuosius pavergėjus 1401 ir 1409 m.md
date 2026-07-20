@@ -41,7 +41,6 @@ Dundulis, B.
 
 <a id="claim-t-31624"></a>
 - t-001
-  global_id: t-31624
   teiginys: "B. Dundulio „Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m.“ paskelbtas VUMD 6 tome 1955 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,16 +67,12 @@ Dundulis, B.
     Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
     niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
-    1399-1404,_ Przewodnik nauk.
-  citata_rodoma: |
-    Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
-    1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­
-    niai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach
-    1399-1404,_ Przewodnik nauk.
+    1399-1404,_ Przewodnik nauk. i liter., t. 34, 1906.
+  citata_rodoma: "Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus\n1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­\nniai). — Goyski, W. : _Wzajemne stosunki Polski, Litwy i Zakonu w latach\n1399-1404,_ Przewodnik nauk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31624
+    - t-001

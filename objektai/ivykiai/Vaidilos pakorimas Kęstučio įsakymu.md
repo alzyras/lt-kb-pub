@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-86960"></a>
 - t-001
-  global_id: t-86960
   teiginys: "Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86960
+    - t-001

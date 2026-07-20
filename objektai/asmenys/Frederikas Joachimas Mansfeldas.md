@@ -39,7 +39,6 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 
 <a id="claim-t-40107"></a>
 - t-001
-  global_id: t-40107
   teiginys: "Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 
 <a id="claim-t-40108"></a>
 - t-002
-  global_id: t-40108
   teiginys: "1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40107
+    - t-001
+
 - id: c-44329
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -108,19 +107,11 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
     dėjo Rygos miesto blokadą, neleisdamas
 
     4 nei finansinės paramos iš Lenkijos.
-  citata_rodoma: |
-    1608 m. vasarą Livonijoje išsilaipino grafo
-    Frederiko Joachimo Mansfeldo vadovau-
-    jamas 8000 Švedijos karių ekspedicinis
-    korpusas, kuris 1608 m. rugpjūčio 1 d.
-    užėmė Daugavgryvos senąją pilį ir pra-
-    dėjo Rygos miesto blokadą, neleisdamas
-
-    4 nei finansinės paramos iš Lenkijos.
+  citata_rodoma: "1608 m. vasarą Livonijoje išsilaipino grafo\nFrederiko Joachimo Mansfeldo vadovau-\njamas 8000 Švedijos karių ekspedicinis\nkorpusas, kuris 1608 m. rugpjūčio 1 d.\nužėmė Daugavgryvos senąją pilį ir pra-\ndėjo Rygos miesto blokadą, neleisdamas\n\n4 nei finansinės paramos iš Lenkijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40108
+    - t-002

@@ -30,8 +30,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 ## Teiginiai
 
 <a id="claim-t-40414"></a>
-- t-001
-  global_id: t-40414
+- t-002
   teiginys: "Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     - c-44506
 
 <a id="claim-t-40415"></a>
-- t-002
-  global_id: t-40415
+- t-003
   teiginys: "Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +62,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     - c-44504
 
 <a id="claim-t-40416"></a>
-- t-003
-  global_id: t-40416
+- t-001
   teiginys: "Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,19 +82,15 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     10 d. Jiezno puolimo karin. S. Zaskevičius
     su likusia rinktinės dalimi traukėsi
     Tverų kryptimi. Vakare pasiekusi netoli
-  citata_rodoma: |
-    Po nepavy-
-    kusio vasario
-    10 d. Jiezno puolimo karin. S. Zaskevičius
-    su likusia rinktinės dalimi traukėsi
-    Tverų kryptimi.
+  citata_rodoma: "Po nepavy-\nkusio vasario\n10 d. Jiezno puolimo karin. S. Zaskevičius\nsu likusia rinktinės dalimi traukėsi\nTverų kryptimi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40415
+    - t-003
+
 - id: c-44505
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,22 +105,15 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     pats tuometinis krašto
     apsaugos viceministras
     karin. S. Zaskevičius.
-  citata_rodoma: |
-    Atsižvelgiant į minėtos krypties
-    svarbą ir besiklostančios situaci-
-    jos pavojingumą, vadovauti |
-    operacijai, neutralizuo-
-    jant kilusį pavojų, ėmėsi
-    pats tuometinis krašto
-    apsaugos viceministras
-    karin. S. Zaskevičius.
+  citata_rodoma: "Atsižvelgiant į minėtos krypties\nsvarbą ir besiklostančios situaci-\njos pavojingumą, vadovauti |\noperacijai, neutralizuo-\njant kilusį pavojų, ėmėsi\npats tuometinis krašto\napsaugos viceministras\nkarin. S. Zaskevičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40416
+    - t-001
+
 - id: c-44506
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -143,17 +129,11 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     rintos kuopos dydžio S. Zas-
     kevičiaus vadovaujama rinktinė
     artėjo prie Jiezno.
-  citata_rodoma: |
-    Dauguma savano-
-
-    Vasario 10 d. ryte sustip-
-    rintos kuopos dydžio S. Zas-
-    kevičiaus vadovaujama rinktinė
-    artėjo prie Jiezno.
+  citata_rodoma: "Dauguma savano-\n\nVasario 10 d. ryte sustip-\nrintos kuopos dydžio S. Zas-\nkevičiaus vadovaujama rinktinė\nartėjo prie Jiezno."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40414
+    - t-002

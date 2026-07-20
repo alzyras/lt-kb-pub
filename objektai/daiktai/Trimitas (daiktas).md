@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201369"></a>
 - t-001
-  global_id: t-201369
   teiginys: "Taip apdrąsinąs karėjus, Gediminas liepė ženg ti toliaus, vienok saugodamos, idant neprieteliai pasalu neantpultų, kaipogi neilgai teėjus Gedimi nas, pavydęs eilas Sviatoslavo, liepė trimitus kovėn pūsti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184719
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gediminas,
     nujautęs tą nuo savo žvalgytojų, tuojau visą savo
@@ -89,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201369
+    - t-001

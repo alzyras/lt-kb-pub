@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201298"></a>
 - t-001
-  global_id: t-201298
   teiginys: "Pats Kęstu tis nukilo tenai, kurį kryžėjai vaišino ir godojo viešpatingai, visi jį trukindami pagal tų laikų do bę."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184648
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pats Kęstu­
     tis nukilo tenai, kurį kryžėjai vaišino ir godojo
@@ -75,4 +75,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201298
+    - t-001

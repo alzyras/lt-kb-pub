@@ -50,19 +50,6 @@ media_all_json: |-
 
 Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei žaidimų kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195641"></a>
-- t-001
-  global_id: t-195641
-  teiginys: "Šulmilčiai šiame šaltinyje duodami vaikams tešlai ir lipdiniams."
-  atnaujinta: "2026-07-12 08:46"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178043
-
 ## Citatos
 
 - id: c-178043
@@ -71,16 +58,10 @@ Terminas vartojamas šalutinio kruopų gamybos produkto ir vaikų maisto bei ža
   puslapiai: "p. 172 (PDF 170)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 172 (PDF 170)."
   citata_originali: |
-    Dirbant kruopas palieka liekanos smulkių miltų, va­
-    dinamų „šulmilčiais“ . Juos atiduodavo mažiukams. Iš jų dirbdavome
-    kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipy­
-    davome arkliukus ir žmogiukus.
-  citata_rodoma: |
     Juos atiduodavo mažiukams. Iš jų dirbdavome kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipydavome arkliukus ir žmogiukus.
+  citata_rodoma: "Juos atiduodavo mažiukams. Iš jų dirbdavome kietą tešlą, kurią gardžiai valgydavome, o kas nesuvalgyta, iš to lipydavome arkliukus ir žmogiukus."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195641

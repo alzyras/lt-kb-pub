@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-67007"></a>
 - t-001
-  global_id: t-67007
   teiginys: "Šapokos istorijoje paneigiama, kad Čičinskas 1652 m. pirmasis liberum veto teise išardė seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67007
+    - t-001

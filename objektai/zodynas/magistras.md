@@ -38,7 +38,6 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 
 <a id="claim-t-175181"></a>
 - t-001
-  global_id: t-175181
   teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     - c-159335
 
 <a id="claim-t-193151"></a>
-- t-002
-  global_id: t-193151
+- t-003
   teiginys: "Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -67,22 +65,8 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   pagrindžia:
     - c-159335
 
-<a id="claim-t-193382"></a>
-- t-003
-  global_id: t-193382
-  teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176107
-
 <a id="claim-t-196381"></a>
-- t-004
-  global_id: t-196381
+- t-005
   teiginys: "Kojelavičius magistru vadina vadą, kuris Vokietijoje pasisamdė dešimt tūkstančių algininkų ir įsiveržė į karaliui priklausiusias Prūsijos apygardas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -814,17 +798,16 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
     čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
-  citata_rodoma: |
-    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
-    tas pamišėliu ir pašalintas iš vietos.
+  citata_rodoma: "Viso nepasisekimo kaltininkas, magistras, buvo paskelb-\ntas pamišėliu ir pašalintas iš vietos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175181
-    - t-193151
+    - t-001
+    - t-003
+
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -846,24 +829,11 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
     su šia kariuomene, vedama maršalo Ditricho fon Šen-
     bergo, į tas Prūsijos apygardas, kurios priklausė kara­
     liui.
-  citata_rodoma: |
-    Mat tą raštą paliepė susukti į ritinėlį
-    ir užantspauduoti, kad pasiuntiniai negalėtų sužinoti
-    jo turinio nenuplėšę antspaudo, o pažeidus antspau­
-    dą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­
-    kos reikalas Maskvoje dėl visokių atsitiktinių dalykų,
-    o gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­
-    jaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­
-    plieskė karas. Magistras, už didelius pinigus pasisam­
-    dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
-    su šia kariuomene, vedama maršalo Ditricho fon Šen-
-    bergo, į tas Prūsijos apygardas, kurios priklausė kara­
-    liui.
+  citata_rodoma: "Mat tą raštą paliepė susukti į ritinėlį \nir užantspauduoti, kad pasiuntiniai negalėtų sužinoti \njo turinio nenuplėšę antspaudo, o pažeidus antspau­\ndą, maskvėnai, aišku, tuo raštu nebepasitikėtų. Kai tai­\nkos reikalas Maskvoje dėl visokių atsitiktinių dalykų, \no gal — ir šitai arčiau tiesos — dėl sąmoningų Vasili­\njaus veiksmų buvo visaip vilkinamas, Prūsijoje įsi­\nplieskė karas. Magistras, už didelius pinigus pasisam­\ndęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė \nsu šia kariuomene, vedama maršalo Ditricho fon Šen- \nbergo, į tas Prūsijos apygardas, kurios priklausė kara­\nliui."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193382
-    - t-196381
+    - t-005

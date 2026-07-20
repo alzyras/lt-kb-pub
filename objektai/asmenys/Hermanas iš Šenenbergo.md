@@ -40,7 +40,6 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 
 <a id="claim-t-60327"></a>
 - t-001
-  global_id: t-60327
   teiginys: "Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -92,4 +91,4 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60327
+    - t-001

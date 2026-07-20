@@ -40,7 +40,6 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
 
 <a id="claim-t-29465"></a>
 - t-001
-  global_id: t-29465
   teiginys: "Edm. Długopolski 1951 m. Vroclave išleido veikalą „Władysław Łokietek na tle swoich czasów“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-29465
+    - t-001

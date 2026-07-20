@@ -31,7 +31,6 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
 
 <a id="claim-t-86846"></a>
 - t-001
-  global_id: t-86846
   teiginys: "Formulė „Harum Testimonio Literarum“ vartota dokumente, prie kurio buvo prikabintas Lietuvos Didžiosios Kunigaikštystės antspaudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86846
+    - t-001

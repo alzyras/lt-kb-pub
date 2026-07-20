@@ -45,9 +45,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-Nenurodyta
-
 ## Citatos
 
 - id: c-169054

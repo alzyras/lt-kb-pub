@@ -37,7 +37,6 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
 
 <a id="claim-t-86613"></a>
 - t-001
-  global_id: t-86613
   teiginys: "Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86613
+    - t-001

@@ -31,7 +31,6 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
 
 <a id="claim-t-189079"></a>
 - t-001
-  global_id: t-189079
   teiginys: "Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kroniszkas-Pilnis vadintas apkasas arba piliakalnis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189079
+    - t-001

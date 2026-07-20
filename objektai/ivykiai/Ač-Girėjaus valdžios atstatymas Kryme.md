@@ -10,14 +10,14 @@ datos:
   - '1971 m.'
 date_start: '1438'
 date_end: '1971'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
   - ivykis
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -63,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-186758"></a>
 - t-001
-  global_id: t-186758
   teiginys: "1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -83,12 +82,9 @@ Nenurodyta
   pagrindžia:
     - c-169966
 
-## Citatos
-
-- id: c-169966
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Kryžiuočių valdžioje liko tik sostinė Marien­
     burgas, Choinlcų ir Stumo pilys. Lenkija deklaravo Prūsijos inkor­
@@ -101,15 +97,28 @@ Nenurodyta
     kryžiuočių
     Choinicų
     pilies.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169966
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
     Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
     grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
     menj BK piešia kitaip, negu J. Dlugošas.
+  citata_rodoma: "M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą \nKryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus \ngrižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid- \nmenj BK piešia kitaip, negu J. Dlugošas."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186758
+    - t-001

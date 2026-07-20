@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31967"></a>
 - t-001
-  global_id: t-31967
   teiginys: "„Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,14 +72,11 @@ media_all_json: |-
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: |
-    ) ;** **_Vileišio laiškai lietuviškų
-    knygų spausdinimo klausimu_** **(BBK, t. 7, 1969, 201-214 p.); kiti jo straips­
-    niai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t.
+  citata_rodoma: ") ;** **_Vileišio laiškai lietuviškų\nknygų spausdinimo klausimu_** **(BBK, t. 7, 1969, 201-214 p.); kiti jo straips­\nniai :** **_Lietuvių nacionalinio judėjimo periodizavimo klausimu_** **(Problemos, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31967
+    - t-001

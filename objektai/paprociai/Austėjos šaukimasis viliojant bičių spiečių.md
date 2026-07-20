@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-188140"></a>
-- t-001
-  global_id: t-188140
+- t-003
   teiginys: "Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188140
+    - t-003

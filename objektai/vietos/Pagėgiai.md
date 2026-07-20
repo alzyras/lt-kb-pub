@@ -30,8 +30,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 ## Teiginiai
 
 <a id="claim-t-41996"></a>
-- t-001
-  global_id: t-41996
+- t-002
   teiginys: "Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     - c-45254
 
 <a id="claim-t-41997"></a>
-- t-002
-  global_id: t-41997
+- t-001
   teiginys: "Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 
 <a id="claim-t-41998"></a>
 - t-003
-  global_id: t-41998
   teiginys: "Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +101,8 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41997
+    - t-001
+
 - id: c-45254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -119,22 +117,15 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     7 Klaipėdos priemiesčiuose, nepaisant jo sau-
     sio 3 d. visa Klaipėda apsupama iš sausumos
     pusės.
-  citata_rodoma: |
-    @ UM. Kalmantavičiaus-Bajoro vadovaujama
-    grupė be pasipriešinimo užima Pagėgius, o
-    Jakšto-Kalvaičio vadovaujama III grupė Šilutę.
-
-    160 Pirmoji pasipriešinimą sutinka I sukilėlių grupė
-
-    7 Klaipėdos priemiesčiuose, nepaisant jo sau-
-    sio 3 d.
+  citata_rodoma: "@ UM. Kalmantavičiaus-Bajoro vadovaujama\ngrupė be pasipriešinimo užima Pagėgius, o\nJakšto-Kalvaičio vadovaujama III grupė Šilutę.\n\n160 Pirmoji pasipriešinimą sutinka I sukilėlių grupė\n\n7 Klaipėdos priemiesčiuose, nepaisant jo sau-\nsio 3 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41996
+    - t-002
+
 - id: c-45255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -148,16 +139,11 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     ginantys prancūzai palaipsniui stumiami
     į miesto centrą ir galiausiai priverčiami
     pasiduoti.
-  citata_rodoma: |
-    [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir
-    III grupių sukilėlių dalis, pagrindinių sukilėlių
-    pajėgų sustiprinimui.
-
-    @ Naktį prasideda lemiamas puolimas.
+  citata_rodoma: "[0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir\nIII grupių sukilėlių dalis, pagrindinių sukilėlių\npajėgų sustiprinimui.\n\n@ Naktį prasideda lemiamas puolimas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41998
+    - t-003

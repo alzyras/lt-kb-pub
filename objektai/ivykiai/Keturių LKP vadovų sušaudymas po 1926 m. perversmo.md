@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-20219"></a>
 - t-001
-  global_id: t-20219
   teiginys: "Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,12 +87,11 @@ Nenurodyta
     dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
     tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
     jaus nematė.
-  citata_rodoma: |
-    Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
+  citata_rodoma: "Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20219
+    - t-001

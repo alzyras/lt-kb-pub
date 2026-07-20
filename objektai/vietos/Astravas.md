@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-199241"></a>
 - t-001
-  global_id: t-199241
   teiginys: "1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -82,27 +81,11 @@ media_all_json: |-
     karaliumi
     Jogaila ir karaliene Jadvyga buvo apibrėžti
     dviem aklais, rašytais 1392 m. rugplūčio 4 d. Astrave, netoli Lydos.
-  citata_rodoma: |
-    •’ Šitaip lis sakinys sulormuluotas tik BK. stengiantis iškelti,
-    kad Vytautas pats išsikovojo Lietuvos Didžiąją Kunigaikštystę, o  ne
-    gavo ją ii Lenkijos karaliaus Jogailos, kaip pastarojo vietininkas.
-    Visuose kituose Lietuvos metraščių nuorašuose šioje vietoje teigiama
-    aiškiau ir tiksliau: „O didysis kunigaikštis Vytautas apsvarstė su
-    savo kunigaikščiais — su Beiro kunigaikščiu Jurgiu Narimantalčlu ir
-    su kunigaikščiu Jonu Algimantaičiu, sugrįžo j Lietuvą ir atsisėdo
-    Vilniuje | savo dėdės, didžiojo kunigaikščio Algirdo, ir | savo tė­
-    vo, didžiojo kunigaikščio Kęstučio, sostą valdyti Lietuvos Didžiosios
-    kunigaikštystės."
-    “  Vytautas atsimetė nuo kryžiuočių 1392 m. birželio pabaigo­
-    je—liepos pradžioje, sudeginęs kryžiuočių jam  duotą Ritersverderio
-    Pllj-
-    Tolimesnė teisinė bei politinė Vytauto padėtis ir santykis su
-    Lenkijos karaliumi Jogaila ir karaliene Jadvyga buvo apibrėžti
-    dviem aklais, rašytais 1392 m. rugplūčio 4 d. Astrave, netoli Lydos.
+  citata_rodoma: "•’ Šitaip lis sakinys sulormuluotas tik BK. stengiantis iškelti, \nkad Vytautas pats išsikovojo Lietuvos Didžiąją Kunigaikštystę, o  ne \ngavo ją ii Lenkijos karaliaus Jogailos, kaip pastarojo vietininkas. \nVisuose kituose Lietuvos metraščių nuorašuose šioje vietoje teigiama \naiškiau ir tiksliau: „O didysis kunigaikštis Vytautas apsvarstė su \nsavo kunigaikščiais — su Beiro kunigaikščiu Jurgiu Narimantalčlu ir \nsu kunigaikščiu Jonu Algimantaičiu, sugrįžo j Lietuvą ir atsisėdo \nVilniuje | savo dėdės, didžiojo kunigaikščio Algirdo, ir | savo tė­\nvo, didžiojo kunigaikščio Kęstučio, sostą valdyti Lietuvos Didžiosios \nkunigaikštystės.\"\n“  Vytautas atsimetė nuo kryžiuočių 1392 m. birželio pabaigo­\nje—liepos pradžioje, sudeginęs kryžiuočių jam  duotą Ritersverderio \nPllj-\nTolimesnė teisinė bei politinė Vytauto padėtis ir santykis su \nLenkijos karaliumi Jogaila ir karaliene Jadvyga buvo apibrėžti \ndviem aklais, rašytais 1392 m. rugplūčio 4 d. Astrave, netoli Lydos."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199241
+    - t-001

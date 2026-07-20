@@ -7,12 +7,12 @@ datos:
   - '1603 m.'
 date_start: '1603'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsir
 
 <a id="claim-t-202189"></a>
 - t-001
-  global_id: t-202189
   teiginys: "Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsirado naujlĮ verslovininklĮ· 1603 m. Kauno ir kitos girios buvo išnuomotos 4 metams Jonušui Eperjašui ir Krišpinui Kiršenšteinui, ill sutartys su valdovu buvo tęsiamos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202189
+    - t-001

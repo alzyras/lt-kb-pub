@@ -39,7 +39,6 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 
 <a id="claim-t-31031"></a>
 - t-001
-  global_id: t-31031
   teiginys: "V. K. Jaśkiewicz paskelbė studiją apie Jono Lasickio aprašytus žemaičių dievus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,15 +66,11 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
     (^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's
     Samogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**
     (^43) **Išl. Vilniuje 1848 ; naujai išl.
-  citata_rodoma: |
-    **
-    (^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's
-    Samogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**
-    (^43) **Išl.
+  citata_rodoma: "**\n(^42) **V. K. Jaśkiewicz :** **_A Study in Lithuanian Mythologie. Juan Lasicki's\nSamogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**\n(^43) **Išl."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31031
+    - t-001

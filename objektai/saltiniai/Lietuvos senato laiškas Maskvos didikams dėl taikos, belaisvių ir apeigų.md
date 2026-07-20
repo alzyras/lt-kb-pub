@@ -30,7 +30,6 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
 
 <a id="claim-t-186338"></a>
 - t-001
-  global_id: t-186338
   teiginys: "Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186338
+    - t-001

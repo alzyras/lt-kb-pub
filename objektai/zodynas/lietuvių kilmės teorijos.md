@@ -44,7 +44,6 @@ istoriografija, kilmės aiškinimai
 
 <a id="claim-t-192133"></a>
 - t-001
-  global_id: t-192133
   teiginys: "Narbuto antrojo tomo įvadinis tekstas lietuvių kilmės teorijas pristato kaip nuo Renesanso žinotą istoriografinį lauką."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -78,17 +77,11 @@ istoriografija, kilmės aiškinimai
     tiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau
     atsiradusi heruiiškoji lietuvių tautos genezės teorija —
     dviejų pirmųjų junginys.
-  citata_rodoma: |
-    Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
-    ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
-    LTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,
-    tiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau
-    atsiradusi heruiiškoji lietuvių tautos genezės teorija —
-    dviejų pirmųjų junginys.
+  citata_rodoma: "Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­\nti dar su Renesanso laikotarpiu, buvo puikiai žinomos\nLTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,\ntiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau\natsiradusi heruiiškoji lietuvių tautos genezės teorija —\ndviejų pirmųjų junginys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192133
+    - t-001

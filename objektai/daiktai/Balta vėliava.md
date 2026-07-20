@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-201364"></a>
 - t-001
-  global_id: t-201364
   teiginys: "Pasakoja tų laikų rašytojai, jog danams, arba saulėlydiniams žuvėdams, vienoj kru vinoj ir maringoj mūšoj būk iš dangaus balta vė liava nusileidusi, kuriuo ženklu pastiprinti danai per laužę rindą netikėlių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184714
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas pats nestengsiąs su meldžionimis
     nei netikėlių sudrausti, nei gudų ištremti iš Padau-
@@ -81,4 +81,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201364
+    - t-001

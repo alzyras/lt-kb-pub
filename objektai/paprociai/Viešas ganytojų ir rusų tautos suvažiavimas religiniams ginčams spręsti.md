@@ -45,8 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-196328"></a>
-- t-001
-  global_id: t-196328
+- t-003
   teiginys: "Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -89,31 +88,11 @@ Nenurodyta
     sus kitus graikų paklydimus, kaip ir šie, atsisakė Vytau­
     to valdose klausyti popiežiaus ir bendrauti su Romos
     bažnyčia.
-  citata_rodoma: |
-    Tais pačiais metais
-    K o n sta n tin o p o lio im-
-    nusiuntė Rytų imperatoriui,
-    p era to riu i
-    siunčia
-    turkų antpuolių baisiai iška-
-    m a isto
-    muotam, iš savo valdų daug
-    visokio maisto. Šios siuntos,
-    upėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha-
-    čibėjaus, tuo metu Lietuvai priklausiusio uosto, buvo
-    gabenamos didesniais laivais į Konstantinopolį.
-    Po karo suiručių susilau-
-    V y ta u la s p u ola schiz-
-    kęs ramybės, Vytautas pasi-
-    m ą, p lin ta n čią jo va i-
-    juto saugus ir uoliai įniko
-    d o se
-    ginti visoje valstybėje tikrą­
-    jį tikėjimą.
+  citata_rodoma: "Tais pačiais metais \nK o n sta n tin o p o lio im- \nnusiuntė Rytų imperatoriui,\np era to riu i \nsiunčia \nturkų antpuolių baisiai iška-\nm a isto \nmuotam, iš savo valdų daug\nvisokio maisto. Šios siuntos, \nupėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha- \nčibėjaus, tuo metu Lietuvai priklausiusio uosto, buvo \ngabenamos didesniais laivais į Konstantinopolį.\nPo karo suiručių susilau- \nV y ta u la s p u ola schiz- \nkęs ramybės, Vytautas pasi-\nm ą, p lin ta n čią jo va i- \njuto saugus ir uoliai įniko\nd o se \nginti visoje valstybėje tikrą­\njį tikėjimą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196328
+    - t-003

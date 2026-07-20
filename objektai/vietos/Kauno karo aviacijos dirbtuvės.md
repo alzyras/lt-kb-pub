@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-15268"></a>
 - t-001
-  global_id: t-15268
   teiginys: "Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,13 +66,11 @@ media_all_json: |-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: |
-    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
-    jos dirbtuvėse.
+  citata_rodoma: "66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-\njos dirbtuvėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-15268
+    - t-001

@@ -32,7 +32,6 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
 
 <a id="claim-t-60738"></a>
 - t-001
-  global_id: t-60738
   teiginys: "A. Kučinskas pateikė argumentų, leidžiančių abejoti Kęstučio priesaikos tikrumu ir jo, kaip vyriausiojo kunigo, funkcijomis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60738
+    - t-001

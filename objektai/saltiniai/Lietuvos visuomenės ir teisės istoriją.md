@@ -36,7 +36,6 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
 
 <a id="claim-t-31826"></a>
 - t-001
-  global_id: t-31826
   teiginys: "1920 m. buvo išleista „Lietuvos visuomenės ir teisės istorija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,14 +63,11 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
     Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas
     St. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės
     istoriją».
-  citata_rodoma: |
-    Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas
-    St. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės
-    istoriją».
+  citata_rodoma: "Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas\nSt. Kutrzebą, jau 1920 m. davė «Lietuvos visuomenės ir teisės\nistoriją»."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31826
+    - t-001

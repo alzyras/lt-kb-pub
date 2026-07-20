@@ -32,9 +32,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 
 <a id="claim-t-190077"></a>
 - t-001
-  global_id: t-190077
   teiginys: "Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,7 +52,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 
 <a id="claim-t-192602"></a>
 - t-002
-  global_id: t-192602
   teiginys: "Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 
 <a id="claim-t-197443"></a>
 - t-003
-  global_id: t-197443
   teiginys: "Stanislovas Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -87,7 +84,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 
 <a id="claim-t-197814"></a>
 - t-004
-  global_id: t-197814
   teiginys: "Simonas Laurinavičius atsiradęs iš skiedrų, kurios buvo naudojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pastatas negali būti pavadintas vardu daikto, naudoto statyboje) daro prielaidą, jog galėjo būti kilę iš žodžio arklys (Ą'on), nes prie šventyklų būdavo laikomi šventieji arkliai, ir net įstatymai būdavo kuriami vadinamuosiuose arklių suvažiavimuose, t."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,12 +94,10 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   pagrindžia:
     - c-179351
 
-## Citatos
-
-- id: c-172960
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Pačiuose Prūsuose yra panašių
     vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
@@ -120,7 +114,19 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
     Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
     vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
     ir vyriausioji šventykla.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-172960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
     nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į
@@ -133,13 +139,15 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
     dijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­
     nė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­
     suose.
+  citata_rodoma: "Tai ir buvo toji šventykla, vėliau paversta svirnu,\ntai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­\nnyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į\nmokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars\nRomana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė\nponas Laurinavičius -  garbingasis Kauno mokyklos profesorius\nir prefektas)*.\nKur ir kokios šventyklos buvo tikrojoje Lietuvoje, Žemai­\ntijoje ir latvių žemėse iki XIII amžiaus -  apie tai istorijos liu­\ndijimų neturime; nieko reikšmingo ir negalėjo būti, nes religi­\nnė sostinė Romovė ir vyriausiojo žynio rezidencija buvo Prū­\nsuose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190077
+    - t-001
+
 - id: c-175373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -156,7 +164,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192602
+    - t-002
+
 - id: c-179190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -178,7 +187,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197443
+    - t-003
+
 - id: c-179351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -202,4 +212,4 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197814
+    - t-004

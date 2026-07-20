@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31710"></a>
 - t-001
-  global_id: t-31710
   teiginys: "P. Kulikausko „Issledovanie archeologičeskich pamiatnikov Litvy“ paskelbta 1952 m. leidinio „Kratkie soobščenija“ 42 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ media_all_json: |-
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: |
-    — Kulikauskas,
-    P. : _Issledovanie archeologičeskich pamiatnikov Litvy,_ Kratkie soobščenija
-    o dokladach i polevych issledovanijach Institutą Istorii Materijallnoj
-    kultury, t. 42, 1952, 92-107 p.
+  citata_rodoma: "— Kulikauskas,\nP. : _Issledovanie archeologičeskich pamiatnikov Litvy,_ Kratkie soobščenija\no dokladach i polevych issledovanijach Institutą Istorii Materijallnoj\nkultury, t. 42, 1952, 92-107 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31710
+    - t-001

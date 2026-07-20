@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-191054"></a>
 - t-001
-  global_id: t-191054
   teiginys: "Narbutas vilkų-liutikų tautą sieja su jau II a. po Kristaus gimimo rašytinėse istorijose minima vilkų tauta."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-191055"></a>
 - t-002
-  global_id: t-191055
   teiginys: "Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191054
+    - t-001
+
 - id: c-173937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -127,4 +126,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191055
+    - t-002

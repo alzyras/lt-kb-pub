@@ -30,7 +30,6 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
 
 <a id="claim-t-191814"></a>
 - t-001
-  global_id: t-191814
   teiginys: "Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191814
+    - t-001

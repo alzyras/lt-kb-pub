@@ -31,9 +31,8 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
 
 <a id="claim-t-189561"></a>
 - t-001
-  global_id: t-189561
   teiginys: "Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eilutę pasakojime apie žvaigždžių tuoktuves."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,28 +48,7 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172449
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eilutę pasakojime apie žvaigždžių tuoktuves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių
-    dainoje:
-    Kur palikti Deewa sirgi?
-    Deewa dehli jahdija.
-    Kur aisjahje Deewa dehli?
-    Saules mejtos raudsitees.
-    Patti Saule atbildeja:
-    Maži marini behrnini,
-    Mažas mannas dahwanes.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189561
+
 ## Citatos
 
 - id: c-172449
@@ -87,20 +65,11 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
     Patti Saule atbildeja:
     Maži marini behrnini,
     Mažas mannas dahwanes.
-  citata_rodoma: |
-    Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių
-    dainoje:
-    Kur palikti Deewa sirgi?
-    Deewa dehli jahdija.
-    Kur aisjahje Deewa dehli?
-    Saules mejtos raudsitees.
-    Patti Saule atbildeja:
-    Maži marini behrnini,
-    Mažas mannas dahwanes.
+  citata_rodoma: "Žvaigždės tuokdavosi tarpusavy, kaip sakoma latvių\ndainoje:\nKur palikti Deewa sirgi?\nDeewa dehli jahdija.\nKur aisjahje Deewa dehli?\nSaules mejtos raudsitees.\nPatti Saule atbildeja:\nMaži marini behrnini,\nMažas mannas dahwanes."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189561
+    - t-001

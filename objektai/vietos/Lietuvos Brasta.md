@@ -42,7 +42,6 @@ media_all_json: |-
 
 <a id="claim-t-79640"></a>
 - t-001
-  global_id: t-79640
   teiginys: "1435 m. gruodžio 31 d. sudaryta Bresto taika tarp Lenkijos, Lietuvos Didžiosios Kunigaikštystės ir Vokiečių ordino atstovų."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-76604
 
 <a id="claim-t-79641"></a>
-- t-002
-  global_id: t-79641
+- t-005
   teiginys: "Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -77,8 +75,7 @@ media_all_json: |-
     - c-43588
 
 <a id="claim-t-79642"></a>
-- t-003
-  global_id: t-79642
+- t-002
   teiginys: "1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ media_all_json: |-
     - c-43585
 
 <a id="claim-t-79643"></a>
-- t-004
-  global_id: t-79643
+- t-006
   teiginys: "Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,8 +110,7 @@ media_all_json: |-
     - c-43588
 
 <a id="claim-t-79645"></a>
-- t-005
-  global_id: t-79645
+- t-007
   teiginys: "1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,8 +129,7 @@ media_all_json: |-
     - c-76605
 
 <a id="claim-t-79646"></a>
-- t-006
-  global_id: t-79646
+- t-003
   teiginys: "Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -170,7 +164,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79642
+    - t-002
+
 - id: c-43586
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -190,7 +185,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79646
+    - t-003
+
 - id: c-43588
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -201,20 +197,16 @@ media_all_json: |-
     Mūšis truko apie 8 valandas. Lietuvos ka-
     riuomenė, remiantis S. Zabielos raportais,
     neteko apie 300 karių. Rusų duomenimis
-  citata_rodoma: |
-    Mūšio padariniai
-
-    Mūšis truko apie 8 valandas. Lietuvos ka-
-    riuomenė, remiantis S. Zabielos raportais,
-    neteko apie 300 karių.
+  citata_rodoma: "Mūšio padariniai\n\nMūšis truko apie 8 valandas. Lietuvos ka-\nriuomenė, remiantis S. Zabielos raportais,\nneteko apie 300 karių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79641
-    - t-79643
+    - t-005
+    - t-006
+
 - id: c-76604
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -237,7 +229,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79640
+    - t-001
+
 - id: c-76605
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -253,6 +246,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79645
+    - t-007
+
 ## Ryšiai
 - Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]

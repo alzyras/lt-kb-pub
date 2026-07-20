@@ -36,7 +36,6 @@ Balys : Bibliography of Baltic Bibliographies, Lituanistikos Darbai, t.
 
 <a id="claim-t-31636"></a>
 - t-001
-  global_id: t-31636
   teiginys: "J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,15 +65,11 @@ Balys : Bibliography of Baltic Bibliographies, Lituanistikos Darbai, t.
     bibliografiją yra sudaręs :
     J. Balys :** **_Bibliography of Baltic Bibliographies,_** **Lituanistikos Darbai,
     t. 2, Čikaga, 1969, p. 141-186.
-  citata_rodoma: |
-    Akylai visų Lietuvą liečiančių lietuvių kalba bibliografinių rinkimų
-    bibliografiją yra sudaręs :
-    J. Balys :** **_Bibliography of Baltic Bibliographies,_** **Lituanistikos Darbai,
-    t. 2, Čikaga, 1969, p. 141-186.
+  citata_rodoma: "Akylai visų Lietuvą liečiančių lietuvių kalba bibliografinių rinkimų\nbibliografiją yra sudaręs :\nJ. Balys :** **_Bibliography of Baltic Bibliographies,_** **Lituanistikos Darbai,\nt. 2, Čikaga, 1969, p. 141-186."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31636
+    - t-001

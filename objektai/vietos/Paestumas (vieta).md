@@ -33,7 +33,6 @@ Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir rom
 
 <a id="claim-t-200806"></a>
 - t-001
-  global_id: t-200806
   teiginys: "Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir romėnų architektūros paminklais."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir rom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200806
+    - t-001

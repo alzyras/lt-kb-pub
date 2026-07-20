@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-30747"></a>
 - t-001
-  global_id: t-30747
   teiginys: "K. Pakštas 1950 m. „Aiduose“ paskelbė straipsnį „Keletas samprotavimų apie Lietuvos ribas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     182 p. — (”) _Lietuvių tautos ir valstybės sienos,_ Aidai, nr. 10, 1951,
     436-444 p. -— (”) _Gudijos santykis su Lietuva,_ Aidai, nr. 3, 4, 1956,
     114-124, 174-182 p. — Papėe, Pr.
-  citata_rodoma: |
-    — Pakštas, K. : _Keletas samprotavimų
-    apie Lietuvos ribas,_ Aidai, nr. 1-4, 1950, 8-14, 51-56, 123-129, 174-
-    182 p. — (”) _Lietuvių tautos ir valstybės sienos,_ Aidai, nr. 10, 1951,
-    436-444 p. -— (”) _Gudijos santykis su Lietuva,_ Aidai, nr. 3, 4, 1956,
-    114-124, 174-182 p.
+  citata_rodoma: "— Pakštas, K. : _Keletas samprotavimų\napie Lietuvos ribas,_ Aidai, nr. 1-4, 1950, 8-14, 51-56, 123-129, 174-\n182 p. — (”) _Lietuvių tautos ir valstybės sienos,_ Aidai, nr. 10, 1951,\n436-444 p. -— (”) _Gudijos santykis su Lietuva,_ Aidai, nr. 3, 4, 1956,\n114-124, 174-182 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30747
+    - t-001

@@ -31,7 +31,6 @@ J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesni
 
 <a id="claim-t-189586"></a>
 - t-001
-  global_id: t-189586
   teiginys: "J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesnis istorikas ilgai dvejotų, prieš juo pasinaudodamas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189586
+    - t-001

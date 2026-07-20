@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86580"></a>
 - t-001
-  global_id: t-86580
   teiginys: "Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86580
+    - t-001

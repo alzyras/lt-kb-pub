@@ -31,7 +31,6 @@ Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją 
 
 <a id="claim-t-200772"></a>
 - t-001
-  global_id: t-200772
   teiginys: "Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200772
+    - t-001

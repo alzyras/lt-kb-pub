@@ -32,7 +32,6 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
 
 <a id="claim-t-189090"></a>
 - t-001
-  global_id: t-189090
   teiginys: "Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189090
+    - t-001

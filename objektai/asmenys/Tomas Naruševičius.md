@@ -30,8 +30,7 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
 ## Teiginiai
 
 <a id="claim-t-76026"></a>
-- t-001
-  global_id: t-76026
+- t-002
   teiginys: "Tomas Naruševičius vadovavo Lietuvos delegacijai Maskvoje, kuri pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
     - c-73680
 
 <a id="claim-t-76027"></a>
-- t-002
-  global_id: t-76027
+- t-001
   teiginys: "Tomo Naruševičiaus vadovaujama delegacija Maskvoje pirmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -82,20 +80,12 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
     mo dokumentu.
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
-  citata_rodoma: |
-    L I E T U V O S  I S T O R I J A
-    142
-    Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
-    miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-
-    mo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
-    Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-
-    tuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-
-    mo dokumentu.
+  citata_rodoma: "L I E T U V O S  I S T O R I J A\n142\nJos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-\nmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-\nmo tęstinumą nuo LDK. Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf\nJoffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lie-\ntuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažini-\nmo dokumentu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-76026
-    - t-76027
+    - t-002
+    - t-001

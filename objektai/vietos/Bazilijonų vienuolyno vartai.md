@@ -28,7 +28,6 @@ Mikalojus Vorobjovas Bazilijonų vienuolyno vartus vertino kaip vėlyvojo baroko
 
 <a id="claim-t-200802"></a>
 - t-001
-  global_id: t-200802
   teiginys: "Mikalojus Vorobjovas Bazilijonų vienuolyno vartus vertino kaip vėlyvojo baroko aspiracijų kraštutinį pavidalą."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Mikalojus Vorobjovas Bazilijonų vienuolyno vartus vertino kaip vėlyvojo baroko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200802
+    - t-001

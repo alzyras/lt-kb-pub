@@ -30,7 +30,6 @@ Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, varto
 
 <a id="claim-t-191595"></a>
 - t-001
-  global_id: t-191595
   teiginys: "Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, vartojo formą „’Iv8ixvję“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, varto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191595
+    - t-001

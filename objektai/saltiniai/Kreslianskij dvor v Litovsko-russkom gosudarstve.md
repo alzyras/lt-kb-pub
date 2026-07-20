@@ -42,7 +42,6 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
 
 <a id="claim-t-31768"></a>
 - t-001
-  global_id: t-31768
   teiginys: "F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,15 +72,11 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
     **(ŽMNPr, I, IV, X, XII, 1896 ; IV, V, 1897);** **_Bojare i služilye ljudi v Li-
     tovsko-russkom gosudarstve_** **(ŽMNPr, IX, 1905; V, 1907);** **_Očerki po istorii
     Litovsko-russkogo prava,_** **St.
-  citata_rodoma: |
-    Leontovtč :** **_Kreslianskij dvor v Litovsko-russkom gosudarstve_**
-    **(ŽMNPr, I, IV, X, XII, 1896 ; IV, V, 1897);** **_Bojare i služilye ljudi v Li-
-    tovsko-russkom gosudarstve_** **(ŽMNPr, IX, 1905; V, 1907);** **_Očerki po istorii
-    Litovsko-russkogo prava,_** **St.
+  citata_rodoma: "Leontovtč :** **_Kreslianskij dvor v Litovsko-russkom gosudarstve_**\n**(ŽMNPr, I, IV, X, XII, 1896 ; IV, V, 1897);** **_Bojare i služilye ljudi v Li-\ntovsko-russkom gosudarstve_** **(ŽMNPr, IX, 1905; V, 1907);** **_Očerki po istorii\nLitovsko-russkogo prava,_** **St."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31768
+    - t-001

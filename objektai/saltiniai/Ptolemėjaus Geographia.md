@@ -30,7 +30,6 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 
 <a id="claim-t-191721"></a>
 - t-001
-  global_id: t-191721
   teiginys: "Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie provinciją tarp Olecko ir Raigardo, siejamą su Sūduva."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 
 <a id="claim-t-191722"></a>
 - t-002
-  global_id: t-191722
   teiginys: "Pasak Teodoro Narbuto, Ptolemėjus Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai šią žemę vadino Skalva arba Rusia."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -72,9 +70,8 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 
 <a id="claim-t-191723"></a>
 - t-003
-  global_id: t-191723
   teiginys: "Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,10 +87,9 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174605
-    - c-003
+
 <a id="claim-t-197686"></a>
 - t-004
-  global_id: t-197686
   teiginys: "Tačiau Ptolemėjas turi tam tikrų žinių apie šią, toje pačioje vietoje esančią provinciją, be to, neabe jotina, kad nuo seno ten gyveno ir lietuviui Tas pats geografas taip pat žinojo vieną sudinų koloniją, buvusią germanų markomanų genties kaimynystėje, dabar."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -104,23 +100,6 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   pagrindžia:
     - c-174603
 
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Teodoras Narbutas nurodo, kad Ptolemėjus Stavanus vadino Stabatii.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    270
-    Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
-    batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
-    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
-    sius lietuvius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191723
 ## Citatos
 
 - id: c-174603
@@ -148,8 +127,9 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191721
-    - t-197686
+    - t-001
+    - t-004
+
 - id: c-174604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -170,30 +150,23 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191722
+    - t-002
+
 - id: c-174605
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Sis geografas mini juos toje vietoje ir tokia tvar­
-    ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
-    sius lietuvius. Tačiau vokiečių senovės tyrinėtojai prira­
-    šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
-    visiškai nereikšmingi. Naujausias yra Reinchardo teigi­
-    mas, paremtas pono Foigto1 2; pasak jo, Stavanija buvusi
-    į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai,
-    nes ten yra vietovardžių Stabinas, Staviškės.
-  citata_rodoma: |
     270
     Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
     batiix. Sis geografas mini juos toje vietoje ir tokia tvar­
     ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
     sius lietuvius.
+  citata_rodoma: "270\nLietuvos provincijos. Stavanus Ptolemėjas vadina Sta-\nbatiix. Sis geografas mini juos toje vietoje ir tokia tvar­\nka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­\nsius lietuvius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191723
+    - t-003

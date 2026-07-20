@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-31959"></a>
 - t-001
-  global_id: t-31959
   teiginys: "„Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ media_all_json: |-
     bajorais, XVIII a._** **(AkMD, t. 7, 1959, 91-103 p.) ;** **_Patriarchaliniai vergai
     Lietuvoje_** **(AkMD, t. 8, 1960, 75-91 p.) ; parašė knygą** **_Renesansas ir huma­
     nizmas Lietuvoje_** **(1965)** **_; Istorija ir poezija_** **(1969) ; apie baudžiavą (JurB) ;**
-  citata_rodoma: |
-    ) ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a._** **(AkMD, t. 4, 1958, 113-
-    126 p.);** **_Valstiečių_** **«** **_tarnyba_** **» -** **_feodalinio prievolių vienetas iki valakų įve­
-    dimo Lietuvoje_** **(AkMD, t.
+  citata_rodoma: ") ;** **_Valstiečiai_** **«** **_veldamai_** **»** **_Lietuvoje XV-XVI a._** **(AkMD, t. 4, 1958, 113-\n126 p.);** **_Valstiečių_** **«** **_tarnyba_** **» -** **_feodalinio prievolių vienetas iki valakų įve­\ndimo Lietuvoje_** **(AkMD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31959
+    - t-001

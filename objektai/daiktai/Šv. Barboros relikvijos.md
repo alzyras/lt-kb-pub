@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-59711"></a>
 - t-001
-  global_id: t-59711
   teiginys: "Brolis Ditrichas nugabeno Šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai pasitiktos ir padėtos bažnyčioje prie senosios pilies."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59711
+    - t-001

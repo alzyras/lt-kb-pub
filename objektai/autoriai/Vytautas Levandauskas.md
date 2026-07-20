@@ -7,12 +7,12 @@ datos:
   - '1991 m.'
 date_start: '1991'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XX'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Vilnius, 1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žib
 
 <a id="claim-t-202236"></a>
 - t-001
-  global_id: t-202236
   teiginys: "Vilnius, 1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žiburtas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Vilnius, 1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202236
+    - t-001

@@ -49,7 +49,6 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
 
 <a id="claim-t-195412"></a>
 - t-001
-  global_id: t-195412
   teiginys: "Pempės krikštaudavo trumpa formule „gyvi, gyvi“."
   atnaujinta: "2026-07-12 02:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -66,22 +65,12 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
   puslapiai: "p. 17 (PDF 15)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 17 (PDF 15)."
   citata_originali: |
-    Darbas tęsiasi be palio­
-    vos ir amžinai.
-    Kitėja ir gyvoji gamta.
-    Seniau, eidamas vilnijančiais augančių
-    javų laukais, žmogus nuolat girdėdavo griežlių, putpelių ir vyturių
-    giesmes; einant ganyklomis ir pievomis, pempės perdėm apie jį su­
-    kinėdavo krikštaudamos ,,gyvi, gyvi“ ;
-    šlaituose giedodavo skambiais
-    balsais lakštingalos, grįčios ir klėties pastogėse, prie kiekvienos geg­
-    nės, būdavo po kregždės lizdą.
-  citata_rodoma: |
     einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;
+  citata_rodoma: "einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;"
   statusas: verified
   atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195412
+    - t-001

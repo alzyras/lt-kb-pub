@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-67130"></a>
 - t-001
-  global_id: t-67130
   teiginys: "Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-67131"></a>
 - t-002
-  global_id: t-67131
   teiginys: "Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -97,17 +95,15 @@ Nenurodyta
     tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
     atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
-  citata_rodoma: |
-    Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
-    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
-    atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
+  citata_rodoma: "Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik\ntada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai\natsidūrę itin varganoje padėtyje, pratę patys nusižudyti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67130
+    - t-001
+
 - id: c-67156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -123,4 +119,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67131
+    - t-002

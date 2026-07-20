@@ -38,7 +38,6 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
 
 <a id="claim-t-87885"></a>
 - t-001
-  global_id: t-87885
   teiginys: "Vladislovo savižudybė buvo viena iš nelaimių šeimoje, pagreitinusių M. Balinskio sugrįžimą į Lietuvą 1848 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87885
+    - t-001

@@ -48,7 +48,6 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 
 <a id="claim-t-192259"></a>
 - t-001
-  global_id: t-192259
   teiginys: "Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -67,7 +66,6 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 
 <a id="claim-t-192260"></a>
 - t-002
-  global_id: t-192260
   teiginys: "Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -86,7 +84,6 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 
 <a id="claim-t-197694"></a>
 - t-003
-  global_id: t-197694
   teiginys: "Jei jo prielaida teisinga, o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo, tokiu atveju labiau dera jų pavadinimą kildinti iš bend ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš kažkokio sarmatų žodžio Krirsae, šaltinis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -97,12 +94,9 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
   pagrindžia:
     - c-175092
 
-## Citatos
-
-- id: c-175092
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,
@@ -117,19 +111,34 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
     tos genties šakų lengvai galėjo atsirasti viena, kuri, kaip
     ir Polocko, galėjo būti palankesnė rusams ir prisidėti
     prie Olego.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+    - t-003
+
+## Citatos
+
+- id: c-175092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     tokiu atveju labiau dera jų pavadinimą kildinti iš bend-
     ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš
     kažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris
     teisingai klausia, ką tai reiškia sarmatiškai. Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili-
     mas iš Krivio, regis, atrodo visai natūralus.
+  citata_rodoma: "tokiu atveju labiau dera jų pavadinimą kildinti iš bend-\nro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš\nkažkokio sarmatų žodžio Krirsae, šaltinis. Be to, Slėceris\nteisingai klausia, ką tai reiškia sarmatiškai. Etimologinio\nkildinimo nepripažįstu, tačiau krivičių pavadinimo kili-\nmas iš Krivio, regis, atrodo visai natūralus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192259
-    - t-192260
-    - t-197694
+    - t-001
+    - t-002
+    - t-003

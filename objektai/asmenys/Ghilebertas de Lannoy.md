@@ -31,7 +31,6 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
 
 <a id="claim-t-96030"></a>
 - t-001
-  global_id: t-96030
   teiginys: "Ghilebertas de Lannoy liudijo, kad Vytautas Lietuvos kunigaikštijoje buvo įvedęs svetimšaliams palankią tvarką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96030
+    - t-001

@@ -37,7 +37,6 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
 
 <a id="claim-t-194850"></a>
 - t-001
-  global_id: t-194850
   teiginys: "Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių 25 Listy z nad brzegow Kroženty // Gazeta Warszawska."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194850
+    - t-001

@@ -38,8 +38,7 @@ E., Žalys V., edit. Žalys V.
 ## Teiginiai
 
 <a id="claim-t-64892"></a>
-- t-001
-  global_id: t-64892
+- t-002
   teiginys: "V. Žalys parašė veikalą „Lietuvos diplomatijos istorija (1925–1940)“, kurio pirmas tomas išleistas Vilniuje 2007 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ E., Žalys V., edit. Žalys V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64892
+    - t-002

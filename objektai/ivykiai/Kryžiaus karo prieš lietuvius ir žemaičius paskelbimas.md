@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201288"></a>
 - t-001
-  global_id: t-201288
   teiginys: "Vilhelmas į Parusnį pagrįžęs iš Ry mo, tuojau popiežius išleido raštą, skelbdamas kry žiaus karę ant lietuvių į Padaugavį ir Parusnį eiti kariauti, jog tie visi, kurie iš Čekų, Teutonuos, Skandijos, arba Žuvėdų, Danų, Norvegų, Lenkų ir Pamario žygiuos kryžium."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184638
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilhelmas į Parusnį pagrįžęs iš Ry­
     mo, tuojau popiežius išleido raštą, skelbdamas kry­
@@ -84,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201288
+    - t-001

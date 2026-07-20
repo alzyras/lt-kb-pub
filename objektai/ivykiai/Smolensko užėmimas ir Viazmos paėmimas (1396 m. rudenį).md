@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-31475"></a>
 - t-001
-  global_id: t-31475
   teiginys: "1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,17 +86,11 @@ Nenurodyta
     bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
     vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
-  citata_rodoma: |
-    Remdamasis giminyste,
-    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
-    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
-    bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
-    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
-    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
+  citata_rodoma: "Remdamasis giminyste,\nVytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė\nSmolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­\nbindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31475
+    - t-001

@@ -38,7 +38,6 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
 
 <a id="claim-t-200483"></a>
 - t-001
-  global_id: t-200483
   teiginys: "Antanas Tadas Pšezdeckis buvo LDK referendorius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -56,7 +55,6 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
 
 <a id="claim-t-200484"></a>
 - t-002
-  global_id: t-200484
   teiginys: "1756 m. J. D. Lopacinskio parama Smolensko pateisėjininkaičiui buvo nenaudinga jo draugystei su Antanu Tadu Pšezdeckiu."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -84,22 +82,9 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 5"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
-  citata_originali: |
-    1756 m. kanauninkas pasakojo apie
-    Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
-    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
-    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
-    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai.
-  citata_rodoma: |
-    1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio
-    Mykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko
-    pateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu
-    Tadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200483
-    - t-200484
+    - t-001
+    - t-002

@@ -33,9 +33,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 
 <a id="claim-t-188893"></a>
 - t-001
-  global_id: t-188893
   teiginys: "Narbutas rašo, kad Patelo stabas didžiojoje Romovės šventykloje stovėjęs Perkūno dešinėje."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -43,11 +42,10 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171782
+    - c-177142
 
 <a id="claim-t-188894"></a>
 - t-002
-  global_id: t-188894
   teiginys: "Narbutas senovės Romovėje aprašo aukurą su Amžinąja ugnimi, prižiūrimą vyriausiojo žynio prie šventojo ąžuolo ir dievų stabų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -69,9 +67,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 
 <a id="claim-t-188895"></a>
 - t-003
-  global_id: t-188895
   teiginys: "Narbutas Romovės mitologinį pavadinimą sieja su ąžuolo šventumu ir žodžiu „Romumas“."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -88,30 +85,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   pagrindžia:
     - c-171784
 
-<a id="claim-t-188896"></a>
-- t-004
-  global_id: t-188896
-  teiginys: "Narbutas rašo, kad kol prūsų Romovė nebuvo sunaikinta, iškilmingas aukas vyriausiems dievams kitur atnašauti nederėjo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romovė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romovė\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171785
-
 <a id="claim-t-188897"></a>
 - t-005
-  global_id: t-188897
   teiginys: "Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -133,7 +108,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 
 <a id="claim-t-192742"></a>
 - t-006
-  global_id: t-192742
   teiginys: "Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -151,10 +125,9 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175512
-    - c-006
+
 <a id="claim-t-192743"></a>
 - t-007
-  global_id: t-192743
   teiginys: "Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -173,10 +146,9 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175513
-    - c-007
+
 <a id="claim-t-194746"></a>
 - t-008
-  global_id: t-194746
   teiginys: "Narbutas teigia, kad taip pat kronikos liudija, jog šio dievo stabas, spirale susi raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -190,7 +162,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 
 <a id="claim-t-194747"></a>
 - t-009
-  global_id: t-194747
   teiginys: "Jau mes mūsų istorijos tyrimais įrodėme, kad paskutiniais stabmeldystės amžiais Romovių būta ne vienoje vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -202,8 +173,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-177143
 
 <a id="claim-t-197918"></a>
-- t-010
-  global_id: t-197918
+- t-011
   teiginys: "Būtent provincijos vakaruose plytėjo didelė šventa giria, kurios viduryje buvo dievų šventovė Romovė; šis miškas ošė beveik nuo pat šiaurinės pakrantės galo net iki prie Aistmarių esančių pakrantės žemių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -215,8 +185,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-179396
 
 <a id="claim-t-201101"></a>
-- t-011
-  global_id: t-201101
+- t-012
   teiginys: "Pats vardas upės Nemuno Niemon regimai yra len kiškas žodis, taip pat Romovė neženklina žinyčios, kaip pasakoj skelbia, bet trobesį, kuriame viešpats ir visų vyriausias valdymieras visos tautos gyvenęs, kaipogi šiandien dar žemaičiai namus viešpaties ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -293,21 +262,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - susijęs iš Romovės šventykla: Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.
 - susijęs iš [[objektai/autoriai/Maksimas Tirėjietis.md#claim-t-190439|Maksimas Tirėjietis]]: Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo.
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
-    jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
-    lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
-    S. 261).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192742
 - c-007
   santrauka: 'Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -327,8 +281,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192743
+
 ## Citatos
 
 - id: c-171782
@@ -336,72 +289,42 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
-    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
-    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
-    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
-    tos prie liepų medžių21.
-    Kabirai (Kabiiy)
-    Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
-    džių trejybė.
-  citata_rodoma: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­
     tegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą
     jis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.
+  citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188893
 - id: c-171783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    4 Šiame straipsnyje kalbėsime apie dalykus, kurie nauji, Lietu­
-    vos istorijoje pasirodo pirmąkart. Juos reikia detaliau išdėstyti. Idant
-    išvengtume pasikartojimų, kreipiame skaitytoją į šio veikalo antrąjį
-    tomą, kuriame ketiname nušviesti tautos pradžią, taigi ten bus tin­
-    kamesnė vieta tiems įrodymams. Patys seniausi indai turėjo paprotį,
-    2 2 6
-
-    Beveik kiekviena jų šventoji upė vadinosi Ross.
-  citata_rodoma: |
     Lietuvoje, Hartknocho nuomo­
     ne, tokia ugnis turėjo degti prie Nevėžio upės.
     3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
     jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
     ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­
     ri degė prižiūrima paties vyriausiojo žynio.
+  citata_rodoma: "Lietuvoje, Hartknocho nuomo­\nne, tokia ugnis turėjo degti prie Nevėžio upės.\n3. Dievo Perkūno šventykloje, senovės Romovėje, švento­\njo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­\nras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku­\nri degė prižiūrima paties vyriausiojo žynio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188894
+    - t-002
+
 - id: c-171784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    ko: „Įvairios šiaurės tautos manė, jog žmogus, turintis su savi­
-    mi ąžuolo amalą, ne tik negalėjo būti sužeistas, bet buvo tik­
-    ras, kad sužeis kiekvieną, į kurį paleis strėlę“. Jeigu atrodytų
-    nepriimtina, kad šiaurėje augo visada žaliuojančių ąžuolų rū­
-    šis, tai būtų galima manyti, kad tie šventieji ąžuolai, augę Ro-
-    movėje ir prie Upsalos, turėjo tankiai priaugusias amalo ša­
-    kas. Žinoma, kas tas krūmas, nenumetantis žiemą lapų, dau­
-    ginasi iš sėklų, esančių gražiose baltose uogose, kurios nunoks­
-    ta žiemą ir paukščių yra godžiai lesamos; šios sėklos niekad
-    nesudygsta žemėje, o sudygsta ant kito medžio šakos, kur jas
-    užneša paukščiai su uogomis; dėl savo klijingo paviršiaus jos,
-    atsitiktinai prilipusios, tenai ir sudygsta; šie krūmai, kupeto­
-    mis augdami ant medžių, užauga sieto dydžio.
-  citata_rodoma: |
     235
 
     ## Puslapis 235
@@ -411,28 +334,20 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     susilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­
     mas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda.
+  citata_rodoma: "235\n\n## Puslapis 235\n\nclžiu. Romovės šventyklos mitologinis pavadinimas siejamas\nsu ąžuolo šventumu. Senovės lietuvių kalba šis žodis reiškė\nsusilaikymo, pamaldumo, taikos vietą nuo Romume -  Romu­\nmas . Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­\nbių prieglauda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188895
+    - t-003
+
 - id: c-171785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Arntas (Arndt) 17 pa-
-    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
-    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
-    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
-    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
-    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
-    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
-    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
-    17 Lieflandische Geschichte (1757 metų leidimas.
-  citata_rodoma: |
     Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
     nikininkai specialistai to neaprašo, tik priduria, kad senais lai­
     kais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo
@@ -441,13 +356,13 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
     visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
+  citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-188896
 - id: c-171786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -471,32 +386,26 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188897
+    - t-005
+
 - id: c-175512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gintaras lenkiškai vadinamas bursztyrv,
-    jo pavadinimas pasiskolintas iš vokiečių kalbos bdrnstein,
-    galbūt iš žodžio boernen, kuris reiškia „degti“, t. y. degus
-    akmuo. Visuose lietuvių kalbos dialektuose vadinamas
-    Gentoras; šio pavadinimo šaltinis, kaip spėja daugelis fi­
-    lologų, turėtų ¡būti bendras su lotynišku žodžiu Gigno ar­
-    ba ¡būdvardžiu Genitus, neva ¡gimęs iš žemės. Rusiškas
-    žodis Hentar pasiskolintas iš lietuvių.
-  citata_rodoma: |
     2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,
     jog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­
     lima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L
     S. 261).
+  citata_rodoma: "2 Senoje prūsų vyskupo Kristijono kronikoje turėtų būti žinių,\njog netoli prūsų Romovės buvęs sieros šaltinis, nuo kurio buvo ga­\nlima uždegti degų daiktą (Kotzebue. Preuss. alt. Geschichte. B. L\nS. 261)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192742
+    - t-006
+
 - id: c-175513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -515,24 +424,15 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
     bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
     elnias.
-  citata_rodoma: |
-    Di­
-    džiuliuose krašto plotuose augo miškai, kurie geriau negu
-    dabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.
-    Būtent provincijos vakaruose plytėjo didelė šventa giria,
-    kurios viduryje buvo dievų šventovė Romovė; šis miškas
-    ošė beveik nuo pat šiaurinės pakrantės galo net iki prie
-    Aistmarių esančių pakrantės žemių. Kiti miškų plotai
-    driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
-    bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
-    elnias.
+  citata_rodoma: "Di­\ndžiuliuose krašto plotuose augo miškai, kurie geriau negu\ndabar saugojo Prūsijos bitynų kraštą nuo smarkių vėjų.\nBūtent provincijos vakaruose plytėjo didelė šventa giria,\nkurios viduryje buvo dievų šventovė Romovė; šis miškas\nošė beveik nuo pat šiaurinės pakrantės galo net iki prie\nAistmarių esančių pakrantės žemių. Kiti miškų plotai\ndriekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­\nbijos miškuose dar ligi šiol gyvena anų laikų palikuonis\nelnias."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192743
+    - t-007
+
 - id: c-177142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -550,7 +450,9 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194746
+    - t-001
+    - t-008
+
 - id: c-177143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -570,7 +472,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194747
+    - t-009
+
 - id: c-179396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -592,10 +495,12 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197918
+    - t-011
+
 - id: c-184451
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nes
     jei Brutenis buvo jau viešpačiu ir tarnu dievų ir
@@ -618,6 +523,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201101
+    - t-012
+
 ## Ryšiai
 - Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

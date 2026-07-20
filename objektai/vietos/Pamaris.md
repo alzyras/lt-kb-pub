@@ -38,8 +38,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 ## Teiginiai
 
 <a id="claim-t-91233"></a>
-- t-001
-  global_id: t-91233
+- t-003
   teiginys: "Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 
 <a id="claim-t-91234"></a>
 - t-002
-  global_id: t-91234
   teiginys: "Ordinas tebevaldė Pamarį, kuris buvo vienintelis Lenkijos išėjimas prie jūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +70,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - c-86956
 
 <a id="claim-t-193224"></a>
-- t-003
-  global_id: t-193224
+- t-004
   teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -177,7 +174,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193224
+    - t-004
+
 - id: c-86955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,7 +194,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91233
+    - t-003
+
 - id: c-86956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,17 +205,15 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
     buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
     jūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai.
-  citata_rodoma: |
-    Grėsmingas jis
-    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
-    jūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai.
+  citata_rodoma: "Grėsmingas jis \nbuvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie \njūros. Tačiau Lenkijai nebuvo taip sunku, kaip Lietuvai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91234
+    - t-002
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Sventopelkas]]
 - Buvo valdoma: [[objektai/grupes/Vokiečių ordinas]]

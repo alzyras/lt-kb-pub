@@ -28,7 +28,6 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
 
 <a id="claim-t-199240"></a>
 - t-001
-  global_id: t-199240
   teiginys: "Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo."
   atnaujinta: "2026-07-12 23:02"
   sprendimo_priezastis: "auto"
@@ -38,7 +37,7 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181770
-    - c-176770
+
 ## Citatos
 
 - id: c-181770
@@ -57,42 +56,11 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
     Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
     savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
     tikėjimo.
-  citata_rodoma: |
-    Tačiau jie vertė ir
-    mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
-    nių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
+  citata_rodoma: "Tačiau jie vertė ir \nmane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­\nnių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­\ndydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­\nkiau tai viešai žmonėms, o sykiu slaptai laikiausi savo \ntikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­\njimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir \nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau \nsavo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių \ntikėjimo."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199240
-- id: c-176770
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Tačiau jie vertė ir
-    mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
-    nių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­
-    dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
-    kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo
-    tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
-    jimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
-    Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau
-    savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
-    tikėjimo.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-199240
+    - t-001

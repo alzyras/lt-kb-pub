@@ -40,7 +40,6 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 
 <a id="claim-t-97447"></a>
 - t-001
-  global_id: t-97447
   teiginys: "1317 m. popiežius Jonas XXII paragino Gediminą krikštytis."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 
 <a id="claim-t-97448"></a>
 - t-002
-  global_id: t-97448
   teiginys: "Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97448
+    - t-002
+
 - id: c-91937
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -111,4 +110,4 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97447
+    - t-001

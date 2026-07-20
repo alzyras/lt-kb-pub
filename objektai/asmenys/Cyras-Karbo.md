@@ -38,7 +38,6 @@ Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur j
 
 <a id="claim-t-191384"></a>
 - t-001
-  global_id: t-191384
   teiginys: "Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191384
+    - t-001

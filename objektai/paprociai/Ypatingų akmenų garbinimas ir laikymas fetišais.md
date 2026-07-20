@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-189882"></a>
 - t-001
-  global_id: t-189882
   teiginys: "Narbutas rašo, kad senovės žmonės ypač gerbdavę gamtos pavaizduotus ar savo pavidalu į ką nors panašius akmenis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189882
+    - t-001

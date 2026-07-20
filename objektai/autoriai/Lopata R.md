@@ -39,7 +39,6 @@ Lopata R.
 
 <a id="claim-t-17751"></a>
 - t-001
-  global_id: t-17751
   teiginys: "R. Lopata parašė veikalą „Lietuvos valstybingumo raida 1914–1918 metais“, išleistą Vilniuje 1996 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,12 +66,11 @@ Lopata R.
     Ams-
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: |
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-17751
+    - t-001

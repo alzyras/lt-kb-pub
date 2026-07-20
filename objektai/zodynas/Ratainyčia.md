@@ -31,9 +31,8 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
 
 <a id="claim-t-189324"></a>
 - t-001
-  global_id: t-189324
   teiginys: "Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,26 +48,7 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172211
-    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188558|Janas Lasickis]]: Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Ratainyčia (Ratajniczu)
-    Deivė, globojanti jojamuosius arklius. Tą reiškia pats var­
-    das, ir Lasickis nurodo jį, remdamasis savo tyrimais. Senovės
-    graikai turėjo to dalyko deivę, vadintą Hippone arba Eppone.
-    Dėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­
-    me prie deivių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189324
 ## Citatos
 
 - id: c-172211
@@ -76,25 +56,17 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Budintoja (Budintoja)
-    Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
-    žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
-    Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
-    priešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos
-    draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
-    Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
-    Budzisz, kurios ženklas buvo žąsis - paukštis.
-  citata_rodoma: |
     Ratainyčia (Ratajniczu)
     Deivė, globojanti jojamuosius arklius. Tą reiškia pats var­
     das, ir Lasickis nurodo jį, remdamasis savo tyrimais. Senovės
     graikai turėjo to dalyko deivę, vadintą Hippone arba Eppone.
     Dėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­
     me prie deivių.
+  citata_rodoma: "Ratainyčia (Ratajniczu)\nDeivė, globojanti jojamuosius arklius. Tą reiškia pats var­\ndas, ir Lasickis nurodo jį, remdamasis savo tyrimais. Senovės\ngraikai turėjo to dalyko deivę, vadintą Hippone arba Eppone.\nDėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­\nme prie deivių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189324
+    - t-001

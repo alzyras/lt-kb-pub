@@ -4,6 +4,7 @@ pavadinimas: 'Kauno pilis (pilis)'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1252 m.'
   - '1361 m.'
@@ -11,15 +12,15 @@ datos:
   - '2026 m.'
 date_start: '1252'
 date_end: '2026'
+amziai:
+  - 'XIII'
+  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +44,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 
 <a id="claim-t-79423"></a>
 - t-001
-  global_id: t-79423
   teiginys: "Šležas rašė apie Kauno pilies išgriovimą 1362 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -63,7 +63,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 
 <a id="claim-t-79424"></a>
 - t-002
-  global_id: t-79424
   teiginys: "Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,7 +82,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 
 <a id="claim-t-79425"></a>
 - t-003
-  global_id: t-79425
   teiginys: "Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 
 <a id="claim-t-79426"></a>
 - t-004
-  global_id: t-79426
   teiginys: "Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,6 +113,42 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Kauno pilis (pilis) (0.94)"
   pagrindžia:
     - c-76420
+
+<a id="claim-t-201620"></a>
+- t-005
+  teiginys: "Kauno pilis buvusi dar visiškai nauja, gal net nebaigta statyti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184967
+
+<a id="claim-t-201621"></a>
+- t-006
+  teiginys: "Besikuriančio Kauno miesto fone tai buvo tikrai gausus žmonių susibūrimas, galėjęs daryti teigiamą įtaką pačiam miestui atsirasti."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184968
+
+<a id="claim-t-201622"></a>
+- t-007
+  teiginys: "Pavieto centras liko Kauno pilis, joje toliau rezidavo valdovo vietininkas - seniū nas, be to, joje turėjo būti saugomos pavieto teismų knygos."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184969
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Kojelavičius rašo, kad Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš Kaunas: Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
@@ -142,7 +175,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79424
+    - t-002
+
 - id: c-43493
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,23 +195,15 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     Neries ir Nemuno įrengė savo įtvirtini-
     mus - griovį, pylimus su kuorais, izo-
     liuodami pilį.
-  citata_rodoma: |
-    Kauno pilies apgula
-
-    Ordino ir talkininkų kariuomenė šį kartą
-    Nemunu laivais, pučiant vakarų vėjui,
-    tyliai aplenkdama Veliuonos ir Piešt-
-
-    vės pilis, pasiekė Kauną. Išsilaipino že-
-    miau Kauno, keletą dienų statė tiltus ir
-    trečiąją dieną atžygiavo prie pilies.
+  citata_rodoma: "Kauno pilies apgula\n\nOrdino ir talkininkų kariuomenė šį kartą\nNemunu laivais, pučiant vakarų vėjui,\ntyliai aplenkdama Veliuonos ir Piešt-\n\nvės pilis, pasiekė Kauną. Išsilaipino že-\nmiau Kauno, keletą dienų statė tiltus ir\ntrečiąją dieną atžygiavo prie pilies."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79425
+    - t-003
+
 - id: c-76419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -198,7 +224,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79423
+    - t-001
+
 - id: c-76420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,7 +256,65 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79426
+    - t-004
+
+- id: c-184967
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Kauno pilis buvusi dar
+    visiškai nauja, gal net nebaigta statyti. Ji stovėjo kairiajame Neries krante apie 600 m
+    į šiaurės rytus nuo santakos ir apie 450 m į šiaurę nuo Nemuno vagos. Tai buvo Lie-
+    tuvai būdingo aptvarinio tipo pilis.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-184968
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Besikuriančio Kauno miesto fone tai buvo tikrai
+    gausus žmonių susibūrimas, galėjęs daryti teigiamą įtaką pačiam miestui atsirasti.
+    Naujosios pilies sienos buvo statomos ant pirmosios pilies pamatų, jos buvo sto-
+    rinamos iki 3-3,5 metro ir iškeltos aukščiau negu 10 m. Sienos storintos platinant
+    pamatus į išorę, nes nenorėta mažinti pilies kiemo.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-184969
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Pavieto ribos buvo taip nusakytos: iš vienos pusės Nevė­
+    žio upe iki Upytės pavieto ribos; iš kitos pusės - nuo Vilkmergės ribos užgriebiant
+    Kulvą ir Žeimius; iš trečios pusės užgriebiant Vaiguvą ir kairėje Uogintus iki Žiež-
+    marių ribos; iš ketvirtos pusės aukštyn Nemunu, užgriebiant Balbieriškį iki pat Jo
+    Karališkosios Malonybės girios, iki Žemaitijos ribos.
+    Pavieto centras liko Kauno pilis, joje toliau rezidavo valdovo vietininkas -
+    seniū­
+    nas, be to, joje turėjo būti saugomos pavieto teismų knygos. Paviete likęs seniūno
+    teismas sprendė baudžiamąsias bylas, dabar vadinamas Kauno pilies teismu.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 ## Ryšiai
 - Puolė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
 - Apgulė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

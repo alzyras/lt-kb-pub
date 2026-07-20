@@ -31,7 +31,6 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
 
 <a id="claim-t-32752"></a>
 - t-001
-  global_id: t-32752
   teiginys: "Lietuvos didžiojo kunigaikščio kanceliarinė rašto kalba išsivystė iš vartotos slavų kalbos ir skyrėsi nuo maskvinės rusų kalbos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,17 +61,11 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
     Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
     tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
-  citata_rodoma: |
-    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
-    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
-    vinės rusų kalbos.
-    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
-    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
-    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
+  citata_rodoma: "Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­\ngaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­\nvinės rusų kalbos.\nPats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32752
+    - t-001

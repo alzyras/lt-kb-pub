@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201285"></a>
 - t-001
-  global_id: t-201285
   teiginys: "Nebtverdamies Padaugavio perkrikštai tokiomis novėmis visų pirma patrako ūkinykai Turaidos apy gardoj, kurie, možėdamos savo galia, patelkė į karę dar tolesnius latvius ir žemaičius, kurie, persikėlę per Daugavą, atėjo nakčia pagal Kūčių dieną į Turaidą."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184635
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nebtverdamies Padaugavio perkrikštai tokiomis
     novėmis visų pirma patrako ūkinykai Turaidos apy­
@@ -83,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201285
+    - t-001

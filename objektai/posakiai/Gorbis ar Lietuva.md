@@ -31,7 +31,6 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 
 <a id="claim-t-20828"></a>
 - t-001
-  global_id: t-20828
   teiginys: "Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: |
-    bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+  citata_rodoma: "bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20828
+    - t-001

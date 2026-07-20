@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41259"></a>
-- t-001
-  global_id: t-41259
+- t-002
   teiginys: "Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-44896
 
 <a id="claim-t-41260"></a>
-- t-002
-  global_id: t-41260
+- t-001
   teiginys: "Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,23 +110,15 @@ Nenurodyta
     mūšį su nuostaba rašoma: „Visų keisčiau-
     sia, kad mūsiškių užmušta tik 20, o sužeista
     700“.
-  citata_rodoma: |
-    Nors po mūšio
-
-    Polocko susigrąžinti nepavyko (tai įvyko
-    tik 1579 m.), tačiau po Ulos sutriuškinimo,
-    kurį amžininkai prilygino Oršos mūšiui,
-    maskvėnai prarado iniciatyvą kare ir naujo
-    didelio jų puolimo grėsmė išnyko.
-
-    tys, nėra aišku.
+  citata_rodoma: "Nors po mūšio\n\nPolocko susigrąžinti nepavyko (tai įvyko\ntik 1579 m.), tačiau po Ulos sutriuškinimo,\nkurį amžininkai prilygino Oršos mūšiui,\nmaskvėnai prarado iniciatyvą kare ir naujo\ndidelio jų puolimo grėsmė išnyko.\n\ntys, nėra aišku."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41259
+    - t-002
+
 - id: c-44897
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -141,18 +131,11 @@ Nenurodyta
     grėsmingą ir nesulaukusią P. Šuiskio ve-
     žamų ginklų bei kitų atsargų, B. Sereb-
     riano vedamą kariuomenę. Nors po mūšio
-  citata_rodoma: |
-    Kokios buvo lietuvių kariuomenės netek-
-
-    Nepraėjus dviem savaitėms, lietu-
-    viai beveik be mūšio sutriuškino ne tokią
-    grėsmingą ir nesulaukusią P. Šuiskio ve-
-    žamų ginklų bei kitų atsargų, B. Sereb-
-    riano vedamą kariuomenę.
+  citata_rodoma: "Kokios buvo lietuvių kariuomenės netek-\n\nNepraėjus dviem savaitėms, lietu-\nviai beveik be mūšio sutriuškino ne tokią\ngrėsmingą ir nesulaukusią P. Šuiskio ve-\nžamų ginklų bei kitų atsargų, B. Sereb-\nriano vedamą kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41260
+    - t-001

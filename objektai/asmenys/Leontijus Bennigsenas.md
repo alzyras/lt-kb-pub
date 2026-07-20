@@ -31,7 +31,6 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
 
 <a id="claim-t-40305"></a>
 - t-001
-  global_id: t-40305
   teiginys: "Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,6 +68,7 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40305
+    - t-001
+
 ## Ryšiai
 - Leontijus Bennigsenas puolė [[objektai/grupes/Lietuviai]]

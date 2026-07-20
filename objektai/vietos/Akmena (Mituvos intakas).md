@@ -30,10 +30,9 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 ## Teiginiai
 
 <a id="claim-t-90278"></a>
-- t-001
-  global_id: t-90278
+- t-002
   teiginys: "Ašeradė) Akmena (Jūros intakas), u."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Akonas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -46,24 +45,7 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-86145
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ašeradė)
-      Akmena (Jūros intakas), u.
-      Akmena (Mituvos intakas), u.
-      Akonas (Akra)
-      Alanga, u.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90278
+
 ## Citatos
 
 - id: c-86145
@@ -71,24 +53,16 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Plementa), p.
-    Kluniečių ordinas
-    Knivitė, u.
-    Kobrinas
-    Kolainiai (Colayne, Kalaine, p., greičiausiai Jurbarko Bišpilio, Višpilio piliakalnyje)
-    Colm/Kolm
-    Colmelawcken, Collmilawken
-    Colmen (deš.
-  citata_rodoma: |
     Ašeradė)
       Akmena (Jūros intakas), u.
       Akmena (Mituvos intakas), u.
       Akonas (Akra)
       Alanga, u.
+  citata_rodoma: "Ašeradė)\n  Akmena (Jūros intakas), u.\n  Akmena (Mituvos intakas), u.\n  Akonas (Akra)\n  Alanga, u."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90278
+    - t-002

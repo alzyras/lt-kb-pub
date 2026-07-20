@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-194316"></a>
 - t-001
-  global_id: t-194316
   teiginys: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
   atnaujinta: "2026-07-06 12:56"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194316
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-30754"></a>
 - t-001
-  global_id: t-30754
   teiginys: "K. Žukas 1965 m. paskelbė „Prof. K. Jablonskio bibliografiją“ leidinio „Bibliotekininkystės ir bibliografijos klausimai“ IV tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,14 +66,11 @@ media_all_json: |-
     (^85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir
     bibliografijos klausimai, IV t., 1965, 155-206 p. ; Z. Ivinskis :** **_Prof. K. Jab­
     lonskio atminimui (1892-1960).
-  citata_rodoma: |
-    **
-    (^85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir
-    bibliografijos klausimai, IV t., 1965, 155-206 p.
+  citata_rodoma: "**\n(^85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir\nbibliografijos klausimai, IV t., 1965, 155-206 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30754
+    - t-001

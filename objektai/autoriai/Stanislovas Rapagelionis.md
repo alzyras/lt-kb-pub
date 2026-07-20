@@ -40,7 +40,6 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 
 <a id="claim-t-05727"></a>
 - t-001
-  global_id: t-05727
   teiginys: "Stanislovas Rapagelionis vertė dalį giesmių, kurias Mažvydas paskelbė greta 1547 m. pirmojo lietuviško katekizmo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 
 <a id="claim-t-05728"></a>
 - t-002
-  global_id: t-05728
   teiginys: "Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,18 +84,15 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
     kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
     viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
     knygučių. Kiti jo darbą tęsė toliau.
-  citata_rodoma: |
-    Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
-    kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
-    viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
-    knygučių. Kiti jo darbą tęsė toliau.
+  citata_rodoma: "Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir\nkai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-\nviečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių\nknygučių. Kiti jo darbą tęsė toliau."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05727
+    - t-001
+
 - id: c-06624
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -109,12 +104,11 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
-  citata_rodoma: |
-    Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
+  citata_rodoma: "Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05728
+    - t-002

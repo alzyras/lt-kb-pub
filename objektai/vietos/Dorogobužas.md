@@ -27,12 +27,10 @@ media_all_json: |-
 
 Nenurodyta
 
-## Citatos
-
-- id: c-168646
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat stovykla, apsupta pylimu bei grioviais ir gi­
     nama daugybės kovotojų, net dienos šviesoje galėjo
@@ -47,7 +45,19 @@ Nenurodyta
     tvirtai žadėdamas lengvą pergalę. Maskvėnai tvirtino,
     kad didysis kunigaikštis jiems neleidęs stoti į atvirą
     mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168646
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Dėl žymiau­
     siųjų didikų nesutarimų, o ypač dėl to, kad kai kas
     pavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­
@@ -62,6 +72,7 @@ Nenurodyta
     nepraeinamais keliais į prie­
     šo kraštą ir išsivarė iš ten
     daug grobio.
+  citata_rodoma: "Dėl žymiau­\nsiųjų didikų nesutarimų, o ypač dėl to, kad kai kas\npavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­\nkalą ateičiai, o galop visai nieko nepadarė. Tuo tar­\npu priešas ne tik sveikas paspruko nepuolamas, bet,\nsudeginęs Dorogobužą\nnrikirtęs miške medžių, vi­\nsai užtvėrė karaliaus kariuo­\nmenei kelią. Vis dėlto Ostro­\ngiškis su keliomis lengvųjų\nraitelių vėliavomis įsiveržė\nnepraeinamais keliais į prie­\nšo kraštą ir išsivarė iš ten\ndaug grobio."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
 

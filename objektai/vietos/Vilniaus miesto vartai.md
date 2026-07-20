@@ -32,7 +32,6 @@ media_all_json: |-
 
 <a id="claim-t-86256"></a>
 - t-001
-  global_id: t-86256
   teiginys: "Sprendimu miesto sienoje nurodyta palikti penkerius Vilniaus miesto vartus, tarp jų vartus prie kelio į Trakus ir prie Pilies."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86256
+    - t-001

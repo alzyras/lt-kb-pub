@@ -7,14 +7,14 @@ datos:
   - '1342 m.'
 date_start: '1342'
 date_end: ''
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
 
 <a id="claim-t-190324"></a>
 - t-001
-  global_id: t-190324
   teiginys: "Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdamas apie ąžuolą netoli Vėluvos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -56,10 +55,9 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173207
-    - c-001
+
 <a id="claim-t-197344"></a>
 - t-002
-  global_id: t-197344
   teiginys: "Šiucas buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -70,22 +68,6 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   pagrindžia:
     - c-179142
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdamas apie ąžuolą netoli Vėluvos.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
-    Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
-    12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
-    13 Opisanie starožytnej Polski.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190324
 ## Citatos
 
 - id: c-173207
@@ -93,24 +75,19 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
-    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
-    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
-    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
-    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
-    meldžių papratimu slapčia ateidavo prie jos m elstis18.
-  citata_rodoma: |
     Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
     Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
     12 Treteris*, Henenbergeris, Šiucas, Hartknochas.
     13 Opisanie starožytnej Polski.
+  citata_rodoma: "Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už\nBaublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­\n12 Treteris*, Henenbergeris, Šiucas, Hartknochas.\n13 Opisanie starožytnej Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190324
+    - t-001
+
 - id: c-179142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -132,4 +109,4 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197344
+    - t-002

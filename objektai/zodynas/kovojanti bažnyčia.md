@@ -32,7 +32,6 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
 
 <a id="claim-t-58937"></a>
 - t-001
-  global_id: t-58937
   teiginys: "Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58937
+    - t-001

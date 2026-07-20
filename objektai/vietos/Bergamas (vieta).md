@@ -33,7 +33,6 @@ Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus
 
 <a id="claim-t-200814"></a>
 - t-001
-  global_id: t-200814
   teiginys: "Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus turistų lankomus miestus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200814
+    - t-001

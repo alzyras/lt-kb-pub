@@ -39,7 +39,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191130"></a>
 - t-001
-  global_id: t-191130
   teiginys: "Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki Tacito senovės autoriai estų neminėjo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191131"></a>
 - t-002
-  global_id: t-191131
   teiginys: "Pitėjas Masilietis, Masilijos astronomas ir jūrų keliautojas, apie 340 m. pr. Kr. išplaukė iš Masilijos uosto į Atlanto vandenyną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191132"></a>
 - t-003
-  global_id: t-191132
   teiginys: "Pitėjas Masilietis pasiekė Britanijos salas, prie krantų atliko astronominius stebėjimus ir nuplaukė iki Tūlos, pažymėtos 66 šiaurės platumos laipsnyje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -109,7 +106,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191133"></a>
 - t-004
-  global_id: t-191133
   teiginys: "Narbutas rašė, kad tos pačios kelionės metu Pitėjas Masilietis atrado šiaurines Tanajo upės žiotis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -130,7 +126,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191134"></a>
 - t-005
-  global_id: t-191134
   teiginys: "Narbutas spėjo, kad Pitėjas Masilietis priplaukė prie Nogato žiočių ir iš ten pakrante galėjo pasiekti Sembą per vieną ar dvi dienas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -152,7 +147,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191135"></a>
 - t-006
-  global_id: t-191135
   teiginys: "Narbutas nurodė nuomonę, kad Pitėjas Masilietis keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -173,8 +167,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174017
 
 <a id="claim-t-191137"></a>
-- t-007
-  global_id: t-191137
+- t-008
   teiginys: "Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -195,7 +188,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
 
 <a id="claim-t-191138"></a>
 - t-009
-  global_id: t-191138
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -213,10 +205,9 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174020
-    - c-009
+
 <a id="claim-t-197796"></a>
-- t-008
-  global_id: t-197796
+- t-010
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -228,8 +219,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174017
 
 <a id="claim-t-197797"></a>
-- t-010
-  global_id: t-197797
+- t-011
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -241,8 +231,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     - c-174019
 
 <a id="claim-t-197798"></a>
-- t-011
-  global_id: t-197798
+- t-012
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -282,10 +271,9 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     Plinijus bus pridūręs1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 - c-009
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -308,11 +296,10 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     besitęsianti sausuma.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191138
+  statusas: verified
+
 ## Citatos
 
 - id: c-174012
@@ -339,7 +326,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191130
+    - t-001
+
 - id: c-174013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -357,7 +345,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191131
+    - t-002
+
 - id: c-174014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -378,7 +367,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191132
+    - t-003
+
 - id: c-174015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -398,7 +388,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191133
+    - t-004
+
 - id: c-174016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -427,7 +418,8 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191134
+    - t-005
+
 - id: c-174017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -448,8 +440,9 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191135
-    - t-197796
+    - t-006
+    - t-010
+
 - id: c-174019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -469,8 +462,9 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191137
-    - t-197797
+    - t-008
+    - t-011
+
 - id: c-174020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -495,30 +489,15 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
     nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
-  citata_rodoma: |
-    Kopija iš Karaliau­
-    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
-    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
-    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
-    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
-    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
-    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
-    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
-    žiau kaip šiandien Sambijoje.
-    Laikui bėgant, čia marių vandenys visiškai pakeitė
-    pakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­
-    rokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau
-    ji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien
-    nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
-    labai daug gintaro, — ten seniau buvo daugelį mylių
-    besitęsianti sausuma.
+  citata_rodoma: "Kopija iš Karaliau­\nčiaus archyvo kopijos, sub titulo Pommeraniae pertinen­\ndo, yra be pradžios ir pabaigos. Argi tuo būdu negalima\nbuvo patekti j Baltiją, Plinijaus vadinamą gintaringa\nsala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos\nir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­\ndaug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už\nšiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­\nžiau kaip šiandien Sambijoje.\nLaikui bėgant, čia marių vandenys visiškai pakeitė\npakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­\nrokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau\nji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien\nnardo žuvys ir iš paslaptingų jūros gelmių išgaunama\nlabai daug gintaro, — ten seniau buvo daugelį mylių\nbesitęsianti sausuma."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191138
+    - t-009
+
 - id: c-179344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -547,4 +526,4 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197798
+    - t-012

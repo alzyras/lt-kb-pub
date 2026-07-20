@@ -31,7 +31,6 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai ap
 
 <a id="claim-t-185408"></a>
 - t-001
-  global_id: t-185408
   teiginys: "Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai apsiaustoje pilyje baigėsi maistas ir pilis atiteko Vytautui."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185408
+    - t-001

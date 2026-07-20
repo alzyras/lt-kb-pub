@@ -39,8 +39,7 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
 ## Teiginiai
 
 <a id="claim-t-187328"></a>
-- t-001
-  global_id: t-187328
+- t-003
   teiginys: "XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -62,7 +61,6 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
 
 <a id="claim-t-187329"></a>
 - t-002
-  global_id: t-187329
   teiginys: "Smotričių 1240 m. sunaikino totoriai."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -84,8 +82,7 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
     - c-170357
 
 <a id="claim-t-187330"></a>
-- t-003
-  global_id: t-187330
+- t-001
   teiginys: "Smotričius yra sena Podolės gyvenvietė, minima jau XII a."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -106,7 +103,6 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
 
 <a id="claim-t-187656"></a>
 - t-004
-  global_id: t-187656
   teiginys: "Smotričius yra sena Podolės gyvenvietė, minima jau XII a., o 1240 m. ją sunaikino totoriai."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -141,19 +137,14 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
     menec-PodoIsko) sr. miestelis. XIV a. antrojoje pusėje buvo Jurgio
     Karijotaičio, o po jo mirties (1375 m.) jo brolio Aleksandro Kari-
     jotaičio.
-  citata_rodoma: |
-    Smotričius — sena Podolės gyvenvietė, minima jau  XII a.,
-    totorių sunaikinta 1240 m. Dabar UTSR Chmelnickio (buvusios Ka-
-    menec-PodoIsko) sr. miestelis. XIV a. antrojoje pusėje buvo Jurgio
-    Karijotaičio, o  po jo mirties (1375 m.) jo brolio Aleksandro Kari-
-    jotaičio.
+  citata_rodoma: "Smotričius — sena Podolės gyvenvietė, minima jau  XII a., \ntotorių sunaikinta 1240 m. Dabar UTSR Chmelnickio (buvusios Ka- \nmenec-PodoIsko) sr. miestelis. XIV a. antrojoje pusėje buvo Jurgio \nKarijotaičio, o  po jo mirties (1375 m.) jo brolio Aleksandro Kari- \njotaičio."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187328
-    - t-187329
-    - t-187330
-    - t-187656
+    - t-003
+    - t-002
+    - t-001
+    - t-004

@@ -31,7 +31,6 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
 
 <a id="claim-t-34311"></a>
 - t-001
-  global_id: t-34311
   teiginys: "Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas buvo įtarinėjamas neištikimybe ir separatizmu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
 
 <a id="claim-t-184248"></a>
 - t-002
-  global_id: t-184248
   teiginys: "Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34311
+    - t-001
+
 - id: c-167632
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -115,4 +114,4 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184248
+    - t-002

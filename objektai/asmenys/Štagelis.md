@@ -39,7 +39,6 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 
 <a id="claim-t-87935"></a>
 - t-001
-  global_id: t-87935
   teiginys: "Štagelis Vilniuje garsėjo kaip auksakalys 1530 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
     auksakalių būta daug ir turtingų.
     Garsėjo: Volfgangas Auksakalys -
     1522 m., Štagelis - 1530 m.
-  citata_rodoma: |
-    24
-    Vilniuje Žygimanto Senojo laikais
-    auksakalių būta daug ir turtingų.
-    Garsėjo: Volfgangas Auksakalys -
-    1522 m., Štagelis - 1530 m.
+  citata_rodoma: "24\nVilniuje Žygimanto Senojo laikais \nauksakalių būta daug ir turtingų. \nGarsėjo: Volfgangas Auksakalys - \n1522 m., Štagelis - 1530 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87935
+    - t-001

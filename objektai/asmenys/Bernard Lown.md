@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-18851"></a>
 - t-001
-  global_id: t-18851
   teiginys: "Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,14 +82,14 @@ media_all_json: |-
     ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
-  citata_rodoma: |
-    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+  citata_rodoma: "ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18851
+    - t-001
+
 ## Ryšiai
 - Bernard Lown gimė [[objektai/vietos/Utena]]

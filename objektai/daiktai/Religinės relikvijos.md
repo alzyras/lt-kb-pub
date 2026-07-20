@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-23464"></a>
 - t-001
-  global_id: t-23464
   teiginys: "Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,14 +86,11 @@ Nenurodyta
     žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: |
-    Jie ne tik meldėsi, bendrau-
-    davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
-    literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
+  citata_rodoma: "Jie ne tik meldėsi, bendrau-\ndavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos \nliteratūros: maldaknygių, katekizmų ar Šventojo Rašto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23464
+    - t-001

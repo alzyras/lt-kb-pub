@@ -39,7 +39,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 <a id="claim-t-43365"></a>
 - t-001
-  global_id: t-43365
   teiginys: "Kalbininkai aisčius pagal kalbos tarmę skirsto į tris grupes: prūsus, lietuvius ir latvius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 <a id="claim-t-193085"></a>
 - t-002
-  global_id: t-193085
   teiginys: "Jis juos vadina aisčiais (aestii, aestiorum gentes)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -153,19 +151,15 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
     grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
     tarp jų istorinių laikų pradžioje dar buvo nežymūs.
-  citata_rodoma: |
-    Senovės aisčių religija**
-
-    Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
-    grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
-    tarp jų istorinių laikų pradžioje dar buvo nežymūs.
+  citata_rodoma: "Senovės aisčių religija**\n\nVisi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris\ngrupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai\ntarp jų istorinių laikų pradžioje dar buvo nežymūs."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-43365
+    - t-001
+
 - id: c-175850
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -183,6 +177,7 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193085
+    - t-002
+
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]

@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-22167"></a>
 - t-001
-  global_id: t-22167
   teiginys: "1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,12 +80,11 @@ media_all_json: |-
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: |
-    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+  citata_rodoma: "mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22167
+    - t-001

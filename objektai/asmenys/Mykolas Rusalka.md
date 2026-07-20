@@ -41,7 +41,6 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 
 <a id="claim-t-87801"></a>
 - t-001
-  global_id: t-87801
   teiginys: "Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,22 +82,11 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
     ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
-  citata_rodoma: |
-    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
-    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
-    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
-    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
-    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
-    bėjo.
+  citata_rodoma: "O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­\nterį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­\ntų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­\nsarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, \nMykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei \ndaugybės kitų dvariškių, kambarinių, arklininkų ir boja­\nrinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo \nmiesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos \nponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­\ntiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­\nbėjo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87801
+    - t-001

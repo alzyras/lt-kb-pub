@@ -49,8 +49,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 ## Teiginiai
 
 <a id="claim-t-36019"></a>
-- t-001
-  global_id: t-36019
+- t-002
   teiginys: "Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -66,8 +65,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     - c-38392
 
 <a id="claim-t-36020"></a>
-- t-002
-  global_id: t-36020
+- t-001
   teiginys: "Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -97,17 +95,15 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
     gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
     užantyje maitinti gyvatę.
-  citata_rodoma: |
-    Jo­
-    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
-    užantyje maitinti gyvatę.
+  citata_rodoma: "Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36020
+    - t-001
+
 - id: c-38392
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -123,17 +119,11 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
     žemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui
     Skirgailai^1 ).
-  citata_rodoma: |
-    Atsisakydamas jį priimti, Jo­
-    gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
-    užantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis
-    Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
-    žemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui
-    Skirgailai^1 ).
+  citata_rodoma: "Atsisakydamas jį priimti, Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis\nLietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau\nžemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui\nSkirgailai^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36019
+    - t-002

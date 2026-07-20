@@ -39,7 +39,6 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
 
 <a id="claim-t-186187"></a>
 - t-001
-  global_id: t-186187
   teiginys: "Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186187
+    - t-001

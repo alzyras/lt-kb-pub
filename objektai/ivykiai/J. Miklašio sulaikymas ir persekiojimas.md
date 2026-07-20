@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-200880"></a>
 - t-001
-  global_id: t-200880
   teiginys: "J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -59,13 +58,10 @@ Nenurodyta
   pagrindžia:
     - c-184225
 
-## Citatos
-
-- id: c-184225
-  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
-  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
-  puslapiai: "PDF 38-39"
-  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 38-39."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams.'
+  šaltinis: Lenkai Lietuvoje Dr. J. Basanavičius
   citata_originali: |
     B et jau uż-
     rubeżēje, susitikdam as su tulos patriotiškos spalvos
@@ -86,7 +82,21 @@ Nenurodyta
     išsiaiškino, bet persekiojimai iš lenkų pusēs bei
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-184225
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 38-39"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 38-39."
+  citata_originali: |
     Vienas jaunas lietuvis*, išsimo­
     kinęs tulą šaką techniškos chemijos speciališkuose
     institutuos Vokietijos, Prancuzijos ir Anglijos,
@@ -110,10 +120,11 @@ Nenurodyta
     išsiaiškino, bet persekiojimai iš lenkų pusēs bei
     smulkios intrigos nesiliovē ir jis priverstas buvo
     persikelt vidun Maskolijos.
+  citata_rodoma: "Vienas jaunas lietuvis*, išsimo­\nkinęs tulą šaką techniškos chemijos speciališkuose \ninstitutuos Vokietijos, Prancuzijos ir Anglijos, \nLietuvon sugrįżo, geisdam as u żsiimt labai naudin­\ngu tu lam kraštui fabrikišku veiklumu. B et jau uż- \nrubeżēje, susitikdam as su tulos patriotiškos spalvos \nlenkais, jis buvo użsitraukęs ant savęs nuotartį, buk\n* J. Miklašis\n\njis lenkiškiemsiems politiškiems idealams neištiki­\nm as esąs ir iš prieżasties melagingo skundo jau ant \nrubeżiaus, Maskolijon grįżtant, sulaikytas tapo. \nReikalas, żinoma, išsiaiškino, bet nuo to lengviaus \nnepasidarē. \nKada jis użsimanē pritraukt prie sa­\nvo użmanymo kelis turtingesnius ukininkus, ant jo \npadaryta svarbią denunciaciją, buk jis „prieš val­\ndżią maištan traukia ukininkus.” \nPateko po poli­\ncijos prieżiura — tu lam laikui praējus vēl reikalas \nišsiaiškino, bet persekiojimai iš lenkų pusēs bei \nsmulkios intrigos nesiliovē ir jis priverstas buvo \npersikelt vidun Maskolijos."
   statusas: verified
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200880
+    - t-001

@@ -29,8 +29,7 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
 ## Teiginiai
 
 <a id="claim-t-183363"></a>
-- t-001
-  global_id: t-183363
+- t-002
   teiginys: "Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -58,4 +57,4 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183363
+    - t-002

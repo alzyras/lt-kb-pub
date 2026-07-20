@@ -30,8 +30,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 ## Teiginiai
 
 <a id="claim-t-69028"></a>
-- t-001
-  global_id: t-69028
+- t-002
   teiginys: "Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,8 +39,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     - c-68454
 
 <a id="claim-t-69029"></a>
-- t-002
-  global_id: t-69029
+- t-001
   teiginys: "Į aisčių kraštą vykęs misionierius Vysla išplaukė į jūrą ir krantą pasiekė Priegliaus žiotyse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,7 +49,6 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 
 <a id="claim-t-193228"></a>
 - t-003
-  global_id: t-193228
   teiginys: "Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -74,16 +71,16 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     pos šiaurę. Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse.
-  citata_rodoma: |
-    jis priplaukė krantą Priegliaus žiotyse.
+  citata_rodoma: "jis priplaukė krantą Priegliaus žiotyse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69028
-    - t-69029
+    - t-002
+    - t-001
+
 - id: c-175966
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -100,4 +97,4 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193228
+    - t-003

@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87286"></a>
 - t-001
-  global_id: t-87286
   teiginys: "Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87286
+    - t-001

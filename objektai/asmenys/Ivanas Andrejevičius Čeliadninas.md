@@ -32,7 +32,6 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 
 <a id="claim-t-40143"></a>
 - t-001
-  global_id: t-40143
   teiginys: "Ivanas Andrejevičius Čeliadninas buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,21 +64,11 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
     čio dvaro pajėgoms vadovavo Ratajus Ši-
     riajevas. Vyriausias Maskvos kariuomenės
     vadas buvo Ivanas Čeliadninas.
-  citata_rodoma: |
-    bojarinų Grigorijaus Fiodorovičiaus
-    Davidovo, Ivano Andrejevičiaus Čelia-
-    dnino ir kitų vaivadų, tokių kaip kuni-
-    gaikščių Ivano Pronskio, Ivano „Tiomkos“
-    Rostovskio, Andriejaus Obolenskio, va-
-    dovaujamos pajėgos, kurias čia tuo tikslu
-    pasiuntė Maskvos valdovas Vasilijus 111,
-    pats likęs Smolenske. Didžiojo kunigaikš-
-    čio dvaro pajėgoms vadovavo Ratajus Ši-
-    riajevas.
+  citata_rodoma: "bojarinų Grigorijaus Fiodorovičiaus\nDavidovo, Ivano Andrejevičiaus Čelia-\ndnino ir kitų vaivadų, tokių kaip kuni-\ngaikščių Ivano Pronskio, Ivano „Tiomkos“\nRostovskio, Andriejaus Obolenskio, va-\ndovaujamos pajėgos, kurias čia tuo tikslu\npasiuntė Maskvos valdovas Vasilijus 111,\npats likęs Smolenske. Didžiojo kunigaikš-\nčio dvaro pajėgoms vadovavo Ratajus Ši-\nriajevas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40143
+    - t-001

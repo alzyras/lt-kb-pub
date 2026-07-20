@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-200849"></a>
 - t-001
-  global_id: t-200849
   teiginys: "Glaistytinis Šv. Trejybės reljefas portalo frontono skyde Vorobjovui žymėjo vartų bažnytinę paskirtį ir telkė šviesos bei šešėlių atšvaitus."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200849
+    - t-001

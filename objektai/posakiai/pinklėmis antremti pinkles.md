@@ -47,7 +47,6 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
 
 <a id="claim-t-67305"></a>
 - t-001
-  global_id: t-67305
   teiginys: "Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67305
+    - t-001

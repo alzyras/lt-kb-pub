@@ -37,19 +37,6 @@ Josvainiai minimi kaip vieta prie Šušvės ir Nevėžio santakos.
 
 Josvainiai šiame šaltinyje yra gyvenvietė ar vietovė.
 
-## Teiginiai
-
-<a id="claim-t-195492"></a>
-- t-001
-  global_id: t-195492
-  teiginys: "Šušvė įteka į Nevėžį ties Josvainiais."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177915
-
 ## Citatos
 
 - id: c-177915
@@ -58,22 +45,10 @@ Josvainiai šiame šaltinyje yra gyvenvietė ar vietovė.
   puslapiai: "p. 14 (PDF 12)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 14 (PDF 12)."
   citata_originali: |
-    Rašymas suteikė man malonių va­
-    landų : aš paviešėjau ne pas dėdę, ne pas tetą, tik mažystės dienose,
-    kurios mane žavi, kaip žavi jos kiekvieną žmogų.
-    Kad kultūringumo laipsnis įvairių Lietuvos vietų yra įvairus, tai
-    surašyti vaizdai liečia ne baudžiauninkus,
-    tik
-    karališkius žmones,
-    1862 metų.
-    Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­
-    niais.
-  citata_rodoma: |
     Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­niais.
+  citata_rodoma: "Vieta — upynas Šušvės, įtekančios į Nevėžį ties Josvai­niais."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195492

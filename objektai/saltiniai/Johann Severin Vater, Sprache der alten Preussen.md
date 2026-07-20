@@ -36,7 +36,6 @@ Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išle
 
 <a id="claim-t-192546"></a>
 - t-001
-  global_id: t-192546
   teiginys: "Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išleistą Leipcige leidinyje „Annalisten“."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išle
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192546
+    - t-001

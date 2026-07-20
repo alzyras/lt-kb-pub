@@ -41,7 +41,6 @@ Tautavičius, A.
 
 <a id="claim-t-31608"></a>
 - t-001
-  global_id: t-31608
   teiginys: "A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ Tautavičius, A.
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: |
-    — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
-    XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR
-    teritorijoje,_ AkMD, t. 18, 1965, 67-84 p. — (”) _Archeologiniai kasinėjimai
-    Vilniaus žemutinės pilies teritorijoje (1955-1960 m.
+  citata_rodoma: "— Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš\nXIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR\nteritorijoje,_ AkMD, t. 18, 1965, 67-84 p. — (”) _Archeologiniai kasinėjimai\nVilniaus žemutinės pilies teritorijoje (1955-1960 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31608
+    - t-001

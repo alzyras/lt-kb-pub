@@ -8,10 +8,10 @@ datos:
   - '1521 m.'
 date_start: '1520'
 date_end: '1521'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-201899"></a>
 - t-001
-  global_id: t-201899
   teiginys: "Štai per 1520-1521 m. Lenkijos ir Vokiečių ordino karą keliai per Vokiečių ordino valstybę buvo uždaryti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,6 +56,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185246
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -74,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201899
+    - t-001

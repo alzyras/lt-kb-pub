@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-91912"></a>
 - t-001
-  global_id: t-91912
   teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -112,4 +111,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91912
+    - t-001

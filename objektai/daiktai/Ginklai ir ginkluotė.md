@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45484"></a>
-- t-001
-  global_id: t-45484
+- t-004
   teiginys: "1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-48269
 
 <a id="claim-t-45485"></a>
-- t-002
-  global_id: t-45485
+- t-003
   teiginys: "1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -98,8 +96,7 @@ Nenurodyta
     - c-22238
 
 <a id="claim-t-45486"></a>
-- t-003
-  global_id: t-45486
+- t-002
   teiginys: "Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -119,8 +116,7 @@ Nenurodyta
     - c-166684
 
 <a id="claim-t-45487"></a>
-- t-004
-  global_id: t-45487
+- t-001
   teiginys: "1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -140,8 +136,7 @@ Nenurodyta
     - c-22235
 
 <a id="claim-t-183296"></a>
-- t-005
-  global_id: t-183296
+- t-006
   teiginys: "1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -176,18 +171,15 @@ Nenurodyta
     kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
-  citata_rodoma: |
-    1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
-    kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
-    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
-    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
+  citata_rodoma: "1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,\nkur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė\nginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių\nreikalavimu, leido panaudoti savo dalinius stabdant bolševizmą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45487
+    - t-001
+
 - id: c-22238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -204,19 +196,15 @@ Nenurodyta
     paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
     legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
     dvarus, visi, kas sveiki, turi griebtis ginklo“.
-  citata_rodoma: |
-    Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
-    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
-    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
-    dvarus, visi, kas sveiki, turi griebtis ginklo“.
+  citata_rodoma: "Kovos su lenkais įgavo ne tik teritorinį, bet ir so-\ncialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius\npaskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų\nlegionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo\ndvarus, visi, kas sveiki, turi griebtis ginklo“."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45485
+    - t-003
+
 - id: c-48269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -244,7 +232,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45484
+    - t-004
+
 - id: c-166684
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,7 +254,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45486
+    - t-002
+
 - id: c-166685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,4 +275,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183296
+    - t-006

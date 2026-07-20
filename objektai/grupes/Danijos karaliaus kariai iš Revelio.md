@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40871"></a>
-- t-001
-  global_id: t-40871
+- t-002
   teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ media_all_json: |-
     - c-44729
 
 <a id="claim-t-40872"></a>
-- t-002
-  global_id: t-40872
+- t-001
   teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,23 +92,15 @@ media_all_json: |-
     Lietuvių kariuomenė pozicijas užėmė
     rytiniame upelio krante, palikdama priešui
     nepatogesnę padėtį.
-  citata_rodoma: |
-    “ Šiam patarimui nepritarė
-    Danijos karaliaus kariai iš Revelio ir dau-
-    gybė kitų, tvirtindami, kad be žirgų jie nej-
-    stengsią mūšyje atsilaikyti dėl savo sunkios
-    ginkluotės.
-
-    Lietuvių kariuomenė pozicijas užėmė
-    rytiniame upelio krante, palikdama priešui
-    nepatogesnę padėtį.
+  citata_rodoma: "“ Šiam patarimui nepritarė\nDanijos karaliaus kariai iš Revelio ir dau-\ngybė kitų, tvirtindami, kad be žirgų jie nej-\nstengsią mūšyje atsilaikyti dėl savo sunkios\nginkluotės.\n\nLietuvių kariuomenė pozicijas užėmė\nrytiniame upelio krante, palikdama priešui\nnepatogesnę padėtį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40871
+    - t-002
+
 - id: c-44730
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,19 +121,11 @@ media_all_json: |-
     žiaus karo akciją buvo įtraukti ir prieš tuo
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
-  citata_rodoma: |
-    ), iš
-    Vokietijos žemių 30 naujai įstojusių Ordino
-    brolių būrys, Revelio (Talino) danų kariuo-
-    menė, vadovaujama švedų kunigaikščio
-    Karolio, turėjusio dar savo būrį. Į šią kry-
-    žiaus karo akciją buvo įtraukti ir prieš tuo
-    metu Rytų Europą užplūdusius totorius
-    gausiai suverbuoti kryžininkai.
+  citata_rodoma: "), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį. Į šią kry-\nžiaus karo akciją buvo įtraukti ir prieš tuo\nmetu Rytų Europą užplūdusius totorius\ngausiai suverbuoti kryžininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40872
+    - t-001

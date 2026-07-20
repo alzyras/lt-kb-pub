@@ -33,7 +33,6 @@ Svarbiausia literatūra: Bučinskytė Ilona.
 
 <a id="claim-t-202227"></a>
 - t-001
-  global_id: t-202227
   teiginys: "Svarbiausia literatūra: Bučinskytė Ilona."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Svarbiausia literatūra: Bučinskytė Ilona.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202227
+    - t-001

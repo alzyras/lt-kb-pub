@@ -30,7 +30,6 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 
 <a id="claim-t-19353"></a>
 - t-001
-  global_id: t-19353
   teiginys: "Šarlio Monteskjė valdžių padalijimo principu buvo remtasi aptariant valstybės politinę santvarką Konstitucijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,7 +39,6 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 
 <a id="claim-t-183577"></a>
 - t-002
-  global_id: t-183577
   teiginys: "Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -71,15 +69,15 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
     reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
     čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
     Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
-  citata_rodoma: |
-    Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
+  citata_rodoma: "Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19353
+    - t-001
+
 - id: c-166970
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -96,4 +94,4 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183577
+    - t-002

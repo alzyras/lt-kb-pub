@@ -7,13 +7,13 @@ datos:
   - '1285 m.'
 date_start: '1285'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62269"></a>
 - t-001
-  global_id: t-62269
   teiginys: "1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata."
   pagrindžia:
     - c-62788
-    - c-001
+
 <a id="claim-t-194386"></a>
 - t-003
-  global_id: t-194386
   teiginys: "Apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,28 +83,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62788
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie išdavystę, per kurią žuvo šimtas krikščionių
 
-      1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
-    gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
-    visokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio
-    pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
-    juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
-
-        227 (222).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62269
-    - t-194386
 ## Citatos
 
 - id: c-62788
@@ -127,25 +104,12 @@ Nenurodyta
 
 
         227 (222).
-  citata_rodoma: |
-    Apie išdavystę, per kurią žuvo šimtas krikščionių
-
-      1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai
-    gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams
-    visokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio
-    pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
-    juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
-
-
-
-
-
-        227 (222).
+  citata_rodoma: "Apie išdavystę, per kurią žuvo šimtas krikščionių\n\n  1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai\ngerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams\nvisokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio\npilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga\njuos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.\n\n\n\n\n\n    227 (222)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62269
-    - t-194386
+    - t-001
+    - t-003

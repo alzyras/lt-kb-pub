@@ -39,7 +39,6 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
 
 <a id="claim-t-191463"></a>
 - t-001
-  global_id: t-191463
   teiginys: "Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191463
+    - t-001

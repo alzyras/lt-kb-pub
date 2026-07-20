@@ -42,7 +42,6 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
 
 <a id="claim-t-200912"></a>
 - t-001
-  global_id: t-200912
   teiginys: "Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200912
+    - t-001

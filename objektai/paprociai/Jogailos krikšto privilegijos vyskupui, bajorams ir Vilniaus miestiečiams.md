@@ -49,9 +49,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-54243"></a>
-- t-001
-  global_id: t-54243
+<a id="claim-t-54242"></a>
+- t-002
   teiginys: "Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,19 +80,11 @@ Nenurodyta
     ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
-  citata_rodoma: |
-    Petro Naujosios bažnyčios
-    freska, XV a. pr.
-    o aukščiausiam senjorui – valdovui buvo suteikta valdžios tęstinumo ir
-    paveldimumo sankcija. Su tripartitio christiana (visuomenės skirstymas į
-    karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti
-    ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
-    privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
-    nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
+  citata_rodoma: "Petro Naujosios bažnyčios  \nfreska, XV a. pr.\no aukščiausiam senjorui – valdovui buvo suteikta valdžios tęstinumo ir \npaveldimumo sankcija. Su tripartitio christiana (visuomenės skirstymas į \nkarius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti \nir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė \nprivilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų \nnuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54243
+    - t-002

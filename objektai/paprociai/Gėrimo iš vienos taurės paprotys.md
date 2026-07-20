@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-200730"></a>
 - t-001
-  global_id: t-200730
   teiginys: "Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos taurės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyzdžiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremonialo, dalis."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-200731"></a>
 - t-002
-  global_id: t-200731
   teiginys: "Gėrimo iš vienos taurės paprotys bajoriškojoje Lietuvos kultūroje išnyko XVIII–XIX a. sandūroje, veikiamas Apšvietos pasaulėžiūros."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,6 @@ Nenurodyta
 
 <a id="claim-t-200732"></a>
 - t-003
-  global_id: t-200732
   teiginys: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,6 @@ Nenurodyta
 
 <a id="claim-t-200733"></a>
 - t-004
-  global_id: t-200733
   teiginys: "Rimvydas Laužikas gėrimą iš vienos taurės laiko labai tolimu senųjų papročių atgarsiu, valstietiškoje kultūroje dar žinotu XX a. pabaigoje–XXI a. pradžioje."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -141,83 +137,41 @@ Nenurodyta
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 7"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 7."
-  citata_originali: |
-    Viduriniais amžiais ir naujaisiais laikais Vakarų Europoje gėrimas iš vienos tau-
-    rės buvo ne vien krikščioniškųjų apeigų, bet ir pasaulietinių ceremonijų, pavyz-
-    džiui, vestuvių dalyvių ar universiteto profesorių bendrystę pabrėžiančio ceremo-
-    nialo, dalis. Glazgo universiteto muziejuje (The Hunterian Museum) saugoma taurė
-    su inskripcija Loving Cup of Glazgow College, XVI–XVII a. naudota kaip tik tokių
-    ceremonijų metu. „Meilingumo taurės“ paprastai buvo nemenkõs talpos ir gami-
-    namos su dviem ąsomis, kad būtų patogiau perduoti kitam (Loving Cup [2016]).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200730
+    - t-001
 
 - id: c-184076
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Gėrimo iš vienos taurės paprotys bajoriškojoje Lietuvos kultūroje išnyko XVIII–
-    XIX a. sandūroje veikiamas Apšvietos pasaulėžiūros. Johannas Erichas Biesteris
-    (1749–1816) pastebėjo, kad XVIII a. antrojoje pusėje šis paprotys išlikęs tik mažuo-
-    se miesteliuose, tarp senyvo amžiaus bajorų (ten pat). Tam didelės reikšmės turėjo
-    ne tik ATR bajorų kasdieninio gyvenimo europeizacija (ryškiai aprašyta J. Kitowi­
-    cziaus), bet ir pasikeitusi sveikos gyvensenos ir higienos samprata. 1709 m. pran-
-    cūzų gydytojas Philippe’as Hecquet pristatė naują požiūrį į dietą (Hecquet 1709).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200731
+    - t-002
 
 - id: c-184077
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józe-
-    fas Kauschas (1751–1825). Jis mini, kad jam nepatikdavę po valgio gerti vyną kartu
-    su kitais iš vienos taurės, kuri nebūdavusi išplaunama (ten pat). J. Kitowiczius pa-
-    žymėjo, kad esminiai pokyčiai prasidėję kartu su stiklinių taurių paplitimu, nes ant
-    jų kraštų buvo ryškiai matomi pirmiau gėrusiojo lūpų pėdsakai. Daugeliui tai kėlė
-    pasibjaurėjimą, todėl pilantysis gėrimą, prieš perduodamas stiklinę taurę kitam, jos
-    kraštus nuvalydavo servetėle; pasibjaurėjimui gėrimo iš vienos taurės papročiu au-
-    gant, taurės buvo praskalaujamos vandenyje po kiekvieno gėriko, o mažas taureles
-    imta serviruoti kiekvienam individualiai (Kitowicz 1840: 241).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:13"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200732
+    - t-003
 
 - id: c-184078
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 16"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
-  citata_originali: |
-    Tačiau gėrimas iš vienos taurės, kaip labai tolimas senųjų papročių atgarsis –
-    bendrystės reprezentacija, valstietiškoje kultūroje buvo žinomas dar ir XX a. pa-
-    baigoje–XXI a. pradžioje (straipsnio autoriui ne kartą teko šį paprotį „išbandyti“).
-    Geriant ratu per rankas leidžiamas tas pats stikliukas, kurį kiekvienas gėrėjas, pa-
-    labinęs greta sėdintį, ištuština iki dugno, vėl pripila to paties gėrimo ir perduoda
-    kaimynui. Pažymėtina, kad tokiu būdu, kaip ir turėtų būti, negeriamas alus, o tik
-    stiprieji („užsieniniai“) gėrimai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200733
+    - t-004

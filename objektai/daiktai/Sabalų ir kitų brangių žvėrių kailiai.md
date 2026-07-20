@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-198532"></a>
 - t-001
-  global_id: t-198532
   teiginys: "Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -62,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-180555
-    - c-170023
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -87,55 +86,13 @@ Nenurodyta
     ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
     čiuojamą daugybę dovanų — aukso, sidabro ir bran­
     gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
-    lių 5, ir apmokėjo išlaidas, kurias Algirdas pasidarė,
-    žygiuodamas j Maskvos žemę.
-  citata_rodoma: |
-    Ir,
-    niekaip neišgalėdamas jam atsispirti, nusiuntė pas jj,
-    prašydamas [taikos] ir žadėdamas jam brangias dova­
-    nas, idant jo iš Maskvos, jo tėvonijos, neišvarytų,
-    o savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­
-    norės.
-    Ir didysis kunigaikštis Algirdas pasigailėjo, parodė
-    savo maloningumą, nemetė jo iš Maskvos ir padarė su
-    juo taiką. O paskui, sudarius susitarimą, ir pats Mask­
-    vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
-    ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
-    čiuojamą daugybę dovanų — aukso, sidabro ir bran­
-    gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
     lių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė,
     žygiuodamas j Maskvos žemę.
+  citata_rodoma: "Ir, \nniekaip neišgalėdamas jam atsispirti, nusiuntė pas jj, \nprašydamas [taikos] ir žadėdamas jam brangias dova­\nnas, idant jo iš Maskvos, jo tėvonijos, neišvarytų, \no savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­\nnorės.\nIr didysis kunigaikštis Algirdas pasigailėjo, parodė \nsavo maloningumą, nemetė jo iš Maskvos ir padarė su \njuo taiką. O paskui, sudarius susitarimą, ir pats Mask­\nvos didysis kunigaikštis išjojo pas jį, ir matėsi su juo, \nir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­\nčiuojamą daugybę dovanų — aukso, sidabro ir bran­\ngių perlų, sabalų bei kitų brangių ir retų žvėrių kai­\nlių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė, \nžygiuodamas j Maskvos žemę."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198532
-- id: c-170023
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir,
-    niekaip neišgalėdamas jam atsispirti, nusiuntė pas jj,
-    prašydamas [taikos] ir žadėdamas jam brangias dova­
-    nas, idant jo iš Maskvos, jo tėvonijos, neišvarytų,
-    o savo rūstybę numalšintų ir pasiimtų iš jo. ką pa­
-    norės.
-    Ir didysis kunigaikštis Algirdas pasigailėjo, parodė
-    savo maloningumą, nemetė jo iš Maskvos ir padarė su
-    juo taiką. O paskui, sudarius susitarimą, ir pats Mask­
-    vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
-    ir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­
-    čiuojamą daugybę dovanų — aukso, sidabro ir bran­
-    gių perlų, sabalų bei kitų brangių ir retų žvėrių kai­
-    lių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė,
-    žygiuodamas j Maskvos žemę.
-  citata_rodoma: "O paskui, sudarius susitarimą, ir pats Mask­\nvos didysis kunigaikštis išjojo pas jį, ir matėsi su juo, \nir dovanojo didžiajam kunigaikščiui Algirdui nesuskai­\nčiuojamą daugybę dovanų — aukso, sidabro ir bran­\ngių perlų, sabalų bei kitų brangių ir retų žvėrių kai­\nlių 5 , ir apmokėjo išlaidas, kurias Algirdas pasidarė, \nžygiuodamas j Maskvos žemę."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-198532
+    - t-001

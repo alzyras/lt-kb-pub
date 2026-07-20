@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1402'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
   - valstybė
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182878"></a>
-- t-001
-  global_id: t-182878
+- t-008
   teiginys: "Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ media_all_json: |-
     - c-166282
 
 <a id="claim-t-184326"></a>
-- t-002
-  global_id: t-184326
+- t-009
   teiginys: "Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -82,8 +80,7 @@ media_all_json: |-
     - c-167697
 
 <a id="claim-t-184408"></a>
-- t-003
-  global_id: t-184408
+- t-010
   teiginys: "Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -105,10 +102,9 @@ media_all_json: |-
     - c-167773
 
 <a id="claim-t-185214"></a>
-- t-004
-  global_id: t-185214
+- t-011
   teiginys: "Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -116,10 +112,9 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168575
-    - c-004
+
 <a id="claim-t-192787"></a>
-- t-005
-  global_id: t-192787
+- t-012
   teiginys: "Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -143,8 +138,7 @@ media_all_json: |-
     - c-175557
 
 <a id="claim-t-192788"></a>
-- t-006
-  global_id: t-192788
+- t-013
   teiginys: "Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -353,25 +347,6 @@ media_all_json: |-
 - susijęs iš Malburgas: Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
 - susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    N ei
-    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
-    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
-    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
-    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
-    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
-    imti sau arb a k u riam  savo sūnui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185214
 ## Citatos
 
 - id: c-166282
@@ -385,19 +360,15 @@ media_all_json: |-
     Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
     _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
-  citata_rodoma: |
-    Su
-    5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-
-    Dimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog
-    _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
-    to » (« postulati regis Bohemiae Vitoldi »)^17.
+  citata_rodoma: "Su\n5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio Kaributo-\nDimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog\n_«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­\nto » (« postulati regis Bohemiae Vitoldi »)^17."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182878
+    - t-008
+
 - id: c-167697
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -419,7 +390,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184326
+    - t-009
+
 - id: c-167773
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -438,30 +410,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184408
+    - t-010
+
 - id: c-168575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Pilies gynėjai, iš visų pusių apsupti,
-    mėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai
-    nuo padegamųjų strėlių daugelyje vietų suliepsnojo
-    namai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,
-    įgulos viršininkui, pasidavė
-    1467 m e ta i
-    karaliui. Choinicams kritus,
-    G im sta
-    k u n ig a ik štis
-    popiežiaus pasiuntinys
-    Ru-
-    Z y g im a n ta s
-    dolfas pasistengė, kad būtų
-    sudaryta taika.
-    Pirmąją sekančių metų dieną padaugėjo karaliui ir
-    įpėdinių, nes gimė Žygimantas16, ir rūpesčių, nes neži­
-    nojo, ar pavyks išlaikyti savo rankose Lietuvą.
-  citata_rodoma: |
     N ei
     pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
     K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
@@ -469,13 +424,15 @@ media_all_json: |-
     V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
     m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
     imti sau arb a k u riam  savo sūnui.
+  citata_rodoma: "N ei\npasiuntinybei, nei chanui nepagailėta g au sių  dovanų.\nK azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi\nb ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam\nV ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,\nm anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­\nimti sau arb a k u riam  savo sūnui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185214
+    - t-011
+
 - id: c-175557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -495,7 +452,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192787
+    - t-012
+
 - id: c-175558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -519,7 +477,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192788
+    - t-013
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]

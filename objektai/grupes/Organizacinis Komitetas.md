@@ -31,7 +31,6 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
 
 <a id="claim-t-01433"></a>
 - t-001
-  global_id: t-01433
   teiginys: "Organizacinis Komitetas, norėdamas tęsti politinę veiklą, pareiškė, kad bus galima glaudžiau santykiauti su Vokietija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01433
+    - t-001

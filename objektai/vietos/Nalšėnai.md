@@ -38,8 +38,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 ## Teiginiai
 
 <a id="claim-t-32381"></a>
-- t-001
-  global_id: t-32381
+- t-003
   teiginys: "Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - c-32260
 
 <a id="claim-t-32382"></a>
-- t-002
-  global_id: t-32382
+- t-004
   teiginys: "Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo Nalšėnų kunigas Suksė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - c-32261
 
 <a id="claim-t-32383"></a>
-- t-003
-  global_id: t-32383
+- t-002
   teiginys: "Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - c-33961
 
 <a id="claim-t-32384"></a>
-- t-004
-  global_id: t-32384
+- t-001
   teiginys: "Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -149,7 +145,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32381
+    - t-003
+
 - id: c-32261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -168,7 +165,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32382
+    - t-004
+
 - id: c-33961
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -181,18 +179,15 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     šeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo
     (1265 m.) į Pskovą pasitraukė su šeimomis 300 lietuvių, kurie ten
     visi pasikrikštijo^217.
-  citata_rodoma: |
-    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
-    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
-    šeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo
-    (1265 m.
+  citata_rodoma: "Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­\ntas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo\nšeima, bajorais ir palydovais (družina). Įkandin ar drauge su juo\n(1265 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32383
+    - t-002
+
 - id: c-33962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -204,19 +199,15 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
     tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
     šeima, bajorais ir palydovais (družina).
-  citata_rodoma: |
-    Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
-    opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.
-    Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­
-    tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo
-    šeima, bajorais ir palydovais (družina).
+  citata_rodoma: "Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų\nopozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.\nPradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­\ntas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo\nšeima, bajorais ir palydovais (družina)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32384
+    - t-001
+
 ## Ryšiai
 - Puolė Nalšėnai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

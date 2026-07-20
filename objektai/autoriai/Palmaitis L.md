@@ -39,7 +39,6 @@ Dusburgietis teigia, kad palmaitis L.
 
 <a id="claim-t-62649"></a>
 - t-001
-  global_id: t-62649
   teiginys: "L. Palmaitis paskelbė straipsnį apie prūsų kalbos negimininių įvardžių formų kilmę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Dusburgietis teigia, kad palmaitis L.
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
     p. 156—164.
     Paszkiewicz H. Jagiellonowie a Moskwa.— Warszawa, 1933.
-  citata_rodoma: |
-    Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
-    p. 156—164.
-      Paszkiewicz H. Jagiellonowie a Moskwa.— Warszawa, 1933.
+  citata_rodoma: "Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),\np. 156—164.\n  Paszkiewicz H. Jagiellonowie a Moskwa.— Warszawa, 1933."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62649
+    - t-001

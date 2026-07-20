@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-77951"></a>
 - t-001
-  global_id: t-77951
   teiginys: "LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,4 +97,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77951
+    - t-001

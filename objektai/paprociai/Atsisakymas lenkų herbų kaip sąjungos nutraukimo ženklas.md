@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-185910"></a>
 - t-001
-  global_id: t-185910
   teiginys: "Kojelavičiaus pasakojime daugelis didikų atsisakė lenkų herbų kaip senosios sąjungos su lenkais nutraukimo ženklo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -84,4 +83,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185910
+    - t-001

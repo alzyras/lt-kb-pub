@@ -31,7 +31,6 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 
 <a id="claim-t-41220"></a>
 - t-001
-  global_id: t-41220
   teiginys: "Žaliosios rinktinės Aušros būrys, vadovaujamas Igno Gasčiūno-Artojo, įsitraukė į kautynes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,16 +60,11 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
     Aušros (vadas Ignas Gasčiūnas- Artojas)
     būrys. Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės.
-  citata_rodoma: |
-    Tuojau pat
-    į kautynes įsitraukė ir Žaliosios rinktinės
-    Aušros (vadas Ignas Gasčiūnas- Artojas)
-    būrys. Tai vienoje, tai kitoje miško vietoje
-    vyko atkaklios kautynės.
+  citata_rodoma: "Tuojau pat\nį kautynes įsitraukė ir Žaliosios rinktinės\nAušros (vadas Ignas Gasčiūnas- Artojas)\nbūrys. Tai vienoje, tai kitoje miško vietoje\nvyko atkaklios kautynės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41220
+    - t-001

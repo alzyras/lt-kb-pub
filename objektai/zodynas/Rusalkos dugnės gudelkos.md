@@ -31,7 +31,6 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
 
 <a id="claim-t-189249"></a>
 - t-001
-  global_id: t-189249
   teiginys: "Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė Lasickio jai priskirtą tešlos globą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -49,27 +48,7 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172137
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė Lasickio jai priskirtą tešlos globą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Dugne (Dugną)
-    Upinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­
-    teikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­
-    tybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi
-    pats žodis Dugnas reiškia upės dugną. Nebent pripažintume,
-    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
-    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
-    įeina vanduo.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189249
+
 ## Citatos
 
 - id: c-172137
@@ -85,19 +64,11 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
     jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
     nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
     įeina vanduo.
-  citata_rodoma: |
-    Dugne (Dugną)
-    Upinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­
-    teikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­
-    tybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi
-    pats žodis Dugnas reiškia upės dugną. Nebent pripažintume,
-    jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią
-    nimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją
-    įeina vanduo.
+  citata_rodoma: "Dugne (Dugną)\nUpinė nimfa, kitaip Gudelka26 * 28, pagal tai, ką aukščiau pa­\nteikėme iš Jakimavičiaus. Lasickis šiai dievybei priskiria ypa­\ntybe globoti įmaišytą tešlą; tai visai nepanašu į tiesą, kadangi\npats žodis Dugnas reiškia upės dugną. Nebent pripažintume,\njog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią\nnimfoms priklausė globoti įmaišytą tešlą gal dėl to, kad į ją\nįeina vanduo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189249
+    - t-001

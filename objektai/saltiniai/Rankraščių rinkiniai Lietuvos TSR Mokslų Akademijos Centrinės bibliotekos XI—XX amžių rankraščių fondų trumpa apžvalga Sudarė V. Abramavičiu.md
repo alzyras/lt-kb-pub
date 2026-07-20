@@ -7,12 +7,12 @@ datos:
   - '1963 m.'
 date_start: '1963'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
 
 <a id="claim-t-61267"></a>
 - t-001
-  global_id: t-61267
   teiginys: "V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,21 +52,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį sakinį."
   pagrindžia:
     - c-61899
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
-    amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61267
+
 ## Citatos
 
 - id: c-61899
@@ -75,17 +60,13 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
-    šviesoje.—K., 1935.
-    Vydūnas. Sieben Hundert Jahre deutsch-litauischer Bezie-Orden — Voigt J. Geschichte
-    Preussens, Bd.
-  citata_rodoma: |
     Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX
     amžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963.
+  citata_rodoma: "Rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijos Centrinės bibliotekos XI—XX\namžių rankraščių fondų trumpa apžvalga / Sudarė V. Abramavičius.—V., 1963."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61267
+    - t-001

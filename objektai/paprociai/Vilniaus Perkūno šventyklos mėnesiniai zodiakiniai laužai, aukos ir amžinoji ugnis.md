@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-194825"></a>
 - t-001
-  global_id: t-194825
   teiginys: "Kiekvienas laiptas buvo skirtas kuriam nors vienam Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar leisdamasi įžengdavo į tą ženklą, ant tų laiptų buvo uždegami ir aukų aukojimo laužai; taigi aukščiausias laiptas buvo Vė žio, o žemiausias -."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194825
+    - t-001

@@ -8,13 +8,13 @@ datos:
   - '1653 m.'
 date_start: '1574'
 date_end: '1653'
-sukurta: ''
-atnaujinta: ''
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XVI'
   - 'XVII'
-periodo_grupes:
-  - 'LDK'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +38,6 @@ Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėz
 
 <a id="claim-t-202148"></a>
 - t-001
-  global_id: t-202148
   teiginys: "Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje, Čekijoje, asketinių ir poleminių tekstų autorius, 1607-1609 m. Vilniaus akademijos profesorius, 1627-1631 m. Lietuvos."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202148
+    - t-001

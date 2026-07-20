@@ -31,7 +31,6 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
 
 <a id="claim-t-189278"></a>
 - t-001
-  global_id: t-189278
   teiginys: "Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėją, galėjusią saugoti bites nuo kenksmingų vabzdžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189278
+    - t-001

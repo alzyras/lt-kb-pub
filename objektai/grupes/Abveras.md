@@ -31,7 +31,6 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 
 <a id="claim-t-19624"></a>
 - t-001
-  global_id: t-19624
   teiginys: "Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
-  citata_rodoma: |
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+  citata_rodoma: "Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19624
+    - t-001

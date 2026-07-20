@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87202"></a>
 - t-001
-  global_id: t-87202
   teiginys: "Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-87203"></a>
 - t-002
-  global_id: t-87203
   teiginys: "Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,6 @@ Nenurodyta
 
 <a id="claim-t-194185"></a>
 - t-003
-  global_id: t-194185
   teiginys: "Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar ba šiaip vietovė kokiam nors dievai čiui pašvęsta."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -175,6 +172,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87202
-    - t-87203
-    - t-194185
+    - t-001
+    - t-002
+    - t-003

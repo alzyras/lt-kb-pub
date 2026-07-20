@@ -31,7 +31,6 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
 
 <a id="claim-t-191151"></a>
 - t-001
-  global_id: t-191151
   teiginys: "Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
 
 <a id="claim-t-197804"></a>
 - t-002
-  global_id: t-197804
   teiginys: "Pompomijus Mela kalba apie Gdansko Zulavas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -88,7 +86,8 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191151
+    - t-001
+
 - id: c-179347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -106,4 +105,4 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197804
+    - t-002

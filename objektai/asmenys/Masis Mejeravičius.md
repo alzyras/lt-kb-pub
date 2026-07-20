@@ -7,12 +7,12 @@ datos:
   - '1606 m.'
 date_start: '1606'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202128"></a>
 - t-001
-  global_id: t-202128
   teiginys: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė Kauno vaitui Albertui Beinartui pranešimą ir aiškino, kad Masis Mejeravičius, turįs tarnauti jam 2 metus ir išmokti lietuvių kalbos, ruošiasi pabėgti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202128
+    - t-001

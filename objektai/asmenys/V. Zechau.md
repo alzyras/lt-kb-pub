@@ -31,7 +31,6 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
 
 <a id="claim-t-40494"></a>
 - t-001
-  global_id: t-40494
   teiginys: "Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,18 +61,11 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
     su 18-ojo vokiečių saksų pėstininkų
     pulko vadu mjr. V. Zechau. Buvo nu-
     matyta Uteną pulti trimis kolonomis.
-  citata_rodoma: |
-    )
-
-    ## Puslapis 185
-
-    su 18-ojo vokiečių saksų pėstininkų
-    pulko vadu mjr. V. Zechau. Buvo nu-
-    matyta Uteną pulti trimis kolonomis.
+  citata_rodoma: ")\n\n## Puslapis 185\n\nsu 18-ojo vokiečių saksų pėstininkų\npulko vadu mjr. V. Zechau. Buvo nu-\nmatyta Uteną pulti trimis kolonomis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40494
+    - t-001

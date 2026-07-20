@@ -45,8 +45,7 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 ## Teiginiai
 
 <a id="claim-t-50929"></a>
-- t-001
-  global_id: t-50929
+- t-002
   teiginys: "Skirgaila per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus.“"
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -62,8 +61,7 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
     - c-37141
 
 <a id="claim-t-50930"></a>
-- t-002
-  global_id: t-50930
+- t-001
   teiginys: "Skirgaila, matydamas sau pavojų, per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus“."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -87,18 +85,12 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
     nęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,
     dažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­
     mą padaryti atitinkamų nedviprasmiškų žingsnių.
-  citata_rodoma: |
-    Skirgaila, matydamas čia sau pavojų, atsiuntė
-    pas Vytautą savo tarną Varšą su formaliniu perspėjimu dėl toli­
-    mesnių represijų ir tarytum su karo paskelbimu: „Saugokis ma­
-    nęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,
-    dažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­
-    mą padaryti atitinkamų nedviprasmiškų žingsnių.
+  citata_rodoma: "Skirgaila, matydamas čia sau pavojų, atsiuntė\npas Vytautą savo tarną Varšą su formaliniu perspėjimu dėl toli­\nmesnių represijų ir tarytum su karo paskelbimu: „Saugokis ma­\nnęs, kaip ir aš tavęs saugaus”. Ir tikrai jis saugojos Vytauto,\ndažnai kreipdamas Jogailos dėmesį ir išgaudamas iš jo sutiki­\nmą padaryti atitinkamų nedviprasmiškų žingsnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50929
-    - t-50930
+    - t-002
+    - t-001

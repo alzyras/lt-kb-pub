@@ -30,7 +30,6 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
 
 <a id="claim-t-189058"></a>
 - t-001
-  global_id: t-189058
   teiginys: "Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papročio mergaitėms nešioti įvairaus dydžio rutulinius varpelius."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,6 +71,7 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189058
+    - t-001
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Mordviai]]

@@ -27,33 +27,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # geležinė uždanga
 
 ## Santrauka
 
 1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų.
-
-## Teiginiai
-
-<a id="claim-t-22145"></a>
-- t-001
-  global_id: t-22145
-  teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ nugabeno partizanų dokumentus į laisvąjį pasaulį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozas Lukša-Skirmantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "geležinė uždanga: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Lukša-Skirmantas: mention_match, person, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"geležinė uždanga\" parinktas kaip owner_note_path. Targetas \"Juozas Lukša-Skirmantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie objektą ir tiksliai remiasi citata."
-  pagrindžia:
-    - c-24831
 
 ## Citatos
 
@@ -74,12 +53,9 @@ media_all_json: |-
     popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
     dėmesį į Lietuvos okupaciją ir tarptautinės organizacijos pareikalaus, kad
     SSRS nutrauktų terorą.
-  citata_rodoma: |
-    popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips
+  citata_rodoma: "popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-22145

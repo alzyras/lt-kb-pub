@@ -40,8 +40,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 ## Teiginiai
 
 <a id="claim-t-64534"></a>
-- t-001
-  global_id: t-64534
+- t-002
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,9 +58,9 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   pagrindžia:
     - c-65249
     - c-166731
+
 <a id="claim-t-183340"></a>
-- t-002
-  global_id: t-183340
+- t-003
   teiginys: "Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -97,15 +96,15 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
     Aldona Bieliūnienė ir kiti.
-  citata_rodoma: |
-    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
+  citata_rodoma: "= Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64534
+    - t-002
+
 - id: c-166730
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,7 +119,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183340
+    - t-003
+
 - id: c-166731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,3 +135,5 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

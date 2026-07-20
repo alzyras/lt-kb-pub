@@ -34,7 +34,6 @@ Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį �
 
 <a id="claim-t-200748"></a>
 - t-001
-  global_id: t-200748
   teiginys: "Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį šaltinį apie Lietuvos gėrimų vartojimo papročius."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -60,19 +59,8 @@ Rimvydas Laužikas Wulfstano pasakojimą nurodo kaip ankstyviausią rašytinį �
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 2"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
-  citata_originali: |
-    Ankstyviausias rašytinis šalti-
-    nis – jau minėtasis Wulfstano pasakojimas. Jo autorius pastebi, kad „kunigaikščiai ir
-    diduomenė geria kumelių pieną, neturtingieji ir vergai geria midų“, o „pastatydami
-    du indus, alaus arba vandens pripildytus, jie padaro, kad abu įšąla“ (Barrington
-    1773: 17–20). Čia turėtume pažymėti, kad tiek Wulfstanas, tiek vėlesni šiuos gėri-
-    mus minintys autoriai (Janas Dlugošas, Adomas Brėmenietis, Petras Dusburgietis)
-    buvo daugiau išoriniai stebėtojai (arba net ne stebėtojai, o svetimų pasakojimų per-
-    rašinėtojai), tad ir jų teiginius turėtume vertinti kritiškai.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200748
+    - t-001

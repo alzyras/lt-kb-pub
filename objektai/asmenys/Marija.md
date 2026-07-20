@@ -33,7 +33,6 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
 
 <a id="claim-t-35219"></a>
 - t-001
-  global_id: t-35219
   teiginys: "Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
     - c-38089
 
 <a id="claim-t-196855"></a>
-- t-002
-  global_id: t-196855
+- t-003
   teiginys: "Marija jau buvo iš Drohičino atvykęs į Gardiną."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -129,19 +127,15 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
     jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
-  citata_rodoma: |
-    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
-    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
-    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
-    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
+  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35219
+    - t-001
+
 - id: c-176579
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -165,4 +159,4 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196855
+    - t-003

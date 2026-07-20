@@ -33,7 +33,6 @@ Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tiky
 
 <a id="claim-t-201225"></a>
 - t-001
-  global_id: t-201225
   teiginys: "Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tikybos."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tiky
 ## Citatos
 
 - id: c-184575
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Už ką tie kraugeriai vadina
     mus bedieviais, netikėliais, piktesniais už žvėris, ar
@@ -72,4 +72,4 @@ Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tiky
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201225
+    - t-001

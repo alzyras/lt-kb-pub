@@ -30,7 +30,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 
 <a id="claim-t-190437"></a>
 - t-001
-  global_id: t-190437
   teiginys: "Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173320
-    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
@@ -119,26 +117,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - susijęs iš [[objektai/zodynas/Ragutienė pati Nukijdimas.md#claim-t-189323|Ragutienė pati Nukijdimas]]: Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojančią deivę ir pagal vardą sieja ją su Ragučio žmona.
 - susijęs iš [[objektai/zodynas/Ragutis Bubilis.md#claim-t-189134|Ragutis Bubilis]]: Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir degtinės varytojų dievą, kitaip vadintą Bubilu.
 - susijęs iš [[objektai/zodynas/Veliona Wellona.md#claim-t-189187|Veliona Wellona]]: Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jokiu bū­
-    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
-    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
-    dorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis
-    (ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­
-    pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
-    dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
-    kiai tyrėjo nuomonei.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190437
 ## Citatos
 
 - id: c-173320
@@ -146,17 +124,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Man sakė, kad vieno vienuolyno biblio­
-    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
-    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
-    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
-    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
-    Naborovskis.
-    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
-    asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
-    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
-    aukštomis pareigomis.
-  citata_rodoma: |
     Jokiu bū­
     du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
     kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
@@ -165,10 +132,11 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
     pį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei.
+  citata_rodoma: "Jokiu bū­\ndu nederėjo paliesti antkapinių statinių; buvo meldžiamasi net\nkapams savo protėvių arba asmenų, atmintinų dėl ypatingų\ndorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis\n(ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­\npį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­\ndėtas su tam tikromis maldomis, davė pagrindą susidaryti to­\nkiai tyrėjo nuomonei."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190437
+    - t-001

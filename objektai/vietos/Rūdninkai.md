@@ -32,8 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85894"></a>
-- t-001
-  global_id: t-85894
+- t-002
   teiginys: "Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,8 +48,7 @@ media_all_json: |-
     - c-81878
 
 <a id="claim-t-85895"></a>
-- t-002
-  global_id: t-85895
+- t-001
   teiginys: "Jogailos giminės karaliai mėgo viešėti Rūdninkų kaime, esančiame tarp didelių girių netoli Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,7 +65,6 @@ media_all_json: |-
 
 <a id="claim-t-85896"></a>
 - t-003
-  global_id: t-85896
   teiginys: "Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,9 +81,8 @@ media_all_json: |-
 
 <a id="claim-t-185127"></a>
 - t-004
-  global_id: t-185127
   teiginys: "Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,7 +97,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168488
-    - c-004
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87436|Kazimieras IV]]: Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
@@ -142,42 +137,6 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
 - susijęs iš [[objektai/asmenys/Zigmantas III.md#claim-t-87594|Zigmantas III]]: Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Miškuose netoli Rūdninkų miestelio Mykolas netikėtai užtiko iš Bresto į Vilnių vykusio Kazimiero palydą.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Tuo
-    46 9
-
-    ## Puslapis 468
-
-    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
-    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
-    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
-    tais raitelių. Netikėtai miš-
-    A tle id ž ia
-    n e tik ė ta i
-    kuose netoli Rūdninkų mies-
-    p a k e lė je
-    s u tik ta m
-    telio jis užšoko ant Kazimiero
-    M y k o lu i
-    palydos. Patekęs į tokią ne­
-    aiškią padėtį, jis, be galo išsi­
-    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
-    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
-    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
-    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
-    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
-    nei, neatiduoti žmogžudžiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-185127
 ## Citatos
 
 - id: c-81876
@@ -207,7 +166,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85895
+    - t-001
+
 - id: c-81877
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,7 +186,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85896
+    - t-003
+
 - id: c-81878
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,34 +210,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85894
+    - t-002
+
 - id: c-168488
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Štai todėl Kazimieras, pasak Lietuvos istori­
-    kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
-    domiro į Brestą. Tuo tarpu lenkų istorikai teigia, jog
-    lenkai susitarę su pasiuntiniais, kad Kazimieras keliau­
-    siąs į Lietuvą ir ją brolio vardu valdysiąs, tačiau nie­
-    kad nesisavinsiąs Lietuvos didžiojo kunigaikščio titulo.
-    Ar vienaip, ar kitaip ten buvo, abejonių nekelia vienas
-    dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
-    kentėję ir karalius, ir susitarimai, mat kitos grupuotės
-    vadovas būtų ginklu pasigrobęs valdžią. Breste Kazi­
-    miero laukė gausybė žymiau-
-    P riėm ęs B reste lu o m ų
-    šiųjų didikų, ypač tie, kurie
-    priesaiką, p a ly d im a s į
-    save kildino iš Lietuvos di-
-    V ilnių
-    džiųjų kunigaikščių, kaip Al-
-    gimantaičiai,
-    Daumantaičiai,
-    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
-    ir kiti.
-  citata_rodoma: |
     Tuo
     46 9
 
@@ -301,12 +241,14 @@ media_all_json: |-
     kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
     dikus, o jo paties, visiškai atsiduodančio valdovo malo­
     nei, neatiduoti žmogžudžiams.
+  citata_rodoma: "Tuo\n46 9\n\n## Puslapis 468\n\ntarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­\nsiais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,\npaliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­\ntais raitelių. Netikėtai miš-\nA tle id ž ia\nn e tik ė ta i\nkuose netoli Rūdninkų mies-\np a k e lė je\ns u tik ta m\ntelio jis užšoko ant Kazimiero\nM y k o lu i\npalydos. Patekęs į tokią ne­\naiškią padėtį, jis, be galo išsi­\ngandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­\ntų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs\nKazimierui po kojų, jį pasveikino kaip Lietuvos didįjį\nkunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­\ndikus, o jo paties, visiškai atsiduodančio valdovo malo­\nnei, neatiduoti žmogžudžiams."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185127
+    - t-004
+
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Kazimieras IV]]

@@ -31,9 +31,8 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
 
 <a id="claim-t-189568"></a>
 - t-001
-  global_id: t-189568
   teiginys: "Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojančiu ženklu ir Vytauto laikų rusiškomis raidėmis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,11 +40,10 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172456
-    - c-001
+    - c-172457
+
 <a id="claim-t-189569"></a>
 - t-002
-  global_id: t-189569
   teiginys: "Narbutas nurodo, kad kiti užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,26 +62,6 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   pagrindžia:
     - c-172457
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojančiu ženklu ir Vytauto laikų rusiškomis raidėmis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    249
-
-    ## Puslapis 249
-
-    lės 27-ajame piešinyje. Vaizduoja saulės veidą, aplinkui rusiš­
-    kas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­
-    ma matyti to kunigaikščio dekretuose; galima perskaityti žo­
-    džius: Sotwor. Boh. NaszM.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189568
 ## Citatos
 
 - id: c-172456
@@ -91,14 +69,6 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    III
-    lentelė, 10-asis piešinys. Pagrindinėje pusėje pavaizduo­
-    tas žmogus, veidas šiek tiek pasuktas į dešinę; galva su šalmu,
-    vainikuota karūna, turinčia trikampius dantis; užpakalyje ar iš
-    kairiojo šono kaba kažkokia uždangėlė, panaši į šalmą. Dra­
-    bužis ilgas, nuo viršaus iki juosmens sutrauktas, tarytum šar­
-    vas, o žemiau - klostėtas, jo puošyba dėl nudilimo neraiški.
-  citata_rodoma: |
     249
 
     ## Puslapis 249
@@ -107,13 +77,13 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     kas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­
     ma matyti to kunigaikščio dekretuose; galima perskaityti žo­
     džius: Sotwor. Boh. NaszM.
+  citata_rodoma: "249\n\n## Puslapis 249\n\nlės 27-ajame piešinyje. Vaizduoja saulės veidą, aplinkui rusiš­\nkas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­\nma matyti to kunigaikščio dekretuose; galima perskaityti žo­\ndžius: Sotwor. Boh. NaszM."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189568
 - id: c-172457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -137,4 +107,5 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189569
+    - t-001
+    - t-002

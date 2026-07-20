@@ -48,7 +48,6 @@ Mitologijos tyrimų kritinės metodologijos terminas.
 
 <a id="claim-t-189300"></a>
 - t-001
-  global_id: t-189300
   teiginys: "Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -91,4 +90,4 @@ Mitologijos tyrimų kritinės metodologijos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189300
+    - t-001

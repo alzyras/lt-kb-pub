@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201273"></a>
 - t-001
-  global_id: t-201273
   teiginys: "Niekados nebuvo taip didi kariauna į Žemaičius traukusi, kaip šiuo žygiu, darin negalėjo išsigauti per raistas, lūžas ir tank mes girių, per kurias kelios tūkstantės svieto tu rėjo pirma eidamos naują kelią skinti ir ertinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184623
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėję pas Nemuną, rado 610 valčių pa­
     tiektų dėl persikėlimo. Niekados nebuvo taip didi
@@ -73,4 +73,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201273
+    - t-001

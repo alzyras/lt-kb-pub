@@ -41,7 +41,6 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 
 <a id="claim-t-193585"></a>
 - t-002
-  global_id: t-193585
   teiginys: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą)."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 
 <a id="claim-t-197319"></a>
 - t-003
-  global_id: t-197319
   teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -65,16 +63,6 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   pagrindžia:
     - c-179128
 
-<a id="claim-t-191652"></a>
-- t-001
-  global_id: t-191652
-  teiginys: 'Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kronikininkų pasakojimų patikimumą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liudviką Rėzą ir išlaiko Narbuto atribuciją vertinimui. Citata palaiko Rėzos priekaištus skeptikams ir kronikininkų gynimą.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kronikininkų pasakojimų patikimumą.'
@@ -96,11 +84,9 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
     miau susipažįsta su esamais senovės paminklais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191652
+  statusas: verified
 ## Citatos
 
 - id: c-176260
@@ -119,7 +105,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193585
+    - t-002
+
 - id: c-179128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -137,4 +124,4 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197319
+    - t-003

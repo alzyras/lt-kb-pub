@@ -42,7 +42,6 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 
 <a id="claim-t-60301"></a>
 - t-001
-  global_id: t-60301
   teiginys: "Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,7 +61,6 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 
 <a id="claim-t-200995"></a>
 - t-002
-  global_id: t-200995
   teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -111,10 +109,12 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60301
+    - t-001
+
 - id: c-184345
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­
@@ -141,4 +141,4 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200995
+    - t-002

@@ -30,8 +30,7 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 ## Teiginiai
 
 <a id="claim-t-58593"></a>
-- t-001
-  global_id: t-58593
+- t-002
   teiginys: "Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58593
+    - t-002

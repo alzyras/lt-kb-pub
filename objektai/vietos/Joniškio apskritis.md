@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-38475"></a>
 - t-001
-  global_id: t-38475
   teiginys: "1945 m. balandžio 18 d. Joniškio apskrities Joniškio valsčiaus Gasčiūnų kaime NKVD pajėgos aptiko partizanus, o kautynės truko tris valandas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-38475
+    - t-001

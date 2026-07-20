@@ -40,8 +40,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 ## Teiginiai
 
 <a id="claim-t-60040"></a>
-- t-001
-  global_id: t-60040
+- t-002
   teiginys: "1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - c-60673
 
 <a id="claim-t-60041"></a>
-- t-002
-  global_id: t-60041
+- t-001
   teiginys: "1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,7 +79,6 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 
 <a id="claim-t-60042"></a>
 - t-003
-  global_id: t-60042
   teiginys: "1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -101,7 +98,6 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 
 <a id="claim-t-197112"></a>
 - t-004
-  global_id: t-197112
   teiginys: "Štai neilgai trukus po to Sicilijos karalystėje palermiečiai, pagauti baisaus įsiūčio, išžudė iš paniekos anksčiau minėtajam karaliui visus ten gyvenusius prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios sakėsi pastojusios."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,19 +120,15 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
       1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
     ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
     norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
-  citata_rodoma: |
-    Apie Sicilijos karalystės dovanojimą Karoliui
-
-      1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui
-    ir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,
-    norėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26).
+  citata_rodoma: "Apie Sicilijos karalystės dovanojimą Karoliui\n\n  1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui\nir Prancūzijos karaliaus broliui,  Sicilijos karalystę, kurią Manfredas buvo užgrobęs,\nnorėdamas ją iš jo atimti (Mart. p. 407; Ptol. 22, 26)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60041
+    - t-001
+
 - id: c-60673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,8 +149,9 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60040
-    - t-197112
+    - t-002
+    - t-004
+
 - id: c-60674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,16 +162,11 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
       1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
     ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
     kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
-  citata_rodoma: |
-    Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
-
-      1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę
-    ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
-    kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
+  citata_rodoma: "Apie Konradino, imperatoriaus Fridricho II anūko, žūtį\n\n  1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę\nir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos\nkilmingųjų (Mart. p. 409; Ptol. 22, 34—38)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60042
+    - t-003

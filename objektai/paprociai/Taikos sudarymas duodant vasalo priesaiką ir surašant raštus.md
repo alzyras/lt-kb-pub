@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-196798"></a>
 - t-002
-  global_id: t-196798
   teiginys: "Maskvėnams užėmus Briansko miestą ir kraštą, brianskiečiai prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -58,16 +57,6 @@ Nenurodyta
   pagrindžia:
     - c-178916
 
-<a id="claim-t-194075"></a>
-- t-001
-  global_id: t-194075
-  teiginys: 'Po sutarties su karaliumi Olbrachtu Moldavijos vaivada Steponas, Lietuvos metraščio vaizdavimu, nepaisė priesaikos ir amžinosios taikos sutarties ir telkė sąjungininkų kariuomenę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas subjektas ir sutarties kontekstas su Olbrachtu. Vertinamasis kronikos vaizdavimas paliktas su atribucija, o džiaugsmo ir gėdos motyvai neplėtoti.'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po sutarties su karaliumi Olbrachtu Moldavijos vaivada Steponas, Lietuvos metraščio vaizdavimu, nepaisė priesaikos ir amžinosios taikos sutarties ir telkė sąjungininkų kariuomenę.'
@@ -96,11 +85,9 @@ Nenurodyta
     savo žmonėmis — raiteliais ir pėstininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194075
+  statusas: not_found
 ## Citatos
 
 - id: c-178916
@@ -130,4 +117,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196798
+    - t-002

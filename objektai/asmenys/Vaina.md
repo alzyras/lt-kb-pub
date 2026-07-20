@@ -31,7 +31,6 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 
 <a id="claim-t-40498"></a>
 - t-001
-  global_id: t-40498
   teiginys: "V. Vainos kavalerija atakavo priešo pėstininkus centre, kai J. K. Chodkevičius įsakė pulti švedų rikiuotei praradus darnumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 
 <a id="claim-t-40499"></a>
 - t-002
-  global_id: t-40499
   teiginys: "Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,18 +88,15 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     pėstininkų rikiuotė prarado darnumą,
     įsako pulti. V. Vainos kavalerija atakuoja
     priešo pėstininkus centre.
-  citata_rodoma: |
-    Chodkevičius, pastebėjęs, kad švedų
-    pėstininkų rikiuotė prarado darnumą,
-    įsako pulti. V. Vainos kavalerija atakuoja
-    priešo pėstininkus centre.
+  citata_rodoma: "Chodkevičius, pastebėjęs, kad švedų\npėstininkų rikiuotė prarado darnumą,\nįsako pulti. V. Vainos kavalerija atakuoja\npriešo pėstininkus centre."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40498
+    - t-001
+
 - id: c-44556
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,16 +110,11 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     kelios kuršiečių reitarų kuopos. Pralaužus
     pirmąsias švedų eiles, už jų stovėjo kitos ir
     buvo vis sunkiau veržtis į priekį.
-  citata_rodoma: |
-    Rotmistro A.Vainos
-    husarams buvo pasiųstas pastiprinimas —
-    kelios kuršiečių reitarų kuopos. Pralaužus
-    pirmąsias švedų eiles, už jų stovėjo kitos ir
-    buvo vis sunkiau veržtis į priekį.
+  citata_rodoma: "Rotmistro A.Vainos\nhusarams buvo pasiųstas pastiprinimas —\nkelios kuršiečių reitarų kuopos. Pralaužus\npirmąsias švedų eiles, už jų stovėjo kitos ir\nbuvo vis sunkiau veržtis į priekį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40499
+    - t-002

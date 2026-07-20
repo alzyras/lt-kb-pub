@@ -32,7 +32,6 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 
 <a id="claim-t-28634"></a>
 - t-001
-  global_id: t-28634
   teiginys: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Žečpospolitos (respublikos) tautų federaciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28634
+    - t-001

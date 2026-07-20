@@ -32,7 +32,6 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 
 <a id="claim-t-188982"></a>
 - t-001
-  global_id: t-188982
   teiginys: "Narbutas manė, kad dalyje Žemaitijos religines apeigas atnešė ateiviai iš Brandenburgo, o tame krašte liko akmens paminklų pavyzdžių."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 
 <a id="claim-t-193174"></a>
 - t-002
-  global_id: t-193174
   teiginys: "Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -95,7 +93,8 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188982
+    - t-001
+
 - id: c-175921
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -114,4 +113,4 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193174
+    - t-002

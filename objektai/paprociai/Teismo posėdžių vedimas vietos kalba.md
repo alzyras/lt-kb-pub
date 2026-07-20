@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-202062"></a>
 - t-001
-  global_id: t-202062
   teiginys: "Buvo nurodyta, kad vaitas ir jį pavaduojantis lentvaitis (jie pirmininkaudavo ir suolininkų teismui) bei taryba teismo posėdžius vesti ir sprendimus skelbti turi vietos kalba, t."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -53,6 +52,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185409
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -72,4 +74,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202062
+    - t-001

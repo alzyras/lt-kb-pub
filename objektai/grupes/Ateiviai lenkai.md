@@ -28,7 +28,6 @@ Basanavičiaus pasakojime ateiviai lenkai Lietuvoje naikino lietuviškus kaimus 
 
 <a id="claim-t-200904"></a>
 - t-001
-  global_id: t-200904
   teiginys: "Basanavičiaus pasakojime ateiviai lenkai Lietuvoje naikino lietuviškus kaimus ir, išvarydami ūkininkus, kūrė dvarus, kaip esą darė Suvalkų gubernijoje."
   atnaujinta: "2026-07-15 12:14"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Basanavičiaus pasakojime ateiviai lenkai Lietuvoje naikino lietuviškus kaimus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200904
+    - t-001

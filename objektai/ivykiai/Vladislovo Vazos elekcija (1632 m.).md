@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01857"></a>
 - t-001
-  global_id: t-01857
   teiginys: "Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,15 +71,11 @@ Nenurodyta
     elekcija užtruko vos^1 /2
     valandos, nes Vladislovo
     priešų nebuvo.
-  citata_rodoma: |
-    Pati
-    elekcija užtruko vos^1 /2
-    valandos, nes Vladislovo
-    priešų nebuvo.
+  citata_rodoma: "Pati\nelekcija užtruko vos^1 /2\nvalandos, nes Vladislovo\npriešų nebuvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01857
+    - t-001

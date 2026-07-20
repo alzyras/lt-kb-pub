@@ -40,7 +40,6 @@ Klimas, P.
 
 <a id="claim-t-31879"></a>
 - t-001
-  global_id: t-31879
   teiginys: "P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ Klimas, P.
     jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_
     Praeitis, II, 1933, 94-157 p. — Končius, J. : _Vytautas the Great, Grand
     Duke of Lithuania,_ Miami, FI.
-  citata_rodoma: |
-    — Klimas, P. : _Vieno prancūzo
-    įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14
-    metais,_ Židinys, nr. 3, 1930, 232-245 p. — (”) _Ghillebert de Lannoy. Dvi
-    jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_
-    Praeitis, II, 1933, 94-157 p.
+  citata_rodoma: "— Klimas, P. : _Vieno prancūzo\nįspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14\nmetais,_ Židinys, nr. 3, 1930, 232-245 p. — (”) _Ghillebert de Lannoy. Dvi\njo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais),_\nPraeitis, II, 1933, 94-157 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31879
+    - t-001

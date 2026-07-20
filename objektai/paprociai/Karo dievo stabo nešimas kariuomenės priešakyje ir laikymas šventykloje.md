@@ -48,26 +48,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-189922"></a>
-- t-001
-  global_id: t-189922
-  teiginys: 'Narbutas spėjo, kad Kovo statulėlė karo metu būdavo nešama ant ieties kariuomenės priešakyje, o taikos metais stovėdavo šventykloje.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys suformuluotas iš Narbuto spėjimo apie statulėlės naudojimą. Neutraliu faktu jo nepateikiau, nes citatoje vartojama tikimybinė interpretacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
-  pagrindžia:
-    - c-172805
-
-## Citatos
-
-- id: c-172805
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas spėjo, kad Kovo statulėlė karo metu būdavo nešama ant ieties kariuomenės priešakyje, o taikos metais stovėdavo šventykloje.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
     255
@@ -85,10 +70,8 @@ Nenurodyta
     buvo pritaikytas pritvirtinti prie ieties smaigalio. Tikriausiai karo
     metu šis stabas būdavo nešamas iškeltas ant ieties smaigalio ka­
     riuomenės priešakyje, o taikos metais stovėdavo šventykloje.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
-  teiginio_tipas: faktas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-189922
+  statusas: verified

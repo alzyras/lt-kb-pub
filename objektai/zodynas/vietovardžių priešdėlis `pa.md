@@ -31,7 +31,6 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
 
 <a id="claim-t-86625"></a>
 - t-001
-  global_id: t-86625
   teiginys: "Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86625
+    - t-001

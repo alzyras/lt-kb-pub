@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201266"></a>
 - t-001
-  global_id: t-201266
   teiginys: "Jau ketino pačią pilį apgulti, kuri didžiai stipriai aptverta turėjo 5000 įgulės, kurios pilės vyru, arba kamendotu, bu vo narsus Vaidotas, /sūnus Kęstučio, kurią jis su tokia kantrybe ir narsybe gyniojo, jog kryžėjai ne galėjo viltis veikiai įsilaušią."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184616
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau ketino pačią
     pilį apgulti, kuri didžiai stipriai aptverta turėjo
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201266
+    - t-001

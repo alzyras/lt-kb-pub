@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31893"></a>
 - t-001
-  global_id: t-31893
   teiginys: "J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ media_all_json: |-
     laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,
     521-564 p. — Stang, Chr. : _Die westrussische Kanzleisprache des Gross-
     furstentums Litauen,_ Oslo 1935.
-  citata_rodoma: |
-    — Remeika, J. : _Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių
-    laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,
-    521-564 p. — Stang, Chr.
+  citata_rodoma: "— Remeika, J. : _Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių\nlaikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,\n521-564 p. — Stang, Chr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31893
+    - t-001

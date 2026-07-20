@@ -31,7 +31,6 @@ Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovi
 
 <a id="claim-t-187785"></a>
 - t-001
-  global_id: t-187785
   teiginys: "Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187785
+    - t-001

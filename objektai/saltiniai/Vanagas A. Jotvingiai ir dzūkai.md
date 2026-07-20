@@ -7,12 +7,12 @@ datos:
   - '1979 m.'
 date_start: '1979'
 date_end: ''
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,9 +36,8 @@ Dusburgietis teigia, kad vanagas A.
 
 <a id="claim-t-61342"></a>
 - t-001
-  global_id: t-61342
   teiginys: "A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,20 +52,7 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidinį ir metus."
   pagrindžia:
     - c-61974
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'A. Vanago straipsnis „Jotvingiai ir dzūkai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1979 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61342
+
 ## Citatos
 
 - id: c-61974
@@ -74,16 +60,12 @@ Dusburgietis teigia, kad vanagas A.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    191—197.
-    Мажюлис В. О связях литовско-латышского с другими древнебалтийскими
-    диалектами. — Проблемы этногенеза и этнической истории балтов: Тезисы докладов,
-    В., 1981, с.
-  citata_rodoma: |
     Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36.
+  citata_rodoma: "Vanagas A. Jotvingiai ir dzūkai.—MG, 1979, Nr. 9, p. 35—36."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61342
+    - t-001

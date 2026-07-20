@@ -13,10 +13,10 @@ datos:
   - '1582 m.'
 date_start: '1567'
 date_end: '1582'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto 
 
 <a id="claim-t-201787"></a>
 - t-001
-  global_id: t-201787
   teiginys: "Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto savivaldos pareigūnas, vadinamasis vaiskis (woyski)."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201787
+    - t-001

@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-191403"></a>
 - t-001
-  global_id: t-191403
   teiginys: "1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ media_all_json: |-
 
 <a id="claim-t-200989"></a>
 - t-002
-  global_id: t-200989
   teiginys: "Noris Gerhardas Hircbergas, rėdytojas kryžėjų, kaip įmanąs buvo pra dėjęs taupyti ir lengvinti tuos sluogavimus jau vai šindamas dirbėjus, vildamos bene nulyžins tuomi."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -97,10 +95,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191403
+    - t-001
+
 - id: c-184339
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rūstybė ir įbingimas perkrikštų rodės aiškiai
     kas dieną visame Parusny. Noris Gerhardas Hirc-
@@ -126,4 +126,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200989
+    - t-002

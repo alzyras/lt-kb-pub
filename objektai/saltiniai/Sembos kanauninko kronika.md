@@ -36,7 +36,6 @@ Dusburgietis teigia, kad 393 Kad mūšis įvyko 1263 m., rašoma Sembos kanaunin
 
 <a id="claim-t-61292"></a>
 - t-001
-  global_id: t-61292
   teiginys: "Sembos kanauninko kronikoje nurodoma, kad mūšis įvyko 1263 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -65,13 +64,11 @@ Dusburgietis teigia, kad 393 Kad mūšis įvyko 1263 m., rašoma Sembos kanaunin
     282).
     394  Ordino krašto magistras Helmerichas iš Viurcburgo (1262— 1263).
     395  Dėl Ordino maršalo Ditricho žuvimo žr. paaiškinimus D. III, 120, 392.
-  citata_rodoma: |
-    393  Kad mūšis įvyko 1263 m., rašoma Sembos kanauninko kronikoje (SRP, 1, p.
-    282).
+  citata_rodoma: "393  Kad mūšis įvyko 1263 m., rašoma Sembos kanauninko kronikoje (SRP, 1, p.\n282)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61292
+    - t-001

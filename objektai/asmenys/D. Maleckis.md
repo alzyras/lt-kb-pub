@@ -31,7 +31,6 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 
 <a id="claim-t-40080"></a>
 - t-001
-  global_id: t-40080
   teiginys: "D. Maleckis buvo paskirtas vienu iš batalionų vadų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 
 <a id="claim-t-40081"></a>
 - t-002
-  global_id: t-40081
   teiginys: "D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,23 +77,15 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
     nievskis, S. Kozakauskas, D. Maleckis,
 
     K. Maleckis, M. Stanišauskas.
-  citata_rodoma: |
-    Batalionų vadais
-
-    buvo paskirti: B. Žarskis, J. Radavičius,
-
-    A. Mackevičius, Antonievičius, E. Vžes-
-
-    nievskis, S. Kozakauskas, D. Maleckis,
-
-    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40080
+    - t-001
+
 - id: c-44316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,19 +102,11 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
     stovėjo P. Vivulskio dalginin-
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
-  citata_rodoma: |
-    Kairiame sparne stovėjo
-    B. Kolyškos bei M. Stanišausko
-    batalionai, centre pozici-
-    jas užsiėmė Antonievičius ir
-    D. Maleckis, dešiniajame sparne
-    stovėjo P. Vivulskio dalginin-
-    kai ir dvi rezervinės 4-tojo ba-
-    taliono kuopos.
+  citata_rodoma: "Kairiame sparne stovėjo\nB. Kolyškos bei M. Stanišausko\nbatalionai, centre pozici-\njas užsiėmė Antonievičius ir\nD. Maleckis, dešiniajame sparne\nstovėjo P. Vivulskio dalginin-\nkai ir dvi rezervinės 4-tojo ba-\ntaliono kuopos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40081
+    - t-002

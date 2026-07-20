@@ -38,7 +38,6 @@ Dusburgietis teigia, kad schall H.
 
 <a id="claim-t-60783"></a>
 - t-001
-  global_id: t-60783
   teiginys: "H. Schallas 1966 m. žurnale „Baltistica“ paskelbė straipsnį apie baltų vandenvardžius Aukštutinės Havelio upyne."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Dusburgietis teigia, kad schall H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60783
+    - t-001

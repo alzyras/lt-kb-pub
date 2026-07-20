@@ -41,7 +41,6 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 
 <a id="claim-t-70084"></a>
 - t-001
-  global_id: t-70084
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 
 <a id="claim-t-70085"></a>
 - t-002
-  global_id: t-70085
   teiginys: "J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-24738
 
 <a id="claim-t-70086"></a>
-- t-003
-  global_id: t-70086
+- t-004
   teiginys: "Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-37896
 
 <a id="claim-t-70087"></a>
-- t-004
-  global_id: t-70087
+- t-003
   teiginys: "Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-166789
 
 <a id="claim-t-193599"></a>
-- t-005
-  global_id: t-193599
+- t-007
   teiginys: "Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -143,18 +138,15 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: |
-    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
-    toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
-    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
-    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
+  citata_rodoma: "Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –\ntoks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti\nvieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-\njaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70084
+    - t-001
+
 - id: c-24738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,18 +157,15 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: |
-    Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
+  citata_rodoma: "Seime išrinkta 20 asmenų delegaci-\nja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-\nprašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,\nRinkimų į Liaudies seimą agitacinis plakatas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70085
+    - t-002
+
 - id: c-37896
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -189,19 +178,15 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
     vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
     Paskutinis aktas gavo jau personalinės unijos vardą.
-  citata_rodoma: |
-    Turime atvirai pasisa­
-    kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos
-    nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
-    vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
-    Paskutinis aktas gavo jau personalinės unijos vardą.
+  citata_rodoma: "Turime atvirai pasisa­\nkyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos\nnuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­\nvės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.\nPaskutinis aktas gavo jau personalinės unijos vardą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70086
+    - t-004
+
 - id: c-166789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +206,8 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70087
+    - t-003
+
 - id: c-176274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,4 +231,4 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193599
+    - t-007

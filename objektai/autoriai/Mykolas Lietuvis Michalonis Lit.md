@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88036"></a>
-- t-001
-  global_id: t-88036
+- t-004
   teiginys: "Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ media_all_json: |-
     - c-84015
 
 <a id="claim-t-88037"></a>
-- t-002
-  global_id: t-88037
+- t-001
   teiginys: "Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ media_all_json: |-
 
 <a id="claim-t-88038"></a>
 - t-003
-  global_id: t-88038
   teiginys: "Apie tai yra rašęs Mykolas L i e t u v i s, p. 28."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,7 +117,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88037
+    - t-001
+
 - id: c-84015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -150,7 +148,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88036
+    - t-004
+
 - id: c-84017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,21 +167,11 @@ media_all_json: |-
     sų k. išvertus reiškia - Keturiasdešim­
     ties Totorių kaimas. Apie tai yra rašęs
     Mykolas L i e t u v i s, p. 28.
-  citata_rodoma: |
-    63
-    Tolesniuose mūsų istorijos pasakoji­
-    muose plačiau išdėstysime apie tą to­
-    torių gyvenamą miesto dalį; prie Vo­
-    kės, be kitų totorių, buvo apsigyvenę
-    40 brolių, todėl iki šios dienos ta gy­
-    venvietė vadinama Sorok Tatary, iš ru­
-    sų k. išvertus reiškia - Keturiasdešim­
-    ties Totorių kaimas. Apie tai yra rašęs
-    Mykolas L i e t u v i s, p. 28.
+  citata_rodoma: "63\nTolesniuose mūsų istorijos pasakoji­\nmuose plačiau išdėstysime apie tą to­\ntorių gyvenamą miesto dalį; prie Vo­\nkės, be kitų totorių, buvo apsigyvenę \n40 brolių, todėl iki šios dienos ta gy­\nvenvietė vadinama Sorok Tatary, iš ru­\nsų k. išvertus reiškia - Keturiasdešim­\nties Totorių kaimas. Apie tai yra rašęs \nMykolas L i e t u v i s, p. 28."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88038
+    - t-003

@@ -38,7 +38,6 @@ Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas. 1755 m. į Tomo Ignoto 
 
 <a id="claim-t-200502"></a>
 - t-001
-  global_id: t-200502
   teiginys: "Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -57,7 +56,6 @@ Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas. 1755 m. į Tomo Ignoto 
 
 <a id="claim-t-200503"></a>
 - t-002
-  global_id: t-200503
   teiginys: "1755 m. į Tomo Ignoto Zenkovičiaus konsekraciją atvyko Mikalojus Lopacinskis, Tadas Oginskis, Stanislovas Bužinskis ir Antanas Dominykas Tiškevičius."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -84,27 +82,9 @@ Tomas Ignotas Zenkovičius buvo Baltarusijos sufraganas. 1755 m. į Tomo Ignoto 
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    1754 m. kanauninkas laiške minėjo, kad
-    karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
-    Chełchowski) dėl Balbieriškio valdų [33]. 1755 m. J. D. Lopacinskis laiške Anykščių ir
-    Punios seniūnui Mykolui Ksaverui Sapiegai minėjo, kad į Baltarusijos sufragano Tomo
-    Ignoto Zenkovičiaus (Tomasz Ignacy Zienkowicz) konsekraciją atvykę kanauninko
-    brolis Mikalojus LDK instigatorius, Trakų ir Smolensko kaštelionai Tadas Oginskis ir
-    Stanislovas Bužinskis (Stanisław Burzyński), Žemaičių vyskupas Antanas Dominykas
-    Tiškevičius, „pakalbėsim dėl Čerėjos“, teigė J. D. Lopacinskis [45].
-  citata_rodoma: |
-    1755 m. J. D. Lopacinskis laiške Anykščių ir
-    Punios seniūnui Mykolui Ksaverui Sapiegai minėjo, kad į Baltarusijos sufragano Tomo
-    Ignoto Zenkovičiaus (Tomasz Ignacy Zienkowicz) konsekraciją atvykę kanauninko
-    brolis Mikalojus LDK instigatorius, Trakų ir Smolensko kaštelionai Tadas Oginskis ir
-    Stanislovas Bužinskis (Stanisław Burzyński), Žemaičių vyskupas Antanas Dominykas
-    Tiškevičius, „pakalbėsim dėl Čerėjos“, teigė J. D. Lopacinskis [45].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200502
-    - t-200503
+    - t-001
+    - t-002

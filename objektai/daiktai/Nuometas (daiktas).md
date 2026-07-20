@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201361"></a>
 - t-001
-  global_id: t-201361
   teiginys: "Moterys dėvėjo ilgesnes sermėgas už vyrų kobo tus, o makaulę baltais nuometais rutuldavo taip grak ščiai ir puikiai, jog nuo to iki šiai dienai vyrai godindami motriškąsias baltomis galvomis vadina."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Nenurodyta
 
 <a id="claim-t-201362"></a>
 - t-002
-  global_id: t-201362
   teiginys: "Nė viena taip didžiai barva joms netiko, kaip balta, dėl to gi, tikėjimą perkeičiant, lietuvės ir žemaitės nenorėjo krikštytis dėl to vien, idant nenustotų savo baltų nuometų bei vilnonių."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -75,8 +73,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184711
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Aus­
     tės daugiaus vyžomis, ne naginėmis, vasarvidžiu trū-
@@ -94,11 +93,12 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201361
+    - t-001
 
 - id: c-184712
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Toksai apdaras taip joms priderėjo, jog jaunuo­
     menė gulbiais jas vadino. Nė viena taip didžiai
@@ -114,4 +114,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201362
+    - t-002

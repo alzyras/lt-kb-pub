@@ -37,7 +37,6 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 
 <a id="claim-t-32452"></a>
 - t-001
-  global_id: t-32452
   teiginys: "Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -208,17 +207,14 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     sunaikintos », pilies viduryje užkūrė didelį laužą, į jį sumetė savo
     turtą, ir « nužudę visas moteris ir vaikus ir sumetę lavonus į ugnį,
     vienas po kito patys išsižudė».
-  citata_rodoma: |
-    Apgultos Pilėnų
-    (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­
-    siai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­
-    sioje, kurią plačiai panaudojo C.
+  citata_rodoma: "Apgultos Pilėnų\n(Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­\nsiai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­\nsioje, kurią plačiai panaudojo C."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32452
+    - t-001
+
 ## Ryšiai
 - Gynė Pilėnai: [[objektai/grupes/Lietuviai]]

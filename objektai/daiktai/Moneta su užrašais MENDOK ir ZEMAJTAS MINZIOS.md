@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189690"></a>
 - t-001
-  global_id: t-189690
   teiginys: "Narbutas monetos užrašą „ZEMAJTAS: MINZIOS“ aiškino kaip reikšmę „Žemaičių moneta“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189690
+    - t-001

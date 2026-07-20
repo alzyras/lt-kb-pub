@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-39620"></a>
 - t-001
-  global_id: t-39620
   teiginys: "1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,6 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39620
+    - t-001
+
 ## Ryšiai
 - Olegas (Riazanės didysis kunigaikštis) puolė [[objektai/vietos/Lietuva]]

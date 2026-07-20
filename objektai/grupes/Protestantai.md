@@ -37,7 +37,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 <a id="claim-t-01459"></a>
 - t-001
-  global_id: t-01459
   teiginys: "Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 <a id="claim-t-182919"></a>
 - t-002
-  global_id: t-182919
   teiginys: "Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -61,7 +59,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 <a id="claim-t-193125"></a>
 - t-003
-  global_id: t-193125
   teiginys: "Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -75,7 +72,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 <a id="claim-t-193126"></a>
 - t-004
-  global_id: t-193126
   teiginys: "Todėl vėlesniaisiais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo labai lėtai; dažniausiai būdavo išleidžiamos tik naujos minėtų knygų laidos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -135,17 +131,15 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
     vaidmens nesuvaidinusios.
-  citata_rodoma: |
-    Katalikams pačios pavojingosios buvo protestantų
-    mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
-    ir miestiečių.
+  citata_rodoma: "Katalikams pačios pavojingosios buvo protestantų\nmokyklos. Jos buvo steigiamos protestantų didikų, o kai kur\nir miestiečių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01459
+    - t-001
+
 - id: c-166322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,7 +158,8 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182919
+    - t-002
+
 - id: c-175884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -180,7 +175,8 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193125
+    - t-003
+
 - id: c-175885
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -198,4 +194,4 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193126
+    - t-004

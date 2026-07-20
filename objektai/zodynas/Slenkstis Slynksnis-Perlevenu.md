@@ -31,9 +31,8 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
 
 <a id="claim-t-189179"></a>
 - t-001
-  global_id: t-189179
   teiginys: "Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172067
-    - c-001
+
 <a id="claim-t-189180"></a>
 - t-002
-  global_id: t-189180
   teiginys: "Narbutas rašo, kad Slynksniui-Perlevenu vieta būdavusi skiriama virš slenksčio arba virš prieangio durų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -71,26 +69,6 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   pagrindžia:
     - c-172068
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų dievaitį ir žemdirbio nuosavybės globėją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Slynksnis-Perlevenu (Slynxnis-Perlewenu)
-    Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
-    bėjas. 2
-    2
-    Ukrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo
-    tėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.
-    Strijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių
-    kalba Kūnas reiškia kūną, mėsą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189179
 ## Citatos
 
 - id: c-172067
@@ -98,14 +76,6 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Mongolai labai garbino namų slenksčius: tas, kuris praeidamas
-    paliesdavo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų krašte
-    apaštalavę krikščionių vienuoliai būdavo mušami lazdomis ir net gra­
-    sinama mirtimi. Grafas Jonas Potockis tokį garbinimą pastebėjo ir pas
-    kalmukus (jie turėtų būti mongolų palikuonys), bet vis dėlto ne tokį
-    ryškų, kaip tat matome buvus pas senovės lietuvius (Potocki J. Podrož
-    doAstrahanu // Dziennik Wilenski.
-  citata_rodoma: |
     Slynksnis-Perlevenu (Slynxnis-Perlewenu)
     Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
     bėjas. 2
@@ -114,13 +84,15 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
     tėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.
     Strijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių
     kalba Kūnas reiškia kūną, mėsą.
+  citata_rodoma: "Slynksnis-Perlevenu (Slynxnis-Perlewenu)\nBendras namų dievaitis, namų ir žemdirbio nuosavybės glo­\nbėjas. 2\n2\nUkrainos slavai turėjo krikšto vardą Kūnas; tokį vardą turėjo\ntėvas kazokų atamano, kuris vadinosiPiotrKunasowicz Sahaidaczny.\nStrijkovskis tvirtina, kad Kūnas yra tas pats, kaip Kononas. Lietuvių\nkalba Kūnas reiškia kūną, mėsą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189179
+    - t-001
+
 - id: c-172068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -144,4 +116,4 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189180
+    - t-002

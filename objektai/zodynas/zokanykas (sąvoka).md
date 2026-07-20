@@ -39,7 +39,6 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 
 <a id="claim-t-201221"></a>
 - t-001
-  global_id: t-201221
   teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,9 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
 ## Citatos
 
 - id: c-184571
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai Bo­
     leslovas, didindamas jo godą kaipo savo tarno, už
@@ -79,4 +79,4 @@ Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užside
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201221
+    - t-001

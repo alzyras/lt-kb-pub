@@ -7,10 +7,10 @@ datos:
   - '1635 m.'
 date_start: '1635'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie tu
 
 <a id="claim-t-202300"></a>
 - t-001
-  global_id: t-202300
   teiginys: "Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie turintys tokias pačias teises, kaip kiti privilegijuoti magdeburginiai miestai, o ypač Kaunas."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202300
+    - t-001

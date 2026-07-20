@@ -39,7 +39,6 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
 
 <a id="claim-t-87600"></a>
 - t-001
-  global_id: t-87600
   teiginys: "Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87600
+    - t-001

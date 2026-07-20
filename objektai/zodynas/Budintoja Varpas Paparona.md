@@ -32,9 +32,8 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
 
 <a id="claim-t-189283"></a>
 - t-001
-  global_id: t-189283
   teiginys: "Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -43,25 +42,8 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172171
-    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Budintoja (Budintoja)
-    Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
-    žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
-    Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
-    priešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos
-    draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189283
 - c-002
   santrauka: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -83,10 +65,9 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
     Tai įgalina mane laikyti deivės Budintojos ženklu žąsį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  statusas: verified
 ## Citatos
 
 - id: c-172171
@@ -94,25 +75,17 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
-    šiai - Uhsinsz arba Szwets uhsinsz21.
-    Ragutienė pati (Ragutenapati)
-    Deivė, globojanti tik aludarystę, o pagal savo vardą - Ra­
-    gučio žmona. Lasickis apsiriko laikydamas ją dievu.
-    Jos garbei buvo geriamas, kalbant tam tikras maldas, pir­
-    masis indas, pripiltas iš pilnos statinės: tai buvo vadinama nu­
-    leidimu (Nukijdimas).
-  citata_rodoma: |
     Budintoja (Budintoja)
     Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
     žadinti miegančiuosius. Tik tiek težinome iš Lasickio.
     Tačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos
     priešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos
     draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
+  citata_rodoma: "Budintoja (Budintoja)\nBudėjimui prielanki deivė, pratusi reikiamu momentu pa­\nžadinti miegančiuosius. Tik tiek težinome iš Lasickio.\nTačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos\npriešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos\ndraugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189283
+    - t-001

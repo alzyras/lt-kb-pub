@@ -35,8 +35,7 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 ## Teiginiai
 
 <a id="claim-t-02205"></a>
-- t-001
-  global_id: t-02205
+- t-002
   teiginys: "„Lenko pasikalbėjime su lietuviu“ buvo ginčijami Ožechovskio tvirtinimai ir ginamos Lietuvos valstybės teisės gyventi savarankiškai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,8 +54,7 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     - c-02443
 
 <a id="claim-t-02206"></a>
-- t-002
-  global_id: t-02206
+- t-001
   teiginys: "1564 m. mokslinti lietuviai paskelbė atsakymą Ožechovskiui knygutėje „Lenko pasikalbėjimu su lietuviu“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -88,17 +86,15 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu". Ten jie
     įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
     valstybės garbę ir jos teises gyventi savarankiškai.
-  citata_rodoma: |
-    Ten jie
-    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
-    valstybės garbę ir jos teises gyventi savarankiškai.
+  citata_rodoma: "Ten jie\nįrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos\nvalstybės garbę ir jos teises gyventi savarankiškai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02205
+    - t-002
+
 - id: c-02444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -111,15 +107,11 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
     vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
     lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
     gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
-  citata_rodoma: |
-    Lietuvos didikai,
-    vadovaujami M. Radvilos Juodojo, suorganizavo mokslintus
-    lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-
-    gutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
+  citata_rodoma: "Lietuvos didikai,\nvadovaujami M. Radvilos Juodojo, suorganizavo mokslintus\nlietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) kny-\ngutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu\"."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02206
+    - t-001

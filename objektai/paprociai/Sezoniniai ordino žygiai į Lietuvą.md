@@ -9,13 +9,13 @@ datos:
   - '1382 m.'
 date_start: '1345'
 date_end: '1382'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - karinė-praktika
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05363"></a>
-- t-001
-  global_id: t-05363
+- t-003
   teiginys: "Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "auto"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-05428
 
 <a id="claim-t-05364"></a>
-- t-002
-  global_id: t-05364
+- t-004
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,6 +96,20 @@ Nenurodyta
     - c-05430
 
 ## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Smulkūs teriojimai iš ordino žemių nuolat buvo kartojami.
+    Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
+    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
+    rečiau lietuvių apgyventose vietose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -119,25 +131,35 @@ Nenurodyta
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
-    Smulkūs teriojimai iš ordino žemių nuolat buvo kartojami.
-    Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
-    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
-    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
-    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
-    rečiau lietuvių apgyventose vietose.
-  citata_rodoma: |
     Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
     Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
     terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli
     kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau
     lietuvių apgyventose vietose.
+  citata_rodoma: "Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.\nIšsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais\nterminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedideli\nkariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir rečiau\nlietuvių apgyventose vietose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05363
+    - t-003
+
+- id: c-05429
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos mėnesiais prieš atlydį.
+    O vasaros žygis buvo ruošiamas apie rugpiūčio vidurį, skubant jį užbaigti prieš
+    rudens darganas ir liūtis.
+  citata_rodoma: "Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos mėnesiais prieš atlydį.\nO vasaros žygis buvo ruošiamas apie rugpiūčio vidurį, skubant jį užbaigti prieš\nrudens darganas ir liūtis."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-05430
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -148,13 +170,11 @@ Nenurodyta
     piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
-  citata_rodoma: |
-    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių
-    ir 30—iš Livonijos.
+  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių\nir 30—iš Livonijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05364
+    - t-004

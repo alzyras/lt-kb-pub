@@ -3,10 +3,11 @@ tipas: grupe
 pavadinimas: 'Hanzos sąjunga'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1382 m.'
-  - '1412 m.'
   - '1459 m.'
+  - '1412 m.'
 date_start: '1382'
 date_end: '1459'
 amziai:
@@ -37,7 +38,6 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
 
 <a id="claim-t-198563"></a>
 - t-001
-  global_id: t-198563
   teiginys: "Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus."
   atnaujinta: "2026-07-12 23:00"
   sprendimo_priezastis: "auto"
@@ -53,7 +53,19 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-180630
-    - c-170717
+
+<a id="claim-t-201476"></a>
+- t-002
+  teiginys: "Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184823
+
 ## Citatos
 
 - id: c-180630
@@ -63,38 +75,33 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
   citata_originali: |
     • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
-    raliumi
-    tuo
-    laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
-    1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
-    kusi užsitikrinti imperatoriaus Zigmanto paramų prieš Hanzos są­
-    jungai priklausančius Vokietijos miestus.
-  citata_rodoma: |
-    • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
     raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
     1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
     kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
     jungai priklausančius Vokietijos miestus.
+  citata_rodoma: "• Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­\nraliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— \n1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­\nkusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­\njungai priklausančius Vokietijos miestus."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198563
-- id: c-170717
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+    - t-001
+
+- id: c-184823
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
   citata_originali: |
-    • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
-    raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
-    1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
-    kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
-    jungai priklausančius Vokietijos miestus.
+    Lietuvos mediena buvo labai
+    svarbi Nyderlandų, Portugalijos, Ispanijos laivų statykloms.
+    Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo. Hanzos sąjungos
+    vakarinės dalies miestų pirkliai irgi daugiausia naudojosi Dancigo uostu, jie labai
+    retai plaukdavo toliau.
   statusas: verified
+  atnaujinta: "2026-07-19 10:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198563
+    - t-002

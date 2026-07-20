@@ -28,7 +28,6 @@ Vilniaus katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų
 
 <a id="claim-t-200812"></a>
 - t-001
-  global_id: t-200812
   teiginys: "Vilniaus katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ Vilniaus katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200812
+    - t-001

@@ -39,7 +39,6 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 
 <a id="claim-t-181304"></a>
 - t-001
-  global_id: t-181304
   teiginys: "Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181304
+    - t-001

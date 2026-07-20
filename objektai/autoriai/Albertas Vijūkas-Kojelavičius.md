@@ -35,8 +35,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 ## Teiginiai
 
 <a id="claim-t-184459"></a>
-- t-001
-  global_id: t-184459
+- t-005
   teiginys: "1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
@@ -56,10 +55,9 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167809
 
 <a id="claim-t-184460"></a>
-- t-002
-  global_id: t-184460
+- t-004
   teiginys: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
@@ -77,8 +75,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167813
 
 <a id="claim-t-184603"></a>
-- t-003
-  global_id: t-184603
+- t-007
   teiginys: "J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -97,10 +94,9 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167964
 
 <a id="claim-t-193373"></a>
-- t-004
-  global_id: t-193373
+- t-009
   teiginys: "Albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 20:03"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,12 +115,10 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
 - susijęs iš Vijūkų dvaras: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 - susijęs iš [[objektai/zodynas/piktadarystė.md#claim-t-185390|piktadarystė]]: A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.
-## Citatos
-
-- id: c-167809
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tarp Vilniaus ir Braunsbergo už­
     simezgė glaudesni ryšiai, ir Vilniaus vyskupas Valeri­
@@ -136,38 +130,81 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     pat metu daug rašė, retkarčiais gaudamas vadovauja­
     mų pareigų: trumpai ėjo vicekanclerio, o 1654 m. rek­
     toriaus pareigas be paskyrimo.
-  citata_rodoma: |
-    1640 m., minint jėzuitų ordino įsteigimo šimto metų
-    sukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­
-    daguotą kalbų rinkinį, kurių viena, skirta kancleriui,
-    parašyta jo paties.
-  statusas: verified
-  atnaujinta: "2026-07-13 00:09"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-184459
-- id: c-167813
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     1644 m. A. Kojelavičius siunčiamas į Braunsbergą
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
-  citata_rodoma: |
-    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
-    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
-    no. Jo tėvai — smulkūs bajorai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to visi it vienas pa­
+    reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
+    kariuomenė, vargais negalais nužygiavusi dvi mylias,
+    įnirtingai užpuolė priešą vos jį išvydusi. Maskvėnų
+    raiteliai neatlaikė antpuolio; vos prasidėjus mūšiui, at­
+    sitraukė iš atviro lauko į stovyklą. Besitraukiantiems
+    ant kulnų lipo Konstantinas, tačiau, perdaug karštai
+    siekdamas pergalės, susilaukė pralaimėjimo: visiems
+    pulkams pasklidus atviroje lygumoje, parodė priešams,
+    kaip mažai teturi kariuomenės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-167809
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    1640 m., minint jėzuitų ordino įsteigimo šimto metų
+    sukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­
+    daguotą kalbų rinkinį, kurių viena, skirta kancleriui,
+    parašyta jo paties.
+  citata_rodoma: "1640 m., minint jėzuitų ordino įsteigimo šimto metų\nsukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­\ndaguotą kalbų rinkinį, kurių viena, skirta kancleriui,\nparašyta jo paties."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184460
+    - t-005
+
+- id: c-167813
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
+    tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
+    no. Jo tėvai — smulkūs bajorai.
+  citata_rodoma: "Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno. Jo tėvai — smulkūs bajorai."
+  statusas: verified
+  atnaujinta: "2026-07-13 00:09"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-167964
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -191,7 +228,8 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184603
+    - t-007
+
 - id: c-176098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -207,21 +245,11 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     se. Kodėl vėliau Aleksandras su kariuomene patraukė
     link Polocko, nei kur parašyta radau, nei pats atspėti
     galėjau.
-  citata_rodoma: |
-    Atvestas pas Ivaną, Konstan­
-    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
-    kinimus: ne tik kojas jam it vergui surakino grandinė­
-    mis, bet ir rankas užlaužė už nugaros ir nelyginant
-    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
-    Aleksandras sužinojo prie Bobro upės; norėdamas su­
-    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
-    se. Kodėl vėliau Aleksandras su kariuomene patraukė
-    link Polocko, nei kur parašyta radau, nei pats atspėti
-    galėjau.
+  citata_rodoma: "Atvestas pas Ivaną, Konstan­\ntinas, tironui įsakius, turėjo iškęsti neapsakomus kan­\nkinimus: ne tik kojas jam it vergui surakino grandinė­\nmis, bet ir rankas užlaužė už nugaros ir nelyginant\nraiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą\nAleksandras sužinojo prie Bobro upės; norėdamas su­\nstabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-\nse. Kodėl vėliau Aleksandras su kariuomene patraukė\nlink Polocko, nei kur parašyta radau, nei pats atspėti\ngalėjau."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193373
+    - t-009

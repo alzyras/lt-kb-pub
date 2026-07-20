@@ -37,7 +37,6 @@ Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas, duotas 1393 m. lapkr.
 
 <a id="claim-t-36052"></a>
 - t-001
-  global_id: t-36052
   teiginys: "Jadvygos dokumentas, duotas 1393 m. lapkričio 4 d., liudija apie Volynijos ginčą ir Ostrogo kunigaikščio pavaldumą Jadvygai bei Lenkijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas, duotas 1393 m. lapkr.
     džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­
     gaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi
     klausyti Jadvygos ir Lenkijos.
-  citata_rodoma: |
-    Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas,
-    duotas 1393 m. lapkr. mėn. 4 d. Jame tais pačiais jos vyro žo­
-    džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­
-    gaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi
-    klausyti Jadvygos ir Lenkijos.
+  citata_rodoma: "Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas,\nduotas 1393 m. lapkr. mėn. 4 d. Jame tais pačiais jos vyro žo­\ndžiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­\ngaikštį, pasakyta, kad jis kartu su visu Ostrogo apskričiu turi\nklausyti Jadvygos ir Lenkijos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36052
+    - t-001

@@ -43,8 +43,7 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 ## Teiginiai
 
 <a id="claim-t-54795"></a>
-- t-001
-  global_id: t-54795
+- t-002
   teiginys: "Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "gap::vocabulary"
@@ -60,8 +59,7 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     - c-55793
 
 <a id="claim-t-54796"></a>
-- t-002
-  global_id: t-54796
+- t-001
   teiginys: "Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis."
   atnaujinta: "2026-05-27 07:20"
   sprendimo_priezastis: "gap::vocabulary"
@@ -92,19 +90,12 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
     perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
     me ir padarė juos galingus ir savarankiškus.
-  citata_rodoma: |
-    Vokietijos impera­
-    toriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir
-    galingą dvasininkiją, jie miestams teikė globą ir vis didesnes
-    privilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­
-    jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
-    perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
-    me ir padarė juos galingus ir savarankiškus.
+  citata_rodoma: "Vokietijos impera­\ntoriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir \ngalingą dvasininkiją, jie miestams teikė globą ir vis didesnes \nprivilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­\njungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­\nperijos miestams, vėliau jiems leido dalyvauti imperijos valdy­\nme ir padarė juos galingus ir savarankiškus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54795
-    - t-54796
+    - t-002
+    - t-001

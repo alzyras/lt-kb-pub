@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-67591"></a>
 - t-001
-  global_id: t-67591
   teiginys: "Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -69,15 +68,11 @@ media_all_json: |-
     Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
     imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
     Zigmanto sprendimo neteisingumą.
-  citata_rodoma: |
-    Vytautas kryžiuočius laikė atėjūnais grobikais, o jų ginčijamus
-    Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
-    imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
-    Zigmanto sprendimo neteisingumą.
+  citata_rodoma: "Vytautas kryžiuočius laikė atėjūnais grobikais, o jų ginčijamus\nŽemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas\nimperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto\nZigmanto sprendimo neteisingumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67591
+    - t-001

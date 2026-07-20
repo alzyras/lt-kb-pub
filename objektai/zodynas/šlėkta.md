@@ -38,7 +38,6 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 <a id="claim-t-36857"></a>
 - t-001
-  global_id: t-36857
   teiginys: "Vytautas Lietuvoje saugojo monarchinę valdžią, o Lenkijoje uoliai rėmė naujų privilegijų ieškojusią šlėktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,17 +74,11 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     Vytauto siekimai sutiko su Jogailos siekimais — kad lenkų
     sostas atitektų Jogailos įpėdiniams, ant kurių turėjo išsiplėsti
     jo, kaip globėjo pareigos.
-  citata_rodoma: |
-    Tai paaiškina mums, kodėl Vytautas,
-    kuris Lietuvoj saugojo monarchinę valdžią, Lenkijoj uoliai rėmė
-    šlėktą, kai ji ieškojo naujų privilegijų.
-    Vytauto siekimai sutiko su Jogailos siekimais — kad lenkų
-    sostas atitektų Jogailos įpėdiniams, ant kurių turėjo išsiplėsti
-    jo, kaip globėjo pareigos.
+  citata_rodoma: "Tai paaiškina mums, kodėl Vytautas,\nkuris Lietuvoj saugojo monarchinę valdžią, Lenkijoj uoliai rėmė\nšlėktą, kai ji ieškojo naujų privilegijų.\nVytauto siekimai sutiko su Jogailos siekimais — kad lenkų\nsostas atitektų Jogailos įpėdiniams, ant kurių turėjo išsiplėsti\njo, kaip globėjo pareigos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36857
+    - t-001

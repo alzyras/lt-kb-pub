@@ -31,7 +31,6 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
 
 <a id="claim-t-190085"></a>
 - t-001
-  global_id: t-190085
   teiginys: "Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga ir siejo ją su vardų panašumu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
 
 <a id="claim-t-197389"></a>
 - t-002
-  global_id: t-197389
   teiginys: "Belskis globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -87,7 +85,8 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190085
+    - t-001
+
 - id: c-179161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -108,4 +107,4 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197389
+    - t-002

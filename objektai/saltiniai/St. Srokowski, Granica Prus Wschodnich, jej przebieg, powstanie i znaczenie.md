@@ -37,7 +37,6 @@ Srokowski, St.
 
 <a id="claim-t-31926"></a>
 - t-001
-  global_id: t-31926
   teiginys: "St. Srokowskio „Granica Prus Wschodnich, jej przebieg, powstanie i znaczenie“ paskelbta 1933 m. žurnalo „Bellona“ 15 tome, 471-494 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,15 +58,11 @@ Srokowski, St.
     przebieg, powstanie i znaczenie_ , Bellona, t. 15, 1933, 471-494 p. — Šležas,
     P. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-
     412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
-  citata_rodoma: |
-    — Srokowski, St. : _Granica Prus Wschodnich, jej
-    przebieg, powstanie i znaczenie_ , Bellona, t. 15, 1933, 471-494 p. — Šležas,
-    P. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-
-    412 p.
+  citata_rodoma: "— Srokowski, St. : _Granica Prus Wschodnich, jej\nprzebieg, powstanie i znaczenie_ , Bellona, t. 15, 1933, 471-494 p. — Šležas,\nP. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-\n412 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31926
+    - t-001

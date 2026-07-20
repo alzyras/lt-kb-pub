@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05378"></a>
-- t-001
-  global_id: t-05378
+- t-002
   teiginys: "Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -72,16 +71,11 @@ media_all_json: |-
     jis esą galėjęs kitaip išspręsti bylą, jeigu Vytautas ir Jogaila, «or­
     diną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko
     jam pripažinti Žemaičius^16.
-  citata_rodoma: |
-    Zigmantas vikriai teisinosi, jog jis sprendimą daręs žiūrėdamas
-    ne bičiulystės, o teisybės. Jis — ne be pagrindo — priminė : kaip
-    jis esą galėjęs kitaip išspręsti bylą, jeigu Vytautas ir Jogaila, «or­
-    diną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko
-    jam pripažinti Žemaičius^16.
+  citata_rodoma: "Zigmantas vikriai teisinosi, jog jis sprendimą daręs žiūrėdamas\nne bičiulystės, o teisybės. Jis — ne be pagrindo — priminė : kaip\njis esą galėjęs kitaip išspręsti bylą, jeigu Vytautas ir Jogaila, «or­\ndiną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko\njam pripažinti Žemaičius^16."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05378
+    - t-002

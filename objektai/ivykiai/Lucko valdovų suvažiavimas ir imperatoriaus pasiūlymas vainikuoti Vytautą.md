@@ -45,25 +45,11 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194062"></a>
-- t-001
-  global_id: t-194062
-  teiginys: 'Lietuvos metraštis pasakoja, kad pas Vytautą viešėjo Zigmantas, Jogaila, Danijos karalius, Perekopo chanas, Riazanės ir Maskvos didieji kunigaikščiai bei kiti svečiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, o svečių sąrašas sutrauktas į vieną sakinį apie Lucko suvažiavimą. Valdovų titulų vartosena palikta su Lietuvos metraščio atribucija.'
-  pagrindžia:
-    - c-176675
-
-## Citatos
-
-- id: c-176675
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad pas Vytautą viešėjo Zigmantas, Jogaila, Danijos karalius, Perekopo chanas, Riazanės ir Maskvos didieji kunigaikščiai bei kiti svečiai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     6 Lietuvos m etraštis i!3
 
@@ -89,10 +75,8 @@ Nenurodyta
     tyni šimtai avinų ir paršų, po šešias dešimtis stumbrų,
     po šimtą briedžių, neskaitant įvairios kitos žvėrienos
     ir daugelio kitų mėsiškų ir naminių patiekalų2 0 .
-  statusas: not_found
-  atnaujinta: "2026-07-12 22:45"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194062
+  statusas: not_found

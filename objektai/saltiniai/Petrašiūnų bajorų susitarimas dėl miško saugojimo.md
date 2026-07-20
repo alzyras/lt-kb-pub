@@ -28,7 +28,6 @@ Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūs�
 
 <a id="claim-t-202254"></a>
 - t-001
-  global_id: t-202254
   teiginys: "Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūsų visų bendras miškas, vienu šonu esantis prie kelio, kuris eina i Kauną nuo bajorų Gedsautavičių, iš kitos pusės nuo Vieškūnų kaimo, valdovo Kauno pavieto valdinių, ribos iki pat Nemuno."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūs�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202254
+    - t-001

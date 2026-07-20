@@ -38,7 +38,6 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 
 <a id="claim-t-67978"></a>
 - t-001
-  global_id: t-67978
   teiginys: "Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 
 <a id="claim-t-67979"></a>
 - t-002
-  global_id: t-67979
   teiginys: "Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,21 +93,12 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
     priemiesčius, iš kurių ypač buvo garsi Gorodnica.
     Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
     jie buvo ruošiami iš valstiečių tarpo.
-  citata_rodoma: |
-    Mat,
-    Tizenhauzas buvo už-
-    simojęs padaryti Gar-
-    diną didžiuliu pramonės
-    centru ir buvo čia pa-
-    statęs net 2 pramonės
-    priemiesčius, iš kurių ypač buvo garsi Gorodnica.
-    Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
-    jie buvo ruošiami iš valstiečių tarpo.
+  citata_rodoma: "Mat,\nTizenhauzas buvo už-\nsimojęs padaryti Gar-\ndiną didžiuliu pramonės\ncentru ir buvo čia pa-\nstatęs net 2 pramonės\npriemiesčius, iš kurių ypač buvo garsi Gorodnica.\nDirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai\njie buvo ruošiami iš valstiečių tarpo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67978
-    - t-67979
+    - t-001
+    - t-002

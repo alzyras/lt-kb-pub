@@ -42,19 +42,6 @@ Kurkliai 1931 m. Tautosakos komisijos suvestinėje minimi kaip pateikėjos kilm�
 
 Kurkliai šiame šaltinyje yra vietovė.
 
-## Teiginiai
-
-<a id="claim-t-195494"></a>
-- t-001
-  global_id: t-195494
-  teiginys: "1931 m. Tautosakos komisijos suvestinėje S. Kiškytė nurodyta kaip iš Kurklių."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177917
-
 ## Citatos
 
 - id: c-177917
@@ -64,12 +51,13 @@ Kurkliai šiame šaltinyje yra vietovė.
   citata_originali: |
     S. Kiškytė (iš Kurklių v.)
     . .
-  citata_rodoma: |
-    S. Kiškytė (iš Kurklių v.)
+  citata_rodoma: "S. Kiškytė (iš Kurklių v.)"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195494
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202413|Jonas Leonas Oziębłowskis]]: 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo.

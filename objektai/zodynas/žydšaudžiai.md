@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-22356"></a>
 - t-001
-  global_id: t-22356
   teiginys: "Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ media_all_json: |-
     didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-
     ko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčio-
     se, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
-  citata_rodoma: |
-    didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-
+  citata_rodoma: "didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22356
+    - t-001

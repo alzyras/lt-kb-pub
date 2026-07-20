@@ -39,7 +39,6 @@ A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol.
 
 <a id="claim-t-30513"></a>
 - t-001
-  global_id: t-30513
   teiginys: "A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol.
     16 dol.
     A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,
     Roma 1965. 6 dol.
-  citata_rodoma: |
-    A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,
-    Roma 1965. 6 dol.
+  citata_rodoma: "A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,\nRoma 1965. 6 dol."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30513
+    - t-001

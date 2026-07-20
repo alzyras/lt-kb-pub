@@ -36,7 +36,6 @@ Dusburgietis teigia, kad mažiulis V.
 
 <a id="claim-t-61171"></a>
 - t-001
-  global_id: t-61171
   teiginys: "V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61171
+    - t-001

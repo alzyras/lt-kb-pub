@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71806"></a>
-- t-001
-  global_id: t-71806
+- t-008
   teiginys: "Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-12392
 
 <a id="claim-t-71807"></a>
-- t-002
-  global_id: t-71807
+- t-006
   teiginys: "Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-43162
 
 <a id="claim-t-71808"></a>
-- t-003
-  global_id: t-71808
+- t-005
   teiginys: "Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -111,7 +108,6 @@ Nenurodyta
 
 <a id="claim-t-71809"></a>
 - t-004
-  global_id: t-71809
   teiginys: "Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-12391
 
 <a id="claim-t-71810"></a>
-- t-005
-  global_id: t-71810
+- t-007
   teiginys: "Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -158,7 +153,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71809
+    - t-004
+
 - id: c-12392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -174,8 +170,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71806
-    - t-71808
+    - t-008
+    - t-005
+
 - id: c-43162
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -191,7 +188,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71807
+    - t-006
+
 - id: c-43163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -207,4 +205,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71810
+    - t-007

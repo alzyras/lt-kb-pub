@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-11666"></a>
-- t-001
-  global_id: t-11666
+- t-004
   teiginys: "Žodis „Aistuva“ aiškinamas kaip kadaise reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -47,8 +46,7 @@ media_all_json: |-
     - c-14591
 
 <a id="claim-t-11667"></a>
-- t-002
-  global_id: t-11667
+- t-003
   teiginys: "Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -77,18 +75,12 @@ media_all_json: |-
     žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
     nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
     reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
-  citata_rodoma: |
-    Tik ligšiol dar galutinai nesusitarta ar „aesti”
-    yra etnografiškas vardas ar geografiškas, kaip manė daugybė
-    senesnių mokslininkų (pav., Mierzyński), ir reiškia „rytų
-    žmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­
-    nius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise
-    reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2).
+  citata_rodoma: "Tik ligšiol dar galutinai nesusitarta ar „aesti”\nyra etnografiškas vardas ar geografiškas, kaip manė daugybė\nsenesnių mokslininkų (pav., Mierzyński), ir reiškia „rytų\nžmonės”, — „Leute des Ostens”. Mūsų kalbininkai Kaz. Jau­\nnius ir Kaz. Būga jį išveda iš žodžio „Aistuva“, kuris kadaise\nreiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė1 2)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11666
-    - t-11667
+    - t-004
+    - t-003

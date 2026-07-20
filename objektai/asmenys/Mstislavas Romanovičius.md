@@ -32,7 +32,6 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 
 <a id="claim-t-186072"></a>
 - t-001
-  global_id: t-186072
   teiginys: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 
 <a id="claim-t-196566"></a>
 - t-002
-  global_id: t-196566
   teiginys: "Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186072
+    - t-001
+
 - id: c-178771
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -135,6 +134,7 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196566
+    - t-002
+
 ## Ryšiai
 - Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]

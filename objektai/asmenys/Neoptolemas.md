@@ -30,7 +30,6 @@ Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pasto
 
 <a id="claim-t-191448"></a>
 - t-001
-  global_id: t-191448
   teiginys: "Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pastovias graikų gyvenvietes prie Dnestro ir Dnepro žiočių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pasto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191448
+    - t-001

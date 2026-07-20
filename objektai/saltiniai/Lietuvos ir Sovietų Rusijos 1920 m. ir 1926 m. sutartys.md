@@ -38,7 +38,6 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 
 <a id="claim-t-21156"></a>
 - t-001
-  global_id: t-21156
   teiginys: "SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,12 +70,11 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
     vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
-  citata_rodoma: |
-    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21156
+    - t-001

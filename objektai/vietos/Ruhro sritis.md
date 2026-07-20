@@ -39,8 +39,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 ## Teiginiai
 
 <a id="claim-t-69178"></a>
-- t-001
-  global_id: t-69178
+- t-002
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,20 +73,14 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     Lietuvos vyriausybę priimti sprendimą
     pradėti karinę operaciją, suvaidino ryž-
     tingai nusiteikę Šaulių sąjungos nariai.
-  citata_rodoma: |
-    Tarptautinės bendruomenės dėmesys
-    buvo nukrypęs į Vokietijos Ruhro sritį,
-    kurią tuo metu okupavo prancūzų ka-
-    riuomenė. Nemažą vaidmenį, skatinant
-    Lietuvos vyriausybę priimti sprendimą
-    pradėti karinę operaciją, suvaidino ryž-
-    tingai nusiteikę Šaulių sąjungos nariai.
+  citata_rodoma: "Tarptautinės bendruomenės dėmesys\nbuvo nukrypęs į Vokietijos Ruhro sritį,\nkurią tuo metu okupavo prancūzų ka-\nriuomenė. Nemažą vaidmenį, skatinant\nLietuvos vyriausybę priimti sprendimą\npradėti karinę operaciją, suvaidino ryž-\ntingai nusiteikę Šaulių sąjungos nariai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69178
+    - t-002
+
 ## Ryšiai
 - Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]

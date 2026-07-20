@@ -61,7 +61,6 @@ Nenurodyta
 
 <a id="claim-t-23356"></a>
 - t-001
-  global_id: t-23356
   teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -81,7 +80,6 @@ Nenurodyta
 
 <a id="claim-t-23357"></a>
 - t-002
-  global_id: t-23357
   teiginys: "Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą."
   atnaujinta: "2026-05-31 10:32"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-23358"></a>
 - t-003
-  global_id: t-23358
   teiginys: "Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,16 +129,16 @@ Nenurodyta
     kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
     vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
     80 ha.
-  citata_rodoma: |
-    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
+  citata_rodoma: "balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23356
-    - t-23357
+    - t-001
+    - t-002
+
 - id: c-16904
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,12 +157,11 @@ Nenurodyta
     50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
     kai kurios valstybinės ir visuomeninės įstaigos.
-  citata_rodoma: |
-    ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
+  citata_rodoma: "ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23358
+    - t-003

@@ -31,7 +31,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 <a id="claim-t-87736"></a>
 - t-001
-  global_id: t-87736
   teiginys: "Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 
 <a id="claim-t-197766"></a>
 - t-002
-  global_id: t-197766
   teiginys: "Juozapas Zavadskis sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek jos leidėjui."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -87,23 +85,15 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
     kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
-  citata_rodoma: |
-    Ypač pagarsėjo
-    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
-    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
+  citata_rodoma: "Ypač pagarsėjo \nVilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė \nuniversiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­\nventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­\nmatą bei netikrų krikščionių dievus, draugijos nariai pasivadino \nsenovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­\nkūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­\ngantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla- \nviu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87736
+    - t-001
+
 - id: c-179330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -122,4 +112,4 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197766
+    - t-002

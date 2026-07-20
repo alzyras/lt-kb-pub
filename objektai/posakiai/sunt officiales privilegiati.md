@@ -28,7 +28,6 @@ Vaitas karštai tvirtino, kad savivaldos institucijų pareigūnai yra privilegij
 
 <a id="claim-t-201892"></a>
 - t-001
-  global_id: t-201892
   teiginys: "Vaitas karštai tvirtino, kad savivaldos institucijų pareigūnai yra privilegijuoti (sunt officiales privilegiati), kad valdovo privilegija įpareigoja juos sudaryti visus testamentus mieste."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Vaitas karštai tvirtino, kad savivaldos institucijų pareigūnai yra privilegij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201892
+    - t-001

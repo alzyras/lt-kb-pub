@@ -42,8 +42,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 ## Teiginiai
 
 <a id="claim-t-75642"></a>
-- t-001
-  global_id: t-75642
+- t-005
   teiginys: "Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-73367
 
 <a id="claim-t-75647"></a>
-- t-002
-  global_id: t-75647
+- t-004
   teiginys: "Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +61,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-73365
 
 <a id="claim-t-75650"></a>
-- t-003
-  global_id: t-75650
+- t-009
   teiginys: "XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -98,19 +95,15 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
-  citata_rodoma: |
-    Renesansas ir reformacija
-    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
-    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
-    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
-    (Bona Sforza).
+  citata_rodoma: "Renesansas ir reformacija\nHumanistinio išsilavinimo žmonių būta jau XV–XVI a. \nsandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko \nŽygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą \n(Bona Sforza)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75650
+    - t-009
+
 - id: c-73365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -123,17 +116,15 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: |
-    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
-      ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
-      atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
+  citata_rodoma: "Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos\n  ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be\n  atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75647
+    - t-004
+
 - id: c-73367
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -146,12 +137,11 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
     sandras — didysis Lietuvos kunigaikštis. Jonui Albrechtui mirus,
     Aleksandras buvo išrinktas ir Lenkų karalium.
-  citata_rodoma: |
-    Jonui Albrechtui mirus, Aleksandras buvo išrinktas ir Lenkų karalium.
+  citata_rodoma: "Jonui Albrechtui mirus, Aleksandras buvo išrinktas ir Lenkų karalium."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75642
+    - t-005

@@ -31,7 +31,6 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 
 <a id="claim-t-22223"></a>
 - t-001
-  global_id: t-22223
   teiginys: "Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,12 +56,11 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
-  citata_rodoma: |
-    jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
+  citata_rodoma: "jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-22223
+    - t-001

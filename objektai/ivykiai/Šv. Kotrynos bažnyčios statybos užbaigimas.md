@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-200842"></a>
 - t-001
-  global_id: t-200842
   teiginys: "Šv. Kotrynos bažnyčios statybą 1743 metais galutinai užbaigė tuo metu Vilniuje garsus architektorius Jonas Kristupas Glaubicas."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -88,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200842
+    - t-001

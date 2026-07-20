@@ -30,7 +30,6 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
 
 <a id="claim-t-191704"></a>
 - t-001
-  global_id: t-191704
   teiginys: "Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,17 +48,6 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   pagrindžia:
     - c-174586
 
-<a id="claim-t-191705"></a>
-- t-002
-  global_id: t-191705
-  teiginys: 'Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Patikslintas muziejaus pavadinimas pagal citatą ir pašalinta perteklinė nuoroda į Narbutą. Nepridėta duomenų apie konkrečius radinius.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Šaurų dvaras'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.'
@@ -74,11 +62,9 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
     w Szawrach. L. 2 (Nr. 3); L. 3 (Nr. 29, 31).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191705
+  statusas: verified
 ## Citatos
 
 - id: c-174586
@@ -98,4 +84,4 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191704
+    - t-001

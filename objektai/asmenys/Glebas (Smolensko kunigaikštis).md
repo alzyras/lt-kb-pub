@@ -39,7 +39,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 <a id="claim-t-40124"></a>
 - t-001
-  global_id: t-40124
   teiginys: "Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,17 +78,11 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
     prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
-  citata_rodoma: |
-    Taigi Lietuvos antpuolyje su toto-
-    riais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo
-    sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo
-    metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
-    prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
-    Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
+  citata_rodoma: "Taigi Lietuvos antpuolyje su toto-\nriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo\nsūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo\nmetu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje\nprieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,\nVladimiro, taip pat Pinsko, Turovo - kunigaikščiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40124
+    - t-001

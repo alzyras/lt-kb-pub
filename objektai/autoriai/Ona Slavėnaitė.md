@@ -38,7 +38,6 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 
 <a id="claim-t-55018"></a>
 - t-001
-  global_id: t-55018
   teiginys: "Ona Slavėnaitė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "gap::authors"
@@ -94,4 +93,4 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55018
+    - t-001

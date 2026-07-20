@@ -48,7 +48,6 @@ Nenurodyta
 
 <a id="claim-t-201338"></a>
 - t-001
-  global_id: t-201338
   teiginys: "Jaroslavas, kunigaikštis, norėdamas atmonyti tas 1225 nelaimas, patelkęs kunigaikštį Toropeco Dovydą ir kunigaikštį Pleskavo Vladimirą, ėmė vyti lietuvius namo grįžtančius, kuriuos panokęs pirmojoj nedėlioj gavėnios, susigrūmė ties upe Usviete, abi pusi rėmės."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184688
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gudai patys sa­
     kos, jog lietuviai ir žemaičiai niekuomet jų taip
@@ -87,4 +87,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201338
+    - t-001

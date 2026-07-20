@@ -38,7 +38,6 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
 
 <a id="claim-t-36344"></a>
 - t-001
-  global_id: t-36344
   teiginys: "Kėzmarke Vytautas atmetė gundymą suardyti uniją ir siekė palenkti Zigmantą laikytis paliaubų su Lenkija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
 
 <a id="claim-t-184306"></a>
 - t-002
-  global_id: t-184306
   teiginys: "1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -98,19 +96,15 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
     norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
     mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
     jos ir Ordino.
-  citata_rodoma: |
-    Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
-    da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
-    norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
-    mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
-    jos ir Ordino.
+  citata_rodoma: "Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­\nda jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,\nnorėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­\nmantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­\njos ir Ordino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36344
+    - t-001
+
 - id: c-167679
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,6 +123,7 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184306
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

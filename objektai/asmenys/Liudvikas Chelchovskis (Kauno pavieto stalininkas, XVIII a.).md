@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-200500"></a>
-- t-001
-  global_id: t-200500
+- t-002
   teiginys: "1754 m. karnavalo metu Jonas Dominykas Lopacinskis derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu dėl Balbieriškio valdų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-183863
 
 <a id="claim-t-200501"></a>
-- t-002
-  global_id: t-200501
+- t-001
   teiginys: "Liudvikas Chelchovskis buvo Kauno pavieto stalininkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
@@ -83,21 +81,9 @@ media_all_json: |-
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 7"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citata_originali: |
-    Anot J. D. Lopacinskio abu su broliu
-    Ukmergės pavieto stalininku Jonu Dombrovskiu (Jan Dombrowski) prašė, kad M. K. Sa-
-    piega nenorėtų iš jų atpirkti rakto. „Aš jiems ryžtingai pasakiau, jei jau norite išlaikyti,
-    tai pridėkite, ką kiti irgi viršaus prideda“ [14]. 1754 m. kanauninkas laiške minėjo, kad
-    karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
-    Chełchowski) dėl Balbieriškio valdų [33].
-  citata_rodoma: |
-    1754 m. kanauninkas laiške minėjo, kad karnavalo metu derėjosi su Kauno pavieto stalininku Liudviku Chelchovskiu (Ludwik
-    Chełchowski) dėl Balbieriškio valdų [33].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 03:26"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200500
-    - t-200501
+    - t-002
+    - t-001

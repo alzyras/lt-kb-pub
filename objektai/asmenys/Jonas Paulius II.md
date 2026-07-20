@@ -40,8 +40,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 ## Teiginiai
 
 <a id="claim-t-71296"></a>
-- t-001
-  global_id: t-71296
+- t-002
   teiginys: "Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     - c-21751
 
 <a id="claim-t-71297"></a>
-- t-002
-  global_id: t-71297
+- t-001
   teiginys: "Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,17 +95,15 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
-  citata_rodoma: |
-    Taip Kryžių kalnas (jį 1993 m.
-    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
-    Golgota.
+  citata_rodoma: "Taip Kryžių kalnas (jį 1993 m. \naplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška \nGolgota."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71297
+    - t-001
+
 - id: c-21751
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -126,19 +122,14 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: |
-    Pir-
-    minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
-    sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
-    Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
-    Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
-    metropolitas Audrys Juozas Bačkis.
+  citata_rodoma: "Pir-\nminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo \nsėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.\nPopiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos \nRespublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas \nmetropolitas Audrys Juozas Bačkis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71296
+    - t-002
+
 ## Ryšiai
 - Jonas Paulius II keliavo į [[objektai/vietos/Kryžių kalnas]], [[objektai/vietos/Lietuva]]

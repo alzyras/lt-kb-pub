@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-190566"></a>
 - t-001
-  global_id: t-190566
   teiginys: "Žygimanto Senojo privilegija Petrui Laurinavičiui, Vilniaus piliečiui, 1538 m. sausio 25 d. Piotrkove patvirtino įvairius pirkimus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190566
+    - t-001

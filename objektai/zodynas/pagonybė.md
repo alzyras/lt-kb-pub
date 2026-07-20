@@ -39,8 +39,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 ## Teiginiai
 
 <a id="claim-t-101592"></a>
-- t-001
-  global_id: t-101592
+- t-008
   teiginys: "Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -55,9 +54,8 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   pagrindžia:
     - c-26782
 
-<a id="claim-t-101596"></a>
-- t-002
-  global_id: t-101596
+<a id="claim-t-101593"></a>
+- t-010
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,8 +71,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
     - c-26890
 
 <a id="claim-t-101594"></a>
-- t-003
-  global_id: t-101594
+- t-011
   teiginys: "Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101592
+    - t-008
+
 - id: c-26890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,20 +137,12 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
     ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
     taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
     mėnų religinėms sistemoms.
-  citata_rodoma: |
-    1 skyrius •  S E N O J I  L I E T U VA
-    23
-    Pagonybė ir Lietuvos vardo paminėjimas
-    1009 metais
-    Daugiausia ginčytinų teiginių ir vertinimų yra pasaky-
-    ta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje
-    XIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus
-    mito ir istorijos šaltinių teikiamos informacijos skurdumo.
+  citata_rodoma: "1 skyrius •  S E N O J I  L I E T U VA\n23\nPagonybė ir Lietuvos vardo paminėjimas  \n1009 metais\nDaugiausia ginčytinų teiginių ir vertinimų yra pasaky-\nta Lietuvos pagonybės tema. Taip atsitiko dėl prieštaros tarp pirmojoje \nXIX a. pusėje sukurto pagoniškos epochos kaip lietuvių aukso amžiaus \nmito ir istorijos šaltinių teikiamos informacijos skurdumo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101596
-    - t-101594
+    - t-010
+    - t-011

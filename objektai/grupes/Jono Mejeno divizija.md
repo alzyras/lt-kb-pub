@@ -39,7 +39,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 
 <a id="claim-t-40902"></a>
 - t-001
-  global_id: t-40902
   teiginys: "Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,22 +75,14 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     (2004 m. vykusi
     1794 m. sukilimo
     kovų inscenizacija)
-  citata_rodoma: |
-    Vėliau Vilnių nuo rusų puolimo gynė
-    gen. mjr. Jono Mejeno divizija, kurią sudarė
-    2-0ji ir 3-ioji Tautinės kavalerijos brigados,
-    mjr. Jozefo Grabinskio Jėgerių batalionas,
-
-    LDK kariuomenės
-    artileristai prasidėjus
-    sukilimui Vilniuje
-    (2004 m.
+  citata_rodoma: "Vėliau Vilnių nuo rusų puolimo gynė\ngen. mjr. Jono Mejeno divizija, kurią sudarė\n2-0ji ir 3-ioji Tautinės kavalerijos brigados,\nmjr. Jozefo Grabinskio Jėgerių batalionas,\n\nLDK kariuomenės\nartileristai prasidėjus\nsukilimui Vilniuje\n(2004 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40902
+    - t-001
+
 ## Ryšiai
 - Jono Mejeno divizija gynė [[objektai/vietos/Vilnius]]

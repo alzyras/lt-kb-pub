@@ -39,7 +39,6 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 
 <a id="claim-t-66261"></a>
 - t-001
-  global_id: t-66261
   teiginys: "Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 
 <a id="claim-t-182930"></a>
 - t-002
-  global_id: t-182930
   teiginys: "Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -104,17 +102,15 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
     dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
     pirklius nuo plėšikų.
-  citata_rodoma: |
-    Ilgainiui paliai šitą kelią atsirado vikingų so-
-    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
-    pirklius nuo plėšikų.
+  citata_rodoma: "Ilgainiui paliai šitą kelią atsirado vikingų so-\ndybų: tai buvo sodybos žmonių, saugančių upe keliaujančius\npirklius nuo plėšikų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66261
+    - t-001
+
 - id: c-166331
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -133,4 +129,4 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182930
+    - t-002

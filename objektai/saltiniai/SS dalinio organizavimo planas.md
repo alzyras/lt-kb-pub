@@ -37,9 +37,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-101564"></a>
-- t-001
-  global_id: t-101564
+<a id="claim-t-101563"></a>
+- t-002
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,16 +72,11 @@ media_all_json: |-
     tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
-  citata_rodoma: |
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    205
-    1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
-    moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
+  citata_rodoma: "5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n205\n1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-\nmoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio \norganizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101564
+    - t-002

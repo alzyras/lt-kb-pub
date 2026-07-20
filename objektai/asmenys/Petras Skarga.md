@@ -40,8 +40,7 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
 ## Teiginiai
 
 <a id="claim-t-196582"></a>
-- t-001
-  global_id: t-196582
+- t-002
   teiginys: "Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu religinės, tautinės bei valstybinės integracijos skelbėju."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,7 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
     - c-178778
 
 <a id="claim-t-196583"></a>
-- t-002
-  global_id: t-196583
+- t-003
   teiginys: "Petras Skarga pamoksluose valdantiesiems aiškino, kokiomis „ligomis“ serganti Žečpospolita."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -89,7 +87,8 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196582
+    - t-002
+
 - id: c-178779
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -110,4 +109,4 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196583
+    - t-003

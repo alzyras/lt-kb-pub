@@ -39,7 +39,6 @@ Seirijuose, Simne, Prienuose ir kt.
 
 <a id="claim-t-171973"></a>
 - t-001
-  global_id: t-171973
   teiginys: "1945 m. gegužės 14 d. NKVD duomenimis, Seminiškių miško rajone, 8 km į pietvakarius nuo Simno, slėpėsi iki 70 partizanų."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Seirijuose, Simne, Prienuose ir kt.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171973
+    - t-001

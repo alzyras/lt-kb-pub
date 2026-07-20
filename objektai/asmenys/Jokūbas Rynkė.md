@@ -7,12 +7,12 @@ datos:
   - '1638 m.'
 date_start: '1638'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVII'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202170"></a>
 - t-001
-  global_id: t-202170
   teiginys: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už prekes kelis šimtus auksinų, pasiūlė uŽ jas varpą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202170
+    - t-001

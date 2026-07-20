@@ -33,7 +33,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 
 <a id="claim-t-186067"></a>
 - t-001
-  global_id: t-186067
   teiginys: "Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -47,7 +46,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 
 <a id="claim-t-186068"></a>
 - t-002
-  global_id: t-186068
   teiginys: "Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -60,7 +58,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 
 <a id="claim-t-186069"></a>
 - t-003
-  global_id: t-186069
   teiginys: "Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -73,8 +70,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169430
 
 <a id="claim-t-193507"></a>
-- t-004
-  global_id: t-193507
+- t-005
   teiginys: "Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -87,8 +83,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169429
 
 <a id="claim-t-193508"></a>
-- t-005
-  global_id: t-193508
+- t-006
   teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -100,8 +95,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - c-169430
 
 <a id="claim-t-201013"></a>
-- t-006
-  global_id: t-201013
+- t-008
   teiginys: "Tie atėjūnai turėjo su savim kunigą, vardu Meinhardą, augustijonį, noris apsenį vyrą, bet didį gei dulį Evangelijos platinimo, neskundžiantį nei darbo, nei žygio, nei sveikatos dėl padauginimo skaitliaus krikščionų, kursai, pramokęs tenai kalbos, pradėjo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -112,12 +106,10 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   pagrindžia:
     - c-184363
 
-## Citatos
-
-- id: c-169428
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pirmiausia
     ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
@@ -137,7 +129,20 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     vos dvylika jų liko nesužeistų, pilėnams iškilo baisus
     pavojus, tačiau netikėta priešų klaida pakeitė padėtį,
     tokią, rodos, beviltišką.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+
+## Citatos
+
+- id: c-169428
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
     kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
@@ -149,13 +154,15 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
     apsuptą pilį.
+  citata_rodoma: "Už žalą, padarytą per šį niokojamą iš­\npuolį Sembai, lietuviams buvo atsilyginta kitais ir dar\nkokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­\nsą laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu\nkariaudami, smogė nemažai stiprių smūgių. Pirmiausia\nėmėsi kariauti Meinhardas, Prūsijos magistras, apie\nbalandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos\nNemuno pakrantėje esančią Lietuvos pilį. Penki šim­\ntai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų\nniokoti, o du tūkstančiai pėstininkų atkakliai puolė\napsuptą pilį."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186067
+    - t-001
+
 - id: c-169429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -181,31 +188,16 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
     lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
     m
-  citata_rodoma: |
-    Vėliau su didesne kariauna,
-    kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
-    žė į Lietuvą pats magistras Meinhardas, žiauriai nu­
-    siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
-    ugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,
-    Jazbutas įniko persekioti už-
-    N u žu d o m a s
-    lie tu v ių
-    pakaimę vorą, kuriai tuomet
-    k u n ig a ik štis J a zb u ta s
-    vadovavo Henrikas Cutsver-
-    tas. Šį išvydęs, Jazbutas, su
-    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
-    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
-    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
-    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+  citata_rodoma: "Vėliau su didesne kariauna, \nkurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­\nžė į Lietuvą pats magistras Meinhardas, žiauriai nu­\nsiaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos \nugnimi. Pasivijęs jį, atsitraukiantį su dideliu grobiu,\nJazbutas įniko persekioti už- \nN u žu d o m a s \nlie tu v ių \npakaimę vorą, kuriai tuomet\nk u n ig a ik štis J a zb u ta s \nvadovavo Henrikas Cutsver-\ntas. Šį išvydęs, Jazbutas, su \nįniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų \npuolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­\nrikas ietimi persmeigė Jazbutą, kuris, griūdamas že­\nmėn, nukirto kalaviju puolančiam nugalėtojui pirštą."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186068
-    - t-193507
+    - t-002
+    - t-005
+
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -243,44 +235,20 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     lietuvių stovyklas, staiga užpuolė, sukilimui dar ne­
     prasidėjus, sutelktą kariuomenę, išžudė nemaža karių,
     o kitus išsklaidė.
-  citata_rodoma: |
-    Vytenis, neturėdamas pa­
-    kankamai jėgų priešui at-
-    A tre m ia m i
-    k iy ž iu o -
-    remti atviroje kovoje, grie-
-    čia i, n io k o ja n ty s Lie-
-    besi klastos: išdėstęs patogio-
-    tu v ą
-    se miško vietose karius, jis
-    susitarė su prūsais (kurie,
-    aišku, patys jautė priešiškumą kryžiuočių valdymui,
-    o pakursčius tą neapykantą visokiausiais kaltinimais,
-    netruko išduoti), kad, pradėjus jų pirmiesiems būriams
-    bėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­
-    tę, Meinhardas vargais negalais išvengė pavojaus anks­
-    čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­
-    riuomenę į Prūsiją. Tais metais nei viena, nei kita šalis
-    nieko daugiau beveik ir nenuveikė: kryžiuočiai būgš­
-    tavo, kad, kariuomenei išvykus iš krašto, prūsai nesu­
-    keltų tuo laiku kokio maišto, o lietuviams rodėsi
-    parankiau laukti, kol Prūsijoje prasidės kokie bruzdė­
-    jimai, nes visai neseniai Vytenis, paminėjęs žodį 1 a i s-
-    v ė, netruko tarp prūsų pasėti jos troškimą bei neapy­
-    kantą krikščioniškosioms apeigoms; ilgainiui šią neapy­
-    kantą dar labiau sukurstė jų gentainių kalbos ir ji
-    pavirto maištingomis nuotaikomis.
+  citata_rodoma: "Vytenis, neturėdamas pa­\nkankamai jėgų priešui at-\nA tre m ia m i\nk iy ž iu o -\nremti atviroje kovoje, grie-\nčia i, n io k o ja n ty s Lie-\nbesi klastos: išdėstęs patogio-\ntu v ą\nse miško vietose karius, jis\nsusitarė su prūsais (kurie,\naišku, patys jautė priešiškumą kryžiuočių valdymui,\no pakursčius tą neapykantą visokiausiais kaltinimais,\nnetruko išduoti), kad, pradėjus jų pirmiesiems būriams\nbėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­\ntę, Meinhardas vargais negalais išvengė pavojaus anks­\nčiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­\nriuomenę į Prūsiją. Tais metais nei viena, nei kita šalis\nnieko daugiau beveik ir nenuveikė: kryžiuočiai būgš­\ntavo, kad, kariuomenei išvykus iš krašto, prūsai nesu­\nkeltų tuo laiku kokio maišto, o lietuviams rodėsi\nparankiau laukti, kol Prūsijoje prasidės kokie bruzdė­\njimai, nes visai neseniai Vytenis, paminėjęs žodį 1 a i s-\nv ė, netruko tarp prūsų pasėti jos troškimą bei neapy­\nkantą krikščioniškosioms apeigoms; ilgainiui šią neapy­\nkantą dar labiau sukurstė jų gentainių kalbos ir ji\npavirto maištingomis nuotaikomis."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186069
-    - t-193508
+    - t-003
+    - t-006
+
 - id: c-184363
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Idant vokyčiai tokį savo ketė­
     jimą uždengtų, nuo pradžios taip elgės.
@@ -302,4 +270,4 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201013
+    - t-008

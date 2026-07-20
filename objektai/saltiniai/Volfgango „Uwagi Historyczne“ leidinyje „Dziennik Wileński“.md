@@ -36,7 +36,6 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 
 <a id="claim-t-88496"></a>
 - t-001
-  global_id: t-88496
   teiginys: "Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,16 +76,11 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
     Historyczne" Dziennik Wileński, 1816
     m.-T. IV, 1.251.
     —  • —
-  citata_rodoma: |
-    Apie farmacijos būklę Lietuvoje
-    trumpą žinutę išspausdino profeso­
-    rius Volfgangas savo „Uwagi
-    Historyczne" Dziennik Wileński, 1816
-    m.-T. IV, 1.251.
+  citata_rodoma: "Apie farmacijos būklę Lietuvoje \ntrumpą žinutę išspausdino profeso­\nrius Volfgangas savo „Uwagi \nHistoryczne\" Dziennik Wileński, 1816 \nm.-T. IV, 1.251."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88496
+    - t-001

@@ -39,7 +39,6 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
 
 <a id="claim-t-30694"></a>
 - t-001
-  global_id: t-30694
   teiginys: "J. Pfitzneris 1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ reikalavo į Vytautą žiūrėti lietuvių požiūriu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30694
+    - t-001

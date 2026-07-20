@@ -34,7 +34,6 @@ Liudo Glemžos straipsnis „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje is
 
 <a id="claim-t-200751"></a>
 - t-001
-  global_id: t-200751
   teiginys: "Liudo Glemžos straipsnis „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje istorijos“ 2011 m. paskelbtas leidinio „Chronicon Palatii Magnorum Ducum Lithuaniae“ pirmajame tome."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -60,13 +59,8 @@ Liudo Glemžos straipsnis „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje is
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 18"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
-  citata_originali: |
-    Glemža Liudas 2011. „Iš vyno Lietuvos Didžiojoje Kunigaikštystėje istorijos“, Chronicon Palatii Mag­
-    norum Ducum Lithuaniae, vol. 1, p. 178–189.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200751
+    - t-001

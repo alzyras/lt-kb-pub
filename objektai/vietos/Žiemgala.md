@@ -42,8 +42,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 ## Teiginiai
 
 <a id="claim-t-99904"></a>
-- t-001
-  global_id: t-99904
+- t-005
   teiginys: "1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,8 +61,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     - c-93857
 
 <a id="claim-t-99905"></a>
-- t-002
-  global_id: t-99905
+- t-004
   teiginys: "Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     - c-93856
 
 <a id="claim-t-99906"></a>
-- t-003
-  global_id: t-99906
+- t-001
   teiginys: "1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -98,8 +95,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     - c-32613
 
 <a id="claim-t-99907"></a>
-- t-004
-  global_id: t-99907
+- t-003
   teiginys: "Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -115,8 +111,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     - c-93856
 
 <a id="claim-t-99908"></a>
-- t-005
-  global_id: t-99908
+- t-002
   teiginys: "1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +130,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 
 <a id="claim-t-183117"></a>
 - t-006
-  global_id: t-183117
   teiginys: "Žiemgalos dalis buvo patekusi į Ordino priešininko valdžią."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -200,21 +194,16 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
     jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
-  citata_rodoma: |
-    Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
-    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
-    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
+  citata_rodoma: "Betarpiškame ryšyje su Georgenburgo įkūrimu\nreikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies\nDobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.\nMindaugo pergamentai kryžiuočiams teteikė formalią teisę į\njiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek\ntegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99906
-    - t-99908
+    - t-001
+    - t-002
+
 - id: c-93856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -246,8 +235,9 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99905
-    - t-99907
+    - t-004
+    - t-003
+
 - id: c-93857
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -261,19 +251,15 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     statėsi svarbias pilis. Betarpiškame ryšyje su Georgenburgo įkūrimu
     reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
     Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
-  citata_rodoma: |
-    ) kryžiuočiai Žemaičiuose ir jų
-    pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink
-    statėsi svarbias pilis. Betarpiškame ryšyje su Georgenburgo įkūrimu
-    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
-    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
+  citata_rodoma: ") kryžiuočiai Žemaičiuose ir jų\npasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink\nstatėsi svarbias pilis. Betarpiškame ryšyje su Georgenburgo įkūrimu\nreikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies\nDobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-99904
+    - t-005
+
 - id: c-166502
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -292,4 +278,4 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183117
+    - t-006

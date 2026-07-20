@@ -40,7 +40,6 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
 
 <a id="claim-t-191846"></a>
 - t-001
-  global_id: t-191846
   teiginys: "Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa“ buvo perskaityta 1806 m. gruodžio 12 d. ir išspausdinta 1808 m. Varšuvoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -93,4 +92,4 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191846
+    - t-001

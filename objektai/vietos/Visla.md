@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-36682"></a>
 - t-001
-  global_id: t-36682
   teiginys: "1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-184323"></a>
 - t-002
-  global_id: t-184323
   teiginys: "Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -79,7 +77,6 @@ media_all_json: |-
 
 <a id="claim-t-187680"></a>
 - t-003
-  global_id: t-187680
   teiginys: "Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -129,16 +126,15 @@ media_all_json: |-
     sileisti.
     Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
     Melno ežero (netoli Vislos)^1 ).
-  citata_rodoma: |
-    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
-    Melno ežero (netoli Vislos)^1 ).
+  citata_rodoma: "Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie\nMelno ežero (netoli Vislos)^1 )."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36682
+    - t-001
+
 - id: c-167694
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -156,7 +152,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184323
+    - t-002
+
 - id: c-170621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -180,4 +177,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187680
+    - t-003

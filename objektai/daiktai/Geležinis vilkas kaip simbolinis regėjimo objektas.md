@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-87078"></a>
 - t-001
-  global_id: t-87078
   teiginys: "Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,20 +95,11 @@ Nenurodyta
     apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
     tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
     bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis.
-  citata_rodoma: |
-    t. Gedimi­
-    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
-    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
-    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
-    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
-    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
-    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
-    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
-    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis.
+  citata_rodoma: "t. Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87078
+    - t-001

@@ -32,7 +32,6 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
 
 <a id="claim-t-39723"></a>
 - t-001
-  global_id: t-39723
   teiginys: "Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39723
+    - t-001

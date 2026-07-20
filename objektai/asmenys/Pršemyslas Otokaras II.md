@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-39630"></a>
 - t-001
-  global_id: t-39630
   teiginys: "Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-39630
+    - t-001
+
 ## Ryšiai
 - Pršemyslas Otokaras II buvo valdovas [[objektai/vietos/Čekija]]
 - Pršemyslas Otokaras II rėmė [[objektai/grupes/Kryžiuočių ordinas]]

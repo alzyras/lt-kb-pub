@@ -30,7 +30,6 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
 
 <a id="claim-t-186336"></a>
 - t-001
-  global_id: t-186336
   teiginys: "Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -49,12 +48,10 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
   pagrindžia:
     - c-169697
 
-## Citatos
-
-- id: c-169697
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl ir buvo pasiųsti į Piotrkovą Vil­
     niaus vyskupas Vaitiekus Taboras, maršalas Jonas Za-
@@ -81,7 +78,19 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
     jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
     jeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi
     it vienas ir paskelbė Aleksandrą karaliumi.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169697
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Štai todėl ir buvo pasiųsti į Piotrkovą Vil­
     niaus vyskupas Vaitiekus Taboras, maršalas Jonas Za-
     berezinskis
@@ -109,10 +118,11 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
     jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
     jeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi
     it vienas ir paskelbė Aleksandrą karaliumi.
+  citata_rodoma: "Štai todėl ir buvo pasiųsti į Piotrkovą Vil­\nniaus vyskupas Vaitiekus Taboras, maršalas Jonas Za-\nberezinskis\nbei\nLietuvos\npataurininkis\nMikalojus\nsavo trijų brolių: ar Vladis-\n5 69\n\n## Puslapis 568\n\nRadvila, kurie atvyko į seimą čia balsuoti Lietuvos luo­\nmų vardu, kaip numatyta seniau sudaryto susitarimo\nstraipsniuose, ir ta proga tarpais privačiais pašneke­\nsiais, tarpais viešomis kalbomis taip ilgai lenkams\nausis zulino, kol palenkė jų širdis į Aleksandrą. Labai\njiems padėjo ir tai, kad Aleksandras pasirūpino Vil­\nniuje užbaigti prieš trejus metus Piotrkove lenkams\npažadėtą lietuvių bei lenkų santarvės aktą, kuris, pa­\ntvirtintas Lietuvos Didžiosios Kunigaikštystės antspau­\ndu bei dvidešimt penkių žymiausių didikų antspaudais\nir parašais, ir buvo dabar atgabentas į bendrą su len­\nkais seimą, paaiškinus, jog bus jiems viešai įteiktas,\njeigu paskelbs Aleksandrą karaliumi, o sunaikintas,\njeigu jį aplenks. Šios aplinkybės paskatinti lenkai visi\nit vienas ir paskelbė Aleksandrą karaliumi."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186336
+    - t-001

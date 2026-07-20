@@ -31,7 +31,6 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
 
 <a id="claim-t-63011"></a>
 - t-001
-  global_id: t-63011
   teiginys: "Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -47,34 +46,7 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-63921
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Diewenns
-    Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
-    Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
-    Dyrų sodyba
-    Dnepras, u.
-       padneprė
-    Dobinas
-    Dobre Miasto žr. Gutštatas
-    Dobrynė, ž. kunigaikštystė
-         pilis, miestas
-    Dobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas
-    Domijono šv. ordinas
-    Dona
-    Dorpatas
-    Dortmundas
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-63011
+
 ## Citatos
 
 - id: c-63921
@@ -82,32 +54,6 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    vakariniai lietuviai
-    Liežas (Leodium, Lüttich, Liège)
-    Lindanisė žr. Revelis
-    Lioliai
-    Lionas
-    Lisske
-    Liškiava
-    Liubekas
-    Liuksemburgas
-    Liuneburgas (Vokietijoje)
-    Liutichas žr. Liežas
-    Liva, u.
-    Livonija
-    Livonijos ordinas
-    Ližiai
-    Lypa (Lipa, Lîpe; dab. Lipenekas)
-    Lyviai
-    Lochštetė žr. Laukstetai
-    Lotynai
-
-    Loza
-    Lubava (Lubovia, Lubaw), ž.
-    Lubava (Lubovia; Löbau, dab. Lubawa, Liubava), p., miestas
-    Luka
-    Lukas (Lick, vėliau Lyck, dab.
-  citata_rodoma: |
     Diewenns
     Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
     Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
@@ -123,10 +69,11 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
     Dona
     Dorpatas
     Dortmundas
+  citata_rodoma: "Diewenns\nDirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)\nDiunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)\nDyrų sodyba\nDnepras, u.\n   padneprė\nDobinas\nDobre Miasto žr. Gutštatas\nDobrynė, ž. kunigaikštystė\n     pilis, miestas\nDobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas\nDomijono šv. ordinas\nDona\nDorpatas\nDortmundas"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-63011
+    - t-001

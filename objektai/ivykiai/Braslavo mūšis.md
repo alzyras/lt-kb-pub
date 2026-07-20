@@ -40,7 +40,6 @@ Nenurodyta
 
 <a id="claim-t-201315"></a>
 - t-001
-  global_id: t-201315
   teiginys: "Paskui, antpuolę staiga beteriojančius gudus, susirėmė lygmėse Braslavo; noris ilgai ir didžiai kruvinai pergale varžės, vienok žemaičių vyresnieji taip bukliai savo kareivius parėdė, jog akimojy gudus nuo visų pusių apsiautė ir viena va landa 9000 karvietėj."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -54,8 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184665
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pajutę tą pavojų, Lietuvos
     tėvūnai Kernavėj skubinai sukėlė karėjus Lietuvoj
@@ -76,4 +76,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201315
+    - t-001

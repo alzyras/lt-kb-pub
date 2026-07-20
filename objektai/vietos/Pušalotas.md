@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-42074"></a>
 - t-001
-  global_id: t-42074
   teiginys: "Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42074
+    - t-001

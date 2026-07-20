@@ -31,7 +31,6 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
 
 <a id="claim-t-189015"></a>
 - t-001
-  global_id: t-189015
   teiginys: "Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189015
+    - t-001

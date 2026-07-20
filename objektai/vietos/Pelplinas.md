@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86029"></a>
-- t-001
-  global_id: t-86029
+- t-002
   teiginys: "1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-82008
 
 <a id="claim-t-86030"></a>
-- t-002
-  global_id: t-86030
+- t-001
   teiginys: "1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -117,26 +115,15 @@ media_all_json: |-
     ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
     tautų bendruomenės]. (Slaptasis archyvas, Spinta
     XI, Nr. 19 ir 20).
-  citata_rodoma: |
-    2) Kurį laiką buvo manoma, kad Gediminas
-    iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-
-    plino 1323 metais praneša popiežiui: Ex nuper actis patefeci­
-    mus per presentes, eundem prefatum regem quasdam per piures
-    mundi partes litteras direxisse, in quibus se cum suis et toto Reg­
-    no asseruit baptizari et conjungi velle turbe fidelium populorum
-    [Iš neseniai gautų dabartinių dokumentų įsitikinome, kad
-    tas pats minėtas karalius po daugelį pasaulio šalių išsiunti­
-    nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
-    ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
-    tautų bendruomenės]. (Slaptasis archyvas, Spinta
-    XI, Nr.
+  citata_rodoma: "2) Kurį laiką buvo manoma, kad Gediminas \niš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel- \nplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­\nmus per presentes, eundem prefatum regem quasdam per piures \nmundi partes litteras direxisse, in quibus se cum suis et toto Reg­\nno asseruit baptizari et conjungi velle turbe fidelium populorum \n[Iš neseniai gautų dabartinių dokumentų įsitikinome, kad \ntas pats minėtas karalius po daugelį pasaulio šalių išsiunti­\nnėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais \nir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių \ntautų bendruomenės]. (Slaptasis archyvas, Spinta \nXI, Nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86029
+    - t-002
+
 - id: c-82009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,17 +139,11 @@ media_all_json: |-
     liepė parengti, yra Slapt. Archyve.
     Olivos ir Pelplino abatų laiškas pa­
     žymėtas vėlesne data.
-  citata_rodoma: |
-    1), kurį magistras Fridrichas fon
-    Vildenbergas Meve 1324 m., daly­
-    vaujant Pelplino abatui Jordanui,
-    liepė parengti, yra Slapt. Archyve.
-    Olivos ir Pelplino abatų laiškas pa­
-    žymėtas vėlesne data.
+  citata_rodoma: "1), kurį magistras Fridrichas fon \nVildenbergas Meve 1324 m., daly­\nvaujant Pelplino abatui Jordanui, \nliepė parengti, yra Slapt. Archyve. \nOlivos ir Pelplino abatų laiškas pa­\nžymėtas vėlesne data."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86030
+    - t-001

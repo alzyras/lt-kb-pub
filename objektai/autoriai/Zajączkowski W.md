@@ -30,7 +30,6 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
 
 <a id="claim-t-60826"></a>
 - t-001
-  global_id: t-60826
   teiginys: "W. Zajączkowskio bendraautorystės darbas cituojamas duomenims apie jotvingių piliakalnį prie Didžiojo Selmento ežero."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60826
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-31990"></a>
 - t-001
-  global_id: t-31990
   teiginys: "J. Kochanowskio veikalas „Witold, w. książę litewski“ išleistas 1900 m. Lvove."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ media_all_json: |-
     został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p. — Lohmeyeb,
     K. : Witowt, Grossfürst von Litauen, MLLG, II, 4, 1887, 203-230 p.-—
     Łowmiański, H. : Witold, wielki książę litewski, Vilnius 1930.
-  citata_rodoma: |
-    — Kochanowski, J. :
-    Witold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold
-    został wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p.
+  citata_rodoma: "— Kochanowski, J. :\nWitold, w. książę litewski, Lwów 1900.—Lewicki, A.: Kiedy Witold\nzostał wielkiem księciem Litwy, KH, t. 8, 1894, 424-436 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31990
+    - t-001

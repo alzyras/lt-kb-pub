@@ -7,10 +7,10 @@ datos:
   - '1540 m.'
 date_start: '1540'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Amatai ir pramonės pradmenys Kauno miesto savivaldos raida ir raiška .
 
 <a id="claim-t-202309"></a>
 - t-001
-  global_id: t-202309
   teiginys: "Amatai ir pramonės pradmenys Kauno miesto savivaldos raida ir raiška ."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Amatai ir pramonės pradmenys Kauno miesto savivaldos raida ir raiška .
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202309
+    - t-001

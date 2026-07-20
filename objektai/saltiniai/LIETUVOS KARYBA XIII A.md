@@ -30,7 +30,6 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
 
 <a id="claim-t-41550"></a>
 - t-001
-  global_id: t-41550
   teiginys: "Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,15 +56,11 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
     NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
     p. 23, „LIETUVOS KARYBA XIII A.“, Karolis Zikaras.
     p. 60, „RITERIAI IR PĖSTININKAI VAKARŲ EUROPOJE“, Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: |
-    Informacinių blokų apie karybą sąrašas
-
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-    p. 23, „LIETUVOS KARYBA XIII A.“, Karolis Zikaras.
+  citata_rodoma: "Informacinių blokų apie karybą sąrašas\n\nNUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS\np. 23, „LIETUVOS KARYBA XIII A.“, Karolis Zikaras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41550
+    - t-001

@@ -36,7 +36,6 @@ Dusburgietis teigia, kad tarvydas S.
 
 <a id="claim-t-61309"></a>
 - t-001
-  global_id: t-61309
   teiginys: "S. Tarvydo straipsnis apie vakarinių lietuvių genčių teritorijos landšaftus paskelbtas „Geografiniame metraštyje“ 1967 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Dusburgietis teigia, kad tarvydas S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61309
+    - t-001

@@ -39,7 +39,6 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 
 <a id="claim-t-96049"></a>
 - t-001
-  global_id: t-96049
   teiginys: "1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96049
+    - t-001

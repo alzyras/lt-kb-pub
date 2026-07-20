@@ -36,7 +36,6 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 
 <a id="claim-t-88470"></a>
 - t-001
-  global_id: t-88470
   teiginys: "„Rachunki Justa Ludwika Decyusza“ išsamiai nušvietė naujų dirbtuvių padėtį Vilniuje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88470
+    - t-001

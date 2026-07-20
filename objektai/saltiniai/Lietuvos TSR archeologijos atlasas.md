@@ -38,7 +38,6 @@ Dusburgietis teigia, kad lietuvos TSR archeologijos atlasas.— T.
 
 <a id="claim-t-61142"></a>
 - t-001
-  global_id: t-61142
   teiginys: "Antrasis „Lietuvos TSR archeologijos atlaso“ tomas apie piliakalnius išleistas Vilniuje 1975 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Dusburgietis teigia, kad lietuvos TSR archeologijos atlasas.— T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61142
+    - t-001

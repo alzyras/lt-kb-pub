@@ -36,8 +36,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 ## Teiginiai
 
 <a id="claim-t-19738"></a>
-- t-001
-  global_id: t-19738
+- t-002
   teiginys: "Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,9 +54,9 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   pagrindžia:
     - c-22445
     - c-166526
+
 <a id="claim-t-19739"></a>
-- t-002
-  global_id: t-19739
+- t-001
   teiginys: "Iždo ir karo komisijų pirmininkai įėjo į Teisių sargybą – vyriausybę, turėjusią padėti valdovui tvarkyti valstybės reikalus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 
 <a id="claim-t-183140"></a>
 - t-003
-  global_id: t-183140
   teiginys: "Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -107,15 +105,15 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
-  citata_rodoma: |
-    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+  citata_rodoma: "dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19739
+    - t-001
+
 - id: c-22445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,15 +127,15 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
     se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
     turėjo būti paeiliui lenkai ir lietuviai.
-  citata_rodoma: |
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+  citata_rodoma: "se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19738
+    - t-002
+
 - id: c-166525
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,7 +154,8 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183140
+    - t-003
+
 - id: c-166526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -174,3 +173,5 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -32,7 +32,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-190453"></a>
 - t-001
-  global_id: t-190453
   teiginys: "Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-190792"></a>
 - t-002
-  global_id: t-190792
   teiginys: "Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 
 <a id="claim-t-197643"></a>
 - t-003
-  global_id: t-197643
   teiginys: "Odoakras, tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo 1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti, kelti triukšmą (Stender."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -123,12 +120,10 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
 - susijęs iš Mykolo Lietuvio fragmentai Elzeviro leidinyje: Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
 - susijęs iš Toloma: Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme.
-## Citatos
-
-- id: c-173336
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Vaidila (Wejdalotašn)
     Žemesnės kategorijos aukų atnašautojas, žynys, atnašau­
@@ -143,7 +138,19 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
     jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
     jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
     minti jį apreiškus dievų valią.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-173336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
     Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
     juosta, kuria apsivyniodavo septynis kartus.
@@ -154,13 +161,15 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
     krivičių, o to pavadinimo etimologija slavų kalboje gali būti
     kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
     kaip ir lietuviai.
+  citata_rodoma: "Žyniai vilkėdavo įpras­\ntu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės\njuosta, kuria apsivyniodavo septynis kartus.\nVeltui Stenderis savo latvių mitologijoje stengiasi išve­\ndžioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­\nvonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­\nba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba\nkrivičių, o to pavadinimo etimologija slavų kalboje gali būti\nkitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo\nkaip ir lietuviai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190453
+    - t-001
+
 - id: c-173674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,5 +188,5 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190792
-    - t-197643
+    - t-002
+    - t-003

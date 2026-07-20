@@ -37,7 +37,6 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
 
 <a id="claim-t-20973"></a>
 - t-001
-  global_id: t-20973
   teiginys: "LKP pertvarkos taktika „žingsnis po žingsnio“ neturėjo valstybės atkūrimo programos ir neparengė tęstinumą įtvirtinančių dokumentų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -73,12 +72,11 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
     kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
     tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
     programos.
-  citata_rodoma: |
-    tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
+  citata_rodoma: "tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20973
+    - t-001

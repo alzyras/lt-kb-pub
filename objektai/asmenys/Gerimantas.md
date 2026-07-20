@@ -60,8 +60,7 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 ## Teiginiai
 
 <a id="claim-t-187907"></a>
-- t-001
-  global_id: t-187907
+- t-002
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "gap::people"
@@ -83,8 +82,7 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     - c-170889
 
 <a id="claim-t-188535"></a>
-- t-002
-  global_id: t-188535
+- t-003
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -127,21 +125,15 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
     kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
     eitis.
-  citata_rodoma: |
-    Senas pasakojimas,
-    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
-    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
-    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
-    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
-    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
-    eitis.
+  citata_rodoma: "Senas pasakojimas,\nkuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša\nžinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią\nšventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263\nmetais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­\nkulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­\neitis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187907
+    - t-002
+
 - id: c-171424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -169,6 +161,7 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188535
+    - t-003
+
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Šventaragis]]

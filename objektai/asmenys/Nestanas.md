@@ -39,7 +39,6 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 
 <a id="claim-t-186242"></a>
 - t-001
-  global_id: t-186242
   teiginys: "Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -99,6 +98,7 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186242
+    - t-001
+
 ## Ryšiai
 - Nestanas valdė [[objektai/vietos/Podolė]]

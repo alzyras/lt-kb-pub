@@ -40,8 +40,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 ## Teiginiai
 
 <a id="claim-t-80128"></a>
-- t-001
-  global_id: t-80128
+- t-003
   teiginys: "Skalvių žemė buvo abiejose Nemuno pusėse."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76998
 
 <a id="claim-t-80129"></a>
-- t-002
-  global_id: t-80129
+- t-004
   teiginys: "1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76999
 
 <a id="claim-t-80130"></a>
-- t-003
-  global_id: t-80130
+- t-001
   teiginys: "1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-76997
 
 <a id="claim-t-80131"></a>
-- t-004
-  global_id: t-80131
+- t-002
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -148,7 +144,8 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80130
+    - t-001
+
 - id: c-76998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -159,20 +156,15 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose
     Nemuno pusėse, ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
-  citata_rodoma: |
-    Apie Ragainės pilies užkariavimą
-
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+  citata_rodoma: "Apie Ragainės pilies užkariavimą\n\n   Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80128
+    - t-003
+
 - id: c-76999
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -188,23 +180,15 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     riuomenė, su talkininkais iš Vokietijos
     atplaukusi laivais, puolė Veliuonos pilį,
     padarė jai daug žalos.
-  citata_rodoma: |
-    1360 m.
-    kryžiuočiai toliau tvirtinosi pačiame Ne-
-    muno žemupyje, statė naują pilį Skalvos
-    žemėje (netoli Tilžės), o kitą prie Nemuno
-    žiočių — Ventės rage (Vindenburgą). Tais
-    metais maršalo vadovaujama Ordino ka-
-    riuomenė, su talkininkais iš Vokietijos
-    atplaukusi laivais, puolė Veliuonos pilį,
-    padarė jai daug žalos.
+  citata_rodoma: "1360 m.\nkryžiuočiai toliau tvirtinosi pačiame Ne-\nmuno žemupyje, statė naują pilį Skalvos\nžemėje (netoli Tilžės), o kitą prie Nemuno\nžiočių — Ventės rage (Vindenburgą). Tais\nmetais maršalo vadovaujama Ordino ka-\nriuomenė, su talkininkais iš Vokietijos\natplaukusi laivais, puolė Veliuonos pilį,\npadarė jai daug žalos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80129
+    - t-004
+
 - id: c-77000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -216,25 +200,14 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
     pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
     464  D. čia pats sau prieštarauja.
-  citata_rodoma: |
-    Apie įvykius prieš šį karą
-
-       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
-    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
-    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
-    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
-
-
-
-
-
-      464  D.
+  citata_rodoma: "Apie įvykius prieš šį karą\n\n   Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,\nįsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne\nkurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima\npasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.\n\n\n\n\n\n  464  D."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80131
+    - t-002
+
 ## Ryšiai
 - Puolė Skalvos žemę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

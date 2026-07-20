@@ -31,9 +31,8 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
 
 <a id="claim-t-189229"></a>
 - t-001
-  global_id: t-189229
   teiginys: "Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kuršių garbintą laiko ar laiko tarpsnių deivę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,27 +48,7 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172117
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kuršių garbintą laiko ar laiko tarpsnių deivę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kruonis (Kronis)
-    Laiko deivė, valdanti metų laikus. Kitaip vadinosi Meta
-    (Mehta). Rašytiniuose paminkluose niekur negalėjau rasti duo­
-    menų apie šią dievybę, tik J. F. R. kronikoje, kur pasakyta: „Se­
-    novės lietuviai ir jų giminaičiai kuršiai garbino Kruonį (Kro­
-    nis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­
-    vę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
-    laiko tarpas.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189229
+
 ## Citatos
 
 - id: c-172117
@@ -77,20 +56,6 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
-    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
-    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
-    Viename senoviškame sienų nustatymo dokumente, ku­
-    rio data nežinoma, bet kuris tikrai iš didžiojo kunigaikščio Vy­
-    tauto laikų, yra paminėta, kad riboženklių neliečiamybė kaip
-    buvo saugoma Užsparos (Uspary) prakeikimo, taip ir dabar
-    tebūnie Kristaus patepta šventenybe. Šį dokumentą, rašytą ru­
-    siškai, turiu rankoje.
-    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
-    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
-    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
-    kirtimo vietoje.
-  citata_rodoma: |
     Kruonis (Kronis)
     Laiko deivė, valdanti metų laikus. Kitaip vadinosi Meta
     (Mehta). Rašytiniuose paminkluose niekur negalėjau rasti duo­
@@ -99,10 +64,11 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
     nis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­
     vę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
     laiko tarpas.
+  citata_rodoma: "Kruonis (Kronis)\nLaiko deivė, valdanti metų laikus. Kitaip vadinosi Meta\n(Mehta). Rašytiniuose paminkluose niekur negalėjau rasti duo­\nmenų apie šią dievybę, tik J. F. R. kronikoje, kur pasakyta: „Se­\nnovės lietuviai ir jų giminaičiai kuršiai garbino Kruonį (Kro­\nnis), arba Metą (Mehta), neva laiko arba laiko tarpsnių dei­\nvę“. Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas\nlaiko tarpas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189229
+    - t-001

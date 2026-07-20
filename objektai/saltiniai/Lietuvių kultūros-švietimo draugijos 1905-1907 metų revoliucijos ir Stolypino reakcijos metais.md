@@ -43,7 +43,6 @@ media_all_json: |-
 
 <a id="claim-t-31797"></a>
 - t-001
-  global_id: t-31797
   teiginys: "„Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais“ paskelbta BBK 2 tome 1962 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ media_all_json: |-
     (^125) **AkMD, t. 2, 1957, 3-16 p. ; t. 3, 1957, 37-52 p. ; t. 4, 1958, 149-170 p. ;
     t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
     1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
-  citata_rodoma: |
-    ) ;**
-    **_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino
-    reakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**
-    (^125) **AkMD, t.
+  citata_rodoma: ") ;**\n**_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino\nreakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**\n(^125) **AkMD, t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31797
+    - t-001

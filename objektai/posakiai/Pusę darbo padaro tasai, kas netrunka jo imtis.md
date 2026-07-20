@@ -31,7 +31,6 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 
 <a id="claim-t-59158"></a>
 - t-001
-  global_id: t-59158
   teiginys: "Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   semantiniai_rysiai: "Prūsija priklausė Teutonai (0.72)"
   pagrindžia:
     - c-59790
-    - c-001
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.'
@@ -71,8 +70,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-59158
+
 ## Citatos
 
 - id: c-59790
@@ -80,21 +78,6 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Pusę darbo padaro tasai, kas netrunka jo imtis —
-
-    sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,
-    179  Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
-    kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą. Praleistame tekste nėra
-    jokios mokslinės informacijos.
-
-    vardu Fogelzangas180,— lotyniškai šitai reiškia Paukščių giesmė [Cantus avium], kurioje
-    broliai su keliais ginklanešiais, priešindamiesi gausybei pagonių, giedodavo liūdesio ir
-    sielvarto giesmę. Mat jie, palikę mieląją gimtinę, atsidūrė visai svetimame krašte, kur,
-    kaip ilgainiui paaiškėjo, turėjo metų metais vargą vargti be menkiausios vilties, kad
-    ketvirta ar šešta karta galėsianti grįžti į savo tėvų žemę. Jie atkeliavo iš derlingo, taikaus
-    ir ramaus krašto, o atsidūrė siaubingoje žemėje, negyvenamose dykrose, kur nuolatos
-    siautėjo karas.
-  citata_rodoma: |
     Jie ir paprašė minėtąjį kunigaikštį pastatydinti
     jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
     prisimindamas šiuos poeto žodžius:
@@ -105,10 +88,11 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 
       179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
     kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
+  citata_rodoma: "Jie ir paprašė minėtąjį kunigaikštį pastatydinti\njiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,\nprisimindamas šiuos poeto žodžius:\n\n               Pusę darbo padaro tasai, kas netrunka jo imtis —\n\n  sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,\n\n  179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,\nkas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59158
+    - t-001

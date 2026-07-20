@@ -30,9 +30,8 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
 
 <a id="claim-t-194854"></a>
 - t-001
-  global_id: t-194854
   teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,25 +40,7 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177250
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Romėnai darydavo pakirptuves
-    įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
-    ves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-
-    ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
-    islandų sagose esančių padavimų, skandinavai taip pat žinojo
-    pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194854
+
 ## Citatos
 
 - id: c-177250
@@ -73,17 +54,11 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
     ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
     islandų sagose esančių padavimų, skandinavai taip pat žinojo
     pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
-  citata_rodoma: |
-    Romėnai darydavo pakirptuves
-    įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
-    ves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-
-    ratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak
-    islandų sagose esančių padavimų, skandinavai taip pat žinojo
-    pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
+  citata_rodoma: "Romėnai darydavo pakirptuves\nįvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­\nves nukirpdavo kasas ir paaukodavo Junonai; tai vadinosi He-\nratelea, tai maždaug atitinka ką tik aprašytas apeigas. Pasak\nislandų sagose esančių padavimų, skandinavai taip pat žinojo\npakirptuves. Senovės lenkai ypač laikėsi šio papročio."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194854
+    - t-001

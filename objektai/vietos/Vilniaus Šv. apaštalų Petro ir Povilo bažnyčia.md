@@ -31,7 +31,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 
 <a id="claim-t-71981"></a>
 - t-001
-  global_id: t-71981
   teiginys: "Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 
 <a id="claim-t-71982"></a>
 - t-002
-  global_id: t-71982
   teiginys: "Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,18 +77,15 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: |
-    Tai reikštų, kad
-    Vienas didingiausių ir puošniausių LDK baroko
-    interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
-    interjeras (XVII a. antra p.).
+  citata_rodoma: "Tai reikštų, kad \nVienas didingiausių ir puošniausių LDK baroko  \ninterjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios \ninterjeras (XVII a. antra p.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71981
+    - t-001
+
 - id: c-24590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -99,14 +94,11 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
     Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
     ansamblis prie Kauno.
-  citata_rodoma: |
-    Kazimie-
-    ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
-    ansamblis prie Kauno.
+  citata_rodoma: "Kazimie-\nro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno \nansamblis prie Kauno."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71982
+    - t-002

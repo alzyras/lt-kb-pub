@@ -30,7 +30,6 @@ Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.
 
 <a id="claim-t-61255"></a>
 - t-001
-  global_id: t-61255
   teiginys: "J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61255
+    - t-001

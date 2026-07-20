@@ -30,7 +30,6 @@ Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, 
 
 <a id="claim-t-185282"></a>
 - t-001
-  global_id: t-185282
   teiginys: "Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185282
+    - t-001

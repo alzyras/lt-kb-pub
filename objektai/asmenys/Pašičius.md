@@ -35,7 +35,6 @@ Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti 
 
 <a id="claim-t-190236"></a>
 - t-001
-  global_id: t-190236
   teiginys: "Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -78,4 +77,4 @@ Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190236
+    - t-001

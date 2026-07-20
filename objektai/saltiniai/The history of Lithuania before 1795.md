@@ -38,7 +38,6 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 
 <a id="claim-t-78157"></a>
 - t-001
-  global_id: t-78157
   teiginys: "2000 m. Vilniuje išleista knyga „The history of Lithuania before 1795“, kurią vertė Irena Zujienė ir kiti vertėjai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78157
+    - t-001

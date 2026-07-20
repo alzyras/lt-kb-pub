@@ -30,8 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-70324"></a>
-- t-001
-  global_id: t-70324
+- t-002
   teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -40,8 +39,7 @@ media_all_json: |-
     - c-69367
 
 <a id="claim-t-70325"></a>
-- t-002
-  global_id: t-70325
+- t-001
   teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,17 +61,15 @@ media_all_json: |-
 
     niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
     ryti kokį nors verslą (biznį).
-  citata_rodoma: |
-    Tai vietinės smulkios draugijos, kurios daž-
-    niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
-    ryti kokį nors verslą (biznį).
+  citata_rodoma: "Tai vietinės smulkios draugijos, kurios daž-\nniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-\nryti kokį nors verslą (biznį)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70324
+    - t-002
+
 - id: c-69368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -85,14 +81,11 @@ media_all_json: |-
     būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: |
-    Čia, be to, dar prieškariniais laikais buvo
-    smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
-    skaičius į Argentiną atvyko dar XIX amž. gale.
+  citata_rodoma: "Čia, be to, dar prieškariniais laikais buvo\nsmulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių\nskaičius į Argentiną atvyko dar XIX amž. gale."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70325
+    - t-001

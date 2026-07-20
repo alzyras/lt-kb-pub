@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-40248"></a>
 - t-001
-  global_id: t-40248
   teiginys: "K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,7 +59,6 @@ media_all_json: |-
 
 <a id="claim-t-40249"></a>
 - t-002
-  global_id: t-40249
   teiginys: "I brigados vadas K. Ladyga suskirstė savo pajėgas į tris kolonas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ media_all_json: |-
 
 <a id="claim-t-40250"></a>
 - t-003
-  global_id: t-40250
   teiginys: "I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,7 +119,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40248
+    - t-001
+
 - id: c-42048
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -146,7 +144,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40249
+    - t-002
+
 - id: c-42049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -165,6 +164,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40250
+    - t-003
+
 ## Ryšiai
 - K. Ladyga keliavo į [[objektai/vietos/Utena]]

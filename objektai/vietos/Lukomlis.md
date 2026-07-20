@@ -38,8 +38,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 ## Teiginiai
 
 <a id="claim-t-68568"></a>
-- t-001
-  global_id: t-68568
+- t-002
   teiginys: "Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,8 +55,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     - c-43606
 
 <a id="claim-t-68569"></a>
-- t-002
-  global_id: t-68569
+- t-001
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -100,21 +98,15 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Kijevą. Livonijos magistras grįžo į savo
     žemę ir netrukus mirė nuo parsivežtos
     ligos.
-  citata_rodoma: |
-    Švitrigaila po 11 sa-
-    vaičių traukdamasis grįžo į Lukomlį,
-
-    kur paleido kariuomenę, o pats išvyko į
-    Kijevą. Livonijos magistras grįžo į savo
-    žemę ir netrukus mirė nuo parsivežtos
-    ligos.
+  citata_rodoma: "Švitrigaila po 11 sa-\nvaičių traukdamasis grįžo į Lukomlį,\n\nkur paleido kariuomenę, o pats išvyko į\nKijevą. Livonijos magistras grįžo į savo\nžemę ir netrukus mirė nuo parsivežtos\nligos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68568
+    - t-002
+
 - id: c-68114
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,7 +123,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-68569
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Užėmė Lukomlį: [[objektai/asmenys/Andrius Polockietis]]

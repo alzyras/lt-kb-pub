@@ -36,7 +36,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 
 <a id="claim-t-61216"></a>
 - t-001
-  global_id: t-61216
   teiginys: "Dublino kodekse išlikusioje „Pasaulio aprašymo pradžioje“ teigiama, kad į šiaurę nuo Prūsijos tęsiasi Semba."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61216
+    - t-001

@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54372"></a>
 - t-001
-  global_id: t-54372
   teiginys: "XVI a. pradžioje karalaitis Kazimieras jau buvo garbinamas Vilniaus apylinkėse."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,15 +76,11 @@ Nenurodyta
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
     klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
     apylinkėse, o šv.
-  citata_rodoma: |
-    Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484),
-    Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
-    klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
-    apylinkėse, o šv.
+  citata_rodoma: "Lietuvos krikščionėjimo simboliu tapo šv.  Kazimiero (1458–1484), \nLietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos \nklostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus \napylinkėse, o šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54372
+    - t-001

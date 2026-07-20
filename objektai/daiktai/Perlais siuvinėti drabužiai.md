@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-186843"></a>
 - t-001
-  global_id: t-186843
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -70,7 +69,6 @@ Nenurodyta
 
 <a id="claim-t-193870"></a>
 - t-002
-  global_id: t-193870
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas Smolenske dovanojo Vasilijui Dimitrijevičiui perlais siuvinėtų drabužių, aksomų, brangakmenių ir žirgų."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -82,12 +80,10 @@ Nenurodyta
   pagrindžia:
     - c-176500
 
-## Citatos
-
-- id: c-170026
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
@@ -106,25 +102,14 @@ Nenurodyta
     žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6.
-  citata_rodoma: |
-    O didysis kunigaikštis
-    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
-    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
-    drabužių, brangių aksomų, vertingiausių brangakmenių,
-    žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
-    išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
-    j Lietuvą l6 .
-  statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186843
-- id: c-176500
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  statusas: verified
+- c-002
+  santrauka: 'Lietuvos metraštis pasakoja, kad Vytautas Smolenske dovanojo Vasilijui Dimitrijevičiui perlais siuvinėtų drabužių, aksomų, brangakmenių ir žirgų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tą pačią žiemą, pavasariop H, į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
@@ -146,7 +131,40 @@ Nenurodyta
     jo pusėje buvo chanas Tochtamyšas su savo kariuome­
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-170026
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O didysis kunigaikštis
+    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
+    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
+    drabužių, brangių aksomų, vertingiausių brangakmenių,
+    žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
+    išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
+    j Lietuvą l6 .
+  citata_rodoma: "O didysis kunigaikštis \nVytautas taip pat pagerbė savo žentą, didįjį kunigaikš­\ntį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų \ndrabužių, brangių aksomų, vertingiausių brangakmenių, \nžirgų su aukso balnais ir daug kitų nuostabių daiktų ir, \nišlydėjęs jį su didele pagarba į Maskvą, pats išvyko \nj Lietuvą l6 ."
+  statusas: verified
+  atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-176500
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
     vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
@@ -166,10 +184,11 @@ Nenurodyta
     jo pusėje buvo chanas Tochtamyšas su savo kariuome­
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
+  citata_rodoma: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo \ntėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­\nvos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­\ngerbė didįjį kunigaikštį brangiomis dovanomis; auksi­\nnėmis grandinėmis ir diržais, sabalais, brangakmeniais, \nauksiniais indais ir bachmatais ls. O didysis kunigaikštis \nVytautas taip pat pagerbė savo žentą, didįjį kunigaikš­\ntį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų \ndrabužių, brangių aksomų, vertingiausių brangakmenių, \nžirgų su aukso balnais ir daug kitų nuostabių daiktų ir, \nišlydėjęs jį su didele pagarba į Maskvą, pats išvyko \nj Lietuvą l6 .\nŠeši tūkstančiai devyni šimtai šeštaisiais1 7  metais \nįvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto \nir chano Temir-Kutlujaus Didysis kunigaikštis Vy­\ntautas sutelkė nesuskaičiuojamą daugybę kariuomenės, \njo pusėje buvo chanas Tochtamyšas su savo kariuome­\nne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai, \nmoldavai ir penkiasdešimt rusų kunigaikščių."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193870
+    - t-002

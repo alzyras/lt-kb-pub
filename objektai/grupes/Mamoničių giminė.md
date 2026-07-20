@@ -37,8 +37,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 ## Teiginiai
 
 <a id="claim-t-86745"></a>
-- t-001
-  global_id: t-86745
+- t-002
   teiginys: "1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     - c-82724
 
 <a id="claim-t-86746"></a>
-- t-002
-  global_id: t-86746
+- t-003
   teiginys: "Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,26 +79,21 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    Mamoničių namai sto­
+    1822. Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-
     dzinskio namai, Nr. 203, o šalia,
     kampiniame name, seniau buvo
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
-  citata_rodoma: |
-    Mamoničių namai sto­
-    vėjo, rodos, toje vietoje, kur dabar Sle-
-    dzinskio namai, Nr. 203, o šalia,
-    kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
-    tuvė, matyt, atiteko bazilijonams.
+  citata_rodoma: "Mamoničių namai sto­\nvėjo, rodos, toje vietoje, kur dabar Sle- \ndzinskio namai, Nr. 203, o šalia, \nkampiniame name, seniau buvo \ncerkvelė. Vėliau Mamoničių spaus­\ntuvė, matyt, atiteko bazilijonams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86746
+    - t-003
+
 - id: c-82724
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,4 +127,4 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86745
+    - t-002

@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-86162"></a>
 - t-001
-  global_id: t-86162
   teiginys: "Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ media_all_json: |-
 
 <a id="claim-t-86163"></a>
 - t-002
-  global_id: t-86163
   teiginys: "Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,7 +94,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86163
+    - t-002
+
 - id: c-82142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -111,19 +110,11 @@ media_all_json: |-
     paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
     įrengęs Vyskupų koplyčią. Mirė 1481 m.
     9.
-  citata_rodoma: |
-    1 9 1
-
-    ## Puslapis 208
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko,
-    paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje
-    įrengęs Vyskupų koplyčią. Mirė 1481 m.
+  citata_rodoma: "1 9 1\n\n## Puslapis 208\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\n8. Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, \npaskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje \nįrengęs Vyskupų koplyčią. Mirė 1481 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86162
+    - t-001

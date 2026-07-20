@@ -38,7 +38,6 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 
 <a id="claim-t-80619"></a>
 - t-001
-  global_id: t-80619
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,19 +77,11 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     apie artėjančius lietuvius, jis buvo privers-
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
-  citata_rodoma: |
-    K. Radvilos pajėgos nu-
-    siaubė Rževo apylinkes, tuomet perėję
-    Volgos upę, sudegino Urdomo miestą ir
-    pasuko Staricos link, kurioje tuo metu rezi-
-    davo Rusijos valdovas Ivanas rv. Sužinojęs
-    apie artėjančius lietuvius, jis buvo privers-
-    tas skubiai evakuoti savo šeimą ir dvarą
-    su iždu.
+  citata_rodoma: "K. Radvilos pajėgos nu-\nsiaubė Rževo apylinkes, tuomet perėję\nVolgos upę, sudegino Urdomo miestą ir\npasuko Staricos link, kurioje tuo metu rezi-\ndavo Rusijos valdovas Ivanas rv. Sužinojęs\napie artėjančius lietuvius, jis buvo privers-\ntas skubiai evakuoti savo šeimą ir dvarą\nsu iždu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80619
+    - t-001

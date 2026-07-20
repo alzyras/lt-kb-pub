@@ -15,14 +15,14 @@ datos:
   - '2026 m.'
 date_start: '1216'
 date_end: '2026'
-amziai:
-  - 'XIII'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XIII'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,17 +36,24 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Domininkonų ordinas
 
 ## Santrauka
 
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
 
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+
 ## Teiginiai
 
 <a id="claim-t-112507"></a>
-- t-001
-  global_id: t-112507
+- t-008
   teiginys: "Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos."
   atnaujinta: "2026-05-31 12:52"
   sprendimo_priezastis: "auto"
@@ -63,8 +70,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103894
 
 <a id="claim-t-112510"></a>
-- t-002
-  global_id: t-112510
+- t-007
   teiginys: "1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -83,8 +89,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103899
 
 <a id="claim-t-112511"></a>
-- t-003
-  global_id: t-112511
+- t-010
   teiginys: "Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,8 +106,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-36772
 
 <a id="claim-t-112512"></a>
-- t-004
-  global_id: t-112512
+- t-021
   teiginys: "Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,8 +122,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103889
 
 <a id="claim-t-112513"></a>
-- t-005
-  global_id: t-112513
+- t-025
   teiginys: "Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,27 +137,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-103888
 
-<a id="claim-t-112514"></a>
-- t-006
-  global_id: t-112514
-  teiginys: "Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata aiškiai nurodo Bonifaco IX paramą Vytautui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Bonifacas IX rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90)"
-  pagrindžia:
-    - c-36772
-
 <a id="claim-t-112515"></a>
-- t-007
-  global_id: t-112515
+- t-022
   teiginys: "Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -170,8 +154,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103896
 
 <a id="claim-t-112517"></a>
-- t-008
-  global_id: t-112517
+- t-006
   teiginys: "Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -187,8 +170,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103892
 
 <a id="claim-t-112518"></a>
-- t-009
-  global_id: t-112518
+- t-019
   teiginys: "1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -207,8 +189,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103900
 
 <a id="claim-t-112519"></a>
-- t-010
-  global_id: t-112519
+- t-009
   teiginys: "Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -224,8 +205,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-31056
 
 <a id="claim-t-112520"></a>
-- t-011
-  global_id: t-112520
+- t-012
   teiginys: "Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -241,8 +221,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-103895
 
 <a id="claim-t-112521"></a>
-- t-012
-  global_id: t-112521
+- t-011
   teiginys: "Domininkonai, iš naujo skelbdami kryžiaus karą, turėjo atvesti naujus piligrimų būrius iš kelių Europos kraštų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -258,8 +237,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-31056
 
 <a id="claim-t-112522"></a>
-- t-013
-  global_id: t-112522
+- t-018
   teiginys: "Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -276,7 +254,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_llm_pakomentavimas: "Citata pagrindžia datą, o pradinis sakinys buvo fragmentiškas."
   pagrindžia:
     - c-103890
-    - c-005
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
@@ -284,21 +261,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.
 - susijęs iš Gardinas: Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią.
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
-    III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
-      Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-112522
 ## Citatos
 
 - id: c-31056
@@ -312,20 +274,16 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
     žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
     ten šaltai buvo priimti.
-  citata_rodoma: |
-    Iš naujo skelbdami kryžiaus
-    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
-    domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
-    žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
-    ten šaltai buvo priimti.
+  citata_rodoma: "Iš naujo skelbdami kryžiaus\nkarą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,\ndomininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu\nžemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie\nten šaltai buvo priimti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112519
-    - t-112521
+    - t-009
+    - t-011
+
 - id: c-36772
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -343,21 +301,15 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
-  citata_rodoma: |
-    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
-    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
-    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
-    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
-    rėjo tame krašte labiau įsigalėti.
-    Iš čia matome, kad Liet.
+  citata_rodoma: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir\nstačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro\nvyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną\nGregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­\nrėjo tame krašte labiau įsigalėti.\nIš čia matome, kad Liet."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112511
-    - t-112514
+    - t-010
+
 - id: c-103888
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -426,7 +378,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112513
+    - t-025
+
 - id: c-103889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -447,29 +400,25 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112512
+    - t-021
+
 - id: c-103890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
-    Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
-    nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš
-    Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597,
-    ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
-    597  D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
-  citata_rodoma: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
       Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
+  citata_rodoma: "Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus\nIII (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).\n  Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112522
+    - t-018
+
 - id: c-103892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -486,7 +435,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112517
+    - t-006
+
 - id: c-103894
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -501,7 +451,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112507
+    - t-008
+
 - id: c-103895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -537,38 +488,15 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     dicto expirato et tantum (ü) secundum terre fertilitatem
     datunt decimam prout in aliis regnis vėl provinciis (m) darė
     consueverunt.
-  citata_rodoma: |
-    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
-    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
-    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
-    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
-    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
-    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
-    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
-    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
-    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
-    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
-    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
-    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
-    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
-    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
-    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
-    59
-
-    ## Puslapis 76
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    medio ipse (1) at omni opere regio sint exempti, termino pre-
-    dicto expirato et tantum (ü) secundum terre fertilitatem
-    datunt decimam prout in aliis regnis vėl provinciis (m) darė
-    consueverunt.
+  citata_rodoma: "Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­\nnuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,\n[tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­\ndaro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]\nsielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­\ndo dvasininkus; patariame kiekvienam valdovui pasisaugoti\ntokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­\nkai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka\nmalone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­\nlių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­\njamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios\npadėties amatininkams, būtent, meistrams, kurpiams, račiams,\nakmenskaldžiams, druskininkams, malūnininkams, sidabra-\nkaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­\ntiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su\n59\n\n## Puslapis 76\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmedio ipse (1) at omni opere regio sint exempti, termino pre-\ndicto expirato et tantum (ü) secundum terre fertilitatem\ndatunt decimam prout in aliis regnis vėl provinciis (m) darė\nconsueverunt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112520
+    - t-012
+
 - id: c-103896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -593,26 +521,15 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     broliams kryžiuočiams skriaudą darydami, skleidė melą, esą
     rusinai ir lietuviai gera valia pareiškę norą krikščionių pa­
     pročiu krikštytis, bet jiems to daryti neleidžiama.
-  citata_rodoma: |
-    Vėliau viskas byloja, jog Gediminas per pasiun­
-    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
-    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
-    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
-    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
-    kada nebuvo dėl jų suabejojęs.
-    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
-    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
-    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
-    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
-    esant. Išorinį įrodymą randame pasakytą pirmiausia J e r o -
-    š i n o, p.
+  citata_rodoma: "Vėliau viskas byloja, jog Gediminas per pasiun­\ntinius nurodė, kaip sako Jerošinas, garantuoti, kad \nniekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­\njami jokie laiškai kokiems nors miestams ar šalims, sykiu ir \npopiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­\nkada nebuvo dėl jų suabejojęs.\nJeigu su atida peržvelgsime laiškus, Gedimino vardu \nrašytus dominikonų ordinui, minoritams ir Vokietijos mies­\ntams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­\ndijančių juos Rygos arkivyskupo prasimanymu ir klastote \nesant. Išorinį įrodymą randame pasakytą pirmiausia J e r o - \nš i n o, p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112515
+    - t-022
+
 - id: c-103899
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -631,7 +548,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112510
+    - t-007
+
 - id: c-103900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -647,6 +565,4 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112518
-## Ryšiai
-- Rėmė Domininkonų ordiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+    - t-019

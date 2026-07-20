@@ -39,7 +39,6 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
 
 <a id="claim-t-201401"></a>
 - t-001
-  global_id: t-201401
   teiginys: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -52,7 +51,6 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
 
 <a id="claim-t-201402"></a>
 - t-002
-  global_id: t-201402
   teiginys: "Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,9 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
 ## Citatos
 
 - id: c-184751
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Metuose dar 993 kariavęs
     su krobatais ir pečenegais, kurie buvę įgumėję į
@@ -82,11 +81,12 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201401
+    - t-001
 
 - id: c-184752
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kryžėjai pilėse, o kunigai baž­
     nyčiose; nebebuvo nė kokios vilties, idant kuomet
@@ -106,4 +106,4 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201402
+    - t-002

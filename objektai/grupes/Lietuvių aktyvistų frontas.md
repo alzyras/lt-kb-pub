@@ -29,6 +29,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Lietuvių aktyvistų frontas
 
 ## Santrauka
@@ -69,45 +70,24 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 
 Nenurodyta
 
+## Ryšiai
+
+### Laikotarpiai
+- XX amžius
+
 ## Teiginiai
 
 <a id="claim-t-13466"></a>
-- t-001
-  global_id: t-13466
-  teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
-  atnaujinta: "2026-05-31 14:11"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abveras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Abveras: mention_match, group, gap=119"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"Abveras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-26863
-
-<a id="claim-t-13467"></a>
 - t-002
-  global_id: t-13467
-  teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
-  atnaujinta: "2026-05-31 14:11"
+  teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-22533
+    - c-154379
 
 <a id="claim-t-23307"></a>
-- t-003
-  global_id: t-23307
+- t-006
   teiginys: "1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -125,26 +105,8 @@ Nenurodyta
   pagrindžia:
     - c-26863
 
-<a id="claim-t-24554"></a>
-- t-004
-  global_id: t-24554
-  teiginys: "LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje)."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22533
-
 <a id="claim-t-26625"></a>
-- t-005
-  global_id: t-26625
+- t-010
   teiginys: "Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -164,8 +126,7 @@ Nenurodyta
     - c-154379
 
 <a id="claim-t-26626"></a>
-- t-006
-  global_id: t-26626
+- t-011
   teiginys: "Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -203,17 +164,13 @@ Nenurodyta
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
-  citata_rodoma: |
-    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
-    ryšius su nacių Vokietija.
+  citata_rodoma: "K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius \nryšius su nacių Vokietija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-13467
-    - t-24554
 - id: c-26863
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -232,8 +189,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13466
-    - t-23307
+    - t-006
+
 - id: c-154378
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,19 +202,15 @@ Nenurodyta
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: |
-    Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
-    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
-    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
+  citata_rodoma: "Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo \nveikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti \ntarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-\nsidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje \nbaigėsi legalių lietuvių organizacijų veikla."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26626
+    - t-011
+
 - id: c-154379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -283,21 +236,12 @@ Nenurodyta
     gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
-  citata_rodoma: |
-    (R. Mičiūno reprodukcija)
-
-    L I E T U V O S  I S T O R I J A
-    196
-    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
-    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
-    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
-    gus, oro uostus, fabrikus ir kt.
+  citata_rodoma: "(R. Mičiūno reprodukcija)\n\nL I E T U V O S  I S T O R I J A\n196\nAktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš \nVokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis \ndėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, \nbūsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su \nAbveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-\ngus, oro uostus, fabrikus ir kt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26625
+    - t-002
+    - t-010

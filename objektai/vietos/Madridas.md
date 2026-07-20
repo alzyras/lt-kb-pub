@@ -31,7 +31,6 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 
 <a id="claim-t-21596"></a>
 - t-001
-  global_id: t-21596
   teiginys: "XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
     galija). XVI–XVII a. tai neatrodė bloga išeitis – Roma, Madridas ar Li-
     sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
     šviesą iki pat Meksikos, Paragvajaus.
-  citata_rodoma: |
-    sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės
+  citata_rodoma: "sabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21596
+    - t-001

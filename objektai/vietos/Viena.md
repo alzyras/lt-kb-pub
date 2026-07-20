@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-91446"></a>
-- t-001
-  global_id: t-91446
+- t-006
   teiginys: "„Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a. pradžios kodekse."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ media_all_json: |-
     - c-87155
 
 <a id="claim-t-91447"></a>
-- t-002
-  global_id: t-91447
+- t-001
   teiginys: "Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-24560
 
 <a id="claim-t-91448"></a>
-- t-003
-  global_id: t-91448
+- t-007
   teiginys: "1683 m. hetmonas Sapiega, vykdamas vaduoti Vienos, delsė su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ media_all_json: |-
     - c-24561
 
 <a id="claim-t-91450"></a>
-- t-004
-  global_id: t-91450
+- t-005
   teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -117,10 +113,9 @@ media_all_json: |-
     - c-87157
 
 <a id="claim-t-188848"></a>
-- t-005
-  global_id: t-188848
+- t-002
   teiginys: "Narbutas rašė, kad Jeronimas, vykdamas per Lenkiją į Vieną, lenkų kunigams neatskleidė Viklifo raštų naujienos."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -700,6 +695,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
 - susijęs iš [[objektai/asmenys/Jonas Hozijus.md#claim-t-173182|Jonas Hozijus]]: Jonui Hozijui buvo suteikta teisė atvesti vandenį į jo namus Vokiečių gatvėje.
+- susijęs iš [[objektai/asmenys/Jonas Leonas Oziębłowskis.md#claim-t-202413|Jonas Leonas Oziębłowskis]]: 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Jonas Saksas iš Gilberštetės.md#claim-t-60349|Jonas Saksas iš Gilberštetės]]: Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje, o prieš tapdamas ordino broliu gyveno nedorovingai.
 - susijęs iš [[objektai/asmenys/Jonas Semenavičius Zažeckis.md#claim-t-87732|Jonas Semenavičius Zažeckis]]: Jonas Semenavičius Zažeckis savo iniciatyva ir lėšomis prisidėjo prie 1575 metais Vilniuje išspausdintos knygos „Cztėry Ewangelje“.
@@ -2494,6 +2490,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-24560
@@ -2503,16 +2500,15 @@ media_all_json: |-
   citata_originali: |
     didatūrą į sostą. Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną.
-  citata_rodoma: |
-    Padarius sąjungą su
-    Austrija, turkai užpuolė šią ir pasiekė net Vieną.
+  citata_rodoma: "Padarius sąjungą su\nAustrija, turkai užpuolė šią ir pasiekė net Vieną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91447
+    - t-001
+
 - id: c-24561
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2526,16 +2522,15 @@ media_all_json: |-
     monas Sapiega taip pat nenorėjo klausyti karaliaus ir karuose.
     Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino
     su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
-  citata_rodoma: |
-    Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino
-    su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
+  citata_rodoma: "Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino\nsu Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91448
+    - t-007
+
 - id: c-87155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2551,7 +2546,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91446
+    - t-006
+
 - id: c-87157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2562,36 +2558,20 @@ media_all_json: |-
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: |
-    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
-    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: "viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos\nbibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91450
+    - t-005
+
 - id: c-171737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Pati bulė kalba apskritai apie rusinus,
-    tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o
-    kažkokį atskirą, nuo jos atskilusį tikėjimą, globojamą Lenki­
-    jos. Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
-    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
-    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
-    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
-    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
-    ri laikytina grynai stabmeldiška.
-    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
-    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
-    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
-    jais, sutvirtinimas, įstojimas į vienuolius.
-  citata_rodoma: |
     Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
     apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė
     nelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­
@@ -2601,10 +2581,11 @@ media_all_json: |-
     įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
     joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
     apie tai net neužsiminęs.
+  citata_rodoma: "Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,\napie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė\nnelaiminguosius Viklifo raštus. Tenai nors tarėsi su Husu, sa­\nvo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,\nšiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-\nskleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo\nįtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­\njoje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte\napie tai net neužsiminęs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188848
+    - t-002

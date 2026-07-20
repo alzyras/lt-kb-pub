@@ -31,7 +31,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 
 <a id="claim-t-72757"></a>
 - t-001
-  global_id: t-72757
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava valstybe, o administracine apygarda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -41,7 +40,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 
 <a id="claim-t-193158"></a>
 - t-002
-  global_id: t-193158
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -72,7 +70,8 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72757
+    - t-001
+
 - id: c-175910
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -91,4 +90,4 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193158
+    - t-002

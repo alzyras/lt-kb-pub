@@ -30,9 +30,8 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
 
 <a id="claim-t-190440"></a>
 - t-001
-  global_id: t-190440
   teiginys: "Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,27 +47,7 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173323
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
-    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
-    sų heraldikos specialistus lenkus visuomet užgula didelis rū­
-    10
-    Žinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­
-    kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
-    šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
-    nomas ir Neseckiui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190440
+
 ## Citatos
 
 - id: c-173323
@@ -76,19 +55,6 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Apžiūrėkime kai kuriuos, perpieštus iš senovinių dokumen­
-    tų. O kadangi kiekvienoje sutartyje būdavo rašoma, kas pri­
-    dėjo savo antspaudą arba kas pasirašė prie antspaudo, iš to
-    galima šį tą spėti apie taip besivadinančios giminės fetišą arba
-    sužinoti jos lietuvišką herbą.
-    IV
-    lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;
-    iš jų a prispaudė Čeplė (Czapla) 1541 metais; b - Valatkevi-
-    čius (Wotodkiewicz) 1513 metais; c - Skiparas (Skipor) 1483
-    metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
-    cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
-    (Rexč) 1481 metais;/?
-  citata_rodoma: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­
     sų heraldikos specialistus lenkus visuomet užgula didelis rū­
@@ -97,10 +63,11 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
     kė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu
     šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
     nomas ir Neseckiui.
+  citata_rodoma: "Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų\nherbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­\nsų heraldikos specialistus lenkus visuomet užgula didelis rū­\n10\nŽinių apie tai, kaip Gediminas suteikė herbą Krunevičiui, patei­\nkė Malachovskis savo bajoriškų pavardžių rinkinyje (tik neaišku, kokiu\nšaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­\nnomas ir Neseckiui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190440
+    - t-001

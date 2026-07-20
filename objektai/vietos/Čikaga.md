@@ -40,8 +40,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 ## Teiginiai
 
 <a id="claim-t-77709"></a>
-- t-001
-  global_id: t-77709
+- t-004
   teiginys: "1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - c-75044
 
 <a id="claim-t-77710"></a>
-- t-002
-  global_id: t-77710
+- t-001
   teiginys: "Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 
 <a id="claim-t-77711"></a>
 - t-003
-  global_id: t-77711
   teiginys: "Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - c-24619
 
 <a id="claim-t-77712"></a>
-- t-004
-  global_id: t-77712
+- t-002
   teiginys: "1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -151,7 +147,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77710
+    - t-001
+
 - id: c-24618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,20 +169,15 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
-  citata_rodoma: |
-    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
-    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
-    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
-    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
-    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
-    klausimą.
+  citata_rodoma: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-\nnijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-\nrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas \nį karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono \n(Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos \nklausimą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77712
+    - t-002
+
 - id: c-24619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,19 +193,15 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
-  citata_rodoma: |
-    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
-    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
-    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
-    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
-    (Karolis Bučinskis).
+  citata_rodoma: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria \nne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-\ntas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), \no juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson \n(Karolis Bučinskis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77711
+    - t-003
+
 - id: c-75044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,6 +225,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77709
+    - t-004
+
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Robertas Zemeckis]]

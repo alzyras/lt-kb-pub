@@ -39,7 +39,6 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
 
 <a id="claim-t-31756"></a>
 - t-001
-  global_id: t-31756
   teiginys: "K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,15 +67,11 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
     (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
     Litauen_** **1382-1401, 1925, 61 p.**
     (^13) **KolLJ, I, 51 p.**
-  citata_rodoma: |
-    **
-    (^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von
-    Litauen_** **1382-1401, 1925, 61 p.**
-    (^13) **KolLJ, I, 51 p.
+  citata_rodoma: "**\n(^12) **L. Kolankowski : KolLJ, I, 47 p. — K. Heinl :** **_Fürst Witold von\nLitauen_** **1382-1401, 1925, 61 p.**\n(^13) **KolLJ, I, 51 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31756
+    - t-001

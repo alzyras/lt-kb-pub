@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-36470"></a>
 - t-001
-  global_id: t-36470
   teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,6 +106,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+
 ## Citatos
 
 - id: c-38593
@@ -119,16 +119,14 @@ media_all_json: |-
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
-  citata_rodoma: |
-    Tik 1394 metais jis puolė Vladimiro že­
-    mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
-    važiavo Vytautui nusilenkti.
+  citata_rodoma: "Tik 1394 metais jis puolė Vladimiro že­\nmes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­\nvažiavo Vytautui nusilenkti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36470
+    - t-001
+
 ## Ryšiai
 - Užėmė Ovručą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

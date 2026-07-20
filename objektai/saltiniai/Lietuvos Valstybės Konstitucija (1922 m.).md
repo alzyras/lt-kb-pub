@@ -7,12 +7,12 @@ datos:
   - '1922 m.'
 date_start: '1922'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
 
 <a id="claim-t-169901"></a>
 - t-001
-  global_id: t-169901
   teiginys: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -54,12 +53,9 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
   pagrindžia:
     - c-154586
 
-## Citatos
-
-- id: c-154586
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
@@ -67,7 +63,19 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
     aukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-
     čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
     kartą įteisinta kaip valstybinė.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-154586
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
     principus. Lietuvos valstybė – nepriklausoma demokratinė respublika,
@@ -85,10 +93,11 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
     vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
     gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
+  citata_rodoma: "Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-\ntucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos \nprincipus. Lietuvos valstybė – nepriklausoma demokratinė respublika, \naukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-\nčiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą \nkartą įteisinta kaip valstybinė. Nežiūrint lyties, kilmės, tikėjimo ir tau-\ntybės, visiems Lietuvos piliečiams garantuota lygybė prieš įstatymus ir \nkitos demokratinės teisės. Valstybės vėliavos spalvomis (geltona, žalia, \nraudona) atsisakyta bendrumo su LDK valdovų naudota vėliava, tačiau \nherbas – baltas Vytis raudoname fone – liko tas pats. Valstybės sostinė\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n149\nneįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė \nvadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-\nkami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje \ngyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-169901
+    - t-001

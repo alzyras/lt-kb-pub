@@ -30,8 +30,7 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 ## Teiginiai
 
 <a id="claim-t-42385"></a>
-- t-001
-  global_id: t-42385
+- t-002
   teiginys: "Spalio 17 d. lenkai užėmė Švenčionėlius, o batalionai iki vakaro gynėsi ties Merkiu ir atsitraukė į pietines Vilniaus prieigas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     - c-45475
 
 <a id="claim-t-42386"></a>
-- t-002
-  global_id: t-42386
+- t-001
   teiginys: "Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,18 +77,15 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 
     batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-
     gadas, galiausiai atsitraukia į pietines Vilniaus prieigas.
-  citata_rodoma: |
-    (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau
-
-    batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-
-    gadas, galiausiai atsitraukia į pietines Vilniaus prieigas.
+  citata_rodoma: "(3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau\n\nbatalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų bri-\ngadas, galiausiai atsitraukia į pietines Vilniaus prieigas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42385
+    - t-002
+
 - id: c-45476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -107,19 +102,15 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     Dubingių-Švenčionėlių linijoje.
 
     artilerijos baterija.
-  citata_rodoma: |
-    Frontas nusistovėjo Kernavės-
-    Musninkų-Širvintų- Giedraičių
-    Dubingių-Švenčionėlių linijoje.
-
-    artilerijos baterija.
+  citata_rodoma: "Frontas nusistovėjo Kernavės-\nMusninkų-Širvintų- Giedraičių\nDubingių-Švenčionėlių linijoje.\n\nartilerijos baterija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42386
+    - t-001
+
 ## Ryšiai
 - Puolė Švenčionėliai: [[objektai/grupes/Lenkai]]
 - Užėmė Švenčionėliai: [[objektai/grupes/Lenkai]]

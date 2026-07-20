@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-40973"></a>
 - t-001
-  global_id: t-40973
   teiginys: "L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ media_all_json: |-
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: |
-    Prieš kautynes
-
-    Sutelkęs stambias pajėgas, gen. L. Želi-
-    govskis lapkričio 17 d. auštant pradėjo
-    savo didžiąją ofenzyvą, puldamas lie-
-    tuvių 1-osios pėstininkų divizijos uži-
-    mamą barą nuo Nėries iki Dubingių.
+  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40973
+    - t-001

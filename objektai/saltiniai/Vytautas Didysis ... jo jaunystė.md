@@ -30,7 +30,6 @@ media_all_json: |-
 
 <a id="claim-t-31974"></a>
 - t-001
-  global_id: t-31974
   teiginys: "„Vytautas Didysis ... jo jaunystė“ paskelbtas Lietuvių enciklopedijos 34 tome, 373-376 puslapiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,13 +55,11 @@ media_all_json: |-
     red. A. Šapoka, Kaunas 1935, 47-79 p. — (”) _Jogaila_ , LE, t. 9, 419-
     425 p. — (”) _Vaidotas_ , LE, t. 32, 446-447 p. — (”) _Vytautas Didysis ...
     jo jaunystė_ , LE, t. 34, 373-376 p. — Jonynas, Ig.
-  citata_rodoma: |
-    — (”) _Vytautas Didysis ...
-    jo jaunystė_ , LE, t. 34, 373-376 p.
+  citata_rodoma: "— (”) _Vytautas Didysis ...\njo jaunystė_ , LE, t. 34, 373-376 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31974
+    - t-001

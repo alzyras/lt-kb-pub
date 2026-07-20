@@ -30,8 +30,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Teiginiai
 
 <a id="claim-t-28564"></a>
-- t-001
-  global_id: t-28564
+- t-002
   teiginys: "Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-28468
 
 <a id="claim-t-28565"></a>
-- t-002
-  global_id: t-28565
+- t-001
   teiginys: "Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28564
+    - t-002
+
 - id: c-28469
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -106,4 +105,4 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28565
+    - t-001

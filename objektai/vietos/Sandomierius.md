@@ -39,8 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32532"></a>
-- t-001
-  global_id: t-32532
+- t-002
   teiginys: "1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ media_all_json: |-
     - c-34032
 
 <a id="claim-t-32533"></a>
-- t-002
-  global_id: t-32533
+- t-001
   teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32533
+    - t-001
+
 - id: c-34032
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -110,18 +109,15 @@ media_all_json: |-
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
     Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
-  citata_rodoma: |
-    Drauge
-    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
-    o 1307 buvo įsiveržę į Kališo sritį^5.
-    Tuo pačiu laiku lietuviai turėjo kitą svarbų frontą.
+  citata_rodoma: "Drauge\nsu rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,\no 1307 buvo įsiveržę į Kališo sritį^5.\nTuo pačiu laiku lietuviai turėjo kitą svarbų frontą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32532
+    - t-002
+
 - id: c-167764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,6 +132,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Puolė Sandomierių: [[objektai/grupes/Lietuviai]]

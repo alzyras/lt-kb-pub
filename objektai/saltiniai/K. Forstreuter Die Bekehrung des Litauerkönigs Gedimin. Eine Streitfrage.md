@@ -37,7 +37,6 @@ Forstreuter : Die Bekehrung des Litauerkönigs Gedimin, (žr. : Die Bekehrung Ge
 
 <a id="claim-t-31752"></a>
 - t-001
-  global_id: t-31752
   teiginys: "K. Forstreuterio „Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage“ 1955 m. buvo išspausdintas „Jahrbuch der Albertus-Universität zu Königsberg“ 6 tome."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,16 +66,11 @@ Forstreuter : Die Bekehrung des Litauerkönigs Gedimin, (žr. : Die Bekehrung Ge
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i. Pr., t. 6, 1955, 142-158 p. — Ivinskis, Z. : _Die Handels­
     beziehungen Litauens mit Riga im 14.
-  citata_rodoma: |
-    —
-    Forstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_
-    AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
-    min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
-    Königsberg i. Pr., t. 6, 1955, 142-158 p.
+  citata_rodoma: "—\nForstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_\nAP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-\nmin. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu\nKönigsberg i. Pr., t. 6, 1955, 142-158 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31752
+    - t-001

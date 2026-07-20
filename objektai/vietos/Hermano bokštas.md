@@ -28,34 +28,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Hermano bokštas
 
 ## Santrauka
 
 trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio.
-
-## Teiginiai
-
-<a id="claim-t-21441"></a>
-- t-001
-  global_id: t-21441
-  teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Talinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermano bokštas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Talinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hermano bokštas tiesiogiai lokalizuotas Taline."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Hermano bokštas priklausė Talinas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta sakinio pradžia ir pašalintas nutrūkimas."
-  pagrindžia:
-    - c-24138
 
 ## Citatos
 
@@ -75,12 +53,9 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
-  citata_rodoma: |
-    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
+  citata_rodoma: "protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-21441

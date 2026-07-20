@@ -32,7 +32,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 
 <a id="claim-t-60387"></a>
 - t-001
-  global_id: t-60387
   teiginys: "Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 
 <a id="claim-t-197131"></a>
 - t-002
-  global_id: t-197131
   teiginys: "Štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,18 +78,12 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     dangaus ir žemės ženklų išpranašauta, rodėsi vienintelė turinti pareigą už Kristų kentėti
     patyčias ant kryžiaus ir pasižadėjusi išvaduoti iš netikėlių priespaudos šventąją žemę bei
     atiduoti ją krikščionims.
-  citata_rodoma: |
-    Štai ir senajame
-    testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus
-    metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai
-    jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui
-    duonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant
-    priešai atsidūrė jo rankose.
+  citata_rodoma: "Štai ir senajame\ntestamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus\nmetus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai\njis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui\nduonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant\npriešai atsidūrė jo rankose."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60387
-    - t-197131
+    - t-001
+    - t-002

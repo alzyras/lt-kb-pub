@@ -7,6 +7,7 @@ variantai:
 aliases:
   - 'Jėzuitai'
 saltiniai:
+  - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -33,7 +34,6 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
 
 <a id="claim-t-201847"></a>
 - t-001
-  global_id: t-201847
   teiginys: "Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centriniame archyve Archiwum Romanum Societatis lesu Romoje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -43,6 +43,19 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185194
+
+<a id="claim-t-202341"></a>
+- t-002
+  teiginys: "Po trejų metų pas globėją Kaune Kazimieras dar trejus metus mokėsi, tikėtina, Vilniuje pas jėzuitus."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
+  pagrindžia:
+    - c-185688
 
 ## Citatos
 
@@ -61,4 +74,14 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201847
+    - t-001
+
+- id: c-185688
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-19 12:22"
+  pagrindzia:
+    - t-002

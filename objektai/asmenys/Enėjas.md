@@ -30,9 +30,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 
 <a id="claim-t-190093"></a>
 - t-001
-  global_id: t-190093
   teiginys: "Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,10 +47,9 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172976
-    - c-001
+
 <a id="claim-t-190094"></a>
 - t-002
-  global_id: t-190094
   teiginys: "Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,23 +70,6 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     - c-172977
 - susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/autoriai/Vergilijus.md#claim-t-190342|Vergilijus]]: Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
-    Graikijoje ir toliau.
-    Enėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems
-    lenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys
-    aukurai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190093
 ## Citatos
 
 - id: c-172976
@@ -96,29 +77,20 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Egiptiečiai turėjo savo
-    Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi­
-    siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
-    slavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo
-    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
-    vų tarpą.
-    Apžvelkime artimesnius šito tikėjimo paminklus. 1811 me­
-    tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
-    varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
-    grindą - 2 colių storumo trikampę žalvarinę lentą.
-  citata_rodoma: |
     Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
     Graikijoje ir toliau.
     Enėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems
     lenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys
     aukurai.
+  citata_rodoma: "Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje\nGraikijoje ir toliau.\nEnėjas savo Karibus iš Trojos atsinešė į Italiją. Ypač jiems\nlenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys\naukurai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190093
+    - t-001
+
 - id: c-172977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -136,6 +108,7 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190094
+    - t-002
+
 ## Ryšiai
 - Enėjas pastatė [[objektai/daiktai/Laivai]]

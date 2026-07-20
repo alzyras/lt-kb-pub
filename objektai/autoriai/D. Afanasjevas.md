@@ -7,12 +7,12 @@ datos:
   - '1861 m.'
 date_start: '1861'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+amziai:
+  - 'XIX'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiu
 
 <a id="claim-t-202225"></a>
 - t-001
-  global_id: t-202225
   teiginys: "Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiuu u cmamucmUKU POCCUU."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202225
+    - t-001

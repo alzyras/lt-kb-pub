@@ -32,7 +32,6 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
 
 <a id="claim-t-191257"></a>
 - t-001
-  global_id: t-191257
   teiginys: "Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žilos senovės šiaurės krašto valdovas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
 
 <a id="claim-t-191258"></a>
 - t-002
-  global_id: t-191258
   teiginys: "Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191257
+    - t-001
+
 - id: c-174140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -122,6 +121,7 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191258
+    - t-002
+
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Boristenė]]

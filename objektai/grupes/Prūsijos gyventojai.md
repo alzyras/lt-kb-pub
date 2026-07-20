@@ -31,7 +31,6 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
 
 <a id="claim-t-194793"></a>
 - t-001
-  global_id: t-194793
   teiginys: "Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie sa7."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194793
+    - t-001

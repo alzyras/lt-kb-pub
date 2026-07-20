@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75231"></a>
-- t-001
-  global_id: t-75231
+- t-005
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-73089
 
 <a id="claim-t-75232"></a>
-- t-002
-  global_id: t-75232
+- t-006
   teiginys: "Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-73090
 
 <a id="claim-t-75233"></a>
-- t-003
-  global_id: t-75233
+- t-002
   teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -116,7 +113,6 @@ Nenurodyta
 
 <a id="claim-t-75234"></a>
 - t-004
-  global_id: t-75234
   teiginys: "Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-23118
 
 <a id="claim-t-75235"></a>
-- t-005
-  global_id: t-75235
+- t-001
   teiginys: "Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -152,8 +147,7 @@ Nenurodyta
     - c-23114
 
 <a id="claim-t-75236"></a>
-- t-006
-  global_id: t-75236
+- t-003
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -185,20 +179,15 @@ Nenurodyta
     gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
     nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
-  citata_rodoma: |
-    Tačiau pergyvenusi
-    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
-    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
-    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
-    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
-    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
+  citata_rodoma: "Tačiau pergyvenusi\ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos\nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),\no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75235
+    - t-001
+
 - id: c-23116
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -209,18 +198,15 @@ Nenurodyta
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
     akcijų metu.
-  citata_rodoma: |
-    Apie 50 tūkst. žydų
-    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
-    doti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
-    akcijų metu.
+  citata_rodoma: "Apie 50 tūkst. žydų\nlaikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-\ndoti kaip pigi darbo jėga. Tačiau ir didžiųjų getų žydai žudyti vadinamųjų\nakcijų metu."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75233
+    - t-002
+
 - id: c-23117
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -230,17 +216,15 @@ Nenurodyta
     akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
     ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
     ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: |
-    Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
-    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
-    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
+  citata_rodoma: "Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė\nir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje\nir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75236
+    - t-003
+
 - id: c-23118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,19 +238,15 @@ Nenurodyta
     sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
     torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
     žydų tautos ir visos Lietuvos netektis ir tragedija.
-  citata_rodoma: |
-    Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-
-    venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų
-    sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
-    torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
-    žydų tautos ir visos Lietuvos netektis ir tragedija.
+  citata_rodoma: "Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-\nvenusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų\nsunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-\ntorijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė\nžydų tautos ir visos Lietuvos netektis ir tragedija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75234
+    - t-004
+
 - id: c-73089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,7 +265,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75231
+    - t-005
+
 - id: c-73090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -309,4 +290,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75232
+    - t-006

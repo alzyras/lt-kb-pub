@@ -30,7 +30,6 @@ Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį n
 
 <a id="claim-t-191976"></a>
 - t-001
-  global_id: t-191976
   teiginys: "Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį nuo Jordano iki Rudbeko ir Basės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191976
+    - t-001

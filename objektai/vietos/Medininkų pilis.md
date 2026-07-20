@@ -68,8 +68,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-109758"></a>
-- t-001
-  global_id: t-109758
+- t-007
   teiginys: "Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +85,7 @@ Nenurodyta
     - c-101739
 
 <a id="claim-t-109759"></a>
-- t-002
-  global_id: t-109759
+- t-001
   teiginys: "Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -103,8 +101,7 @@ Nenurodyta
     - c-05669
 
 <a id="claim-t-109760"></a>
-- t-003
-  global_id: t-109760
+- t-005
   teiginys: "Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -120,8 +117,7 @@ Nenurodyta
     - c-101742
 
 <a id="claim-t-109761"></a>
-- t-004
-  global_id: t-109761
+- t-006
   teiginys: "Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -138,8 +134,7 @@ Nenurodyta
     - c-101741
 
 <a id="claim-t-109762"></a>
-- t-005
-  global_id: t-109762
+- t-004
   teiginys: "Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,7 +167,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109759
+    - t-001
+
 - id: c-101739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +188,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109758
+    - t-007
+
 - id: c-101740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -216,7 +213,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109762
+    - t-004
+
 - id: c-101741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -242,7 +240,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109761
+    - t-006
+
 - id: c-101742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -263,4 +262,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109760
+    - t-005

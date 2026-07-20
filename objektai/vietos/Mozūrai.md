@@ -39,7 +39,6 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 
 <a id="claim-t-52959"></a>
 - t-001
-  global_id: t-52959
   teiginys: "Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 
 <a id="claim-t-52960"></a>
 - t-002
-  global_id: t-52960
   teiginys: "Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,17 +85,15 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
     ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
     vo įkūręs Livonijoj.
-  citata_rodoma: |
-    Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
-    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
-    krikščioniškuosius kraštus. Tada vysk.
+  citata_rodoma: "Bet vos tik jie išvykdavo namo, prūsai, išlindę iš\nmiškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius\nkrikščioniškuosius kraštus. Tada vysk."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52960
+    - t-002
+
 - id: c-54204
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -116,4 +112,4 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-52959
+    - t-001

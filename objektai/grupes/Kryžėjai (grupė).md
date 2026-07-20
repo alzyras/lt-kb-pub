@@ -33,7 +33,6 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
 
 <a id="claim-t-201238"></a>
 - t-001
-  global_id: t-201238
   teiginys: "Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne platinimu tikybos berūpinos, vienok jie vis dar ti kyba dangavos ir turėjo ją už lyčių tolimesnėms ka rėms su lietuviais."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -47,8 +46,9 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
 ## Citatos
 
 - id: c-184588
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pereidamas dabar skaitytojas tą 13 amžių mato
     aiškiai, jog aitra platinimo tikybos krikščionų buvo
@@ -76,4 +76,4 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201238
+    - t-001

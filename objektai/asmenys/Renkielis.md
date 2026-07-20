@@ -39,7 +39,6 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 
 <a id="claim-t-87568"></a>
 - t-001
-  global_id: t-87568
   teiginys: "Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 
 <a id="claim-t-87569"></a>
 - t-002
-  global_id: t-87569
   teiginys: "Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,31 +99,12 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
     [iškart] praėjusių idq, [t. y.], nuo 1772 metų a die 1-ma Maij
     [nuo gegužės 1-os] iki 1773 metų, irgi ad diem l-mam Maij [iki
     gegužės 1-os].
-  citata_rodoma: |
-    Kaip kad paaiškėjo iš maloningojo Necelu
-    pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas
-    vaistininkas, buvo kartu ir puikus gydytojas. Po pastarojo
-    mirties, kai dabartinis vaistininkas maloningasis ponas
-    Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­
-    ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­
-    tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­
-    lio palankumo, tad negali turėti tiek pajamų, kiek turėjo
-    anasai.
-    183
-
-    ## Puslapis 200
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    O po to, norėdamas gauti bent kiek žinių apie vaistinės
-    pajamas, post praestitum juramentum [po prisaikdinimo] po­
-    no Renkielio, supra realem comportationem [dėl tikresnio pa­
-    lyginimo] senesniųjų metų apyskaitų, išrašėme immediate
-    [iškart] praėjusių idq, [t.
+  citata_rodoma: "Kaip kad paaiškėjo iš maloningojo Necelu \npavyzdžio, immediate [neseniai] mirusio, kuris, būdamas \nvaistininkas, buvo kartu ir puikus gydytojas. Po pastarojo \nmirties, kai dabartinis vaistininkas maloningasis ponas \nRenkielis perėmė vaistinę, kad ir yra in sua arte [savo me­\nne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­\ntantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­\nlio palankumo, tad negali turėti tiek pajamų, kiek turėjo \nanasai.\n183\n\n## Puslapis 200\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nO po to, norėdamas gauti bent kiek žinių apie vaistinės \npajamas, post praestitum juramentum [po prisaikdinimo] po­\nno Renkielio, supra realem comportationem [dėl tikresnio pa­\nlyginimo] senesniųjų metų apyskaitų, išrašėme immediate \n[iškart] praėjusių idq, [t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87568
-    - t-87569
+    - t-001
+    - t-002

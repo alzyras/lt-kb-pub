@@ -36,7 +36,6 @@ Dusburgietis teigia, kad nalepa J.
 
 <a id="claim-t-61188"></a>
 - t-001
-  global_id: t-61188
   teiginys: "J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,11 @@ Dusburgietis teigia, kad nalepa J.
   citata_originali: |
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
     Nalepa J..
-  citata_rodoma: |
-    Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
+  citata_rodoma: "Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61188
+    - t-001

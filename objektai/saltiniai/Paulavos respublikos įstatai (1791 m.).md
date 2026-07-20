@@ -37,7 +37,6 @@ Bžostovskio įkurta Paulavos respublika.
 
 <a id="claim-t-23406"></a>
 - t-001
-  global_id: t-23406
   teiginys: "1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Bžostovskio įkurta Paulavos respublika.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-23406
+    - t-001

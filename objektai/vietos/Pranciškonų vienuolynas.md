@@ -28,7 +28,6 @@ Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomi
 
 <a id="claim-t-201738"></a>
 - t-001
-  global_id: t-201738
   teiginys: "Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201738
+    - t-001

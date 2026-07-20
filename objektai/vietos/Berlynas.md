@@ -45,9 +45,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 
 ## Teiginiai
 
-<a id="claim-t-170297"></a>
-- t-001
-  global_id: t-170297
+<a id="claim-t-170285"></a>
+- t-016
   teiginys: "Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,8 +65,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154958
 
 <a id="claim-t-170286"></a>
-- t-002
-  global_id: t-170286
+- t-007
   teiginys: "Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,8 +81,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154964
 
 <a id="claim-t-170287"></a>
-- t-003
-  global_id: t-170287
+- t-015
   teiginys: "1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,8 +100,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154962
 
 <a id="claim-t-170288"></a>
-- t-004
-  global_id: t-170288
+- t-013
   teiginys: "Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -121,9 +117,9 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindžia:
     - c-154972
     - c-154959
+
 <a id="claim-t-170289"></a>
-- t-005
-  global_id: t-170289
+- t-020
   teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -139,8 +135,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154956
 
 <a id="claim-t-170291"></a>
-- t-006
-  global_id: t-170291
+- t-002
   teiginys: "„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -159,8 +154,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154973
 
 <a id="claim-t-170292"></a>
-- t-007
-  global_id: t-170292
+- t-012
   teiginys: "Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -176,8 +170,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154957
 
 <a id="claim-t-170293"></a>
-- t-008
-  global_id: t-170293
+- t-011
   teiginys: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -196,8 +189,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154961
 
 <a id="claim-t-170294"></a>
-- t-009
-  global_id: t-170294
+- t-010
   teiginys: "Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,8 +208,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154968
 
 <a id="claim-t-170295"></a>
-- t-010
-  global_id: t-170295
+- t-017
   teiginys: "Juozas Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -236,8 +227,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154960
 
 <a id="claim-t-170298"></a>
-- t-011
-  global_id: t-170298
+- t-005
   teiginys: "Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -255,8 +245,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154960
 
 <a id="claim-t-170299"></a>
-- t-012
-  global_id: t-170299
+- t-019
   teiginys: "Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -272,8 +261,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154970
 
 <a id="claim-t-170300"></a>
-- t-013
-  global_id: t-170300
+- t-006
   teiginys: "Dėl lietuvių kalbos ir judėjimo suvaržymų, atsišaukimų autorių areštų ir mokytojų deportacijų lietuviai skundėsi Berlynui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -290,8 +278,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154963
 
 <a id="claim-t-170301"></a>
-- t-014
-  global_id: t-170301
+- t-003
   teiginys: "Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -310,8 +297,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-154962
 
 <a id="claim-t-170302"></a>
-- t-015
-  global_id: t-170302
+- t-001
   teiginys: "Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m."
   atnaujinta: "2026-05-31 14:12"
   sprendimo_priezastis: "auto"
@@ -329,8 +315,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - c-31964
 
 <a id="claim-t-170303"></a>
-- t-016
-  global_id: t-170303
+- t-008
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -475,7 +460,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170302
+    - t-001
+
 - id: c-154956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -486,17 +472,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: |
-    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
-    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: "viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,\npapildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos\nbibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170289
+    - t-020
+
 - id: c-154957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -509,18 +493,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
     tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
     demokratų pakraipos asmenys.
-  citata_rodoma: |
-    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
-    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
-    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
-    demokratų pakraipos asmenys.
+  citata_rodoma: "Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų \narešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu \ntapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių \ndemokratų pakraipos asmenys."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170292
+    - t-012
+
 - id: c-154958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -536,18 +517,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: |
-    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
-    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
-    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
-    pradžios, 1934).
+  citata_rodoma: "1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių\nluomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos\nūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.\npradžios, 1934)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170297
+    - t-016
+
 - id: c-154959
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -566,18 +544,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
     boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: |
-    Vilniuje 1868 m.),
-    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
+  citata_rodoma: "Vilniuje 1868 m.), \nolimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-\npionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), \nboksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo \ngarsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 - id: c-154960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -592,20 +567,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
     Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
     ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
-  citata_rodoma: |
-    Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
-    visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento
-    teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
-    Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
-    ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
+  citata_rodoma: "Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis\nvisuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento\nteisėmis dėstė 1940-1943 [44] Vilniaus universitete.\nJakštas paskelbė originalią ir kritišką studiją apie vokiečių\nordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170295
-    - t-170298
+    - t-017
+    - t-005
+
 - id: c-154961
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -624,17 +595,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
     50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
     Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
-  citata_rodoma: |
-    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
-    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
-    liktą. Kariuomenės vadas gen.
+  citata_rodoma: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus \ntarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-\nliktą. Kariuomenės vadas gen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170293
+    - t-011
+
 - id: c-154962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -650,21 +619,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
     niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
     studijų istorijos žurnaluose.
-  citata_rodoma: |
-    Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
-    taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
-    iki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams
-    ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
-    niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
-    studijų istorijos žurnaluose.
+  citata_rodoma: "Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­\ntaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą\niki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams\nir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­\nniame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų\nstudijų istorijos žurnaluose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170287
-    - t-170301
+    - t-015
+    - t-003
+
 - id: c-154963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -677,19 +641,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
     padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
     ti.
-  citata_rodoma: |
-    Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
-    areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
-    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
-    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
-    ti.
+  citata_rodoma: "Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai \nareštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.\nPer karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms \npadegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-\nti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170300
+    - t-006
+
 - id: c-154964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -707,23 +667,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
     vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
     jungti Lietuvą personaline unija su Saksonija arba Prūsija.
-  citata_rodoma: |
-    Kovo 23 dieną Berlyne A. Smetonos vadovau-
-    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
-    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
-    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
-    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
+  citata_rodoma: "Kovo 23 dieną Berlyne A. Smetonos vadovau-\njama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui \nGeorgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos \nkaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-\nbę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai… \ngruodžio 11-osios rezoliucijos pagrindu. \nKonstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-\nvingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-\njungti Lietuvą personaline unija su Saksonija arba Prūsija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170286
+    - t-007
+
 - id: c-154968
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -734,16 +686,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
     S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
     Lietuvos kariuomenės paradinė rikiuotė 1937 m.
-  citata_rodoma: |
-    Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
+  citata_rodoma: "Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį \nKaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170294
+    - t-010
+
 - id: c-154970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -753,17 +704,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
     Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
     papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
-  citata_rodoma: |
-    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
-    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
-    Kodeksas rašytas XVI a.
+  citata_rodoma: "Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios\nbibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.\nKodeksas rašytas XVI a."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170299
+    - t-019
+
 - id: c-154971
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -775,16 +724,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
     tųjų pajėgų. 1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
     kur pasirašė 100 mln. markių paskolą ginklams įsigyti.
-  citata_rodoma: |
-    1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
-    kur pasirašė 100 mln. markių paskolą ginklams įsigyti.
+  citata_rodoma: "1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną, \nkur pasirašė 100 mln. markių paskolą ginklams įsigyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170303
+    - t-008
+
 - id: c-154972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -799,21 +747,15 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla.
-  citata_rodoma: |
-    ),
-    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
-    tauto Sirvydžio kardiochirurgijos mokykla.
+  citata_rodoma: "), \nolimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-\npionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), \nboksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo \ngarsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis. \nŠiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-\ntauto Sirvydžio kardiochirurgijos mokykla."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170288
+    - t-013
+
 - id: c-154973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -830,6 +772,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170291
+    - t-002
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

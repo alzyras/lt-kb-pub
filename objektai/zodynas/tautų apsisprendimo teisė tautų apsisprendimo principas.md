@@ -37,8 +37,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 ## Teiginiai
 
 <a id="claim-t-101611"></a>
-- t-001
-  global_id: t-101611
+- t-003
   teiginys: "1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -56,9 +55,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   pagrindžia:
     - c-25015
 
-<a id="claim-t-101615"></a>
-- t-003
-  global_id: t-101615
+<a id="claim-t-101612"></a>
+- t-005
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-25016
 
 <a id="claim-t-101613"></a>
-- t-004
-  global_id: t-101613
+- t-002
   teiginys: "Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
   atnaujinta: "2026-05-31 12:11"
   sprendimo_priezastis: "auto"
@@ -93,25 +90,16 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-25014
 
 <a id="claim-t-101614"></a>
-- t-005
-  global_id: t-101614
+- t-001
   teiginys: "Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-25013
+    - c-166872
 
 <a id="claim-t-183477"></a>
 - t-006
-  global_id: t-183477
   teiginys: "Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -132,7 +120,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 
 <a id="claim-t-183478"></a>
 - t-007
-  global_id: t-183478
   teiginys: "1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -153,14 +140,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   pagrindžia:
     - c-166873
 
-<a id="claim-t-101613"></a>
-- t-002
-  global_id: t-905968933
-  teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda nutrūkusiu šaltinio fragmentu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija'
-  pagrindžia:
-    - c-25016
 ## Citatos
 
 - id: c-25013
@@ -178,15 +157,13 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
     kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
     Suvalkų ir Gardino gubernijose, dalis Kuršo.
-  citata_rodoma: |
-    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+  citata_rodoma: "kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-101614
 - id: c-25014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,15 +179,15 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     du ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietu-
     va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
     visi buvę valstybiniai ryšiai su kitomis valstybėmis.
-  citata_rodoma: |
-    va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
+  citata_rodoma: "va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101613
+    - t-002
+
 - id: c-25015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -228,15 +205,15 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
-  citata_rodoma: |
-    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+  citata_rodoma: "Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101611
+    - t-003
+
 - id: c-25016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -250,20 +227,15 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
-  citata_rodoma: |
-    Prancūzija Žoržo B. Klemanso
-    (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
-    nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada
-    buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
-    jūrą.
+  citata_rodoma: "Prancūzija Žoržo B. Klemanso \n(Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai \nnepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada \nbuvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į \njūrą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101615
-    - t-002
+    - t-005
+
 - id: c-166872
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -286,7 +258,9 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183477
+    - t-001
+    - t-006
+
 - id: c-166873
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -308,4 +282,4 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183478
+    - t-007

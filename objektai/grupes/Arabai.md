@@ -31,7 +31,6 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 
 <a id="claim-t-35575"></a>
 - t-001
-  global_id: t-35575
   teiginys: "Prie romano buvo pridėtas trumpas geografinis ir istorinis paaiškinimas apie arabus, turkus, kurdus ir kitas tauteles."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,16 +78,11 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
     liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
     pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
     se būta.
-  citata_rodoma: |
-    Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­
-    aiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­
-    liestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su
-    pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
-    se būta.
+  citata_rodoma: "Prie romano pridėta: 1. trumpas geografiškas ir istoriškas pa­\naiškinimas apie arabus, turkus, kurdus ir kitas šiame romane pa­\nliestas tauteles; 2. nesuprantamu žodžiu žodynėlis ir 3. žemėlapis su\npažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­\nse būta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35575
+    - t-001

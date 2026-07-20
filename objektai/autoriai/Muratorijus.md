@@ -38,7 +38,6 @@ Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nur
 
 <a id="claim-t-191682"></a>
 - t-001
-  global_id: t-191682
   teiginys: "Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nurodytos kaip aptariamos temos pagrindas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191682
+    - t-001

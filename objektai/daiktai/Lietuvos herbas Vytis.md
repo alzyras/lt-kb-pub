@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-77927"></a>
 - t-001
-  global_id: t-77927
   teiginys: "1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77927
+    - t-001

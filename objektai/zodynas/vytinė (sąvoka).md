@@ -33,7 +33,6 @@ Tai tikriausiai vytinė.
 
 <a id="claim-t-201767"></a>
 - t-001
-  global_id: t-201767
   teiginys: "Tai tikriausiai vytinė."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Tai tikriausiai vytinė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201767
+    - t-001

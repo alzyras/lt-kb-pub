@@ -30,7 +30,6 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
 
 <a id="claim-t-186329"></a>
 - t-001
-  global_id: t-186329
   teiginys: "Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -49,12 +48,10 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
   pagrindžia:
     - c-169690
 
-## Citatos
-
-- id: c-169690
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėjimo ir raginęs Eleną pereiti į Romos tikėjimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandro pasiuntiniai Stanislovas Strumila
     Petravičius, Smolensko vietininkas, ir Fiodoras Grigo-
@@ -83,7 +80,19 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
     pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio
     bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas
     į globą.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-169690
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Aleksandras kol kas laikėsi nuomonės,
     559
 
@@ -105,10 +114,11 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
     dras nieko iš savo valdinių (netgi ir žmonos Elenos)
     prievarta bei grasinimais nėra vertęs atsisakyti pro­
     tėvių tikėjimo.
+  citata_rodoma: "Aleksandras kol kas laikėsi nuomonės,\n559\n\n## Puslapis 558\n\njog tirono įsiūtį galima numalšinti per pasiunti-l\nnius, todėl liepė Trakų vaivadai Zaberezinskiui šitai pi\natsakyti Ivano žygūnui. Esą po Florencijoje sudarytos\nRytų ir Vakarų bažnyčių unijos, kai visi Rytų patriar­\nchai ir Bizantijos imperatorius pripažino Romos po­\npiežių aukščiausiąja krikščioniškojo tikėjimo galva,\nAleksandras, remdamasis senaisiais Lietuvos įstatymais,\nrūpinęsis, kad jo valdose gyvenantys rusai irgi prisi­\ndėtų prie šios santarvės. Taigi Ivanas visai be pagrin­\ndo įsižeidęs dėl tų jo darbų, kuriuos sutartinai remia\nvisi krikščionys ir Nifonas, Konstantinopolio patriar­\nchas (kuriam ir Rusia sakosi esanti pavaldi), laišku,\nparašytu Kijevo vyskupui, ypač dėl to, kad Aleksan­\ndras nieko iš savo valdinių (netgi ir žmonos Elenos)\nprievarta bei grasinimais nėra vertęs atsisakyti pro­\ntėvių tikėjimo."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186329
+    - t-001

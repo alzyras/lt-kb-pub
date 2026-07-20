@@ -39,7 +39,6 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
 
 <a id="claim-t-191667"></a>
 - t-001
-  global_id: t-191667
   teiginys: "Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivoluzioni d’Italia“ autorius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191667
+    - t-001

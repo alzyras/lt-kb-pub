@@ -7,12 +7,12 @@ datos:
   - '1431 m.'
 date_start: '1431'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,6 @@ media_all_json: |-
 
 <a id="claim-t-202098"></a>
 - t-001
-  global_id: t-202098
   teiginys: "Štai 1431 m. Kauno seniūnas buvo vienos iš iškiliausių Lietuvos giminių narys Sudivojus Valmantaitis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202098
+    - t-001

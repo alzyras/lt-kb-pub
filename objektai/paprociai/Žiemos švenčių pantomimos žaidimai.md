@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Žiemos švenčių pantomimos žaidimai
 
 ## Santrauka
@@ -46,9 +47,8 @@ Nenurodyta
 
 <a id="claim-t-189887"></a>
 - t-001
-  global_id: t-189887
   teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 23:53"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,10 +57,10 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172770
-    - c-001
+    - c-172771
+
 <a id="claim-t-189888"></a>
 - t-002
-  global_id: t-189888
   teiginys: "Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -72,26 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-172771
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
-    (Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­
-    dimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę
-    pantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­
-    rikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­
-    mėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­
-    tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
-    siai -  čia yra visa, ką gali mimo fantazija.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189887
 ## Citatos
 
 - id: c-172770
@@ -99,16 +79,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Linų ūkis Lietuvoje yra žilos senovės paminklas. Atrodo,
-    šis vertingiausias augalas, kaip jį pavadino Linėjus , kaip lau­
-    kinis augąs Egipte, antrąja savo tėvyne pasirinko Lietuvos že­
-    mę, kurioje gimsta daug kilnesnis negu kur nors kitur; taip pat
-    mokėjimas juos puoselėti ir auginti siekia tolimiausias lietu­
-    vių tautos epochas. Kur tik buvo tos giminės žmonių, ten ma­
-    tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­
-    nas, rašantis apie langobardų praeitį, sako, kad pas herulus
-    matęs žaliuojančius linų laukus .
-  citata_rodoma: |
     Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
     (Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­
     dimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę
@@ -117,13 +87,15 @@ Nenurodyta
     mėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­
     tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
     siai -  čia yra visa, ką gali mimo fantazija.
+  citata_rodoma: "Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius\n(Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­\ndimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę\npantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­\nrikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­\nmėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­\ntis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­\nsiai -  čia yra visa, ką gali mimo fantazija."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189887
+    - t-001
+
 - id: c-172771
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -146,4 +118,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189888
+    - t-001
+    - t-002

@@ -31,7 +31,6 @@ surašytas Ostromiro ir Turovo evangelijas.
 
 <a id="claim-t-21287"></a>
 - t-001
-  global_id: t-21287
   teiginys: "Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,12 +59,11 @@ surašytas Ostromiro ir Turovo evangelijas.
     miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip
     antai „kreščenije“ (krikštas) ar „božnica“ (bažnyčia), atėjo į lietuvių kalbą
     ne iš Vakarų, o iš Rusios.
-  citata_rodoma: |
-    miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip
+  citata_rodoma: "miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-21287
+    - t-001

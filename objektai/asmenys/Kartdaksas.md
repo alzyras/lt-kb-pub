@@ -31,7 +31,6 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 
 <a id="claim-t-191429"></a>
 - t-001
-  global_id: t-191429
   teiginys: "Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -49,26 +48,7 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174311
-    - c-001
 - susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191954|Jordanas]]: Narbutas Jordano aprašymus laikė svarbiais alanams, nes Jordanas, būdamas gotas, esą gerai pažinojo alanus per savo senelio ryšius.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Taip pat yra įrodymų, jog alanai buvo susi­
-    giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­
-    šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,
-    būdamas gotas, gerai pažinojo alanus, — jo senelis bu­
-    vo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-
-    !
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191429
 ## Citatos
 
 - id: c-174311
@@ -76,24 +56,17 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Vėlesnių istorinių dalykų tyrinė­
-    tojai supažindina mus su alanais. Erbelotas* mini vieną
-    alanų karaliuką, viešpatavusį savo genties ordoje, kuri
-    klajojo kažkur į šiaurę nuo Derbento1. Čingischano va­
-    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
-    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
-    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2.
-  citata_rodoma: |
     Taip pat yra įrodymų, jog alanai buvo susi­
     giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­
     šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,
     būdamas gotas, gerai pažinojo alanus, — jo senelis bu­
     vo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-
     !
+  citata_rodoma: "Taip pat yra įrodymų, jog alanai buvo susi­\ngiminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­\nšymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,\nbūdamas gotas, gerai pažinojo alanus, — jo senelis bu­\nvo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-\n!"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191429
+    - t-001

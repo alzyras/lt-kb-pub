@@ -39,7 +39,6 @@ Bagdanavičius, V.
 
 <a id="claim-t-31021"></a>
 - t-001
-  global_id: t-31021
   teiginys: "V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,13 +69,11 @@ Bagdanavičius, V.
     LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
     lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
     5, 53-59 p. - HPol, t. 1, d. 2, p. 7-27.
-  citata_rodoma: |
-    Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas
-    LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p.
+  citata_rodoma: "Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas\nLTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31021
+    - t-001

@@ -38,7 +38,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 
 <a id="claim-t-30729"></a>
 - t-001
-  global_id: t-30729
   teiginys: "K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 
 <a id="claim-t-30731"></a>
 - t-002
-  global_id: t-30731
   teiginys: "K. Chodynicki gynė Gedimino laiškų autentiškumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -87,19 +85,15 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
-  citata_rodoma: |
-    Lenkai
-    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
-    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
-    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
-    Ivinskis).
+  citata_rodoma: "Lenkai\nir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­\nkiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus\nrygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.\nIvinskis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30731
+    - t-002
+
 - id: c-32990
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -116,13 +110,11 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: |
-    — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,
-    1926, 541-566 p.
+  citata_rodoma: "— Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,\n1926, 541-566 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30729
+    - t-001

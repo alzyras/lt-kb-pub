@@ -7,10 +7,10 @@ datos:
   - '1600 m.'
 date_start: '1600'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
 
 <a id="claim-t-201881"></a>
 - t-001
-  global_id: t-201881
   teiginys: "Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos miestų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201881
+    - t-001

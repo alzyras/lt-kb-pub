@@ -34,7 +34,6 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
 
 <a id="claim-t-86233"></a>
 - t-001
-  global_id: t-86233
   teiginys: "Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -51,8 +50,7 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
     - c-82212
 
 <a id="claim-t-185138"></a>
-- t-002
-  global_id: t-185138
+- t-003
   teiginys: "Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86233
+    - t-001
+
 - id: c-168499
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -125,7 +124,8 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185138
+    - t-003
+
 ## Ryšiai
 - Užėmė Seversko Naugardą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Seversko kunigaikščiai]]

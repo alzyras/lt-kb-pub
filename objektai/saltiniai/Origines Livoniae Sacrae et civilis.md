@@ -36,7 +36,6 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
 
 <a id="claim-t-192548"></a>
 - t-001
-  global_id: t-192548
   teiginys: "Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą kaip alanų ir masagetų kaimynus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192548
+    - t-001

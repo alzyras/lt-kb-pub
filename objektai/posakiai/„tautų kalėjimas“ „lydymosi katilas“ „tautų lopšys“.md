@@ -31,7 +31,6 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 
 <a id="claim-t-20952"></a>
 - t-001
-  global_id: t-20952
   teiginys: "LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas“, o kaip „tautų lopšys“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 
 <a id="claim-t-183511"></a>
 - t-002
-  global_id: t-183511
   teiginys: "LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -87,5 +85,5 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20952
-    - t-183511
+    - t-001
+    - t-002

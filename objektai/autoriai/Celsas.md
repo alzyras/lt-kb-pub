@@ -26,25 +26,11 @@ media_all_json: |-
 
 Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjimą amžinomis bausmėmis po mirties.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190419"></a>
-- t-001
-  global_id: t-190419
-  teiginys: 'Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjimą amžinomis bausmėmis po mirties.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Celsas įvardytas kaip sakinio subjektas, o Origenas paliktas kaip tarpinis šaltinis. Nepridėta platesnė Narbuto moralės ir paslapčių apeigų interpretacija.'
-  pagrindžia:
-    - c-173302
-- susijęs iš [[objektai/asmenys/Origenas.md#claim-t-190193|Origenas]]: Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.
-## Citatos
-
-- id: c-173302
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjimą amžinomis bausmėmis po mirties.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Vis dėlto Eleusino, Cereros, Bakcho, Gerosios deivės,
     Hekatės, dievų Kabirų paslaptys turėjo išganingą ir išmintin­
@@ -63,10 +49,12 @@ Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjim
     rengimus, tačiau tik pašvęstiems žmonėms, tai yra patyrusiems,
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190419
+  statusas: verified
+
+## Teiginiai
+
+- susijęs iš [[objektai/asmenys/Origenas.md#claim-t-190193|Origenas]]: Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.

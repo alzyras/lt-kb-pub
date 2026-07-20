@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-91914"></a>
 - t-001
-  global_id: t-91914
   teiginys: "Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -114,4 +113,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91914
+    - t-001

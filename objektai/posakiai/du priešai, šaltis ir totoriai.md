@@ -35,8 +35,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 ## Teiginiai
 
 <a id="claim-t-11660"></a>
-- t-001
-  global_id: t-11660
+- t-002
   teiginys: "Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -68,17 +67,11 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: |
-    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
-    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
+  citata_rodoma: "Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,\ndažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11660
+    - t-002

@@ -30,8 +30,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 ## Teiginiai
 
 <a id="claim-t-189177"></a>
-- t-001
-  global_id: t-189177
+- t-002
   teiginys: "Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -45,9 +44,8 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
 
 <a id="claim-t-189178"></a>
 - t-003
-  global_id: t-189178
   teiginys: "Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +61,7 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172066
-    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso gėrio ir gyvybės teikėją.'
@@ -81,30 +79,9 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
     dėl vardų priklausantys vyriškai giminei, buvo Saulės sūnūs.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-- c-003
-  santrauka: 'Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
-    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
-    Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
-    Saules majtaszana, Saulės gadinimu. Tuomet kiekvieną būty­
-    bę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki
-    šiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta
-    diena, ir pasaulis nugrims tamsoje.
-    Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
-    Svaistiką, arba Santvarą, kaip graikai -  Apoloną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189178
 ## Citatos
 
 - id: c-172065
@@ -127,24 +104,13 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189177
+    - t-002
+
 - id: c-172066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
-    perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami
-    Lėlės (Lela) ir Mėnulės (Menula) vardais.
-    Vyskupo Petro rankraštyje yra tokia užuomina apie lietu­
-    vių tikėjimo suasmenintus reikšmingiausius dangaus kūnus:
-    „Tarp tos prigimties dievų po Saulės pirmą vietą pripažįsta
-    Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
-    nelia. Jis valdė naktį ir todėl matavo laiką“.
-    Aušra (Aussra)
-    Tekančios saulės tarnaitė, kaip jau pabrėžėme aukščiau ati­
-    tinkamame straipsnyje.
-  citata_rodoma: |
     Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
     jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
     Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
@@ -154,10 +120,11 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
     diena, ir pasaulis nugrims tamsoje.
     Vėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino
     Svaistiką, arba Santvarą, kaip graikai -  Apoloną.
+  citata_rodoma: "Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­\njai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir\nSaulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba\nSaules majtaszana, Saulės gadinimu. Tuomet kiekvieną būty­\nbę apimdavo baimė, kad mieloji Saulė nebūtų sunaikinta. Iki\nšiol to neįvyko, tačiau, pasak pranašavimo, kada nors ateis ta\ndiena, ir pasaulis nugrims tamsoje.\nVėliau, mitologijai pakitus, lietuviai vietoj Saulės garbino\nSvaistiką, arba Santvarą, kaip graikai -  Apoloną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189178
+    - t-003

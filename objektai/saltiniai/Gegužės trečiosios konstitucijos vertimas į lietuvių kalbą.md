@@ -31,7 +31,6 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 
 <a id="claim-t-75446"></a>
 - t-001
-  global_id: t-75446
   teiginys: "Gegužės trečiosios konstitucija buvo išversta į lietuvių kalbą tuo metu, kai lietuviškai daugiausia buvo religinių ir grožinių tekstų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 
 <a id="claim-t-75447"></a>
 - t-002
-  global_id: t-75447
   teiginys: "Gegužės trečiosios konstitucijos vertimas buvo pirmasis politinis ir teisinis dokumentas lietuvių kalba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,18 +75,15 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
     tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
     kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
     literatūros tekstų.
-  citata_rodoma: |
-    Neatsitiktinai tuo metu konsti-
-    tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
-    kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
-    literatūros tekstų.
+  citata_rodoma: "Neatsitiktinai tuo metu konsti-\ntucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos\nkultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės\nliteratūros tekstų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75446
+    - t-001
+
 - id: c-73228
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,4 +102,4 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75447
+    - t-002

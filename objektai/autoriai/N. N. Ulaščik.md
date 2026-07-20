@@ -38,7 +38,6 @@ Ulaščik, Maskva 1966.
 
 <a id="claim-t-30872"></a>
 - t-001
-  global_id: t-30872
   teiginys: "N. N. Ulaščik 1966 m. Maskvoje išleido Bychovco kroniką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,12 +63,11 @@ Ulaščik, Maskva 1966.
   citata_originali: |
     Wien 1955.
     UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.
-  citata_rodoma: |
-    UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.
+  citata_rodoma: "UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30872
+    - t-001

@@ -31,8 +31,7 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
 ## Teiginiai
 
 <a id="claim-t-197487"></a>
-- t-001
-  global_id: t-197487
+- t-003
   teiginys: "Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197487
+    - t-003

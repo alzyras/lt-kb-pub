@@ -37,7 +37,6 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
 
 <a id="claim-t-32088"></a>
 - t-001
-  global_id: t-32088
   teiginys: "Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,17 +66,11 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
     šio seminaro bendradarbiams. Lygiai taip pat nuoširdi autoriaus
     padėka kolegoms ir artimiems prieteliams, kurie jam yra parūpinę
     mikrofilmų, reikalingų xeroxų ir šiaip jau talkinę.
-  citata_rodoma: |
-    Didelę dalį
-    knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos
-    istorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju
-    šio seminaro bendradarbiams. Lygiai taip pat nuoširdi autoriaus
-    padėka kolegoms ir artimiems prieteliams, kurie jam yra parūpinę
-    mikrofilmų, reikalingų xeroxų ir šiaip jau talkinę.
+  citata_rodoma: "Didelę dalį\nknygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos\nistorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju\nšio seminaro bendradarbiams. Lygiai taip pat nuoširdi autoriaus\npadėka kolegoms ir artimiems prieteliams, kurie jam yra parūpinę\nmikrofilmų, reikalingų xeroxų ir šiaip jau talkinę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32088
+    - t-001

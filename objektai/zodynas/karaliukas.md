@@ -49,7 +49,6 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 
 <a id="claim-t-192246"></a>
 - t-001
-  global_id: t-192246
   teiginys: "Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -64,10 +63,10 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-002
+    - c-175087
+
 <a id="claim-t-192247"></a>
-- t-002
-  global_id: t-192247
+- t-003
   teiginys: "Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -83,10 +82,9 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175086
-    - c-001
+
 <a id="claim-t-192562"></a>
-- t-003
-  global_id: t-192562
+- t-005
   teiginys: "Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -105,7 +103,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175343
-    - c-175087
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -122,8 +120,6 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192247
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -138,8 +134,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192246
+
 ## Citatos
 
 - id: c-175086
@@ -147,26 +142,18 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Turbūt pirmasis buvo pernelyg senas tam, kad būtų tė­
-    vas Odoakro, kuris, tai žinoma iš Kasiodoro raštų, buvo
-    nepalyginti jaunesnis už Valamiro sūnų — ostrogotų ka­
-    1 K. Sirvydo žodynas. P. 339. Senovės rašytojai, tokie kaip Pro-
-    kopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
-    mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie­
-    tuvių kalboje, nė vienoje jos tarmėje, raidė „f" nėra žinoma. Lietu­
-    vis, nuo pat gimimo pripratęs prie savo kalbos, nemoka ištarti šio
-    garso. Pavyzdžiui, žodį „falszyay" jis taria „palszymy“*.
-  citata_rodoma: |
     Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
     mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-
     tuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma.
+  citata_rodoma: "Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-\nmut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-\ntuvių kalboje, nė vienoje jos tarmėje, raidė „f“ nėra žinoma."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192247
+    - t-003
+
 - id: c-175087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,31 +166,20 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
     galbos iš Konstantinopolio.
-  citata_rodoma: |
-    Įvairiose šalyse atsirado įvairių imperatorių ir barbarų karaliukų.
+  citata_rodoma: "Įvairiose šalyse atsirado įvairių imperatorių ir barbarų karaliukų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192562
+    - t-001
+
 - id: c-175343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Įvairiose šalyse atsirado
-    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
-    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
-    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
-    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
-    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
-    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
-    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
-    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
-    Augustulą.
-  citata_rodoma: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko
     vieningos imperijos valdžios. Įvairiose šalyse atsirado
@@ -211,10 +187,11 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
     galbos iš Konstantinopolio.
+  citata_rodoma: "Ne­\ntrukus Ricimeras atsikratė Majorijano, o kartu neteko\nvieningos imperijos valdžios. Įvairiose šalyse atsirado\nįvairių imperatorių ir barbarų karaliukų. Imperatoriaus\nsosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­\ndarė beveik vien Italija, vadovu Severą ir šaukėsi pa­\ngalbos iš Konstantinopolio."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192562
+    - t-005

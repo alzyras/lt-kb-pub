@@ -31,7 +31,6 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
 
 <a id="claim-t-191364"></a>
 - t-001
-  global_id: t-191364
   teiginys: "Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -50,31 +49,7 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174246
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    89
 
-    ## Puslapis 87
-
-    74
-    Apie 215 metus labai daug gotų persikėlė į kairiąją
-    Dnepro pakrantę, kur tuomet gyveno nuo romėnų nepri­
-    klausomi dakai. Gotus valdė karingas ir iškilus karalius
-    Amalas. Tai, be abejonės, jis davė pradžią savo tautos
-    genčių lygai, kuri, laikui bėgant, sudarė Rytuose milži­
-    nišką ostrogotų galybę. Šio karaliaus vaikaitis ir įpėdi­
-    nis pirmasis surengė garsesnius imperijos antpuolius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191364
 ## Citatos
 
 - id: c-174246
@@ -94,25 +69,14 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
     genčių lygai, kuri, laikui bėgant, sudarė Rytuose milži­
     nišką ostrogotų galybę. Šio karaliaus vaikaitis ir įpėdi­
     nis pirmasis surengė garsesnius imperijos antpuolius.
-  citata_rodoma: |
-    89
-
-    ## Puslapis 87
-
-    74
-    Apie 215 metus labai daug gotų persikėlė į kairiąją
-    Dnepro pakrantę, kur tuomet gyveno nuo romėnų nepri­
-    klausomi dakai. Gotus valdė karingas ir iškilus karalius
-    Amalas. Tai, be abejonės, jis davė pradžią savo tautos
-    genčių lygai, kuri, laikui bėgant, sudarė Rytuose milži­
-    nišką ostrogotų galybę. Šio karaliaus vaikaitis ir įpėdi­
-    nis pirmasis surengė garsesnius imperijos antpuolius.
+  citata_rodoma: "89\n\n## Puslapis 87\n\n74\nApie 215 metus labai daug gotų persikėlė į kairiąją\nDnepro pakrantę, kur tuomet gyveno nuo romėnų nepri­\nklausomi dakai. Gotus valdė karingas ir iškilus karalius\nAmalas. Tai, be abejonės, jis davė pradžią savo tautos\ngenčių lygai, kuri, laikui bėgant, sudarė Rytuose milži­\nnišką ostrogotų galybę. Šio karaliaus vaikaitis ir įpėdi­\nnis pirmasis surengė garsesnius imperijos antpuolius."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191364
+    - t-001
+
 ## Ryšiai
 - Amalas buvo valdovas [[objektai/grupes/Gotai]]

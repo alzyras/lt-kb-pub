@@ -45,28 +45,25 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 ## Teiginiai
 
 <a id="claim-t-70059"></a>
-- t-001
-  global_id: t-70059
+- t-007
   teiginys: "`Valdymierai` šiame tekste reiškia tautų valdovus."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09756
-
-<a id="claim-t-70060"></a>
-- t-002
-  global_id: t-70060
-  teiginys: "`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09754
 
+<a id="claim-t-70060"></a>
+- t-005
+  teiginys: "`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį."
+  atnaujinta: "2026-07-19 16:57"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-09756
+
 <a id="claim-t-70061"></a>
-- t-003
-  global_id: t-70061
+- t-008
   teiginys: "Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -75,8 +72,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - c-09756
 
 <a id="claim-t-200959"></a>
-- t-004
-  global_id: t-200959
+- t-009
   teiginys: "Ditrichas, noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet rado jau tenai siuntinius padaugavionų, telkiančius valdymierą jiems padėti vokyčius per jūrą varyti laukan iš Padaugavio, guosdamies jam, jog Alber tas su meldžionimis, danguodamos savo tikyba."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -101,7 +97,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70060
+    - t-007
+
 - id: c-09756
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -114,11 +111,13 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70059
-    - t-70061
+    - t-005
+    - t-008
+
 - id: c-184309
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ditrichas,
     noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet
@@ -138,4 +137,4 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200959
+    - t-009

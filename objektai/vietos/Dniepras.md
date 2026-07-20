@@ -44,8 +44,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 ## Teiginiai
 
 <a id="claim-t-97822"></a>
-- t-001
-  global_id: t-97822
+- t-018
   teiginys: "1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,7 +64,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 
 <a id="claim-t-97823"></a>
 - t-002
-  global_id: t-97823
   teiginys: "Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-92257
 
 <a id="claim-t-97825"></a>
-- t-003
-  global_id: t-97825
+- t-007
   teiginys: "Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -103,7 +100,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 
 <a id="claim-t-97826"></a>
 - t-004
-  global_id: t-97826
   teiginys: "Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -118,9 +114,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-37335
 
-<a id="claim-t-97838"></a>
-- t-005
-  global_id: t-97838
+<a id="claim-t-97827"></a>
+- t-027
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -137,8 +132,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-46480
 
 <a id="claim-t-97828"></a>
-- t-006
-  global_id: t-97828
+- t-011
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -153,9 +147,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-43402
 
-<a id="claim-t-97833"></a>
-- t-007
-  global_id: t-97833
+<a id="claim-t-97829"></a>
+- t-024
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -175,8 +168,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-92254
 
 <a id="claim-t-97830"></a>
-- t-008
-  global_id: t-97830
+- t-026
   teiginys: "Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -194,9 +186,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-46481
 
-<a id="claim-t-97843"></a>
-- t-009
-  global_id: t-97843
+<a id="claim-t-97831"></a>
+- t-025
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -213,11 +204,11 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibendrina citatoje minimą Algirdo pergalės rezultatą."
   pagrindžia:
-    - c-92246
     - c-92257
+    - c-92246
+
 <a id="claim-t-97832"></a>
-- t-010
-  global_id: t-97832
+- t-022
   teiginys: "Vytauto remiamas Kijevas Dniepro upe susisiekė su Juodąja jūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,8 +224,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-37336
 
 <a id="claim-t-97834"></a>
-- t-011
-  global_id: t-97834
+- t-023
   teiginys: "Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -252,7 +242,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 
 <a id="claim-t-97835"></a>
 - t-012
-  global_id: t-97835
   teiginys: "Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -268,8 +257,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-43403
 
 <a id="claim-t-97836"></a>
-- t-013
-  global_id: t-97836
+- t-019
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -285,8 +273,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-43402
 
 <a id="claim-t-97837"></a>
-- t-014
-  global_id: t-97837
+- t-003
   teiginys: "Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -302,8 +289,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-32014
 
 <a id="claim-t-97839"></a>
-- t-015
-  global_id: t-97839
+- t-020
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -320,8 +306,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-92255
 
 <a id="claim-t-97841"></a>
-- t-016
-  global_id: t-97841
+- t-006
   teiginys: "Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -338,8 +323,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-37337
 
 <a id="claim-t-97842"></a>
-- t-017
-  global_id: t-97842
+- t-005
   teiginys: "Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -355,8 +339,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-37336
 
 <a id="claim-t-97844"></a>
-- t-018
-  global_id: t-97844
+- t-016
   teiginys: "Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -373,8 +356,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-92255
 
 <a id="claim-t-97845"></a>
-- t-019
-  global_id: t-97845
+- t-021
   teiginys: "Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -390,8 +372,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-37335
 
 <a id="claim-t-183011"></a>
-- t-020
-  global_id: t-183011
+- t-028
   teiginys: "Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -410,8 +391,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-166404
 
 <a id="claim-t-183782"></a>
-- t-021
-  global_id: t-183782
+- t-001
   teiginys: "Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -582,21 +562,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
     gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
     švaistę.
-  citata_rodoma: |
-    Jis
-    du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)
-    prasideda ».
-    Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
-    gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
-    švaistę.
+  citata_rodoma: "Jis\ndu kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)\nprasideda ».\nNuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba\ngintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­\nšvaistę."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97825
-    - t-97837
+    - t-007
+    - t-003
+
 - id: c-37335
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -614,20 +589,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
-  citata_rodoma: |
-    Geografinė jo didingos valstybės būklė prekybai buvo gana
-    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
-    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
-    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
-    anų laikų prekybos centrai, kaip D.
+  citata_rodoma: "Geografinė jo didingos valstybės būklė prekybai buvo gana\npatogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­\nriomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,\nDniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie\nanų laikų prekybos centrai, kaip D."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97826
-    - t-97845
+    - t-004
+    - t-021
+
 - id: c-37336
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -644,21 +615,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
-  citata_rodoma: |
-    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
-    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
-    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
-    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
-    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
-    cijos pirkliai.
+  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97832
-    - t-97842
+    - t-022
+    - t-005
+
 - id: c-37337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -673,20 +639,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: |
-    Kai ant Dniepro
-    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
-    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
-    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
-    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
+  citata_rodoma: "Kai ant Dniepro\nsaviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,\nVytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,\ngausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės\napie mus, kad mus nugalėjo du priešai: šaltis ir totoriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97834
-    - t-97841
+    - t-023
+    - t-006
+
 - id: c-43402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -711,28 +673,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Vorsklos, prie Ordos valdų pari-
     bių, susitiko su Aukso ordos chano
     Timūr-Kutluko kariuomene.
-  citata_rodoma: |
-    Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
+  citata_rodoma: "Rugpjūčio\npradžioje kariuomenė, persikėlusi per\nDnieprą, jo kairiuoju krantu patraukė į\n\nŠarvinių\npirštinių\nrekonstrukcija\n\nstepes, kur laukė prie\nkairiojo Dniepro intako\nVorsklos, prie Ordos valdų pari-\nbių, susitiko su Aukso ordos chano\nTimūr-Kutluko kariuomene."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97828
-    - t-97836
+    - t-011
+    - t-019
+
 - id: c-43403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -746,22 +696,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
-  citata_rodoma: |
-    Jodami stepėmis tarp
-    Lietuvos ir Maskvos valdų jie kasdien su-
-    kardavo maždaug po 25 km ir per 50 dienų
-    įveikė apie 900 km atstumą. Ties Lojevu jie
-    persikėlė į dešinįjį Dniepro krantą ir pa-
-    spartinę žygio tempą pasileido tiesiai va-
-    karų kryptimi Mozyriaus ir Slucko link.
-    Galiausiai apie liepos 20-22 d.
+  citata_rodoma: "Jodami stepėmis tarp\nLietuvos ir Maskvos valdų jie kasdien su-\nkardavo maždaug po 25 km ir per 50 dienų\nįveikė apie 900 km atstumą. Ties Lojevu jie\npersikėlė į dešinįjį Dniepro krantą ir pa-\nspartinę žygio tempą pasileido tiesiai va-\nkarų kryptimi Mozyriaus ir Slucko link.\nGaliausiai apie liepos 20-22 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97835
+    - t-012
+
 - id: c-46480
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -773,18 +716,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     upyno kunigaikštystes — Brianską, Trubčevską, Nau-
     gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
     atiduotos valdyti Algirdo sūnums ar brolėnams.
-  citata_rodoma: |
-    Čia jis užėmė visas Dniepro ir Desnos
-    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
-    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
-    atiduotos valdyti Algirdo sūnums ar brolėnams.
+  citata_rodoma: "Čia jis užėmė visas Dniepro ir Desnos\nupyno kunigaikštystes — Brianską, Trubčevską, Nau-\ngardą Sieverską, ir kt. Visos tos kunigaikštystės buvo\natiduotos valdyti Algirdo sūnums ar brolėnams."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97838
+    - t-027
+
 - id: c-46481
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -801,7 +741,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97830
+    - t-026
+
 - id: c-92246
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -815,18 +756,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: |
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
-    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+  citata_rodoma: "Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų\nVandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo\nne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį\nDniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje\nPodolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
 - id: c-92252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -847,24 +785,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     surinkęs didelę kariuomenę, pa-
     skelbęs su ja einąs prieš Timūr-
     Aksaką.
-  citata_rodoma: |
-    su-
-    mušė Didžiosios ordos chaną
-    Tochtamišą, išvijo jį iš savo
-    valdų, pasiekė Riazanės kuni-
-    gaikštystę, sustojo Dono regi-
-    one. Jo vadai pasiekė Dnieprą.
-    Lietuvos valdovas Vytautas,
-    surinkęs didelę kariuomenę, pa-
-    skelbęs su ja einąs prieš Timūr-
-    Aksaką.
+  citata_rodoma: "su-\nmušė Didžiosios ordos chaną\nTochtamišą, išvijo jį iš savo\nvaldų, pasiekė Riazanės kuni-\ngaikštystę, sustojo Dono regi-\none. Jo vadai pasiekė Dnieprą.\nLietuvos valdovas Vytautas,\nsurinkęs didelę kariuomenę, pa-\nskelbęs su ja einąs prieš Timūr-\nAksaką."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97822
+    - t-018
+
 - id: c-92254
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -875,17 +804,15 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357
     m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
     plotus Desnos baseine.
-  citata_rodoma: |
-    Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357
-    m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
-    plotus Desnos baseine.
+  citata_rodoma: "Tad Algirdas sėkmingai išnaudojo totorių silpnumą. Jau nuo 1357\nm. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius\nplotus Desnos baseine."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97833
+    - t-024
+
 - id: c-92255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -905,19 +832,16 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
     Žr. M i c h a 1  o n i s Lit. de Morib.
-  citata_rodoma: |
-    Lietuvių Tavano pilyje, sto­
-    vinčioje prie Dniepro, Vytautas įstei­
-    gė muitinę, vadintą Vytauto pirtimi.
-    Žr.
+  citata_rodoma: "Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi.\nŽr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97839
-    - t-97844
+    - t-020
+    - t-016
+
 - id: c-92257
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -939,8 +863,9 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97823
-    - t-97843
+    - t-002
+    - t-025
+
 - id: c-166404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -957,7 +882,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183011
+    - t-028
+
 - id: c-167170
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -978,4 +904,4 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183782
+    - t-001

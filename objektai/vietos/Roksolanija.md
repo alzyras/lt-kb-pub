@@ -31,7 +31,6 @@ Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per 
 
 <a id="claim-t-192896"></a>
 - t-001
-  global_id: t-192896
   teiginys: "Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192896
+    - t-001

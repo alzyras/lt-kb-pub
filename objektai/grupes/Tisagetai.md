@@ -32,7 +32,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 
 <a id="claim-t-192962"></a>
 - t-001
-  global_id: t-192962
   teiginys: "Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į šiaurę nuo gelonų ir budinų krašto gyveno tisagetai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 
 <a id="claim-t-192963"></a>
 - t-002
-  global_id: t-192963
   teiginys: "Narbutas rašo, kad tisagetai maistui ir gėrimui vartojo kumelių pieną, galbūt sekdami budinais."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -103,7 +101,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192962
+    - t-001
+
 - id: c-175733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -124,4 +123,4 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192963
+    - t-002

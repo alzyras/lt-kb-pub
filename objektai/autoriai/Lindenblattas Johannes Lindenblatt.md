@@ -40,8 +40,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 ## Teiginiai
 
 <a id="claim-t-87976"></a>
-- t-001
-  global_id: t-87976
+- t-005
   teiginys: "Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 
 <a id="claim-t-87977"></a>
 - t-002
-  global_id: t-87977
   teiginys: "Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-83954
 
 <a id="claim-t-87978"></a>
-- t-003
-  global_id: t-87978
+- t-004
   teiginys: "Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,8 +88,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-83958
 
 <a id="claim-t-87979"></a>
-- t-004
-  global_id: t-87979
+- t-003
   teiginys: "Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +104,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-83955
 
 <a id="claim-t-87980"></a>
-- t-005
-  global_id: t-87980
+- t-001
   teiginys: "Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -143,7 +138,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87977
+    - t-002
+
 - id: c-83955
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,33 +169,15 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     jetszige Bobie, nordwestlich von Kow­
     no) p. 82, dėl to pavadinimo galima
     būtų nedvejoti.
-  citata_rodoma: |
-    Kryžiuočiai, Kauno keliu
-    priėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo
-    degėsių vietoje, palei aukštą statinių tvorą, juosusią miestą -
-    netoli nuo Švč. Mergelės Marijos bažnyčios Smėlynėje ir pran­
-    ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­
-    siruošusias tvirtoves, antra, numanydami, jog bus neįma-
-    43
-    Lindenblatto kronikoje yra -
-    Boparthen, pagal panašų skambėji­
-    mą, regis, tarsi būtų Paparčiai (Po-
-    porcie) - kaimas Trakų paviete, ta­
-    čiau, atsižvelgus į kryžiuočių
-    kariaunos žygiuotės kryptį ir į tai,
-    ką apie tai Lindeblattas kronikos pa­
-    stabose kalba (Boparthen ist nach der
-    geographischen Lage (in Urkunden) das
-    jetszige Bobie, nordwestlich von Kow­
-    no) p. 82, dėl to pavadinimo galima
-    būtų nedvejoti.
+  citata_rodoma: "Kryžiuočiai, Kauno keliu \npriėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo \ndegėsių vietoje, palei aukštą statinių tvorą, juosusią miestą - \nnetoli nuo Švč. Mergelės Marijos bažnyčios Smėlynėje ir pran­\nciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­\nsiruošusias tvirtoves, antra, numanydami, jog bus neįma-\n43\nLindenblatto kronikoje yra -\nBoparthen, pagal panašų skambėji­\nmą, regis, tarsi būtų Paparčiai (Po- \nporcie) - kaimas Trakų paviete, ta­\nčiau, atsižvelgus į kryžiuočių \nkariaunos žygiuotės kryptį ir į tai, \nką apie tai Lindeblattas kronikos pa­\nstabose kalba (Boparthen ist nach der \ngeographischen Lage (in Urkunden) das \njetszige Bobie, nordwestlich von Kow­\nno) p. 82, dėl to pavadinimo galima \nbūtų nedvejoti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87979
+    - t-003
+
 - id: c-83957
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,7 +198,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87980
+    - t-001
+
 - id: c-83958
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -237,7 +216,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87978
+    - t-004
+
 - id: c-83959
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -255,19 +235,11 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     53 jos išsaugotos Lindenblatt o,
     Visos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel-
     sų metraštininkams nėra žinomos; niusio autoriaus.
-  citata_rodoma: |
-    Pagaliau tokia be nau­
-    dos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­
-    tydamas, jog niekaip negebės įveikti apdairios Vytauto
-    drąsos, sumanė griebtis klastos. Tas kunigaikštis, nepapras­
-    tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų
-    53 jos išsaugotos Lindenblatt o,
-    Visos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel-
-    sų metraštininkams nėra žinomos; niusio autoriaus.
+  citata_rodoma: "Pagaliau tokia be nau­\ndos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­\ntydamas, jog niekaip negebės įveikti apdairios Vytauto \ndrąsos, sumanė griebtis klastos. Tas kunigaikštis, nepapras­\ntai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų\n53 jos išsaugotos Lindenblatt o,\nVisos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel- \nsų metraštininkams nėra žinomos; niusio autoriaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87976
+    - t-005

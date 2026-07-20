@@ -31,7 +31,6 @@ Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Liet
 
 <a id="claim-t-194058"></a>
 - t-001
-  global_id: t-194058
   teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Lietuvos žemėje, žudė priešininkus, o kiti išbėgiojo „kur akys mato“."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194058
+    - t-001

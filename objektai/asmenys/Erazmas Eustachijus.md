@@ -8,12 +8,12 @@ datos:
   - '1543 m.'
 date_start: '1537'
 date_end: '1543'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
 
 <a id="claim-t-202072"></a>
 - t-001
-  global_id: t-202072
   teiginys: "Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių Kauno klebonui, jau velioniui Erazmui Eustachijui, ir l3 kapų grašių pragyvenimui pilyje laikomiems 3 rusams, matyt, Livonijos karo belaisviams."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
 
 <a id="claim-t-202073"></a>
 - t-002
-  global_id: t-202073
   teiginys: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,7 +61,6 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
 
 <a id="claim-t-202074"></a>
 - t-003
-  global_id: t-202074
   teiginys: "Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -93,7 +90,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202072
+    - t-001
 
 - id: c-185420
   autorius: "Zigmantas Kiaupa"
@@ -112,7 +109,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202073
+    - t-002
 
 - id: c-185421
   autorius: "Zigmantas Kiaupa"
@@ -128,4 +125,4 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202074
+    - t-003

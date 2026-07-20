@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189666"></a>
 - t-001
-  global_id: t-189666
   teiginys: "Narbutas vyriausiojo žynio apeiginius drabužius skyrė pagal ilgą baltos drobės juostą, kuria žynys apsivyniodavo 49 kartus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189666
+    - t-001

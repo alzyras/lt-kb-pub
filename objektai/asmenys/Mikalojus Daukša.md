@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78026"></a>
-- t-001
-  global_id: t-78026
+- t-003
   teiginys: "Daukšos lietuviakalbė programa nebuvo įgyvendinta."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,14 +71,11 @@ media_all_json: |-
     ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
-  citata_rodoma: |
-    lietuvių kalbos gramatika) rūpinosi tik lietuvių
-    kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
-    Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
+  citata_rodoma: "lietuvių kalbos gramatika) rūpinosi tik lietuvių \nkalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu. \nTodėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78026
+    - t-003

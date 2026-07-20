@@ -31,7 +31,6 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
 
 <a id="claim-t-88065"></a>
 - t-001
-  global_id: t-88065
   teiginys: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,4 +60,4 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88065
+    - t-001

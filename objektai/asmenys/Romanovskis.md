@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-191460"></a>
 - t-001
-  global_id: t-191460
   teiginys: "1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,4 +84,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191460
+    - t-001

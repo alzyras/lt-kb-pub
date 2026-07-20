@@ -8,12 +8,12 @@ datos:
   - '1579 m.'
 date_start: '1577'
 date_end: '1579'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XVI'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202085"></a>
 - t-001
-  global_id: t-202085
   teiginys: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ media_all_json: |-
 
 <a id="claim-t-202086"></a>
 - t-002
-  global_id: t-202086
   teiginys: "Reineris 10 metų neprivalės valdovui atlikinėti jokių prievolių, tik paskui reikės kasmet atiduoti valdovo reikmėms 10 rėzų popieriaus."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202085
+    - t-001
 
 - id: c-185433
   autorius: "Zigmantas Kiaupa"
@@ -94,4 +92,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202086
+    - t-002

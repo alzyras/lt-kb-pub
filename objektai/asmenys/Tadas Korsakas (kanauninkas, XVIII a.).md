@@ -30,7 +30,6 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
 
 <a id="claim-t-200592"></a>
 - t-001
-  global_id: t-200592
   teiginys: "Tadas Korsakas buvo kanauninkas."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -48,7 +47,6 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
 
 <a id="claim-t-200593"></a>
 - t-002
-  global_id: t-200593
   teiginys: "Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::people"
@@ -72,18 +70,9 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 10"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
-  citata_originali: |
-    Pvz., 1755 m. kanauninkas rašė, esą seimelių savaitė prasidėjo nuo Ašmenos žemės tei-
-    sėjienės Salomėjos Franckevičovos (Salomea Franckewiczowa) vedybų su Lydos pavieto
-    stalininku, Rodūnės seniūnu Jonu Tadu Božimovskiu (Jan Tadeusz Borzymowski) [96].
-    Santuoką Šv. Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas.
-  citata_rodoma: |
-    Santuoką Šv. Mykolo bažnyčioje suteikė kanauninkas Tadas Korsakas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 06:06"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200592
-    - t-200593
+    - t-001
+    - t-002

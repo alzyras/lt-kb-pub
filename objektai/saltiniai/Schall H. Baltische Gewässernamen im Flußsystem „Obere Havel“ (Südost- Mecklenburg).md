@@ -36,7 +36,6 @@ Dusburgietis teigia, kad schall H.
 
 <a id="claim-t-61284"></a>
 - t-001
-  global_id: t-61284
   teiginys: "H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1)."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ Dusburgietis teigia, kad schall H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61284
+    - t-001

@@ -48,28 +48,19 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-90737"></a>
-- t-001
-  global_id: t-90737
+- t-005
   teiginys: "Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Kujavija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kunigaikščio titulas tiesiogiai sieja Konradą su Kujavija kaip valdovu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą."
   pagrindžia:
-    - c-86520
-    - c-006
+    - c-179047
+
 <a id="claim-t-90738"></a>
-- t-002
-  global_id: t-90738
+- t-001
   teiginys: "1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -89,8 +80,7 @@ media_all_json: |-
     - c-86519
 
 <a id="claim-t-90739"></a>
-- t-003
-  global_id: t-90739
+- t-009
   teiginys: "Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,8 +97,7 @@ media_all_json: |-
     - c-86518
 
 <a id="claim-t-90740"></a>
-- t-004
-  global_id: t-90740
+- t-006
   teiginys: "Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -125,8 +114,7 @@ media_all_json: |-
     - c-86522
 
 <a id="claim-t-90741"></a>
-- t-005
-  global_id: t-90741
+- t-008
   teiginys: "Sventopelkas, viešai išsižadėjęs taikos, įsiveržė į kunigaikščio Kazimiero Kujaviją ir ją nuniokojo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -135,8 +123,7 @@ media_all_json: |-
     - c-86518
 
 <a id="claim-t-90742"></a>
-- t-006
-  global_id: t-90742
+- t-004
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -152,8 +139,7 @@ media_all_json: |-
     - c-167554
 
 <a id="claim-t-90743"></a>
-- t-007
-  global_id: t-90743
+- t-002
   teiginys: "1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -173,8 +159,7 @@ media_all_json: |-
     - c-86515
 
 <a id="claim-t-90744"></a>
-- t-008
-  global_id: t-90744
+- t-003
   teiginys: "Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,8 +176,7 @@ media_all_json: |-
     - c-37485
 
 <a id="claim-t-90745"></a>
-- t-009
-  global_id: t-90745
+- t-007
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -210,7 +194,6 @@ media_all_json: |-
 
 <a id="claim-t-184169"></a>
 - t-010
-  global_id: t-184169
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -230,7 +213,6 @@ media_all_json: |-
 
 <a id="claim-t-192679"></a>
 - t-011
-  global_id: t-192679
   teiginys: "Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -248,10 +230,9 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175449
-    - c-009
+
 <a id="claim-t-197174"></a>
 - t-012
-  global_id: t-197174
   teiginys: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo 160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir Lenčicos, 1229 ir 1241—1243 m.."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -264,7 +245,6 @@ media_all_json: |-
 
 <a id="claim-t-201070"></a>
 - t-013
-  global_id: t-201070
   teiginys: "Paskui gulė į Kujaviją ir tenai sariodamas visame krašte, sugriejęs didį grobį, grįžo namon, varyda mas daugybes imtinių motriškų ir vaikų."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -343,22 +323,6 @@ media_all_json: |-
 - susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
 - susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
-    būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
-
-      160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
-    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-90737
 - c-009
   santrauka: 'Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -381,8 +345,7 @@ media_all_json: |-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192679
+
 ## Citatos
 
 - id: c-37485
@@ -399,18 +362,15 @@ media_all_json: |-
     klausančias jo suverenitetui ir būdamas valdovas savo vasalo
     Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
     Su tuo sutiko ir patsai Vladislovas ir jo žmona.
-  citata_rodoma: |
-    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
-    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
-    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
-    Su tuo sutiko ir patsai Vladislovas ir jo žmona.
+  citata_rodoma: "Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­\nklausančias jo suverenitetui ir būdamas valdovas savo vasalo\nVladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.\nSu tuo sutiko ir patsai Vladislovas ir jo žmona."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90744
+    - t-003
+
 - id: c-86515
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -427,7 +387,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90743
+    - t-002
+
 - id: c-86516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -442,21 +403,15 @@ media_all_json: |-
     atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
-  citata_rodoma: |
-    Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
-    ir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
-    baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop
-    sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis
-    atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis
-    nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
-    manimi gyventi taikiai“.
+  citata_rodoma: "Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę\nir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,\nbaisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop\nsugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis\natsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis\nnesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su\nmanimi gyventi taikiai“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90745
+    - t-007
+
 - id: c-86518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -478,8 +433,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90739
-    - t-90741
+    - t-009
+    - t-008
+
 - id: c-86519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -498,35 +454,25 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90738
+    - t-001
+
 - id: c-86520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Krokuvos kunigaikštis.
-    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
-    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
-    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
-    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
-    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
-    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
-    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
-    dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
-    politiniams tikslams).
-  citata_rodoma: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
 
       160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
     Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
+  citata_rodoma: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys\nbūdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo\n\n  160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir\nLenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-90737
 - id: c-86522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -538,18 +484,15 @@ media_all_json: |-
     padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
-  citata_rodoma: |
-    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
-    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
-    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
-    padedami, ateityje pajungsią savo valdžiai.
+  citata_rodoma: "broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė\njiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis\nir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties\npadedami, ateityje pajungsią savo valdžiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90740
+    - t-006
+
 - id: c-167554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -576,8 +519,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90742
-    - t-184169
+    - t-004
+    - t-010
+
 - id: c-175449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -599,27 +543,15 @@ media_all_json: |-
     liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
     tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
     prie Dnepro net savo pavadinimo pėdsakų.
-  citata_rodoma: |
-    Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
-    siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­
-    no turėjo ryšių su graikais, Juodosios jūros pakrančių
-    kolonistais, vadinamais tiritais, vadintos Antae, o Nesto­
-    ro pavadintos tiverais, tiverėnais, be to, gausios gyven­
-    tojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač
-    jo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-
-    lianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­
-    gyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­
-    se, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­
-    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
-    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
-    prie Dnepro net savo pavadinimo pėdsakų.
+  citata_rodoma: "Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­\nsiai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­\nno turėjo ryšių su graikais, Juodosios jūros pakrančių\nkolonistais, vadinamais tiritais, vadintos Antae, o Nesto­\nro pavadintos tiverais, tiverėnais, be to, gausios gyven­\ntojų skaičiumi, išplėtė savo gyvenvietes prie Dnepro, ypač\njo vidurupyje; iš čia kilo įvairiai pavadintos slavų, po-\nlianų, suličių, severianų ir kitų gentys. Tie, kurie apsi­\ngyveno Chue, slaviškai vadinamo Kuje, miesto apylinkė­\nse, vadinosi kujavais1. Iš tiesų truputį vėliau jie iške­\nliavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­\ntėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami\nprie Dnepro net savo pavadinimo pėdsakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192679
+    - t-011
+
 - id: c-179047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -639,10 +571,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197174
+    - t-005
+    - t-012
+
 - id: c-184420
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lygia dalia patsai didysis mistras kaip
     įmanąs steigė pašalpą kryžeiviams, bet, iki nesu­
@@ -660,7 +595,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201070
+    - t-013
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]
 - Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]]

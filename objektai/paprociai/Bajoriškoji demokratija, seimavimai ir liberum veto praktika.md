@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-77932"></a>
 - t-001
-  global_id: t-77932
   teiginys: "Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,4 +103,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77932
+    - t-001

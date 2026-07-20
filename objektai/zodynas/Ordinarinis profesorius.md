@@ -54,7 +54,6 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
 
 <a id="claim-t-195459"></a>
 - t-001
-  global_id: t-195459
   teiginys: "A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi."
   atnaujinta: "2026-07-12 03:27"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
@@ -79,12 +78,11 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
     lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl ka­
     ro nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavi-
     rno. Ordinariniu profesorium paskirtas 1930 m.
-  citata_rodoma: |
-    Ordinariniu profesorium paskirtas 1930 m
+  citata_rodoma: "Ordinariniu profesorium paskirtas 1930 m"
   statusas: verified
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195459
+    - t-001

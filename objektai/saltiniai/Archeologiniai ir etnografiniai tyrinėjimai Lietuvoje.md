@@ -30,7 +30,6 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 
 <a id="claim-t-31618"></a>
 - t-001
-  global_id: t-31618
   teiginys: "„Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,15 +60,11 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
-  citata_rodoma: |
-    LTSR Mokslų
-    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
-    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
-    skyrių red. A. Tautavičius.
+  citata_rodoma: "LTSR Mokslų\nAkademijos Istorijos Institutas leidžia kas antri metai knygas :\n_Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos\nskyrių red. A. Tautavičius."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31618
+    - t-001

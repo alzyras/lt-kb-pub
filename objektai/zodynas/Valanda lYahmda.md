@@ -31,7 +31,6 @@ Narbutas rašė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir
 
 <a id="claim-t-189341"></a>
 - t-001
-  global_id: t-189341
   teiginys: "Narbutas rašė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir nakties valandas, kurių buvo po dvylika."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbutas rašė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189341
+    - t-001

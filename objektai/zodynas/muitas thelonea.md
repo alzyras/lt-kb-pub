@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # muitas thelonea
 
 ## Santrauka
@@ -37,25 +38,17 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 ## Teiginiai
 
 <a id="claim-t-86424"></a>
-- t-001
-  global_id: t-86424
+- t-003
   teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Czopowe: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "muitas thelonea: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Czopowe: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"muitas thelonea\" parinktas kaip owner_note_path. Targetas \"Czopowe\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-82405
+    - c-82403
+    - c-82404
 
 <a id="claim-t-86425"></a>
-- t-002
-  global_id: t-86425
+- t-001
   teiginys: "Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,8 +64,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
     - c-82404
 
 <a id="claim-t-86426"></a>
-- t-003
-  global_id: t-86426
+- t-002
   teiginys: "Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -113,24 +105,16 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
     familiae suae, in eam sententiam alios quoque adducere velit, ut
     ne huic constitutioni per olim Sigismundum Augustum Regem, et
     Czopowe - svaigalų mokestis.
-  citata_rodoma: |
-    Dėl Vilniaus Batoras pareikalavo
-    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
-    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
-    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
-    čius*. Čia pateikiame to laiško pabaigą: Proinde non modo
-    M. Vestra his theloneis adauctis exigendis non contradicat, sed
-    etiam auctoritate sua Senatoria, supereminentiaque et dignitate
-    familiae suae, in eam sententiam alios quoque adducere velit, ut
-    ne huic constitutioni per olim Sigismundum Augustum Regem, et
-    Czopowe - svaigalų mokestis.
+  citata_rodoma: "Dėl Vilniaus Batoras pareikalavo \niš vaivados Radvilos, kad šis neprieštaraudamas savo auto­\nritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus \nmiestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­\nčius*. Čia pateikiame to laiško pabaigą: Proinde non modo \nM. Vestra his theloneis adauctis exigendis non contradicat, sed \netiam auctoritate sua Senatoria, supereminentiaque et dignitate \nfamiliae suae, in eam sententiam alios quoque adducere velit, ut \nne huic constitutioni per olim Sigismundum Augustum Regem, et\nCzopowe - svaigalų mokestis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86426
+    - t-003
+    - t-002
+
 - id: c-82404
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -167,7 +151,9 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86425
+    - t-003
+    - t-001
+
 - id: c-82405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,5 +179,3 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-86424

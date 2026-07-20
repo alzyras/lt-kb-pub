@@ -36,7 +36,6 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
 
 <a id="claim-t-31952"></a>
 - t-001
-  global_id: t-31952
   teiginys: "V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Ključevskij : Kurs russkoj istorii, I, Maskva 1956, 30-45 p.
     Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-
 
     (^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p.**
-  citata_rodoma: |
-    Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-
-
-    (^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p.
+  citata_rodoma: "Upių krantai patarnaudavo ir gynybai, kai aukštuose skar-\n\n(^2) **V. O. Ključevskij :** **_Kurs russkoj istorii,_** **I, Maskva 1956, 30-45 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31952
+    - t-001

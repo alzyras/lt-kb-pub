@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-49419"></a>
 - t-001
-  global_id: t-49419
   teiginys: "Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-49420"></a>
 - t-002
-  global_id: t-49420
   teiginys: "Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -83,18 +81,12 @@ media_all_json: |-
     artilerijos baterijos, sėkmingai atsitraukė
     per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
     jos kariuomenė užėmė Vilnių.
-  citata_rodoma: |
-    Vakare Vilniaus įgula, dengiama ar-
-    tilerijos kapitono kunigaikščio Kazi-
-    miero Sapiegos, sumaniai vadovaujamos
-    artilerijos baterijos, sėkmingai atsitraukė
-    per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
-    jos kariuomenė užėmė Vilnių.
+  citata_rodoma: "Vakare Vilniaus įgula, dengiama ar-\ntilerijos kapitono kunigaikščio Kazi-\nmiero Sapiegos, sumaniai vadovaujamos\nartilerijos baterijos, sėkmingai atsitraukė\nper Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-\njos kariuomenė užėmė Vilnių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-49419
-    - t-49420
+    - t-001
+    - t-002

@@ -49,8 +49,7 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 ## Teiginiai
 
 <a id="claim-t-186885"></a>
-- t-001
-  global_id: t-186885
+- t-002
   teiginys: "Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -68,8 +67,7 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     - c-170071
 
 <a id="claim-t-186886"></a>
-- t-002
-  global_id: t-186886
+- t-001
   teiginys: "Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -108,18 +106,15 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     išgalabyti, o mužikus — šuns kraują — iškelti" paro­
     dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
     nedorybių.
-  citata_rodoma: |
-    Tariamas siekimas „visą bajorų luomą kruvinai
-    išgalabyti, o mužikus — šuns kraują — iškelti" paro­
-    dytas kaip viena iš baisiausių Žygimanto Kęstutaičio
-    nedorybių.
+  citata_rodoma: "Tariamas siekimas „visą bajorų luomą kruvinai \nišgalabyti, o mužikus — šuns kraują — iškelti\" paro­\ndytas kaip viena iš baisiausių Žygimanto Kęstutaičio \nnedorybių."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186885
+    - t-002
+
 - id: c-170072
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -139,18 +134,11 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
     gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
     kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
     gumi.
-  citata_rodoma: |
-    Valstiečiai originaliajame Bychovco kronikos teks­
-    te vadinami „šuns kfauju", bet nėra ko stebėtis, prisi­
-    minus, kad toje pačioje kronikoje feodalas Droždža,
-    Lietuvos did. kunigaikščio Aleksandro favorito kuni­
-    gaikščio Mykolo Glinskio giminaitis, valdęs didžiojo
-    kunigaikščio valsčius ir pilis, vadinamas „prastu" žmo­
-    gumi.
+  citata_rodoma: "Valstiečiai originaliajame Bychovco kronikos teks­\nte vadinami „šuns kfauju\", bet nėra ko stebėtis, prisi­\nminus, kad toje pačioje kronikoje feodalas Droždža, \nLietuvos did. kunigaikščio Aleksandro favorito kuni­\ngaikščio Mykolo Glinskio giminaitis, valdęs didžiojo \nkunigaikščio valsčius ir pilis, vadinamas „prastu\" žmo­\ngumi."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186886
+    - t-001

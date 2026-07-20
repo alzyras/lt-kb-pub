@@ -8,13 +8,13 @@ datos:
   - '1669 m.'
 date_start: '1422'
 date_end: '1669'
+amziai:
+  - 'XV'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-amziai:
-  - 'XV'
-  - 'XVII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-192023"></a>
 - t-001
-  global_id: t-192023
   teiginys: "Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-192024"></a>
 - t-002
-  global_id: t-192024
   teiginys: "1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -96,12 +94,11 @@ Nenurodyta
   pagrindžia:
     - c-174904
     - c-175282
-## Citatos
 
-- id: c-174903
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     Foigtas (Gesch. Preuss. B. I. S. 678) teigia,
     jog, anot vietinių padavimų, negalima abejoti, kad ši bažnytėlė ga­
@@ -114,7 +111,19 @@ Nenurodyta
     ir prūsų
     istoriko
     tyrimo išvadas.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-174903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
     Foigtas (Gesch. Preuss. B. I. S. 678) teigia, jog, anot vietinių pada­
     vimų, negalima abejoti, kad ši bažnytėlė ga­
     lėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­
@@ -126,13 +135,15 @@ Nenurodyta
     ir prūsų
     istoriko
     tyrimo išvadas.
+  citata_rodoma: "Foigtas (Gesch. Preuss. B. I. S. 678) teigia, jog, anot vietinių pada­\nvimų, negalima abejoti, kad ši bažnytėlė ga­\nlėjusi būti pastatyta XIII amžiaus pabaigoje, bet ne vėliau, kai Sem­\nbą užkariavo čekų karalius Otokaras; to paties amžiaus antrosios\npusės pradžioje buvusi medinė bažnytėlė, o 1422 metais, antrą ar\ntrečią kartą sunaikinus vis atstatomus medinius pastatus, pradėta\nstatyti mūrinę (Voigt. S. 663—666). Si išvada atitinka senus pada­\nvimus\nir prūsų\nistoriko\ntyrimo išvadas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192023
+    - t-001
+
 - id: c-174904
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -148,16 +159,15 @@ Nenurodyta
     kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
     1669 metais didžiulė audra visiškai išgriovė šio pastato
     sienas.
-  citata_rodoma: |
-    1669 metais didžiulė audra visiškai išgriovė šio pastato
-    sienas.
+  citata_rodoma: "1669 metais didžiulė audra visiškai išgriovė šio pastato\nsienas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192024
+    - t-002
+
 - id: c-175282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -178,3 +188,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

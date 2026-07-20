@@ -28,7 +28,6 @@ Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna li
 
 <a id="claim-t-201739"></a>
 - t-001
-  global_id: t-201739
   teiginys: "Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna liaunas pranciškonų Švč."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -57,4 +56,4 @@ Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201739
+    - t-001

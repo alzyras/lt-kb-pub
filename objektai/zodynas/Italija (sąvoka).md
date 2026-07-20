@@ -33,7 +33,6 @@ Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturė
 
 <a id="claim-t-200829"></a>
 - t-001
-  global_id: t-200829
   teiginys: "Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturėtų būti laikomas tiesiog į Vilnių atvežtu užsieniniu pavyzdžiu."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -72,4 +71,4 @@ Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200829
+    - t-001

@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87297"></a>
 - t-001
-  global_id: t-87297
   teiginys: "Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,4 +146,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87297
+    - t-001

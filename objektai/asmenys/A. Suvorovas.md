@@ -31,7 +31,6 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 
 <a id="claim-t-18745"></a>
 - t-001
-  global_id: t-18745
   teiginys: "A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,12 +58,11 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
     teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
     sijos kariuomenei imtis veiksmų.
-  citata_rodoma: |
-    bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
+  citata_rodoma: "bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-18745
+    - t-001

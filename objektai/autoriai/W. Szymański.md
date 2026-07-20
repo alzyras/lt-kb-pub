@@ -39,7 +39,6 @@ Szymański, W.
 
 <a id="claim-t-31073"></a>
 - t-001
-  global_id: t-31073
   teiginys: "W. Szymański 1958 m. Poznanėje išleido veikalą „Kontakty handlowe Wielkopolski w IX-XI w.“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Szymański, W.
     — Pobłocki, L. : _Kritische Beiträge zur ältesten Geschichte Litauens,_ atsp.
     iš AM, XVII, 1870. — Szymański, W. : _Kontakty handlowe Wielkopolski
     w IX-XI w._ Poznań 1958.
-  citata_rodoma: |
-    — Szymański, W. : _Kontakty handlowe Wielkopolski
-    w IX-XI w._ Poznań 1958.
+  citata_rodoma: "— Szymański, W. : _Kontakty handlowe Wielkopolski\nw IX-XI w._ Poznań 1958."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31073
+    - t-001

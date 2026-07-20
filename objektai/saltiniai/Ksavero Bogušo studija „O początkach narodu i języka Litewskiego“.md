@@ -26,26 +26,11 @@ media_all_json: |-
 
 Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-190513"></a>
-- t-001
-  global_id: t-190513
-  teiginys: 'Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Nuorodos fragmentas paverstas sakiniu apie Bogušo studijos naudojimą. Kontekstas paimtas tik iš citatos sakinio apie javų ir padargų pavadinimus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_author: [[objektai/autoriai/Sirvydas|Sirvydas]]; mentioned_place: Pragaras'
-  pagrindžia:
-    - c-173396
-
-## Citatos
-
-- id: c-173396
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini kaip šaltinį lietuviškiems žemės ūkio terminams tikrinti.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Visiems javams ir žemės ūkio padargams įvardyti yra
     savi lietuviški žodžiai15.
@@ -58,10 +43,8 @@ Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini ka
 
     Nijolė ĮNijota)
     Pragaro karalienė, Pokliaus žmona, Krūminės duktė.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-190513
+  statusas: verified

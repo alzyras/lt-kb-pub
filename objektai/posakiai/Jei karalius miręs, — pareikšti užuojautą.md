@@ -36,7 +36,6 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
 
 <a id="claim-t-02064"></a>
 - t-001
-  global_id: t-02064
   teiginys: "Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,17 +67,11 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
-  citata_rodoma: |
-    Užsieny jau daug kas manė, kad
-    jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-
-    jautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems
-    į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
-    reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
-    amžiaus.
+  citata_rodoma: "Užsieny jau daug kas manė, kad\njis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-\njautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems\nį Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-\nreikšti užuojautą\". Zigmantas mirė 1548 m., sulaukęs 81 m.\namžiaus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02064
+    - t-001

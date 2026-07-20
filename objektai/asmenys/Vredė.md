@@ -36,7 +36,6 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
 
 <a id="claim-t-191334"></a>
 - t-001
-  global_id: t-191334
   teiginys: "Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo prie žinių apie Vitlandijos žemės egzistavimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191334
+    - t-001

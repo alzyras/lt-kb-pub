@@ -36,8 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187246"></a>
-- t-001
-  global_id: t-187246
+- t-002
   teiginys: "Kurenecas lokalizuojamas į šiaurę nuo Molodečno."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -57,8 +56,7 @@ media_all_json: |-
     - c-170307
 
 <a id="claim-t-187247"></a>
-- t-002
-  global_id: t-187247
+- t-001
   teiginys: "1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -95,15 +93,12 @@ media_all_json: |-
     sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­
     sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
     nių.
-  citata_rodoma: |
-    Ir vasario 15 d. su­
-    sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­
-    nių.
+  citata_rodoma: "Ir vasario 15 d. su­\nsijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­\nnių."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187246
-    - t-187247
+    - t-002
+    - t-001

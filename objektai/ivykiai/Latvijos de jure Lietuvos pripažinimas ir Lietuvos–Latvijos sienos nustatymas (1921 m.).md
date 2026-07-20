@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-20253"></a>
 - t-001
-  global_id: t-20253
   teiginys: "Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,12 +85,11 @@ Nenurodyta
     šalių, ir Lenkijos interesams. Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
     no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
     parama.
-  citata_rodoma: |
-    no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
+  citata_rodoma: "no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-20253
+    - t-001

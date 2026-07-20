@@ -48,8 +48,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 ## Teiginiai
 
 <a id="claim-t-172804"></a>
-- t-001
-  global_id: t-172804
+- t-005
   teiginys: "Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +64,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157175
 
 <a id="claim-t-172805"></a>
-- t-002
-  global_id: t-172805
+- t-014
   teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,8 +83,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157183
 
 <a id="claim-t-172806"></a>
-- t-003
-  global_id: t-172806
+- t-004
   teiginys: "1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -105,8 +102,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157186
 
 <a id="claim-t-172807"></a>
-- t-004
-  global_id: t-172807
+- t-017
   teiginys: "Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,8 +118,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157171
 
 <a id="claim-t-172809"></a>
-- t-005
-  global_id: t-172809
+- t-008
   teiginys: "1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -142,8 +137,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157174
 
 <a id="claim-t-172811"></a>
-- t-006
-  global_id: t-172811
+- t-018
   teiginys: "1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -162,8 +156,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157185
 
 <a id="claim-t-172812"></a>
-- t-007
-  global_id: t-172812
+- t-001
   teiginys: "1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -182,8 +175,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157180
 
 <a id="claim-t-172813"></a>
-- t-008
-  global_id: t-172813
+- t-009
   teiginys: "Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -199,8 +191,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157182
 
 <a id="claim-t-172814"></a>
-- t-009
-  global_id: t-172814
+- t-020
   teiginys: "Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -216,8 +207,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157184
 
 <a id="claim-t-172815"></a>
-- t-010
-  global_id: t-172815
+- t-016
   teiginys: "Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -233,8 +223,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157177
 
 <a id="claim-t-172816"></a>
-- t-011
-  global_id: t-172816
+- t-013
   teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -250,8 +239,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157173
 
 <a id="claim-t-172817"></a>
-- t-012
-  global_id: t-172817
+- t-006
   teiginys: "1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -271,8 +259,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157179
 
 <a id="claim-t-172818"></a>
-- t-013
-  global_id: t-172818
+- t-010
   teiginys: "Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -288,8 +275,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157188
 
 <a id="claim-t-172819"></a>
-- t-014
-  global_id: t-172819
+- t-007
   teiginys: "Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -308,8 +294,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157181
 
 <a id="claim-t-172820"></a>
-- t-015
-  global_id: t-172820
+- t-002
   teiginys: "1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -328,8 +313,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157169
 
 <a id="claim-t-172821"></a>
-- t-016
-  global_id: t-172821
+- t-003
   teiginys: "Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -348,8 +332,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - c-157176
 
 <a id="claim-t-172822"></a>
-- t-017
-  global_id: t-172822
+- t-011
   teiginys: "Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -397,7 +380,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172820
+    - t-002
+
 - id: c-157170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -417,7 +401,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172822
+    - t-011
+
 - id: c-157171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -446,36 +431,15 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
     xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
     concessis salvis remanentibus.
-  citata_rodoma: |
-    Ir todėl patiems ar jų
-    tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
-    buvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto
-    gyventojų, priklausančių visokiems ponams, įvairumo, ne­
-    kiltų per didelė suirutė ir netvarka pačiame mieste, norime,
-    kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­
-    rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­
-    rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­
-    lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir
-    visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­
-    dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­
-    radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­
-    raujant regulai, yra leidžiama kapitulos valdiniams, taip pat
-    383
-
-    ## Puslapis 400
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    feriis, absque praescripto, et regula liceat, permissumque sit
-    subditis Capituli, etiam de Villis eorum, panes in Civitatem
-    Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
-    xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
+  citata_rodoma: "Ir todėl patiems ar jų \ntarnams smurtu bet ką iš kapitulos valdinių namų imti ne­\nbuvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto \ngyventojų, priklausančių visokiems ponams, įvairumo, ne­\nkiltų per didelė suirutė ir netvarka pačiame mieste, norime, \nkad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­\nrinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­\nrinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­\nlykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir \nvisi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­\ndru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­\nradieniais ir penktadieniais, be jokio kito rašto ir nepriešta­\nraujant regulai, yra leidžiama kapitulos valdiniams, taip pat\n383\n\n## Puslapis 400\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nferiis, absque praescripto, et regula liceat, permissumque sit \nsubditis Capituli, etiam de Villis eorum, panes in Civitatem \nVilnensem ducere, et vendere, alijs diebus pro Civibus dunta- \nxat liberis manentibus, juribus et privilegijs Civitati Vilnen."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172807
+    - t-017
+
 - id: c-157173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -499,7 +463,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172816
+    - t-013
+
 - id: c-157174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -517,7 +482,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172809
+    - t-008
+
 - id: c-157175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -562,7 +528,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172804
+    - t-005
+
 - id: c-157176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -582,27 +549,15 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
     liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
     nas Kazimieras -1664 m.
-  citata_rodoma: |
-    1577 metų gruodžio 19 dienos, o pirmesne 1539
-    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
-    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
-    piežius Inocentas X irgi patvirtino.
-    Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis
-    nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet
-    dėl pradangintų dokumentų pajamų dydis nėra žinomas;
-    tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios
-    priklauso; jais disponuoja Vilniaus magistratas per savo val­
-    dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai.
-    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
-    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
-    liai: Žygimantas III - 1601 m.
+  citata_rodoma: "1577 metų gruodžio 19 dienos, o pirmesne 1539 \nmetų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­\nfratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­\npiežius Inocentas X irgi patvirtino.\nTos Dievo koplyčios pajamas sudarė jai skirtas mokestis \nnuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet \ndėl pradangintų dokumentų pajamų dydis nėra žinomas; \ntačiau kai kurie mūriniai namai ir dabar prie tos koplyčios \npriklauso; jais disponuoja Vilniaus magistratas per savo val­\ndytojus, o iš gautų pajamų tenkinami koplyčios poreikiai.\nMūrinius namus, kurie buvo skirti tos koplyčios paja­\nmoms, privilegijomis nuo mokesčių atleido Lenkijos kara­\nliai: Žygimantas III - 1601 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172821
+    - t-003
+
 - id: c-157177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -653,7 +608,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172815
+    - t-016
+
 - id: c-157179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -675,7 +631,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172817
+    - t-006
+
 - id: c-157180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -696,7 +653,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172812
+    - t-001
+
 - id: c-157181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -718,7 +676,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172819
+    - t-007
+
 - id: c-157182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -747,7 +706,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172813
+    - t-009
+
 - id: c-157183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -768,7 +728,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172805
+    - t-014
+
 - id: c-157184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -795,7 +756,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172814
+    - t-020
+
 - id: c-157185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -816,7 +778,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172811
+    - t-018
+
 - id: c-157186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -832,7 +795,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172806
+    - t-004
+
 - id: c-157188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -862,4 +826,4 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172818
+    - t-010

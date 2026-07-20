@@ -30,7 +30,6 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
 
 <a id="claim-t-191855"></a>
 - t-001
-  global_id: t-191855
   teiginys: "Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavais, kuriuos kadaise nukariavo skitai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -48,10 +47,9 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174737
-    - c-001
+
 <a id="claim-t-197689"></a>
 - t-002
-  global_id: t-197689
   teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -79,8 +77,7 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191855
+
 ## Citatos
 
 - id: c-174737
@@ -97,21 +94,15 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
     2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
     lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
     (Zeller.
-  citata_rodoma: |
-    Vadi­
-    nasi, čia gyventa jau iki IV amžiaus.
-    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
-    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
-    2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
-    lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
-    (Zeller.
+  citata_rodoma: "Vadi­\nnasi, čia gyventa jau iki IV amžiaus.\n1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus\nmano buvus slavus, kuriuos kadaise nukariavo skitai*.\n2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­\nlių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai\n(Zeller."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191855
+    - t-001
+
 - id: c-179296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -129,4 +120,4 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197689
+    - t-002

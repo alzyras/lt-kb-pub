@@ -33,7 +33,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 <a id="claim-t-11083"></a>
 - t-001
-  global_id: t-11083
   teiginys: "Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -50,7 +49,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 <a id="claim-t-193119"></a>
 - t-002
-  global_id: t-193119
   teiginys: "Senieji aisčių kaimynai vakaruose buvo lenkams artimi pamarėnai (už Vyslos), pietuose buvo mozūrai, kurių sodybos susisiekė su prūsų giminių ir jotvingų sodybomis."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -63,7 +61,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 <a id="claim-t-193120"></a>
 - t-003
-  global_id: t-193120
   teiginys: "Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo ne tik Mozūrus, bet ir tolimąją Krokuvą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -76,7 +73,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 <a id="claim-t-194943"></a>
 - t-004
-  global_id: t-194943
   teiginys: "O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovaujami podoliečiai."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -97,17 +93,15 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
         prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
         valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
-  citata_rodoma: |
-    Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
-    prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
-    valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
+  citata_rodoma: "Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo\nprekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,\nvalakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-11083
+    - t-001
+
 - id: c-175879
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -125,7 +119,8 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193119
+    - t-002
+
 - id: c-175880
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,7 +137,8 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193120
+    - t-003
+
 - id: c-177339
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -160,4 +156,4 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194943
+    - t-004

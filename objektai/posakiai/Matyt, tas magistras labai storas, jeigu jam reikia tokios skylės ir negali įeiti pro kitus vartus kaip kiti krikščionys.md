@@ -31,7 +31,6 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 
 <a id="claim-t-59129"></a>
 - t-001
-  global_id: t-59129
   teiginys: "Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59129
+    - t-001

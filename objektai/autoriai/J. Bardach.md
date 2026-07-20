@@ -39,7 +39,6 @@ Bardach, J.
 
 <a id="claim-t-30660"></a>
 - t-001
-  global_id: t-30660
   teiginys: "J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,14 +65,11 @@ Bardach, J.
     18-38 p. — Fijalek, J. : _Uchrześcijanieuie Litwy przez Polskę,_ PiL, 1914,
     37-333 p. — Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
     1919, 1920.
-  citata_rodoma: |
-    — Bardach, J. : _Akt w Krewie,_ jo knygoje _Studia z ustroju i
-    prawa Wielkiego Księstwa Litewskiego XIV-XVII w.,_ Warszawa 1970,
-    18-38 p.
+  citata_rodoma: "— Bardach, J. : _Akt w Krewie,_ jo knygoje _Studia z ustroju i\nprawa Wielkiego Księstwa Litewskiego XIV-XVII w.,_ Warszawa 1970,\n18-38 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30660
+    - t-001

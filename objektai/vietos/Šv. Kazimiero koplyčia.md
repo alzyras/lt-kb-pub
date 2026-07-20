@@ -39,7 +39,6 @@ Koplyčia minima kaip Vilniaus katedros aplinkos vieta.
 
 <a id="claim-t-189087"></a>
 - t-001
-  global_id: t-189087
   teiginys: "Narbutas, remdamasis Strijkovskiu, Šv. Kazimiero koplyčią siejo su Vilniaus Perkūno šventykloje laikytų šliužų koplyčia."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Koplyčia minima kaip Vilniaus katedros aplinkos vieta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189087
+    - t-001

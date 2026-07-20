@@ -50,19 +50,6 @@ media_all_json: |-
 
 Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195629"></a>
-- t-001
-  global_id: t-195629
-  teiginys: "Žodis vartojamas ir kaip šūksnis kraičio nešimo metu."
-  atnaujinta: "2026-07-12 08:46"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178031
-
 ## Citatos
 
 - id: c-178031
@@ -83,12 +70,9 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
     jų tą „didelį kraitį“ , o dideliu kraičiu jos vadina kiekvieną
     kraitį,
     koks yra.
-  citata_rodoma: |
-    Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“
+  citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195629

@@ -28,7 +28,6 @@ media_all_json: |-
 
 <a id="claim-t-200833"></a>
 - t-001
-  global_id: t-200833
   teiginys: "Šv. Jono bažnyčioje Vilniuje išlikę gotiniai bruožai: aštrialankiai langai, kontraforsai ir trijų vienodo aukščio navų halės erdvė."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -62,4 +61,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200833
+    - t-001

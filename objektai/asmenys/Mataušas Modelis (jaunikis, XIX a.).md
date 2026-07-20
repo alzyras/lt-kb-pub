@@ -49,8 +49,7 @@ Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasi
 ## Teiginiai
 
 <a id="claim-t-195558"></a>
-- t-001
-  global_id: t-195558
+- t-002
   teiginys: "Mataušas Modelis jaunajai Barborai atsiuntė rūtų vainiką ir prašė jos kito neieškoti."
   atnaujinta: "2026-07-12 06:38"
   sprendimo_priezastis: "gap::people"
@@ -73,12 +72,11 @@ Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasi
     Lėkštelę padeda ant stalo prieš jaunąją. Padėjęs prašneko:
     — Štai jaunikaitis Mataušas Modelis atsiuntė jaunajai Barborai
     Eiduliukei šį rūtų vainiką ir prašo tą daboti, kito neieškoti.
-  citata_rodoma: |
-    — Štai jaunikaitis Mataušas Modelis atsiuntė jaunajai Barborai Eiduliukei šį rūtų vainiką ir prašo tą daboti, kito neieškoti.
+  citata_rodoma: "— Štai jaunikaitis Mataušas Modelis atsiuntė jaunajai Barborai Eiduliukei šį rūtų vainiką ir prašo tą daboti, kito neieškoti."
   statusas: verified
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195558
+    - t-002

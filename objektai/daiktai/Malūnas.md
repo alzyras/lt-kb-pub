@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-35536"></a>
 - t-001
-  global_id: t-35536
   teiginys: "Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -156,19 +155,14 @@ Nenurodyta
     Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
-  citata_rodoma: |
-    Sekančiais metais Vytautas su kryžiuočių diplomatais su­
-    važiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.
-    Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu
-    pasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi
-    sutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors
-    Vyt.
+  citata_rodoma: "Sekančiais metais Vytautas su kryžiuočių diplomatais su­\nvažiavo į Kauną ir, be Lenkijos žinios, suteikė Vokieč.\nOrdinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu\npasižadėjo eiti jam į pagalbą prieš visus jo priešus. Ordinas irgi\nsutarty pasižadėjo ginti Vytautą nuo jo priešininkų^3 ). Nors\nVyt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35536
+    - t-001
+
 ## Ryšiai
 - Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]]

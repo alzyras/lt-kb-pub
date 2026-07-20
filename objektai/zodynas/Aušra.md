@@ -31,9 +31,8 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 
 <a id="claim-t-189279"></a>
 - t-001
-  global_id: t-189279
   teiginys: "Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,7 +48,6 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172167
-    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188573|Konstantinas Sirvydas (kunigas, XVII a.)]]: Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.
 - susijęs iš [[objektai/zodynas/Bežlėja Vakarinė.md#claim-t-189280|Bežlėja Vakarinė]]: Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra tarnavusi saulei.
@@ -58,25 +56,6 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 - susijęs iš [[objektai/daiktai/Lininiai dirbiniai.md#claim-t-189687|Lininiai dirbiniai]]: Narbutas Alabatį vadina Linų Izide ir aiškina, kad ji globojo ne linų auginimą, o iš linų padarytus dirbinius.
 - susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
 - susijęs iš Čestakavas: Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Aušra (Aussra)
-    Ryto deivė.
-    Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
-    das vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­
-    teliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­
-    nesio meilės nuotykius aprašysime skyriuje apie dangaus kū­
-    nų dievinimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189279
 ## Citatos
 
 - id: c-172167
@@ -84,16 +63,6 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Lietuvių senąja tarme Meta (metais) vadinasi kiekvienas
-    laiko tarpas.
-    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
-    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
-    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
-    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
-    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
-    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
-    (Kronu) pilimi.
-  citata_rodoma: |
     Aušra (Aussra)
     Ryto deivė.
     Lasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­
@@ -101,10 +70,11 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
     teliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­
     nesio meilės nuotykius aprašysime skyriuje apie dangaus kū­
     nų dievinimą.
+  citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora. Jos darbas -  kiekvieną rytą rožiniais pirš­\nteliais atidaryti rytų vartus ir uždegti saulės fakelą. Jos ir mė­\nnesio meilės nuotykius aprašysime skyriuje apie dangaus kū­\nnų dievinimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189279
+    - t-001

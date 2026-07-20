@@ -31,8 +31,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 ## Teiginiai
 
 <a id="claim-t-85646"></a>
-- t-001
-  global_id: t-85646
+- t-002
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     - c-81628
 
 <a id="claim-t-85647"></a>
-- t-002
-  global_id: t-85647
+- t-003
   teiginys: "Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +63,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     - c-81628
 
 <a id="claim-t-85648"></a>
-- t-003
-  global_id: t-85648
+- t-001
   teiginys: "Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -134,29 +131,16 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     ją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti
     pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
     minėtai Pabaisko bažnyčiai.
-  citata_rodoma: |
-    Tai­
-    gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
-    sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir
-    priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­
-    rų sužinojome, dabartiniam bažnyčios klebonui, minėtam
-    Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
-    sprendėme ir suteikiame. Pirmiausia norime, kad minėta
-    Pabaisko parapija turėtų buvusias ribas, kurios eina nuo
-    Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos
-    upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur
-    prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į Šventą­
-    ją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti
-    pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
-    minėtai Pabaisko bažnyčiai.
+  citata_rodoma: "Tai­\ngi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­\nsų protėviai bažnyčią aprūpino, remdamiesi tikrais ir \npriesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­\nrų sužinojome, dabartiniam bažnyčios klebonui, minėtam \nValentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­\nsprendėme ir suteikiame. Pirmiausia norime, kad minėta \nPabaisko parapija turėtų buvusias ribas, kurios eina nuo \nŠirvintos upės iki pat Šventosios ir yra juosiamos Kertušos \nupės, tekančios per Šešuolės mišką iki Šesarkos upės, kur \nprieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į Šventą­\nją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti \npastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos \nminėtai Pabaisko bažnyčiai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85646
-    - t-85647
+    - t-002
+    - t-003
+
 - id: c-81629
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -174,4 +158,4 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85648
+    - t-001

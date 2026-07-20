@@ -54,8 +54,7 @@ Archeologijos ir mokslo komisija.
 ## Teiginiai
 
 <a id="claim-t-55076"></a>
-- t-001
-  global_id: t-55076
+- t-003
   teiginys: "Michałas Balińskis Gazeta Warszawska straipsniuose detaliai aprašė Vilniaus archeologijos komisijos veiklą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -71,8 +70,7 @@ Archeologijos ir mokslo komisija.
     - c-78240
 
 <a id="claim-t-81662"></a>
-- t-002
-  global_id: t-81662
+- t-004
   teiginys: "Michałas Balińskis laikraštyje „Gazeta Warszawska“ detaliai aprašė Vilniaus archeologijos komisijos veiklą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -109,18 +107,12 @@ Archeologijos ir mokslo komisija.
     šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
-  citata_rodoma: |
-    Lelevelis, šali­
-    ninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­
-    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
-    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
-    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
-    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M.
+  citata_rodoma: "Lelevelis, šali­\nninkas. Kituose Gazeta Warszawska spausdintuose straipsniuo­\nse istorikas detaliai aprašė Vilniaus Archeologinės komisijos \nveiklą, lenkų literatūros problemas, nemažai dėmesio skyrė \nistorijos mokslo padėčiai lenkiškos kultūros centruose - Var­\nšuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55076
-    - t-81662
+    - t-003
+    - t-004

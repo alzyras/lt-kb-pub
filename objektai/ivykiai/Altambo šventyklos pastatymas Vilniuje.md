@@ -43,7 +43,6 @@ Nenurodyta
 
 <a id="claim-t-189618"></a>
 - t-001
-  global_id: t-189618
   teiginys: "Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-197229"></a>
 - t-002
-  global_id: t-197229
   teiginys: "Ieškoti žinių apie tuos požemius ir pilis palie kame busimiesiems krašto senovės tyrėjams, čia apsiribojame teiginiu, kad miestuose buvo slaptos šventyklos ir galbūt su jomis jungėsi požemiai."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -98,5 +96,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189618
-    - t-197229
+    - t-001
+    - t-002

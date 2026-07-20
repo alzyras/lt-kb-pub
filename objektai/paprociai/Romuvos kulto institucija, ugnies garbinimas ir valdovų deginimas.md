@@ -58,8 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54334"></a>
-- t-001
-  global_id: t-54334
+- t-002
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   atnaujinta: "2026-05-31 17:11"
   sprendimo_priezastis: "auto"
@@ -74,9 +73,9 @@ Nenurodyta
   pagrindžia:
     - c-55200
     - c-166723
+
 <a id="claim-t-54335"></a>
-- t-002
-  global_id: t-54335
+- t-003
   teiginys: "Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -92,8 +91,7 @@ Nenurodyta
     - c-55201
 
 <a id="claim-t-54336"></a>
-- t-003
-  global_id: t-54336
+- t-001
   teiginys: "Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -120,19 +118,15 @@ Nenurodyta
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-  citata_rodoma: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
-    muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
+  citata_rodoma: "Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties \n(Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių \nsąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-\nmuvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su \nLietuvoje išplitusiais Aukuro kalnais ir akmenimis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54334
+    - t-002
+
 - id: c-55201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,20 +137,16 @@ Nenurodyta
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
-  citata_rodoma: |
-    Iš mūsų pagonių valdovų laikysenos
-    galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
-    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
-    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
-    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+  citata_rodoma: "Iš mūsų pagonių valdovų laikysenos \ngalima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-\ngi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo \ninstitucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti \nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54335
-    - t-54336
+    - t-003
+    - t-001
+
 - id: c-166723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,3 +162,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

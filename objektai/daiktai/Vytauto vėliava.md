@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-97105"></a>
 - t-001
-  global_id: t-97105
   teiginys: "Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo."
   atnaujinta: "2026-05-31 12:01"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -76,7 +75,6 @@ Nenurodyta
 
 <a id="claim-t-97106"></a>
 - t-002
-  global_id: t-97106
   teiginys: "Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip 20 žuvo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -111,7 +109,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97105
+    - t-001
+
 - id: c-91631
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -125,18 +124,11 @@ Nenurodyta
     vusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­
     tauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­
     šimt žuvo.
-  citata_rodoma: |
-    000
-    kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
-    bent dešimtį kartų mažiau.
-    Metraščiuose skirtingai paduodami skaičiai kautynėse dalyva­
-    vusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­
-    tauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­
-    šimt žuvo.
+  citata_rodoma: "000\nkritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo\nbent dešimtį kartų mažiau.\nMetraščiuose skirtingai paduodami skaičiai kautynėse dalyva­\nvusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­\ntauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­\nšimt žuvo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97106
+    - t-002

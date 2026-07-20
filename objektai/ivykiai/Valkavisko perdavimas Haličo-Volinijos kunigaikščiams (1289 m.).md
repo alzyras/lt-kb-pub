@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-31480"></a>
 - t-001
-  global_id: t-31480
   teiginys: "1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,16 +84,11 @@ Nenurodyta
     leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
     ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
     žemes, ypač Lenkiją.
-  citata_rodoma: |
-    Taikai
-    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
-    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
-    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
-    žemes, ypač Lenkiją.
+  citata_rodoma: "Taikai\npalaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­\nleido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų\nordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų\nžemes, ypač Lenkiją."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31480
+    - t-001

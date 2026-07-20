@@ -39,7 +39,6 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 
 <a id="claim-t-60340"></a>
 - t-001
-  global_id: t-60340
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Jonas, Brabanto kunigaikštis, mūšyje nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,7 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie mūšį netoli Kelno, prie Vurungeno kaimo
+    76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 
       Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
     kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
@@ -70,20 +69,11 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 
 
                              77.
-  citata_rodoma: |
-    Apie mūšį netoli Kelno, prie Vurungeno kaimo
-
-      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
-    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
-    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
-
-
-
-                             77.
+  citata_rodoma: "Apie mūšį netoli Kelno, prie Vurungeno kaimo\n\n  Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto\nkunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų\nkarių, abi šalys neteko nukautaisiais 1300 kilmingųjų.\n\n\n\n                         77."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60340
+    - t-001

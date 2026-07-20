@@ -41,8 +41,7 @@ Duburys šiame šaltinyje yra upuokšnis.
 ## Teiginiai
 
 <a id="claim-t-195480"></a>
-- t-001
-  global_id: t-195480
+- t-002
   teiginys: "Duburys apibūdinamas kaip gilėjantis savo krioklio tėkme."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -52,8 +51,7 @@ Duburys šiame šaltinyje yra upuokšnis.
     - c-177902
 
 <a id="claim-t-195481"></a>
-- t-002
-  global_id: t-195481
+- t-001
   teiginys: "Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku."
   atnaujinta: "2026-07-12 04:09"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -79,32 +77,27 @@ Duburys šiame šaltinyje yra upuokšnis.
     Gi štai devyniolik­
     tame šimtmetyje Duburys atsiminė, jog ir jam vagos reikia, ir pasi­
     rūpino ištiesti ją visa tėkmė ligi pat Ažytės.
-  citata_rodoma: |
-    Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku.
+  citata_rodoma: "Upuokšnis Duburys per keliasdešimt sieksnių nuo susiliejimo su Ažyte neturėjo vagos, bėgo lygia lanka, o pasiekęs Ažytės vagą, krito nuo kranto mažu kriokliuku."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195481
+    - t-001
+
 - id: c-177902
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
   puslapiai: "p. 16 (PDF 14)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 16 (PDF 14)."
   citata_originali: |
-    Bet dabar
-    jos negana.
-    Duburys panoro gilesnės vagos.
-    Tas pats krioklys imasi ją gilinti vi­
-    sa tėkmė.
-  citata_rodoma: |
     Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
+  citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195480
+    - t-002

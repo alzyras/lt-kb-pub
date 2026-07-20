@@ -8,14 +8,14 @@ datos:
   - '1241 m.'
 date_start: '1000'
 date_end: '1241'
-amziai:
-  - 'X'
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - ivykis
+amziai:
+  - 'X'
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,9 +55,8 @@ Nenurodyta
 
 <a id="claim-t-62779"></a>
 - t-001
-  global_id: t-62779
   teiginys: "Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Saracėnai: 0.85"
@@ -73,11 +72,13 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškai perteikia citatos faktą apie Ferdinando pergalę ir duoklę."
   pagrindžia:
     - c-63573
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+
+## Citatos
+
+- id: c-63573
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 
@@ -86,39 +87,11 @@ Nenurodyta
 
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-62779
-## Citatos
-
-- id: c-63573
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
-  citata_originali: |
-    Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
-
-      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
-      596 1241 m. įvykiai.
-
-    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
-    21,33).
-  citata_rodoma: |
-    Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
-
-      Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,
-      596 1241 m. įvykiai.
-
-    kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
-    21,33).
+  citata_rodoma: "23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62779
+    - t-001

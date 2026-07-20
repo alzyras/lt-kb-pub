@@ -31,7 +31,6 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
 
 <a id="claim-t-40631"></a>
 - t-001
-  global_id: t-40631
   teiginys: "Jonas Arvasevičius buvo leidinio kalbos redaktorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
   indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
   citata_originali: |
-    5)(091)
+    UDK 355-48(474.5)(091)
 
     Kalbos redaktorius
     doc. dr. Jonas Arvasevičius
@@ -79,39 +78,12 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
     Šeimyniškių 23/2,
     LT-09236 Vilnius
 
-    tel.
-  citata_rodoma: |
-    5)(091)
-
-    Kalbos redaktorius
-    doc. dr. Jonas Arvasevičius
-
-    Korektorė
-    Ieva Puluikienė
-
-    Fotografė
-    Giedrė Maksimovicz
-
-    Iliustracijas rinko:
-    Karolis Zikaras,
-    Dalius Čižeika,
-    Auksė Ūsienė,
-    Tomas Čeponis
-    Dailininkė
-
-    Loreta Uzdraitė
-
-    Išleido
-
-    Leidykla UAB „ALIO“
-    Šeimyniškių 23/2,
-    LT-09236 Vilnius
-
-    tel.
+    tel. 8 5 266 7711
+  citata_rodoma: "5)(091)\n\nKalbos redaktorius\ndoc. dr. Jonas Arvasevičius\n\nKorektorė\nIeva Puluikienė\n\nFotografė\nGiedrė Maksimovicz\n\nIliustracijas rinko:\nKarolis Zikaras,\nDalius Čižeika,\nAuksė Ūsienė,\nTomas Čeponis\nDailininkė\n\nLoreta Uzdraitė\n\nIšleido\n\nLeidykla UAB „ALIO“\nŠeimyniškių 23/2,\nLT-09236 Vilnius\n\ntel."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40631
+    - t-001

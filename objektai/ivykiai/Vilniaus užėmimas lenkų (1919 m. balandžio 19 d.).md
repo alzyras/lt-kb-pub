@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01849"></a>
 - t-001
-  global_id: t-01849
   teiginys: "1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,16 +83,11 @@ Nenurodyta
     nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
     Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
     landžio 19 d.).
-  citata_rodoma: |
-    Kovos ėjo prie Alytaus, ir kovo mėnesį iš
-    rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
-    nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
-    Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
-    landžio 19 d.).
+  citata_rodoma: "Kovos ėjo prie Alytaus, ir kovo mėnesį iš\nrusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-\nnava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi\nVilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-\nlandžio 19 d.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01849
+    - t-001

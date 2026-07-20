@@ -8,10 +8,10 @@ datos:
   - '1558 m.'
 date_start: '1557'
 date_end: '1558'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-202019"></a>
 - t-001
-  global_id: t-202019
   teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Nenurodyta
 
 <a id="claim-t-202020"></a>
 - t-002
-  global_id: t-202020
   teiginys: "1557 m. vaito, tarybos, suolininkų ir bendruomenės prisiekusiųjų bendru sutarimu (unamini eonsensu) tarybos posėdyje buvo priimtas nedidelis vilkieras dėl naktinės sargybos mieste organizavimo."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -73,6 +71,9 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185367
+
+## Reikšmingi paminėjimai
+Nenurodyta
 
 ## Citatos
 
@@ -92,7 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202019
+    - t-001
 
 - id: c-185367
   autorius: "Zigmantas Kiaupa"
@@ -112,4 +113,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202020
+    - t-002

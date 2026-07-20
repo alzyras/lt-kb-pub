@@ -9,16 +9,16 @@ datos:
   - '1499 m.'
 date_start: '1499'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 
 <a id="claim-t-87520"></a>
 - t-001
-  global_id: t-87520
   teiginys: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,7 +58,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 
 <a id="claim-t-87521"></a>
 - t-002
-  global_id: t-87521
   teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,7 +74,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 
 <a id="claim-t-184713"></a>
 - t-003
-  global_id: t-184713
   teiginys: "Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -96,7 +93,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 
 <a id="claim-t-193913"></a>
 - t-004
-  global_id: t-193913
   teiginys: "Lietuvos metraštis Ivaną Vasiljevičių vaizduoja 1499 m. pradėjusiu karą prieš žentą Aleksandrą po susitarimų su Mengli-Girėjumi ir Steponu."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -110,6 +106,34 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - susijęs iš Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
+    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
+    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-83499
@@ -173,7 +197,8 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87520
+    - t-001
+
 - id: c-83500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -191,30 +216,13 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87521
+    - t-002
+
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Numalšinęs Livoniją ir iš­
-    siuntęs į Maskvą Palenkės
-    vaivadą Vasilijų Tiškevičių,
-    maršalą Mykolą Pašušvinskį
-    bei Lietuvos raštininką Joną
-    Gaiką, turėjusius derėtis su
-    maskvėnais dėl taikos, kara­
-    lius iš stovyklos patraukė į
-    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
-    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
-    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
-    karui prieš skitus ir švedus, baimindamasis, matyt, kad
-    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
-    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
-    tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
-    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
-    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
-  citata_rodoma: |
     Nieko nepešę, kara­
     liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
     ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­
@@ -227,13 +235,15 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
     jog maskvėnai po senovei skriaudžia Lietuvą, o laiš­
     kuose uždraudė minėti ir Maskvos caro, ir Livonijos
     valdovo titulus.
+  citata_rodoma: "Nieko nepešę, kara­\nliaus legatai iškeliavo iš Maskvos, o netrukus pas ka­\nralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­\ntesnės užduoties, tik po senovei protestavęs dėl kaimy­\nnų daromų skriaudų. Šiaip pasiuntinybė turėjo visai\nkitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų\nir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar\nvieną titulą, pasirašydamas Livonijos valdovu. Kara­\nlius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,\njog maskvėnai po senovei skriaudžia Lietuvą, o laiš­\nkuose uždraudė minėti ir Maskvos caro, ir Livonijos\nvaldovo titulus."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184713
+    - t-003
+
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -263,6 +273,7 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193913
+    - t-004
+
 ## Ryšiai
 - Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]

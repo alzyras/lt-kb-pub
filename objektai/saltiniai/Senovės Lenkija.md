@@ -36,7 +36,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 <a id="claim-t-88331"></a>
 - t-001
-  global_id: t-88331
   teiginys: "Vienas iš trijų veikalo „Senovės Lenkija“ tomų skirtas LDK istoriniam topografiniam aprašymui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 <a id="claim-t-88332"></a>
 - t-002
-  global_id: t-88332
   teiginys: "Michałas Balińskis Varšuvoje parašė enciklopedinį leidinį „Senovės Lenkija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,19 +84,15 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
     apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
     dinį leidinį Senovės Lenkija.
-  citata_rodoma: |
-    1841 m. jis tapo vienu iš enciklopedinio
-    pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
-    J. Sniadeckių biografijas, parengė jų darbų rinktines, parašė
-    apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
-    dinį leidinį Senovės Lenkija.
+  citata_rodoma: "1841 m. jis tapo vienu iš enciklopedinio \npobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir \nJ. Sniadeckių biografijas, parengė jų darbų rinktines, parašė \napie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­\ndinį leidinį Senovės Lenkija."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88332
+    - t-002
+
 - id: c-84311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -111,18 +105,11 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga.
-  citata_rodoma: |
-    Balinskis pa­
-    liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
-    čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
-    istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys
-    tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
-    rašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai,
-    jų geografinė padėtis, trumpa istorinė apžvalga.
+  citata_rodoma: "Balinskis pa­\nliko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­\nčiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos \nistorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys \ntomai, kurių vienas skirtas LDK istoriniam topografiniam ap­\nrašymui. Šiame darbe suregistruoti LDK miestai ir miesteliai, \njų geografinė padėtis, trumpa istorinė apžvalga."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88331
+    - t-001

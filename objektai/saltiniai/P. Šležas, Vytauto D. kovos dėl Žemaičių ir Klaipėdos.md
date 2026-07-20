@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-31882"></a>
 - t-001
-  global_id: t-31882
   teiginys: "P. Šležo „Vytauto D. kovos dėl Žemaičių ir Klaipėdos“ paskelbta 1932 m. leidinyje „NaR“, nr. 18, p. 409–412."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ media_all_json: |-
     412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
 
     1933.
-  citata_rodoma: |
-    — Šležas,
-    P. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-
-    412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
-
-    1933.
+  citata_rodoma: "— Šležas,\nP. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-\n412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,\n\n1933."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31882
+    - t-001

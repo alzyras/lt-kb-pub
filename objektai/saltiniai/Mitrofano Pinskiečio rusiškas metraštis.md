@@ -36,7 +36,6 @@ Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad
 
 <a id="claim-t-190549"></a>
 - t-001
-  global_id: t-190549
   teiginys: "Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190549
+    - t-001

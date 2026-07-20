@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-86753"></a>
 - t-001
-  global_id: t-86753
   teiginys: "Prie Vilniaus ne daugiau kaip 200 Burgundijos šaulių ir 300 kitų karių laikinai įsirengė įtvirtinimus iš statybinių medžiagų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ media_all_json: |-
 
 <a id="claim-t-86754"></a>
 - t-002
-  global_id: t-86754
   teiginys: "Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,7 +92,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86753
+    - t-001
+
 - id: c-82733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -119,4 +118,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86754
+    - t-002

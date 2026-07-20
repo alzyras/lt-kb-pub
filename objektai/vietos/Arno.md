@@ -31,9 +31,8 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
 
 <a id="claim-t-192862"></a>
 - t-001
-  global_id: t-192862
   teiginys: "Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dnepro ir Dono."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,31 +49,10 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175632
-    - c-001
 - susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
 - susijęs iš [[objektai/grupes/Pelazgai.md#claim-t-192436|Pelazgai]]: Teodoro Narbuto aiškinimu, įvairios pelazgų kartos perėjo į helenų tautą, o iš pelazgų kalbos susiformavo graikų kalba.
 - susijęs iš Dnepras: Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.
 - susijęs iš Po: Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dnepro ir Dono.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192862
 ## Citatos
 
 - id: c-175632
@@ -90,19 +68,11 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
     čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
     pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
     Dono.
-  citata_rodoma: |
-    Būtent dėl šių priežasčių įvairios
-    pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
-    bos susiformavo graikų kalba.
-    17
-    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
-    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
-    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
-    Dono.
+  citata_rodoma: "Būtent dėl šių priežasčių įvairios\npelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­\nbos susiformavo graikų kalba.\n17\nPelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­\nčiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,\npradedant nuo Po ir Arno upių žiočių net iki Dnepro ir\nDono."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192862
+    - t-001

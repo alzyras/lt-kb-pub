@@ -33,7 +33,6 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 
 <a id="claim-t-86219"></a>
 - t-001
-  global_id: t-86219
   teiginys: "Voigtas, remdamasis Vygandu, Rudminne kaimą tapatino su dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,4 +75,4 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86219
+    - t-001

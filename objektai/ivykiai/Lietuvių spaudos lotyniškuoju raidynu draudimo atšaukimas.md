@@ -54,7 +54,6 @@ Nenurodyta
 
 <a id="claim-t-77898"></a>
 - t-001
-  global_id: t-77898
   teiginys: "1904 m. pavasarį panaikinus lietuvių spaudos lotyniškuoju raidynu draudimą, krašte greitai atsirado legali lietuvių spauda."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -85,15 +84,11 @@ Nenurodyta
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
     greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-  citata_rodoma: |
-    Bręstant revoliucijai visoje Rusijoje caro valdžiai teko daryti nuolaidų.
-    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
-    atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
-    greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
+  citata_rodoma: "Bręstant revoliucijai visoje Rusijoje caro valdžiai teko daryti nuolaidų. \nDidžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį \natšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus \ngreitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77898
+    - t-001

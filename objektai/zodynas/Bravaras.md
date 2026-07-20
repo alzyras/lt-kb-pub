@@ -52,19 +52,6 @@ Bravaras šiame šaltinyje yra degtinės varymo ir pardavimo vieta.
 
 Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195615"></a>
-- t-001
-  global_id: t-195615
-  teiginys: "Bravaras šiame šaltinyje yra vieta, kur iš salyklos išvaroma degtinė."
-  atnaujinta: "2026-07-12 08:45"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178017
-
 ## Citatos
 
 - id: c-178017
@@ -78,12 +65,9 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
     Čia buvo bravariukas.“
     Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
-  citata_rodoma: |
-    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
+  citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
   atnaujinta: "2026-07-12 08:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195615

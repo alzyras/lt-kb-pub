@@ -36,7 +36,6 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 
 <a id="claim-t-31676"></a>
 - t-001
-  global_id: t-31676
   teiginys: "P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,14 +64,11 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
     P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-
     iürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos
     istorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai.
-  citata_rodoma: |
-    P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-
-    iürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos
-    istorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai.
+  citata_rodoma: "P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-\niürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos\nistorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31676
+    - t-001

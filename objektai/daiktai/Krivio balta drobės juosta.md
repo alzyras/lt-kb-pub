@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189727"></a>
 - t-001
-  global_id: t-189727
   teiginys: "Narbutas rašė, kad žyniai vilkėdavo įprastus drabužius ir septynis kartus apsivyniodavo baltos drobės juosta."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -86,4 +85,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189727
+    - t-001

@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-193016"></a>
 - t-001
-  global_id: t-193016
   teiginys: "Žiemos kinkinys, pasak Narbuto, leido žiemą keliauti pasroviui arba vandens kelių kryptimi, kai vasarą pakakdavo valties."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193016
+    - t-001

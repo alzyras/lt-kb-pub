@@ -50,7 +50,6 @@ Nenurodyta
 
 <a id="claim-t-01848"></a>
 - t-001
-  global_id: t-01848
   teiginys: "Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,14 +85,11 @@ Nenurodyta
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
     tautinių mažumų atstovai.
-  citata_rodoma: |
-    Konferencijos sudarytai programai vykdyti buvo išrinkta
-    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
-    tautinių mažumų atstovai.
+  citata_rodoma: "Konferencijos sudarytai programai vykdyti buvo išrinkta\nTaryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti\ntautinių mažumų atstovai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01848
+    - t-001

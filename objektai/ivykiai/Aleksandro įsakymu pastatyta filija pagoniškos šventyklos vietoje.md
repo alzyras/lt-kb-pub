@@ -43,9 +43,8 @@ Nenurodyta
 
 <a id="claim-t-189617"></a>
 - t-001
-  global_id: t-189617
   teiginys: "Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,26 +60,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172500
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Prie Kražių miestelio, Kražantės upės
-    kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
-    dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
-    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
-    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
-    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
-    toje buvo pastatyta filija .
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189617
+
 ## Citatos
 
 - id: c-172500
@@ -88,15 +68,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
-    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
-    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
-    niavos. Visokios pastabos ir istorijos liudijimai teikia žinių, kad
-    lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
-    nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
-    dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
-    mu deramai pateisindavo nuomonę apie juos.
-  citata_rodoma: |
     Prie Kražių miestelio, Kražantės upės
     kairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-
     dziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­
@@ -104,10 +75,11 @@ Nenurodyta
     Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
     dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
     toje buvo pastatyta filija .
+  citata_rodoma: "Prie Kražių miestelio, Kražantės upės\nkairiajame krante, ant Medžiokalnio kalno, stovėjo deivės Me-\ndziojnos šventykla . Tai tikriausiai pati seniausia šventovė Že­\nmaitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,\nVilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­\ndant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­\ntoje buvo pastatyta filija ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189617
+    - t-001

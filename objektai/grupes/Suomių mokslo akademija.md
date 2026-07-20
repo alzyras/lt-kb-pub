@@ -56,7 +56,6 @@ Mokslo akademija.
 
 <a id="claim-t-195504"></a>
 - t-001
-  global_id: t-195504
   teiginys: "Suomių mokslo akademija buvo pažadėjusi paskirti vieną savo leidinį likusiam lietuvių dainų rankraščiui ir anksčiau buvo išleidusi kitą su tuo darbu susijusią knygą."
   atnaujinta: "2026-07-12 04:52"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
@@ -73,28 +72,12 @@ Mokslo akademija.
   puslapiai: "p. 8 (PDF 7)"
   indeksas: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“, p. 8 (PDF 7)."
   citata_originali: |
-    Todėl jam nesunku buvo kad ir mūsų dainyne pastebėti
-    atskiras rūšis ir tam lietuvių dainų rinkiny, kur jis savo rytų šiaurės
-    Lietuvos dainas drauge su mano surinktomis sudėjo, tvirta ranka pa­
-    darė dainų klasifikaciją ir tuo įnešė šviesos į mūsų dainyną ir taip pa­
-    lengvino jų studijas.
-    Ne vien savo studijomis prof. Niemi nusipelnė mūsų tautosakai:
-    jis dar tą tautosaką padidino.
-    Savo toms studijoms jis pats ieškojo
-    medžiagos, ir šiame dalyke jis didelį darbą mums padarė: jo rinkimo
-    metu lietuvių liaudies daina tebebuvo gyva, ir jis jų surinko pusketvir­
-    to tūkstančio; dalis minėto j anksčiau knygoj „Lietuvių dainos ir gies­
-    mės“ jau atspausdintos, o likusias, rankrašty, atidavė man, šiemet bū­
-    nant Suomijoj, parvežti į Lietuvą, suklasifikuoti ir prirengti spaudai,
-    nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną
-    savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą iš­
-    leido.
-  citata_rodoma: |
     Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido.
+  citata_rodoma: "Nes joms išleisti jų Mokslo Akademija buvo pažadėjusi paskirti vieną savo leidinį: ta pati Suomių mokslo akademija, kuri ir aną knygą išleido."
   statusas: verified
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195504
+    - t-001

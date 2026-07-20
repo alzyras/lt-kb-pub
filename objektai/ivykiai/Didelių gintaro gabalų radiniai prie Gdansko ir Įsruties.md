@@ -42,9 +42,8 @@ Nenurodyta
 
 <a id="claim-t-191040"></a>
 - t-001
-  global_id: t-191040
   teiginys: "Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,10 +59,9 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173922
-    - c-001
+
 <a id="claim-t-197533"></a>
 - t-002
-  global_id: t-197533
   teiginys: "Seniau į daugelį vaistų būdavo dedama skysto gintaro medžiagų, eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in dai ir kinai; pas mus jis dedamas į lakus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -74,27 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-179234
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Vien Sembos pakrantėje esame turtingiausių kasyklų, ir
-    jūra išmeta daugiausia tikro ir labiausiai blizgančio gin­
-    taro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
-    vos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais
-    itin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­
-    krantėse. Be to, iš dalies aptinkama šios medžiagos kitose
-    Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
-    teigiama, neseniai atradęs didelių gintaro klodų1 Avos
-    karalystėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191040
 ## Citatos
 
 - id: c-173922
@@ -102,20 +79,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    Gero gintaro kietumas šipina geležį, jis gražiausiai
-    blizga, jo skaidrumas, vidinis gyslotumas ir dažnai bliz­
-    gančių žvynelių lūžiai daro jį vertingą; senovėje jis buvo
-    prilyginamas brangakmeniams. Lengvumas ir žinomos
-    cheminės savybės liepia priskirti jį sakų klasei; patrintas
-    pritraukia lengvus kūnus, iš jo atsirado elektros pavadi­
-    nimas ir davė pradžią supratimui apie elektrą. Pridėtas
-    prie skaudamos žmogaus kūno dalies, jis skatina trans­
-    piraciją, smilkdamas išskiria maloniai kvepiančių, orą
-    gryninančių dūmų, padeda gydyti reumato ligas. Seniau į
-    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
-    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
-    dai ir kinai; pas mus jis dedamas į lakus.
-  citata_rodoma: |
     Vien Sembos pakrantėje esame turtingiausių kasyklų, ir
     jūra išmeta daugiausia tikro ir labiausiai blizgančio gin­
     taro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­
@@ -125,13 +88,15 @@ Nenurodyta
     Europos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip
     teigiama, neseniai atradęs didelių gintaro klodų1 Avos
     karalystėje.
+  citata_rodoma: "Vien Sembos pakrantėje esame turtingiausių kasyklų, ir\njūra išmeta daugiausia tikro ir labiausiai blizgančio gin­\ntaro. Nemažai jo randama ir pakrantėse Vyslos ir Daugu­\nvos žiočių link, Lenkijoje prie Ostrolenkos, o tais laikais\nitin gražių ¡gintaro egzempliorių rasta ir Narevo upės pa­\nkrantėse. Be to, iš dalies aptinkama šios medžiagos kitose\nEuropos dalyse, Azijoje ir Afrikoje; anglas Saimsas, kaip\nteigiama, neseniai atradęs didelių gintaro klodų1 Avos\nkaralystėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191040
+    - t-001
+
 - id: c-179234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -153,4 +118,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197533
+    - t-002

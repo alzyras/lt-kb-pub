@@ -28,7 +28,6 @@ Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusie
 
 <a id="claim-t-201262"></a>
 - t-001
-  global_id: t-201262
   teiginys: "Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusieji tarp savęs susitaikinti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusie
 ## Citatos
 
 - id: c-184612
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant tos
     šventės turėjo gaspadoriąi savo šeimyną nuvaišinti
@@ -59,4 +59,4 @@ Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201262
+    - t-001

@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93025"></a>
-- t-001
-  global_id: t-93025
+- t-003
   teiginys: "Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,8 +73,7 @@ Nenurodyta
     - c-37108
 
 <a id="claim-t-93026"></a>
-- t-002
-  global_id: t-93026
+- t-001
   teiginys: "Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-37108
 
 <a id="claim-t-93027"></a>
-- t-003
-  global_id: t-93027
+- t-004
   teiginys: "Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -122,20 +119,16 @@ Nenurodyta
     šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
-  citata_rodoma: |
-    Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
+  citata_rodoma: "Lie­\ntuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei\nšis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna\nteisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą\nteisę seniau."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93025
-    - t-93026
+    - t-003
+    - t-001
+
 - id: c-88434
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,4 +148,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93027
+    - t-004

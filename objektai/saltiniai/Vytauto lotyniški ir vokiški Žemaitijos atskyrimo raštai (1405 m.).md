@@ -38,8 +38,7 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 ## Teiginiai
 
 <a id="claim-t-186303"></a>
-- t-001
-  global_id: t-186303
+- t-003
   teiginys: "Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Lietuvos ir prijungiama prie kryžiuočių valdų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     - c-169664
 
 <a id="claim-t-193377"></a>
-- t-002
-  global_id: t-193377
+- t-005
   teiginys: "Kai kurie metraštininkai rašė, kad po Jogailos mirties Vytautas turėjęs paveldėti karalystę, bet sutarties raštuose to nebuvo."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186303
+    - t-003
+
 - id: c-176102
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -129,4 +128,4 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193377
+    - t-005

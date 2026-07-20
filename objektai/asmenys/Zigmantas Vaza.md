@@ -5,21 +5,22 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1597 m.'
+  - '1576 m.'
   - '1632 m.'
-date_start: '1597'
+date_start: '1576'
 date_end: '1632'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XVII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
-amziai:
-  - 'XVI'
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '42'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Anonymous_Sigismund_III_Vasa_%28detail%29.jpg/1920px-Anonymous_Sigismund_III_Vasa_%28detail%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_III_Vasa_%28detail%29.jpg'
@@ -42,20 +43,8 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Teiginiai
 
-<a id="claim-t-82984"></a>
-- t-001
-  global_id: t-82984
-  teiginys: "Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-79402
-
 <a id="claim-t-82985"></a>
-- t-002
-  global_id: t-82985
+- t-006
   teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,8 +54,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79405
 
 <a id="claim-t-82987"></a>
-- t-003
-  global_id: t-82987
+- t-009
   teiginys: "1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +74,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79403
 
 <a id="claim-t-82988"></a>
-- t-004
-  global_id: t-82988
+- t-010
   teiginys: "1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -107,8 +94,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - c-79401
 
 <a id="claim-t-194248"></a>
-- t-005
-  global_id: t-194248
+- t-011
   teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -118,6 +104,66 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176844
+
+<a id="claim-t-201559"></a>
+- t-012
+  teiginys: "1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184906
+
+<a id="claim-t-201560"></a>
+- t-013
+  teiginys: "1622 m. Zigmantas Vaza ginčą išsprendė Vilniaus naudai, kauniečiams buvo įsakyta netrukdyti vilniečiams prekiauti Kaune ir leisti gabenti prekes savo arkliais."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184907
+
+<a id="claim-t-201561"></a>
+- t-014
+  teiginys: "1580 m. Steponas Batoras leido Kauno cecho siuvėjams naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184908
+
+<a id="claim-t-201562"></a>
+- t-015
+  teiginys: "Vis dėlto 1626 m. Zigmantas Vaza nusprendė, kad Kauno miestas, kuris buvo gavęs leidimą pasigaminti pelenLĮ Kauno girioje ir už juos gautas pajamas panaudoti savo reikalams, privalo pastatyti prie vienuolyno ir jo bažnyčios pylimą arba krantinę."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184909
+
+<a id="claim-t-201563"></a>
+- t-016
+  teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184910
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
 - susijęs iš Livonija: Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.
@@ -139,23 +185,15 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     teritoriją siekdami atgauti Smolenską.
 
     24 tūkst. rusų kariuomenė, vadovau-
-  citata_rodoma: |
-    Mūšis
-    1632 m. maskvėnai, pasinaudodami
-
-    tuo, kad po Zigmanto Vazos mirties jo
-    sūnus Vladislovas dar nebuvo įsitvirtinęs
-    Lenkijos-Lietuvos soste, įsiveržė į Lietuvos
-    teritoriją siekdami atgauti Smolenską.
-
-    24 tūkst.
+  citata_rodoma: "Mūšis\n1632 m. maskvėnai, pasinaudodami\n\ntuo, kad po Zigmanto Vazos mirties jo\nsūnus Vladislovas dar nebuvo įsitvirtinęs\nLenkijos-Lietuvos soste, įsiveržė į Lietuvos\nteritoriją siekdami atgauti Smolenską.\n\n24 tūkst."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82988
+    - t-010
+
 - id: c-79402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,15 +203,13 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     1. Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294
     2. Zigmantas Vaza ir jo valdymas 298
     3.
-  citata_rodoma: |
-    2. Zigmantas Vaza ir jo valdymas 298
+  citata_rodoma: "2. Zigmantas Vaza ir jo valdymas 298"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-82984
 - id: c-79403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +228,8 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82987
+    - t-009
+
 - id: c-79405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -201,15 +238,15 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     **8. Zigmanto Vazos valdymo charakteristika**
     Zigmantas mirė 1632 m., iškaraliavęs net 44 m. Jo valdy-
     mas nei Lietuvai nei Lenkijai nieko gero nedavė.
-  citata_rodoma: |
-    Zigmantas mirė 1632 m., iškaraliavęs net 44 m.
+  citata_rodoma: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-82985
+    - t-006
+
 - id: c-176844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -231,6 +268,93 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194248
+    - t-011
+
+- id: c-184906
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Net jei miestiečiai nesirūpindavo svečių pirklių priežiūra, jiems tekdavo išgirsti
+    griežtą valdovo žodį, primenantį jų teises ir pareigas. 1631 m. Zigmantas Vaza rašė
+    Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to,
+    kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos
+    Kaune.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-184907
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Be to, vilniečiai skundėsi, kad Kaune laikinai
+    sukrautų prekių kauniečiai neleidžia išvežti savais arkliais, reikalaudami tam samdyti
+    Kauno vežikus. 1622 m. Zigmantas Vaza ginčą išsprendė Vilniaus naudai, kaunie-
+    čiams buvo įsakyta netrukdyti vilniečiams prekiauti Kaune ir leisti gabenti prekes
+    savo arkliais.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-184908
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1580 m. Steponas Batoras leido Kauno cecho siuvėjams
+    naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-184909
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Miestas aiškino darbus pradėjęs, bet
+    norįs, kad miestas ir vienuolynas darbus pasidalytų. Vis dėlto 1626 m. Zigmantas
+    Vaza nusprendė, kad Kauno miestas, kuris buvo gavęs leidimą pasigaminti pelenLĮ
+    Kauno girioje ir už juos gautas pajamas panaudoti savo reikalams, privalo pastatyti
+    prie vienuolyno ir jo bažnyčios pylimą arba krantinę.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-184910
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    Be to, miestui išsirūpinus valdovų leidimus ruošti miško medžiagą miesto girioje,
+    pajamos iš šio verslo turėjo tekti, be kita ko, rotušės statybai. Tai sakoma 1576 m.
+    Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime,
+    1594 m. Zigmanto Vazos leidime.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 ## Ryšiai
-- Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]
+- Zigmantas Vaza keliavo į Švedija

@@ -30,7 +30,6 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
 
 <a id="claim-t-86288"></a>
 - t-001
-  global_id: t-86288
   teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86288
+    - t-001

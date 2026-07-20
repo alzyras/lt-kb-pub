@@ -31,9 +31,8 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 
 <a id="claim-t-189398"></a>
 - t-001
-  global_id: t-189398
   teiginys: "Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,10 +48,9 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172285
-    - c-001
+
 <a id="claim-t-194606"></a>
 - t-002
-  global_id: t-194606
   teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -66,7 +64,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 
 <a id="claim-t-197228"></a>
 - t-003
-  global_id: t-197228
   teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -195,29 +192,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
 - susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189121|Užuotas ąžuolas]]: Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą.
 - susijęs iš [[objektai/zodynas/Žvaigždininkas Zwajždinikas.md#claim-t-189352|Žvaigždininkas Zwajždinikas]]: Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždžių ir liaudies padavimuose prilygina juodaknygininkui.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Jeronimas įtikino, kad tai apgavystė, sugriovė
-    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
-    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
-    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
-    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
-    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
-    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
-    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
-    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
-    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
-    no paviete, kur lietuviai gyvena, ir Trakų.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189398
 ## Citatos
 
 - id: c-172285
@@ -225,20 +199,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    akimirką, užsimojęs kirviu į medį milžiną, minios padedamas,
-    su didžiausiu trenksmu nuvertė jį ir iškirto visą giraitę. Tame
-    krašte buvo daug vienodai garbinamų giraičių; kai tik Jeroni­
-    mas susiruošdavo jas kirsti, nesuskaičiuojamos verkiančių ir
-    aimanuojančių moterų minios atbėgdavo skųstis Vytautui, kad
-    kertami šventi miškai ir iš dievų atimamas prieglobstis. Žmo­
-    nės melsdavę jų dieviškosios pagalbos, kai iškildavęs reikalas,
-    o dabar nežiną, kurioje vietoje ieškoti dievo. Tas pats Jeroni­
-    mas, svetimšalis, trokštąs išnaikinti šventyklas, orakulus ir dievų
-    stabus, per ką dievai paprastai bendraudavę su žmonėmis, įve­
-    dęs kažkokias naujas paslaptis, o protėvių papročius norįs iš­
-    guiti, todėl jie prašydavo ir maldaudavo, kad neleistų naikinti
-    protėvių tikėjimo.
-  citata_rodoma: |
     Jeronimas įtikino, kad tai apgavystė, sugriovė
     šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
     liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
@@ -250,13 +210,15 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
     tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
     no paviete, kur lietuviai gyvena, ir Trakų.
+  citata_rodoma: "Jeronimas įtikino, kad tai apgavystė, sugriovė\nšventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­\nliaudamas toliau, atrado saulės garbintojus; jie ypač garbino\ndidžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­\nmas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,\nkadangi vienas galingas karalius pagrobęs ją laikė uždarytą\ntvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo\ndidžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­\ngaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­\ntystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­\nno paviete, kur lietuviai gyvena, ir Trakų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189398
+    - t-001
+
 - id: c-177005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -278,7 +240,8 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194606
+    - t-002
+
 - id: c-179075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -300,6 +263,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197228
+    - t-003
+
 ## Ryšiai
 - Žyniai gyveno [[objektai/vietos/Upsala]]

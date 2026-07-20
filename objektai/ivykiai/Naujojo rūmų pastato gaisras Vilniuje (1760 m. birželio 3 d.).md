@@ -60,8 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-200607"></a>
-- t-001
-  global_id: t-200607
+- t-002
   teiginys: "Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -82,8 +81,7 @@ Nenurodyta
     - c-183999
 
 <a id="claim-t-200608"></a>
-- t-002
-  global_id: t-200608
+- t-001
   teiginys: "1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::events"
@@ -114,24 +112,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 8"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 8."
-  citata_originali: |
-    1754 m.
-    jis rašė Anykščių seniūnui Mykolui Ksaverui Sapiegai apie tai, kad laikraščiai pranešė,
-    jog įgriuvo Sluškų rūmų stogas, sugrius ir visas pastatas, tokios nelaimės gresia ir kitiems
-    namams, nes lauke ekstremaliai daug sniego [32]. J. D. Lopacinskio laiškuose taip pat
-    buvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad
-    Vyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes
-    ugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60].
-  citata_rodoma: |
-    J. D. Lopacinskio laiškuose taip pat
-    buvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad
-    Vyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes
-    ugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60].
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 07:10"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200607
-    - t-200608
+    - t-002
+    - t-001

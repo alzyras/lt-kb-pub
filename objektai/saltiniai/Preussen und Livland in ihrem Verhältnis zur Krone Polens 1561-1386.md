@@ -39,7 +39,6 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
 
 <a id="claim-t-31894"></a>
 - t-001
-  global_id: t-31894
   teiginys: "K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,13 +71,11 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
     **_Bibliographie der Geschichte von Ost- und Westpreussen._** **— Žymėtinas vei­
     kalas : J. Jacoby :** **_Boguslaus Radziwiłł, der Statthalter des Grossen Kurfür­
     sten in Ostpreussen_** **(1959).
-  citata_rodoma: |
-    , K. D. Stammler :** **_Preussen und Livland in ihrem Verhältnis
-    zur Krone Polens 1561-1386_** **(1953); H.
+  citata_rodoma: ", K. D. Stammler :** **_Preussen und Livland in ihrem Verhältnis\nzur Krone Polens 1561-1386_** **(1953); H."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31894
+    - t-001

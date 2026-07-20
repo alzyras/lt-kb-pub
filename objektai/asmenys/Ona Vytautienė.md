@@ -37,8 +37,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 ## Teiginiai
 
 <a id="claim-t-181595"></a>
-- t-001
-  global_id: t-181595
+- t-011
   teiginys: "Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -182,4 +181,4 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181595
+    - t-011

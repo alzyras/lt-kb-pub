@@ -37,7 +37,6 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 
 <a id="claim-t-15351"></a>
 - t-001
-  global_id: t-15351
   teiginys: "Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,11 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
     218
     Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
     viai sudarė apie 80 proc. visų gyventojų.
-  citata_rodoma: |
-    Nors sovietmečiu daug rusakalbių apsi-
-    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
-
-    L I E T U V O S  I S T O R I J A
-    218
-    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
-    viai sudarė apie 80 proc. visų gyventojų.
+  citata_rodoma: "Nors sovietmečiu daug rusakalbių apsi-\ngyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje\n\nL I E T U V O S  I S T O R I J A\n218\nLietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-\nviai sudarė apie 80 proc. visų gyventojų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-15351
+    - t-001

@@ -46,9 +46,8 @@ Nenurodyta
 
 <a id="claim-t-189744"></a>
 - t-001
-  global_id: t-189744
   teiginys: "Narbutas saitininkus apibūdina kaip pranašautojus gydytojus, kurie ligas gydydavo ant ligonio kaklo kabinamais amuletais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,27 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172627
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas saitininkus apibūdina kaip pranašautojus gydytojus, kurie ligas gydydavo ant ligonio kaklo kabinamais amuletais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Štai jų vertimas: „Einu aplink more, ¡no­
-    re užkemšu, more užsikimšk, kraujau, sukepk!“
-    Saitininkai (Sejtones)
-    Pranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,
-    užkabindami ant ligonio kaklo tam tikrus amuletus' .
-    Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
-    Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
-    druską.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-189744
+
 ## Citatos
 
 - id: c-172627
@@ -92,17 +71,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    O tos, kurios norėjo tar­
-    nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
-    šalias vietas, kur tapdavo ypatingomis pranašautojomis34. Dėl
-    vaidilučių drabužių taip pat neturime tikrų duomenų; kadan­
-    gi jos buvo Romos vestalių kopija, tai atrodo, kad tikriausiai ir
-    drabužiai buvo į jų panašūs.
-    33 Viename liaudies padavime pasakojama: šventa mergelė (vai­
-    dilutė) buvo apkalbėta, kad susidėjusi su nepažįstamu bajoru; ją ve­
-    žė dvejetu juodų karvių, norėdami užsiūti odiniame maiše su šuni­
-    mi, katinu ir gyvate ir nuskandinti Nemune.
-  citata_rodoma: |
     Štai jų vertimas: „Einu aplink more, ¡no­
     re užkemšu, more užsikimšk, kraujau, sukepk!“
     Saitininkai (Sejtones)
@@ -111,10 +79,11 @@ Nenurodyta
     Kaunu Ra ugi s (žiūrėtojas į alaus ryką)
     Žiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į
     druską.
+  citata_rodoma: "Štai jų vertimas: „Einu aplink more, ¡no­\nre užkemšu, more užsikimšk, kraujau, sukepk!“\nSaitininkai (Sejtones)\nPranašautojai gydytojai, kurie mokėdavo gydyti visas ligas,\nužkabindami ant ligonio kaklo tam tikrus amuletus' .\nKaunu Ra ugi s (žiūrėtojas į alaus ryką)\nŽiūrėtojas į alaus ryką, arba Sahls puhszlotajs, -  pūfėjas į\ndruską."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189744
+    - t-001

@@ -40,8 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182872"></a>
-- t-001
-  global_id: t-182872
+- t-013
   teiginys: "Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-166277
 
 <a id="claim-t-184316"></a>
-- t-002
-  global_id: t-184316
+- t-014
   teiginys: "Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184316
+    - t-014
+
 - id: c-166277
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -116,16 +115,11 @@ media_all_json: |-
     metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
     puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
     čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
-  citata_rodoma: |
-    Kad lietuvių nuosto­
-    liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat
-    metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
-    puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
-    čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
+  citata_rodoma: "Kad lietuvių nuosto­\nliai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat\nmetais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose\npuolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­\nčiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182872
+    - t-013

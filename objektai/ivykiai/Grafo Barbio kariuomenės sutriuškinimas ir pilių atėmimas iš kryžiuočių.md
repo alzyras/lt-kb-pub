@@ -42,8 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193354"></a>
-- t-001
-  global_id: t-193354
+- t-003
   teiginys: "Po Mindaugo pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -83,4 +82,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193354
+    - t-003

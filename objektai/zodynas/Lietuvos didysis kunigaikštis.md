@@ -30,8 +30,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 ## Teiginiai
 
 <a id="claim-t-185374"></a>
-- t-001
-  global_id: t-185374
+- t-002
   teiginys: "Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -50,8 +49,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168735
 
 <a id="claim-t-185376"></a>
-- t-002
-  global_id: t-185376
+- t-004
   teiginys: "Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -70,8 +68,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168737
 
 <a id="claim-t-185377"></a>
-- t-003
-  global_id: t-185377
+- t-005
   teiginys: "Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -90,8 +87,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168738
 
 <a id="claim-t-193379"></a>
-- t-004
-  global_id: t-193379
+- t-006
   teiginys: "Kojelavičiaus pasakojime tremtyje tarp kryžiuočių gyvenęs lietuvis siekė įsigyti didžiojo kunigaikščio titulą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -160,12 +156,10 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184629|maršalas]]: Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
-## Citatos
-
-- id: c-168735
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai gaišęs, karalius ėmėsi vi­
     sokiais būdais taikyti valstybės galvas, kunigaikš­
@@ -193,7 +187,43 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
     mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
     kus, Kremenecą ir kai kurias kitas mažesnes valdas.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkai tik tada sužinojo apie Kazimiero
+    apvainikavimą, kai išgirdo šventiškai džiugų varpų gau­
+    desį. Įsižeidę dėl šitokios apgaulės, lenkai ėmė skųstis,
+    kad, girdi, lietuviai pažeidė susitarimą, sulaužė šventąją
+    priesaiką, pamynė po kojo-
+    L en k a m s
+    sku n džian -
+    mis Vladislovo karališkąją di-
+    tis, teisin asi
+    dybę ir viską, kas šventa. Sa­
+    vo ruožtu lietuviai tvirtino,
+    jog nesulaužė duoto žodžio, jog viskas po senovei ne­
+    pažeista, viskas kaip buvę. Tegu neužmiršta lenkai, ko­
+    kios grėsmingos jėgos gali tinkamu metu pakilti prieš
+    žmonių įstatymus ir susitarimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-168735
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Alek­
     sandras Vytautas su žmona
     Ona savo bei savo palikuonių vardu turįs prisiekti, kad
@@ -217,13 +247,15 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 
     žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
     dino pilių viršininkų.
+  citata_rodoma: "Alek­\nsandras Vytautas su žmona\nOna savo bei savo palikuonių vardu turįs prisiekti, kad\njis su visomis Lietuvos valdomis amžinai liksiąs paklus­\nnus bei ištikimas karaliui; šventai saugosiąs Lietuvos\nkunigaikštystės sąjungą ir sandraugą su Lenkijos ka­\nralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­\nžeisti; visada laikysiąs savo draugais ir priešais Lenkijos\nkaralystės bei Lenkijos karaliaus draugus ir priešus; su\nSkirgaila visada stengsiąsis gyventi taikoje ir broliškoje\nsantarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­\ngailai bei jo palikuonims Kijevo kunigaikštystę su viso­\nmis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­\nkus, Kremenecą ir kai kurias kitas mažesnes valdas.\nTuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis\nkunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­\ngaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto\n330\n\n## Puslapis 329\n\nžinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­\ndino pilių viršininkų."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185374
+    - t-002
+
 - id: c-168737
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -245,28 +277,13 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185376
+    - t-004
+
 - id: c-168738
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Lenkai tik tada sužinojo apie Kazimiero
-    apvainikavimą, kai išgirdo šventiškai džiugų varpų gau­
-    desį. Įsižeidę dėl šitokios apgaulės, lenkai ėmė skųstis,
-    kad, girdi, lietuviai pažeidė susitarimą, sulaužė šventąją
-    priesaiką, pamynė po kojo-
-    L en k a m s
-    sku n džian -
-    mis Vladislovo karališkąją di-
-    tis, teisin asi
-    dybę ir viską, kas šventa. Sa­
-    vo ruožtu lietuviai tvirtino,
-    jog nesulaužė duoto žodžio, jog viskas po senovei ne­
-    pažeista, viskas kaip buvę. Tegu neužmiršta lenkai, ko­
-    kios grėsmingos jėgos gali tinkamu metu pakilti prieš
-    žmonių įstatymus ir susitarimus.
-  citata_rodoma: |
     Negi jie mano,
     kad žmonės, dabar taip ryžtingai remią į sostą pakeltą
     kunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­
@@ -276,13 +293,15 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     jie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­
     jų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių
     pavojų gyvenantys lenkai?
+  citata_rodoma: "Negi jie mano,\nkad žmonės, dabar taip ryžtingai remią į sostą pakeltą\nkunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­\nprastą vietininką? Lietuva šiuo metu atsidūrusi tokioje\npadėtyje, kad jai reikalingas ne vietininkas, pavaduo­\njąs karalių, o valdovas, galįs pats spręsti ir veikti. Negi\njie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­\njų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių\npavojų gyvenantys lenkai?"
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185377
+    - t-005
+
 - id: c-176104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -311,4 +330,4 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193379
+    - t-006

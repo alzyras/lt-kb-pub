@@ -39,7 +39,6 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 
 <a id="claim-t-79297"></a>
 - t-001
-  global_id: t-79297
   teiginys: "Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -56,7 +55,6 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 
 <a id="claim-t-79298"></a>
 - t-002
-  global_id: t-79298
   teiginys: "1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +75,6 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 
 <a id="claim-t-184929"></a>
 - t-003
-  global_id: t-184929
   teiginys: "Po Vytenio žygio į Varmę lietuviai grobio prisiplėšusius karius nuvedė į Bartos žemę ir sustojo pailsėti atvirame lauke."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -126,7 +123,8 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79297
+    - t-001
+
 - id: c-76337
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,21 +138,15 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
     Nuo lietuvių puolimo Ordinas bandė sau-
     goti Sembą. Magistras su gausia kariuomene
     įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: |
-    1347 m. vasarį „abu lietuvių karaliai“
-    puolė Prūsijoje Rastenburgą, niokojo
-    Bartos žemę iki Girdavų pilies, apgulė
-    Lunenburgą, sunaikino jo papilį.
-
-    Nuo lietuvių puolimo Ordinas bandė sau-
-    goti Sembą.
+  citata_rodoma: "1347 m. vasarį „abu lietuvių karaliai“\npuolė Prūsijoje Rastenburgą, niokojo\nBartos žemę iki Girdavų pilies, apgulė\nLunenburgą, sunaikino jo papilį.\n\nNuo lietuvių puolimo Ordinas bandė sau-\ngoti Sembą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79298
+    - t-002
+
 - id: c-168290
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,21 +172,11 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
     įniršiu išpylęs žemėn, apspjaudė, kojomis sutrypė, ši­
     tokį siaubingą išniekinimą palydėdamas šventvagiškais
     burnojimais.
-  citata_rodoma: |
-    Lietuviai nuvedė
-    prisiplėšusius grobio karius
-    į Bartos žemę, kur atvirame
-    lauke sustojo pailsėti. Kai čia
-    ilsėdamiesi skaičiavo grobį,
-    belaisviai išvydo atnešant sidabrinį, visiems krikščio­
-    nims šventą indą, kur esti saugomas švenčiausias die­
-    vo kūnas. Sudrebėjo siaubo apimtos krikščionių širdys
-    krūtinėse iš pagarbos šventenybei ir iš skausmo dėl
-    jos išniekinimo.
+  citata_rodoma: "Lietuviai nuvedė \nprisiplėšusius grobio karius \nį Bartos žemę, kur atvirame \nlauke sustojo pailsėti. Kai čia \nilsėdamiesi skaičiavo grobį, \nbelaisviai išvydo atnešant sidabrinį, visiems krikščio­\nnims šventą indą, kur esti saugomas švenčiausias die­\nvo kūnas. Sudrebėjo siaubo apimtos krikščionių širdys \nkrūtinėse iš pagarbos šventenybei ir iš skausmo dėl \njos išniekinimo."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184929
+    - t-003

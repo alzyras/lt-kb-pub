@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-32186"></a>
 - t-001
-  global_id: t-32186
   teiginys: "IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,14 +58,11 @@ media_all_json: |-
     santykius. Šitaip per Gudijos plotus Lietuvon dar IX amž.
     pirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­
     vas (latviškai — birkavs), kilęs iš vikingų uosto Birkos.
-  citata_rodoma: |
-    Šitaip per Gudijos plotus Lietuvon dar IX amž.
-    pirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­
-    vas (latviškai — birkavs), kilęs iš vikingų uosto Birkos.
+  citata_rodoma: "Šitaip per Gudijos plotus Lietuvon dar IX amž.\npirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­\nvas (latviškai — birkavs), kilęs iš vikingų uosto Birkos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-32186
+    - t-001

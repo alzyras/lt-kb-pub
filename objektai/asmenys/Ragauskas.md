@@ -40,7 +40,6 @@ Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė Socino tikė
 
 <a id="claim-t-190206"></a>
 - t-001
-  global_id: t-190206
   teiginys: "Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o bažnyčia ilgai priklausė evangelikams reformatams."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -80,4 +79,4 @@ Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė Socino tikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190206
+    - t-001

@@ -77,8 +77,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71677"></a>
-- t-001
-  global_id: t-71677
+- t-016
   teiginys: "Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -94,8 +93,7 @@ Nenurodyta
     - c-70212
 
 <a id="claim-t-71680"></a>
-- t-002
-  global_id: t-71680
+- t-014
   teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +110,7 @@ Nenurodyta
     - c-70213
 
 <a id="claim-t-71681"></a>
-- t-003
-  global_id: t-71681
+- t-017
   teiginys: "Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -133,8 +130,7 @@ Nenurodyta
     - c-16639
 
 <a id="claim-t-193736"></a>
-- t-004
-  global_id: t-193736
+- t-018
   teiginys: "Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -236,24 +232,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101601|pyliavos]]: Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
 - susijęs iš [[objektai/grupes/Naikintojų batalionai.md#claim-t-19956|Naikintojų batalionai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65923|NKGB]]: NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.
-## Reikšmingi paminėjimai
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-16639
@@ -275,7 +253,27 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71681
+    - t-017
+
+- id: c-26864
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - id: c-42881
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -290,7 +288,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193736
+    - t-018
+
 - id: c-70212
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -306,21 +305,15 @@ Nenurodyta
     rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
     nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
     gyventojų neapykantą.
-  citata_rodoma: |
-    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
-    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
-    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
-    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
-    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
-    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
-    gyventojų neapykantą.
+  citata_rodoma: "Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, \ngrąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą \njuos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie \nvidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-\nrais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-\nnėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies \ngyventojų neapykantą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71677
+    - t-016
+
 - id: c-70213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -340,6 +333,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71680
+    - t-014
+
 ## Ryšiai
 - NKVD puolė [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]

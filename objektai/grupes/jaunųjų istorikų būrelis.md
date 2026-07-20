@@ -39,7 +39,6 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
 
 <a id="claim-t-31374"></a>
 - t-001
-  global_id: t-31374
   teiginys: "Jaunųjų istorikų būrelis nuo 1930 m. pradėjo rengti kolektyvines monografijas apie Vytautą Didįjį, Jogailą ir Lietuvos istoriją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,16 +70,11 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
     dalis tu istorikų išėjo į vieno, ar antro fakulteto dėstytojus (K.
     Avižonis, Z. Ivinskis, J. Jakštas, J. Matusas, S. Sužiedėlis, Ad.
     Šapoka).
-  citata_rodoma: |
-    Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
-    dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
-    Kauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­
-    nes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą
-    (1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936).
+  citata_rodoma: "Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos\ndirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji\nKauno universiteto auklėtiniai, pirmiausia išdrįsę duoti kolektyvi­\nnes monografijas apie Vytautą D. (red. P. Šležas, 1930), Jogailą\n(1935) ir stambią Lietuvos istoriją (red. A. Šapoka, 1936)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31374
+    - t-001

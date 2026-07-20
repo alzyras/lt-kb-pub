@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-200671"></a>
 - t-001
-  global_id: t-200671
   teiginys: "1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -78,7 +77,6 @@ Nenurodyta
 
 <a id="claim-t-200672"></a>
 - t-002
-  global_id: t-200672
   teiginys: "1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
@@ -105,20 +103,9 @@ Nenurodyta
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   puslapiai: "PDF 12"
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
-  citata_originali: |
-    Kitame laiške tam pačiam Mykolui Ksaverui
-    Sapiegai jis linkėjo karnavalo metu susirasti žmoną [18] (beje, šis palinkėjimas neišsipildė
-    ir didikas liko nevedęs [91]).
-    1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas
-    Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip
-    koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
-  citata_rodoma: |
-    1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 10:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200671
-    - t-200672
+    - t-001
+    - t-002

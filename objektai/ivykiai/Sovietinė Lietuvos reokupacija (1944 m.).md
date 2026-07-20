@@ -54,9 +54,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-75282"></a>
-- t-001
-  global_id: t-75282
+<a id="claim-t-75280"></a>
+- t-003
   teiginys: "1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,8 +74,7 @@ Nenurodyta
     - c-73110
 
 <a id="claim-t-75281"></a>
-- t-002
-  global_id: t-75281
+- t-001
   teiginys: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -106,16 +104,15 @@ Nenurodyta
     krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų
     titulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m.
-  citata_rodoma: |
-    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
-    1940 m.
+  citata_rodoma: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, \n1940 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75281
+    - t-001
+
 - id: c-73110
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,4 +136,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75282
+    - t-003

@@ -31,7 +31,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 
 <a id="claim-t-87871"></a>
 - t-001
-  global_id: t-87871
   teiginys: "Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,20 +67,11 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
     veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
     tikslui surinktų žmonių.
-  citata_rodoma: |
-    Jėzuitų apsigyvenimas Vil­
-    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
-    Lietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­
-    matų talentų, nepaisant garbingiausių Lietuvos giminių prie­
-    lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­
-    telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo
-    tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
-    veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
-    tikslui surinktų žmonių.
+  citata_rodoma: "Jėzuitų apsigyvenimas Vil­\nniuje jau Stepono Batoro laikais pakirto protestantų įtaką \nLietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­\nmatų talentų, nepaisant garbingiausių Lietuvos giminių prie­\nlankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­\ntelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo \ntvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip \nveikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam \ntikslui surinktų žmonių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87871
+    - t-001

@@ -65,7 +65,6 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 
 <a id="claim-t-55145"></a>
 - t-001
-  global_id: t-55145
   teiginys: "Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::events"
@@ -84,8 +83,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-55685
 
 <a id="claim-t-55146"></a>
-- t-002
-  global_id: t-55146
+- t-003
   teiginys: "Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą."
   atnaujinta: "2026-05-31 12:00"
   sprendimo_priezastis: "gap::events"
@@ -104,8 +102,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-55686
 
 <a id="claim-t-81828"></a>
-- t-003
-  global_id: t-81828
+- t-004
   teiginys: "1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -148,7 +145,8 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55145
+    - t-001
+
 - id: c-55686
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -178,5 +176,5 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-55146
-    - t-81828
+    - t-003
+    - t-004

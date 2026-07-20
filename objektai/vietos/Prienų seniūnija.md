@@ -7,10 +7,10 @@ datos:
   - '1608 m.'
 date_start: '1608'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ media_all_json: |-
 
 <a id="claim-t-201740"></a>
 - t-001
-  global_id: t-201740
   teiginys: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus tarnybininkui Kristupui Bazilikui, buvo aiškinamasi dėl rotmistro Jonušo Kiškos suburtos samdinių kuopos, dislokuotos Prienų seniūnijoje, padarytų nuostolių."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201740
+    - t-001

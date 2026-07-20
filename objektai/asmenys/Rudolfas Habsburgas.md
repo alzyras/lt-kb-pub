@@ -28,7 +28,6 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
 
 <a id="claim-t-201423"></a>
 - t-001
-  global_id: t-201423
   teiginys: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
 ## Citatos
 
 - id: c-184773
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais
@@ -57,4 +57,4 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201423
+    - t-001

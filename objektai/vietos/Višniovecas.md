@@ -31,7 +31,6 @@ Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo pal
 
 <a id="claim-t-185320"></a>
 - t-001
-  global_id: t-185320
   teiginys: "Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo palikuonys Zbaražskiai ir Višnioveckiai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185320
+    - t-001

@@ -38,7 +38,6 @@ Dusburgietis teigia, kad nesselmann G.
 
 <a id="claim-t-61198"></a>
 - t-001
-  global_id: t-61198
   teiginys: "G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Dusburgietis teigia, kad nesselmann G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61198
+    - t-001

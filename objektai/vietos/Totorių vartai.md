@@ -37,7 +37,6 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
 
 <a id="claim-t-86245"></a>
 - t-001
-  global_id: t-86245
   teiginys: "Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,17 +70,11 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
     temdė neramumai, grėsę ne tik iš kryžiuočių, bet ir per Vytau­
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
-  citata_rodoma: |
-    Pirmiausia jų,
-    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
-    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
-    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
-    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
-    Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.
+  citata_rodoma: "Pirmiausia jų, \nregis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi \nnamus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms \nšeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­\nnyje į Viliją įteka Vingrių šaltinis, pavadinimas.\nTačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86245
+    - t-001

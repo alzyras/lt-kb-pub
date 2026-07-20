@@ -52,8 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45442"></a>
-- t-001
-  global_id: t-45442
+- t-004
   teiginys: "1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -73,8 +72,7 @@ Nenurodyta
     - c-23202
 
 <a id="claim-t-45443"></a>
-- t-002
-  global_id: t-45443
+- t-005
   teiginys: "Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -91,8 +89,7 @@ Nenurodyta
     - c-23203
 
 <a id="claim-t-45444"></a>
-- t-003
-  global_id: t-45444
+- t-006
   teiginys: "Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,8 +105,7 @@ Nenurodyta
     - c-48258
 
 <a id="claim-t-45445"></a>
-- t-004
-  global_id: t-45445
+- t-001
   teiginys: "1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -127,8 +123,7 @@ Nenurodyta
     - c-23199
 
 <a id="claim-t-45446"></a>
-- t-005
-  global_id: t-45446
+- t-002
   teiginys: "V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -145,8 +140,7 @@ Nenurodyta
     - c-23200
 
 <a id="claim-t-45447"></a>
-- t-006
-  global_id: t-45447
+- t-003
   teiginys: "SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -163,7 +157,6 @@ Nenurodyta
 
 <a id="claim-t-183277"></a>
 - t-007
-  global_id: t-183277
   teiginys: "Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo Lietuvos pasienio postus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -199,22 +192,15 @@ Nenurodyta
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: |
-    Tačiau nei J. Urbšys, nei taikingas A. Smetonos
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
-    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
-    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
-    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
-    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
-    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
-    10 val. ryto.
+  citata_rodoma: "Tačiau nei J. Urbšys, nei taikingas A. Smetonos\nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos\npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus\nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų\nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos\n10 val. ryto."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45445
+    - t-001
+
 - id: c-23200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -231,16 +217,15 @@ Nenurodyta
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
     atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-  citata_rodoma: |
-    Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
-    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+  citata_rodoma: "Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus\natsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45446
+    - t-002
+
 - id: c-23201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -255,21 +240,15 @@ Nenurodyta
     Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo
     kelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,
     kelis postus nuginklavo.
-  citata_rodoma: |
-    SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
-    tiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta
-    permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-
-    versines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo
-    Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo
-    kelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,
-    kelis postus nuginklavo.
+  citata_rodoma: "SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-\ntiesiems, lageriai būsimiems karo belaisviams. Sovietai dar pavasarį slapta\npermetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-\nversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo\nBaltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo\nkelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,\nkelis postus nuginklavo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45447
+    - t-003
+
 - id: c-23202
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -284,16 +263,15 @@ Nenurodyta
     kelis postus nuginklavo.
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą.
-  citata_rodoma: |
-    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
-    ar priešintis okupacijai, ar priimti ultimatumą.
+  citata_rodoma: "Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,\nar priešintis okupacijai, ar priimti ultimatumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45442
+    - t-004
+
 - id: c-23203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -305,17 +283,15 @@ Nenurodyta
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: |
-    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
-    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
-    karinei mašinai negali, būtų daug aukų.
+  citata_rodoma: "Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.\nS.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų\nkarinei mašinai negali, būtų daug aukų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45443
+    - t-005
+
 - id: c-48258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -331,7 +307,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45444
+    - t-006
+
 - id: c-166666
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -354,4 +331,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183277
+    - t-007

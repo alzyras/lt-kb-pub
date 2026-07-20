@@ -31,9 +31,8 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 
 <a id="claim-t-194852"></a>
 - t-001
-  global_id: t-194852
   teiginys: "Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,26 +41,7 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177248
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Kaip ir alus, midus įeida­
-    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
-    vilizuotose tautose buvo beveik toks pat.
-    Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
-    kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
-    5 Senas lietuviškų dainų vertimų rankraštis.
-    6 Czacki.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194852
+
 ## Citatos
 
 - id: c-177248
@@ -76,18 +56,11 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
     kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
     5 Senas lietuviškų dainų vertimų rankraštis.
     6 Czacki.
-  citata_rodoma: |
-    Kaip ir alus, midus įeida­
-    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
-    vilizuotose tautose buvo beveik toks pat.
-    Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė
-    kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas
-    5 Senas lietuviškų dainų vertimų rankraštis.
-    6 Czacki.
+  citata_rodoma: "Kaip ir alus, midus įeida­\nvo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­\nvilizuotose tautose buvo beveik toks pat.\nSenovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė\nkunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas\n5 Senas lietuviškų dainų vertimų rankraštis.\n6 Czacki."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194852
+    - t-001

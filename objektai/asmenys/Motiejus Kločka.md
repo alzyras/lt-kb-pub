@@ -32,28 +32,18 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
 
 <a id="claim-t-186070"></a>
 - t-001
-  global_id: t-186070
   teiginys: "Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Motiejus Kločka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Motiejus Kločka nurodytas kaip pasiuntinybės į Maskvą narys, todėl santykis su kelione į Maskvą yra tiesiogiai paremtas."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Motiejus Kločka keliavo į Maskva (0.80)"
   pagrindžia:
-    - c-169431
-    - c-001
+    - c-169432
+
 <a id="claim-t-186071"></a>
 - t-002
-  global_id: t-186071
   teiginys: "Maršalas Motiejus Kločka kartu su Jonu Sapiega ir Povilu Naruševičiumi atlydėjo Aleksandrą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,37 +62,6 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   pagrindžia:
     - c-169432
 - susijęs iš [[objektai/asmenys/Aleksandras Bokevičius.md#claim-t-186093|Aleksandras Bokevičius]]: Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Esą valachams visi keliai at­
-    viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
-    ir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;
-    visa kita sutvarkysią legatai, kurie greitai atvyksią į
-    Maskvą. Pasiuntinybę sudarė maršalas Motiejus Kloč-
-    ka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap­
-    tosios karaliaus tarybos narys Andrius Mackevičius.
-    Pasiuntinybė iškėlė šiuos rei-
-    P a siu n tin y b ė  į M ask-
-    kalaviinus:
-    parodyti
-    visus
-    v ą
-    belaisvius, suvežtus ir suva­
-    rytus į Maskvą, ir kuo grei­
-    čiausiai išsiųsti į pasienį taikytojus, kurie, suderinę su
-    Mackevičiumi nuomones, užbaigtų ginčus; jeigu Va­
-    silijus norįs derėtis dėl pastovios taikos, tegu siunčiąs
-    legatus pas karalių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-186070
 ## Citatos
 
 - id: c-169431
@@ -110,28 +69,6 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Galop jis pa­
-    prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
-    ir žygūnams, kurie buvo sulaikyti, kai maskvėnai su­
-    ėmė karališkuosius teisėjus.
-    Sugrįžęs iš Maskvos, Jes-
-    manas išvydo karalių bei ka­
-    ralienę Vilniuje. Karalius, su­
-    laukęs senyvo amžiaus, nuo­
-    gąstavo, kad, jam staiga mi­
-    rus, jo sūnus Augustas, dar
-    visai vaikas, beje, tokio am­
-    žiaus, kada nepajėgiama valdyti valstybės, gali netekti
-    Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
-    ją susitarimą,— ir Lietuvos kunigaikštystės. Nuogąsta­
-    vimus ir įtarumą kurstė ir karalienė, tiesa, ne tiek apie
-    sūnų, kiek apie save galvodama. Mat ši būgštavo, kad,
-    mirus karaliui, ji, kuri ligi šiol su karaliumi bemaž ly­
-    giomis teisėmis dalijosi valdžią, o gal net turėjo tokią
-    pat galią kaip ir jis ir niekieno nevaržoma tvarkėsi
-    valstybėje, tapsianti eiline moterimi ir turėsianti gyven­
-    ti atstumta nuo visų reikalų.
-  citata_rodoma: |
     Esą valachams visi keliai at­
     viri, Severinas plėšikaująs ir siaubiąs pasienį vienoje
     ir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;
@@ -151,13 +88,13 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
     Mackevičiumi nuomones, užbaigtų ginčus; jeigu Va­
     silijus norįs derėtis dėl pastovios taikos, tegu siunčiąs
     legatus pas karalių.
+  citata_rodoma: "Esą valachams visi keliai at­\nviri, Severinas plėšikaująs ir siaubiąs pasienį vienoje\nir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;\nvisa kita sutvarkysią legatai, kurie greitai atvyksią į\nMaskvą. Pasiuntinybę sudarė maršalas Motiejus Kloč-\nka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap­\ntosios karaliaus tarybos narys Andrius Mackevičius.\nPasiuntinybė iškėlė šiuos rei-\nP a siu n tin y b ė  į M ask-\nkalaviinus:\nparodyti\nvisus\nv ą\nbelaisvius, suvežtus ir suva­\nrytus į Maskvą, ir kuo grei­\nčiausiai išsiųsti į pasienį taikytojus, kurie, suderinę su\nMackevičiumi nuomones, užbaigtų ginčus; jeigu Va­\nsilijus norįs derėtis dėl pastovios taikos, tegu siunčiąs\nlegatus pas karalių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-186070
 - id: c-169432
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -178,4 +115,5 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186071
+    - t-001
+    - t-002

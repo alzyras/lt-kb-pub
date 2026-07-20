@@ -53,8 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35878"></a>
-- t-001
-  global_id: t-35878
+- t-002
   teiginys: "1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-38324
 
 <a id="claim-t-35879"></a>
-- t-002
-  global_id: t-35879
+- t-001
   teiginys: "Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35879
+    - t-001
+
 - id: c-38324
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -124,17 +123,11 @@ Nenurodyta
     gijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­
     leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
     žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
-  citata_rodoma: |
-    Pirmas toks grasini­
-    mo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­
-    vygos sužieduotuvės su devynerių metų Fridriko, Brandenbur­
-    gijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­
-    leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
-    žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
+  citata_rodoma: "Pirmas toks grasini­\nmo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­\nvygos sužieduotuvės su devynerių metų Fridriko, Brandenbur­\ngijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­\nleckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­\nžiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35878
+    - t-002

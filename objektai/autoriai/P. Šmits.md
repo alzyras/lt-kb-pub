@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-30919"></a>
 - t-001
-  global_id: t-30919
   teiginys: "P. Šmits 1926 m. Rygoje išleido darbą „Latviešu mitologija“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,16 +59,12 @@ media_all_json: |-
     — Straubergs, K. : _Latvju sakrālā
     pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
     *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
-    University, nr.
-  citata_rodoma: |
-    — Straubergs, K. : _Latvju sakrālā
-    pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga
-    *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
-    University, nr.
+    University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
+  citata_rodoma: "— Straubergs, K. : _Latvju sakrālā\npasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga\n*1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic\nUniversity, nr."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30919
+    - t-001

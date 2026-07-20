@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35893"></a>
 - t-001
-  global_id: t-35893
   teiginys: "1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-35894"></a>
 - t-002
-  global_id: t-35894
   teiginys: "Vengrijos pasiuntinys Jogailai pranešė, kad vengrai neketina kariauti ir karo paskelbimu siekia iš Ordino gauti daugiau pinigų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -104,7 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35894
+    - t-002
+
 - id: c-38327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -117,16 +116,11 @@ Nenurodyta
     link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
     hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
     gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
-  citata_rodoma: |
-    Po to, sąjun­
-    gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau
-    link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
-    hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
-    gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
+  citata_rodoma: "Po to, sąjun­\ngininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau\nlink. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­\nhendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­\ngailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35893
+    - t-001

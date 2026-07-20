@@ -51,9 +51,8 @@ Nenurodyta
 
 <a id="claim-t-62694"></a>
 - t-001
-  global_id: t-62694
   teiginys: "Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> naujakrikščiai: 0.83"
@@ -79,22 +78,15 @@ Nenurodyta
     kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
     remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
     15.
-  citata_rodoma: |
-    Taip žiauriai jis
-    kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
-    remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
-
-
-
-
-                       15.
+  citata_rodoma: "Taip žiauriai jis\nkariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,\nremiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.\n\n\n\n\n                   15."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62694
+    - t-001
+
 - id: c-63446
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -105,16 +97,11 @@ Nenurodyta
     kokio susirėmimo, kad niekas to nestengtų apsakyti nei žodžiu, nei raštu. Taip žiauriai jis
     kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
     remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
-  citata_rodoma: |
-    Taip smarkiai ir taip
-    drąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet
-    kokio susirėmimo, kad niekas to nestengtų apsakyti nei žodžiu, nei raštu. Taip žiauriai jis
-    kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
-    remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
+  citata_rodoma: "Taip smarkiai ir taip\ndrąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet\nkokio susirėmimo, kad niekas to nestengtų apsakyti nei žodžiu, nei raštu. Taip žiauriai jis\nkariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,\nremiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62694
+    - t-001

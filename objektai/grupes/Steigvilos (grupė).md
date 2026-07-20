@@ -30,13 +30,19 @@ media_all_json: |-
 Steigvilos buvo viena iš Kaune įsikūrusių bajoriškų giminių atšakų, virtusių miestiečiais.
 
 ## Teiginiai
+
+<a id="claim-t-202380"></a>
 - t-001
-  global_id: t-907319389
-  teiginys: 'Steigvilos buvo viena iš Kaune įsikūrusių bajoriškų giminių atšakų, virtusių miestiečiais.'
+  teiginys: "Steigvilos buvo viena iš Kaune įsikūrusių bajoriškų giminių atšakų, virtusių miestiečiais."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185727
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -44,15 +50,8 @@ Steigvilos buvo viena iš Kaune įsikūrusių bajoriškų giminių atšakų, vir
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 7"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 7."
-  citata_originali: |
-    Grįžtant prie Kojalavičių kilmės ir giminystės ryšių pasakytina, kad jie duoda peno svarstymams
-    apie Lietuvos bajorų ir miestiečių giminystę, apie bajoriškųjų giminių atšakų įsikurdinimą miestuose,
-    virtimą miestiečiais. Kaune tokie buvo, be minėtų Beinartų, Boniškos, Gradauskai, Steigvilos ir daug
-    kitų. Bet tai jau kitų tyrinėjimų objektas.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

@@ -31,7 +31,6 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
 
 <a id="claim-t-02960"></a>
 - t-001
-  global_id: t-02960
   teiginys: "Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-02960
+    - t-001

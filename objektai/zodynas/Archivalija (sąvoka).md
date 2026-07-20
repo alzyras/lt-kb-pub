@@ -30,13 +30,19 @@ media_all_json: |-
 Kojalavičių giminės istorijai atkurti pasitelktos brolių Kojalavičių gimtojo miesto archivalijos ir su bajorais Vijūkais susijusi archyvinė medžiaga.
 
 ## Teiginiai
+
+<a id="claim-t-202360"></a>
 - t-001
-  global_id: t-904527477
-  teiginys: 'Kojalavičių giminės istorijai atkurti pasitelktos brolių Kojalavičių gimtojo miesto archivalijos ir su bajorais Vijūkais susijusi archyvinė medžiaga.'
+  teiginys: "Kojalavičių giminės istorijai atkurti pasitelktos brolių Kojalavičių gimtojo miesto archivalijos ir su bajorais Vijūkais susijusi archyvinė medžiaga."
+  atnaujinta: "2026-07-19 12:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185707
-  šaltinis: Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)
-  statusas: patvirtinta
 
 ## Citatos
 
@@ -44,17 +50,8 @@ Kojalavičių giminės istorijai atkurti pasitelktos brolių Kojalavičių gimto
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 1"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 1."
-  citata_originali: |
-    Tokiomis negausiomis žiniomis naudojantis suręsta konstrukcija nebūna tvirta, jei atsiranda
-    nežinota medžiaga. Šįkart tai brolių Kojalavičių gimtojo miesto archivalijos, taip pat su bajorais
-    Vijūkais susijusi archyvinė medžiaga. Kojalavičių šeimos archyvas neišliko. Kauno miesto savivaldos
-    institucijų XVI–XVII a. archyvai, kad ir su spragomis, išliko6 ir aktų knygose dažni Kojalavičius minintys
-    įrašai leidžia atkurti, nors ir su spragomis bei klaustukais, jų giminės gyvenimą Kaune XVI–XVII a.
-    pradžioje.
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 12:22"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
     - t-001

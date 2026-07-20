@@ -30,8 +30,7 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
 ## Teiginiai
 
 <a id="claim-t-196737"></a>
-- t-001
-  global_id: t-196737
+- t-002
   teiginys: "Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -73,4 +72,4 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-196737
+    - t-002

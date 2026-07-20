@@ -61,8 +61,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47808"></a>
-- t-001
-  global_id: t-47808
+- t-002
   teiginys: "E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -78,8 +77,7 @@ Nenurodyta
     - c-30989
 
 <a id="claim-t-47809"></a>
-- t-002
-  global_id: t-47809
+- t-003
   teiginys: "E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -113,15 +111,12 @@ Nenurodyta
     1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
     Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
     t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: |
-    E. Danilaitė domėjosi brūkšniuotąja keramika
-    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
-    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
+  citata_rodoma: "E. Danilaitė domėjosi brūkšniuotąja keramika\nLietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;\nt. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47808
-    - t-47809
+    - t-002
+    - t-003

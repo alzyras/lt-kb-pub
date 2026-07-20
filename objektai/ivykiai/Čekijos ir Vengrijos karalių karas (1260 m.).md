@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-62539"></a>
 - t-001
-  global_id: t-62539
   teiginys: "1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -87,19 +86,11 @@ Nenurodyta
     laukas, kad žmogus žmogų vidurdienyje vargiai begalėjo  atpažinti. Galop sunkiai
     sužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje
     upėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407).
-  citata_rodoma: |
-    Apie Čekijos ir Vengrijos karalių karą
-
-      1260  viešpaties metais  Vengrijos  karalius užpuolė  Čekijos  karalių, turėdamas
-    įvairiatautę 40 tūkstančių raitiją. Jam kelią pastojo Čekijos karalius su šimtu tūkstančių
-    raitelių ir septyniais tūkstančiais žirgų; kai šie vienu metu  jį užpuolė, taip uždulkėjo
-    laukas, kad žmogus žmogų vidurdienyje vargiai begalėjo  atpažinti. Galop sunkiai
-    sužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje
-    upėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407).
+  citata_rodoma: "Apie Čekijos ir Vengrijos karalių karą\n\n  1260  viešpaties metais  Vengrijos  karalius užpuolė  Čekijos  karalių, turėdamas\nįvairiatautę 40 tūkstančių raitiją. Jam kelią pastojo Čekijos karalius su šimtu tūkstančių\nraitelių ir septyniais tūkstančiais žirgų; kai šie vienu metu  jį užpuolė, taip uždulkėjo\nlaukas, kad žmogus žmogų vidurdienyje vargiai begalėjo  atpažinti. Galop sunkiai\nsužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje\nupėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62539
+    - t-001

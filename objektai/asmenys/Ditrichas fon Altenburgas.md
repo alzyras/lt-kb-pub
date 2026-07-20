@@ -7,16 +7,16 @@ datos:
   - '1339 m.'
 date_start: '1339'
 date_end: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karvedys
   - pareigūnas
   - asmuo
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -40,7 +40,6 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
 
 <a id="claim-t-186107"></a>
 - t-001
-  global_id: t-186107
   teiginys: "Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -63,12 +62,10 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
   pagrindžia:
     - c-169468
 
-## Citatos
-
-- id: c-169468
-  autorius: "Albertas Vijūkas-Kojelavičius"
-  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Paspruko, ryžęsi plaukti,
     vienas kitas, kuriems labiau rūpėjo gyvybė nei grobis;
@@ -91,7 +88,20 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
     kunigaikščiai, įsiveržė į Lietuvą. Pirmiausia įnirtingai
     ėmė pulti Veliuoną, prie Nemuno stovinčią pilį. Ją gy­
     nė lietuviai ir žemaičiai, labai narsūs ir sumanūs vyrai.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002
+
+## Citatos
+
+- id: c-169468
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
     Paspruko, ryžęsi plaukti,
     vienas kitas, kuriems labiau rūpėjo gyvybė nei grobis;
     tuo tarpu tie, kurie, apsikrovę grobiu, puolė prie pel-
@@ -114,12 +124,14 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
     pfalcgrafas bei kiti imperijos
     kunigaikščiai, įsiveržė į Lietuvą. Pirmiausia įnirtingai
     ėmė pulti Veliuoną, prie Nemuno stovinčią pilį.
+  citata_rodoma: "Paspruko, ryžęsi plaukti,\nvienas kitas, kuriems labiau rūpėjo gyvybė nei grobis;\ntuo tarpu tie, kurie, apsikrovę grobiu, puolė prie pel-\n\n## Puslapis 228\n\nketų upės krantų, ten pat\nL ie tu v ia i\nsu m u ša m i\npelkėse ir prigėrė. Kiti metai\nm o zū rų\npraėjo ramiai, vėliau, sekan­\nčiųjų metų pradžioje, Livo­\nnijos magistras, pakartojęs antpuolį, nusiaubė Žemai­\ntiją, o Ditrichas fon Altenburgas, Prūsijos magistras,\nsu vokiečių kariuomene, ku-\n1339 m e ta i\nrią buvo\natsivedęs Reino\npfalcgrafas bei kiti imperijos\nkunigaikščiai, įsiveržė į Lietuvą. Pirmiausia įnirtingai\nėmė pulti Veliuoną, prie Nemuno stovinčią pilį."
   statusas: verified
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186107
+    - t-001
+
 ## Ryšiai
 - Ditrichas fon Altenburgas puolė [[objektai/vietos/Veliuona]]

@@ -42,7 +42,6 @@ Nenurodyta
 
 <a id="claim-t-191870"></a>
 - t-001
-  global_id: t-191870
   teiginys: "Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -67,7 +66,6 @@ Nenurodyta
 
 <a id="claim-t-197546"></a>
 - t-002
-  global_id: t-197546
   teiginys: "Visa tai rodo pėdsakus, kad tie Prūsijos gy ventojai sembai-kimbrai paliko lietuvių žemėje savo kartų ainių, išlikusių net iki mūsų laikų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -106,7 +104,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191870
-    - t-197546
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kimbrai]]

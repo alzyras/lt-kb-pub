@@ -42,8 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-71843"></a>
-- t-001
-  global_id: t-71843
+- t-003
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ media_all_json: |-
     - c-37296
 
 <a id="claim-t-71844"></a>
-- t-002
-  global_id: t-71844
+- t-004
   teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +74,7 @@ media_all_json: |-
     - c-31957
 
 <a id="claim-t-71845"></a>
-- t-003
-  global_id: t-71845
+- t-002
   teiginys: "1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ media_all_json: |-
     - c-31958
 
 <a id="claim-t-71846"></a>
-- t-004
-  global_id: t-71846
+- t-001
   teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -113,7 +109,6 @@ media_all_json: |-
 
 <a id="claim-t-71847"></a>
 - t-005
-  global_id: t-71847
   teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +129,6 @@ media_all_json: |-
 
 <a id="claim-t-188670"></a>
 - t-006
-  global_id: t-188670
   teiginys: "XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -155,7 +149,6 @@ media_all_json: |-
 
 <a id="claim-t-193169"></a>
 - t-007
-  global_id: t-193169
   teiginys: "Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -256,21 +249,16 @@ media_all_json: |-
     upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,
     ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti
     sostine Lietuvos, kurią svajota greit nukariauti.
-  citata_rodoma: |
-    Apsaugoti toli
-    lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto
-    tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie
-    upelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,
-    ilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti
-    sostine Lietuvos, kurią svajota greit nukariauti.
+  citata_rodoma: "Apsaugoti toli\nlietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto\ntada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie\nupelės Kvalkės). Savo vardą gavusi žymiam svečiui pagerbti,\nilgam aprūpinta maistu ir stipria įgula, naujoji pilis turėjo tapti\nsostine Lietuvos, kurią svajota greit nukariauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71844
-    - t-71846
+    - t-004
+    - t-001
+
 - id: c-31958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -286,8 +274,9 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71845
-    - t-71847
+    - t-002
+    - t-005
+
 - id: c-37296
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -301,18 +290,15 @@ media_all_json: |-
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: |
-    Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
-    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
-    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
-    dėlto atsiuntė savo brolį Kaributą pagalbon.
+  citata_rodoma: "Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­\nnešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra\nsusimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis\ndėlto atsiuntė savo brolį Kaributą pagalbon."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71843
+    - t-003
+
 - id: c-171559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -331,7 +317,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188670
+    - t-006
+
 - id: c-175918
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -350,6 +337,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193169
+    - t-007
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

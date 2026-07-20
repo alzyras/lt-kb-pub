@@ -39,7 +39,6 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
 
 <a id="claim-t-30854"></a>
 - t-001
-  global_id: t-30854
   teiginys: "M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo vertinama ir sulaukė kelių laidų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,15 +77,11 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
     gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
     anuomet buvo labai vertinama ir susilaukė keletos laidų.
-  citata_rodoma: |
-    Iš senesniųjų isto­
-    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
-    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
-    anuomet buvo labai vertinama ir susilaukė keletos laidų.
+  citata_rodoma: "Iš senesniųjų isto­\nrikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­\ngaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija\nanuomet buvo labai vertinama ir susilaukė keletos laidų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30854
+    - t-001

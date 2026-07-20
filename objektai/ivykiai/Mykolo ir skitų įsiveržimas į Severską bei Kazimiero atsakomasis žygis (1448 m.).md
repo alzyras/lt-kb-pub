@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-185755"></a>
 - t-001
-  global_id: t-185755
   teiginys: "1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -72,7 +71,6 @@ Nenurodyta
 
 <a id="claim-t-196228"></a>
 - t-002
-  global_id: t-196228
   teiginys: "Po skitų įsiveržimo lenkai ir lietuviai pradėjo įtarinėti karalių: lenkai kalbėjo apie slaptus susitarimus, o lietuviai kaltino jį neapdairumu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -116,5 +114,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185755
-    - t-196228
+    - t-001
+    - t-002

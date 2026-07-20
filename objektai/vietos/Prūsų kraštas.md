@@ -31,7 +31,6 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
 
 <a id="claim-t-187297"></a>
 - t-001
-  global_id: t-187297
   teiginys: "Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -72,15 +71,11 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
     dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
     patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
     sų žemę pasiglemžti.
-  citata_rodoma: |
-    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
-    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
-    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
-    ir su Livonijos kraštu ir mūsų tėvą išdavė;
+  citata_rodoma: "Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­\ngų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­\nslėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu\nir su Livonijos kraštu ir mūsų tėvą išdavė;"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187297
+    - t-001

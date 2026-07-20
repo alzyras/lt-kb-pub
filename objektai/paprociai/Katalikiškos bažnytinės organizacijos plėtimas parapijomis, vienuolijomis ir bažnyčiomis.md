@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-54247"></a>
 - t-001
-  global_id: t-54247
   teiginys: "Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-54248"></a>
 - t-002
-  global_id: t-54248
   teiginys: "Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -97,19 +95,12 @@ Nenurodyta
     gybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai.
     Visur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos
     bažnyčios.
-  citata_rodoma: |
-    Iki XVI  a. vidurio susikūrė sep-
-    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
-    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine. Stato-
-    mos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – dau-
-    gybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai.
-    Visur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos
-    bažnyčios.
+  citata_rodoma: "Iki XVI  a. vidurio susikūrė sep-\ntynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios \n18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine. Stato-\nmos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – dau-\ngybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai. \nVisur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos \nbažnyčios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54247
-    - t-54248
+    - t-001
+    - t-002

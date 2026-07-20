@@ -31,7 +31,6 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
 
 <a id="claim-t-190430"></a>
 - t-001
-  global_id: t-190430
   teiginys: "J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -67,4 +66,4 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190430
+    - t-001

@@ -31,7 +31,6 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 
 <a id="claim-t-28707"></a>
 - t-001
-  global_id: t-28707
   teiginys: "Ketveri Vytauto metai ordino žemėse apibūdinti kaip naudingai praleistas „mokslo laikas“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,6 +45,7 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   pagrindžia:
     - c-28611
     - c-167730
+
 ## Citatos
 
 - id: c-28611
@@ -63,7 +63,8 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28707
+    - t-001
+
 - id: c-167730
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -79,3 +80,5 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

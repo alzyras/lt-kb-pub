@@ -44,8 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-171924"></a>
-- t-001
-  global_id: t-171924
+- t-014
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -64,8 +63,7 @@ media_all_json: |-
     - c-156384
 
 <a id="claim-t-171926"></a>
-- t-002
-  global_id: t-171926
+- t-008
   teiginys: "Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -81,8 +79,7 @@ media_all_json: |-
     - c-156380
 
 <a id="claim-t-171927"></a>
-- t-003
-  global_id: t-171927
+- t-007
   teiginys: "Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ media_all_json: |-
     - c-156381
 
 <a id="claim-t-171929"></a>
-- t-004
-  global_id: t-171929
+- t-009
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +112,7 @@ media_all_json: |-
     - c-156379
 
 <a id="claim-t-171930"></a>
-- t-005
-  global_id: t-171930
+- t-010
   teiginys: "Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -134,7 +129,6 @@ media_all_json: |-
 
 <a id="claim-t-171933"></a>
 - t-006
-  global_id: t-171933
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -150,8 +144,7 @@ media_all_json: |-
     - c-156379
 
 <a id="claim-t-193778"></a>
-- t-007
-  global_id: t-193778
+- t-015
   teiginys: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -186,23 +179,16 @@ media_all_json: |-
     Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
     vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
     likimui.
-  citata_rodoma: |
-    Žygimantas, no­
-    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
-    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
-    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
-    torija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi
-    Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
-    vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
-    likimui.
+  citata_rodoma: "Žygimantas, no­\nrėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus\nnarsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio\nlauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­\ntorija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi\nPabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­\nvos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos\nlikimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171929
-    - t-171933
+    - t-009
+    - t-006
+
 - id: c-156380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,26 +211,16 @@ media_all_json: |-
     niaus į Ukmergę einančio pašto trak­
     to į kairę per 2 varstus, per pusę
     mylios už Kščeniškių.
-  citata_rodoma: |
-    Pabaisko vietovė
-    kalvota, tačiau atvira, o ten, kur da­
-    bar iškilusi nauja mūrinė bažnyčia,
-    netgi gana graži. Žemė derlinga,
-    Viktorijos upelis, nors mažas, bet
-    vertas gražaus vardo. Pabaiskas yra
-    parapijos kaimas, priklausantis vie­
-    tiniam klebonui ir nutolęs nuo iš Vil­
-    niaus į Ukmergę einančio pašto trak­
-    to į kairę per 2 varstus, per pusę
-    mylios už Kščeniškių.
+  citata_rodoma: "Pabaisko vietovė \nkalvota, tačiau atvira, o ten, kur da­\nbar iškilusi nauja mūrinė bažnyčia, \nnetgi gana graži. Žemė derlinga, \nViktorijos upelis, nors mažas, bet \nvertas gražaus vardo. Pabaiskas yra \nparapijos kaimas, priklausantis vie­\ntiniam klebonui ir nutolęs nuo iš Vil­\nniaus į Ukmergę einančio pašto trak­\nto į kairę per 2 varstus, per pusę \nmylios už Kščeniškių."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171926
-    - t-171930
+    - t-008
+    - t-010
+
 - id: c-156381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -266,26 +242,15 @@ media_all_json: |-
     kalvota, tačiau atvira, o ten, kur da­
     bar iškilusi nauja mūrinė bažnyčia,
     netgi gana graži.
-  citata_rodoma: |
-    22
-    Praėjusiais metais aplankę Pabaiską,
-    įsitikinome, kad žmonėse dar gyvi
-    prisiminimai apie šioje vietoje vyku­
-    sį garsų mūšį ir apie ten žuvusį kaž­
-    kokį priešų kunigaikštį ar riterį. Kai
-    kurie gyventojai, kad gimtosioms
-    apylinkėms suteiktų daugiau soli­
-    dumo, dargi įrodinėja, neišmanyda­
-    mi istorijos, kad anuomet ties Pa­
-    baisku galvą padėjęs čekų karalius
-    Vaclovas ir pan.
+  citata_rodoma: "22\nPraėjusiais metais aplankę Pabaiską,\nįsitikinome, kad žmonėse dar gyvi\nprisiminimai apie šioje vietoje vyku­\nsį garsų mūšį ir apie ten žuvusį kaž­\nkokį priešų kunigaikštį ar riterį. Kai\nkurie gyventojai, kad gimtosioms\napylinkėms suteiktų daugiau soli­\ndumo, dargi įrodinėja, neišmanyda­\nmi istorijos, kad anuomet ties Pa­\nbaisku galvą padėjęs čekų karalius\nVaclovas ir pan."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171927
+    - t-007
+
 - id: c-156384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -310,7 +275,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-171924
+    - t-014
+
 - id: c-176431
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -333,4 +299,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193778
+    - t-015

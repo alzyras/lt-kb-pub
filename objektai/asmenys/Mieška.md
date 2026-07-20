@@ -43,7 +43,6 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 <a id="claim-t-78066"></a>
 - t-001
-  global_id: t-78066
   teiginys: "Lenkijos valdovas Mieška krikštijosi 966 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78066
+    - t-001

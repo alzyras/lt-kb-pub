@@ -40,7 +40,6 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 
 <a id="claim-t-19107"></a>
 - t-001
-  global_id: t-19107
   teiginys: "Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,12 +71,11 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
     funkcijas pagal Maskvos nurodymus. O valdžios olimpe įsitvirtinus Leo-
     nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
     valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
-  citata_rodoma: |
-    nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
+  citata_rodoma: "nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19107
+    - t-001

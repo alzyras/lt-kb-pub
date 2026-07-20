@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-75643"></a>
 - t-001
-  global_id: t-75643
   teiginys: "Aleksandro pinigai sąraše nurodomi pinigėlis, pusskatikis ir skatikas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,13 +65,11 @@ Nenurodyta
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: |
-    **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
-    (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
+  citata_rodoma: "**Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_\n(skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75643
+    - t-001

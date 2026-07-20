@@ -9,12 +9,12 @@ datos:
   - '1984 m.'
 date_start: '1982'
 date_end: '1984'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,9 +38,8 @@ Dusburgietis teigia, kad 16— Žulkus V.
 
 <a id="claim-t-61402"></a>
 - t-001
-  global_id: t-61402
   teiginys: "V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Birutė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -52,22 +51,7 @@ Dusburgietis teigia, kad 16— Žulkus V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62034
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    16—
-      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
-    1982 ir 1983 metais. V., 1984, p. 43—46.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-61402
+
 ## Citatos
 
 - id: c-62034
@@ -78,14 +62,11 @@ Dusburgietis teigia, kad 16— Žulkus V.
     16—
       Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
     1982 ir 1983 metais. V., 1984, p. 43—46.
-  citata_rodoma: |
-    16—
-      Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje
-    1982 ir 1983 metais. V., 1984, p. 43—46.
+  citata_rodoma: "16—\n  Žulkus V. Birutės kalno ir gyvenvietės tyrinėjimai.— Archeologiniai tyrinėjimai Lietuvoje\n1982 ir 1983 metais. V., 1984, p. 43—46."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61402
+    - t-001

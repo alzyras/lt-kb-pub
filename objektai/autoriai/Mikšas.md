@@ -39,7 +39,6 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 
 <a id="claim-t-01116"></a>
 - t-001
-  global_id: t-01116
   teiginys: "Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,16 +78,11 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
     nėje, o paskui Tilžėje,
     paties Mikšo įsteigtoje
     spaustuvėje.
-  citata_rodoma: |
-    „Aušra" iš pradžių bu-
-    vo spausdinama Ragai-
-    nėje, o paskui Tilžėje,
-    paties Mikšo įsteigtoje
-    spaustuvėje.
+  citata_rodoma: "„Aušra\" iš pradžių bu-\nvo spausdinama Ragai-\nnėje, o paskui Tilžėje,\npaties Mikšo įsteigtoje\nspaustuvėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01116
+    - t-001

@@ -50,8 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67123"></a>
-- t-001
-  global_id: t-67123
+- t-002
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl veto teisė juose nebeveikė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -60,8 +59,7 @@ Nenurodyta
     - c-67150
 
 <a id="claim-t-67124"></a>
-- t-002
-  global_id: t-67124
+- t-001
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -84,14 +82,12 @@ Nenurodyta
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo
     būdu šitokiam seime _veto_ teisė jau nebeveikė.
-  citata_rodoma: |
-    Tuo būdu šitokiam seime _veto_ teisė
-    jau nebeveikė.
+  citata_rodoma: "Tuo būdu šitokiam seime _veto_ teisė\njau nebeveikė."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67123
-    - t-67124
+    - t-002
+    - t-001

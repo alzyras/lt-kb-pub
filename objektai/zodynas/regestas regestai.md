@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-28626"></a>
 - t-001
-  global_id: t-28626
   teiginys: "Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,4 +76,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-28626
+    - t-001

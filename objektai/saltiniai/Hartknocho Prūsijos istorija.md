@@ -30,7 +30,6 @@ Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo D
 
 <a id="claim-t-191755"></a>
 - t-001
-  global_id: t-191755
   teiginys: "Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo Divonio apsilankymą būsimame Prūsijos krašte."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191755
+    - t-001

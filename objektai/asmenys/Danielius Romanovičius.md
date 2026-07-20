@@ -8,16 +8,16 @@ datos:
   - '1271 m.'
 date_start: '1190'
 date_end: '1271'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
-amziai:
-  - 'XII'
-  - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-194106"></a>
 - t-001
-  global_id: t-194106
   teiginys: "6 Danielius Romaoovičius (1201— 1264) — Haličo ir Volynės (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -52,42 +51,10 @@ media_all_json: |-
   pagrindžia:
     - c-176719
 
-<a id="claim-t-194107"></a>
-- t-002
-  global_id: t-194107
-  teiginys: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys performuluotas kaip pilnas teiginys apie Danielių Romanovičių per jo brolį Vasilką. Palikti tik citatos duomenys, pašalinus išnašos numerį ir OCR klaidą.'
-  pagrindžia:
-    - c-002
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
+- c-001
+  santrauka: '6 Danielius Romaoovičius (1201— 1264) — Haličo ir Volynės (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Pasinaudo­
-    damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį
-    Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
-    tuvos valstybės priešų koaliciją. Drauge su kryžiuočiais ir lenkais
-    jis pasidalijo Jotvingių šalį: vienas iš jų išnaikinimo kaltininkų.
-    7 Vasllka Romanovičius (1190— 1271) — Volynės Vladimiro kuni­
-    gaikštis, Haličo-Volynės didžiojo kunigaikščio Danieliaus Romano-
-    vičiaus brolis ir politinis bendradarbis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: not_found
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194107
-## Citatos
-
-- id: c-176719
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     3 Svarnas — Haličo-Volynės kunigaikščio Danieliaus Romanovl-
     člaus sūnus,
@@ -105,7 +72,36 @@ media_all_json: |-
     lynės
     Naugardo (Novgorod Volynskij), rusų metraščiuose minimą
     1171 m
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pasinaudo­
+    damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį
+    Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
+    tuvos valstybės priešų koaliciją. Drauge su kryžiuočiais ir lenkais
+    jis pasidalijo Jotvingių šalį: vienas iš jų išnaikinimo kaltininkų.
+    7 Vasllka Romanovičius (1190— 1271) — Volynės Vladimiro kuni­
+    gaikštis, Haličo-Volynės didžiojo kunigaikščio Danieliaus Romano-
+    vičiaus brolis ir politinis bendradarbis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: not_found
+
+## Citatos
+
+- id: c-176719
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
     Užimta buvo visa
     Lietuvos žemė ir nesuskaičiuojami jų  turtai".
     6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės
@@ -113,10 +109,11 @@ media_all_json: |-
     damas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį
     Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
     tuvos valstybės priešų koaliciją.
+  citata_rodoma: "Užimta buvo visa \nLietuvos žemė ir nesuskaičiuojami jų  turtai\".\n6 Danielius Romaoovičius (1201— 1264) —  Haličo ir Volynės \n(vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Pasinaudo­\ndamas M indaugo giminaičių maištu prieš Lietuvos didijį kunigaikštį \nMindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­\ntuvos valstybės priešų koaliciją."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194106
+    - t-001

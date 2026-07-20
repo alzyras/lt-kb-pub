@@ -8,12 +8,12 @@ datos:
   - '1471 m.'
 date_start: '1469'
 date_end: '1471'
-sukurta: ''
-atnaujinta: ''
-amziai:
-  - 'XV'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XV'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-202067"></a>
 - t-001
-  global_id: t-202067
   teiginys: "Į Kauną bernardinus kvietė buvusio Kauno seniūno Sudivojaus sūnus, valdovo maršalas ir Gardino seniūnas Stankus Sudivojaitis."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202067
+    - t-001

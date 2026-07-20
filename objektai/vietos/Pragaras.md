@@ -35,9 +35,8 @@ Nenurodyta
 
 <a id="claim-t-188963"></a>
 - t-001
-  global_id: t-188963
   teiginys: "Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,7 +52,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171852
-    - c-001
 - susijęs iš [[objektai/asmenys/Mnelea ir Rolandas.md#claim-t-190186|Mnelea ir Rolandas]]: Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190284|Tadas Volianskis]]: Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189417|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
@@ -78,31 +76,6 @@ Nenurodyta
 - susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
 - susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
 - susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Vienas liaudies padavimas sa­
-    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
-    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
-    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
-    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
-    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
-    jo kančių įvaizdį.
-    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
-    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
-    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
-    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
-    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
-    bulumą, būtiną amžinajam gyvenimui.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-188963
 ## Citatos
 
 - id: c-171852
@@ -110,22 +83,6 @@ Nenurodyta
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Toliau autorius pa­
-    sakoja, kad šie Rytų bažnyčios atskalūnai, nuo seno gyvenan­
-    tys tarp stabmeldžių lietuvių, ne tik naudojasi didesne laisve
-    negu savo šalyje, bet daugelio lietuvių didikų šeimose netgi
-    turi savo tikėjimo šalininkų; per tai susidarė padėtis, kad Lie­
-    tuvoje mažai liko Rytų atskalos bažnyčių, neapkrėstų jų pa­
-    klydimais. Priešingai, lietuvių bajorai, urmu linkstantys į šią
-    krikščionybę, sukūrė tarytum naują sektą, kurią autorius va­
-    dina lietuviškuoju manicheizmu, Manicheismus Lilhuanicus.
-    Jo atsiradimą aprašo taip: „Rusinai pirmieji, kaip sako, dar XI
-    amžiaus pirmojoje pusėje, ėmė platinti krikščionybę stabmel­
-    diškoje Lietuvoje, bet vėliau šie krikščionys, patys užsikrėtę
-    manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
-    dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
-    krikščionybe, ar krikščionybė susiliejo su stabmeldyste.
-  citata_rodoma: |
     Vienas liaudies padavimas sa­
     ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
     kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
@@ -139,10 +96,11 @@ Nenurodyta
     tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
     rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
     bulumą, būtiną amžinajam gyvenimui.
+  citata_rodoma: "Vienas liaudies padavimas sa­\nko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,\nkurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.\nPekla lietuviškai turi originalų pavadinimą Pragaras; tai su­\nsiję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­\nmeldystės filosofijai, galime daryti išvadą, kad lietuviai turė­\njo kančių įvaizdį.\nSielos persikėlimą, arba metempsichozę, lietuviai suprato\ntaip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­\nnametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­\ntutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­\nrį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­\nbulumą, būtiną amžinajam gyvenimui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-188963
+    - t-001

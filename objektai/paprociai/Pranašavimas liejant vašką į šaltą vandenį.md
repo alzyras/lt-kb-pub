@@ -46,7 +46,6 @@ Nenurodyta
 
 <a id="claim-t-189856"></a>
 - t-001
-  global_id: t-189856
   teiginys: "Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -87,4 +86,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189856
+    - t-001

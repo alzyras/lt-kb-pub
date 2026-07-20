@@ -7,14 +7,14 @@ datos:
   - '1292 m.'
 date_start: '1292'
 date_end: ''
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - žygis
-amziai:
-  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,10 +53,9 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62758"></a>
-- t-001
-  global_id: t-62758
+- t-002
   teiginys: "Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 16:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -72,8 +71,7 @@ Nenurodyta
     - c-63548
 
 <a id="claim-t-62759"></a>
-- t-002
-  global_id: t-62759
+- t-003
   teiginys: "Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -90,8 +88,7 @@ Nenurodyta
     - c-63547
 
 <a id="claim-t-62760"></a>
-- t-003
-  global_id: t-62760
+- t-001
   teiginys: "1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Nenurodyta
     - c-63545
 
 <a id="claim-t-194380"></a>
-- t-004
-  global_id: t-194380
+- t-005
   teiginys: "1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -124,10 +120,9 @@ Nenurodyta
     - c-63545
 
 <a id="claim-t-196938"></a>
-- t-005
-  global_id: t-196938
+- t-006
   teiginys: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 20:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,13 +130,12 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63545
+    - c-63546
+    - c-63548
 
-## Citatos
-
-- id: c-63545
-  autorius: "Petras Dusburgietis"
-  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -153,7 +147,22 @@ Nenurodyta
     dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
     bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
     apgins.
-  citata_rodoma: |
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-004
+    - t-005
+    - t-006
+
+## Citatos
+
+- id: c-63545
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
     1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
     rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
     ir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
@@ -161,15 +170,17 @@ Nenurodyta
     jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
     tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu
     taip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“.
+  citata_rodoma: "1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai\nrūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę\nir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir\npasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;\njie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu\ntučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu\ntaip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62760
-    - t-194380
-    - t-196938
+    - t-001
+    - t-005
+    - t-006
+
 - id: c-63546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,22 +194,16 @@ Nenurodyta
     kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
     vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
     priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų.
-  citata_rodoma: |
-    Šis  į tai
-    tarė: „Grįžkite namo, tačiau būkite pasirengę kovai, gal jie išsigąs, matydami, jog esate
-    deramai pasiruošę gintis, ir išsižadės sumanytos piktadarystės“. Brolis Henrikas visa
-    tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė  į Lietuvos žemę žvalgus,
-    kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė. Todėl magistras įsakė
-    kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
-    vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
-    priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų.
+  citata_rodoma: "Šis  į tai\ntarė: „Grįžkite namo, tačiau būkite pasirengę kovai, gal jie išsigąs, matydami, jog esate\nderamai pasiruošę gintis, ir išsižadės sumanytos piktadarystės“. Brolis Henrikas visa\ntai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė  į Lietuvos žemę žvalgus,\nkurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė. Todėl magistras įsakė\nkariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė\nvieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam\npriskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62758
+    - t-002
+    - t-006
+
 - id: c-63547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,24 +219,15 @@ Nenurodyta
     pargrįžo namo. Štai kokios negandos iš visų pusių nuolatos grėsė broliams, tačiau dievas,
     kuris niekad nepalieka nelaimėje tų, kurie jį tiki, mielaširdingai juos gelbėjo nuo visiško
     išnaikinimo.
-  citata_rodoma: |
-    Todėl magistras įsakė
-    kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
-    vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
-    priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų. Kai paprasti žmonės išvydo,
-    jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose
-    pasilinksminimuose, labai nusigando  ir, manydami, jog jų sąmokslas esąs susektas,
-    nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
-    pargrįžo namo. Štai kokios negandos iš visų pusių nuolatos grėsė broliams, tačiau dievas,
-    kuris niekad nepalieka nelaimėje tų, kurie jį tiki, mielaširdingai juos gelbėjo nuo visiško
-    išnaikinimo.
+  citata_rodoma: "Todėl magistras įsakė\nkariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė\nvieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam\npriskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų. Kai paprasti žmonės išvydo,\njog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose\npasilinksminimuose, labai nusigando  ir, manydami, jog jų sąmokslas esąs susektas,\nnedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi\npargrįžo namo. Štai kokios negandos iš visų pusių nuolatos grėsė broliams, tačiau dievas,\nkuris niekad nepalieka nelaimėje tų, kurie jį tiki, mielaširdingai juos gelbėjo nuo visiško\nišnaikinimo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62759
+    - t-003
+
 - id: c-63548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -247,21 +243,12 @@ Nenurodyta
     pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas,
     nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
     pargrįžo namo.
-  citata_rodoma: |
-    Brolis Henrikas visa
-    tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė  į Lietuvos žemę žvalgus,
-    kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė. Todėl magistras įsakė
-    kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
-    vieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam
-    priskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų. Kai paprasti žmonės išvydo,
-    jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose
-    pasilinksminimuose, labai nusigando  ir, manydami, jog jų sąmokslas esąs susektas,
-    nedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi
-    pargrįžo namo.
+  citata_rodoma: "Brolis Henrikas visa\ntai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė  į Lietuvos žemę žvalgus,\nkurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė. Todėl magistras įsakė\nkariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė\nvieną po kito tuos, kurie buvo svarbiausieji šios išdavystės sumanytojai, ir kiekvienam\npriskyrė po vieną brolį, turėjusį jį saugoti, kad nepabėgtų. Kai paprasti žmonės išvydo,\njog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose\npasilinksminimuose, labai nusigando  ir, manydami, jog jų sąmokslas esąs susektas,\nnedrįso nieko bloga broliams daryti, ir šitaip broliai iš dievo malonės sveiki bei gyvi\npargrįžo namo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-62758
+    - t-002
+    - t-006

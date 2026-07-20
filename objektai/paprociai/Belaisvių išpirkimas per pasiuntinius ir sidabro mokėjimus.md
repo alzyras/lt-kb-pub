@@ -58,7 +58,6 @@ Nenurodyta
 
 <a id="claim-t-87204"></a>
 - t-001
-  global_id: t-87204
   teiginys: "Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-87205"></a>
 - t-002
-  global_id: t-87205
   teiginys: "Pskovo pasiuntiniai Vilniuje mokėjo Vytautui sidabrą už belaisvių paleidimą, tačiau belaisviai paleisti tik pridėjus dar 250 rublių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -100,7 +98,6 @@ Nenurodyta
 
 <a id="claim-t-194186"></a>
 - t-003
-  global_id: t-194186
   teiginys: "Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -199,6 +196,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87204
-    - t-87205
-    - t-194186
+    - t-001
+    - t-002
+    - t-003

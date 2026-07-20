@@ -33,7 +33,6 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
 
 <a id="claim-t-201795"></a>
 - t-001
-  global_id: t-201795
   teiginys: "Pagaliau prekės Nemunu buvo plukdomos sieliais."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -46,7 +45,6 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
 
 <a id="claim-t-201796"></a>
 - t-002
-  global_id: t-201796
   teiginys: "Sieliai (plyta, krobka) buvo rišami iš skirtų parduoti medžių kamienų."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -74,7 +72,7 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201795
+    - t-001
 
 - id: c-185143
   autorius: "Zigmantas Kiaupa"
@@ -91,4 +89,4 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201796
+    - t-002

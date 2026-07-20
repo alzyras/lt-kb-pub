@@ -51,19 +51,6 @@ Jaunamartė šiame šaltinyje reiškia jau ištekėjusią moterį, nebe jaunąj�
 
 Terminas vartojamas rytmečio po vestuvių ir aprėdimo kontekste.
 
-## Teiginiai
-
-<a id="claim-t-195631"></a>
-- t-001
-  global_id: t-195631
-  teiginys: "Jaunamartė šiame šaltinyje žymima ištekėjusios moters apdaru."
-  atnaujinta: "2026-07-12 08:46"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178033
-
 ## Citatos
 
 - id: c-178033
@@ -79,12 +66,9 @@ Terminas vartojamas rytmečio po vestuvių ir aprėdimo kontekste.
     na.
     Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku,
     bet ištekėjusios moters aprėdu.
-  citata_rodoma: |
-    Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku, bet ištekėjusios moters aprėdu.
+  citata_rodoma: "Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku, bet ištekėjusios moters aprėdu."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-195631

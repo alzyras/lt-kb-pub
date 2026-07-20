@@ -39,8 +39,7 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 ## Teiginiai
 
 <a id="claim-t-75438"></a>
-- t-001
-  global_id: t-75438
+- t-002
   teiginys: "A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
     - c-23730
 
 <a id="claim-t-75439"></a>
-- t-002
-  global_id: t-75439
+- t-003
   teiginys: "A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,15 +88,12 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
     ministerija), 2001; Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A. Eidinto, A. Bumblausko asmeninių archyvų.
-  citata_rodoma: |
-    Vilnius: Spaudos
-    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
-    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
+  citata_rodoma: "Vilnius: Spaudos \ndepartamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) \nir A. Eidinto, A. Bumblausko asmeninių archyvų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75438
-    - t-75439
+    - t-002
+    - t-003

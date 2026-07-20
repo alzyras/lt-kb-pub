@@ -33,7 +33,6 @@ Johannas Georgas Adamas Forsteris pastebėjo ilgą gėrimo ratu trukmę ir didel
 
 <a id="claim-t-200739"></a>
 - t-001
-  global_id: t-200739
   teiginys: "Johannas Georgas Adamas Forsteris pastebėjo ilgą gėrimo ratu trukmę ir didelius išgeriamo alkoholio kiekius."
   atnaujinta: "2026-07-14 18:18"
   sprendimo_priezastis: "auto"
@@ -52,16 +51,8 @@ Johannas Georgas Adamas Forsteris pastebėjo ilgą gėrimo ratu trukmę ir didel
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
   puslapiai: "PDF 14"
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
-  citata_originali: |
-    Kai kas nuo to greičiau
-    pavargdavo nei nuo gėrimo apsvaigdavo (Kitowicz 1840: 255).
-    Visas renginys trukdavęs keletą (iki keturių penkių) valandų. Ilgą gėrimo ratu truk­
-    mę ir didelius išgeriamo alkoholio kiekius yra pastebėjęs ir Johannas Georgas Ada-
-    mas Forsteris (1754–1794) (Dias-Lewandowska 2014: 161).
+  citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-14 18:15"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindzia:
-    - t-200739
+    - t-001

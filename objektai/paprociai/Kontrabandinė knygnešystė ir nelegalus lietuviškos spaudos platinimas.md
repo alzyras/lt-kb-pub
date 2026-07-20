@@ -57,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54251"></a>
-- t-001
-  global_id: t-54251
+- t-002
   teiginys: "Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -77,8 +76,7 @@ Nenurodyta
     - c-166704
 
 <a id="claim-t-54252"></a>
-- t-002
-  global_id: t-54252
+- t-003
   teiginys: "Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -94,8 +92,7 @@ Nenurodyta
     - c-55148
 
 <a id="claim-t-54254"></a>
-- t-003
-  global_id: t-54254
+- t-001
   teiginys: "Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -111,8 +108,7 @@ Nenurodyta
     - c-55148
 
 <a id="claim-t-183314"></a>
-- t-004
-  global_id: t-183314
+- t-005
   teiginys: "Nepaisant griežtų bausmių knygnešiams, nelegalus lietuviškos spaudos platinimas palaikė spaudos srautą į Lietuvą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -145,20 +141,16 @@ Nenurodyta
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
     nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
     ir nelegalų jos platinimą Lietuvoje.
-  citata_rodoma: |
-    Todėl jų bemaž niekas ir ne-
-    skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
-    Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
-    nizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose
-    ir nelegalų jos platinimą Lietuvoje.
+  citata_rodoma: "Todėl jų bemaž niekas ir ne-\nskaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.\nParaginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-\nnizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose \nir nelegalų jos platinimą Lietuvoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54252
-    - t-54254
+    - t-003
+    - t-001
+
 - id: c-166704
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,5 +177,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54251
-    - t-183314
+    - t-002
+    - t-005

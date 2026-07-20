@@ -31,6 +31,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)
 
 ## Santrauka
@@ -56,8 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97040"></a>
-- t-001
-  global_id: t-97040
+- t-008
   teiginys: "1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +76,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97041"></a>
-- t-002
-  global_id: t-97041
+- t-007
   teiginys: "Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,8 +95,7 @@ Nenurodyta
     - c-31386
 
 <a id="claim-t-97042"></a>
-- t-003
-  global_id: t-97042
+- t-005
   teiginys: "Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -114,7 +112,6 @@ Nenurodyta
 
 <a id="claim-t-97043"></a>
 - t-004
-  global_id: t-97043
   teiginys: "1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -133,8 +130,7 @@ Nenurodyta
     - c-04997
 
 <a id="claim-t-97044"></a>
-- t-005
-  global_id: t-97044
+- t-006
   teiginys: "Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -152,25 +148,10 @@ Nenurodyta
   pagrindžia:
     - c-04998
 
-<a id="claim-t-97045"></a>
-- t-006
-  global_id: t-97045
-  teiginys: "Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas, teiginys paremtas citata."
-  pagrindžia:
-    - c-31386
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas]]
 
 ## Citatos
 
@@ -195,9 +176,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97040
-    - t-97042
-    - t-97043
+    - t-008
+    - t-005
+    - t-004
+
 - id: c-04998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -209,17 +191,15 @@ Nenurodyta
     darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
-  citata_rodoma: |
-    Išvykdami iš Livonijos, popiežiaus legatai įsakė
-    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
-    kad per tą laiką Gediminas galįs pasikrikštyti.
+  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97044
+    - t-006
+
 - id: c-31386
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -231,17 +211,11 @@ Nenurodyta
     kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
     čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
     taikos, ir karą tepradėjo 1328 m.
-  citata_rodoma: |
-    Išvykdami iš Livonijos, popiežiaus legatai įsakė
-    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
-    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
-    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
-    taikos, ir karą tepradėjo 1328 m.
+  citata_rodoma: "Išvykdami iš Livonijos, popiežiaus legatai įsakė\nsu Gediminu nekariauti ketverius metus, nes buvo turima vilčių,\nkad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­\nčiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios\ntaikos, ir karą tepradėjo 1328 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97041
-    - t-97045
+    - t-007

@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-35845"></a>
 - t-001
-  global_id: t-35845
   teiginys: "Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,14 +76,11 @@ Nenurodyta
     prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
     Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
     rėję pasiliauti nuolatiniai Ordino puolimai.
-  citata_rodoma: |
-    Tiesa, savo valdymo pradžioje Kęstutis su
-    Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
-    rėję pasiliauti nuolatiniai Ordino puolimai.
+  citata_rodoma: "Tiesa, savo valdymo pradžioje Kęstutis su\nAlgirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­\nrėję pasiliauti nuolatiniai Ordino puolimai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35845
+    - t-001

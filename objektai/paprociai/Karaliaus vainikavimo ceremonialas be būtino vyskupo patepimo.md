@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-31517"></a>
 - t-001
-  global_id: t-31517
   teiginys: "Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,7 +67,6 @@ Nenurodyta
 
 <a id="claim-t-31518"></a>
 - t-002
-  global_id: t-31518
   teiginys: "Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -101,7 +99,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31517
+    - t-001
+
 - id: c-33451
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -116,16 +115,11 @@ Nenurodyta
     jis pats. Cigalos delegacija turėjo sugriauti tezes, kurias savo trak­
     tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
     neturįs teisės niekam suteikti vainiko.
-  citata_rodoma: |
-    Nurodydamas eilę pavyzdžių,
-    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
-    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
-    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
-    jis pats.
+  citata_rodoma: "Nurodydamas eilę pavyzdžių,\nkur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­\npimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui\nvainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.\njis pats."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31518
+    - t-002

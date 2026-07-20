@@ -36,7 +36,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 
 <a id="claim-t-88459"></a>
 - t-001
-  global_id: t-88459
   teiginys: "Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,4 +73,4 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88459
+    - t-001

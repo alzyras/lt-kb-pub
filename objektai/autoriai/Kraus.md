@@ -30,7 +30,6 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
 
 <a id="claim-t-194883"></a>
 - t-001
-  global_id: t-194883
   teiginys: "Nužymėti šį prekybos kelią padėjo: Kraus."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194883
+    - t-001

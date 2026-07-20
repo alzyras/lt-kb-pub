@@ -28,7 +28,6 @@ Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq.
 
 <a id="claim-t-201889"></a>
 - t-001
-  global_id: t-201889
   teiginys: "Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -54,4 +53,4 @@ Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201889
+    - t-001

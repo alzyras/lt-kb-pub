@@ -38,7 +38,6 @@ Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych 
 
 <a id="claim-t-191860"></a>
 - t-001
-  global_id: t-191860
   teiginys: "Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znajduiących się“ aprašytas deivės Mildos stabas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -75,4 +74,4 @@ Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191860
+    - t-001

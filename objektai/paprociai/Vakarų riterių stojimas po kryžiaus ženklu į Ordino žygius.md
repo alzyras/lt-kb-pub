@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-87256"></a>
 - t-001
-  global_id: t-87256
   teiginys: "1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -79,7 +78,6 @@ Nenurodyta
 
 <a id="claim-t-194193"></a>
 - t-002
-  global_id: t-194193
   teiginys: "Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda vo."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87256
+    - t-001
+
 - id: c-176797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,4 +140,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194193
+    - t-002

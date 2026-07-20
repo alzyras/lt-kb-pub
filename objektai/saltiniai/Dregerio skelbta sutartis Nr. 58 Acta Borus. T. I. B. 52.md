@@ -30,7 +30,6 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
 
 <a id="claim-t-191833"></a>
 - t-001
-  global_id: t-191833
   teiginys: "Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku atpažinti dėl blogai išrašytų pavadinimų ir neišlikusių vietos ženklų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191833
+    - t-001

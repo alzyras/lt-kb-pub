@@ -37,7 +37,6 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
 
 <a id="claim-t-86286"></a>
 - t-001
-  global_id: t-86286
   teiginys: "Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,4 +81,4 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86286
+    - t-001

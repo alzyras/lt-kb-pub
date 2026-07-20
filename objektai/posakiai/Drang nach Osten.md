@@ -46,7 +46,6 @@ media_all_json: |-
 
 <a id="claim-t-35969"></a>
 - t-001
-  global_id: t-35969
   teiginys: "Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus."
   atnaujinta: "2026-06-13 17:24"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -63,7 +62,6 @@ media_all_json: |-
 
 <a id="claim-t-35970"></a>
 - t-002
-  global_id: t-35970
   teiginys: "Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
@@ -93,18 +91,12 @@ media_all_json: |-
     veržtis į Rytus.
     Baigiant tenka padaryti dar kelias apibendrinančias pa­
     stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
-  citata_rodoma: |
-    Bet kaip ten bebūtų, vis dėlto mes tu­
-    rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
-    duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
-    veržtis į Rytus.
-    Baigiant tenka padaryti dar kelias apibendrinančias pa­
-    stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
+  citata_rodoma: "Bet kaip ten bebūtų, vis dėlto mes tu­\nrim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­\nduotas smūgis vokiečių siekimui — „Drang nach Osten“ —\nveržtis į Rytus.\nBaigiant tenka padaryti dar kelias apibendrinančias pa­\nstabas apie mūšio organizaciją, vadovybę ir vietą istorijoje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35969
-    - t-35970
+    - t-001
+    - t-002

@@ -59,7 +59,6 @@ Nenurodyta
 
 <a id="claim-t-75389"></a>
 - t-001
-  global_id: t-75389
   teiginys: "Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -79,8 +78,7 @@ Nenurodyta
     - c-166724
 
 <a id="claim-t-75391"></a>
-- t-002
-  global_id: t-75391
+- t-004
   teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -96,8 +94,7 @@ Nenurodyta
     - c-73192
 
 <a id="claim-t-75392"></a>
-- t-003
-  global_id: t-75392
+- t-006
   teiginys: "XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -116,8 +113,7 @@ Nenurodyta
     - c-73194
 
 <a id="claim-t-75393"></a>
-- t-004
-  global_id: t-75393
+- t-002
   teiginys: "Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -133,8 +129,7 @@ Nenurodyta
     - c-73192
 
 <a id="claim-t-75394"></a>
-- t-005
-  global_id: t-75394
+- t-003
   teiginys: "XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -153,8 +148,7 @@ Nenurodyta
     - c-73194
 
 <a id="claim-t-183334"></a>
-- t-006
-  global_id: t-183334
+- t-007
   teiginys: "Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -194,8 +188,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75391
-    - t-75393
+    - t-004
+    - t-002
+
 - id: c-73194
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,8 +222,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75392
-    - t-75394
+    - t-006
+    - t-003
+
 - id: c-166724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,5 +244,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75389
-    - t-183334
+    - t-001
+    - t-007

@@ -8,16 +8,16 @@ datos:
   - '1302 m.'
 date_start: '1301'
 date_end: '1302'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - pilis
   - mokslininkas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,9 +41,8 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
 
 <a id="claim-t-91935"></a>
 - t-001
-  global_id: t-91935
   teiginys: "Viljandžio (Tuulse A., Die Burgen..., p. 79)."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,10 +55,9 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-87576
-    - c-001
+
 <a id="claim-t-197012"></a>
 - t-002
-  global_id: t-197012
   teiginys: "Tuulse A atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -70,21 +68,6 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   pagrindžia:
     - c-179001
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
-    Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
-    79).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-91935
 ## Citatos
 
 - id: c-87576
@@ -92,21 +75,18 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
-    277 (270). Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
-    Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
-  citata_rodoma: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
     Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
     79).
+  citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-91935
+    - t-001
+
 - id: c-179001
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,4 +108,4 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197012
+    - t-002

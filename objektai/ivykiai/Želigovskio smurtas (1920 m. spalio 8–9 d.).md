@@ -51,7 +51,6 @@ Nenurodyta
 
 <a id="claim-t-01898"></a>
 - t-001
-  global_id: t-01898
   teiginys: "Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,7 +68,6 @@ Nenurodyta
 
 <a id="claim-t-01900"></a>
 - t-002
-  global_id: t-01900
   teiginys: "Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -108,7 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01900
+    - t-002
+
 - id: c-02138
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -123,15 +122,11 @@ Nenurodyta
     Lietuvių ir Lenkų santykių tvarkymą. Lenkija, nebegalėdama
     niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
     saką.
-  citata_rodoma: |
-    Tuo
-    būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
-    laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
-    Lietuvių ir Lenkų santykių tvarkymą.
+  citata_rodoma: "Tuo\nbūdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-\nlaužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį\nLietuvių ir Lenkų santykių tvarkymą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01898
+    - t-001

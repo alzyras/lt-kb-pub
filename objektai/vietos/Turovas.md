@@ -40,8 +40,7 @@ Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie t
 ## Teiginiai
 
 <a id="claim-t-178310"></a>
-- t-001
-  global_id: t-178310
+- t-026
   teiginys: "Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,6 +96,7 @@ Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178310
+    - t-026
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Pisimantas]]

@@ -7,13 +7,13 @@ datos:
   - '1750 m.'
 date_start: '1750'
 date_end: ''
+amziai:
+  - 'XVIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - teisinė-praktika
-amziai:
-  - 'XVIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -65,7 +65,6 @@ Nenurodyta
 
 <a id="claim-t-200621"></a>
 - t-001
-  global_id: t-200621
   teiginys: "1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme."
   atnaujinta: "2026-07-14 11:41"
   sprendimo_priezastis: "gap::customs"
@@ -84,13 +83,9 @@ Nenurodyta
   pagrindžia:
     - c-184006
 
-## Citatos
-
-- id: c-184006
-  autorius: "Domininkas Burba"
+## Reikšmingi paminėjimai
+- c-001
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  puslapiai: "PDF 6"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citata_originali: |
     J. D. Lopacinskis
     rašė, esą Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis „valgęs pietus pas
@@ -98,15 +93,21 @@ Nenurodyta
     paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas ponas Mstislavlio
     vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nediskretiškas, kad Vil-
     niaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį M. K. Sapiegą [11].
-  citata_rodoma: |
-    Laiškuose buvo paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas
-    ponas Mstislavlio vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nedis-
-    kretiškas, kad Vilniaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį
-    M. K. Sapiegą [11].
-  statusas: verified
-  atnaujinta: "2026-07-14 07:43"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  statusas: verified
+
+## Citatos
+
+- id: c-184006
+  autorius: "Domininkas Burba"
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  puslapiai: "PDF 6"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-14 07:43"
   pagrindzia:
-    - t-200621
+    - t-001

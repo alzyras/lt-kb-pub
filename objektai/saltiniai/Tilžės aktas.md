@@ -37,8 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-08892"></a>
-- t-001
-  global_id: t-08892
+- t-003
   teiginys: "Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -68,14 +67,11 @@ media_all_json: |-
     "Tuometinė vokiečių valdžia šį Tarybos nu-
     tarimą, dar vadinamą Tilžės aktu, igno-
     ravo.
-  citata_rodoma: |
-    "Tuometinė vokiečių valdžia šį Tarybos nu-
-    tarimą, dar vadinamą Tilžės aktu, igno-
-    ravo.
+  citata_rodoma: "\"Tuometinė vokiečių valdžia šį Tarybos nu-\ntarimą, dar vadinamą Tilžės aktu, igno-\nravo."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-08892
+    - t-003

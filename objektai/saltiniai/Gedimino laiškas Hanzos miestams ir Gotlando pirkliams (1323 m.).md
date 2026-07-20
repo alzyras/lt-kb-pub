@@ -35,8 +35,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 ## Teiginiai
 
 <a id="claim-t-88119"></a>
-- t-001
-  global_id: t-88119
+- t-004
   teiginys: "Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -52,8 +51,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - c-84099
 
 <a id="claim-t-88120"></a>
-- t-002
-  global_id: t-88120
+- t-001
   teiginys: "Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,8 +67,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - c-84098
 
 <a id="claim-t-88121"></a>
-- t-003
-  global_id: t-88121
+- t-002
   teiginys: "Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,8 +83,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - c-84101
 
 <a id="claim-t-88122"></a>
-- t-004
-  global_id: t-88122
+- t-003
   teiginys: "Gediminas žemdirbiams, atvykstantiems į jo karalystę, žadėjo žemę ir dešimt metų laisvo bei nemokamo jos dirbimo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -135,7 +131,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88120
+    - t-001
+
 - id: c-84099
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +151,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88119
+    - t-004
+
 - id: c-84100
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -184,7 +182,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88122
+    - t-003
+
 - id: c-84101
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,35 +219,11 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     dicto expirato et tantum (ü) secundum terre fertilitatem
     datunt decimam prout in aliis regnis vėl provinciis (m) darė
     consueverunt.
-  citata_rodoma: |
-    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
-    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
-    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
-    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
-    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
-    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
-    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
-    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
-    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
-    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
-    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
-    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
-    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
-    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
-    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
-    59
-
-    ## Puslapis 76
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    medio ipse (1) at omni opere regio sint exempti, termino pre-
-    dicto expirato et tantum (ü) secundum terre fertilitatem
-    datunt decimam prout in aliis regnis vėl provinciis (m) darė
-    consueverunt.
+  citata_rodoma: "Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­\nnuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras, \n[tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­\ndaro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo] \nsielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­\ndo dvasininkus; patariame kiekvienam valdovui pasisaugoti \ntokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­\nkai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka \nmalone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­\nlių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­\njamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios \npadėties amatininkams, būtent, meistrams, kurpiams, račiams, \nakmenskaldžiams, druskininkams, malūnininkams, sidabra- \nkaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­\ntiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su\n59\n\n## Puslapis 76\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmedio ipse (1) at omni opere regio sint exempti, termino pre- \ndicto expirato et tantum (ü) secundum terre fertilitatem \ndatunt decimam prout in aliis regnis vėl provinciis (m) darė \nconsueverunt."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-88121
+    - t-002

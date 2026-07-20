@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
 
 <a id="claim-t-59163"></a>
 - t-001
-  global_id: t-59163
   teiginys: "Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie vieną stebuklą
+    41. Apie vieną stebuklą
 
       Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
     žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
@@ -68,26 +67,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
 
 
                          42.
-  citata_rodoma: |
-    Apie vieną stebuklą
-
-      Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
-    žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;
-    paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,
-    eidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius
-    smilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir
-    džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;
-    drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
-    visi žmonės patikėjo jos žodžiais.
-
-
-
-
-                         42.
+  citata_rodoma: "Apie vieną stebuklą\n\n  Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti\nžuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino;\npaklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną švenčiausioji mergelė Marija,\neidama paskui dvi mergeles su degančiomis žvakėmis, smilkinusi visus žuvusiuosius\nsmilkytuvu, o priėjusi prie jo ir pastebėjusi  jį dar gyvą, tarusi: „Trečią dieną mirsi ir\ndžiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris  į amžinas linksmybes“;\ndrauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o\nvisi žmonės patikėjo jos žodžiais.\n\n\n\n\n                     42."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59163
+    - t-001

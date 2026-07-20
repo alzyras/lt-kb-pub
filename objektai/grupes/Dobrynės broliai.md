@@ -46,8 +46,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Teiginiai
 
 <a id="claim-t-65108"></a>
-- t-001
-  global_id: t-65108
+- t-002
   teiginys: "„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65602
 
 <a id="claim-t-65109"></a>
-- t-002
-  global_id: t-65109
+- t-006
   teiginys: "Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65603
 
 <a id="claim-t-65110"></a>
-- t-003
-  global_id: t-65110
+- t-004
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -100,8 +97,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65606
 
 <a id="claim-t-65111"></a>
-- t-004
-  global_id: t-65111
+- t-003
   teiginys: "Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -118,8 +114,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-65605
 
 <a id="claim-t-65112"></a>
-- t-005
-  global_id: t-65112
+- t-001
   teiginys: "Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -133,10 +128,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65604
-    - c-003
+
 <a id="claim-t-65113"></a>
-- t-006
-  global_id: t-65113
+- t-005
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -156,7 +150,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 <a id="claim-t-192375"></a>
 - t-007
-  global_id: t-192375
   teiginys: "Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -178,7 +171,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 <a id="claim-t-200916"></a>
 - t-008
-  global_id: t-200916
   teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -191,7 +183,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 <a id="claim-t-200917"></a>
 - t-009
-  global_id: t-200917
   teiginys: "Užvis kry žeiviams susinėrus su kalavijonimis ir Dobrynės brostviais rodės jam galinčiais, netikėlius nuveikus, paties kraštą užkariauti; užvis dar didesniai krūpa vo, matydamas, jog vokyčiai, kurdamies į tą kraštą, naikino tenai kalbą ir apsiėjimus senųjų."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -212,18 +203,22 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   santrauka: 'Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
-    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
-    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
-    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
-    ordino broliai pradėję su jais naują karą (II, 7).
+    Dusburgietis, rašydamas apie lietuvių
+    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
+    prieš Lietuvą (III, 343—346, 357—358).
+    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
+    prieš Ordiną.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-65112
+  statusas: verified
+
 ## Citatos
 
 - id: c-65602
@@ -241,7 +236,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65108
+    - t-002
+
 - id: c-65603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -254,47 +250,34 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
     Kaip tik tuo metu šventosios Marijos ligoninės Teutonų namų ordino Jeruzalėje broliai
     pradėjo prieš juos naują karą.
-  citata_rodoma: |
-    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
-    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
-    vadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų
-    vadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip
-    nusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų.
+  citata_rodoma: "Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas\nPotyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra\nvadinamieji Dobrynės broliai. Tačiau prūsai, nutykoję gerą progą, arba nugalabydavo jų\nvadus bei tuos, kurie juos vedė į žygį, arba patys kur toliau nuo savęs nuvydavo; šitaip\nnusimetę nuo savo sprando vergovės jungą, jie grįždavo prie savo pirmykščių paklydimų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65109
+    - t-006
+
 - id: c-65604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Dusburgietis, rašydamas apie lietuvių
-    puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
-    prieš Lietuvą (III, 343—346, 357—358).
-    Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
-    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
-    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
-    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
-    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
-    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą
-    prieš Ordiną.
-  citata_rodoma: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
     Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
     Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
     ordino broliai pradėję su jais naują karą (II, 7).
+  citata_rodoma: "Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką\nkarų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus\nCezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei\nDobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų\nordino broliai pradėję su jais naują karą (II, 7)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65112
+    - t-001
+
 - id: c-65605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -311,25 +294,15 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
-  citata_rodoma: |
-    Apie Kristaus karių ordino brolius
-
-      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
-    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
-    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
-    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
-    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
-    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
-    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
-      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
-    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
+  citata_rodoma: "Apie Kristaus karių ordino brolius\n\n  Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau\nsuprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono\nir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi\nKristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo\nmetu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;\nminėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge\nsu juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems\n  165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis\nįvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65111
+    - t-003
+
 - id: c-65606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -370,8 +343,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-65110
-    - t-65113
+    - t-004
+    - t-005
+
 - id: c-175169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -397,10 +371,12 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192375
+    - t-007
+
 - id: c-184266
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet ne taip veikiai nusibengė kerštai mozūrų
     kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
@@ -414,10 +390,12 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200916
+    - t-008
+
 - id: c-184267
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu kunigaikštis Pamario Sviatopelkas,
     taikinėjęs ilgą laiką kryžėjams,' kaip minavo jau,
@@ -440,4 +418,4 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-200917
+    - t-009

@@ -30,7 +30,6 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
 
 <a id="claim-t-191404"></a>
 - t-001
-  global_id: t-191404
   teiginys: "Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -51,7 +50,6 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
 
 <a id="claim-t-197733"></a>
 - t-002
-  global_id: t-197733
   teiginys: "Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,7 +83,8 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191404
+    - t-001
+
 - id: c-179314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -107,4 +106,4 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197733
+    - t-002

@@ -37,7 +37,6 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
 
 <a id="claim-t-34215"></a>
 - t-001
-  global_id: t-34215
   teiginys: "1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-34215
+    - t-001

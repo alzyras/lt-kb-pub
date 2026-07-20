@@ -51,8 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78730"></a>
-- t-001
-  global_id: t-78730
+- t-002
   teiginys: "XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,8 +67,7 @@ Nenurodyta
     - c-75917
 
 <a id="claim-t-193747"></a>
-- t-002
-  global_id: t-193747
+- t-003
   teiginys: "Pėstininkai galėdavo būti apsaugoti žieduočio šarvų, tačiau dažniau apsaugai naudodavo tiesiog storos medžiagos pošarvį."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -98,7 +96,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193747
+    - t-003
+
 - id: c-75917
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,4 +116,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78730
+    - t-002

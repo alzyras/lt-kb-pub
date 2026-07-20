@@ -31,7 +31,6 @@ media_all_json: |-
 
 <a id="claim-t-194933"></a>
 - t-001
-  global_id: t-194933
   teiginys: "Šioms tolimos senovės epo choms priskirtina ir kolchų tauta, nors ji gerokai vėliau už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan čius į šiaurę nuo Kaspijos ir Juodosios jūrų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -65,4 +64,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194933
+    - t-001

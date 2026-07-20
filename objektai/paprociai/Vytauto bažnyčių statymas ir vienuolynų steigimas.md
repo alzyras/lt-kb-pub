@@ -57,7 +57,6 @@ Nenurodyta
 
 <a id="claim-t-35956"></a>
 - t-001
-  global_id: t-35956
   teiginys: "Vytautas per savo valdymą pastatė apie 35 bažnyčias įvairiose Lietuvos valstybės vietose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -74,7 +73,6 @@ Nenurodyta
 
 <a id="claim-t-35958"></a>
 - t-002
-  global_id: t-35958
   teiginys: "Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai apdovanojo žemėmis, javais ir pinigais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -91,7 +89,6 @@ Nenurodyta
 
 <a id="claim-t-35959"></a>
 - t-003
-  global_id: t-35959
   teiginys: "Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -129,7 +126,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35959
+    - t-003
+
 - id: c-38346
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -143,18 +141,15 @@ Nenurodyta
     apdovanojo žemėmis, javais ir pinigais.
     Be bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­
     nų.
-  citata_rodoma: |
-    Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai
-    apdovanojo žemėmis, javais ir pinigais.
-    Be bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­
-    nų.
+  citata_rodoma: "Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai\napdovanojo žemėmis, javais ir pinigais.\nBe bažnyčių Vytautas taip pat statė Lietuvoje ir vienuoly­\nnų."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35958
+    - t-002
+
 - id: c-38347
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -167,16 +162,11 @@ Nenurodyta
     da Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­
     nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
     valstybės vietose: Vilniuje katedrą (1399) ir šv.
-  citata_rodoma: |
-    Per visą savo valdymo
-    laiką jis pastatė tiek bažnyčių, kiek jų, gal būt, niekas ir nieka­
-    da Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­
-    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
-    valstybės vietose: Vilniuje katedrą (1399) ir šv.
+  citata_rodoma: "Per visą savo valdymo\nlaiką jis pastatė tiek bažnyčių, kiek jų, gal būt, niekas ir nieka­\nda Lietuvoje nėra pastatęs. Taip, pavyzdžiui, yra išlikusių ži­\nnių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos\nvalstybės vietose: Vilniuje katedrą (1399) ir šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35956
+    - t-001

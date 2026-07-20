@@ -31,7 +31,6 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
 
 <a id="claim-t-36476"></a>
 - t-001
-  global_id: t-36476
   teiginys: "Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -61,17 +60,14 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
     kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
 
     (^1) ) C. ep.
-  citata_rodoma: |
-    Nors ir smarkiai kryžiuočiai buvo perse­
-    kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
-
-    (^1) ) C.
+  citata_rodoma: "Nors ir smarkiai kryžiuočiai buvo perse­\nkiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).\n\n(^1) ) C."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36476
+    - t-001
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

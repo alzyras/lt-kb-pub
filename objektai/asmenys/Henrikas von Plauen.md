@@ -32,7 +32,6 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 
 <a id="claim-t-30262"></a>
 - t-001
-  global_id: t-30262
   teiginys: "Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,18 +62,11 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
     Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
-  citata_rodoma: |
-    Kai
-    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
-    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
-    jau nebeįstengė paimti.
-    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
-    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
-    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
+  citata_rodoma: "Kai\nSchwetzo komtūras Henrikas von Plauen į Marienburgą surinko\napie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės\njau nebeįstengė paimti.\nBuvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos\nordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius\n_sulaikė_ nuo dalyvavimo Žalgirio kautynėse."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-30262
+    - t-001

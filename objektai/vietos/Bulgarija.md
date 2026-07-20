@@ -36,8 +36,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
 ## Teiginiai
 
 <a id="claim-t-46557"></a>
-- t-001
-  global_id: t-46557
+- t-002
   teiginys: "Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -53,8 +52,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
     - c-49121
 
 <a id="claim-t-46558"></a>
-- t-002
-  global_id: t-46558
+- t-001
   teiginys: "J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi."
   atnaujinta: "2026-05-23 13:41"
   sprendimo_priezastis: "auto"
@@ -88,17 +86,15 @@ st.) ir lenkė Rumuniją, Bulgariją.
     legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą. Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
     čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
-  citata_rodoma: |
-    Su-
-    manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
-    čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
+  citata_rodoma: "Su-\nmanymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-\nčius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46558
+    - t-001
+
 - id: c-49121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,6 +113,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-46557
+    - t-002
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Vladislovas]]

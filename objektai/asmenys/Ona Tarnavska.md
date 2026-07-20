@@ -31,7 +31,6 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 
 <a id="claim-t-87812"></a>
 - t-001
-  global_id: t-87812
   teiginys: "Bajorė Ona Tarnavska privalėjo mokėti įprastą dešimtinę iš savo dvaro javų ir iš Stanislovo Vaitkavičiaus kviečių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -69,4 +68,4 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87812
+    - t-001

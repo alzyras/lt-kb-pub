@@ -36,7 +36,6 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
 
 <a id="claim-t-191688"></a>
 - t-001
-  global_id: t-191688
   teiginys: "Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas atstumas tarp Kolhauzo ir Kamstigao sudarė apie 1900 rykščių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -79,4 +78,4 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191688
+    - t-001

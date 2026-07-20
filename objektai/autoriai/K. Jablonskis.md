@@ -28,6 +28,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # K. Jablonskis
 
 ## Santrauka
@@ -36,28 +37,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 
 ## Teiginiai
 
-<a id="claim-t-179502"></a>
-- t-001
-  global_id: t-179502
-  teiginys: "K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą."
-  atnaujinta: "2026-05-31 14:17"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Jablonskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Jablonskis\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1529 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-163197
-
 <a id="claim-t-179503"></a>
-- t-002
-  global_id: t-179503
+- t-001
   teiginys: "K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -97,7 +78,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179503
+    - t-001
+
 - id: c-163197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -112,16 +94,9 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
     kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški
     žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).
     Antrasis to rinkinio tomas liko rankraštyje.
-  citata_rodoma: |
-    Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius
-    lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių
-    kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški
-    žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).
-    Antrasis to rinkinio tomas liko rankraštyje.
+  citata_rodoma: "Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius\nlietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių\nkalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški\nžodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941).\nAntrasis to rinkinio tomas liko rankraštyje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-179502

@@ -14,14 +14,14 @@ datos:
   - '2026 m.'
 date_start: '1421'
 date_end: '2026'
-amziai:
-  - 'XV'
-  - 'XXI'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XV'
+  - 'XXI'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 ## Teiginiai
 
 <a id="claim-t-172096"></a>
-- t-001
-  global_id: t-172096
+- t-002
   teiginys: "Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma."
   atnaujinta: "2026-06-13 17:26"
   sprendimo_priezastis: "auto"
@@ -61,8 +60,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-156523
 
 <a id="claim-t-172097"></a>
-- t-002
-  global_id: t-172097
+- t-010
   teiginys: "Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,9 +75,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - c-156521
 
-<a id="claim-t-172106"></a>
-- t-003
-  global_id: t-172106
+<a id="claim-t-172099"></a>
+- t-008
   teiginys: "Husitai ne kartą naudojosi Vytauto globa."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +92,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-156526
 
 <a id="claim-t-172100"></a>
-- t-004
-  global_id: t-172100
+- t-005
   teiginys: "Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -112,8 +108,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-36797
 
 <a id="claim-t-172101"></a>
-- t-005
-  global_id: t-172101
+- t-011
   teiginys: "Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,8 +127,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-156527
 
 <a id="claim-t-172102"></a>
-- t-006
-  global_id: t-172102
+- t-001
   teiginys: "1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių."
   atnaujinta: "2026-05-31 14:13"
   sprendimo_priezastis: "auto"
@@ -152,8 +146,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-156524
 
 <a id="claim-t-172103"></a>
-- t-007
-  global_id: t-172103
+- t-012
   teiginys: "Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -172,8 +165,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-156525
 
 <a id="claim-t-172104"></a>
-- t-008
-  global_id: t-172104
+- t-004
   teiginys: "Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -189,8 +181,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-36796
 
 <a id="claim-t-172105"></a>
-- t-009
-  global_id: t-172105
+- t-003
   teiginys: "Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -206,10 +197,9 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - c-36795
 
 <a id="claim-t-184478"></a>
-- t-011
-  global_id: t-184478
+- t-013
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -227,7 +217,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie husitus ir tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-167839
-    - c-010
 - susijęs iš Čekija: Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
@@ -266,38 +255,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
 - susijęs iš [[objektai/zodynas/ekskomunika.md#claim-t-36780|ekskomunika]]: Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.
-## Reikšmingi paminėjimai
-- c-010
-  santrauka: '1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl vienaip kalbėjo im­
-    peratorius su Jogaila, kitaip
-    1429 m eta i
-    akis į akį su Vytautu. Valdo­
-    vų posėdyje jis visą laiką ra­
-    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
-    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
-    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
-    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
-    manymai, ir daugelis jiems
-    J o g a ila  atsisako
-    nuoširdžiai
-    pritarė,
-    tačiau
-    kur kas lengviau juos pa-
-    416
-
-    ## Puslapis 415
-
-    siūlyti, nei įgyvendinti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-184478
 ## Citatos
 
 - id: c-36795
@@ -321,7 +278,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172105
+    - t-003
+
 - id: c-36796
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -341,7 +299,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172104
+    - t-004
+
 - id: c-36797
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -360,7 +319,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172100
+    - t-005
+
 - id: c-156521
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -382,7 +342,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172097
+    - t-010
+
 - id: c-156523
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -400,7 +361,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172096
+    - t-002
+
 - id: c-156524
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -416,7 +378,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172102
+    - t-001
+
 - id: c-156525
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -438,7 +401,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172103
+    - t-012
+
 - id: c-156526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -459,7 +423,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172106
+    - t-008
+
 - id: c-156527
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -480,29 +445,13 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172101
+    - t-011
+
 - id: c-167839
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
-    Be Lenkijos ka­
-    raliaus, Mazovijos kunigaikščių, Lietuvos bei Rusios
-    valdovų, karalystės senatorių ir kitų abiejų tautų di­
-    dikų, atkeliavo imperatorius Zigmantas su žmona bei
-    daugybė imperijos kunigaikščių, Erikas, Danijos bei
-    Švedijos karalius, Jono Paleólogo, Rytų imperatoriaus,
-    pasiuntiniai, Maskvos didysis kunigaikštis Vasilijus,
-    Tverės — Borisas, Riazanės — Olegas, Krymo bei Už­
-    valgio skitų chanai, teutonų ordinų magistrai Rusdor-
-    fas iš Prūsijos ir Zigfridas iš Livonijos. Visus išlaikė
-    Vytautas, gausiai viskuo aprūpindamas. Neminint kitų
-    gėrybių, kurias kuo stropiausiai surašė to meto istorikai,
-    kas dieną buvo pjaunama po septynis šimtus jaučių, po
-    tūkstantį keturis šimtus avinų, po šimtą stumbrų, brie­
-    džių ir kitokių žvėrių, o išgeriama po septynis šimtus
-    statinių midaus, neskaitant kitų gėrimų.
-  citata_rodoma: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip
     1429 m eta i
@@ -523,10 +472,11 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     ## Puslapis 415
 
     siūlyti, nei įgyvendinti.
+  citata_rodoma: "Štai todėl vienaip kalbėjo im­\nperatorius su Jogaila, kitaip\n1429 m eta i\nakis į akį su Vytautu. Valdo­\nvų posėdyje jis visą laiką ra­\ngino sudaryti santarvę, sutelktomis jėgomis numalšinti\nhusitus, pirmiausia, žinoma, Čekijoje, o vėliau visą\nkariuomenę nukreipti prieš turkus ir saracėnus, kerši­\njant už Rytų imperijos griovimą. Iš tiesų didingi su­\nmanymai, ir daugelis jiems\nJ o g a ila  atsisako\nnuoširdžiai\npritarė,\ntačiau\nkur kas lengviau juos pa-\n416\n\n## Puslapis 415\n\nsiūlyti, nei įgyvendinti."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-184478
+    - t-013

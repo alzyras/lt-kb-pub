@@ -40,7 +40,6 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 
 <a id="claim-t-35251"></a>
 - t-001
-  global_id: t-35251
   teiginys: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -75,18 +74,14 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
     Žvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po
     Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
     energija buvo sunaudojama įsigalėjimui Rytuose.
-  citata_rodoma: |
-    Turkų sultonas Muradas II
-    siuntė Vytautui į Smolenską dovanų.
-    Žvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po
-    Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
-    energija buvo sunaudojama įsigalėjimui Rytuose.
+  citata_rodoma: "Turkų sultonas Muradas II\nsiuntė Vytautui į Smolenską dovanų.\nŽvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po\nMelno taikos, matome, kad šituo laiku (1422—1428) veik visa jo\nenergija buvo sunaudojama įsigalėjimui Rytuose."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35251
+    - t-001
+
 ## Ryšiai
 - Muradas II siuntė į [[objektai/vietos/Smolenskas]]

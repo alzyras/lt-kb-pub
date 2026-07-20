@@ -31,7 +31,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 
 <a id="claim-t-58640"></a>
 - t-001
-  global_id: t-58640
   teiginys: "Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -49,7 +48,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 
 <a id="claim-t-58641"></a>
 - t-002
-  global_id: t-58641
   teiginys: "Skrando kalnas vėliau sietas su Srangenbergo piliakalniu į pietvakarius nuo Parteinių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -72,29 +70,24 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58641
+    - t-002
+
 - id: c-59273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie Partigalos pilies ir Skrando kuoro pastatymą
+    23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 
       Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
     jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
     [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
     puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
-  citata_rodoma: |
-    Apie Partigalos pilies ir Skrando kuoro pastatymą
-
-      Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
-    jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
-    [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
-    puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
+  citata_rodoma: "Apie Partigalos pilies ir Skrando kuoro pastatymą\n\n  Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;\njie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą\n[propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip\npuldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58640
+    - t-001

@@ -40,7 +40,6 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 
 <a id="claim-t-79156"></a>
 - t-001
-  global_id: t-79156
   teiginys: "Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -61,7 +60,6 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 
 <a id="claim-t-79157"></a>
 - t-002
-  global_id: t-79157
   teiginys: "Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -78,7 +76,6 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 
 <a id="claim-t-79158"></a>
 - t-003
-  global_id: t-79158
   teiginys: "Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,7 +111,8 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79157
+    - t-002
+
 - id: c-76235
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -133,29 +131,16 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
     Lenkiją.
 
     Tuo metu dar vyko Didysis
-    prūsų sukilimas (1260-1274 m.
-  citata_rodoma: |
-    Senovės lietuvių tradicijų
-    besilaikantis Traidenis didžiau-
-    sias pastangas sutelkė gynybai
-    nuo kryžiuočių, o savo broliams,
-    priėmusiems graikų stačiatikių ti-
-    kėjimą, buvo pavedes pietrytinių
-    valdų ribų apsaugą. Rytų krikščio-
-    nybę taip pat perėmęs ketvirtasis
-    Traidenio brolis Sirputis Lietuvos
-    valdovo pavedimu veikė prieš
-    Lenkiją.
-
-    Tuo metu dar vyko Didysis
-    prūsų sukilimas (1260-1274 m.
+    prūsų sukilimas (1260-1274 m.)
+  citata_rodoma: "Senovės lietuvių tradicijų\nbesilaikantis Traidenis didžiau-\nsias pastangas sutelkė gynybai\nnuo kryžiuočių, o savo broliams,\npriėmusiems graikų stačiatikių ti-\nkėjimą, buvo pavedes pietrytinių\nvaldų ribų apsaugą. Rytų krikščio-\nnybę taip pat perėmęs ketvirtasis\nTraidenio brolis Sirputis Lietuvos\nvaldovo pavedimu veikė prieš\nLenkiją.\n\nTuo metu dar vyko Didysis\nprūsų sukilimas (1260-1274 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79156
-    - t-79158
+    - t-001
+    - t-003
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

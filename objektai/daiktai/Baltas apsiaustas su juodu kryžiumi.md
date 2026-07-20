@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-59679"></a>
 - t-001
-  global_id: t-59679
   teiginys: "Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -108,4 +107,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59679
+    - t-001

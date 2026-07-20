@@ -31,7 +31,6 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
 
 <a id="claim-t-189530"></a>
 - t-001
-  global_id: t-189530
   teiginys: "Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -64,4 +63,4 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189530
+    - t-001

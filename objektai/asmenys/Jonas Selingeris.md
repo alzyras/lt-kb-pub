@@ -28,7 +28,6 @@ Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius:
 
 <a id="claim-t-201419"></a>
 - t-001
-  global_id: t-201419
   teiginys: "Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius: Joną Selingerį, marčelgą zokano, Raimundą, kamendotą Kesės, ir Joną v."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius:
 ## Citatos
 
 - id: c-184769
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Dorfą, kamendotą Nagelštadto, į
     Padaugavį, kuriuodu, atėjusiu vasarai bengiantis,
@@ -59,4 +59,4 @@ Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201419
+    - t-001

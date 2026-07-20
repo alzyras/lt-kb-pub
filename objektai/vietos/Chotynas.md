@@ -40,8 +40,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 ## Teiginiai
 
 <a id="claim-t-170310"></a>
-- t-001
-  global_id: t-170310
+- t-002
   teiginys: "LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     - c-154980
 
 <a id="claim-t-170311"></a>
-- t-002
-  global_id: t-170311
+- t-001
   teiginys: "1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -92,17 +90,15 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
-  citata_rodoma: |
-    LDK politinės tautos prielaidas kūrė LDK karinės
-    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
-    kuriose lietuviai kovojo petys į petį su rusėnais.
+  citata_rodoma: "LDK politinės tautos prielaidas kūrė LDK karinės \npergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne, \nkuriose lietuviai kovojo petys į petį su rusėnais."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170310
+    - t-002
+
 - id: c-154982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -117,14 +113,11 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
     sumuša turkus 1673 m. (Iš Vilniuje spausdinto
     J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
-  citata_rodoma: |
-    Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
-    sumuša turkus 1673 m. (Iš Vilniuje spausdinto
-    J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
+  citata_rodoma: "Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė  \nsumuša turkus 1673 m. (Iš Vilniuje spausdinto \nJ. Benneto veikalo „Viešpaties dešinės galybė“, 1674)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170311
+    - t-001

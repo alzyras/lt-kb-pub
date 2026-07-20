@@ -59,8 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45361"></a>
-- t-001
-  global_id: t-45361
+- t-008
   teiginys: "1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +79,7 @@ Nenurodyta
     - c-48211
 
 <a id="claim-t-45363"></a>
-- t-002
-  global_id: t-45363
+- t-007
   teiginys: "1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -113,18 +111,15 @@ Nenurodyta
     dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
-  citata_rodoma: |
-    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
-    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
+  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių\ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,\nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų\nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45363
+    - t-007
+
 - id: c-48211
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,17 +133,11 @@ Nenurodyta
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
     lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
     pusėje.
-  citata_rodoma: |
-    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
-    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
-    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
-    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
-    pusėje.
+  citata_rodoma: "Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių \ndėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, \nsvarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų \nir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-\nlys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos \npusėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45361
+    - t-008

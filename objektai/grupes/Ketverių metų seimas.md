@@ -39,8 +39,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Teiginiai
 
 <a id="claim-t-74186"></a>
-- t-001
-  global_id: t-74186
+- t-004
   teiginys: "Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,8 +58,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - c-72232
 
 <a id="claim-t-74187"></a>
-- t-002
-  global_id: t-74187
+- t-005
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 
 <a id="claim-t-182896"></a>
 - t-003
-  global_id: t-182896
   teiginys: "Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -99,8 +96,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     - c-166300
 
 <a id="claim-t-182897"></a>
-- t-004
-  global_id: t-182897
+- t-001
   teiginys: "Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -138,18 +134,15 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
-  citata_rodoma: |
-    Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m.
-    patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam
-    „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
-    ną.
+  citata_rodoma: "Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m. \npatvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam \n„eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-\nną."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74186
+    - t-004
+
 - id: c-72233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -164,22 +157,15 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
     suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija.
-  citata_rodoma: |
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    91
-    Gegužės trečiosios konstitucija ir
-    Abiejų Tautų tarpusavio įžadas
-    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
-    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
-    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
-    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.
+  citata_rodoma: "2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S\n91\nGegužės trečiosios konstitucija ir \nAbiejų Tautų tarpusavio įžadas\nNuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų \nseimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-\nbai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui \nsuteikti beveik lygias teises su bajorais ar bent pradėti šį procesą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74187
+    - t-005
+
 - id: c-166300
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -205,7 +191,8 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182896
+    - t-003
+
 - id: c-166301
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -224,4 +211,4 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182897
+    - t-001

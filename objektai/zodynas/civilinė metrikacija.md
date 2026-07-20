@@ -37,7 +37,6 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
 
 <a id="claim-t-77790"></a>
 - t-001
-  global_id: t-77790
   teiginys: "III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,4 +70,4 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77790
+    - t-001

@@ -40,7 +40,6 @@ media_all_json: |-
 
 <a id="claim-t-41522"></a>
 - t-001
-  global_id: t-41522
   teiginys: "1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,23 +76,11 @@ media_all_json: |-
     pavaizduoti Lietuvos kariuomenės raiteliai
 
     1564 m. sausio 23 d. ULOS (ČAŠNIKŲ) MŪŠIS 87
-  citata_rodoma: |
-    ) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-
-    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
-    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
-    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
-
-    Gardino vaizdas. 1568 m. Mathias Ziindt (fragmentas). Šioje graviūroje
-    vaizduojamas Gardinas 1567 m. čia vykusio seimo metu. Pirmame plane
-    pavaizduoti Lietuvos kariuomenės raiteliai
-
-    1564 m.
+  citata_rodoma: ") aprašymo apie Lenkijos ir\nLietuvos kariuomenių struktūrą:\n\n„Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-\ntui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai\nvadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;\n\nGardino vaizdas. 1568 m. Mathias Ziindt (fragmentas). Šioje graviūroje\nvaizduojamas Gardinas 1567 m. čia vykusio seimo metu. Pirmame plane\npavaizduoti Lietuvos kariuomenės raiteliai\n\n1564 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41522
+    - t-001

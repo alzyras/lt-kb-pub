@@ -37,7 +37,6 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 
 <a id="claim-t-86572"></a>
 - t-001
-  global_id: t-86572
   teiginys: "Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -55,7 +54,6 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 
 <a id="claim-t-194217"></a>
 - t-002
-  global_id: t-194217
   teiginys: "Algirdas, didžiulių pagoniškų kraštų valdo vas, negalėjo naikinti vyravusios re ligijos, tautos religijos, šventovės, juk nebuvo užsimojęs vykdyti vi suotinės reformos, ko vėliau ėmėsi Jogaila, ir tai tik dėl to, kad paten kintų vieno iš savo vasalų norą."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -99,7 +97,8 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86572
+    - t-001
+
 - id: c-176819
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -126,4 +125,4 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194217
+    - t-002

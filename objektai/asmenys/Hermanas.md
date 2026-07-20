@@ -31,7 +31,6 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 <a id="claim-t-40139"></a>
 - t-001
-  global_id: t-40139
   teiginys: "Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -48,7 +47,6 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 <a id="claim-t-183740"></a>
 - t-002
-  global_id: t-183740
   teiginys: "Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -126,22 +124,15 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     sužeistų, netinkamų gynybai , tačiau juos
     keitė sveikieji. Mūšio įkarštyje komtūrui
     iš mašinos paleistas akmuo nunešė galvą.
-  citata_rodoma: |
-    Po keturių savaičių apgulties, po dauge-
-    lio susidūrimų meistras Hermanas vienoje
-    pilies angoje pastatė bombardą prieš lie-
-    tuvius, tačiau lietuviai, priešpriešiais įtaisę
-    tokį pat pabūklą, užmušė minėtą meistrą.
-    Po sunkių kovų buvo „pilyje daug brolių
-    sužeistų, netinkamų gynybai , tačiau juos
-    keitė sveikieji.
+  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40139
+    - t-001
+
 - id: c-167128
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,4 +157,4 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183740
+    - t-002

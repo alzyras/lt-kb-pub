@@ -31,7 +31,6 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
 
 <a id="claim-t-186312"></a>
 - t-001
-  global_id: t-186312
   teiginys: "Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-186312
+    - t-001

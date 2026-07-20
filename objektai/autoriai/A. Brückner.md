@@ -7,6 +7,10 @@ datos:
   - '1931 m.'
 date_start: '1931'
 date_end: ''
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,10 +18,6 @@ tags:
   - istorikas
   - karalius
   - karys
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -44,8 +44,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 ## Teiginiai
 
 <a id="claim-t-64507"></a>
-- t-001
-  global_id: t-64507
+- t-003
   teiginys: "A. Brückner parašė Dzieje kultury polskiej pirmą tomą."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -62,24 +61,15 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 
 <a id="claim-t-64508"></a>
 - t-002
-  global_id: t-64508
   teiginys: "Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Brückner: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Brückner\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-03959
+    - c-03961
 
 <a id="claim-t-64509"></a>
-- t-003
-  global_id: t-64509
+- t-004
   teiginys: "Al. Brückner pagonių lietuvių kultūrą laikė gana žema."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -94,6 +84,21 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   pagrindžia:
     - c-03961
 
+## Reikšmingi paminėjimai
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
+    nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka­
+    rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
+    laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
+    gana neturtinga^3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
+
 ## Citatos
 
 - id: c-03959
@@ -104,15 +109,13 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
     istorikų kartos (Al. Brückner, Fr. Papée).
-  citata_rodoma: |
-    istorikų kartos (Al. Brückner, Fr. Papée).
+  citata_rodoma: "istorikų kartos (Al. Brückner, Fr. Papée)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-64508
 - id: c-03960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -126,35 +129,31 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     Karys, 1971, 193-197, 227-230, 263-265, 306-311 p. — Daukantas, S.:
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
-  citata_rodoma: |
-    Brückner, A. : _Dzieje kultury polskiej_ , I, Kraków 1931.
+  citata_rodoma: "Brückner, A. : _Dzieje kultury polskiej_ , I, Kraków 1931."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64507
+    - t-003
+
 - id: c-03961
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
-    nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka­
-    rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
-    laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
-    gana neturtinga^3.
-  citata_rodoma: |
-    Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
         nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka-
         rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie
         laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
         gana neturtinga^3.
+  citata_rodoma: "Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)\n    nuėjo į kitą kraštutinumą. Nerasdami pas pagonis lietuvius vaka-\n    rietiško blizgesio ir pasigaudami atsitiktinių šaltinių nuotrupų, jie\n    laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi\n    gana neturtinga^3."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64509
+    - t-002
+    - t-004

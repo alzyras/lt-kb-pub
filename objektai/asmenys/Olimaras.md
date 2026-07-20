@@ -31,7 +31,6 @@ Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyv
 
 <a id="claim-t-191301"></a>
 - t-001
-  global_id: t-191301
   teiginys: "Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyvų po kautynių, kuriose žuvo kiti rusų vadai."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191301
+    - t-001

@@ -53,7 +53,6 @@ Nenurodyta
 
 <a id="claim-t-35919"></a>
 - t-001
-  global_id: t-35919
   teiginys: "Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -71,7 +70,6 @@ Nenurodyta
 
 <a id="claim-t-35920"></a>
 - t-002
-  global_id: t-35920
   teiginys: "Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +107,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35919
+    - t-001
+
 - id: c-38332
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,21 +128,11 @@ Nenurodyta
     lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
     nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
     Pronsko (visai netoli dabartinės Penzos).
-  citata_rodoma: |
-    Šis daly­
-    kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­
-    būtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo
-    duktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­
-    rium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar
-    labiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­
-    sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­
-    lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­
-    nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
-    Pronsko (visai netoli dabartinės Penzos).
+  citata_rodoma: "Šis daly­\nkas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­\nbūtų aplenkęs, tačiau, iš kitos pusės Vytautas, tapdamas savo\nduktėno globėju, tuo pačiu ir Maskvos kunigaikštijos protekto­\nrium, iškilo aukščiau kitų rusų kunigaikščių, kas vertė juos dar\nlabiau lenktis Vytauto galybei. Savo laiške jis rašo, kad su vi­\nsa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­\nlensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­\nnų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už\nPronsko (visai netoli dabartinės Penzos)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-35920
+    - t-002

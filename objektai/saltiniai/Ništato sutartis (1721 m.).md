@@ -47,8 +47,7 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 ## Teiginiai
 
 <a id="claim-t-41571"></a>
-- t-001
-  global_id: t-41571
+- t-002
   teiginys: "1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -67,8 +66,7 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
     - c-45010
 
 <a id="claim-t-41572"></a>
-- t-002
-  global_id: t-41572
+- t-003
   teiginys: "Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
@@ -107,20 +105,12 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
     ir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo
     valstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija
     ir ATR ėmė silpti.
-  citata_rodoma: |
-    Daugiausiai laimėjo
-    viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasi-
-    rašius Šiaurės karą užbaigusią Ništato sutartį, ji buvo iškilmingai
-    paskelbta imperija) ir kovos veiksmuose nedalyvavusi Prūsijos
-
-    ir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo
-    valstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija
-    ir ATR ėmė silpti.
+  citata_rodoma: "Daugiausiai laimėjo\nviena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasi-\nrašius Šiaurės karą užbaigusią Ništato sutartį, ji buvo iškilmingai\npaskelbta imperija) ir kovos veiksmuose nedalyvavusi Prūsijos\n\nir Brandenburgo unija, kuri mainais į neutralumą pakėlė savo\nvalstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija\nir ATR ėmė silpti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41571
-    - t-41572
+    - t-002
+    - t-003

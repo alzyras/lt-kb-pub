@@ -39,7 +39,6 @@ media_all_json: |-
 
 <a id="claim-t-87545"></a>
 - t-001
-  global_id: t-87545
   teiginys: "Marija buvo Tverės kunigaikštytė ir Algirdo žmona."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,7 +56,6 @@ media_all_json: |-
 
 <a id="claim-t-87546"></a>
 - t-002
-  global_id: t-87546
   teiginys: "Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,7 +78,7 @@ media_all_json: |-
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
   indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
-    V\lre- tis buvęs Kęstudo karių suduptas.
+    Žr. V\lre- tis buvęs Kęstudo karių suduptas.
     26
 
     ## Puslapis 43
@@ -92,26 +90,15 @@ media_all_json: |-
     Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
-  citata_rodoma: |
-    V\lre- tis buvęs Kęstudo karių suduptas.
-    26
-
-    ## Puslapis 43
-
-    I  KNYGA
-    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
-    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
-    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
-    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
-    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
-    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87545
+    - t-001
+
 - id: c-83525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,6 +150,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87546
+    - t-002
+
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

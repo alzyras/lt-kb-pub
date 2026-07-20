@@ -38,8 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69891"></a>
-- t-001
-  global_id: t-69891
+- t-004
   teiginys: "1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -58,8 +57,7 @@ media_all_json: |-
     - c-44088
 
 <a id="claim-t-69893"></a>
-- t-002
-  global_id: t-69893
+- t-003
   teiginys: "1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -78,8 +76,7 @@ media_all_json: |-
     - c-44087
 
 <a id="claim-t-193788"></a>
-- t-003
-  global_id: t-193788
+- t-005
   teiginys: "Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -115,7 +112,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193788
+    - t-005
+
 - id: c-44087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -133,20 +131,15 @@ media_all_json: |-
     buvo pranešta, jog Krašto direkto-
     rija yra nušalinama, valdžią į savo
     rankas perima Valstybės taryba.
-  citata_rodoma: |
-    1923 m. sausio 9 d. Vyriausiasis
-    Mažosios Lietuvos gelbėjimo komite-
-    tas Šilutėje paskelbė manifestą, kuriuo
-    buvo pranešta, jog Krašto direkto-
-    rija yra nušalinama, valdžią į savo
-    rankas perima Valstybės taryba.
+  citata_rodoma: "1923 m. sausio 9 d. Vyriausiasis\nMažosios Lietuvos gelbėjimo komite-\ntas Šilutėje paskelbė manifestą, kuriuo\nbuvo pranešta, jog Krašto direkto-\nrija yra nušalinama, valdžią į savo\nrankas perima Valstybės taryba."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69893
+    - t-003
+
 - id: c-44088
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,4 +163,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-69891
+    - t-004

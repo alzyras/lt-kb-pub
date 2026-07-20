@@ -30,8 +30,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 ## Teiginiai
 
 <a id="claim-t-74744"></a>
-- t-001
-  global_id: t-74744
+- t-002
   teiginys: "Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -48,8 +47,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - c-22618
 
 <a id="claim-t-74745"></a>
-- t-002
-  global_id: t-74745
+- t-003
   teiginys: "Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -66,8 +64,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - c-22619
 
 <a id="claim-t-74746"></a>
-- t-003
-  global_id: t-74746
+- t-001
   teiginys: "Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "auto"
@@ -84,7 +81,6 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 
 <a id="claim-t-74747"></a>
 - t-004
-  global_id: t-74747
   teiginys: "Po Lenkijos ultimatumo priėmimo prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -114,20 +110,16 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
-  citata_rodoma: |
-    Besąlyginis ulti-
-    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
-    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
-    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
-    ultraradikalieji voldemarininkai.
+  citata_rodoma: "Besąlyginis ulti-\nmatumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines\njėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“\nlyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir\nultraradikalieji voldemarininkai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74746
-    - t-74747
+    - t-001
+    - t-004
+
 - id: c-22618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,18 +132,15 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: |
-    Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-
-    ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
-    Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
-    tijos gavo po dvi ministrų vietas.
+  citata_rodoma: "Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąly-\nginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono\nČerniaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-\ntijos gavo po dvi ministrų vietas."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74744
+    - t-002
+
 - id: c-22619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -164,14 +153,11 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
     krikščionims demokratams gen. S. Raštikį.
-  citata_rodoma: |
-    Krikščionys demokratai ir liaudininkai, prieš tai su-
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-    krikščionims demokratams gen. S. Raštikį.
+  citata_rodoma: "Krikščionys demokratai ir liaudininkai, prieš tai su-\nsitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą\nkrikščionims demokratams gen. S. Raštikį."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74745
+    - t-003

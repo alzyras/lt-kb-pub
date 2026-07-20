@@ -52,7 +52,6 @@ Nenurodyta
 
 <a id="claim-t-87082"></a>
 - t-001
-  global_id: t-87082
   teiginys: "Anglų lankininkų narsa ir sumanumas mūšiuose prisidėjo prie didelių Lietuvos smūgių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -99,4 +98,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87082
+    - t-001

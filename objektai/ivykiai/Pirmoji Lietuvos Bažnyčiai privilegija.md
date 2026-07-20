@@ -49,7 +49,6 @@ Nenurodyta
 
 <a id="claim-t-01772"></a>
 - t-001
-  global_id: t-01772
   teiginys: "Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,16 +89,11 @@ Nenurodyta
     vilegija, t. y. raštas, arba
     įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
     ses (1387 m.).
-  citata_rodoma: |
-    Taip pat buvo duota pir-
-    moji Lietuvos Bažnyčiai pri-
-    vilegija, t. y. raštas, arba
-    įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
-    ses (1387 m.).
+  citata_rodoma: "Taip pat buvo duota pir-\nmoji Lietuvos Bažnyčiai pri-\nvilegija, t. y. raštas, arba\nįstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-\nses (1387 m.)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-01772
+    - t-001

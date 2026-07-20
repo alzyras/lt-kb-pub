@@ -37,7 +37,6 @@ media_all_json: |-
 
 <a id="claim-t-24528"></a>
 - t-001
-  global_id: t-24528
   teiginys: "1990 m. rinkimų kampanijoje savarankiška LKP paskelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -72,19 +71,11 @@ media_all_json: |-
     va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
     nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
     būdu, o savarankiška LKP šiam planui nesipriešino.
-  citata_rodoma: |
-    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
-    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
-    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
-    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
-    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
-    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
-    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
-    būdu, o savarankiška LKP šiam planui nesipriešino.
+  citata_rodoma: "1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą \nkampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-\ndis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos \nLietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-\nliarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-\nva be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų \nnebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu \nbūdu, o savarankiška LKP šiam planui nesipriešino."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-24528
+    - t-001

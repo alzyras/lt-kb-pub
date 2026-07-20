@@ -37,7 +37,6 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 
 <a id="claim-t-42237"></a>
 - t-001
-  global_id: t-42237
   teiginys: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -96,23 +95,14 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     kumentus, pasiėmę rotatorių,
     rašomąją mašinėlę išsiruošė į
     žygį.
-  citata_rodoma: |
-    iš Kęstučio apy-
-    gardos atvyko Prisikėlimo apygardos
-    vadas Petras Bartkus-Žadgaila. Užpelkių
-    miške buvo numatytas Prisikėlimo apy-
-    gardos štabo posėdis, susitikimas su vie-
-    tos kovotojais. Po poros dienų partizanai
-    Vytautas Šniuolis-Svajūnas, Žadgaila,
-    Bronius Liesis-Naktis, Laurynas
-    Mingilas-Džiugas ir Viktoras
-    Šniuolis-Vitvytis rugpjūčio 12 d.
+  citata_rodoma: "iš Kęstučio apy-\ngardos atvyko Prisikėlimo apygardos\nvadas Petras Bartkus-Žadgaila. Užpelkių\nmiške buvo numatytas Prisikėlimo apy-\ngardos štabo posėdis, susitikimas su vie-\ntos kovotojais. Po poros dienų partizanai\nVytautas Šniuolis-Svajūnas, Žadgaila,\nBronius Liesis-Naktis, Laurynas\nMingilas-Džiugas ir Viktoras\nŠniuolis-Vitvytis rugpjūčio 12 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-42237
+    - t-001
+
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

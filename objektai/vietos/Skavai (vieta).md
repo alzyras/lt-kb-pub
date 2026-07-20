@@ -13,11 +13,11 @@ datos:
   - '1569 m.'
 date_start: '1463'
 date_end: '1569'
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,7 +41,6 @@ media_all_json: |-
 
 <a id="claim-t-201700"></a>
 - t-001
-  global_id: t-201700
   teiginys: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -54,7 +53,6 @@ media_all_json: |-
 
 <a id="claim-t-201701"></a>
 - t-002
-  global_id: t-201701
   teiginys: "Jos buvo Skavuose, netoli Šv."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -86,7 +84,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201700
+    - t-001
 
 - id: c-185048
   autorius: "Zigmantas Kiaupa"
@@ -101,4 +99,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201701
+    - t-002

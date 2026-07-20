@@ -21,31 +21,12 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
+
 # Mlynivas
 
 ## Santrauka
 
 tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (Mlynivas),.
-
-## Teiginiai
-
-<a id="claim-t-21628"></a>
-- t-001
-  global_id: t-21628
-  teiginys: "Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Chodkevičiai: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mlynivas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Chodkevičiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Voluinėje valdas įgiję Chodkevičiai turėjo Mlynivą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Mlynivas priklausė Chodkevičiai (0.83)"
-  pagrindžia:
-    - c-24308
 
 ## Citatos
 
@@ -63,12 +44,9 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
     kos“ kilmės kunigaikščiai Ostrogiškiai.
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
-  citata_rodoma: |
-    tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+  citata_rodoma: "tą patį darė čia valdas įgiję didikai Radvilos (Olyka)"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-21628

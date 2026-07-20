@@ -37,7 +37,6 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
 
 <a id="claim-t-80657"></a>
 - t-001
-  global_id: t-80657
   teiginys: "1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -86,6 +85,7 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80657
+    - t-001
+
 ## Ryšiai
 - Panevėžio batalionas puolė [[objektai/grupes/Bermontininkai]]

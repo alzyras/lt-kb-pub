@@ -31,7 +31,6 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 
 <a id="claim-t-87806"></a>
 - t-001
-  global_id: t-87806
   teiginys: "Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -66,4 +65,4 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-87806
+    - t-001

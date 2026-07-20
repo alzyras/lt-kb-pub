@@ -31,7 +31,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 
 <a id="claim-t-193811"></a>
 - t-001
-  global_id: t-193811
   teiginys: "Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -59,4 +58,4 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193811
+    - t-001

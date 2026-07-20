@@ -42,24 +42,11 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-194819"></a>
-- t-001
-  global_id: t-194819
-  teiginys: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-177215
-
-## Citatos
-
-- id: c-177215
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+- c-001
+  santrauka: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     114
 
@@ -75,10 +62,8 @@ Nenurodyta
     nasi Praurme; griežta jų pareiga yra saugoti, kad toji ugnis ne­
     užgestų. Tos mergelės, kol gyvos, privalo laikytis skaistybės; ją
     praradusias šalies įstatymai baudžia žiauria mirtimi“.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:32"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-194819
+  statusas: verified

@@ -56,8 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78668"></a>
-- t-001
-  global_id: t-78668
+- t-003
   teiginys: "Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-75882
 
 <a id="claim-t-78669"></a>
-- t-002
-  global_id: t-78669
+- t-001
   teiginys: "Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -95,8 +93,7 @@ Nenurodyta
     - c-75882
 
 <a id="claim-t-78670"></a>
-- t-003
-  global_id: t-78670
+- t-002
   teiginys: "Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -113,7 +110,6 @@ Nenurodyta
 
 <a id="claim-t-78671"></a>
 - t-004
-  global_id: t-78671
   teiginys: "Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -148,24 +144,16 @@ Nenurodyta
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
     jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
     uniformų, reikalingos ekipuotės.
-  citata_rodoma: |
-    1919 m. Jesu P k
-    vertė trauktis Kolupių kaime, prie vieškelio
-    iš Kėdainių į Šėtą, buvusią Panevėžio būrio
-
-    LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS
-
-    Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
-    jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo
-    uniformų, reikalingos ekipuotės.
+  citata_rodoma: "1919 m. Jesu P k\nvertė trauktis Kolupių kaime, prie vieškelio\niš Kėdainių į Šėtą, buvusią Panevėžio būrio\n\nLIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS\n\nBesikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-\njėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo\nuniformų, reikalingos ekipuotės."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78668
-    - t-78669
+    - t-003
+    - t-001
+
 - id: c-75883
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -186,23 +174,15 @@ Nenurodyta
     abipus vieškelio Kėdainiai-Šėta, efektyvia
     šautuvų ugnimi įstengė sustabdyti priešo
     puolimą.
-  citata_rodoma: |
-    Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
-    kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
-    vas ir geltonas lankelis ant kepurės.
-
-    Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
-    Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
-    šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)
-
-    Kėdainių gynyba Karininkai J.
+  citata_rodoma: "Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į\nkariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-\nvas ir geltonas lankelis ant kepurės.\n\nLietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo\nLietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su\nšūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“)\n\nKėdainių gynyba Karininkai J."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78671
+    - t-004
+
 - id: c-75885
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -227,4 +207,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78670
+    - t-002

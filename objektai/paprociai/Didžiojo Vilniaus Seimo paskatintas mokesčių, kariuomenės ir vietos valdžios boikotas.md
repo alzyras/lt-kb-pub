@@ -56,7 +56,6 @@ Nenurodyta
 
 <a id="claim-t-54228"></a>
 - t-001
-  global_id: t-54228
   teiginys: "Didžiojo Vilniaus Seimo rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -73,7 +72,6 @@ Nenurodyta
 
 <a id="claim-t-54229"></a>
 - t-002
-  global_id: t-54229
   teiginys: "Rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą."
   atnaujinta: "2026-05-23 15:44"
   sprendimo_priezastis: "auto"
@@ -90,7 +88,6 @@ Nenurodyta
 
 <a id="claim-t-183308"></a>
 - t-003
-  global_id: t-183308
   teiginys: "Didžiojo Vilniaus Seimo rezoliucijų raginimai paskatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -126,23 +123,16 @@ Nenurodyta
     Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
     kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
     kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
-  citata_rodoma: |
-    Joje reikalauta
-    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
-    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
-    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
-    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
+  citata_rodoma: "Joje reikalauta \nsuteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-\nkamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta \nkaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-\nsią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta. \nKitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į \nkariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos \nkaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54228
-    - t-54229
+    - t-001
+    - t-002
+
 - id: c-166698
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,4 +150,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-183308
+    - t-003

@@ -31,7 +31,6 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
 
 <a id="claim-t-96050"></a>
 - t-001
-  global_id: t-96050
   teiginys: "E. Mnišek trijų dalių kūrinį „Raupsuotoji“ į lietuvių kalbą vertė P. Jurgelevičius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,4 +62,4 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96050
+    - t-001

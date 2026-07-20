@@ -40,8 +40,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 ## Teiginiai
 
 <a id="claim-t-70167"></a>
-- t-001
-  global_id: t-70167
+- t-005
   teiginys: "Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -57,8 +56,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     - c-37913
 
 <a id="claim-t-70168"></a>
-- t-002
-  global_id: t-70168
+- t-004
   teiginys: "Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį."
   atnaujinta: "2026-05-31 10:29"
   sprendimo_priezastis: "auto"
@@ -74,8 +72,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     - c-14691
 
 <a id="claim-t-193146"></a>
-- t-003
-  global_id: t-193146
+- t-006
   teiginys: "XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -178,18 +175,15 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
-  citata_rodoma: |
-    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
-    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
-    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
-    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+  citata_rodoma: "Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­\ndamas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­\nmuno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­\nsis Marienburgas pasidarė Vytauto giminių bei šalininkų centras."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70168
+    - t-004
+
 - id: c-37913
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -208,7 +202,8 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-70167
+    - t-005
+
 - id: c-175900
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -224,4 +219,4 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193146
+    - t-006

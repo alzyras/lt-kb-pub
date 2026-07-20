@@ -47,7 +47,6 @@ Nenurodyta
 
 <a id="claim-t-189878"></a>
 - t-001
-  global_id: t-189878
   teiginys: "Narbutas vertina pagoniškas vaišes kaip religinių apeigų dalį, kuri esą padėdavo palaikyti liaudies padorumą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -81,4 +80,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189878
+    - t-001

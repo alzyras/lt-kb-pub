@@ -41,9 +41,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 
 ## Teiginiai
 
-<a id="claim-t-71506"></a>
-- t-001
-  global_id: t-71506
+<a id="claim-t-71504"></a>
+- t-003
   teiginys: "Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -59,11 +58,11 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai atitinka citatos informaciją."
   pagrindžia:
-    - c-03973
     - c-30456
+    - c-03973
+
 <a id="claim-t-71507"></a>
 - t-002
-  global_id: t-71507
   teiginys: "Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "auto"
@@ -94,16 +93,15 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
     Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
     Kunigaikštystės istoriją iki 1569 metų^32.
-  citata_rodoma: |
-    Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
-    Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
-    Kunigaikštystės istoriją iki 1569 metų^32.
+  citata_rodoma: "Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas\nLudvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos\nKunigaikštystės istoriją iki 1569 metų^32."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-30456
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -120,5 +118,5 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71506
-    - t-71507
+    - t-003
+    - t-002

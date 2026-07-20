@@ -31,9 +31,8 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
 
 <a id="claim-t-191437"></a>
 - t-001
-  global_id: t-191437
   teiginys: "Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo skitų-keltų palikuonys."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,38 +48,7 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174319
-    - c-001
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192395|Gotai]]: Narbutas, remdamasis Lakarizu, gotus, gotonus ir gotinus kildina iš skitų-keltų palikuonių.
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo skitų-keltų palikuonys.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    84
-
-    ## Puslapis 82
-
-    zjš-
-    -)jė
-    VI skyrius
-    A P I E  G O T U S,
-    E S T U S
-    IR L Y V I U S
-    67
-    Gotų ištakos. Gotų gentys buvo skitų arba veikiau kel­
-    tų kilmės1 2. Lakariz neabejotinai įrodo, kad gotai, gotonai,
-    gotinai buvo skitų-keltų palikuonys. Savo įrodymus jis
-    grindžia tuo, kad Tacitas gotinus laiko galais, o gotų gi­
-    minės bruožai yra neabejotinai skitiški, be to, jie visuo­
-    met išsaugodavo įprastą senovės skitų valdžios formą,
-    t. y. turėjo karalių valdžią.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191437
 ## Citatos
 
 - id: c-174319
@@ -106,29 +74,11 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
     minės bruožai yra neabejotinai skitiški, be to, jie visuo­
     met išsaugodavo įprastą senovės skitų valdžios formą,
     t. y. turėjo karalių valdžią.
-  citata_rodoma: |
-    84
-
-    ## Puslapis 82
-
-    zjš-
-    -)jė
-    VI skyrius
-    A P I E  G O T U S,
-    E S T U S
-    IR L Y V I U S
-    67
-    Gotų ištakos. Gotų gentys buvo skitų arba veikiau kel­
-    tų kilmės1 2. Lakariz neabejotinai įrodo, kad gotai, gotonai,
-    gotinai buvo skitų-keltų palikuonys. Savo įrodymus jis
-    grindžia tuo, kad Tacitas gotinus laiko galais, o gotų gi­
-    minės bruožai yra neabejotinai skitiški, be to, jie visuo­
-    met išsaugodavo įprastą senovės skitų valdžios formą,
-    t. y. turėjo karalių valdžią.
+  citata_rodoma: "84\n\n## Puslapis 82\n\nzjš-\n-)jė\nVI skyrius\nA P I E  G O T U S,\nE S T U S\nIR L Y V I U S\n67\nGotų ištakos. Gotų gentys buvo skitų arba veikiau kel­\ntų kilmės1 2. Lakariz neabejotinai įrodo, kad gotai, gotonai,\ngotinai buvo skitų-keltų palikuonys. Savo įrodymus jis\ngrindžia tuo, kad Tacitas gotinus laiko galais, o gotų gi­\nminės bruožai yra neabejotinai skitiški, be to, jie visuo­\nmet išsaugodavo įprastą senovės skitų valdžios formą,\nt. y. turėjo karalių valdžią."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191437
+    - t-001

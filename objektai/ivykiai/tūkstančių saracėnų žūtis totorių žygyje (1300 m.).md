@@ -55,7 +55,6 @@ Nenurodyta
 
 <a id="claim-t-59475"></a>
 - t-001
-  global_id: t-59475
   teiginys: "1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -81,25 +80,18 @@ Nenurodyta
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Apie 200 tūkstančių saracėnų žūtį
+    87. Apie 200 tūkstančių saracėnų žūtį
 
       1300 viešpaties metais totoriai, leidęsi  į žygį iš savo sodybų, užpuolė saracėnus
     pirmiausia Kapadokijoje, po to Seleukijos, arba Antiochijos, žemėje, vėliau Didžiojoje
     bei Mažojoje Armėnijoje, o po to visoje žadėtoje žemėje, Damaske ir Gazoje ligi pat
     Egipto pasienių ir tuose visuose kraštuose nužudė daugiau nei 200 tūkstančių saracėnų
     (Ptol. pried. p. 1220).
-  citata_rodoma: |
-    Apie 200 tūkstančių saracėnų žūtį
-
-      1300 viešpaties metais totoriai, leidęsi  į žygį iš savo sodybų, užpuolė saracėnus
-    pirmiausia Kapadokijoje, po to Seleukijos, arba Antiochijos, žemėje, vėliau Didžiojoje
-    bei Mažojoje Armėnijoje, o po to visoje žadėtoje žemėje, Damaske ir Gazoje ligi pat
-    Egipto pasienių ir tuose visuose kraštuose nužudė daugiau nei 200 tūkstančių saracėnų
-    (Ptol. pried. p. 1220).
+  citata_rodoma: "Apie 200 tūkstančių saracėnų žūtį\n\n  1300 viešpaties metais totoriai, leidęsi  į žygį iš savo sodybų, užpuolė saracėnus\npirmiausia Kapadokijoje, po to Seleukijos, arba Antiochijos, žemėje, vėliau Didžiojoje\nbei Mažojoje Armėnijoje, o po to visoje žadėtoje žemėje, Damaske ir Gazoje ligi pat\nEgipto pasienių ir tuose visuose kraštuose nužudė daugiau nei 200 tūkstančių saracėnų\n(Ptol. pried. p. 1220)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-59475
+    - t-001

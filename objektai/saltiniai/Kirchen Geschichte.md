@@ -30,9 +30,8 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
 
 <a id="claim-t-191787"></a>
 - t-001
-  global_id: t-191787
   teiginys: "Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodžiui paimti iš Enėjaus Silvijaus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,24 +47,7 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174669
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodžiui paimti iš Enėjaus Silvijaus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
-  citata_originali: |
-    Sie
-    dalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.
-    497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus, Gardino ap­
-    rašymas turėtų būti veikale: Oaspari Ens. Deliciae Epadon per
-    Germaniam.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-191787
+
 ## Citatos
 
 - id: c-174669
@@ -73,32 +55,16 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
-    21,1 /P.
-    369—371,
-    nauja
-    perrašyta
-    didžioji VII
-    priedo
-    dalis/
-    Apie pagonių atvertimą Į Kristaus tikėjimą (pagal Jeronimą Pra-
-    hiškį, kamaldulį)
-    Lietuva — tai didelis, bet nedaug dirbamos žemės turintis kraš­
-    tas, rytuose prisišliejęs prie Lenkijos; kraštas pelkėtas ir miškin­
-    gas; jo sostinė yra Vilnius — Vyskupų miestas, toks pat didelis
-    kaip ir Karalių miestas su visais priemiesčiais. Arčiausiai jo yra
-    Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadinamos.
-    Jis pastatytas iš dalies ant kalvos, o iš dalies slėnyje, kaip įp­
-    rasta tame krašte.
-  citata_rodoma: |
     Sie
     dalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.
     497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus, Gardino ap­
     rašymas turėtų būti veikale: Oaspari Ens. Deliciae Epadon per
     Germaniam.
+  citata_rodoma: "Sie\ndalykai yra tik Srioko veikale (Kirchen Geschichte. B. XXX. S.\n497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus, Gardino ap­\nrašymas turėtų būti veikale: Oaspari Ens. Deliciae Epadon per\nGermaniam."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191787
+    - t-001

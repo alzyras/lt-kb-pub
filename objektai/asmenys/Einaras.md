@@ -30,9 +30,8 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
 
 <a id="claim-t-194830"></a>
 - t-001
-  global_id: t-194830
   teiginys: "Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,24 +40,7 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177226
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
-    vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-
-    ninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie
-    vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o
-    naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-194830
+
 ## Citatos
 
 - id: c-177226
@@ -66,25 +48,16 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Tie žyniai buvo išskirtinai dievo Atrimpo arba
-    Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
-    Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
-    ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran­
-    tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
-    meldžių žynys Siggo, kuris buvo pats pirmasis žudikas. Hart-
-    knochas po ilgo nereikšmingo svarstymo šia tema pataiko į
-    ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
-    kai, gyvenę bendruomenėje su tam tikromis teisėmis.
-  citata_rodoma: |
     24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
     vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-
     ninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie
     vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o
     naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.
+  citata_rodoma: "24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­\nvo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-\nninga arba. Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie\nvieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o\nnaktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-194830
+    - t-001

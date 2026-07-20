@@ -31,7 +31,6 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
 
 <a id="claim-t-80715"></a>
 - t-001
-  global_id: t-80715
   teiginys: "Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,4 +67,4 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80715
+    - t-001

@@ -46,8 +46,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 ## Teiginiai
 
 <a id="claim-t-178743"></a>
-- t-001
-  global_id: t-178743
+- t-006
   teiginys: "Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -63,8 +62,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-44046
 
 <a id="claim-t-178744"></a>
-- t-002
-  global_id: t-178744
+- t-009
   teiginys: "Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -80,8 +78,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-44046
 
 <a id="claim-t-178745"></a>
-- t-003
-  global_id: t-178745
+- t-010
   teiginys: "Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -97,8 +94,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-162443
 
 <a id="claim-t-178746"></a>
-- t-004
-  global_id: t-178746
+- t-002
   teiginys: "Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -116,7 +112,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 
 <a id="claim-t-178747"></a>
 - t-005
-  global_id: t-178747
   teiginys: "Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -136,8 +131,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-162445
 
 <a id="claim-t-178748"></a>
-- t-006
-  global_id: t-178748
+- t-001
   teiginys: "Kautynių vieta buvo numatyta Vorsklos upės apylinkėse."
   atnaujinta: "2026-05-31 14:17"
   sprendimo_priezastis: "auto"
@@ -148,8 +142,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-37851
 
 <a id="claim-t-178749"></a>
-- t-007
-  global_id: t-178749
+- t-004
   teiginys: "Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -169,8 +162,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     - c-162446
 
 <a id="claim-t-178750"></a>
-- t-008
-  global_id: t-178750
+- t-003
   teiginys: "Vytauto žygis prie Vorsklos buvo pralaimėtas."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -285,7 +277,8 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178748
+    - t-001
+
 - id: c-37853
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -303,7 +296,8 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178750
+    - t-003
+
 - id: c-44046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -331,35 +325,16 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     nigaikščiai, Tochtamišo totoriai, talkinin-
     kai iš Lenkijos, Kryžiuočių ordino kariai,
     moldavai.
-  citata_rodoma: |
-    Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-
-    Lietuvos jungtinės pajėgos
-
-    Lietuviai, žemaičiai, LDK rusų žemių ku-
-    nigaikščiai, Tochtamišo totoriai, talkinin-
-    kai iš Lenkijos, Kryžiuočių ordino kariai,
-    moldavai.
+  citata_rodoma: "Rugpjūčio\npradžioje kariuomenė, persikėlusi per\nDnieprą, jo kairiuoju krantu patraukė į\n\nŠarvinių\npirštinių\nrekonstrukcija\n\nstepes, kur laukė prie\nkairiojo Dniepro intako\nVorsklos, prie Ordos valdų pari-\nbių, susitiko su Aukso ordos chano\nTimūr-Kutluko kariuomene.\n\nLietuvos jungtinės pajėgos\n\nLietuviai, žemaičiai, LDK rusų žemių ku-\nnigaikščiai, Tochtamišo totoriai, talkinin-\nkai iš Lenkijos, Kryžiuočių ordino kariai,\nmoldavai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178743
-    - t-178744
+    - t-006
+    - t-009
+
 - id: c-162442
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -378,7 +353,8 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178746
+    - t-002
+
 - id: c-162443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -398,24 +374,15 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
     plačiai aprašo, kokių gudrybių tą­
     kart ėmėsi Kęstutis, puldamas Vil-
     nių.
-  citata_rodoma: |
-    Strijkovskis ir Koje-
-    1  a v i č i u s supainiojo Andrių, Al­
-    girdo sūnų, su Vaidotu, Kęstučio sū­
-    numi, todėl radosi jų minimas
-    Andrius Vaidotas, Kęstučio sūnus,
-    Polocko kunigaikštis - visai išgalvo­
-    tas. Andrius žuvo prie Vorsklos 1399
-    metais.
-    31
-    Strijkovskis, 1.
+  citata_rodoma: "Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas. Andrius žuvo prie Vorsklos 1399 \nmetais.\n31\nStrijkovskis, 1."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178745
+    - t-010
+
 - id: c-162445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -428,19 +395,15 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 
     Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
     pasibaigusį 1435 m.
-  citata_rodoma: |
-    Vytauto pralaimėjimas toto-
-    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-
-    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
-    pasibaigusį 1435 m.
+  citata_rodoma: "Vytauto pralaimėjimas toto-\nriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.\n\nPo Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,\npasibaigusį 1435 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178747
+    - t-005
+
 - id: c-162446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -456,21 +419,15 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
 
     Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
     čionių pasaulio sienos“ (in finibus totius Christianitatis).
-  citata_rodoma: |
-    Vytautas ir pats buvo reagavęs į Ser-
-    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
-    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
-    1399 m. prie Vorsklos.
-
-    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
-    čionių pasaulio sienos“ (in finibus totius Christianitatis).
+  citata_rodoma: "Vytautas ir pats buvo reagavęs į Ser-\nbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką\nNikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu\n1399 m. prie Vorsklos.\n\nŠvitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-\nčionių pasaulio sienos“ (in finibus totius Christianitatis)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178749
+    - t-004
+
 - id: c-167696
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -488,6 +445,8 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

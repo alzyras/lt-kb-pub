@@ -66,8 +66,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75327"></a>
-- t-001
-  global_id: t-75327
+- t-011
   teiginys: "Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "gap::items"
@@ -76,8 +75,7 @@ Nenurodyta
     - c-22242
 
 <a id="claim-t-75328"></a>
-- t-002
-  global_id: t-75328
+- t-015
   teiginys: "Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės."
   atnaujinta: "2026-06-01 14:44"
   sprendimo_priezastis: "gap::items"
@@ -93,8 +91,7 @@ Nenurodyta
     - c-22244
 
 <a id="claim-t-75329"></a>
-- t-003
-  global_id: t-75329
+- t-014
   teiginys: "Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::items"
@@ -103,8 +100,7 @@ Nenurodyta
     - c-73138
 
 <a id="claim-t-75330"></a>
-- t-004
-  global_id: t-75330
+- t-013
   teiginys: "Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų."
   atnaujinta: "2026-05-31 11:59"
   sprendimo_priezastis: "gap::items"
@@ -120,8 +116,7 @@ Nenurodyta
     - c-22244
 
 <a id="claim-t-75331"></a>
-- t-005
-  global_id: t-75331
+- t-012
   teiginys: "Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "gap::items"
@@ -130,8 +125,7 @@ Nenurodyta
     - c-22243
 
 <a id="claim-t-75333"></a>
-- t-006
-  global_id: t-75333
+- t-016
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::items"
@@ -140,8 +134,7 @@ Nenurodyta
     - c-73138
 
 <a id="claim-t-193578"></a>
-- t-007
-  global_id: t-193578
+- t-017
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -171,18 +164,15 @@ Nenurodyta
     pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
     šos.
-  citata_rodoma: |
-    Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos.
+  citata_rodoma: "Tam reikėjo\npradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-\ntas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-\nšos."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75327
+    - t-011
+
 - id: c-22243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,17 +187,15 @@ Nenurodyta
     Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
     pasinaudojo ne visi.
-  citata_rodoma: |
-    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
-    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
-    pasinaudojo ne visi.
+  citata_rodoma: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-\ngyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo\npasinaudojo ne visi."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75331
+    - t-012
+
 - id: c-22244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,19 +212,16 @@ Nenurodyta
     kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
     nepalikta garantijų investicinius čekius patikėjusiems asmenims.
-  citata_rodoma: |
-    Privatizuojamam turtui įsigyti
-    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
-    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
-    nepalikta garantijų investicinius čekius patikėjusiems asmenims.
+  citata_rodoma: "Privatizuojamam turtui įsigyti\nkūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta\nsavininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,\nnepalikta garantijų investicinius čekius patikėjusiems asmenims."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75328
-    - t-75330
+    - t-015
+    - t-013
+
 - id: c-73138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -257,8 +242,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75329
-    - t-75333
+    - t-014
+    - t-016
+
 - id: c-176254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,4 +264,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193578
+    - t-017

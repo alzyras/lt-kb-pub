@@ -39,7 +39,6 @@ Lehr-Splawiński, T.
 
 <a id="claim-t-31013"></a>
 - t-001
-  global_id: t-31013
   teiginys: "T. Lehr-Splawińskis 1947 m. Varšuvoje paskelbė veikalą „Język polski. Pochodzenie, powstanie, rozwój“."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -68,13 +67,11 @@ Lehr-Splawiński, T.
     many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
     kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
     Pochodzenie, powstanie, rozwój._ Warszawa 1947 (įdomūs žemėlapiai).
-  citata_rodoma: |
-    — Lehr-Splawiński, T. : _Język polski.
-    Pochodzenie, powstanie, rozwój._ Warszawa 1947 (įdomūs žemėlapiai).
+  citata_rodoma: "— Lehr-Splawiński, T. : _Język polski.\nPochodzenie, powstanie, rozwój._ Warszawa 1947 (įdomūs žemėlapiai)."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31013
+    - t-001

@@ -38,7 +38,6 @@ media_all_json: |-
 
 <a id="claim-t-191320"></a>
 - t-001
-  global_id: t-191320
   teiginys: "1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -89,4 +88,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191320
+    - t-001

@@ -9,16 +9,16 @@ datos:
   - '1859 m.'
 date_start: '1781'
 date_end: '1859'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - redaktorius
   - asmuo
-amziai:
-  - 'XVIII'
-  - 'XIX'
-periodo_grupes:
-  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 
 <a id="claim-t-190019"></a>
 - t-001
-  global_id: t-190019
   teiginys: "Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -63,7 +62,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 
 <a id="claim-t-190020"></a>
 - t-002
-  global_id: t-190020
   teiginys: "Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 
 <a id="claim-t-197710"></a>
 - t-004
-  global_id: t-197710
   teiginys: "Antanas Marcinovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -95,18 +92,33 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   pagrindžia:
     - c-179300
 
-<a id="claim-t-190021"></a>
-- t-003
-  global_id: t-190021
-  teiginys: 'Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išskleistas subjektas ir veiksmas. Nepridėta neaiški ministro tapatybė.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Antanas Marcinovskis|Antanas Marcinovskis]]; mentioned_place: Vilnius'
-  pagrindžia:
-    - c-003
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
+    lapių) buvo anoniminė 1835 metų recenzija18. Rašinio auto­
+    rius tokią apimtį aiškino taip: „Šis veikalas atneša tokią pat
+    garbę tiek autoriaus pilietiniam sumanymui, tiek ir leidėjui
+    ponui Marcinovskiui; jis yra sugalvotas turint tokį svarbų tiks­
+    lą ir taip rūpi visiems tenykščiams provincijos gyventojams,
+    kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
+    ba tik visapusiškomis liaupsėmis“19. Kaip ir įprasta kiekvie­
+    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
+    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
+    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
+    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
+    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
+    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
+    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
+    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
+    taip pat skambėjo įvairiuose to krašto padavimuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-003
   santrauka: 'Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -127,11 +139,10 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
     L. 435).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-190021
+  statusas: verified
+
 ## Citatos
 
 - id: c-172902
@@ -139,24 +150,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
-    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
-    lapių) buvo anoniminė 1835 metų recenzija18. Rašinio auto­
-    rius tokią apimtį aiškino taip: „Šis veikalas atneša tokią pat
-    garbę tiek autoriaus pilietiniam sumanymui, tiek ir leidėjui
-    ponui Marcinovskiui; jis yra sugalvotas turint tokį svarbų tiks­
-    lą ir taip rūpi visiems tenykščiams provincijos gyventojams,
-    kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
-    ba tik visapusiškomis liaupsėmis“19. Kaip ir įprasta kiekvie­
-    nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
-    teigiamąsias „Mitologijos“ puses: „Nors autorius ir ne vienas
-    pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
-    tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus
-    Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę
-    jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai dide­
-    lis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios
-    buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas,
-    taip pat skambėjo įvairiuose to krašto padavimuose.
-  citata_rodoma: |
     Enciklopedinės žinios, šviesus protas, publicistiniai
     sugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­
     ėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui rūpėjo
@@ -166,13 +159,15 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
     publikavimo, teigė, jog A. Marcinovskis jo „Istorija“ pelnė ir
     naudą, ir šlovę. Jis buvo teisus: „Marcinovskis“ ir „Narbuto
     leidėjas“ tapo neatskiriamais epitetais.
+  citata_rodoma: "Enciklopedinės žinios, šviesus protas, publicistiniai\nsugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­\nėjusio, XVIII amžiaus leidėjui. Taigi A. Marcinovskiui rūpėjo\nne tik nauda -  visi XIX amžiaus tyrinėtojai kaip pavyzdį patei­\nkia faktą, kad būtent jo leidykloje buvo leidžiama LTI. Pats\nT. Narbutas, jau praėjus daugeliui metų po paskutinio tomo\npublikavimo, teigė, jog A. Marcinovskis jo „Istorija“ pelnė ir\nnaudą, ir šlovę. Jis buvo teisus: „Marcinovskis“ ir „Narbuto\nleidėjas“ tapo neatskiriamais epitetais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190019
+    - t-001
+
 - id: c-172903
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -189,7 +184,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190020
+    - t-002
+
 - id: c-179300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -211,4 +207,4 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197710
+    - t-004

@@ -28,7 +28,6 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
 
 <a id="claim-t-201445"></a>
 - t-001
-  global_id: t-201445
   teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
   atnaujinta: "2026-07-16 14:32"
   sprendimo_priezastis: "auto"
@@ -42,8 +41,9 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
 ## Citatos
 
 - id: c-184795
+  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netrukus Teodoras Narbutas paskelbs ir
     vėlyvąją Lietuvos metraščio redakciją — Bychovco
@@ -63,4 +63,4 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201445
+    - t-001

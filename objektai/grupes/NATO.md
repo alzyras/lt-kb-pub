@@ -39,28 +39,18 @@ media_all_json: |-
 
 <a id="claim-t-19949"></a>
 - t-001
-  global_id: t-19949
   teiginys: "2004 m. Lietuva tapo NATO ir Europos Sąjungos nare."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> NATO: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "NATO: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo Lietuvos tapimą NATO valstybių šeimos nare; tai leidžia fiksuoti priklausymą NATO."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuva priklausė NATO (0.86)"
   temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko trumpesnį enciklopedinį teiginį be perteklinės formuluotės."
   pagrindžia:
-    - c-22679
+    - c-166560
 
 <a id="claim-t-19950"></a>
 - t-002
-  global_id: t-19950
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -147,15 +137,13 @@ media_all_json: |-
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
-  citata_rodoma: |
-    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+  citata_rodoma: "jungai – laisvų ir demokratinių Europos valstybių susivienijimui."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-19949
 - id: c-166560
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,6 +160,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-19950
+    - t-001
+    - t-002
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

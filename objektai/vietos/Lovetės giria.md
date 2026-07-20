@@ -32,7 +32,6 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 
 <a id="claim-t-197893"></a>
 - t-002
-  global_id: t-197893
   teiginys: "Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -43,17 +42,6 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   pagrindžia:
     - c-179385
 
-<a id="claim-t-192882"></a>
-- t-001
-  global_id: t-192882
-  teiginys: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ilgas vietovių sąrašas sutrumpintas iki teiginio apie Lovetės girią. Vietovės vardo forma palikta su Narbuto atribucija.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Bernas; mentioned_place: Drūsinė; mentioned_place: Drūsinės ežeras; mentioned_place: Elbingas; mentioned_place: Pagudė'
-  pagrindžia:
-    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
@@ -75,11 +63,9 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
     ežeras.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-192882
+  statusas: verified
 ## Citatos
 
 - id: c-179385
@@ -101,4 +87,4 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197893
+    - t-002

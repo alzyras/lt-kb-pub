@@ -31,7 +31,6 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 
 <a id="claim-t-86834"></a>
 - t-001
-  global_id: t-86834
   teiginys: "Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -70,4 +69,4 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-86834
+    - t-001

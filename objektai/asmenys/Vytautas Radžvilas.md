@@ -39,7 +39,6 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 
 <a id="claim-t-26468"></a>
 - t-001
-  global_id: t-26468
   teiginys: "Vytautas Radžvilas Roko maršų koncertuose-mitinguose sakė patriotines kalbas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,4 +89,4 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26468
+    - t-001

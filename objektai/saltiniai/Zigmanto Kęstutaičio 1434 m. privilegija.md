@@ -37,7 +37,6 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 
 <a id="claim-t-67592"></a>
 - t-001
-  global_id: t-67592
   teiginys: "Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -68,14 +67,11 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     leido gauti valstybinių vietų. Zigmanto Kęstutaičio privilegija suly-
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
-  citata_rodoma: |
-    Zigmanto Kęstutaičio privilegija suly-
-    gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
-    vietų jie vis tiek negalėjo gauti.
+  citata_rodoma: "Zigmanto Kęstutaičio privilegija suly-\ngino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių\nvietų jie vis tiek negalėjo gauti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67592
+    - t-001

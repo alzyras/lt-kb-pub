@@ -44,7 +44,6 @@ Nenurodyta
 
 <a id="claim-t-185666"></a>
 - t-001
-  global_id: t-185666
   teiginys: "Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -64,7 +63,6 @@ Nenurodyta
 
 <a id="claim-t-185667"></a>
 - t-002
-  global_id: t-185667
   teiginys: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -84,7 +82,6 @@ Nenurodyta
 
 <a id="claim-t-196277"></a>
 - t-003
-  global_id: t-196277
   teiginys: "Po staigaus Vytauto antpuolio Drucko kunigaikščiai pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -131,7 +128,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185666
+    - t-001
+
 - id: c-169028
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -161,5 +159,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-185667
-    - t-196277
+    - t-002
+    - t-003

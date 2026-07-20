@@ -7,10 +7,10 @@ datos:
   - '1539 m.'
 date_start: '1539'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
 amziai:
   - 'XVI'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,7 +34,6 @@ Nemuno laivai 1539 m. Olafo Magnuso Šiaurės Europos žemėlapyje.
 
 <a id="claim-t-202292"></a>
 - t-001
-  global_id: t-202292
   teiginys: "Nemuno laivai 1539 m. Olafo Magnuso Šiaurės Europos žemėlapyje."
   atnaujinta: "2026-07-19 10:19"
   sprendimo_priezastis: "auto"
@@ -60,4 +59,4 @@ Nemuno laivai 1539 m. Olafo Magnuso Šiaurės Europos žemėlapyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-202292
+    - t-001

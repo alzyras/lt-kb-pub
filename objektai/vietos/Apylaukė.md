@@ -37,7 +37,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 
 <a id="claim-t-79295"></a>
 - t-001
-  global_id: t-79295
   teiginys: "Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -58,7 +57,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 
 <a id="claim-t-79296"></a>
 - t-002
-  global_id: t-79296
   teiginys: "Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -90,17 +88,12 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 
     1921 m. buvo įsteigtas šarvuotų traukinių pulkas, kurį be „Gedimino“ sudarė dar du
     nauji traukiniai „Kęstutis“ ir „Algirdas“.
-  citata_rodoma: |
-    Lapkričio 21 d.
-    atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke
-    jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.
-
-    1921 m.
+  citata_rodoma: "Lapkričio 21 d.\natnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke\njis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.\n\n1921 m."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79295
-    - t-79296
+    - t-001
+    - t-002

@@ -37,7 +37,6 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 
 <a id="claim-t-72425"></a>
 - t-001
-  global_id: t-72425
   teiginys: "Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -46,9 +45,9 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   pagrindžia:
     - c-70835
     - c-70832
+
 <a id="claim-t-193106"></a>
-- t-002
-  global_id: t-193106
+- t-003
   teiginys: "Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -83,10 +82,12 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-70835
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -99,17 +100,15 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios.
-  citata_rodoma: |
-    Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios.
+  citata_rodoma: "Iš savo pusės Lenkų ba-\njorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be\nlietuvių ir be Vytauto žinios."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72425
+    - t-001
+
 - id: c-175866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -126,4 +125,4 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193106
+    - t-003

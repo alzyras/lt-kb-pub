@@ -36,7 +36,6 @@ Taube, M.
 
 <a id="claim-t-31934"></a>
 - t-001
-  global_id: t-31934
   teiginys: "M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -65,13 +64,11 @@ Taube, M.
     MiLG, t. 15, 1892. Plg. Taube, M. — Klymenko, F. : _Die Urkunden
     Mindowes für den livländischen Orden_ , AF, VI, 1929, 201-255 p.
     — Kosman, M. : _Forma umów międzynarodowych Litwy w pierwszej_
-  citata_rodoma: |
-    Taube, M. — Klymenko, F. : _Die Urkunden
-    Mindowes für den livländischen Orden_ , AF, VI, 1929, 201-255 p.
+  citata_rodoma: "Taube, M. — Klymenko, F. : _Die Urkunden\nMindowes für den livländischen Orden_ , AF, VI, 1929, 201-255 p."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31934
+    - t-001

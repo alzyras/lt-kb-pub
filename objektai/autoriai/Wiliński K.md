@@ -7,15 +7,15 @@ datos:
   - '1984 m.'
 date_start: '1984'
 date_end: ''
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - istorikas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,9 +39,8 @@ Dusburgietis teigia, kad wiliński K.
 
 <a id="claim-t-60818"></a>
 - t-001
-  global_id: t-60818
   teiginys: "K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,21 +55,7 @@ Dusburgietis teigia, kad wiliński K.
   temporalinis_llm_pakomentavimas: "Citata pateikia K. Wilińskio darbo temą, vietą ir metus."
   pagrindžia:
     - c-61450
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
-    historica, Lódz, 1984.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-60818
+
 ## Citatos
 
 - id: c-61450
@@ -78,29 +63,13 @@ Dusburgietis teigia, kad wiliński K.
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
   citata_originali: |
-    Varmės vysk. valdytojas
-    Jozuė
-    Jucevičius L. A.
-    Jučas M.
-    Judas
-    Judas Makabėjus
-    Juodutis (D.— Jodute)
-    Jurginis J. (Юргинис Ю.)
-    Jurgis šv.
-    Justas šv.
-    Justinianas
-    Kabelka J.
-    Kaltis (Colte, Kolte)
-    Kalvaitis V. (Kalwaitis W.)
-    Kaminskis A. (Kamiński)
-    Kandeimas (D. — Candeym, Jer.
-  citata_rodoma: |
     Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
     historica, Lódz, 1984.
+  citata_rodoma: "Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia\nhistorica, Lódz, 1984."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-60818
+    - t-001
