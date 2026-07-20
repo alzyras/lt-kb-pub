@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kryžiuočių antpuolis Volkovysko apygardoje (1410 m. pradžia)
 
 ## Santrauka

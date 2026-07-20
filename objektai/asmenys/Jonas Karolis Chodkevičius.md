@@ -107,7 +107,7 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
     - t-002
 
 ## Ryšiai
-- Jonas Karolis Chodkevičius keliavo į Livonija
-- Jonas Karolis Chodkevičius puolė Daugavgryva, Piarnu
-- Jonas Karolis Chodkevičius gynė Smolenskas
+- Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]]
+- Jonas Karolis Chodkevičius puolė [[objektai/vietos/Daugavgryva]], [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius gynė [[objektai/vietos/Smolenskas]]
 - Jonas Karolis Chodkevičius kariavo prieš [[objektai/grupes/Švedai]]

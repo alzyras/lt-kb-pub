@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo pakto
 
 ## Santrauka

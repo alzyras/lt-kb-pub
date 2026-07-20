@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Crome H. Führer zu den frühgeschichtlichen Burgwällen im Samlande
 
 ## Santrauka

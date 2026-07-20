@@ -46,7 +46,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82624"></a>
 - t-003
   teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +65,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82625"></a>
 - t-008
   teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,7 +84,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82626"></a>
 - t-002
   teiginys: "Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Italija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,7 +125,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 <a id="claim-t-82630"></a>
 - t-001
   teiginys: "Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kiška: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1301,5 +1301,5 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - t-021
 
 ## Ryšiai
-- Mykolas Glinskis keliavo į Vilnius
+- Mykolas Glinskis keliavo į [[objektai/vietos/Vilnius]]
 - Mykolas Glinskis puolė [[objektai/grupes/Totoriai]]

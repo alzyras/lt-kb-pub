@@ -909,10 +909,10 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Broliai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Sirputis (Traidenio brolis)]]
-- Traidenis (valdovas, XIII a.) buvo valdovas Dainava, Jotvingija
-- Traidenis (valdovas, XIII a.) pastatė Raigardas
-- Traidenis (valdovas, XIII a.) puolė Kulmas
-- Traidenis (valdovas, XIII a.) apgulė Daugpilis
-- Traidenis (valdovas, XIII a.) surengė žygį į Mazovija
+- Traidenis (valdovas, XIII a.) buvo valdovas [[objektai/vietos/Dainava]], [[objektai/vietos/Jotvingija]]
+- Traidenis (valdovas, XIII a.) pastatė [[objektai/vietos/Raigardas]]
+- Traidenis (valdovas, XIII a.) puolė [[objektai/vietos/Kulmas]]
+- Traidenis (valdovas, XIII a.) apgulė [[objektai/vietos/Daugpilis]]
+- Traidenis (valdovas, XIII a.) surengė žygį į [[objektai/vietos/Mazovija]]
 - Traidenis (valdovas, XIII a.) kariavo prieš [[objektai/grupes/Lenkai]]
 - Traidenis (valdovas, XIII a.) rėmė [[objektai/grupes/Žiemgaliai]]

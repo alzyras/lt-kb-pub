@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Derybos ir interesų derinimas per seimelius Vilniuje
 
 ## Santrauka

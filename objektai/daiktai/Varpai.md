@@ -33,7 +33,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Varpai
 
 ## Santrauka
@@ -133,12 +132,6 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47930|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.
 - susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
 - susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/daiktai/Monetos]]
-- [[objektai/daiktai/Patrankos]]
-
 ## Citatos
 
 - id: c-14341

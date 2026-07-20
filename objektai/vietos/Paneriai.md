@@ -44,7 +44,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 <a id="claim-t-84407"></a>
 - t-011
   teiginys: "Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,7 +61,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 <a id="claim-t-84408"></a>
 - t-003
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,7 +81,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 <a id="claim-t-84409"></a>
 - t-005
   teiginys: "Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -213,7 +213,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 <a id="claim-t-84417"></a>
 - t-009
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"

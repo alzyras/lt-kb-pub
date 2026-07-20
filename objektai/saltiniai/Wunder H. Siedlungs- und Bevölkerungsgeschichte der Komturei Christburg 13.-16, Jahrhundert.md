@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16, Jahrhundert
 
 ## Santrauka

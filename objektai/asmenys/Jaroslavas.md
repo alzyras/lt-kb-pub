@@ -279,5 +279,5 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - t-006
 
 ## Ryšiai
-- Jaroslavas buvo valdovas Kijevo Rusia
-- Jaroslavas surengė žygį į Lenkija
+- Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
+- Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]]

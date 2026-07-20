@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
 
 ## Santrauka

@@ -38,12 +38,6 @@ media_all_json: |-
 
 Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis. Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK. Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikščioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės bendruomenės ir religija toleruojamos nuo XIV a.
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
-- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
-
 ## Teiginiai
 
 <a id="claim-t-120184"></a>
@@ -343,3 +337,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+## Ryšiai
+- Karaimai keliavo į [[objektai/vietos/Lietuva]]
+- Karaimai gyveno [[objektai/vietos/Trakai]]

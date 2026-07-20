@@ -2557,12 +2557,12 @@ media_all_json: |-
 - Kariavo prieš: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - Sudarė sutartį su: [[objektai/asmenys/Aleksas Jefremovičius]], [[objektai/asmenys/Chariničius]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - Rėmė Švitrigailą: [[objektai/grupes/Livonijos ordinas]]
-- Švitrigaila valdė Černigovas, Kijevas, Podolija, Polockas, Smolenskas, Vitebskas, Voluinė
-- Švitrigaila keliavo į Kijevas, Lukomlis, Marienburgas, Polockas, Ukraina, Vengrija
-- Švitrigaila mirė Luckas
-- Švitrigaila buvo palaidotas Vilnius
-- Švitrigaila puolė Vitebskas
-- Švitrigaila užėmė Ašmena, Vitebskas
-- Švitrigaila surengė žygį į Lietuva
+- Švitrigaila valdė [[objektai/vietos/Černigovas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]]
+- Švitrigaila keliavo į [[objektai/vietos/Kijevas]], [[objektai/vietos/Lukomlis]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Ukraina]], [[objektai/vietos/Vengrija]]
+- Švitrigaila mirė [[objektai/vietos/Luckas]]
+- Švitrigaila buvo palaidotas [[objektai/vietos/Vilnius]]
+- Švitrigaila puolė [[objektai/vietos/Vitebskas]]
+- Švitrigaila užėmė [[objektai/vietos/Ašmena]], [[objektai/vietos/Vitebskas]]
+- Švitrigaila surengė žygį į [[objektai/vietos/Lietuva]]
 - Švitrigaila dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - Švitrigaila sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

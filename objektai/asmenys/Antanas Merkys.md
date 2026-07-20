@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Antanas Merkys
 
 ## Santrauka

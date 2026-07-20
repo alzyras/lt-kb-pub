@@ -23,7 +23,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Adalbertas
 
 ## Santrauka
@@ -79,3 +78,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22197|konversija christianizacija europeizacija]]: Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.
 - susijęs iš [[objektai/asmenys/Šventasis Adalbertas.md#claim-t-190225|Šventasis Adalbertas]]: Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo.
+
+## Ryšiai
+- Puolė Adalbertą: [[objektai/grupes/Prūsai]]

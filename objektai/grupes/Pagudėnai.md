@@ -915,8 +915,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 
 ## Ryšiai
 - Gynė Pagudėnai: [[objektai/grupes/Žemaičiai]]
-- Turėjo priklausinį: Heilsbergas
-- Pagudėnai valdė Heilsbergas
-- Pagudėnai puolė Elbingas, [[objektai/asmenys/Helvigas iš Goldbacho]], Pilaitė
-- Pagudėnai apgulė Traupeinas
+- Turėjo priklausinį: [[objektai/vietos/Heilsbergas]]
+- Pagudėnai valdė [[objektai/vietos/Heilsbergas]]
+- Pagudėnai puolė [[objektai/vietos/Elbingas]], [[objektai/asmenys/Helvigas iš Goldbacho]], [[objektai/vietos/Pilaitė]]
+- Pagudėnai apgulė [[objektai/vietos/Traupeinas]]
 - Pagudėnai paskyrė [[objektai/asmenys/Auktumas]]

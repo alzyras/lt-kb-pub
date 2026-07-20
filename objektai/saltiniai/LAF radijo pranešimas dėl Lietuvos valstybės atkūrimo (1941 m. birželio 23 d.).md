@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.)
 
 ## Santrauka

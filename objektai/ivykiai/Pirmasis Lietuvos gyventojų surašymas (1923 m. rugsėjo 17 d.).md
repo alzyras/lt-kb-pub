@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)
 
 ## Santrauka

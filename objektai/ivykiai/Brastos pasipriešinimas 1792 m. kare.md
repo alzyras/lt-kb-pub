@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Brastos pasipriešinimas 1792 m. kare
 
 ## Santrauka

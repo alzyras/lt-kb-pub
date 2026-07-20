@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas
 
 ## Santrauka

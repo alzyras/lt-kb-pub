@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)
 
 ## Santrauka

@@ -32,7 +32,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)
 
 ## Santrauka

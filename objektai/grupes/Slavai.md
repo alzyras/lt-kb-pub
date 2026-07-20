@@ -1766,6 +1766,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - Puolė Slavai: [[objektai/asmenys/Jarmerikas]]
 - Kariavo prieš: [[objektai/asmenys/Frotonas III]]
 - Buvo užkariauta: [[objektai/asmenys/Jarmerikas]]
-- Slavai puolė Danija
-- Slavai užėmė Baltijos jūra
-- Slavai gyveno Pamaris
+- Slavai puolė [[objektai/vietos/Danija]]
+- Slavai užėmė [[objektai/vietos/Baltijos jūra]]
+- Slavai gyveno [[objektai/vietos/Pamaris]]

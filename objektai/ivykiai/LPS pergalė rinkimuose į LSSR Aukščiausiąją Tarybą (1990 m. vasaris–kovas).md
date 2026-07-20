@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # LPS pergalė rinkimuose į LSSR Aukščiausiąją Tarybą (1990 m. vasaris–kovas)
 
 ## Santrauka

@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)
 
 ## Santrauka

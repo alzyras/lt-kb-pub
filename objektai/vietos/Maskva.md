@@ -4857,5 +4857,5 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - Užėmė Maskvą: [[objektai/grupes/Lenkai]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Juozas Urbšys]]
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Prekiavo su: Vilnius
+- Prekiavo su: [[objektai/vietos/Vilnius]]
 - Turėjo priklausinį: [[objektai/grupes/Maskvos pasiuntiniai]]

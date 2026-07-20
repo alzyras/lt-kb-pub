@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“
 
 ## Santrauka

@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai
 
 ## Santrauka

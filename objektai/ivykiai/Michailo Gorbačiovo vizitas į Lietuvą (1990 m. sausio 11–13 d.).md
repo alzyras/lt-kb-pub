@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)
 
 ## Santrauka

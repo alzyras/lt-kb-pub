@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Egidijus (arkivyskupas, XIV a.)
 
 ## Santrauka
@@ -74,3 +73,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+## Ryšiai
+- Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]
+- Egidijus (arkivyskupas, XIV a.) buvo palaidotas [[objektai/vietos/Paryžius]]

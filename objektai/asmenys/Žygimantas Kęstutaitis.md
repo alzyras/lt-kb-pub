@@ -45,7 +45,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114103"></a>
 - t-001
   teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Trakai: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +67,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 <a id="claim-t-114105"></a>
 - t-002
   teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1159,4 +1159,4 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-031
 
 ## Ryšiai
-- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į Trakai
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Trakai]]

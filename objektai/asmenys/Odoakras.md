@@ -33,7 +33,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Odoakras
 
 ## Santrauka
@@ -118,23 +117,15 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 <a id="claim-t-190944"></a>
 - t-008
   teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Teodorikas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karinės konfrontacijos kontekste Odoakras telkia kariuomenę ir patraukia pasitikti Teodoriko."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173823
-    - c-173826
 
 <a id="claim-t-190945"></a>
 - t-009
@@ -489,7 +480,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
     - t-014
 
 - id: c-173827
@@ -564,3 +554,11 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+## Ryšiai
+- Sūnūs: [[objektai/asmenys/Telanas]]
+- Broliai: [[objektai/asmenys/Onulfas]]
+- Paskyrė Odoakrą: [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
+- Odoakras buvo valdovas [[objektai/grupes/Herulai]]
+- Odoakras valdė [[objektai/vietos/Italija]]
+- Odoakras apgulė [[objektai/vietos/Pavija]]

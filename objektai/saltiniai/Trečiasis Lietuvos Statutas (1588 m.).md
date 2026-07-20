@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Trečiasis Lietuvos Statutas (1588 m.)
 
 ## Santrauka

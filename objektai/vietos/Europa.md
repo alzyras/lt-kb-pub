@@ -1749,4 +1749,4 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Persai]], [[objektai/asmenys/Snorro Sturleson]]
 - Puolė Europą: [[objektai/grupes/Hunai]]
-- Turėjo priklausinį: Lietuva
+- Turėjo priklausinį: [[objektai/vietos/Lietuva]]

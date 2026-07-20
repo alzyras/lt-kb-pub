@@ -387,4 +387,4 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
 
 ## Ryšiai
 - Puolė Notangą: [[objektai/grupes/Sūduviai]]
-- Notanga priklausė Prūsija
+- Notanga priklausė [[objektai/vietos/Prūsija]]

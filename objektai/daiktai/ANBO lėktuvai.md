@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # ANBO lėktuvai
 
 ## Santrauka
@@ -128,15 +127,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
-- [[temos/transportas]]
-
-### Laikotarpiai
-- XX amžius
 
 ## Citatos
 

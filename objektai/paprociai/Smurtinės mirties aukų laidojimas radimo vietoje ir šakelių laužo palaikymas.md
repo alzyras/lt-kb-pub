@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas
 
 ## Santrauka

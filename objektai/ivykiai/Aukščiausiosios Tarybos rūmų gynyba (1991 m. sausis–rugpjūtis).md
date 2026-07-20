@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)
 
 ## Santrauka
@@ -257,14 +256,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
-## Ryšiai
-
-### Laikotarpiai
-- XX amžius
-
-### Susiję objektai
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
-
 ## Citatos
 
 - id: c-11823

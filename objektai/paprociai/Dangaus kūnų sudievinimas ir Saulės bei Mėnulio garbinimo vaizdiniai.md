@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Dangaus kūnų sudievinimas ir Saulės bei Mėnulio garbinimo vaizdiniai
 
 ## Santrauka

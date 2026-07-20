@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kryžiuočių kariuomenės vėliavos
 
 ## Santrauka

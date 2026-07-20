@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Karinė savanorystė ir žemės pažadas valstybės gynimui
 
 ## Santrauka

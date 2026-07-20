@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pjetras Rosis
 
 ## Santrauka

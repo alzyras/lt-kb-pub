@@ -31,7 +31,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
 
 ## Santrauka
@@ -48,16 +47,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   - santrauka: Dusburgietis Hermaną iš Zalcos vaizduoja kaip iškalbingą, apdairų ir garbingą magistrą.
     šaltiniai:
       - Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vėliava]]
 
 ## Teiginiai
 
@@ -669,3 +658,10 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
+
+## Ryšiai
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė [[objektai/vietos/Salernas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas [[objektai/vietos/Barleta]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė [[objektai/vietos/Kulmas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į [[objektai/vietos/Elbingas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo]]

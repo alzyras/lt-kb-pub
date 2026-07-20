@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)
 
 ## Santrauka

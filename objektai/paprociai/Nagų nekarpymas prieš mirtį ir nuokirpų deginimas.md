@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Nagų nekarpymas prieš mirtį ir nuokirpų deginimas
 
 ## Santrauka

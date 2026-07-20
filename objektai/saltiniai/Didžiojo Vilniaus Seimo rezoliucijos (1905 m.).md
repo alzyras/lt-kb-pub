@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Didžiojo Vilniaus Seimo rezoliucijos (1905 m.)
 
 ## Santrauka

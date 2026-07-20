@@ -90,18 +90,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   pagrindžia:
     - c-22598
 
-<a id="claim-t-74670"></a>
-- t-006
-  teiginys: "Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir susijęs su Lietuvos disidentais."
-  pagrindžia:
-    - c-22600
-
 <a id="claim-t-74671"></a>
 - t-003
   teiginys: "Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
@@ -191,7 +179,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-003
 
 - id: c-22601

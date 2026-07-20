@@ -32,7 +32,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jungtinių Tautų organizacija
 
 ## Santrauka

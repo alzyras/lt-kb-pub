@@ -392,7 +392,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 <a id="claim-t-194366"></a>
 - t-025
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -400,6 +400,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85212
+    - c-85213
+    - c-85229
 
 <a id="claim-t-196924"></a>
 - t-027
@@ -724,6 +726,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+    - t-025
 
 - id: c-85214
   autorius: "Petras Dusburgietis"
@@ -1055,6 +1058,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+    - t-025
 
 - id: c-85230
   autorius: "Petras Dusburgietis"
@@ -1129,7 +1133,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 
 ## Ryšiai
 - Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]]
-- Sūduviai puolė Galinda, Kulmas, Lubava, Notanga, Semba, Vartenbergas
-- Sūduviai apgulė Bartenšteinas, Bysleida, Vėluva
-- Sūduviai surengė žygį į Kulmas
+- Sūduviai puolė [[objektai/vietos/Galinda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Notanga]], [[objektai/vietos/Semba]], [[objektai/vietos/Vartenbergas]]
+- Sūduviai apgulė [[objektai/vietos/Bartenšteinas]], [[objektai/vietos/Bysleida]], [[objektai/vietos/Vėluva]]
+- Sūduviai surengė žygį į [[objektai/vietos/Kulmas]]
 - Sūduviai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

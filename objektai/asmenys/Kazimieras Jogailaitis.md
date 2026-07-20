@@ -1410,5 +1410,5 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - t-039
 
 ## Ryšiai
-- Kazimieras Jogailaitis keliavo į Severskas
-- Kazimieras Jogailaitis užėmė Smolenskas
+- Kazimieras Jogailaitis keliavo į [[objektai/vietos/Severskas]]
+- Kazimieras Jogailaitis užėmė [[objektai/vietos/Smolenskas]]

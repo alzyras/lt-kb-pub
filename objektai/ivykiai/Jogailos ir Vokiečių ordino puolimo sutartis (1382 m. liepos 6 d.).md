@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)
 
 ## Santrauka

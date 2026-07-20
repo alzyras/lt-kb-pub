@@ -87,4 +87,4 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     - t-001
 
 ## Ryšiai
-- Turėjo priklausinį: Belichovas
+- Turėjo priklausinį: [[objektai/vietos/Belichovas]]

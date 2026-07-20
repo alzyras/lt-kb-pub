@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos
 
 ## Santrauka

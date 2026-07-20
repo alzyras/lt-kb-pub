@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Konstitucijos pataisos dėl LKP valdžios monopolio panaikinimo
 
 ## Santrauka

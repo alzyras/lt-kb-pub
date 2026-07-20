@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“
 
 ## Santrauka

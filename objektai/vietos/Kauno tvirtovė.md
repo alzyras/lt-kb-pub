@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kauno tvirtovė
 
 ## Santrauka
@@ -58,3 +57,6 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Užėmė Kauno tvirtovę: [[objektai/grupes/Vokiečiai]]

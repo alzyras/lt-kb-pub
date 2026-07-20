@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.
 
 ## Santrauka

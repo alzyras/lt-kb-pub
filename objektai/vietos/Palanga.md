@@ -468,3 +468,9 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+## Ryšiai
+- Buvo kelionės vieta: [[objektai/asmenys/Birutė]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Birutės kalnas]]
+- Palanga priklausė [[objektai/vietos/Lietuva]]

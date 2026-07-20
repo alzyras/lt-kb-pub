@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas
 
 ## Santrauka

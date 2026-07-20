@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kanada
 
 ## Santrauka
@@ -147,3 +146,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+## Ryšiai
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Huronai]]

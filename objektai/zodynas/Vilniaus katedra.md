@@ -24,7 +24,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus katedra
 
 ## Santrauka

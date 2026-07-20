@@ -35,7 +35,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Londonas
 
 ## Santrauka
@@ -241,3 +240,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+## Ryšiai
+- Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

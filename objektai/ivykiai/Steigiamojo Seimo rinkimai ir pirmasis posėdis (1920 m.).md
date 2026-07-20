@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)
 
 ## Santrauka

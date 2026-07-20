@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)
 
 ## Santrauka

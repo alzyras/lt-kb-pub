@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje
 
 ## Santrauka

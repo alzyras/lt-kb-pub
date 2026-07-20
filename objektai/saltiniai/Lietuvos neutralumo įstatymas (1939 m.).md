@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos neutralumo įstatymas (1939 m.)
 
 ## Santrauka

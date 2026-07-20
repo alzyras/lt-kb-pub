@@ -31,7 +31,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos trispalvė
 
 ## Santrauka
@@ -177,14 +176,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Laikotarpiai
-- XX amžius
 
 ## Citatos
 

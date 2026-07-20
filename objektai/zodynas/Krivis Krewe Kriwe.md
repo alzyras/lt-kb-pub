@@ -23,7 +23,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Krivis Krewe Kriwe
 
 ## Santrauka

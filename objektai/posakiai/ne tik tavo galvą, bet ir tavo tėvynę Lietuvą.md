@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # ne tik tavo galvą, bet ir tavo tėvynę Lietuvą
 
 ## Santrauka

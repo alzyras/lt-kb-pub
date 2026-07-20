@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę
 
 ## Santrauka

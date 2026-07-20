@@ -526,4 +526,4 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - t-012
 
 ## Ryšiai
-- Gelonai gyveno Starobelsko apskritis, Volkovysko apskritis
+- Gelonai gyveno [[objektai/vietos/Starobelsko apskritis]], [[objektai/vietos/Volkovysko apskritis]]

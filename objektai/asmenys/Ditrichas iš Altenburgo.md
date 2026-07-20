@@ -226,4 +226,4 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     - t-003
 
 ## Ryšiai
-- Ditrichas iš Altenburgo pastatė Lunenburgas
+- Ditrichas iš Altenburgo pastatė [[objektai/vietos/Lunenburgas]]

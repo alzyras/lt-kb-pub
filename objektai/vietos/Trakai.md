@@ -213,7 +213,7 @@ media_all_json: |-
 <a id="claim-t-180597"></a>
 - t-069
   teiginys: "1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Trakai: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -390,7 +390,7 @@ media_all_json: |-
 <a id="claim-t-180613"></a>
 - t-068
   teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -470,7 +470,7 @@ media_all_json: |-
 <a id="claim-t-180617"></a>
 - t-072
   teiginys: "Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Trakai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -613,7 +613,7 @@ media_all_json: |-
 <a id="claim-t-180629"></a>
 - t-075
   teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -627,10 +627,8 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
   pagrindžia:
-    - c-164197
     - c-164200
     - c-182818
-    - c-182841
 
 <a id="claim-t-180630"></a>
 - t-106
@@ -671,7 +669,7 @@ media_all_json: |-
 <a id="claim-t-180632"></a>
 - t-097
   teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakų pilis (pilis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -689,7 +687,7 @@ media_all_json: |-
 <a id="claim-t-180633"></a>
 - t-098
   teiginys: "Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Trakai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -819,7 +817,7 @@ media_all_json: |-
 <a id="claim-t-180648"></a>
 - t-056
   teiginys: "1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pilys: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -842,7 +840,7 @@ media_all_json: |-
 <a id="claim-t-180651"></a>
 - t-071
   teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -980,7 +978,7 @@ media_all_json: |-
 <a id="claim-t-180663"></a>
 - t-062
   teiginys: "Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1054,7 +1052,7 @@ media_all_json: |-
 <a id="claim-t-180670"></a>
 - t-103
   teiginys: "1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1076,7 +1074,7 @@ media_all_json: |-
 <a id="claim-t-180673"></a>
 - t-067
   teiginys: "Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Trakai: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2659,7 +2657,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
     - t-070
     - t-096
 
@@ -4650,7 +4647,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
     - t-070
     - t-096
 
@@ -5418,4 +5414,4 @@ media_all_json: |-
 - Užėmė Trakai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]]
 - Buvo žygio kryptis: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Šach Achmedas]], [[objektai/grupes/Trakų žydai]], [[objektai/grupes/Žydai]]
-- Trakai priklausė Lietuva
+- Trakai priklausė [[objektai/vietos/Lietuva]]

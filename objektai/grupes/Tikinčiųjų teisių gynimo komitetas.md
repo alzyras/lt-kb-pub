@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Tikinčiųjų teisių gynimo komitetas (institucija)
 
 ## Santrauka

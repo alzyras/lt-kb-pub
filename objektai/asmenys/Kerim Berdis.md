@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kerim Berdis
 
 ## Santrauka
@@ -144,3 +143,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Broliai: [[objektai/asmenys/Tochtamyšas]]
+- Kerim Berdis puolė [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Tochtamyšas]]

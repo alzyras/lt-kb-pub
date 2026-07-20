@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Ilovajskij, D. J
 
 ## Santrauka

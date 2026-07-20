@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas
 
 ## Santrauka

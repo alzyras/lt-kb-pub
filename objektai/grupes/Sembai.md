@@ -1416,10 +1416,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-042
 
 ## Ryšiai
-- Sembai puolė Fišhauzenas
-- Sembai užėmė Kapsteta
-- Sembai siuntė į Baiga
-- Sembai gyveno Rinava
+- Sembai puolė [[objektai/vietos/Fišhauzenas]]
+- Sembai užėmė [[objektai/vietos/Kapsteta]]
+- Sembai siuntė į [[objektai/vietos/Baiga]]
+- Sembai gyveno [[objektai/vietos/Rinava]]
 - Sembai paskyrė [[objektai/asmenys/Glanda]], [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
 - Sembai priklausė [[objektai/grupes/Baltai]]
-- Sembai užkariavo Kapsteta
+- Sembai užkariavo [[objektai/vietos/Kapsteta]]

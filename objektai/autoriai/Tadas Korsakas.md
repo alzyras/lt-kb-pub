@@ -41,11 +41,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - Abiejų Tautų tarpusavio įžadas
 - Gegužės trečiosios konstitucijos pataisa
 
-## Ryšiai
-
-### Laikotarpiai
-- XVIII amžius
-
 ## Teiginiai
 
 <a id="claim-t-23258"></a>

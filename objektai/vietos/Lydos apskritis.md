@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lydos apskritis
 
 ## Santrauka
@@ -194,3 +193,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

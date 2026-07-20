@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo
 
 ## Santrauka

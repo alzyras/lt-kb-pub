@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Nikolajaus II manifestas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų (1905 m.)
 
 ## Santrauka

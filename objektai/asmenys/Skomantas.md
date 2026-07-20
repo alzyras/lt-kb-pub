@@ -809,4 +809,4 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-018
 
 ## Ryšiai
-- Skomantas puolė Kulmas
+- Skomantas puolė [[objektai/vietos/Kulmas]]

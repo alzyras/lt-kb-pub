@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos delegacijos nota Paryžiaus taikos konferencijoje (1919 m. kovo 24 d.)
 
 ## Santrauka

@@ -291,4 +291,4 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - t-006
 
 ## Ryšiai
-- Jeronimas Prahiškis mirė Konstanca
+- Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

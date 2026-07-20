@@ -33,7 +33,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pašuta V. Lietuvos valstybės susidarymas
 
 ## Santrauka

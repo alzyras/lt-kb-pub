@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma
 
 ## Santrauka

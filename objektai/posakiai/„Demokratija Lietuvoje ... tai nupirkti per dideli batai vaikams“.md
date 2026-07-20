@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“
 
 ## Santrauka

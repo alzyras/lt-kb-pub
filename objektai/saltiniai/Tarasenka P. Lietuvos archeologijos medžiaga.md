@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Tarasenka P. Lietuvos archeologijos medžiaga
 
 ## Santrauka

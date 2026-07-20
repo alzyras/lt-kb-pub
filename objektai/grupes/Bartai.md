@@ -930,7 +930,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-019
 
 ## Ryšiai
-- Bartai puolė Baiga, Senenzė
-- Bartai gyveno Barta, Bartenšteinas
+- Bartai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Senenzė]]
+- Bartai gyveno [[objektai/vietos/Barta]], [[objektai/vietos/Bartenšteinas]]
 - Bartai paskyrė [[objektai/asmenys/Divanas]]
 - Bartai priklausė [[objektai/grupes/Baltai]]

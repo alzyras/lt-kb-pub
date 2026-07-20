@@ -215,6 +215,20 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindžia:
     - c-177456
 
+<a id="claim-t-195068"></a>
+- t-010
+  teiginys: "Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante."
+  atnaujinta: "2026-07-20 14:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išvalytas įterptas puslapio ir kitos išnašos tekstas, palikta Baltijos jūrai aktuali prielaida. Vertinamoji kilmės interpretacija priskirta Narbutui."
+  susije_objektai: "mentioned_place: Baltija; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Palanga"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-177461
+
 <a id="claim-t-195069"></a>
 - t-001
   teiginys: "XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių."
@@ -1061,10 +1075,12 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   citata_rodoma: "Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­\nsėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl\naukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-\n30\nPatyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331\nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų.\n156\n\n## Puslapis 156\n\nužneštos pakrantės."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-179365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

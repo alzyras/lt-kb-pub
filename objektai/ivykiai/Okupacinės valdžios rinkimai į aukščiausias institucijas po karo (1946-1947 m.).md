@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)
 
 ## Santrauka

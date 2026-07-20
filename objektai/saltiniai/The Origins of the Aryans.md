@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # The Origins of the Aryans
 
 ## Santrauka

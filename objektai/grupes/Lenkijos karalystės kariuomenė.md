@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lenkijos karalystės kariuomenė
 
 ## Santrauka
@@ -92,3 +91,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Lenkijos karalystės kariuomenė užėmė [[objektai/vietos/Kaunas]]
+- Lenkijos karalystės kariuomenė siuntė į [[objektai/vietos/Lietuva]]

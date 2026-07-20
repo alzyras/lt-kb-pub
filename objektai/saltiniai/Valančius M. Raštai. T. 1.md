@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Valančius M. Raštai. T. 1
 
 ## Santrauka

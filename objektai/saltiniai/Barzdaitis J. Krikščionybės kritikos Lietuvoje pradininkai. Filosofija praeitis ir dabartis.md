@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Barzdaitis J. Krikščionybės kritikos Lietuvoje pradininkai. Filosofija praeitis ir dabartis
 
 ## Santrauka

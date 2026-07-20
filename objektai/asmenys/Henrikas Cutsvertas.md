@@ -558,4 +558,4 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jazbutas]]
 - Puolė Henrikas Cutsvertą: [[objektai/asmenys/Jazbutas]]
-- Henrikas Cutsvertas keliavo į Junigeda
+- Henrikas Cutsvertas keliavo į [[objektai/vietos/Junigeda]]

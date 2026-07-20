@@ -4803,7 +4803,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 <a id="claim-t-200174"></a>
 - t-195
   teiginys: "Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4823,7 +4823,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-183052
-    - c-183086
 
 <a id="claim-t-200178"></a>
 - t-225
@@ -5229,7 +5228,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 <a id="claim-t-200233"></a>
 - t-222
   teiginys: "Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko teiginį, bet reikia išplėsti veikėją ir sutvarkyti OCR."
   susije_objektai: "mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Husitai|Husitai]]"
@@ -5243,6 +5242,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-183072
+    - c-183141
     - c-183150
     - c-183228
     - c-183273
@@ -15651,7 +15651,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-325
-    - t-195
 
 - id: c-183087
   autorius: "Michał Baliński"
@@ -16713,6 +16712,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   pagrindzia:
     - t-264
     - t-142
+    - t-222
 
 - id: c-183144
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -19709,6 +19709,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vilhelmas fon Helfelšteinas]]
 - Prekiavo su: [[objektai/grupes/Rygos pirkliai]]
 - Gyvenamoji vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Aleksandras Vygantas]], [[objektai/asmenys/Jaunė (Jievna)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Parulis]], [[objektai/grupes/Šv. Bazilijaus ordinas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vilniaus gyventojai]]
-- Turėjo priklausinį: [[objektai/daiktai/Herbas]], Rotušės aikštė
-- Vilnius prekiavo su Gdanskas, Livonija, Maskva, Naugardas, Prūsija, Pskovas, Ryga, Silezija
-- Vilnius priklausė Lenkija
+- Turėjo priklausinį: [[objektai/daiktai/Herbas]], [[objektai/vietos/Rotušės aikštė]]
+- Vilnius prekiavo su [[objektai/vietos/Gdanskas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Maskva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ryga]], [[objektai/vietos/Silezija]]
+- Vilnius priklausė [[objektai/vietos/Lenkija]]

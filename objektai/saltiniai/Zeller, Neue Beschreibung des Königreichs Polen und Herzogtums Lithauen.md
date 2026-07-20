@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Zeller, Neue Beschreibung des Königreichs Polen und Herzogtums Lithauen
 
 ## Santrauka

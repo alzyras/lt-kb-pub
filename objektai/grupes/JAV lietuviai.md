@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # JAV lietuviai
 
 ## Santrauka
@@ -80,12 +79,11 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 <a id="claim-t-74139"></a>
 - t-004
   teiginys: "JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22419
-    - c-72190
     - c-72191
 
 <a id="claim-t-74140"></a>
@@ -249,7 +247,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-004
 
 - id: c-72191
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -274,3 +271,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-004
     - t-006
     - t-003
+
+## Ryšiai
+- JAV lietuviai rėmė [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]

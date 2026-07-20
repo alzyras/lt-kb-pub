@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio
 
 ## Santrauka

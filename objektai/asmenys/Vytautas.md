@@ -1673,7 +1673,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-176721"></a>
 - t-114
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3456,7 +3456,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-198366"></a>
 - t-039
   teiginys: "Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3481,7 +3481,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 <a id="claim-t-198368"></a>
 - t-040
   teiginys: "Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -6248,11 +6248,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     L I E T U V O S  I S T O R I J A
     162
     Vytauto Didžiojo kulto kūrimo momentas: 1930 m.
-  citata_rodoma: |
-    Gerbti ir garbinti
-    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
-    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
-    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
@@ -13219,22 +13214,22 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
 - Sudarė sutartį su: [[objektai/grupes/Žemaičiai]]
 - Paskyrė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Martynas V]]
 - Rėmė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Bonifacas IX]], [[objektai/asmenys/Martynas V]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Zigmantas I]]
-- Turėjo priklausinį: Luckas, Žemaitija
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Gardinas, Lietuva
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva, Luckas, Podolė
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis, Azovas, Černigovas, Drohičinas, Druckas, Kaunas, Kezmarkas, Kėzmarkas, Krėva, Krokuva, Lenkija, Lietuva, Panemunė, Smolenskas, Trakai, Vengrija, Vitebskas, Vorskla, Zna
-- Vytautas (Lietuvos valdovas, XIV–XV a.) mirė Trakai
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo palaidotas Vilnius
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė [[objektai/daiktai/Pilys]], Veliuona, Vilniaus katedra
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Pskovas, Riazanės kunigaikštystė, Vilnius
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė Trakai, Vilnius
-- Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Kijevas, Ovručas, Podolija, Seversko Naugardas, Smolenskas, Viazma, Vitebskas, Vladimiras, Žitomiras
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gynė Lietuva
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Čekija, Konstanca, Praga, Praha, Prūsija, Vilnius, Vroclavas
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Didysis Naugardas, Donas, Krymas, Maskva, Maskvos žemės, Medininkai, Naugardas, Pskovas
+- Turėjo priklausinį: [[objektai/vietos/Luckas]], [[objektai/vietos/Žemaitija]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas [[objektai/vietos/Gardinas]], [[objektai/vietos/Lietuva]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Podolė]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Azovas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kezmarkas]], [[objektai/vietos/Kėzmarkas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Panemunė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vorskla]], [[objektai/vietos/Zna]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) mirė [[objektai/vietos/Trakai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė [[objektai/daiktai/Pilys]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilniaus katedra]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) puolė [[objektai/vietos/Pskovas]], [[objektai/vietos/Riazanės kunigaikštystė]], [[objektai/vietos/Vilnius]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė [[objektai/vietos/Kijevas]], [[objektai/vietos/Ovručas]], [[objektai/vietos/Podolija]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Žitomiras]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gynė [[objektai/vietos/Lietuva]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Čekija]], [[objektai/vietos/Konstanca]], [[objektai/vietos/Praga]], [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Donas]], [[objektai/vietos/Krymas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Maskvos žemės]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Pskovas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su [[objektai/asmenys/Konradas Jungingenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Gardinas, Marienburgas
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Marienburgas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]], [[objektai/grupes/Domininkonų ordinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Machmetas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/St. Ciolką]], [[objektai/grupes/Žemaičiai]]

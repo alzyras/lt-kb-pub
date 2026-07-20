@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Deklaracija dėl politinio dialogo tarp ES ir Lietuvos
 
 ## Santrauka

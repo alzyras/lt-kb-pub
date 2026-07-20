@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Upių ir ežerų vardai yra seniausi tautų palikimo paminklai
 
 ## Santrauka

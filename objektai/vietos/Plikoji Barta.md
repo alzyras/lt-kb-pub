@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Plikoji Barta
 
 ## Santrauka
@@ -85,3 +84,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Plikoji Barta priklausė [[objektai/vietos/Barta]], [[objektai/vietos/Prūsija]]

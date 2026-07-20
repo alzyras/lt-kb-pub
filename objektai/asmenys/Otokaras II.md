@@ -223,6 +223,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Ryšiai
-- Otokaras II keliavo į Baiga
+- Otokaras II keliavo į [[objektai/vietos/Baiga]]
 - Otokaras II dalyvavo mūšyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]], [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

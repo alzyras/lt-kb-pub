@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # ponų tauta viešpataujanti tauta
 
 ## Santrauka

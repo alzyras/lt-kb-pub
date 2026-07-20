@@ -131,15 +131,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-00156
 
-<a id="claim-t-10689"></a>
-- t-039
-  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-160519
-
 <a id="claim-t-10692"></a>
 - t-040
   teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
@@ -1758,7 +1749,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
     - t-041
 
 - id: c-160520
@@ -2785,14 +2775,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - Broliai: [[objektai/asmenys/Narimantas Gediminaitis]]
 - Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Verneris fon Vindekenas]]
 - Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė Gardino žemė, Palenkė, Trakai
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva, Trakai, Vilnius
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė Naujasis Kaunas
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis, Vilniaus pilys, Vilnius
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė Jurbarkas
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė Vilnius
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Nadruva
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Krėva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė [[objektai/vietos/Krėva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Naujasis Kaunas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilys]], [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė [[objektai/vietos/Jurbarkas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Nadruva]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno Trakai
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]

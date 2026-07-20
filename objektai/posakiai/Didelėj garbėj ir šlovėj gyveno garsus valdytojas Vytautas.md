@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas
 
 ## Santrauka
@@ -35,11 +34,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 
 - kunigaikštis kilnios širdies ir garsios garbės
 - vyras, už kurį didesnio Lietuva neturėjo
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/formulė]]
 
 ## Teiginiai
 

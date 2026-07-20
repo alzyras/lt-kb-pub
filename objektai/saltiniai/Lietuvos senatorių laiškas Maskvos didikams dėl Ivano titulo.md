@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos senatorių laiškas Maskvos didikams dėl Ivano titulo
 
 ## Santrauka

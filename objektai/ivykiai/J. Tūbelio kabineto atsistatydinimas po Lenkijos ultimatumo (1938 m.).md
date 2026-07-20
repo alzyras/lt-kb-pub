@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)
 
 ## Santrauka

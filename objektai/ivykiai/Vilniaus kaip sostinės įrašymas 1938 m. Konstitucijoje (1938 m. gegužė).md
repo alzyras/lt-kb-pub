@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus kaip sostinės įrašymas 1938 m. Konstitucijoje (1938 m. gegužė)
 
 ## Santrauka

@@ -102,4 +102,4 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     - t-002
 
 ## Ryšiai
-- Heinemanas (Marienburgo brolis) gyveno Marienburgas
+- Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)
 
 ## Santrauka

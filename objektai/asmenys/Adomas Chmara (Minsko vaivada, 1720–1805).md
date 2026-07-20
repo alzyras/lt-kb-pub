@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Adomas Chmara (Minsko vaivada, 1720–1805)
 
 ## Santrauka

@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)
 
 ## Santrauka

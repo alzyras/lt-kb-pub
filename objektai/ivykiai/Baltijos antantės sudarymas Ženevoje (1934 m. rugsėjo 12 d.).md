@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)
 
 ## Santrauka

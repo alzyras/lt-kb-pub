@@ -104,4 +104,4 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - t-001
 
 ## Ryšiai
-- Folradas puolė Aukaimis
+- Folradas puolė [[objektai/vietos/Aukaimis]]

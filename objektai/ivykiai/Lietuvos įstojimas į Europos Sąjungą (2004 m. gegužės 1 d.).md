@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)
 
 ## Santrauka

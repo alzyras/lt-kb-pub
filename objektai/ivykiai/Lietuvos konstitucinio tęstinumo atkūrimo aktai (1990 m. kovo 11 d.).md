@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)
 
 ## Santrauka

@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Simono Grunau kronika
 
 ## Santrauka
@@ -99,7 +98,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 <a id="claim-t-193060"></a>
 - t-008
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Prūsija: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,7 +114,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
   pagrindžia:
     - c-175827
-    - c-177077
 
 <a id="claim-t-193061"></a>
 - t-002
@@ -281,7 +279,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-008
 
 - id: c-179009
   autorius: "Petras Dusburgietis"

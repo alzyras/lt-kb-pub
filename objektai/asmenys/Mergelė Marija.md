@@ -101,7 +101,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59892"></a>
 - t-006
   teiginys: "Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -113,6 +113,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60522
+    - c-60525
 
 <a id="claim-t-59893"></a>
 - t-003
@@ -376,6 +377,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindzia:
     - t-005
     - t-002
+    - t-006
 
 - id: c-167498
   autorius: "Petras Dusburgietis"

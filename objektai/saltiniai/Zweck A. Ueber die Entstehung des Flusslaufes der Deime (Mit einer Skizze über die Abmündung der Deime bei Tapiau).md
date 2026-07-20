@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die Abmündung der Deime bei Tapiau)
 
 ## Santrauka

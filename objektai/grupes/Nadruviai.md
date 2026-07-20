@@ -512,5 +512,5 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-007
 
 ## Ryšiai
-- Nadruviai puolė Bysleida, Semba
-- Nadruviai apgulė Bysleida
+- Nadruviai puolė [[objektai/vietos/Bysleida]], [[objektai/vietos/Semba]]
+- Nadruviai apgulė [[objektai/vietos/Bysleida]]

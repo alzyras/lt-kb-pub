@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Klemenso IV bulė apie Mindaugą (1268 m.)
 
 ## Santrauka

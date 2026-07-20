@@ -308,5 +308,5 @@ media_all_json: |-
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo valdovas Naugardukas
+- Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

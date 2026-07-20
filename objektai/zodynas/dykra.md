@@ -60,20 +60,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 
 - šaltinyje vartojama ir vienaskaita, ir daugiskaita, bet reikšmė aiškiai susieta su neapgyventa pasienio erdve.
 
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-- [[temos/karinis-terminas]]
-
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
-- [[objektai/zodynas/lietuvininkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-
 ## Teiginiai
 
 <a id="claim-t-05593"></a>

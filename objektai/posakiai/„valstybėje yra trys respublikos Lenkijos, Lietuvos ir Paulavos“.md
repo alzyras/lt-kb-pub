@@ -21,17 +21,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „valstybėje yra trys respublikos Lenkijos, Lietuvos ir Paulavos“
 
 ## Santrauka
 
 Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus.
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/frazė]]
 
 ## Citatos
 

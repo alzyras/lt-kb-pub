@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук
 
 ## Santrauka

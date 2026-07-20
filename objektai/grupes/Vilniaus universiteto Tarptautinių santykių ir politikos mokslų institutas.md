@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas
 
 ## Santrauka

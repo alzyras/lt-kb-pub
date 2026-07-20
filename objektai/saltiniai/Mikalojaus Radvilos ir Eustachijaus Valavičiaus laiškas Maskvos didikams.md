@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams
 
 ## Santrauka

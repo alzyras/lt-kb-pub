@@ -426,13 +426,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-179238"></a>
 - t-110
   teiginys: "Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-162917
     - c-162959
     - c-162981
+    - c-163044
     - c-176229
 
 <a id="claim-t-179239"></a>
@@ -1094,13 +1095,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-179292"></a>
 - t-011
   teiginys: "XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 988 m; įvykio data: 1044 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pataisyta kalba ir sutrumpintas teiginys, išlaikant citatos sąlygą."
   pagrindžia:
+    - c-31192
     - c-163015
 
 <a id="claim-t-179293"></a>
@@ -2147,21 +2149,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-188253"></a>
 - t-005
   teiginys: "Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Tikybinis sugedimas kyla iš pačių religijos sargų: 0.85"
+  ryšio_patikimumas: "susije_su -> Gaižuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Lietuviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Tikybinis sugedimas kyla iš pačių religijos sargų: mention_match, thing, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Tikybinis sugedimas kyla iš pačių religijos sargų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Gaižuva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviai\" parinktas kaip owner_note_path. Targetas \"Gaižuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171147
     - c-179056
 
 <a id="claim-t-188255"></a>
@@ -2433,7 +2434,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-188275"></a>
 - t-160
   teiginys: "Narbutas teigė, kad lietuvių mitologinėse dainose ir stebuklinėse pasakose žvėrys bei paukščiai gyvena savitą gyvenimą."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2448,6 +2449,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171153
+    - c-173481
     - c-173487
     - c-179066
 
@@ -2708,13 +2710,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 <a id="claim-t-190579"></a>
 - t-082
   teiginys: "Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
+    - c-171152
     - c-173465
 
 <a id="claim-t-190580"></a>
@@ -9813,6 +9816,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-011
     - t-014
 
 - id: c-34225
@@ -12045,6 +12049,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-110
     - t-024
 
 - id: c-163045
@@ -12609,7 +12614,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-184
     - t-204
     - t-245
@@ -12700,6 +12704,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-030
+    - t-082
     - t-182
 
 - id: c-171153
@@ -13683,6 +13688,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-160
     - t-192
 
 - id: c-173482
@@ -15052,19 +15058,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - Puolė Lietuviai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Leontijus Bennigsenas]], [[objektai/asmenys/Liudvikas iš Libencelės]], [[objektai/asmenys/Markvardas iš Revelingės]], [[objektai/grupes/Totoriai]]
 - Kariavo prieš: [[objektai/grupes/Anglų riteriai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/grupes/Vokiečiai]]
 - Rėmė Lietuviai: [[objektai/grupes/Draugija užsienio lietuviams remti]], [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]], [[objektai/asmenys/Šach Achmedas]]
-- Turėjo priklausinį: Poleksija, [[objektai/grupes/Žemaičiai]]
-- Lietuviai valdė Žemaitija
-- Lietuviai keliavo į Argentina, Australija, Baltija, Brazilija, Kanada, Urugvajus, Venesuela
-- Lietuviai pastatė Junigeda
-- Lietuviai puolė Dorpatas, Dorpato vyskupija, Duobelės pilis (pilis), Gilgenburgas, Klaipėda, Krokuva, [[objektai/grupes/Kryžiuočių ordinas]], Kujavija, Liublinas, Livonija, Lubava, [[objektai/asmenys/Michailas Jaroslavičius]], Piltenė, Pskovas, Ragainė, Revelio žemė, Revelis, Salacgryva, Sambija, Sandomierius, Sandomiras, Semba, Straisbergas, Tverės sritis, Vilnius, [[objektai/grupes/Vokiečiai]]
-- Lietuviai apgulė Lunenburgas, Vėluva
-- Lietuviai užėmė Gilgenburgas, Padauguvio Sėla, Semba, Vyžuonos
-- Lietuviai gynė Pilėnai, Smolenskas
-- Lietuviai surengė žygį į Kijevo Rusia, Kulmas, Livonija, Lubava, Prūsų žemė, Pskovas, Revelis
+- Turėjo priklausinį: [[objektai/vietos/Poleksija]], [[objektai/grupes/Žemaičiai]]
+- Lietuviai valdė [[objektai/vietos/Žemaitija]]
+- Lietuviai keliavo į [[objektai/vietos/Argentina]], [[objektai/vietos/Australija]], [[objektai/vietos/Baltija]], [[objektai/vietos/Brazilija]], [[objektai/vietos/Kanada]], [[objektai/vietos/Urugvajus]], [[objektai/vietos/Venesuela]]
+- Lietuviai pastatė [[objektai/vietos/Junigeda]]
+- Lietuviai puolė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Dorpato vyskupija]], [[objektai/vietos/Duobelės pilis|Duobelės pilis (pilis)]], [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Krokuva]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Lubava]], [[objektai/asmenys/Michailas Jaroslavičius]], [[objektai/vietos/Piltenė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Revelio žemė]], [[objektai/vietos/Revelis]], [[objektai/vietos/Salacgryva]], [[objektai/vietos/Sambija]], [[objektai/vietos/Sandomierius]], [[objektai/vietos/Sandomiras]], [[objektai/vietos/Semba]], [[objektai/vietos/Straisbergas]], [[objektai/vietos/Tverės sritis]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečiai]]
+- Lietuviai apgulė [[objektai/vietos/Lunenburgas]], [[objektai/vietos/Vėluva]]
+- Lietuviai užėmė [[objektai/vietos/Gilgenburgas]], [[objektai/vietos/Padauguvio Sėla]], [[objektai/vietos/Semba]], [[objektai/vietos/Vyžuonos]]
+- Lietuviai gynė [[objektai/vietos/Pilėnai]], [[objektai/vietos/Smolenskas]]
+- Lietuviai surengė žygį į [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Lubava]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Revelis]]
 - Lietuviai kariavo prieš [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vokiečiai]]
 - Lietuviai dalyvavo mūšyje [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]], [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]], [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]], [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - Lietuviai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
-- Lietuviai prekiavo su [[objektai/grupes/Normanai]], Prūsija
-- Lietuviai gyveno Anglija, Daugpilis, Nemunas, Niujorkas, Palanga, Pensilvanija, Vilniaus kraštas
+- Lietuviai prekiavo su [[objektai/grupes/Normanai]], [[objektai/vietos/Prūsija]]
+- Lietuviai gyveno [[objektai/vietos/Anglija]], [[objektai/vietos/Daugpilis]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Niujorkas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Pensilvanija]], [[objektai/vietos/Vilniaus kraštas]]
 - Lietuviai priklausė [[objektai/grupes/Baltai]]
 - Lietuviai rėmė [[objektai/grupes/Žiemgaliai]]

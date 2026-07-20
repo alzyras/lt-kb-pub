@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvių aktyvistų frontas
 
 ## Santrauka
@@ -69,11 +68,6 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-
-### Laikotarpiai
-- XX amžius
 
 ## Teiginiai
 

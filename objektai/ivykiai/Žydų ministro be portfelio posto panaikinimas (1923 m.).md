@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Žydų ministro be portfelio posto panaikinimas (1923 m.)
 
 ## Santrauka

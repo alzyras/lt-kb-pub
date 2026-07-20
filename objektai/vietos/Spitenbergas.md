@@ -129,3 +129,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     - t-001
     - t-002
     - t-004
+
+## Ryšiai
+- Spitenbergas priklausė [[objektai/vietos/Pamedė]]

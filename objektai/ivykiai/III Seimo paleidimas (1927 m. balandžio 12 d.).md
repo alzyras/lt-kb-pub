@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # III Seimo paleidimas (1927 m. balandžio 12 d.)
 
 ## Santrauka

@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Bajorų dalyvavimas svarbiausių aktų sudaryme
 
 ## Santrauka
@@ -109,11 +108,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pirminio teiginio citata nepalaiko, bet joje yra tinkamas faktas apie Lietuvos bajorų aktą."
   pagrindžia:
     - c-05408
-
-## Ryšiai
-
-### Teminiai klasteriai
-- valdovas
 
 ## Citatos
 

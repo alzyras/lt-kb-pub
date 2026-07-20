@@ -3769,5 +3769,5 @@ media_all_json: |-
 - Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/grupes/Vokiečių ordinas]]
 - Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Puolė Žemaitiją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
-- Turėjo priklausinį: Pagraudė, Semba, Skalva, Vaikiai
-- Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas]], Lietuva, [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Turėjo priklausinį: [[objektai/vietos/Pagraudė]], [[objektai/vietos/Semba]], [[objektai/vietos/Skalva]], [[objektai/vietos/Vaikiai]]
+- Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

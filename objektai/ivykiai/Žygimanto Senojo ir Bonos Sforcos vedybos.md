@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Žygimanto Senojo ir Bonos Sforcos vedybos
 
 ## Santrauka

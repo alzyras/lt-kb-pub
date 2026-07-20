@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Deltuva
 
 ## Santrauka
@@ -138,3 +137,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+## Ryšiai
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]

@@ -35,17 +35,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Aldona Gediminaitė
 
 ## Santrauka
 
 Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ištekėjusi už Kazimiero ir vėliau vadinta Lenkijos karaliene.
-
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras Didysis]]
 
 ## Teiginiai
 
@@ -370,3 +364,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindzia:
     - t-003
     - t-013
+
+## Ryšiai
+- Sutuoktiniai: [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]], [[objektai/asmenys/Kazimieras Didysis]]
+- Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

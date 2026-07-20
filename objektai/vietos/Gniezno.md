@@ -168,5 +168,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Ryšiai
-- Turėjo priklausinį: Vilniaus vyskupija
+- Turėjo priklausinį: [[objektai/vietos/Vilniaus vyskupija]]

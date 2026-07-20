@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „Lenkijos reikalų“ „lenkų klausimą“
 
 ## Santrauka

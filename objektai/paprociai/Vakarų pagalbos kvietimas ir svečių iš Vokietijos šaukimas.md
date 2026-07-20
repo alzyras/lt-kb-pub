@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas
 
 ## Santrauka
@@ -107,11 +106,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00238
-
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
 
 ## Citatos
 

@@ -79,11 +79,6 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Romuntas]]
-- Tėvai: [[objektai/asmenys/Germantas]]
-- Broliai: [[objektai/asmenys/Trobius]]
-
 ## Teiginiai
 
 - susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
@@ -99,3 +94,8 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185647|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.
 - susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 - susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
+
+## Ryšiai
+- Sūnūs: [[objektai/asmenys/Romuntas]]
+- Tėvai: [[objektai/asmenys/Germantas]]
+- Broliai: [[objektai/asmenys/Trobius]]

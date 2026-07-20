@@ -31,7 +31,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Francua Žozefas Noelis
 
 ## Santrauka

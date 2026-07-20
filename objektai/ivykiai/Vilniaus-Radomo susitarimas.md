@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus-Radomo susitarimas
 
 ## Santrauka
@@ -74,11 +73,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas pasikartojimas ir archajiška forma, išlaikant citatos faktus."
   pagrindžia:
     - c-67051
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/dokumentas]]
 
 ## Citatos
 

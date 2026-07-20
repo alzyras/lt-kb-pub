@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „jogailaičių Europa“ „krikščionybės forpostas“
 
 ## Santrauka

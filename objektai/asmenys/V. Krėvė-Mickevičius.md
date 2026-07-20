@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # V. Krėvė-Mickevičius
 
 ## Santrauka

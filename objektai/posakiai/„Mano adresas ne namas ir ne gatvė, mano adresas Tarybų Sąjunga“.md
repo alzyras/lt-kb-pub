@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)
 
 ## Santrauka

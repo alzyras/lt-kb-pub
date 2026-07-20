@@ -1488,4 +1488,4 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mirties vieta: [[objektai/asmenys/Ignotas Masalskis]], [[objektai/asmenys/Jokūbas Jasinskis]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Motiejus Kaviečnijskis]]
-- Turėjo priklausinį: Praga
+- Turėjo priklausinį: [[objektai/vietos/Praga]]

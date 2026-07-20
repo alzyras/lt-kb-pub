@@ -750,7 +750,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
     - t-020
 
 ## Ryšiai
-- Kuršiai surengė žygį į Švedija
+- Kuršiai surengė žygį į [[objektai/vietos/Švedija]]
 - Kuršiai kariavo prieš [[objektai/grupes/Skandinavai]]
-- Kuršiai gyveno Žemgala
+- Kuršiai gyveno [[objektai/vietos/Žemgala]]
 - Kuršiai priklausė [[objektai/grupes/Švedai]]

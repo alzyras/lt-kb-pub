@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)
 
 ## Santrauka

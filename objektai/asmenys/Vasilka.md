@@ -251,5 +251,5 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
     - t-004
 
 ## Ryšiai
-- Vasilka siuntė į Haličas
+- Vasilka siuntė į [[objektai/vietos/Haličas]]
 - Vasilka kariavo prieš [[objektai/grupes/Jotvingiai]]

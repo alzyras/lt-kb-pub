@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos rusinai
 
 ## Santrauka
@@ -272,3 +271,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+## Ryšiai
+- Lietuvos rusinai gyveno [[objektai/vietos/Lietuva]]

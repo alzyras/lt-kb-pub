@@ -109,11 +109,6 @@ Nenurodyta
   pagrindžia:
     - c-91584
 
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas]]
-
 ## Citatos
 
 - id: c-04995

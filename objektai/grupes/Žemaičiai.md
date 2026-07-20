@@ -727,7 +727,7 @@ media_all_json: |-
 <a id="claim-t-187756"></a>
 - t-057
   teiginys: "Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -924,7 +924,7 @@ media_all_json: |-
 <a id="claim-t-199157"></a>
 - t-063
   teiginys: "Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -959,7 +959,7 @@ media_all_json: |-
 <a id="claim-t-199162"></a>
 - t-005
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1026,7 +1026,7 @@ media_all_json: |-
 <a id="claim-t-199168"></a>
 - t-008
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1106,7 +1106,7 @@ media_all_json: |-
 <a id="claim-t-199177"></a>
 - t-010
   teiginys: "Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1202,13 +1202,15 @@ media_all_json: |-
 <a id="claim-t-199190"></a>
 - t-015
   teiginys: "Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14999
+    - c-181568
+    - c-181585
 
 <a id="claim-t-199194"></a>
 - t-016
@@ -1268,7 +1270,7 @@ media_all_json: |-
 <a id="claim-t-199200"></a>
 - t-062
   teiginys: "Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3468,6 +3470,7 @@ media_all_json: |-
   pagrindzia:
     - t-012
     - t-030
+    - t-015
 
 - id: c-181569
   autorius: "Anoniminis metraštininkas"
@@ -3823,6 +3826,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-022
+    - t-015
 
 - id: c-181586
   autorius: "Michał Baliński"
@@ -4732,10 +4736,10 @@ media_all_json: |-
 
 ## Ryšiai
 - Rėmė Žemaičiai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Žemaičiai puolė Klaipėda, Klaipėda Memelis, [[objektai/grupes/Kryžiuočių ordinas]], Kuršas, Memelis, Semba, Skirsnemunė
-- Žemaičiai užėmė Klaipėda Memelis
-- Žemaičiai gynė Medvėgalis, [[objektai/grupes/Pagudėnai]]
+- Žemaičiai puolė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėda Memelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Memelis]], [[objektai/vietos/Semba]], [[objektai/vietos/Skirsnemunė]]
+- Žemaičiai užėmė [[objektai/vietos/Klaipėda Memelis]]
+- Žemaičiai gynė [[objektai/vietos/Medvėgalis]], [[objektai/grupes/Pagudėnai]]
 - Žemaičiai dalyvavo mūšyje [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
 - Žemaičiai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Žemaičiai priklausė Lietuva, [[objektai/grupes/Lietuviai]]
+- Žemaičiai priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]]
 - Žemaičiai rėmė [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

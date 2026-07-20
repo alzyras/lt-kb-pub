@@ -31,7 +31,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Partizanų bunkeriai
 
 ## Santrauka
@@ -72,7 +71,7 @@ Nenurodyta
 <a id="claim-t-13459"></a>
 - t-005
   teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-20 14:16"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -110,15 +109,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
-
-### Laikotarpiai
-- XX amžius
-- XX amžius pr. Kr.
 
 ## Citatos
 

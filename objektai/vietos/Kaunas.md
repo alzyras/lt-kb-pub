@@ -5124,5 +5124,5 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - Apgulė Kauną: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Kauną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Vokiečiai]]
 - Gynė Kauną: [[objektai/grupes/Lenkai]]
-- Turėjo priklausinį: Karo muziejaus sodelis, [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]], [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]], [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- Turėjo priklausinį: [[objektai/vietos/Karo muziejaus sodelis]], [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]], [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]], [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - Kaunas priklausė [[objektai/grupes/Hanza]]

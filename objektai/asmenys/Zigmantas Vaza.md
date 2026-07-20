@@ -357,4 +357,4 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-016
 
 ## Ryšiai
-- Zigmantas Vaza keliavo į Švedija
+- Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]

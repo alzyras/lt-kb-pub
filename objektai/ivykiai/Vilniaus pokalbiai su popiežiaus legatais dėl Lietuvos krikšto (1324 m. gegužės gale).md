@@ -31,7 +31,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)
 
 ## Santrauka
@@ -147,11 +146,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir padarytas sklandesnis, išlaikant citatos faktus."
   pagrindžia:
     - c-04998
-
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas]]
 
 ## Citatos
 

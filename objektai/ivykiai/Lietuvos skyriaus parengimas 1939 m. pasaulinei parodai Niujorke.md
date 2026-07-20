@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke
 
 ## Santrauka

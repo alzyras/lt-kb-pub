@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje
 
 ## Santrauka

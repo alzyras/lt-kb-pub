@@ -555,3 +555,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-076
+
+## Ryšiai
+- Užėmė Latviją: [[objektai/grupes/Sovietų Sąjunga]]
+- Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]

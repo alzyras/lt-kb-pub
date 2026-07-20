@@ -30,7 +30,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
 
 ## Santrauka
@@ -52,12 +51,6 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - Leidinio paskirtis siejama su Lietuvos istorinio kelio atskleidimu nuo Lietuvos vardo paminėjimo 1009 m. iki Lietuvos virsmo visateise Europos Sąjungos nare 2004 m.
 - Redaktoriaus žodyje skyrių autorystė paskirstoma keturiems istorikams: Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui.
 - Knygos pabaigos anotacijoje leidinys apibūdinamas kaip glausta Lietuvos istorijos apžvalga ir kaip bandymas nuo 1990 m. aprėpti valstybės istoriją nuo senovės iki 2004 m.
-
-## Ryšiai
-
-- Autoriai: [[Alfonsas Eidintas]], [[Alfredas Bumblauskas]], [[Antanas Kulakauskas]], [[Mindaugas Tamošaitis]].
-- Leidėjas: Vilniaus universiteto leidykla.
-- Užsakovas: Lietuvos Respublikos užsienio reikalų ministerija.
 
 ## Teiginiai
 

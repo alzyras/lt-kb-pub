@@ -4448,7 +4448,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 ## Ryšiai
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Rėmė Prūsai: [[objektai/asmenys/Utenis]]
-- Prūsai valdė Kulmas
+- Prūsai valdė [[objektai/vietos/Kulmas]]
 - Prūsai puolė [[objektai/asmenys/Adalbertas]]
 - Prūsai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]]
 - Prūsai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Kryžiuočių ordinas]]

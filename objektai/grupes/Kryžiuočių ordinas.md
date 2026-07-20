@@ -401,7 +401,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178822"></a>
 - t-158
   teiginys: "Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -489,7 +489,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178831"></a>
 - t-046
   teiginys: "Trečioji Ordino kariuomenės eilė stovėjo atokiau nuo mūšio lauko ir buvo laikoma atsargai."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -500,13 +500,15 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-36833
     - c-162619
+    - c-180935
     - c-180947
 
 <a id="claim-t-178832"></a>
 - t-147
   teiginys: "Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.77"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -527,7 +529,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178833"></a>
 - t-200
   teiginys: "1249 m. prūsai, sulaužę taikos sutartį, nužudė 54 Kryžiuočių ordino brolius ir kitus su jais buvusius žmones."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baiga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -583,7 +585,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178838"></a>
 - t-368
   teiginys: "Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -685,7 +687,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178849"></a>
 - t-140
   teiginys: "1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vaikiai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -761,7 +763,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178855"></a>
 - t-145
   teiginys: "Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -836,7 +838,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178861"></a>
 - t-294
   teiginys: "Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1053,7 +1055,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178878"></a>
 - t-206
   teiginys: "Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1112,7 +1114,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178883"></a>
 - t-144
   teiginys: "Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1403,7 +1405,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178907"></a>
 - t-357
   teiginys: "Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pilys: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1438,7 +1440,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178913"></a>
 - t-332
   teiginys: "Kryžiuočiai kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip atpildą už jo laimėjimus."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1819,7 +1821,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178957"></a>
 - t-124
   teiginys: "Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Prūsai: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -1890,7 +1892,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178967"></a>
 - t-123
   teiginys: "Ignas Onacevičius, nuvykęs į Karaliaučių rinkti dokumentų iš slaptojo Kryžiuočių ordino archyvo, parašė laišką M. Balinskiui."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -1948,7 +1950,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178972"></a>
 - t-035
   teiginys: "Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2024,7 +2026,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178979"></a>
 - t-056
   teiginys: "Vokiečių ordinas darė didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbiausi keliai į Vakarų Europą ir Dancigą."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dancigas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2082,7 +2084,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178982"></a>
 - t-184
   teiginys: "Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Marija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2140,7 +2142,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178986"></a>
 - t-333
   teiginys: "Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karūna: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2180,7 +2182,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178988"></a>
 - t-354
   teiginys: "Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2199,7 +2201,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-178991"></a>
 - t-149
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai, vyskupams ir kapitulai tai, ką buvo paėmę."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ryga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2364,7 +2366,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179004"></a>
 - t-040
   teiginys: "Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2476,7 +2478,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179014"></a>
 - t-304
   teiginys: "Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2564,7 +2566,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179020"></a>
 - t-132
   teiginys: "Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2785,7 +2787,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179044"></a>
 - t-007
   teiginys: "XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzkariavo -> Prūsai: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2797,10 +2799,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsai (0.87)"
   pagrindžia:
-    - c-13400
     - c-162660
     - c-180675
-    - c-180680
 
 <a id="claim-t-179045"></a>
 - t-340
@@ -2822,7 +2822,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179048"></a>
 - t-301
   teiginys: "Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "aukstas"
@@ -2913,7 +2913,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179063"></a>
 - t-126
   teiginys: "Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3027,7 +3027,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179072"></a>
 - t-008
   teiginys: "1409 m. Kryžiuočių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3182,7 +3182,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179091"></a>
 - t-159
   teiginys: "Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3386,7 +3386,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179117"></a>
 - t-358
   teiginys: "Prūsų Ordinas savinosi kovotojo su netikinčiaisiais garbę, kuri, remiant Vytauto planus, turėjo atitekti Vytautui."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kipčakas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3459,7 +3459,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-179122"></a>
 - t-188
   teiginys: "Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baiga: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -3968,7 +3968,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188210"></a>
 - t-278
   teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -3990,7 +3990,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188211"></a>
 - t-279
   teiginys: "1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4015,7 +4015,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188213"></a>
 - t-280
   teiginys: "Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4033,7 +4033,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188214"></a>
 - t-281
   teiginys: "Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4055,7 +4055,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188215"></a>
 - t-282
   teiginys: "Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4085,7 +4085,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188216"></a>
 - t-283
   teiginys: "Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4101,7 +4101,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188217"></a>
 - t-016
   teiginys: "Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4122,7 +4122,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-188218"></a>
 - t-017
   teiginys: "Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4146,7 +4146,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-190568"></a>
 - t-018
   teiginys: "Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4167,7 +4167,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-190569"></a>
 - t-019
   teiginys: "Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4256,7 +4256,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-193097"></a>
 - t-442
   teiginys: "Popiežiui stojus už Gediminą ir už Lietuvą, imperatorius tyčia palaikė ordiną."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4371,7 +4371,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-194173"></a>
 - t-451
   teiginys: "Viename jų, skirtame popiežiui ir kardinolams, Gediminas prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist ro smurtas ir nesuskaičiuojamos išdavystės greit privertusios nuo jo atsimesti."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4400,7 +4400,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-194570"></a>
 - t-453
   teiginys: "Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo Jono I prašomas, įsakė jį nukirsti."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4595,7 +4595,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-196900"></a>
 - t-470
   teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4637,7 +4637,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-196903"></a>
 - t-473
   teiginys: "Šventoji mergelė jam atsakė: „Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti“."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4692,7 +4692,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-197186"></a>
 - t-477
   teiginys: "Patys kryžiuočiai tą vietą visuomet palikdavo neliestą: viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug nies, degančios kiekvieną naktį, naudingumo jūrininkams."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -4705,7 +4705,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 <a id="claim-t-197187"></a>
 - t-478
   teiginys: "Tasai senelis ir toliau nematė būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už kietėjusių savo savasties gynėjų - žynių ir liaudies, pabėgo pas kryžiuočius."
-  atnaujinta: "2026-07-19 23:56"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -8561,7 +8561,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-446
 
 - id: c-13402
@@ -8760,6 +8759,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-046
     - t-041
 
 - id: c-36835
@@ -15170,7 +15170,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-446
 
 - id: c-180682
@@ -20717,6 +20716,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-046
     - t-041
 
 - id: c-180936
@@ -21147,17 +21147,17 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
 - Kariavo prieš: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Herkus Mantas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Pipinas]], [[objektai/grupes/Prūsai]], [[objektai/asmenys/Sudargas]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Vladislovas Lokietka]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]], [[objektai/grupes/Žemaičiai]]
 - Rėmė Kryžiuočių ordiną: [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Jordanas iš Pelplino]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Paulius iš Olivos]], [[objektai/asmenys/Pršemyslas Otokaras II]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Turėjo priklausinį: Drezdenka, [[objektai/grupes/Kalavijuočių ordinas]], Klaipėda, Kulmas, Kulmija, [[objektai/daiktai/Laivai]], [[objektai/grupes/Livonijos ordinas]], Lubava, [[objektai/grupes/Prūsai]], Santoko pilis Dobrine, Sūduva, Žemaičių kraštas (kraštas), Žemaitija
-- Kryžiuočių ordinas valdė Pamedė, Sūduva, Vancka
-- Kryžiuočių ordinas keliavo į Livonija, Papartėnai, Prūsija, Ukmergės apylinkė
-- Kryžiuočių ordinas pastatė Bajerburgas, Dobė, Elbingas, Fridburgas, Georgenburgas, Gotesverderis, Kristburgas, Kroicburgas, Malburgas, Marienverderis, Marijenburgas, Metenburgas, Rezlis, Torunė, Ventės ragas, Vizenburgas
-- Kryžiuočių ordinas puolė Aukaimis, Bisenė, Christmemelio pilis (pilis), Dobrynė, Dubingiai, [[objektai/grupes/Galindai]], Gardinas, Karšuva, Kaunas, Kauno pilis (pilis), Kimelis, [[objektai/grupes/Lenkai]], Lietuva, [[objektai/grupes/Lietuviai]], Medininkai, Medininkų žemė, Polesė, [[objektai/asmenys/Skirgaila]], Šešuoliai, Veliuona, Vilnius, Žemaitija
-- Kryžiuočių ordinas apgulė Bisenė, Kaunas, Kauno pilis (pilis), Trakai, Veliuona, Vilnius, Višogrudas
-- Kryžiuočių ordinas užėmė Baiga, Barta, Dobrynė, Jurbarkas, Kaunas, Kauno pilis (pilis), Kernavė, Maišiagala, Naujasis Kaunas, Pamaris, Pomeranija, Prūsija
-- Kryžiuočių ordinas gynė Drevenca, [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Kryžiuočių ordinas siuntė į Lenkija
-- Kryžiuočių ordinas surengė žygį į Lietuva, Vaikiai, Vilnius
+- Turėjo priklausinį: [[objektai/vietos/Drezdenka]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmija]], [[objektai/daiktai/Laivai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/vietos/Lubava]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Santoko pilis Dobrine]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Žemaičių kraštas|Žemaičių kraštas (kraštas)]], [[objektai/vietos/Žemaitija]]
+- Kryžiuočių ordinas valdė [[objektai/vietos/Pamedė]], [[objektai/vietos/Sūduva]], [[objektai/vietos/Vancka]]
+- Kryžiuočių ordinas keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Papartėnai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Ukmergės apylinkė]]
+- Kryžiuočių ordinas pastatė [[objektai/vietos/Bajerburgas]], [[objektai/vietos/Dobė]], [[objektai/vietos/Elbingas]], [[objektai/vietos/Fridburgas]], [[objektai/vietos/Georgenburgas]], [[objektai/vietos/Gotesverderis]], [[objektai/vietos/Kristburgas]], [[objektai/vietos/Kroicburgas]], [[objektai/vietos/Malburgas]], [[objektai/vietos/Marienverderis]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Metenburgas]], [[objektai/vietos/Rezlis]], [[objektai/vietos/Torunė]], [[objektai/vietos/Ventės ragas]], [[objektai/vietos/Vizenburgas]]
+- Kryžiuočių ordinas puolė [[objektai/vietos/Aukaimis]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Christmemelio pilis|Christmemelio pilis (pilis)]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Dubingiai]], [[objektai/grupes/Galindai]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Karšuva]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kimelis]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Medininkų žemė]], [[objektai/vietos/Polesė]], [[objektai/asmenys/Skirgaila]], [[objektai/vietos/Šešuoliai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Žemaitija]]
+- Kryžiuočių ordinas apgulė [[objektai/vietos/Bisenė]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Višogrudas]]
+- Kryžiuočių ordinas užėmė [[objektai/vietos/Baiga]], [[objektai/vietos/Barta]], [[objektai/vietos/Dobrynė]], [[objektai/vietos/Jurbarkas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kernavė]], [[objektai/vietos/Maišiagala]], [[objektai/vietos/Naujasis Kaunas]], [[objektai/vietos/Pamaris]], [[objektai/vietos/Pomeranija]], [[objektai/vietos/Prūsija]]
+- Kryžiuočių ordinas gynė [[objektai/vietos/Drevenca]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas siuntė į [[objektai/vietos/Lenkija]]
+- Kryžiuočių ordinas surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vaikiai]], [[objektai/vietos/Vilnius]]
 - Kryžiuočių ordinas kariavo prieš [[objektai/grupes/Krivičiai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]
 - Kryžiuočių ordinas dalyvavo mūšyje [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]], [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]], [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - Kryžiuočių ordinas sudarė sutartį su [[objektai/grupes/Mazovijos kunigaikščiai]]
-- Kryžiuočių ordinas užkariavo [[objektai/grupes/Prūsai]], Prūsija
+- Kryžiuočių ordinas užkariavo [[objektai/grupes/Prūsai]], [[objektai/vietos/Prūsija]]

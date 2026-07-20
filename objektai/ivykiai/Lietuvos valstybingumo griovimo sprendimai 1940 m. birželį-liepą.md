@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą
 
 ## Santrauka

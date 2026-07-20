@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Motiejaus Kazimiero Sarbievijaus poezijos vertimas į anglų kalbą (1646 m.)
 
 ## Santrauka

@@ -818,5 +818,5 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Sąjungininkai: [[objektai/grupes/Rygos vokiečiai]]
-- Tautvilas mirė Vilnius
-- Tautvilas gyveno Polockas
+- Tautvilas mirė [[objektai/vietos/Vilnius]]
+- Tautvilas gyveno [[objektai/vietos/Polockas]]

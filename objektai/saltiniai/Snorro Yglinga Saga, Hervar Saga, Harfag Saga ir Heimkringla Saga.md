@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Snorro Yglinga Saga, Hervar Saga, Harfag Saga ir Heimkringla Saga
 
 ## Santrauka

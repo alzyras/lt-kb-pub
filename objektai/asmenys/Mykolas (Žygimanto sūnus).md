@@ -343,6 +343,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 
 ## Ryšiai
 - Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
-- Mykolas (Žygimanto sūnus) keliavo į Mazovija
-- Mykolas (Žygimanto sūnus) puolė Severskas
+- Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]
+- Mykolas (Žygimanto sūnus) puolė [[objektai/vietos/Severskas]]
 - Mykolas (Žygimanto sūnus) kariavo prieš [[objektai/asmenys/Švitrigaila]]

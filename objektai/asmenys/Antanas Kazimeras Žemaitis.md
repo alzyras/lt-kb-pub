@@ -20,7 +20,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Antanas Kazimeras Žemaitis
 
 ## Santrauka
@@ -48,3 +47,6 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Antanas Kazimeras Žemaitis gimė [[objektai/vietos/Londonas]]

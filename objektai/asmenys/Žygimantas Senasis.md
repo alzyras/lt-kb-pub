@@ -1780,7 +1780,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - t-050
 
 ## Ryšiai
-- Žygimantas Senasis buvo valdovas Lenkija, Lietuva
-- Žygimantas Senasis valdė Lietuva
-- Žygimantas Senasis keliavo į Vilnius
+- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
+- Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
 - Žygimantas Senasis paskyrė [[objektai/asmenys/Jonas Hozijus]]

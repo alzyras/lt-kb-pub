@@ -4316,4 +4316,4 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: Salynas
+- Turėjo priklausinį: [[objektai/vietos/Salynas]]

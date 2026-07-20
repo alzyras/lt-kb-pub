@@ -137,5 +137,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-003
 
 ## Ryšiai
-- Ditrichas iš Ezbeko gynė Ragainė
-- Ditrichas iš Ezbeko siuntė į Ragainė
+- Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]
+- Ditrichas iš Ezbeko siuntė į [[objektai/vietos/Ragainė]]

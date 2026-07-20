@@ -532,3 +532,13 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+## Ryšiai
+- Turėjo valdovą: [[objektai/asmenys/Gotbrodas]]
+- Kariavo prieš: [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Turėjo priklausinį: [[objektai/grupes/Kuršiai]]
+- Švedai puolė [[objektai/vietos/Lietuva]]
+- Švedai apgulė [[objektai/vietos/Brasta]], [[objektai/vietos/Lietuvos Brasta]]
+- Švedai užėmė [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]], [[objektai/vietos/Livonija]]
+- Švedai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Švedai dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]

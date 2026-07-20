@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)
 
 ## Santrauka

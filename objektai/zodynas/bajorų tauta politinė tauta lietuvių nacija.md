@@ -23,7 +23,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # bajorų tauta politinė tauta lietuvių nacija
 
 ## Santrauka

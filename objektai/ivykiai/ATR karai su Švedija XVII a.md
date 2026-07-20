@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # ATR karai su Švedija XVII a
 
 ## Santrauka

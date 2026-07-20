@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Dovydas
 
 ## Santrauka
@@ -326,3 +325,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+## Ryšiai
+- Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

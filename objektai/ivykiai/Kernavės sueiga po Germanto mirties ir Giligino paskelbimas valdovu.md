@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu
 
 ## Santrauka

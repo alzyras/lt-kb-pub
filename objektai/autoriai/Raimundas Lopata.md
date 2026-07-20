@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Raimundas Lopata
 
 ## Santrauka
@@ -37,15 +36,6 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 ## Darbai
 
 - Lietuvos valstybingumo raida 1914–1918 metais
-
-## Ryšiai
-
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Laikotarpiai
-- XX amžius
-- XXI amžius
 
 ## Teiginiai
 

@@ -32,7 +32,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Saksonija
 
 ## Santrauka
@@ -225,3 +224,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Ryšiai
+- Buvo žygio kryptis: [[objektai/asmenys/Karolis XII]]

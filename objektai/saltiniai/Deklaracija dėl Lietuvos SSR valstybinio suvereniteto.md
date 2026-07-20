@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Deklaracija dėl Lietuvos SSR valstybinio suvereniteto
 
 ## Santrauka

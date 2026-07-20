@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos
 
 ## Santrauka

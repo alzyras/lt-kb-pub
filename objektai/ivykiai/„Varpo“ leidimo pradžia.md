@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „Varpo“ leidimo pradžia
 
 ## Santrauka

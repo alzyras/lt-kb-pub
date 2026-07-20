@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)
 
 ## Santrauka

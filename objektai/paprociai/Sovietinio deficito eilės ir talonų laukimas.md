@@ -22,7 +22,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Sovietinio deficito eilės ir talonų laukimas
 
 ## Santrauka

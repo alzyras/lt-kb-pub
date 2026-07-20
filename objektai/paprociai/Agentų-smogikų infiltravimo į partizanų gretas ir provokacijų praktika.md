@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
 ## Santrauka

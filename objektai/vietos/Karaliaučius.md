@@ -2161,5 +2161,5 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]
-- Prekiavo su: Lietuva
-- Karaliaučius priklausė Lietuva
+- Prekiavo su: [[objektai/vietos/Lietuva]]
+- Karaliaučius priklausė [[objektai/vietos/Lietuva]]

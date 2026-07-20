@@ -939,7 +939,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Pobravas]]
-- Notangai puolė Baiga, Bisenė, Kroicburgas
-- Notangai apgulė Kroicburgas
-- Notangai surengė žygį į Medininkai
+- Notangai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Kroicburgas]]
+- Notangai apgulė [[objektai/vietos/Kroicburgas]]
+- Notangai surengė žygį į [[objektai/vietos/Medininkai]]
 - Notangai paskyrė [[objektai/asmenys/Herkus Mantas]]

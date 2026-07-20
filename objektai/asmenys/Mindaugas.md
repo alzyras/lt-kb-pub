@@ -146,7 +146,7 @@ media_all_json: |-
 <a id="claim-t-113902"></a>
 - t-052
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -265,7 +265,7 @@ media_all_json: |-
 <a id="claim-t-113910"></a>
 - t-023
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -365,7 +365,7 @@ media_all_json: |-
 <a id="claim-t-113919"></a>
 - t-034
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi."
-  atnaujinta: "2026-07-19 23:55"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -2716,6 +2716,6 @@ media_all_json: |-
 - Sūnūs: [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - Tėvai: [[objektai/asmenys/Maukoldas]]
 - Rėmė Mindaugą (valdovas, XIII a.): [[objektai/grupes/Rusai]]
-- Mindaugas (valdovas, XIII a.) valdė Lietuva, Slanimas, Valkaviskas
-- Mindaugas (valdovas, XIII a.) puolė Cesys, Embutė, Kuršas, Mazovija, Prūsija, Semba
-- Mindaugas (valdovas, XIII a.) surengė žygį į Kuršas, Livonija
+- Mindaugas (valdovas, XIII a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Slanimas]], [[objektai/vietos/Valkaviskas]]
+- Mindaugas (valdovas, XIII a.) puolė [[objektai/vietos/Cesys]], [[objektai/vietos/Embutė]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Semba]]
+- Mindaugas (valdovas, XIII a.) surengė žygį į [[objektai/vietos/Kuršas]], [[objektai/vietos/Livonija]]

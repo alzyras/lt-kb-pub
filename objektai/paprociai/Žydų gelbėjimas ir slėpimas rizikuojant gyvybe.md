@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Žydų gelbėjimas ir slėpimas rizikuojant gyvybe
 
 ## Santrauka

@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)
 
 ## Santrauka

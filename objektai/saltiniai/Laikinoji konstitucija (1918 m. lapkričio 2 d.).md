@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Laikinoji konstitucija (1918 m. lapkričio 2 d.)
 
 ## Santrauka

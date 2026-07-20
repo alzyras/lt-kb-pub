@@ -38,39 +38,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Latviai
 
 ## Santrauka
 
 Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
-
-## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/A. Stapulionis]]
-- [[objektai/grupes/Andrejaus Vlasovo armija]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/autoriai/H. Lowmiański]]
-- [[objektai/grupes/Joniškėlio partizanų batalionas]]
-- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
-- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
-- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
-- [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Tautų Sąjungos susirinkimas]]
-- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
-- [[objektai/grupes/Vokiečių saksų batalionas]]
-- [[objektai/zodynas/sulatvinimas]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
-- [[objektai/grupes/Aisčiai]]
 
 ## Teiginiai
 
@@ -547,6 +519,26 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171132
+
+<a id="claim-t-188239"></a>
+- t-028
+  teiginys: "Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas."
+  atnaujinta: "2026-07-20 14:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Latviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latviai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171133
 
 <a id="claim-t-188240"></a>
 - t-029
@@ -1506,10 +1498,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   citata_rodoma: "6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.\nPaprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar\nXVII amžiuje Livonijoje buvo prieita prie maišto (jo nebuvo\ngalima sulaikyti be kraujo praliejimo) vien dėl tos priežasties,\nkad Vyhandės (Woehhande) upelis buvo užtvenktas, nes norė­\nta ant jo įrengti malūną ."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
+
 - id: c-171134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1683,3 +1677,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-037
+
+## Ryšiai
+- Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Vidžemė]]
+- Latviai priklausė [[objektai/grupes/Baltai]]

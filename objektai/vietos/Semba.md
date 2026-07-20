@@ -131,7 +131,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 <a id="claim-t-184198"></a>
 - t-148
   teiginys: "Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų."
-  atnaujinta: "2026-07-19 20:25"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -147,7 +147,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   semantiniai_rysiai: "Sembai siuntė į Baiga (0.90)"
   pagrindžia:
     - c-167583
-    - c-167585
+    - c-167586
 
 <a id="claim-t-184199"></a>
 - t-149
@@ -1156,7 +1156,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-148
     - t-150
 
 - id: c-167586
@@ -1179,6 +1178,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-148
     - t-151
 
 - id: c-167587
@@ -1426,5 +1426,5 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - Užėmė Sembą: [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Lietuviai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Henrikas Stange]]
 - Gyvenamoji vieta: [[objektai/asmenys/Dargis]]
-- Turėjo priklausinį: Pabečiai, Rinava, Romehnen
-- Semba priklausė Žemaitija
+- Turėjo priklausinį: [[objektai/vietos/Pabečiai]], [[objektai/vietos/Rinava]], [[objektai/vietos/Romehnen]]
+- Semba priklausė [[objektai/vietos/Žemaitija]]

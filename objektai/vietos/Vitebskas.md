@@ -392,7 +392,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-181141"></a>
 - t-030
   teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -655,7 +655,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 <a id="claim-t-187685"></a>
 - t-005
   teiginys: "Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę."
-  atnaujinta: "2026-07-19 23:57"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -2772,4 +2772,4 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
 - Puolė Vitebską: [[objektai/asmenys/Mechmet Girėjus]], [[objektai/asmenys/Švitrigaila]]
 - Užėmė Vitebską: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vitebskas priklausė Lietuva
+- Vitebskas priklausė [[objektai/vietos/Lietuva]]

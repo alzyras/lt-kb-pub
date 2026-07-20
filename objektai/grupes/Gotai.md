@@ -863,8 +863,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - Turėjo valdovą: [[objektai/asmenys/Amalas]], [[objektai/asmenys/Germanarikas]]
 - Puolė Gotai: [[objektai/grupes/Skiriai]]
 - Kariavo prieš: [[objektai/asmenys/Aurelianas Klaudijus]]
-- Gotai keliavo į Sarmatija
+- Gotai keliavo į [[objektai/vietos/Sarmatija]]
 - Gotai puolė [[objektai/grupes/Herulai]]
-- Gotai užėmė Baltija
+- Gotai užėmė [[objektai/vietos/Baltija]]
 - Gotai kariavo prieš [[objektai/grupes/Vandalai]]
-- Gotai gyveno Vysla
+- Gotai gyveno [[objektai/vietos/Vysla]]

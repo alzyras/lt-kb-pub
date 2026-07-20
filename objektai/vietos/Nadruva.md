@@ -715,4 +715,4 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Turėjo priklausinį: Katavos valsčius, Retavos valsčius, Romuva
+- Turėjo priklausinį: [[objektai/vietos/Katavos valsčius]], [[objektai/vietos/Retavos valsčius]], [[objektai/vietos/Romuva]]

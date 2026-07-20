@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Karinė sutartis su Prūsija (1790 m.)
 
 ## Santrauka

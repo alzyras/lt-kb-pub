@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)
 
 ## Santrauka

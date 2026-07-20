@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w
 
 ## Santrauka

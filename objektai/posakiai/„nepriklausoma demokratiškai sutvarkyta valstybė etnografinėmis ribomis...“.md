@@ -21,7 +21,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # „nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis...“
 
 ## Santrauka

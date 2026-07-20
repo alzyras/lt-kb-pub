@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai
 
 ## Santrauka

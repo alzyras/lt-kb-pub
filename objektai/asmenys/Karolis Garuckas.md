@@ -29,7 +29,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Karolis Garuckas (kunigas)
 
 ## Santrauka

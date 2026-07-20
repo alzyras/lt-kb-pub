@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Tauragnai
 
 ## Santrauka
@@ -120,3 +119,6 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+## Ryšiai
+- Užėmė Tauragnai: [[objektai/grupes/Lenkai]]

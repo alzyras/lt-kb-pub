@@ -831,6 +831,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginys: "Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-161873
@@ -1474,8 +1481,27 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-171697
 
-<a id="claim-t-188812"></a>
+<a id="claim-t-188811"></a>
 - t-003
+  teiginys: "Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį."
+  atnaujinta: "2026-07-20 14:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsija\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-171700
+
+<a id="claim-t-188812"></a>
+- t-004
   teiginys: "Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1497,7 +1523,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
     - c-171701
 
 <a id="claim-t-188814"></a>
-- t-004
+- t-005
   teiginys: "Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -1565,7 +1591,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 <a id="claim-t-192730"></a>
 - t-119
   teiginys: "Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis."
-  atnaujinta: "2026-07-19 23:53"
+  atnaujinta: "2026-07-20 14:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1582,7 +1608,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175500
-    - c-179392
 
 <a id="claim-t-192732"></a>
 - t-121
@@ -5259,10 +5284,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   citata_rodoma: "Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo\nmetais dar būta burtininkų pėdsakų, priskiria jiems ateities\nišpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip\natsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­\ngos juokdariams pripūsti lengvatikių galvas visokių niekų. Me-\nletijus pažino Prūsijoje moterį, kuriai burtininkas šitaip išpra­\nnašavo, kad jos sūnus nuskęsiąs jūroje -  parodė vaškinį sudu­\nžusį laivą ir aukštielninką plaukiantį žmogų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-171701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5284,7 +5311,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-171703
   autorius: "Teodoras Narbutas"
@@ -5309,7 +5336,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-175497
   autorius: "Teodoras Narbutas"
@@ -5666,7 +5693,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116
-    - t-119
     - t-135
 
 - id: c-179393
@@ -5759,7 +5785,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - Užėmė Prūsiją: [[objektai/grupes/Kryžiuočių ordinas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Inocentas IV]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Jonas iš Liuksemburgo]], [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Popiežius Honorijus II]]
-- Prekiavo su: [[objektai/grupes/Lietuviai]], Vilnius
+- Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Krivis]]
-- Turėjo priklausinį: Notanga, Plikoji Barta, Romovė, Salavija, Užnemunė
+- Turėjo priklausinį: [[objektai/vietos/Notanga]], [[objektai/vietos/Plikoji Barta]], [[objektai/vietos/Romovė]], [[objektai/vietos/Salavija]], [[objektai/vietos/Užnemunė]]

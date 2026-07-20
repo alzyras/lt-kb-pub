@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Pasaulio lietuvių kongresas Kaune (1935 m.)
 
 ## Santrauka

@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)
 
 ## Santrauka

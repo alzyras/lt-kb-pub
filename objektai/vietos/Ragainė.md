@@ -1470,4 +1470,4 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - Puolė Ragainę: [[objektai/grupes/Lietuviai]]
 - Gynė Ragainę: [[objektai/asmenys/Ditrichas iš Ezbeko]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Ditrichas iš Ezbeko]], [[objektai/asmenys/Otonas iš Bergo]], [[objektai/asmenys/Otonas iš Cedlico]]
-- Ragainė priklausė Lietuva
+- Ragainė priklausė [[objektai/vietos/Lietuva]]

@@ -27,7 +27,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Būdas senovės lietuvių, žemaičių ir kalnėnų
 
 ## Santrauka

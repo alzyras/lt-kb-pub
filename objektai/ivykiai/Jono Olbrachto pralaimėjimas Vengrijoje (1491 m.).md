@@ -28,7 +28,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)
 
 ## Santrauka

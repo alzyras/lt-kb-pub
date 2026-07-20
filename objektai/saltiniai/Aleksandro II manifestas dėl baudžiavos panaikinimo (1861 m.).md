@@ -26,7 +26,6 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # Aleksandro II manifestas dėl baudžiavos panaikinimo (1861 m.)
 
 ## Santrauka

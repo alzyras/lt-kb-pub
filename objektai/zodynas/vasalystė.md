@@ -27,18 +27,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-
 # vasalystė
 
 ## Santrauka
 
 Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.
-
-## Ryšiai
-
-### Susiję objektai
-- Moldavija
-- Torno
 
 ## Teiginiai
 
