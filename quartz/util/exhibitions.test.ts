@@ -151,8 +151,16 @@ describe("exhibition manifest", () => {
           assert.ok(file, `${claim.url} source file is missing`)
           const markdown = readFileSync(file, "utf8")
           const sections = parseEvidenceSections(markdown)
+          const anchoredGlobalIds = new Map(
+            [...markdown.matchAll(/<a id="claim-(t-\d+)"><\/a>\s*-\s*(t-\d+)/g)].map((match) => [
+              match[2],
+              match[1],
+            ]),
+          )
           const sourceClaim = (sections.get("Teiginiai") ?? []).find(
-            (entry) => entry.fields.get("global_id")?.trim() === claim.claimId,
+            (entry) =>
+              entry.fields.get("global_id")?.trim() === claim.claimId ||
+              anchoredGlobalIds.get(entry.id) === claim.claimId,
           )
           const sourceCitation = [...sections.values()]
             .flat()

@@ -133,6 +133,12 @@ function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
   const registry = new Map<string, ClaimRegistryEntry>()
   for (const filePath of listMarkdownFiles(root)) {
     const markdown = readFileSync(filePath, "utf8")
+    const anchoredGlobalIds = new Map(
+      [...markdown.matchAll(/<a id="claim-(t-\d+)"><\/a>\s*-\s*(t-\d+)/g)].map((match) => [
+        match[2],
+        match[1],
+      ]),
+    )
     const sections = parseEvidenceSections(markdown)
     const citations = new Map(citationEntries(sections).map((entry) => [entry.id, entry]))
     const pageTitle = evidenceDocumentContext(markdown)
@@ -144,7 +150,7 @@ function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
       .join("/")}`
     for (const claim of sections.get("Teiginiai") ?? []) {
       if (!claim.id.startsWith("t-")) continue
-      const globalId = claim.fields.get("global_id")?.trim()
+      const globalId = claim.fields.get("global_id")?.trim() || anchoredGlobalIds.get(claim.id)
       if (!globalId?.startsWith("t-") || registry.has(globalId)) continue
       registry.set(globalId, { claim, citations, pageTitle, urlPath })
     }

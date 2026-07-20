@@ -6248,6 +6248,11 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     L I E T U V O S  I S T O R I J A
     162
     Vytauto Didžiojo kulto kūrimo momentas: 1930 m.
+  citata_rodoma: |
+    Gerbti ir garbinti
+    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
+    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
+    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
